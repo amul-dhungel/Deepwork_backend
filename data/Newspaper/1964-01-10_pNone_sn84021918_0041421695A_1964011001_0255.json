@@ -1,0 +1,723 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7460,
+        "width": 4795,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011001/0255.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3726,
+                "y0": 1730,
+                "x1": 4554,
+                "y1": 1947
+            },
+            "class": "article",
+            "raw_text": "KOZ. COTTAGE BEAUTY SHOP\n1910 w. Sherman St.\nAL 8-0206",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1051,
+                "y0": 2570,
+                "x1": 2742,
+                "y1": 4418
+            },
+            "class": "article",
+            "raw_text": "you validity you have nsurabe\ninterest Otherwise the policy is void.\n\n\nyou property you have interest it. You\nhave equity have lent it. In\nyou stand lose if is destroyed damaged\nIn life Insurance. reasonable expect benefit from that\nThus you life that of wife, husband\nchild business associate employee in whose continued v\nyou have stake No insure stranger life\nThis would murder\n\n\nIn issued policy chlds aunt-inaw\nmurdered the child for the Insurance. The child father\ninsurance checking\nthe For by Investigating her insurabe interests\ncompany negligent and had helped\nbring about the child death.\n\n\nOf course, the got insurance\n\n\nWith only relation and dependence or benefit no\ninsurance interest exists.\n\n\nnsurable stake life or health must exist when\ncompany sells the policy though it need exist later on in\nillness death.\n\n\nproperty insured both\nwhen policy bought when the loss takes place.\n\n\nnsurable interest in property lessee buyer\ncreditor with mortgage lien, etc.\n\n\ndestroy for the insurance And\nstill serious, life.\n\n\nThis legal issued public service under super\nvision Arizona and written INFORM not\nadvise)",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1109,
+                "y0": 2342,
+                "x1": 1943,
+                "y1": 2553
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law\n\n\nINSURABLE INTEREST",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3720,
+                "y0": 3438,
+                "x1": 4537,
+                "y1": 4576
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The Supreme\nCourt said it will hold fast hear\nings in effort to reopen closed\npublic schools in Prince Edward\nCounty, Virginia, next fall on an\nintegrated basis.\n\n\nPublic schools have been\nclosed since 1859 because of the\ndesegregation ruling. County\nfunds we're used to establish\nprivate all white schools while\nNegro pupils have been without\nfacilities.\n\n\nThe court unanimously upheld\na decision striking down Loui-\nsiana law which requires race\nsegregation at public athletic\ncontests and other entertain\nmentS.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3732,
+                "y0": 2995,
+                "x1": 4286,
+                "y1": 3136
+            },
+            "class": "headline",
+            "raw_text": "! & M BARBER SHOP\nl2O5 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3743,
+                "y0": 3252,
+                "x1": 4484,
+                "y1": 3410
+            },
+            "class": "headline",
+            "raw_text": "SUPREME COURT\n\n\nHEARS RACE CASES",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 136,
+                "y0": 705,
+                "x1": 958,
+                "y1": 1836
+            },
+            "class": "article",
+            "raw_text": "An assistant professor of his\ntory at Princeton University has\npenned a new play, which is being\nshown at the Sheridan Square\nPlayhouse in New York City.\n\n\nMartin Duberman, SO, scholar\nand researcher, wrote, lin White\nAmerica\" an adaptation of docu-\nments concerned with the history\nof the Negro in the United States.\n\n\nThe drama is enacted with six\nperformers and a guitarist. The\nsentiments of great Americans\nincluding Thomas Jefferson and\nWoodrow Wilson, on the future of\nthe Negro in America.\n\n\nGloria Foster and Michael O\nSullivan have leading roles In\nthe drama.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 142,
+                "y0": 390,
+                "x1": 871,
+                "y1": 677
+            },
+            "class": "headline",
+            "raw_text": "NEW PLAY SHOWS\nRACE Feelings OF\n- h go EE-\nFAMOUS MEN IN\n\n\nAMERICAN HISTORY",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 153,
+                "y0": 2121,
+                "x1": 970,
+                "y1": 3072
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Mercury Records\nwill distribute the new Enroll\nGarner album Emusic from A\nNew Kind of Love-\"\n\n\nEnroll Garner composed the\nscore for the Paramount film\nstarring jeanne Woodward and\nPaul Newman. He Is accompanied\nwith a IS piece orchestra con-\nQuoted by Leith Stevens.\n\n\nThe record was jointly pro-\nduced by the Mercury Company\nand Octave Record. Four of the\nGarner tunes used in the movie\nhave been published recently by\nthe Famous Music Co.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 153,
+                "y0": 1929,
+                "x1": 842,
+                "y1": 2099
+            },
+            "class": "headline",
+            "raw_text": "Enroll GARNER\n\n\nPENS FILM MUSIC",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1948,
+                "y0": 4697,
+                "x1": 2765,
+                "y1": 6178
+            },
+            "class": "article",
+            "raw_text": "HOT SPRINGS. Ark. = Arson\nis the suspected cause of a\n$500, 900 fire which Quilted the\nchurch pastored by the president\nof the local branch of the Ma\ntional Association for the Ad-\nvancement of Colored People.\n\n\nReport of a private investiga-\nton initiated by trustees of the\nhistoric Roanoke Baptist Church,\nWilmington Avenue at Ozark\nStreet, indicates that the blaze\nthat destroyed the interior of\nthe edifice, Sunday, December %\nwas intentionally started.\n\n\nThe Rev. James Donald Rice\nis pastor of the 95-year old\nchurch. The minister s militant\nefforts in his capacity as NAACP\nhead, in winning civil rights VIC\ntories in the area has made him\nthe target of numerous threats\nupon his life and those of his\nfamily - the latest coming the\nnight before the fire.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1966,
+                "y0": 4516,
+                "x1": 2689,
+                "y1": 4680
+            },
+            "class": "headline",
+            "raw_text": "ARSON SUSPECTED\nIN CHURCH FIRE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 3720,
+                "y0": 2692,
+                "x1": 4549,
+                "y1": 2915
+            },
+            "class": "article",
+            "raw_text": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2822,
+                "y0": 4295,
+                "x1": 3639,
+                "y1": 5071
+            },
+            "class": "article",
+            "raw_text": "STOCKHOLM, Sweden For\nmer world heavyweight boxing\nchampion Floyd Patterson halted\nSante Amonti, the Italian heavy\nweight boxer, in his first come\nback fight. Patterson was de-\nfeated by Champion Sonny Liston\nlast July.\n\n\nSports reviewers say Patter-\nson, %, was not spectacular in\nhis win over the stocky Italian.\nA crowd of nearly $4,000 was\npresent.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2857,
+                "y0": 4108,
+                "x1": 3593,
+                "y1": 4273
+            },
+            "class": "headline",
+            "raw_text": "PATTERSON\nWINS OVER ITALIAN",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2822,
+                "y0": 2185,
+                "x1": 3645,
+                "y1": 4016
+            },
+            "class": "article",
+            "raw_text": "Eastlake Park Jr. Basketball\nClinic for young men interested\nin becoming game officials will\nbe held Jan. Is and Jan. is at\n7 pm. Frank Holloway will In\nstruct the session.\n\n\nDaily craft classes for young\npupils is directed by Beatrice\nJackson.\n\n\nModern dancing for girls ages\nIs and up = begins We'd, Jan.\nIS at 8 PM; Margaret Norris\nin charge.\n\n\nTeenage whist tournament\nTues. Jan. FL, E pm. Ethel\nDaniels, instructor.\n\n\nTeensWll Dances are held each\nTuesday, $40 pm. free.\n\n\nMetro baseball games-Tues.\nand We'd, 7 pm.\n\n\nClass c Boys League-Mon. 6\np.m., begins Jan. 20; Class E,\nSat.-l0 ann, begins Jan. 18;\nGirls sports-each Thurs, ppm.\nand Class D Boys League-Tues.\nWe'd, and Fri, $3.50 pm. begins\nJan. 81.\n\n\nClarence Jackson, director\nurges all students to take part in\nthe full winter schedule at East\nlake Park.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2822,
+                "y0": 2010,
+                "x1": 3639,
+                "y1": 2163
+            },
+            "class": "headline",
+            "raw_text": "EASTLAKE PARK\n\n\nHAS WINTER PROGRAM",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 3720,
+                "y0": 1043,
+                "x1": 4560,
+                "y1": 1195
+            },
+            "class": "article",
+            "raw_text": "DELOIS' BEAUTY SHOP\n\n\nlib W. Grant St. AL 4-056O",
+            "legibility": "Legible",
+            "full_article_id": 38,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3726,
+                "y0": 4732,
+                "x1": 4537,
+                "y1": 5339
+            },
+            "class": "article",
+            "raw_text": "IN MEMORANDA memory of\nthe late Mrs. Ella Owens, who\npassed away, Dec. 26, 1862.\n\n\nMy darling mother, you left\none year ago. l loved you but\nGod loved you best.\n\n\nYou will always remain in my\nheart.\n\n\nSadly missed by your daughter\n\n\nMrs. VILLA Mae Cason",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1068,
+                "y0": 4639,
+                "x1": 1885,
+                "y1": 4879
+            },
+            "class": "article",
+            "raw_text": "New church officers we're in\nstalled at First institutional Bap-\nfist Church, ll4l E. Jefferson,\nJan. 5th.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1103,
+                "y0": 4540,
+                "x1": 1652,
+                "y1": 4622
+            },
+            "class": "headline",
+            "raw_text": "CHURCH NEWS",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2857,
+                "y0": 5291,
+                "x1": 3657,
+                "y1": 5479
+            },
+            "class": "article",
+            "raw_text": "There are more than a billion\nilliterates in the world, 1000,\n900 of them in the United States.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964011001_0255",
+    "full articles": [
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "KOZ. COTTAGE BEAUTY SHOP\n1910 w. Sherman St.\nAL 8-0206",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3726,
+                    "y0": 1730,
+                    "x1": 4554,
+                    "y1": 1947
+                }
+            ],
+            "bbox": [
+                3726,
+                1730,
+                4554,
+                1947
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                20,
+                1
+            ],
+            "headline": "Discussing Arizona Law\n\n\nINSURABLE INTEREST",
+            "article": "you validity you have nsurabe\ninterest Otherwise the policy is void.\n\n\nyou property you have interest it. You\nhave equity have lent it. In\nyou stand lose if is destroyed damaged\nIn life Insurance. reasonable expect benefit from that\nThus you life that of wife, husband\nchild business associate employee in whose continued v\nyou have stake No insure stranger life\nThis would murder\n\n\nIn issued policy chlds aunt-inaw\nmurdered the child for the Insurance. The child father\ninsurance checking\nthe For by Investigating her insurabe interests\ncompany negligent and had helped\nbring about the child death.\n\n\nOf course, the got insurance\n\n\nWith only relation and dependence or benefit no\ninsurance interest exists.\n\n\nnsurable stake life or health must exist when\ncompany sells the policy though it need exist later on in\nillness death.\n\n\nproperty insured both\nwhen policy bought when the loss takes place.\n\n\nnsurable interest in property lessee buyer\ncreditor with mortgage lien, etc.\n\n\ndestroy for the insurance And\nstill serious, life.\n\n\nThis legal issued public service under super\nvision Arizona and written INFORM not\nadvise)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1109,
+                    "y0": 2342,
+                    "x1": 1943,
+                    "y1": 2553
+                },
+                {
+                    "x0": 1051,
+                    "y0": 2570,
+                    "x1": 2742,
+                    "y1": 4418
+                }
+            ],
+            "bbox": [
+                1051,
+                2342,
+                2742,
+                4418
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                27,
+                16,
+                2
+            ],
+            "headline": "! & M BARBER SHOP\nl2O5 w. Buckeye\n\nSUPREME COURT\n\n\nHEARS RACE CASES",
+            "article": "WASHINGTON The Supreme\nCourt said it will hold fast hear\nings in effort to reopen closed\npublic schools in Prince Edward\nCounty, Virginia, next fall on an\nintegrated basis.\n\n\nPublic schools have been\nclosed since 1859 because of the\ndesegregation ruling. County\nfunds we're used to establish\nprivate all white schools while\nNegro pupils have been without\nfacilities.\n\n\nThe court unanimously upheld\na decision striking down Loui-\nsiana law which requires race\nsegregation at public athletic\ncontests and other entertain\nmentS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3732,
+                    "y0": 2995,
+                    "x1": 4286,
+                    "y1": 3136
+                },
+                {
+                    "x0": 3743,
+                    "y0": 3252,
+                    "x1": 4484,
+                    "y1": 3410
+                },
+                {
+                    "x0": 3720,
+                    "y0": 3438,
+                    "x1": 4537,
+                    "y1": 4576
+                }
+            ],
+            "bbox": [
+                3720,
+                2995,
+                4537,
+                4576
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "NEW PLAY SHOWS\nRACE Feelings OF\n- h go EE-\nFAMOUS MEN IN\n\n\nAMERICAN HISTORY",
+            "article": "An assistant professor of his\ntory at Princeton University has\npenned a new play, which is being\nshown at the Sheridan Square\nPlayhouse in New York City.\n\n\nMartin Duberman, SO, scholar\nand researcher, wrote, lin White\nAmerica\" an adaptation of docu-\nments concerned with the history\nof the Negro in the United States.\n\n\nThe drama is enacted with six\nperformers and a guitarist. The\nsentiments of great Americans\nincluding Thomas Jefferson and\nWoodrow Wilson, on the future of\nthe Negro in America.\n\n\nGloria Foster and Michael O\nSullivan have leading roles In\nthe drama.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 142,
+                    "y0": 390,
+                    "x1": 871,
+                    "y1": 677
+                },
+                {
+                    "x0": 136,
+                    "y0": 705,
+                    "x1": 958,
+                    "y1": 1836
+                }
+            ],
+            "bbox": [
+                136,
+                390,
+                958,
+                1836
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "Enroll GARNER\n\n\nPENS FILM MUSIC",
+            "article": "NEW YORK-Mercury Records\nwill distribute the new Enroll\nGarner album Emusic from A\nNew Kind of Love-\"\n\n\nEnroll Garner composed the\nscore for the Paramount film\nstarring jeanne Woodward and\nPaul Newman. He Is accompanied\nwith a IS piece orchestra con-\nQuoted by Leith Stevens.\n\n\nThe record was jointly pro-\nduced by the Mercury Company\nand Octave Record. Four of the\nGarner tunes used in the movie\nhave been published recently by\nthe Famous Music Co.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 153,
+                    "y0": 1929,
+                    "x1": 842,
+                    "y1": 2099
+                },
+                {
+                    "x0": 153,
+                    "y0": 2121,
+                    "x1": 970,
+                    "y1": 3072
+                }
+            ],
+            "bbox": [
+                153,
+                1929,
+                970,
+                3072
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                17,
+                5
+            ],
+            "headline": "ARSON SUSPECTED\nIN CHURCH FIRE",
+            "article": "HOT SPRINGS. Ark. = Arson\nis the suspected cause of a\n$500, 900 fire which Quilted the\nchurch pastored by the president\nof the local branch of the Ma\ntional Association for the Ad-\nvancement of Colored People.\n\n\nReport of a private investiga-\nton initiated by trustees of the\nhistoric Roanoke Baptist Church,\nWilmington Avenue at Ozark\nStreet, indicates that the blaze\nthat destroyed the interior of\nthe edifice, Sunday, December %\nwas intentionally started.\n\n\nThe Rev. James Donald Rice\nis pastor of the 95-year old\nchurch. The minister s militant\nefforts in his capacity as NAACP\nhead, in winning civil rights VIC\ntories in the area has made him\nthe target of numerous threats\nupon his life and those of his\nfamily - the latest coming the\nnight before the fire.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1966,
+                    "y0": 4516,
+                    "x1": 2689,
+                    "y1": 4680
+                },
+                {
+                    "x0": 1948,
+                    "y0": 4697,
+                    "x1": 2765,
+                    "y1": 6178
+                }
+            ],
+            "bbox": [
+                1948,
+                4516,
+                2765,
+                6178
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                34
+            ],
+            "headline": "",
+            "article": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3720,
+                    "y0": 2692,
+                    "x1": 4549,
+                    "y1": 2915
+                }
+            ],
+            "bbox": [
+                3720,
+                2692,
+                4549,
+                2915
+            ],
+            "full_article_id": 35,
+            "id": "35_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "PATTERSON\nWINS OVER ITALIAN",
+            "article": "STOCKHOLM, Sweden For\nmer world heavyweight boxing\nchampion Floyd Patterson halted\nSante Amonti, the Italian heavy\nweight boxer, in his first come\nback fight. Patterson was de-\nfeated by Champion Sonny Liston\nlast July.\n\n\nSports reviewers say Patter-\nson, %, was not spectacular in\nhis win over the stocky Italian.\nA crowd of nearly $4,000 was\npresent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2857,
+                    "y0": 4108,
+                    "x1": 3593,
+                    "y1": 4273
+                },
+                {
+                    "x0": 2822,
+                    "y0": 4295,
+                    "x1": 3639,
+                    "y1": 5071
+                }
+            ],
+            "bbox": [
+                2822,
+                4108,
+                3639,
+                5071
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                14,
+                8
+            ],
+            "headline": "EASTLAKE PARK\n\n\nHAS WINTER PROGRAM",
+            "article": "Eastlake Park Jr. Basketball\nClinic for young men interested\nin becoming game officials will\nbe held Jan. Is and Jan. is at\n7 pm. Frank Holloway will In\nstruct the session.\n\n\nDaily craft classes for young\npupils is directed by Beatrice\nJackson.\n\n\nModern dancing for girls ages\nIs and up = begins We'd, Jan.\nIS at 8 PM; Margaret Norris\nin charge.\n\n\nTeenage whist tournament\nTues. Jan. FL, E pm. Ethel\nDaniels, instructor.\n\n\nTeensWll Dances are held each\nTuesday, $40 pm. free.\n\n\nMetro baseball games-Tues.\nand We'd, 7 pm.\n\n\nClass c Boys League-Mon. 6\np.m., begins Jan. 20; Class E,\nSat.-l0 ann, begins Jan. 18;\nGirls sports-each Thurs, ppm.\nand Class D Boys League-Tues.\nWe'd, and Fri, $3.50 pm. begins\nJan. 81.\n\n\nClarence Jackson, director\nurges all students to take part in\nthe full winter schedule at East\nlake Park.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2822,
+                    "y0": 2010,
+                    "x1": 3639,
+                    "y1": 2163
+                },
+                {
+                    "x0": 2822,
+                    "y0": 2185,
+                    "x1": 3645,
+                    "y1": 4016
+                }
+            ],
+            "bbox": [
+                2822,
+                2010,
+                3645,
+                4016
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                37
+            ],
+            "headline": "",
+            "article": "DELOIS' BEAUTY SHOP\n\n\nlib W. Grant St. AL 4-056O",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3720,
+                    "y0": 1043,
+                    "x1": 4560,
+                    "y1": 1195
+                }
+            ],
+            "bbox": [
+                3720,
+                1043,
+                4560,
+                1195
+            ],
+            "full_article_id": 38,
+            "id": "38_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "IN MEMORANDA memory of\nthe late Mrs. Ella Owens, who\npassed away, Dec. 26, 1862.\n\n\nMy darling mother, you left\none year ago. l loved you but\nGod loved you best.\n\n\nYou will always remain in my\nheart.\n\n\nSadly missed by your daughter\n\n\nMrs. VILLA Mae Cason",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3726,
+                    "y0": 4732,
+                    "x1": 4537,
+                    "y1": 5339
+                }
+            ],
+            "bbox": [
+                3726,
+                4732,
+                4537,
+                5339
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                21,
+                13
+            ],
+            "headline": "CHURCH NEWS",
+            "article": "New church officers we're in\nstalled at First institutional Bap-\nfist Church, ll4l E. Jefferson,\nJan. 5th.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1103,
+                    "y0": 4540,
+                    "x1": 1652,
+                    "y1": 4622
+                },
+                {
+                    "x0": 1068,
+                    "y0": 4639,
+                    "x1": 1885,
+                    "y1": 4879
+                }
+            ],
+            "bbox": [
+                1068,
+                4540,
+                1885,
+                4879
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "There are more than a billion\nilliterates in the world, 1000,\n900 of them in the United States.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2857,
+                    "y0": 5291,
+                    "x1": 3657,
+                    "y1": 5479
+                }
+            ],
+            "bbox": [
+                2857,
+                5291,
+                3657,
+                5479
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-01-10_pna_sn84021918_0041421695A_1964011001_0255.json"
+        }
+    ]
+}

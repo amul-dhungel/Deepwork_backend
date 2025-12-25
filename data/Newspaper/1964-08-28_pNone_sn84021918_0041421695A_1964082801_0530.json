@@ -1,0 +1,997 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7436,
+        "width": 4950,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082801/0530.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3009,
+                "y0": 5838,
+                "x1": 3556,
+                "y1": 6646
+            },
+            "class": "article",
+            "raw_text": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nTO solicit funds and enter toCon-\ntracts for the solicitation Of funds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance OF\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose Of the Corpora\nton and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable In con-\nnection herewith.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3015,
+                "y0": 5751,
+                "x1": 3225,
+                "y1": 5810
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE II",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 290,
+                "y0": 598,
+                "x1": 1116,
+                "y1": 1424
+            },
+            "class": "article",
+            "raw_text": "Irene Provine and Shirley\nRoundtree, of Chicago, are visit\ning their grandparents, MIR. and\nMrs. Worchester White and the\nJim Tituses.\n\n\nMr.. and Mrs. Robert Weather.\nspoon and their grandson, Ron\nson, have returned from a vaca-\nton in Illinois, Michigan and\nother points in the midwest.\n\n\nMIR. and Mrs. R. Smith njoyed\nthat trip to Hawaii.\n\n\nHats off to Mrs. Mary Stokes.\nwho worked so hard during the",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2986,
+                "y0": 2468,
+                "x1": 3806,
+                "y1": 3533
+            },
+            "class": "article",
+            "raw_text": "MONROE, Ca. : Four Negroes\nwe're shot in a racial disturbance\nnear service station in Negro\nneighborhood.\n\n\nEmmett Sims, president of the\nNAACP Youth Council here\nidentified two of the people shot\nas Benny Johns on, % and Troy\nMalcolm. None we're injured\nseriously.\n\n\nCause of the disturbance was\nnot Immediately known.\n\n\nEarlier in the evening, Sims\nsaid armed Negroes and whites\nfaced each other across street.\nBut the assistant chief of police\nsaid, we're just having little\ntrouble",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3015,
+                "y0": 2224,
+                "x1": 3457,
+                "y1": 2423
+            },
+            "class": "headline",
+            "raw_text": "4 SHOT\n\n\nIN GEORGIA",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2103,
+                "y0": 2434,
+                "x1": 2929,
+                "y1": 3428
+            },
+            "class": "article",
+            "raw_text": "The Texas Club of First In\nstitutional Baptist Church, ll4l\nE. Jefferson is spoons oring a\nspecial program Sum-, Aug. 80.\nE am.\n\n\nDR.. Kermit Long, of Central\nMethodist Church, and the Rev.\nl.. K. Williams, of Tanner Chapel\nAME Church will be guest speak\ners.\n\n\nJames l.. Davis, deacon and\npresident of the Texas Club is\nprogram chairman.\n\n\nThe Rev. A. G. Kendrick, pas\ntor of First Institutional Baptist\nChurch. invites everyone to at\ntend.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2120,
+                "y0": 2230,
+                "x1": 2667,
+                "y1": 2411
+            },
+            "class": "headline",
+            "raw_text": "CHURCH\n\n\nPROGRAM SET",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1191,
+                "y0": 592,
+                "x1": 2022,
+                "y1": 1464
+            },
+            "class": "article",
+            "raw_text": "anniversary program Of the Rev.\nIL. Dunbar.\n\n\nDebonairs Social and Art Club\nwill hold its annual Teen Time\nparty next month. Watch this\ncolumn for details.\n\n\nFun Club members will end the\nsummer with a moonlight cele-\nbration this Saturday.\n\n\nPastors aid society of New\nHome Baptist Church will spon-\nsor a program Sum-, Aug. 30. Rev.\nMundy will be the guest speaker.\n\n\nThought Of the week : Be We\nalways kind to others. Smith.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 825,
+                "y0": 400,
+                "x1": 1517,
+                "y1": 581
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3880,
+                "y0": 487,
+                "x1": 4695,
+                "y1": 1778
+            },
+            "class": "article",
+            "raw_text": "Board of US. Civil Service\nExaminers at the Veterans Ad-\nministration Hospital, 9TH Street\nand Indian School Road, Phoenix,\nArizona has announced that ap-\nplications for Food Service\nWorkers, WAL. $l.46 per hour.\nand WA-2, Sl.56 per hour, are\nnow being accepted. All quail\nfled applicants will receive con-\nsideration without regard to race.\ncreed. color. national origin, or\nsex. Further information and\nprocedures for filing may be\nsecured from the Board of Civil\nService Examiners at the\nHospital. Applications will end\nSeptember IA.\n\n\nFirst President inaugurated In\nWashington DC. = Thomas JEFF\nferson.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3892,
+                "y0": 383,
+                "x1": 4544,
+                "y1": 471
+            },
+            "class": "headline",
+            "raw_text": "JOB OPPORTUNITIES",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 3596,
+                "y0": 4688,
+                "x1": 4143,
+                "y1": 5688
+            },
+            "class": "article",
+            "raw_text": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix, Arizona\n\n\nMrs. Ardella Calbreath = 1926\nE. Adams Phoenix, Arizona\n\n\nMrs. Alvin Vera Richie 1889\nW. Monroe Phoenix, Arizona\n\n\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. Phoenix, Arizona\n\n\nMrs. Flora Ruffin - 1919 E.\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher 1888 E.\nMadison Phoenix, Arizona\nARTICLE w\n\n\nThat the time of the Com\nmencement of this Corporation\nshall be the date these Articles\nare filed in the office Of the Ari-\nIONA Corporation Commission of\nthe State Of Arizona. and ter\nmination thereof shall be twenty\nfive (25) years thereafter. with\nthe privilege Of renewal, as\nprovided by law.",
+            "legibility": "Legible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 3015,
+                "y0": 6744,
+                "x1": 3556,
+                "y1": 7146
+            },
+            "class": "article",
+            "raw_text": "All Of the following named per-\nsons, acting as incorporators\nherein, we're duly elected Direc-\ntors Of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit, on June\n\"a. 1864, at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 39,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 3021,
+                "y0": 6669,
+                "x1": 3242,
+                "y1": 6722
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE III",
+            "legibility": "Legible",
+            "full_article_id": 39,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 290,
+                "y0": 1609,
+                "x1": 1110,
+                "y1": 2028
+            },
+            "class": "article",
+            "raw_text": "Mrs. Robert H. Genevieve)\nHarper, 72o 3rd ST., was named\na member of the Frank Mangin\nRepublican for Corporation Com\nmission Endorsers' Committee.\nIn accepting a position on this\nstatewide committee, headed by",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 4194,
+                "y0": 4676,
+                "x1": 4735,
+                "y1": 4921
+            },
+            "class": "article",
+            "raw_text": "expulsion, and their rights,\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "legibility": "Legible",
+            "full_article_id": 40,
+            "reading_order_id": 0
+        },
+        {
+            "id": 42,
+            "bbox": {
+                "x0": 4182,
+                "y0": 7023,
+                "x1": 4735,
+                "y1": 7117
+            },
+            "class": "article",
+            "raw_text": "My Commission expires Dec.\nIS, 1868.",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": 0
+        },
+        {
+            "id": 43,
+            "bbox": {
+                "x0": 4293,
+                "y0": 6913,
+                "x1": 4555,
+                "y1": 6995
+            },
+            "class": "headline",
+            "raw_text": "Rose Anderson\nNotary Public",
+            "legibility": "Legible",
+            "full_article_id": 43,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2997,
+                "y0": 4688,
+                "x1": 3550,
+                "y1": 5723
+            },
+            "class": "article",
+            "raw_text": "ARTICLE OF INCORPORATION\n\n\nOF\nDEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors Of the\nDebonairs Social and Art Club,\ndo hereby associate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:\n\n\nARTTCLEI\n\n\nThe name Of the Corporation\nwill be Debonairs Social and\nArt Club, and the principal place\nOf business will be In Phoenix,\nArizona.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1196,
+                "y0": 1603,
+                "x1": 2011,
+                "y1": 2016
+            },
+            "class": "article",
+            "raw_text": "Attorney G. R. Carlock OF Phoe-\nnix, Mrs. Harper, long prominent\nin southside COP activities\nstated: ''I feel that active sup\nport of Frank Mangin is In the.\nbest interests of good govern\nment.\"",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 441,
+                "y0": 1475,
+                "x1": 1773,
+                "y1": 1586
+            },
+            "class": "headline",
+            "raw_text": "Mrs. Harper Endorses Mungin",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3596,
+                "y0": 5803,
+                "x1": 4143,
+                "y1": 6809
+            },
+            "class": "article",
+            "raw_text": "The affairs Of this Corporation\nshall be conducted by the Board\nof Directors which shall not con-\nsist Of less than five (5) or more\ntan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday in January Of each year.\nThe members Of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore,\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board Of Dr.\nrectors and Advisory Board oc-\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nTO serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 41,
+            "bbox": {
+                "x0": 3607,
+                "y0": 5199,
+                "x1": 3823,
+                "y1": 5252
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE w",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -2
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3607,
+                "y0": 5728,
+                "x1": 3817,
+                "y1": 5781
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE V",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3857,
+                "y0": 2033,
+                "x1": 4741,
+                "y1": 3556
+            },
+            "class": "article",
+            "raw_text": "has immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach = 2\n\n\nFlO4\nor recent expe rience\non century series aircraft\nRequirements are:\nl.. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, mis- stiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3863,
+                "y0": 1829,
+                "x1": 4712,
+                "y1": 2005
+            },
+            "class": "headline",
+            "raw_text": "LOCKHEED AIRCRAFT\n\n\nSER VICE COMPANY",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3590,
+                "y0": 6913,
+                "x1": 4137,
+                "y1": 7129
+            },
+            "class": "article",
+            "raw_text": "The Debonairs may organize\nas provided by laws. The\nqualifications of members and\nofficers and the conditions Of\ntheir election, suspension and",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3602,
+                "y0": 6837,
+                "x1": 3823,
+                "y1": 6890
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE vi",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 4188,
+                "y0": 4670,
+                "x1": 4741,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "expulsion, and their rights,\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.\nARTICLE VII\n\n\nAll Of the following named\npersons, acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected as\nAdvisory Members Of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\nMr.. Ted Cianas\n\n\nStatutory Agent:\n\n\nMr.. ]. D. Holmes, 1889 East\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nIs appointed Statutory Agent.\nARTICLES VIII\n\n\nThe private and individual pro-\npery Of the Members and Of\nhcers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and labili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson, q Notary\nPublic In. and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\nIS, 1868.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 4217,
+                "y0": 5832,
+                "x1": 4730,
+                "y1": 6042
+            },
+            "class": "article",
+            "raw_text": "MIR. J. D. Holmes, l4S9 East\n\n\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nIs appointed Statutory Agent.",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 4217,
+                "y0": 5768,
+                "x1": 4486,
+                "y1": 5816
+            },
+            "class": "headline",
+            "raw_text": "Statutory Agent:",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964082801_0530",
+    "full articles": [
+        {
+            "object_ids": [
+                26,
+                32
+            ],
+            "headline": "ARTICLE II",
+            "article": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nTO solicit funds and enter toCon-\ntracts for the solicitation Of funds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance OF\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose Of the Corpora\nton and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable In con-\nnection herewith.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3015,
+                    "y0": 5751,
+                    "x1": 3225,
+                    "y1": 5810
+                },
+                {
+                    "x0": 3009,
+                    "y0": 5838,
+                    "x1": 3556,
+                    "y1": 6646
+                }
+            ],
+            "bbox": [
+                3009,
+                5751,
+                3556,
+                6646
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Irene Provine and Shirley\nRoundtree, of Chicago, are visit\ning their grandparents, MIR. and\nMrs. Worchester White and the\nJim Tituses.\n\n\nMr.. and Mrs. Robert Weather.\nspoon and their grandson, Ron\nson, have returned from a vaca-\nton in Illinois, Michigan and\nother points in the midwest.\n\n\nMIR. and Mrs. R. Smith njoyed\nthat trip to Hawaii.\n\n\nHats off to Mrs. Mary Stokes.\nwho worked so hard during the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 290,
+                    "y0": 598,
+                    "x1": 1116,
+                    "y1": 1424
+                }
+            ],
+            "bbox": [
+                290,
+                598,
+                1116,
+                1424
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "4 SHOT\n\n\nIN GEORGIA",
+            "article": "MONROE, Ca. : Four Negroes\nwe're shot in a racial disturbance\nnear service station in Negro\nneighborhood.\n\n\nEmmett Sims, president of the\nNAACP Youth Council here\nidentified two of the people shot\nas Benny Johns on, % and Troy\nMalcolm. None we're injured\nseriously.\n\n\nCause of the disturbance was\nnot Immediately known.\n\n\nEarlier in the evening, Sims\nsaid armed Negroes and whites\nfaced each other across street.\nBut the assistant chief of police\nsaid, we're just having little\ntrouble",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3015,
+                    "y0": 2224,
+                    "x1": 3457,
+                    "y1": 2423
+                },
+                {
+                    "x0": 2986,
+                    "y0": 2468,
+                    "x1": 3806,
+                    "y1": 3533
+                }
+            ],
+            "bbox": [
+                2986,
+                2224,
+                3806,
+                3533
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "CHURCH\n\n\nPROGRAM SET",
+            "article": "The Texas Club of First In\nstitutional Baptist Church, ll4l\nE. Jefferson is spoons oring a\nspecial program Sum-, Aug. 80.\nE am.\n\n\nDR.. Kermit Long, of Central\nMethodist Church, and the Rev.\nl.. K. Williams, of Tanner Chapel\nAME Church will be guest speak\ners.\n\n\nJames l.. Davis, deacon and\npresident of the Texas Club is\nprogram chairman.\n\n\nThe Rev. A. G. Kendrick, pas\ntor of First Institutional Baptist\nChurch. invites everyone to at\ntend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2120,
+                    "y0": 2230,
+                    "x1": 2667,
+                    "y1": 2411
+                },
+                {
+                    "x0": 2103,
+                    "y0": 2434,
+                    "x1": 2929,
+                    "y1": 3428
+                }
+            ],
+            "bbox": [
+                2103,
+                2230,
+                2929,
+                3428
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "All Around\n\n\nBY FLORA RUFFIN",
+            "article": "anniversary program Of the Rev.\nIL. Dunbar.\n\n\nDebonairs Social and Art Club\nwill hold its annual Teen Time\nparty next month. Watch this\ncolumn for details.\n\n\nFun Club members will end the\nsummer with a moonlight cele-\nbration this Saturday.\n\n\nPastors aid society of New\nHome Baptist Church will spon-\nsor a program Sum-, Aug. 30. Rev.\nMundy will be the guest speaker.\n\n\nThought Of the week : Be We\nalways kind to others. Smith.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 825,
+                    "y0": 400,
+                    "x1": 1517,
+                    "y1": 581
+                },
+                {
+                    "x0": 1191,
+                    "y0": 592,
+                    "x1": 2022,
+                    "y1": 1464
+                }
+            ],
+            "bbox": [
+                825,
+                400,
+                2022,
+                1464
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                20,
+                5
+            ],
+            "headline": "JOB OPPORTUNITIES",
+            "article": "Board of US. Civil Service\nExaminers at the Veterans Ad-\nministration Hospital, 9TH Street\nand Indian School Road, Phoenix,\nArizona has announced that ap-\nplications for Food Service\nWorkers, WAL. $l.46 per hour.\nand WA-2, Sl.56 per hour, are\nnow being accepted. All quail\nfled applicants will receive con-\nsideration without regard to race.\ncreed. color. national origin, or\nsex. Further information and\nprocedures for filing may be\nsecured from the Board of Civil\nService Examiners at the\nHospital. Applications will end\nSeptember IA.\n\n\nFirst President inaugurated In\nWashington DC. = Thomas JEFF\nferson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3892,
+                    "y0": 383,
+                    "x1": 4544,
+                    "y1": 471
+                },
+                {
+                    "x0": 3880,
+                    "y0": 487,
+                    "x1": 4695,
+                    "y1": 1778
+                }
+            ],
+            "bbox": [
+                3880,
+                383,
+                4695,
+                1778
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                33
+            ],
+            "headline": "",
+            "article": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix, Arizona\n\n\nMrs. Ardella Calbreath = 1926\nE. Adams Phoenix, Arizona\n\n\nMrs. Alvin Vera Richie 1889\nW. Monroe Phoenix, Arizona\n\n\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. Phoenix, Arizona\n\n\nMrs. Flora Ruffin - 1919 E.\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher 1888 E.\nMadison Phoenix, Arizona\nARTICLE w\n\n\nThat the time of the Com\nmencement of this Corporation\nshall be the date these Articles\nare filed in the office Of the Ari-\nIONA Corporation Commission of\nthe State Of Arizona. and ter\nmination thereof shall be twenty\nfive (25) years thereafter. with\nthe privilege Of renewal, as\nprovided by law.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3596,
+                    "y0": 4688,
+                    "x1": 4143,
+                    "y1": 5688
+                }
+            ],
+            "bbox": [
+                3596,
+                4688,
+                4143,
+                5688
+            ],
+            "full_article_id": 34,
+            "id": "34_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                37,
+                38
+            ],
+            "headline": "ARTICLE III",
+            "article": "All Of the following named per-\nsons, acting as incorporators\nherein, we're duly elected Direc-\ntors Of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit, on June\n\"a. 1864, at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3021,
+                    "y0": 6669,
+                    "x1": 3242,
+                    "y1": 6722
+                },
+                {
+                    "x0": 3015,
+                    "y0": 6744,
+                    "x1": 3556,
+                    "y1": 7146
+                }
+            ],
+            "bbox": [
+                3015,
+                6669,
+                3556,
+                7146
+            ],
+            "full_article_id": 39,
+            "id": "39_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Mrs. Robert H. Genevieve)\nHarper, 72o 3rd ST., was named\na member of the Frank Mangin\nRepublican for Corporation Com\nmission Endorsers' Committee.\nIn accepting a position on this\nstatewide committee, headed by",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 290,
+                    "y0": 1609,
+                    "x1": 1110,
+                    "y1": 2028
+                }
+            ],
+            "bbox": [
+                290,
+                1609,
+                1110,
+                2028
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                39
+            ],
+            "headline": "",
+            "article": "expulsion, and their rights,\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4194,
+                    "y0": 4676,
+                    "x1": 4735,
+                    "y1": 4921
+                }
+            ],
+            "bbox": [
+                4194,
+                4676,
+                4735,
+                4921
+            ],
+            "full_article_id": 40,
+            "id": "40_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                43,
+                42
+            ],
+            "headline": "Rose Anderson\nNotary Public",
+            "article": "My Commission expires Dec.\nIS, 1868.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4293,
+                    "y0": 6913,
+                    "x1": 4555,
+                    "y1": 6995
+                },
+                {
+                    "x0": 4182,
+                    "y0": 7023,
+                    "x1": 4735,
+                    "y1": 7117
+                }
+            ],
+            "bbox": [
+                4182,
+                6913,
+                4735,
+                7117
+            ],
+            "full_article_id": 43,
+            "id": "43_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "ARTICLE OF INCORPORATION\n\n\nOF\nDEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors Of the\nDebonairs Social and Art Club,\ndo hereby associate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:\n\n\nARTTCLEI\n\n\nThe name Of the Corporation\nwill be Debonairs Social and\nArt Club, and the principal place\nOf business will be In Phoenix,\nArizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2997,
+                    "y0": 4688,
+                    "x1": 3550,
+                    "y1": 5723
+                }
+            ],
+            "bbox": [
+                2997,
+                4688,
+                3550,
+                5723
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                23,
+                12
+            ],
+            "headline": "Mrs. Harper Endorses Mungin",
+            "article": "Attorney G. R. Carlock OF Phoe-\nnix, Mrs. Harper, long prominent\nin southside COP activities\nstated: ''I feel that active sup\nport of Frank Mangin is In the.\nbest interests of good govern\nment.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 441,
+                    "y0": 1475,
+                    "x1": 1773,
+                    "y1": 1586
+                },
+                {
+                    "x0": 1196,
+                    "y0": 1603,
+                    "x1": 2011,
+                    "y1": 2016
+                }
+            ],
+            "bbox": [
+                441,
+                1475,
+                2011,
+                2016
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                41,
+                25,
+                14
+            ],
+            "headline": "ARTICLE w\n\nARTICLE V",
+            "article": "The affairs Of this Corporation\nshall be conducted by the Board\nof Directors which shall not con-\nsist Of less than five (5) or more\ntan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday in January Of each year.\nThe members Of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore,\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board Of Dr.\nrectors and Advisory Board oc-\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nTO serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3607,
+                    "y0": 5199,
+                    "x1": 3823,
+                    "y1": 5252
+                },
+                {
+                    "x0": 3607,
+                    "y0": 5728,
+                    "x1": 3817,
+                    "y1": 5781
+                },
+                {
+                    "x0": 3596,
+                    "y0": 5803,
+                    "x1": 4143,
+                    "y1": 6809
+                }
+            ],
+            "bbox": [
+                3596,
+                5199,
+                4143,
+                6809
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                29,
+                21
+            ],
+            "headline": "LOCKHEED AIRCRAFT\n\n\nSER VICE COMPANY",
+            "article": "has immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach = 2\n\n\nFlO4\nor recent expe rience\non century series aircraft\nRequirements are:\nl.. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, mis- stiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3863,
+                    "y0": 1829,
+                    "x1": 4712,
+                    "y1": 2005
+                },
+                {
+                    "x0": 3857,
+                    "y0": 2033,
+                    "x1": 4741,
+                    "y1": 3556
+                }
+            ],
+            "bbox": [
+                3857,
+                1829,
+                4741,
+                3556
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                28,
+                24
+            ],
+            "headline": "ARTICLE vi",
+            "article": "The Debonairs may organize\nas provided by laws. The\nqualifications of members and\nofficers and the conditions Of\ntheir election, suspension and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3602,
+                    "y0": 6837,
+                    "x1": 3823,
+                    "y1": 6890
+                },
+                {
+                    "x0": 3590,
+                    "y0": 6913,
+                    "x1": 4137,
+                    "y1": 7129
+                }
+            ],
+            "bbox": [
+                3590,
+                6837,
+                4137,
+                7129
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "expulsion, and their rights,\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.\nARTICLE VII\n\n\nAll Of the following named\npersons, acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected as\nAdvisory Members Of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\nMr.. Ted Cianas\n\n\nStatutory Agent:\n\n\nMr.. ]. D. Holmes, 1889 East\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nIs appointed Statutory Agent.\nARTICLES VIII\n\n\nThe private and individual pro-\npery Of the Members and Of\nhcers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and labili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson, q Notary\nPublic In. and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\nIS, 1868.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4188,
+                    "y0": 4670,
+                    "x1": 4741,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                4188,
+                4670,
+                4741,
+                7134
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        },
+        {
+            "object_ids": [
+                34,
+                30
+            ],
+            "headline": "Statutory Agent:",
+            "article": "MIR. J. D. Holmes, l4S9 East\n\n\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nIs appointed Statutory Agent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4217,
+                    "y0": 5768,
+                    "x1": 4486,
+                    "y1": 5816
+                },
+                {
+                    "x0": 4217,
+                    "y0": 5832,
+                    "x1": 4730,
+                    "y1": 6042
+                }
+            ],
+            "bbox": [
+                4217,
+                5768,
+                4730,
+                6042
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-08-28_pna_sn84021918_0041421695A_1964082801_0530.json"
+        }
+    ]
+}

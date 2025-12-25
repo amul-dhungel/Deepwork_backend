@@ -1,0 +1,155 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964120401/0654.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4913
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1296,
+                "y0": 701,
+                "x1": 2121,
+                "y1": 1699
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The National\nLabor Relations Board announced\n1t would appoint the first Negro\nhearing examiner in the Federal\nGovernment. He Is Arthur Chris\nTOPPER Jr., labor board at\ntorney.\n\n\nBoard hearing examiners\nwhose formal title is trial ex-\naminer conduct hearings and is\nsue decisions, renewable by the\nboard, in unfair labor practice\ncases.\n\n\nChristopher, 81 years old, has\nserved as labor board lawyer\nsince 1916. He is law school\ngraduate of Howard University.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1302,
+                "y0": 353,
+                "x1": 1929,
+                "y1": 662
+            },
+            "class": "headline",
+            "raw_text": "NLRB Appoints\nFirst N egro\nExaminer",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 392,
+                "y0": 707,
+                "x1": 1216,
+                "y1": 1699
+            },
+            "class": "article",
+            "raw_text": "Charges of first degree rape\nand kidnapping with intent to rape\nhave been filed against four men\nbefore Justice of the Peace Ida\nAnn Westfall.\n\n\nCharged we're Russell John Nc\nDaniel, l8, of 1880 E. Adams;\nLeslie Wilson, l9, of I'LL E.\nJefferson; Calvin c. Cooper, 20,\nof 628 S. 18th ST., and Rodney\nLa Rue Grimes, 18, of 1870 E.\nMadison.\n\n\nThey are accused of kidnap-\n! Ing 30-year-old Phoenixwoman\nnear 10th Street and Washington\nlast Friday and raping her In\ntheir car.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 398,
+                "y0": 371,
+                "x1": 1158,
+                "y1": 691
+            },
+            "class": "headline",
+            "raw_text": "4 YOUNG MEN\nCHARGED WITH\nRkPE-KIDNAPPING",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-12-04"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                4,
+                0
+            ],
+            "headline": "NLRB Appoints\nFirst N egro\nExaminer",
+            "article": "WASHINGTON The National\nLabor Relations Board announced\n1t would appoint the first Negro\nhearing examiner in the Federal\nGovernment. He Is Arthur Chris\nTOPPER Jr., labor board at\ntorney.\n\n\nBoard hearing examiners\nwhose formal title is trial ex-\naminer conduct hearings and is\nsue decisions, renewable by the\nboard, in unfair labor practice\ncases.\n\n\nChristopher, 81 years old, has\nserved as labor board lawyer\nsince 1916. He is law school\ngraduate of Howard University.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1302,
+                    "y0": 353,
+                    "x1": 1929,
+                    "y1": 662
+                },
+                {
+                    "x0": 1296,
+                    "y0": 701,
+                    "x1": 2121,
+                    "y1": 1699
+                }
+            ],
+            "bbox": [
+                1296,
+                353,
+                2121,
+                1699
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-04_p1_sn84021918_0041421695A_1964120401_0654.json"
+        },
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "4 YOUNG MEN\nCHARGED WITH\nRkPE-KIDNAPPING",
+            "article": "Charges of first degree rape\nand kidnapping with intent to rape\nhave been filed against four men\nbefore Justice of the Peace Ida\nAnn Westfall.\n\n\nCharged we're Russell John Nc\nDaniel, l8, of 1880 E. Adams;\nLeslie Wilson, l9, of I'LL E.\nJefferson; Calvin c. Cooper, 20,\nof 628 S. 18th ST., and Rodney\nLa Rue Grimes, 18, of 1870 E.\nMadison.\n\n\nThey are accused of kidnap-\n! Ing 30-year-old Phoenixwoman\nnear 10th Street and Washington\nlast Friday and raping her In\ntheir car.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 398,
+                    "y0": 371,
+                    "x1": 1158,
+                    "y1": 691
+                },
+                {
+                    "x0": 392,
+                    "y0": 707,
+                    "x1": 1216,
+                    "y1": 1699
+                }
+            ],
+            "bbox": [
+                392,
+                371,
+                1216,
+                1699
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-04_p1_sn84021918_0041421695A_1964120401_0654.json"
+        }
+    ]
+}

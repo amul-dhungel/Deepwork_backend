@@ -1,0 +1,369 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4813,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964072401/0481.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3793,
+                "y0": 2547,
+                "x1": 4606,
+                "y1": 3534
+            },
+            "class": "article",
+            "raw_text": "her audience to realize what the\nequality guaranteed by the Civil\nRights Act means and to know\nthat they would have to work\nhard to compensate for the years\nOf deprivation. eve must pro-\nvide the training that Negro youth\nneed. rather lamenting that they\ndo not have it.\"\n\n\nShe continued, \"Women have a\nspecial responsibility to make\ncertain that the new equal OPP\nportunities are utilized\" Gas\na group. Negro women can work\nwith other women's groups and\npublic officials to help insure\nequal opportunities\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2046,
+                "y0": 2518,
+                "x1": 2865,
+                "y1": 3517
+            },
+            "class": "article",
+            "raw_text": "James C. \"Jim'' Brown, SIS, is\na candidate for State Senator -,\nMaricopa County.\n\n\nHe has served as president of\nthe Arizona Democratic Associa-\nton; vice-president of the Sunny\nslope Democratic Club; member\nof the Southside Democratic Club:\nChairman of District 81: Vice\nchairman of District 80; Precinct\nCaptain of Cactus Precinct and\nWickenburg |, and, since 1860,\nhas been state delegate to the\nArizona State Democratic Con-\nvention.\n\n\nHe is the business manager\nfor Arizona Trailer Convoy.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2029,
+                "y0": 2245,
+                "x1": 2831,
+                "y1": 2484
+            },
+            "class": "headline",
+            "raw_text": "Jim Brown Seeks\nState Senate Post",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2922,
+                "y0": 2541,
+                "x1": 3747,
+                "y1": 3482
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON, DC. To OBJ\nserve the 89th birthday of\nMary Mcleod Bethune, founder\nof the National Council of\nNegro Women, inc. and\nBethune-Co okman College, a\n\"Bethune Birthday Weekend\"\nwas held at Bethune-Cookman\nCollege in Daytona Beach.\nFlorida. July 10 IL.\n\n\nMiss Dorothy l. Height.\nNational President, National\nCouncil of Negro Women was\nkeynote speaker. Using the con-\nference theme \"Women in the\nQuest for Equality\" she urged",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2928,
+                "y0": 2315,
+                "x1": 4252,
+                "y1": 2519
+            },
+            "class": "headline",
+            "raw_text": "Observed By NcNw In Florida",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 242,
+                "y0": 2883,
+                "x1": 1067,
+                "y1": 3586
+            },
+            "class": "article",
+            "raw_text": "NEW YORK NAACP has asked\n90 National chain businesses to\ndirect their outlets Gin areas\nwhere segregation has pre-\nvailed to comply i'm\nmediately' with the provisions\nof the new Civil Rights Act of\n1864.\n\n\nIn a letter NAACP Executive\nSecretary Roy Wilkins asked\nthem to notify al their southern\noutlets of the claw requirement",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 236,
+                "y0": 2761,
+                "x1": 1809,
+                "y1": 2861
+            },
+            "class": "headline",
+            "raw_text": "NAACP AIerts Firms To Heed Civil Rights Law",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1129,
+                "y0": 2889,
+                "x1": 1954,
+                "y1": 3575
+            },
+            "class": "article",
+            "raw_text": "for equal service to all\ncustomers\"\n\n\nBY July IL, replies indicating\ncompliance had been received\nfrom three oil companies Sun,\nTexaco and Standard Oil; two\ntheatre chains = Trans-Lux Cor\nporation and American Broad\ncasting Paramount Theatres,\nInc; and two variety store chains\nF. W. Woolworth and w. T.\nGrant.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2928,
+                "y0": 1752,
+                "x1": 4606,
+                "y1": 2281
+            },
+            "class": "article",
+            "raw_text": "Jacquene the eight year old daughter of Mr. and Mrs. Esaw\nLong, Ave.. celebrated birthday with family\nfriends Saturday evening, July l8.\n\n\nShown above Jacqeine. honoree, with tiara\nGregory. Anthony, Michael and Cynthia Long.\n\n\nAlso pictured Debbe Elaine and Daphne Easter; Frankie\nand Stee Banks; Debe Carolyn and Clovis Campbe Shirley\nand usyn Bum Debe and Sandra Matthews; Darlene Hans\nandD",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 242,
+                "y0": 2158,
+                "x1": 1949,
+                "y1": 2693
+            },
+            "class": "article",
+            "raw_text": "party honoring Phoenix\nday the home of Mrs. Jessie Jackson W.\nMrs. Beatrice Cofy, Mrs. Jacksons Waco\nTexas and her niece Miss Paulette Roverson, Marlin\nGuests included Mesdmes Maggie Scott Forene eres Mona\nWatson, Bonnie Davis Lula Clark, and Audrie Relf\n\n\nAlso attending Beverly and Larry Dunbar Mrs. Tiny\nPine Dunbar Dana Dnforth John MITCHELL Cornell Johnson\nand Clifford Johnson.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964072401_0481",
+    "full articles": [
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "her audience to realize what the\nequality guaranteed by the Civil\nRights Act means and to know\nthat they would have to work\nhard to compensate for the years\nOf deprivation. eve must pro-\nvide the training that Negro youth\nneed. rather lamenting that they\ndo not have it.\"\n\n\nShe continued, \"Women have a\nspecial responsibility to make\ncertain that the new equal OPP\nportunities are utilized\" Gas\na group. Negro women can work\nwith other women's groups and\npublic officials to help insure\nequal opportunities\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3793,
+                    "y0": 2547,
+                    "x1": 4606,
+                    "y1": 3534
+                }
+            ],
+            "bbox": [
+                3793,
+                2547,
+                4606,
+                3534
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-24_pna_sn84021918_0041421695A_1964072401_0481.json"
+        },
+        {
+            "object_ids": [
+                7,
+                3
+            ],
+            "headline": "Jim Brown Seeks\nState Senate Post",
+            "article": "James C. \"Jim'' Brown, SIS, is\na candidate for State Senator -,\nMaricopa County.\n\n\nHe has served as president of\nthe Arizona Democratic Associa-\nton; vice-president of the Sunny\nslope Democratic Club; member\nof the Southside Democratic Club:\nChairman of District 81: Vice\nchairman of District 80; Precinct\nCaptain of Cactus Precinct and\nWickenburg |, and, since 1860,\nhas been state delegate to the\nArizona State Democratic Con-\nvention.\n\n\nHe is the business manager\nfor Arizona Trailer Convoy.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2029,
+                    "y0": 2245,
+                    "x1": 2831,
+                    "y1": 2484
+                },
+                {
+                    "x0": 2046,
+                    "y0": 2518,
+                    "x1": 2865,
+                    "y1": 3517
+                }
+            ],
+            "bbox": [
+                2029,
+                2245,
+                2865,
+                3517
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-24_pna_sn84021918_0041421695A_1964072401_0481.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "Observed By NcNw In Florida",
+            "article": "WASHINGTON, DC. To OBJ\nserve the 89th birthday of\nMary Mcleod Bethune, founder\nof the National Council of\nNegro Women, inc. and\nBethune-Co okman College, a\n\"Bethune Birthday Weekend\"\nwas held at Bethune-Cookman\nCollege in Daytona Beach.\nFlorida. July 10 IL.\n\n\nMiss Dorothy l. Height.\nNational President, National\nCouncil of Negro Women was\nkeynote speaker. Using the con-\nference theme \"Women in the\nQuest for Equality\" she urged",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2928,
+                    "y0": 2315,
+                    "x1": 4252,
+                    "y1": 2519
+                },
+                {
+                    "x0": 2922,
+                    "y0": 2541,
+                    "x1": 3747,
+                    "y1": 3482
+                }
+            ],
+            "bbox": [
+                2922,
+                2315,
+                4252,
+                3482
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-24_pna_sn84021918_0041421695A_1964072401_0481.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "NAACP AIerts Firms To Heed Civil Rights Law",
+            "article": "NEW YORK NAACP has asked\n90 National chain businesses to\ndirect their outlets Gin areas\nwhere segregation has pre-\nvailed to comply i'm\nmediately' with the provisions\nof the new Civil Rights Act of\n1864.\n\n\nIn a letter NAACP Executive\nSecretary Roy Wilkins asked\nthem to notify al their southern\noutlets of the claw requirement",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 236,
+                    "y0": 2761,
+                    "x1": 1809,
+                    "y1": 2861
+                },
+                {
+                    "x0": 242,
+                    "y0": 2883,
+                    "x1": 1067,
+                    "y1": 3586
+                }
+            ],
+            "bbox": [
+                236,
+                2761,
+                1809,
+                3586
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-24_pna_sn84021918_0041421695A_1964072401_0481.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "for equal service to all\ncustomers\"\n\n\nBY July IL, replies indicating\ncompliance had been received\nfrom three oil companies Sun,\nTexaco and Standard Oil; two\ntheatre chains = Trans-Lux Cor\nporation and American Broad\ncasting Paramount Theatres,\nInc; and two variety store chains\nF. W. Woolworth and w. T.\nGrant.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1129,
+                    "y0": 2889,
+                    "x1": 1954,
+                    "y1": 3575
+                }
+            ],
+            "bbox": [
+                1129,
+                2889,
+                1954,
+                3575
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-24_pna_sn84021918_0041421695A_1964072401_0481.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Jacquene the eight year old daughter of Mr. and Mrs. Esaw\nLong, Ave.. celebrated birthday with family\nfriends Saturday evening, July l8.\n\n\nShown above Jacqeine. honoree, with tiara\nGregory. Anthony, Michael and Cynthia Long.\n\n\nAlso pictured Debbe Elaine and Daphne Easter; Frankie\nand Stee Banks; Debe Carolyn and Clovis Campbe Shirley\nand usyn Bum Debe and Sandra Matthews; Darlene Hans\nandD",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2928,
+                    "y0": 1752,
+                    "x1": 4606,
+                    "y1": 2281
+                }
+            ],
+            "bbox": [
+                2928,
+                1752,
+                4606,
+                2281
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-24_pna_sn84021918_0041421695A_1964072401_0481.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "party honoring Phoenix\nday the home of Mrs. Jessie Jackson W.\nMrs. Beatrice Cofy, Mrs. Jacksons Waco\nTexas and her niece Miss Paulette Roverson, Marlin\nGuests included Mesdmes Maggie Scott Forene eres Mona\nWatson, Bonnie Davis Lula Clark, and Audrie Relf\n\n\nAlso attending Beverly and Larry Dunbar Mrs. Tiny\nPine Dunbar Dana Dnforth John MITCHELL Cornell Johnson\nand Clifford Johnson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 242,
+                    "y0": 2158,
+                    "x1": 1949,
+                    "y1": 2693
+                }
+            ],
+            "bbox": [
+                242,
+                2158,
+                1949,
+                2693
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-07-24_pna_sn84021918_0041421695A_1964072401_0481.json"
+        }
+    ]
+}

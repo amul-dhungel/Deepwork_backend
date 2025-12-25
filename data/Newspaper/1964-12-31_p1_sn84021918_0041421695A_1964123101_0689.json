@@ -1,0 +1,172 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964123101/0689.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7376,
+        "width": 4855
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2709,
+                "y0": 668,
+                "x1": 3529,
+                "y1": 2703
+            },
+            "class": "article",
+            "raw_text": "NEW YORK CITY (ANPD\nSouthern churches and church\nunits are removing color bars\nfrom religious worship.\n\n\nWhite Methodist jurisdictions\nhave begun to explore possibili-\nties of merging with Negro con-\nferences, presently grouped to-\ngether in the nationwide Central\nJurisdiction.\n\n\nDuring its General Assembly\nin April, the Southern Presby-\nterrain Church ordered integra-\ntion of colored and white presby-\nteries. Many Southern Presby-\nterrain synods have approved the\nchurch's constitutional amend\nment which provided that mo\none shall be excluded from par\nticipation in public worship on\ngrounds of race, color or class\"\n\n\n1913 congregations of the Luz\ntheran Church in America have\nbeen urged by the North Carolina\nsynod to welcome all persons to\nworship, regardless of race.\n\n\nThe formerly lily-white En-\nGree Presbytery in South Caro-\nlima has voted to admit Negroes.\nA Negro clergyman, the Rev.\nE. E. Newberry of Charlotte,\nNorth Carolina, was elected mo-\nderator of the predominantly\nwhite Mecklenbery Presbytery.\n\n\nAnother Negro Minister, DR..",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2704,
+                "y0": 345,
+                "x1": 3465,
+                "y1": 657
+            },
+            "class": "headline",
+            "raw_text": "Negroes and\nWhites Integrute\nIn Church",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3591,
+                "y0": 328,
+                "x1": 4410,
+                "y1": 2669
+            },
+            "class": "article",
+            "raw_text": "Harry Richardson of Atlanta,\nhas been named President of\nthe Georgia Council of Churches.\n\n\nNegro ministers have been adj\nmitted to membership in the\nMinister'S Association of Column\nbia, South Carolina, for the first\ntime.\n\n\nSpearheading the integration\nfocus of Baptists, the Rev. c. E.\nAubrey of Dallas, an outstanding\nevangelist, recently preached\nthat \"racism is immoral\" He\nattacked Baptist \"footdragging'\non civil rights, contending 1t i'm\npedes the church's missionary\nwork.\n\n\nDespite the fact that the South\nern Baptist Convention voted\ndown strong rights resolution\nproposed at its annual convention\nin May, 98l of 1907 Texas Bap-\nfist churches have quietly opened\ntheir doors to Negroes.\n\n\nEven Atlanta's First Baptist\nChurch, from whose steps Neg\nroes were hurled bodily last year,\nhas voted to allow colored wor-\nshippers to sit in the sanctuary\nalong with whites.\n\n\nIn Mississippi, Roman Catho-\nlie Bishop has joined with Protes-\ntants to form Committee of\nConcern under Jackson Baptist\nminister, the Rev. William P.\nDavis. The purpose of the COM\nmittee is to raise funds to rebuild\nNegro churches in the state which\nhave been destroyed or damaged\nby racists bomb-throwers.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1822,
+                "y0": 2668,
+                "x1": 2635,
+                "y1": 3268
+            },
+            "class": "article",
+            "raw_text": "Those beliefs didn't stick with\nus, but preferences in meat cuts\nand varieties do, says the Co.\noperative Extension Service. By\nand large, Americans prefer the\nsame things their grandparents\ndid. For example, New Orleans\nfamilies eat five times as much\nveal as Wisconsinites and al\nmost all the national output\nof sWeetbreads is eaten in New\nYork City and Los Angeles.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "Negroes and\nWhites Integrute\nIn Church",
+            "article": "NEW YORK CITY (ANPD\nSouthern churches and church\nunits are removing color bars\nfrom religious worship.\n\n\nWhite Methodist jurisdictions\nhave begun to explore possibili-\nties of merging with Negro con-\nferences, presently grouped to-\ngether in the nationwide Central\nJurisdiction.\n\n\nDuring its General Assembly\nin April, the Southern Presby-\nterrain Church ordered integra-\ntion of colored and white presby-\nteries. Many Southern Presby-\nterrain synods have approved the\nchurch's constitutional amend\nment which provided that mo\none shall be excluded from par\nticipation in public worship on\ngrounds of race, color or class\"\n\n\n1913 congregations of the Luz\ntheran Church in America have\nbeen urged by the North Carolina\nsynod to welcome all persons to\nworship, regardless of race.\n\n\nThe formerly lily-white En-\nGree Presbytery in South Caro-\nlima has voted to admit Negroes.\nA Negro clergyman, the Rev.\nE. E. Newberry of Charlotte,\nNorth Carolina, was elected mo-\nderator of the predominantly\nwhite Mecklenbery Presbytery.\n\n\nAnother Negro Minister, DR..",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2704,
+                    "y0": 345,
+                    "x1": 3465,
+                    "y1": 657
+                },
+                {
+                    "x0": 2709,
+                    "y0": 668,
+                    "x1": 3529,
+                    "y1": 2703
+                }
+            ],
+            "bbox": [
+                2704,
+                345,
+                3529,
+                2703
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-31_p1_sn84021918_0041421695A_1964123101_0689.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Harry Richardson of Atlanta,\nhas been named President of\nthe Georgia Council of Churches.\n\n\nNegro ministers have been adj\nmitted to membership in the\nMinister'S Association of Column\nbia, South Carolina, for the first\ntime.\n\n\nSpearheading the integration\nfocus of Baptists, the Rev. c. E.\nAubrey of Dallas, an outstanding\nevangelist, recently preached\nthat \"racism is immoral\" He\nattacked Baptist \"footdragging'\non civil rights, contending 1t i'm\npedes the church's missionary\nwork.\n\n\nDespite the fact that the South\nern Baptist Convention voted\ndown strong rights resolution\nproposed at its annual convention\nin May, 98l of 1907 Texas Bap-\nfist churches have quietly opened\ntheir doors to Negroes.\n\n\nEven Atlanta's First Baptist\nChurch, from whose steps Neg\nroes were hurled bodily last year,\nhas voted to allow colored wor-\nshippers to sit in the sanctuary\nalong with whites.\n\n\nIn Mississippi, Roman Catho-\nlie Bishop has joined with Protes-\ntants to form Committee of\nConcern under Jackson Baptist\nminister, the Rev. William P.\nDavis. The purpose of the COM\nmittee is to raise funds to rebuild\nNegro churches in the state which\nhave been destroyed or damaged\nby racists bomb-throwers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3591,
+                    "y0": 328,
+                    "x1": 4410,
+                    "y1": 2669
+                }
+            ],
+            "bbox": [
+                3591,
+                328,
+                4410,
+                2669
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-31_p1_sn84021918_0041421695A_1964123101_0689.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Those beliefs didn't stick with\nus, but preferences in meat cuts\nand varieties do, says the Co.\noperative Extension Service. By\nand large, Americans prefer the\nsame things their grandparents\ndid. For example, New Orleans\nfamilies eat five times as much\nveal as Wisconsinites and al\nmost all the national output\nof sWeetbreads is eaten in New\nYork City and Los Angeles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1822,
+                    "y0": 2668,
+                    "x1": 2635,
+                    "y1": 3268
+                }
+            ],
+            "bbox": [
+                1822,
+                2668,
+                2635,
+                3268
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-31_p1_sn84021918_0041421695A_1964123101_0689.json"
+        }
+    ]
+}

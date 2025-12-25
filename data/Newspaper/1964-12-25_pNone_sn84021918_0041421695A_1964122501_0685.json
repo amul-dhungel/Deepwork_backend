@@ -1,0 +1,563 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-25",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7376,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-25",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964122501/0685.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3716,
+                "y0": 1383,
+                "x1": 4264,
+                "y1": 1649
+            },
+            "class": "article",
+            "raw_text": "HILLS PHOENlClAN\nBEAUTY SHOP\n2ll0 E. Jefferson\nAL 3-oo8o",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3710,
+                "y0": 800,
+                "x1": 4529,
+                "y1": 1009
+            },
+            "class": "article",
+            "raw_text": "ALBRTTTONS BEAUTY SHOP\nl246 E Monroe\nAL 4-35o7",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 131,
+                "y0": 2789,
+                "x1": 951,
+                "y1": 3769
+            },
+            "class": "article",
+            "raw_text": "CHICAGO Chicago school\nsuperintendent Willis must de-\neide whether to act on a demand\nthat a James Baldwin best seller\nnovel be removed from the read\ning list of special course at\na local junior college.\n\n\nThis announcement was made\nby Dean Oscar E. Shabat of the\nWright Junior College, who had\ndefended the book.\n\n\nProtest against Another\nCountry which contains open\ndiscussion of the race issue and\nhomosexuiality was lodged by\nRaymond A. Snyder. father of a\nnight course student, 26-year-old",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1923,
+                "y0": 3290,
+                "x1": 2737,
+                "y1": 4639
+            },
+            "class": "article",
+            "raw_text": "NEW YORK (ANPD A recent\nstudy of SO selected cities re-\nGently underlines the obstacles\nbesetting the Negroes realization\nOf the fruits ofthe affluent Ameri-\ncan life.\n\n\nThe figures, based on 1860\nCensus figures covering housing,\neducation, wages and employ\nment, reveal that from so to \"a\nper cent of Negro wage earners\nare found in four unskilled cate\ngories. They are: operative,\nhous ehold, service and laborer.\nThe term operative refers to an\nunskilled mill or factory worker.\n\n\nThe area with the largest con-\ncentration of Negro wage earners\nwho are in the four categories\nis New York City which has 273,\nee7 classified as operatives,\nhousehold and service, and 60,207\nas laborers.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1935,
+                "y0": 2904,
+                "x1": 2679,
+                "y1": 3279
+            },
+            "class": "headline",
+            "raw_text": "NEGRO\nRATES LOW\n\n\nIN JOB SKILLS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2811,
+                "y0": 3082,
+                "x1": 3619,
+                "y1": 4299
+            },
+            "class": "article",
+            "raw_text": "DETROIT = (ANPD = Mrs.\nVivian Ashford Of Moss Point,\nMiss. was awarded $4,000 in\njudgment against the City Of High\nland Park, for the fatal shooting Of\nher husband in February, 1868.\nMrs. Ashford who moved to the\nSouthern town sometime after the\ntragedy, had filed suit for SIS 900\nafter her husband, Willie, was\nshot and killed by city police\nman while allegedly attempting to\nescape from a courtroom where\nhe had been sentenced to 20 days\nin Jail or Slo0 fine on charge of\ndriving while drunk. At the time\nof the incident, the National Law\nyers Guild filed a protest and\ndemanded suspension of the po-\nliceman involved from the de-\npartment.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2805,
+                "y0": 2944,
+                "x1": 3630,
+                "y1": 3060
+            },
+            "class": "headline",
+            "raw_text": "Widow Gets Award",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 3704,
+                "y0": 1077,
+                "x1": 4471,
+                "y1": 1332
+            },
+            "class": "article",
+            "raw_text": "DELOIS' BEAUTY SHOP\nlll3 W. Grant\nAL 4-0560",
+            "legibility": "Legible",
+            "full_article_id": 36,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1042,
+                "y0": 2777,
+                "x1": 1855,
+                "y1": 3758
+            },
+            "class": "article",
+            "raw_text": "Maureen Synder. In letter to\nthe dean. he objected to the book\non the reading schedule, calling\nit \"the worst scum l have ever\nread\"\n\n\nAfter retaining a two hour\nmeeting with members of the\nfaculty, Dean Shabat had decided\nto keep the Baldwin book. De-\nclaring that he does not neces-\nsarily condone the contents of the\nbook. the college administrator\ncharacterized the Baldwin work\nas dealing properly with 1.-THE\ntopics Of love and hate. a char\nacteristic of the literature of the\n10Th century,",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 327,
+                "y0": 2644,
+                "x1": 1613,
+                "y1": 2761
+            },
+            "class": "headline",
+            "raw_text": "Baldwin Book Challenged",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3704,
+                "y0": 3411,
+                "x1": 4523,
+                "y1": 3850
+            },
+            "class": "article",
+            "raw_text": "8 SALES LADIES WANTED\n\n\nExcellent Earnings for 60\ngerters. No experience ne\ncessary-year round work. Must\nhave car. Phone 27e-4274\nPITZENS WIG VILLA\n3429 E. Thomas",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3704,
+                "y0": 3117,
+                "x1": 4523,
+                "y1": 3337
+            },
+            "class": "article",
+            "raw_text": "Lovely Home for rent 2 bed\nrooms Furnished -2104 z. Park\nway Dr..",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3710,
+                "y0": 2910,
+                "x1": 4327,
+                "y1": 3049
+            },
+            "class": "headline",
+            "raw_text": "EARL'S BARBER SHOP\nll52 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3704,
+                "y0": 2356,
+                "x1": 4529,
+                "y1": 2605
+            },
+            "class": "article",
+            "raw_text": "- l5A' - .\nJACKSONS BEAUTY SHOPPE\n1898 E. Madison Ill\nAL 2-954l",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3710,
+                "y0": 518,
+                "x1": 4523,
+                "y1": 698
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE's BEAUTY SALON\nl4ls E. Washington\n25e-05ll",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3744,
+                "y0": 288,
+                "x1": 4448,
+                "y1": 496
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED -.\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964122501_0685",
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "HILLS PHOENlClAN\nBEAUTY SHOP\n2ll0 E. Jefferson\nAL 3-oo8o",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3716,
+                    "y0": 1383,
+                    "x1": 4264,
+                    "y1": 1649
+                }
+            ],
+            "bbox": [
+                3716,
+                1383,
+                4264,
+                1649
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "ALBRTTTONS BEAUTY SHOP\nl246 E Monroe\nAL 4-35o7",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3710,
+                    "y0": 800,
+                    "x1": 4529,
+                    "y1": 1009
+                }
+            ],
+            "bbox": [
+                3710,
+                800,
+                4529,
+                1009
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "CHICAGO Chicago school\nsuperintendent Willis must de-\neide whether to act on a demand\nthat a James Baldwin best seller\nnovel be removed from the read\ning list of special course at\na local junior college.\n\n\nThis announcement was made\nby Dean Oscar E. Shabat of the\nWright Junior College, who had\ndefended the book.\n\n\nProtest against Another\nCountry which contains open\ndiscussion of the race issue and\nhomosexuiality was lodged by\nRaymond A. Snyder. father of a\nnight course student, 26-year-old",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 131,
+                    "y0": 2789,
+                    "x1": 951,
+                    "y1": 3769
+                }
+            ],
+            "bbox": [
+                131,
+                2789,
+                951,
+                3769
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                7,
+                3
+            ],
+            "headline": "NEGRO\nRATES LOW\n\n\nIN JOB SKILLS",
+            "article": "NEW YORK (ANPD A recent\nstudy of SO selected cities re-\nGently underlines the obstacles\nbesetting the Negroes realization\nOf the fruits ofthe affluent Ameri-\ncan life.\n\n\nThe figures, based on 1860\nCensus figures covering housing,\neducation, wages and employ\nment, reveal that from so to \"a\nper cent of Negro wage earners\nare found in four unskilled cate\ngories. They are: operative,\nhous ehold, service and laborer.\nThe term operative refers to an\nunskilled mill or factory worker.\n\n\nThe area with the largest con-\ncentration of Negro wage earners\nwho are in the four categories\nis New York City which has 273,\nee7 classified as operatives,\nhousehold and service, and 60,207\nas laborers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1935,
+                    "y0": 2904,
+                    "x1": 2679,
+                    "y1": 3279
+                },
+                {
+                    "x0": 1923,
+                    "y0": 3290,
+                    "x1": 2737,
+                    "y1": 4639
+                }
+            ],
+            "bbox": [
+                1923,
+                2904,
+                2737,
+                4639
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "Widow Gets Award",
+            "article": "DETROIT = (ANPD = Mrs.\nVivian Ashford Of Moss Point,\nMiss. was awarded $4,000 in\njudgment against the City Of High\nland Park, for the fatal shooting Of\nher husband in February, 1868.\nMrs. Ashford who moved to the\nSouthern town sometime after the\ntragedy, had filed suit for SIS 900\nafter her husband, Willie, was\nshot and killed by city police\nman while allegedly attempting to\nescape from a courtroom where\nhe had been sentenced to 20 days\nin Jail or Slo0 fine on charge of\ndriving while drunk. At the time\nof the incident, the National Law\nyers Guild filed a protest and\ndemanded suspension of the po-\nliceman involved from the de-\npartment.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2805,
+                    "y0": 2944,
+                    "x1": 3630,
+                    "y1": 3060
+                },
+                {
+                    "x0": 2811,
+                    "y0": 3082,
+                    "x1": 3619,
+                    "y1": 4299
+                }
+            ],
+            "bbox": [
+                2805,
+                2944,
+                3630,
+                4299
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                35
+            ],
+            "headline": "",
+            "article": "DELOIS' BEAUTY SHOP\nlll3 W. Grant\nAL 4-0560",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3704,
+                    "y0": 1077,
+                    "x1": 4471,
+                    "y1": 1332
+                }
+            ],
+            "bbox": [
+                3704,
+                1077,
+                4471,
+                1332
+            ],
+            "full_article_id": 36,
+            "id": "36_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                13,
+                6
+            ],
+            "headline": "Baldwin Book Challenged",
+            "article": "Maureen Synder. In letter to\nthe dean. he objected to the book\non the reading schedule, calling\nit \"the worst scum l have ever\nread\"\n\n\nAfter retaining a two hour\nmeeting with members of the\nfaculty, Dean Shabat had decided\nto keep the Baldwin book. De-\nclaring that he does not neces-\nsarily condone the contents of the\nbook. the college administrator\ncharacterized the Baldwin work\nas dealing properly with 1.-THE\ntopics Of love and hate. a char\nacteristic of the literature of the\n10Th century,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 327,
+                    "y0": 2644,
+                    "x1": 1613,
+                    "y1": 2761
+                },
+                {
+                    "x0": 1042,
+                    "y0": 2777,
+                    "x1": 1855,
+                    "y1": 3758
+                }
+            ],
+            "bbox": [
+                327,
+                2644,
+                1855,
+                3758
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "8 SALES LADIES WANTED\n\n\nExcellent Earnings for 60\ngerters. No experience ne\ncessary-year round work. Must\nhave car. Phone 27e-4274\nPITZENS WIG VILLA\n3429 E. Thomas",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3704,
+                    "y0": 3411,
+                    "x1": 4523,
+                    "y1": 3850
+                }
+            ],
+            "bbox": [
+                3704,
+                3411,
+                4523,
+                3850
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                18,
+                16
+            ],
+            "headline": "EARL'S BARBER SHOP\nll52 E. Washington",
+            "article": "Lovely Home for rent 2 bed\nrooms Furnished -2104 z. Park\nway Dr..",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3710,
+                    "y0": 2910,
+                    "x1": 4327,
+                    "y1": 3049
+                },
+                {
+                    "x0": 3704,
+                    "y0": 3117,
+                    "x1": 4523,
+                    "y1": 3337
+                }
+            ],
+            "bbox": [
+                3704,
+                2910,
+                4523,
+                3337
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "- l5A' - .\nJACKSONS BEAUTY SHOPPE\n1898 E. Madison Ill\nAL 2-954l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3704,
+                    "y0": 2356,
+                    "x1": 4529,
+                    "y1": 2605
+                }
+            ],
+            "bbox": [
+                3704,
+                2356,
+                4529,
+                2605
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        },
+        {
+            "object_ids": [
+                28,
+                30
+            ],
+            "headline": "CLASSIFIED -.\n\n\nDIRECTORY",
+            "article": "ADRIANNE's BEAUTY SALON\nl4ls E. Washington\n25e-05ll",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3744,
+                    "y0": 288,
+                    "x1": 4448,
+                    "y1": 496
+                },
+                {
+                    "x0": 3710,
+                    "y0": 518,
+                    "x1": 4523,
+                    "y1": 698
+                }
+            ],
+            "bbox": [
+                3710,
+                288,
+                4523,
+                698
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-12-25_pna_sn84021918_0041421695A_1964122501_0685.json"
+        }
+    ]
+}

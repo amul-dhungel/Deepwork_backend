@@ -1,0 +1,269 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061901/0441.jp2",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7427,
+        "width": 5006
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3785,
+                "y0": 539,
+                "x1": 4604,
+                "y1": 1556
+            },
+            "class": "article",
+            "raw_text": "Applications are being &C\ncepted from present or former\nfederal employees who have cur\nrent Civil Service reinstatement\neligibility for:\n\n\nJanitor, W.. $l.9 to $2.l9\nper Hour applicants musthave\nVeteran preference)\n\n\nLaborer, VS., S2.08 to $3.50\nper hour\n\n\nQualified persons should mail\nor bring a completed Standard\nForm 81, Application for federal\nemployment to:\n\n\nCivilian Pers onnel Office\n\n\nBuilding l64\n\n\nLuke Air Force Base, Arizona",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3785,
+                "y0": 411,
+                "x1": 4447,
+                "y1": 511
+            },
+            "class": "headline",
+            "raw_text": "JOB OPPORTUNITIES",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3808,
+                "y0": 1618,
+                "x1": 4650,
+                "y1": 2368
+            },
+            "class": "article",
+            "raw_text": "Lightweight, non-woven inter-\nfacings made of 100 per cent\nDacron are particularly suited for\ngarments made of wash-and-wear\nfabrics.\n\n\nIn addition to regular\" inter-\nfacings for normal sewing, there\nare all-bias stretch versions to go\nwith stretch fabrics and garment\nstress areas - and iron-on inter-\nfacings designed for edge tapes,\nhens, and Wristbands. All are as\nwashable as the fabrics they\nreinforce.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2903,
+                "y0": 649,
+                "x1": 3722,
+                "y1": 2600
+            },
+            "class": "article",
+            "raw_text": "iodicals as Ladies' Home Jour-\nnal, Health, Woman's Day and\nthe Lincoln Herald.\n\n\nA collector Of old books and\npamphlets in the field Of Amer\nicana, and an active member Of\nvarious historical societies,\nMrs. Dannett Is Director of the\nCivil War Round Table of New\nYork and was selected for the\nnine-woman Civil War National\nCentennial Committee. She is\nmarried to Emmanuel Dannett,\nprominent New York attorney.\n\n\nNoel N. Marder, president of\nEducational Heritage. the York\ners, New York publishing firm\nwhich is producing \"Negro Herr\ntage Library at cost Of more\nthan 1000. 900. said he believes\n\"Profiles Of Negro Women\" will\nbe regarded as the greatest single\nrepository on Negro Women and\ntheir contributions to the pro-\ngress of the Negro in America.\n\n\nThe first volume covers the\nperiod from 1919. when Negroes\narrived in the United States and\nCanada, to mid-20th century,\nending with the outstanding\nachievements of such women as\nDR.. Mary Mcleod Bethune and\nMary Church Terrell.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2033,
+                "y0": 377,
+                "x1": 3269,
+                "y1": 610
+            },
+            "class": "headline",
+            "raw_text": "Negro Women To Be Featured\nIn New Sc Series",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2021,
+                "y0": 655,
+                "x1": 2834,
+                "y1": 2652
+            },
+            "class": "article",
+            "raw_text": "NEW YORK A two-volume\nset \"Profiles Of Negro Women\"\nhighlighting the contribution of\nNegro women to culture and pro-\ngress of America, is a part of\nthe forthcoming Negro Heritage\nLibrary.\n\n\nWritten by Sylvia G. L. Dan\nnett, Civil War historian and\nauthor. the completed work will\nprovide comprehensive and doc\numented accounts of the strate-\ngic role Negro women played\nduring difficult days Of slavery\nand Reconstruction. This first\nvolume will be published with\nseven other volumes in late sum-\nmer. The initial volume is died.\nicated to Mrs. James Weldon\nJohns on.\n\n\nA graduate of Douglass Col\nlege in New Jersey, Mrs. Dan\nnett has worked as a freelance\nadvertising and publicity copy\nwriter. She is co-author of Defy\nthe Tempest\" and \"Down Mem\nDRY Lane\" and is editor and COM\npiler of \"Noble Women of the\nNorth\"\n\n\nIn addition, Mrs. Dannett is\nauthor of \"a Treasury Of Civil\nWar Humor\" and Of the biography\n\"She Rode with the Generals\"\nShe has contributed to such per-",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 251,
+                "y0": 2001,
+                "x1": 1935,
+                "y1": 2896
+            },
+            "class": "article",
+            "raw_text": "Miss Georgia and Harvey Lindsey we're married at\npm Sunday Phillips Memorial Church. Rev. L. j. Harper\noiciaed.\n\n\nMr. and Mrs. George F. Mathews 1918\nSherman. bridegroom is the Of Mrs. j. D. Holiness\n10Th ST.. and Harvey Lindsey Sr. OF Los Angeles\n\n\nMathews maid of honor and Miss Alice Holmes\nbridesmaid.\n\n\nAttending bridegroom Leonard CALDWELL best man. and\nGerald Jones' Hartley Bob Corners Leon Long Willie Bos-\nwe'll, ushers\n\n\nAfter the ceremony reception was held in the church.\n\n\nPhoenix The bride is nurse at Coca\nHospital and the bridegroom is student at Arizona State\nUniversity where he is ma joring in education.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-19"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "JOB OPPORTUNITIES",
+            "article": "Applications are being &C\ncepted from present or former\nfederal employees who have cur\nrent Civil Service reinstatement\neligibility for:\n\n\nJanitor, W.. $l.9 to $2.l9\nper Hour applicants musthave\nVeteran preference)\n\n\nLaborer, VS., S2.08 to $3.50\nper hour\n\n\nQualified persons should mail\nor bring a completed Standard\nForm 81, Application for federal\nemployment to:\n\n\nCivilian Pers onnel Office\n\n\nBuilding l64\n\n\nLuke Air Force Base, Arizona",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3785,
+                    "y0": 411,
+                    "x1": 4447,
+                    "y1": 511
+                },
+                {
+                    "x0": 3785,
+                    "y0": 539,
+                    "x1": 4604,
+                    "y1": 1556
+                }
+            ],
+            "bbox": [
+                3785,
+                411,
+                4604,
+                1556
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-19_p1_sn84021918_0041421695A_1964061901_0441.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Lightweight, non-woven inter-\nfacings made of 100 per cent\nDacron are particularly suited for\ngarments made of wash-and-wear\nfabrics.\n\n\nIn addition to regular\" inter-\nfacings for normal sewing, there\nare all-bias stretch versions to go\nwith stretch fabrics and garment\nstress areas - and iron-on inter-\nfacings designed for edge tapes,\nhens, and Wristbands. All are as\nwashable as the fabrics they\nreinforce.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3808,
+                    "y0": 1618,
+                    "x1": 4650,
+                    "y1": 2368
+                }
+            ],
+            "bbox": [
+                3808,
+                1618,
+                4650,
+                2368
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-19_p1_sn84021918_0041421695A_1964061901_0441.json"
+        },
+        {
+            "object_ids": [
+                5,
+                3
+            ],
+            "headline": "Negro Women To Be Featured\nIn New Sc Series",
+            "article": "iodicals as Ladies' Home Jour-\nnal, Health, Woman's Day and\nthe Lincoln Herald.\n\n\nA collector Of old books and\npamphlets in the field Of Amer\nicana, and an active member Of\nvarious historical societies,\nMrs. Dannett Is Director of the\nCivil War Round Table of New\nYork and was selected for the\nnine-woman Civil War National\nCentennial Committee. She is\nmarried to Emmanuel Dannett,\nprominent New York attorney.\n\n\nNoel N. Marder, president of\nEducational Heritage. the York\ners, New York publishing firm\nwhich is producing \"Negro Herr\ntage Library at cost Of more\nthan 1000. 900. said he believes\n\"Profiles Of Negro Women\" will\nbe regarded as the greatest single\nrepository on Negro Women and\ntheir contributions to the pro-\ngress of the Negro in America.\n\n\nThe first volume covers the\nperiod from 1919. when Negroes\narrived in the United States and\nCanada, to mid-20th century,\nending with the outstanding\nachievements of such women as\nDR.. Mary Mcleod Bethune and\nMary Church Terrell.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2033,
+                    "y0": 377,
+                    "x1": 3269,
+                    "y1": 610
+                },
+                {
+                    "x0": 2903,
+                    "y0": 649,
+                    "x1": 3722,
+                    "y1": 2600
+                }
+            ],
+            "bbox": [
+                2033,
+                377,
+                3722,
+                2600
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-19_p1_sn84021918_0041421695A_1964061901_0441.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "NEW YORK A two-volume\nset \"Profiles Of Negro Women\"\nhighlighting the contribution of\nNegro women to culture and pro-\ngress of America, is a part of\nthe forthcoming Negro Heritage\nLibrary.\n\n\nWritten by Sylvia G. L. Dan\nnett, Civil War historian and\nauthor. the completed work will\nprovide comprehensive and doc\numented accounts of the strate-\ngic role Negro women played\nduring difficult days Of slavery\nand Reconstruction. This first\nvolume will be published with\nseven other volumes in late sum-\nmer. The initial volume is died.\nicated to Mrs. James Weldon\nJohns on.\n\n\nA graduate of Douglass Col\nlege in New Jersey, Mrs. Dan\nnett has worked as a freelance\nadvertising and publicity copy\nwriter. She is co-author of Defy\nthe Tempest\" and \"Down Mem\nDRY Lane\" and is editor and COM\npiler of \"Noble Women of the\nNorth\"\n\n\nIn addition, Mrs. Dannett is\nauthor of \"a Treasury Of Civil\nWar Humor\" and Of the biography\n\"She Rode with the Generals\"\nShe has contributed to such per-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2021,
+                    "y0": 655,
+                    "x1": 2834,
+                    "y1": 2652
+                }
+            ],
+            "bbox": [
+                2021,
+                655,
+                2834,
+                2652
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-19_p1_sn84021918_0041421695A_1964061901_0441.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Miss Georgia and Harvey Lindsey we're married at\npm Sunday Phillips Memorial Church. Rev. L. j. Harper\noiciaed.\n\n\nMr. and Mrs. George F. Mathews 1918\nSherman. bridegroom is the Of Mrs. j. D. Holiness\n10Th ST.. and Harvey Lindsey Sr. OF Los Angeles\n\n\nMathews maid of honor and Miss Alice Holmes\nbridesmaid.\n\n\nAttending bridegroom Leonard CALDWELL best man. and\nGerald Jones' Hartley Bob Corners Leon Long Willie Bos-\nwe'll, ushers\n\n\nAfter the ceremony reception was held in the church.\n\n\nPhoenix The bride is nurse at Coca\nHospital and the bridegroom is student at Arizona State\nUniversity where he is ma joring in education.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 251,
+                    "y0": 2001,
+                    "x1": 1935,
+                    "y1": 2896
+                }
+            ],
+            "bbox": [
+                251,
+                2001,
+                1935,
+                2896
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-06-19_p1_sn84021918_0041421695A_1964061901_0441.json"
+        }
+    ]
+}

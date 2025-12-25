@@ -1,0 +1,581 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964111301/0627.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7441,
+        "width": 4942
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2843,
+                "y0": 4958,
+                "x1": 3652,
+                "y1": 6081
+            },
+            "class": "article",
+            "raw_text": "BOSTON, Ray Charles. blind\nblues singer and composer. wa s\nARE sted by federal authorities\nLa st Thursday for smuggling mar\ncotics into the country from an\nother one.\n\n\nCharles plane wa s searched by\ncustom officials and a hypoder-\nmic needle, a syringe, some\nmarijuana and heroin were found.\n\n\nThe singer has been arrested\nmany times in various cities for\npossessing narcotics. He is an\nadmitted addict. but he ha never\nserved term.\n\n\nIf found guilty, the singer faces\na term in federal penitentiary. He\ncould be sentenced to maximum\nof 40 years and $4,000 in fines.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2877,
+                "y0": 4708,
+                "x1": 3617,
+                "y1": 4936
+            },
+            "class": "headline",
+            "raw_text": "RAY CHARLES\nJAILED FOR DOPE",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 192,
+                "y0": 5650,
+                "x1": 1012,
+                "y1": 6837
+            },
+            "class": "article",
+            "raw_text": "Negroes voted overwhelmingly\nfor President Lyndon B. Johnson\nhelping to his landslide victory.\nOf the estimated 5000. 900 reg\nistered Negro voters, in some\nareas 80 per cent voted.\n\n\nNationally, President Johnson\nreceived 81 per cent of the total\nvote ca st, in predominantly Negro\nwards across the country. He\nreceived from SO to SO per cent\nof the vote, an increa Sc Of from\nl8 to 80 points over the vote\nca st in the wards for John F.\nKennedy in 1860.\n\n\nFour Harlem districts re-\nturned total of 324 1924 for John\nson and 57,59l Goldwater. Ra-\nleigh, NC, Negroes in six pre-\ncincts voted 5,ll8 Johnson. l3o",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 430,
+                "y0": 5470,
+                "x1": 1663,
+                "y1": 5616
+            },
+            "class": "headline",
+            "raw_text": "Negro Voters Chose LBJ",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3726,
+                "y0": 5150,
+                "x1": 4535,
+                "y1": 6192
+            },
+            "class": "article",
+            "raw_text": "Alpha Gamma Rho chapter,\nAlpha Chi Pi Omega Sorority\nwill sponsor the Ebony Fa shion\nFair, entitled, \"Spanish Flair\"\nDec. 2 at Phoenix Union High\nSchool auditorium, 8 pm.\n\n\nNo local talent will be presen-\nted. All models are with the cur\nrent show which is headlined by\nthe popular Terri Springer.\n\n\nTickets are 81 and SIS. They\nmay be purcha sed from many 10\ncal beauticians.\n\n\nProceeds will benefit the\nspecial scholar ship fund. Maya\nzine sub scriptions givenwith tic\nket purcha ses include Ebony-l\nyear or Jet = E months.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3749,
+                "y0": 4865,
+                "x1": 4465,
+                "y1": 5110
+            },
+            "class": "headline",
+            "raw_text": "EBONY FASHION\nFAIR IS COMING",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1971,
+                "y0": 6336,
+                "x1": 2785,
+                "y1": 7174
+            },
+            "class": "article",
+            "raw_text": "The Messengers, folk singers\nfrom Los Angeles, will appear in\nconcert Sat-, Nov. FL, 8 pm.\nat the Unitarian Church, 4027\nE. Lincoln Drive.\n\n\nSongs ofthe freedom movement\nwill be pre- sented. The group is\nassisting In raising funds to help\nstudent civil rights workers in\nMississippi.\n\n\nArizona participants in the\nMississippi project include Rev.\nl.. ]. Smallreed of the Scottsdale\nCongregational United Church of",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2145,
+                "y0": 6191,
+                "x1": 3384,
+                "y1": 6314
+            },
+            "class": "headline",
+            "raw_text": "The Messengers To Appear",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1087,
+                "y0": 5656,
+                "x1": 1902,
+                "y1": 6761
+            },
+            "class": "article",
+            "raw_text": "Goldwater.\n\n\nWhite Plains, N. y, five\nheavily Negro districts gave\n1888 63l in favor of the Presi-\ndent. The predominatly Negro\nWard 9 in Columbia, Sc, ca st\n2,203 votes Johnson. and SIS =\nGoldwater.\n\n\nBoston Negro voters piled upa\n27.458 to 1874 ma ority for John\nson in As precincts. Four pre-\ndominantly Negro wards in Tam\npa, Fla, went 5,053 to 247 for\nthe Pre- sident. In Jacksonville,\nFla. the vote was 1904 Johnson,\nIT Coldwater in four precincts.\nIn New Orleans. La, the vote\nwas 1906 for Johnson and e66\nfor Goldwater in SO precincts.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2860,
+                "y0": 6342,
+                "x1": 3675,
+                "y1": 7116
+            },
+            "class": "article",
+            "raw_text": "Christ and Greg Kaslo, Of APO\nN. 55th Ave.\n\n\nDuring the pa st summer nearly\n1000 white and Negro students\nwere in Mississippi for planned\nvoters registration and other\neducational programs.\n\n\nTickets costing 81 may be OBJ\ntanned at the door or re servations\nmay be called to o47-7229.\n\n\nThe concert Is sponsored blythe\nsocial concerns of the Unitarian\nChurch of Phoenix.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3726,
+                "y0": 6499,
+                "x1": 4529,
+                "y1": 7151
+            },
+            "class": "article",
+            "raw_text": "Phoenix Urban League Guild\nsponsors its annual membership\ntea, Sum-, Nov. Is, at the Com\nmunity Services Bldg, ISIS E.\nOsborn Rd., 3-5 pm.\n\n\nJunius Bowman, newly appoin-\nted executive director, will be the\nhonored guest.\n\n\nCy Edwards, neighborhood\nplanning and coordinating consul\ntant will be introduced, also.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3767,
+                "y0": 6220,
+                "x1": 4436,
+                "y1": 6476
+            },
+            "class": "headline",
+            "raw_text": "Urban League\nTea Set",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1959,
+                "y0": 2871,
+                "x1": 2785,
+                "y1": 6040
+            },
+            "class": "article",
+            "raw_text": "FORT HUACHUCA : Lieuten-\nant Colonel Felix L. Goodwin has\nassumed duties as Information\nOfficer here. Formerly the Post\nservices officer, Colonel Good\nwin succeeds Major Joseph E.\nWallace.\n\n\nCol. Goodwin stressed the i'm\nportance of command cooperation\nin the ares of public information,\npublic relations, and command\ninformation. \"He said, \"An in\nformation officer job is diff\nficult without the support of every\nmember of the command\"\n\n\nColonel Goodwin is neither a\nstranger to Fort Huachuca nor\nthe public information business.\nHe was the information officer\nof Joint Task Forces, the MI\nclear Test Force in the Pacific\nin 1862. Prior to his arrival\nhere he served S chief of the\nOne Army Liaison Branch, U.\nS. Army Troop Information Sup\nport Unit in Wa shington, DC.\n\n\nHis first association with Fort\nHuachuca came in 1889 when he\nbegan his army career here with\nthe 18th infantry Regiment. His\npresent Fort Hua chuca tour began\nin August 1868.\n\n\nThe veteran of Is years Army\nservice is currently working on\nhis ma sters degree in Public Adj\nministration at the University of\nArizona. He was the first per-\nson to be graduated on Okinawa\nfrom the University of Maryland\noverseas program.\n\n\nService School training during\nthe colonel s career includes the\nTransportation School, Fort\nEustis. Va Q948), the Army Lam\nguage School. Monterey, Calf.\n(l955), where he studied Rus\nsian, the Army Information\nSchool, Fort Slocum. MY. (l96O)\nand the advanced Public Relations\ncourse at the University of Wis\nconsin (l96l).\n\n\nColonel Goodwin, his wife\nEsther and their three daughters\nnow live in Tucson.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2843,
+                "y0": 1964,
+                "x1": 4529,
+                "y1": 2506
+            },
+            "class": "article",
+            "raw_text": "Vaeyes attended reception honorng Canaian Amba\nM. A. Rbero the Heard Museum las Friday night.\n\n\nRbero explained Ghana growing economic problems and\nexplained African policies being by wes\ncountries.\n\n\nfilm showing the ofthe Volta Dam was presented\nDr. Eugene Grigsby welcomes Mr.. Rbiero to the city.\n\n\npictured Messr William Robinson Augustus H. Shaw\nand Gordon Richey. photo-B Heard",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1093,
+                "y0": 6871,
+                "x1": 1896,
+                "y1": 7162
+            },
+            "class": "article",
+            "raw_text": "| think that | shall never see\nA paycheck that is all for me.\nDeductions keep me in the red;\n| should have ca shed the stub in\nstead.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1122,
+                "y0": 6778,
+                "x1": 1669,
+                "y1": 6860
+            },
+            "class": "headline",
+            "raw_text": "CHUCKLE TIME",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 145,
+                "y0": 1307,
+                "x1": 1908,
+                "y1": 5453
+            },
+            "class": "article",
+            "raw_text": "NO PLACE TO GO\n\n\nMayor Milton G2uhana's charges that cey-\ntain dance halls sOeYe contributing to juvenile\ndelinquency carries more alarming mems than\nmany persons care to admit. Unfortunately\nnot all of the dance halls fYeQuented by the\nyounger set are aOel lighted or do ba1tenders\nrefuse to serve minors. There are many\nplaces in the city where the managers honestly\ntry to keep order and obey all o1Os to b210tec ct\njuvenile patrons.\n\n\nOne outstanding problem facing the city IS\ncaused by the lack of re cYg0tiOn0l facilities\nfor the thousands Of elementary, high school\nand college students 1Vbo hve uitkin the Great\neY Phoenix enviyon Also, out OF Sc\"oo' 'ee\"-\nayers haze the same problems.\n\n\nThere are fen places north of the cks\nand less south of the tracks. The tracks, of\ncourse, symbolic the areas where the 'inaeY\ncity\" appears. Beyond that boundary less than\na dozen city recreation centeys or Fairgrounds\nare fostpd\n\n\nThere are practically no city operated or\nsponsored re cYeatio,aal programs where the\nmajority of the Negro or INSTRUMENTATION\nresidents hve. Young boys and girls haze fen\nplaces to go for some fun or relaxation.\n\n\nBows are more blessed be cause there are\ntho United Fund supported Boys Clubs south\nof the tracks Girls haze no place set aside\nfor them.\n\n\nBefore everyone lays all Of the blame on the\ndance hail oa0neYs and managers, let us re-\nmember that adults must provide suitable rec\nYeation programs and centeYs for our eveY-\ngrowing tee,aage population.\n\n\nParents must also yeatSym their roles Of\nkgowing and caring where their children go.\nParents should organize and petition the city\ncouncil to provide more places of wholesome\nrecreation for our youth.\n\n\nChurches could serve as community CenteTS\nfor small group activities during the week and\nON weekends for teenageTs.\n\n\nAll of us should heed the constant teen0ge\nconablain that there is no place to go.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-11-13"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "RAY CHARLES\nJAILED FOR DOPE",
+            "article": "BOSTON, Ray Charles. blind\nblues singer and composer. wa s\nARE sted by federal authorities\nLa st Thursday for smuggling mar\ncotics into the country from an\nother one.\n\n\nCharles plane wa s searched by\ncustom officials and a hypoder-\nmic needle, a syringe, some\nmarijuana and heroin were found.\n\n\nThe singer has been arrested\nmany times in various cities for\npossessing narcotics. He is an\nadmitted addict. but he ha never\nserved term.\n\n\nIf found guilty, the singer faces\na term in federal penitentiary. He\ncould be sentenced to maximum\nof 40 years and $4,000 in fines.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2877,
+                    "y0": 4708,
+                    "x1": 3617,
+                    "y1": 4936
+                },
+                {
+                    "x0": 2843,
+                    "y0": 4958,
+                    "x1": 3652,
+                    "y1": 6081
+                }
+            ],
+            "bbox": [
+                2843,
+                4708,
+                3652,
+                6081
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                22,
+                2
+            ],
+            "headline": "Negro Voters Chose LBJ",
+            "article": "Negroes voted overwhelmingly\nfor President Lyndon B. Johnson\nhelping to his landslide victory.\nOf the estimated 5000. 900 reg\nistered Negro voters, in some\nareas 80 per cent voted.\n\n\nNationally, President Johnson\nreceived 81 per cent of the total\nvote ca st, in predominantly Negro\nwards across the country. He\nreceived from SO to SO per cent\nof the vote, an increa Sc Of from\nl8 to 80 points over the vote\nca st in the wards for John F.\nKennedy in 1860.\n\n\nFour Harlem districts re-\nturned total of 324 1924 for John\nson and 57,59l Goldwater. Ra-\nleigh, NC, Negroes in six pre-\ncincts voted 5,ll8 Johnson. l3o",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 430,
+                    "y0": 5470,
+                    "x1": 1663,
+                    "y1": 5616
+                },
+                {
+                    "x0": 192,
+                    "y0": 5650,
+                    "x1": 1012,
+                    "y1": 6837
+                }
+            ],
+            "bbox": [
+                192,
+                5470,
+                1663,
+                6837
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "EBONY FASHION\nFAIR IS COMING",
+            "article": "Alpha Gamma Rho chapter,\nAlpha Chi Pi Omega Sorority\nwill sponsor the Ebony Fa shion\nFair, entitled, \"Spanish Flair\"\nDec. 2 at Phoenix Union High\nSchool auditorium, 8 pm.\n\n\nNo local talent will be presen-\nted. All models are with the cur\nrent show which is headlined by\nthe popular Terri Springer.\n\n\nTickets are 81 and SIS. They\nmay be purcha sed from many 10\ncal beauticians.\n\n\nProceeds will benefit the\nspecial scholar ship fund. Maya\nzine sub scriptions givenwith tic\nket purcha ses include Ebony-l\nyear or Jet = E months.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3749,
+                    "y0": 4865,
+                    "x1": 4465,
+                    "y1": 5110
+                },
+                {
+                    "x0": 3726,
+                    "y0": 5150,
+                    "x1": 4535,
+                    "y1": 6192
+                }
+            ],
+            "bbox": [
+                3726,
+                4865,
+                4535,
+                6192
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                23,
+                5
+            ],
+            "headline": "The Messengers To Appear",
+            "article": "The Messengers, folk singers\nfrom Los Angeles, will appear in\nconcert Sat-, Nov. FL, 8 pm.\nat the Unitarian Church, 4027\nE. Lincoln Drive.\n\n\nSongs ofthe freedom movement\nwill be pre- sented. The group is\nassisting In raising funds to help\nstudent civil rights workers in\nMississippi.\n\n\nArizona participants in the\nMississippi project include Rev.\nl.. ]. Smallreed of the Scottsdale\nCongregational United Church of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2145,
+                    "y0": 6191,
+                    "x1": 3384,
+                    "y1": 6314
+                },
+                {
+                    "x0": 1971,
+                    "y0": 6336,
+                    "x1": 2785,
+                    "y1": 7174
+                }
+            ],
+            "bbox": [
+                1971,
+                6191,
+                3384,
+                7174
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Goldwater.\n\n\nWhite Plains, N. y, five\nheavily Negro districts gave\n1888 63l in favor of the Presi-\ndent. The predominatly Negro\nWard 9 in Columbia, Sc, ca st\n2,203 votes Johnson. and SIS =\nGoldwater.\n\n\nBoston Negro voters piled upa\n27.458 to 1874 ma ority for John\nson in As precincts. Four pre-\ndominantly Negro wards in Tam\npa, Fla, went 5,053 to 247 for\nthe Pre- sident. In Jacksonville,\nFla. the vote was 1904 Johnson,\nIT Coldwater in four precincts.\nIn New Orleans. La, the vote\nwas 1906 for Johnson and e66\nfor Goldwater in SO precincts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1087,
+                    "y0": 5656,
+                    "x1": 1902,
+                    "y1": 6761
+                }
+            ],
+            "bbox": [
+                1087,
+                5656,
+                1902,
+                6761
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Christ and Greg Kaslo, Of APO\nN. 55th Ave.\n\n\nDuring the pa st summer nearly\n1000 white and Negro students\nwere in Mississippi for planned\nvoters registration and other\neducational programs.\n\n\nTickets costing 81 may be OBJ\ntanned at the door or re servations\nmay be called to o47-7229.\n\n\nThe concert Is sponsored blythe\nsocial concerns of the Unitarian\nChurch of Phoenix.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2860,
+                    "y0": 6342,
+                    "x1": 3675,
+                    "y1": 7116
+                }
+            ],
+            "bbox": [
+                2860,
+                6342,
+                3675,
+                7116
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                14,
+                8
+            ],
+            "headline": "Urban League\nTea Set",
+            "article": "Phoenix Urban League Guild\nsponsors its annual membership\ntea, Sum-, Nov. Is, at the Com\nmunity Services Bldg, ISIS E.\nOsborn Rd., 3-5 pm.\n\n\nJunius Bowman, newly appoin-\nted executive director, will be the\nhonored guest.\n\n\nCy Edwards, neighborhood\nplanning and coordinating consul\ntant will be introduced, also.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3767,
+                    "y0": 6220,
+                    "x1": 4436,
+                    "y1": 6476
+                },
+                {
+                    "x0": 3726,
+                    "y0": 6499,
+                    "x1": 4529,
+                    "y1": 7151
+                }
+            ],
+            "bbox": [
+                3726,
+                6220,
+                4529,
+                7151
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "FORT HUACHUCA : Lieuten-\nant Colonel Felix L. Goodwin has\nassumed duties as Information\nOfficer here. Formerly the Post\nservices officer, Colonel Good\nwin succeeds Major Joseph E.\nWallace.\n\n\nCol. Goodwin stressed the i'm\nportance of command cooperation\nin the ares of public information,\npublic relations, and command\ninformation. \"He said, \"An in\nformation officer job is diff\nficult without the support of every\nmember of the command\"\n\n\nColonel Goodwin is neither a\nstranger to Fort Huachuca nor\nthe public information business.\nHe was the information officer\nof Joint Task Forces, the MI\nclear Test Force in the Pacific\nin 1862. Prior to his arrival\nhere he served S chief of the\nOne Army Liaison Branch, U.\nS. Army Troop Information Sup\nport Unit in Wa shington, DC.\n\n\nHis first association with Fort\nHuachuca came in 1889 when he\nbegan his army career here with\nthe 18th infantry Regiment. His\npresent Fort Hua chuca tour began\nin August 1868.\n\n\nThe veteran of Is years Army\nservice is currently working on\nhis ma sters degree in Public Adj\nministration at the University of\nArizona. He was the first per-\nson to be graduated on Okinawa\nfrom the University of Maryland\noverseas program.\n\n\nService School training during\nthe colonel s career includes the\nTransportation School, Fort\nEustis. Va Q948), the Army Lam\nguage School. Monterey, Calf.\n(l955), where he studied Rus\nsian, the Army Information\nSchool, Fort Slocum. MY. (l96O)\nand the advanced Public Relations\ncourse at the University of Wis\nconsin (l96l).\n\n\nColonel Goodwin, his wife\nEsther and their three daughters\nnow live in Tucson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1959,
+                    "y0": 2871,
+                    "x1": 2785,
+                    "y1": 6040
+                }
+            ],
+            "bbox": [
+                1959,
+                2871,
+                2785,
+                6040
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Vaeyes attended reception honorng Canaian Amba\nM. A. Rbero the Heard Museum las Friday night.\n\n\nRbero explained Ghana growing economic problems and\nexplained African policies being by wes\ncountries.\n\n\nfilm showing the ofthe Volta Dam was presented\nDr. Eugene Grigsby welcomes Mr.. Rbiero to the city.\n\n\npictured Messr William Robinson Augustus H. Shaw\nand Gordon Richey. photo-B Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2843,
+                    "y0": 1964,
+                    "x1": 4529,
+                    "y1": 2506
+                }
+            ],
+            "bbox": [
+                2843,
+                1964,
+                4529,
+                2506
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                25,
+                17
+            ],
+            "headline": "CHUCKLE TIME",
+            "article": "| think that | shall never see\nA paycheck that is all for me.\nDeductions keep me in the red;\n| should have ca shed the stub in\nstead.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1122,
+                    "y0": 6778,
+                    "x1": 1669,
+                    "y1": 6860
+                },
+                {
+                    "x0": 1093,
+                    "y0": 6871,
+                    "x1": 1896,
+                    "y1": 7162
+                }
+            ],
+            "bbox": [
+                1093,
+                6778,
+                1896,
+                7162
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "NO PLACE TO GO\n\n\nMayor Milton G2uhana's charges that cey-\ntain dance halls sOeYe contributing to juvenile\ndelinquency carries more alarming mems than\nmany persons care to admit. Unfortunately\nnot all of the dance halls fYeQuented by the\nyounger set are aOel lighted or do ba1tenders\nrefuse to serve minors. There are many\nplaces in the city where the managers honestly\ntry to keep order and obey all o1Os to b210tec ct\njuvenile patrons.\n\n\nOne outstanding problem facing the city IS\ncaused by the lack of re cYg0tiOn0l facilities\nfor the thousands Of elementary, high school\nand college students 1Vbo hve uitkin the Great\neY Phoenix enviyon Also, out OF Sc\"oo' 'ee\"-\nayers haze the same problems.\n\n\nThere are fen places north of the cks\nand less south of the tracks. The tracks, of\ncourse, symbolic the areas where the 'inaeY\ncity\" appears. Beyond that boundary less than\na dozen city recreation centeys or Fairgrounds\nare fostpd\n\n\nThere are practically no city operated or\nsponsored re cYeatio,aal programs where the\nmajority of the Negro or INSTRUMENTATION\nresidents hve. Young boys and girls haze fen\nplaces to go for some fun or relaxation.\n\n\nBows are more blessed be cause there are\ntho United Fund supported Boys Clubs south\nof the tracks Girls haze no place set aside\nfor them.\n\n\nBefore everyone lays all Of the blame on the\ndance hail oa0neYs and managers, let us re-\nmember that adults must provide suitable rec\nYeation programs and centeYs for our eveY-\ngrowing tee,aage population.\n\n\nParents must also yeatSym their roles Of\nkgowing and caring where their children go.\nParents should organize and petition the city\ncouncil to provide more places of wholesome\nrecreation for our youth.\n\n\nChurches could serve as community CenteTS\nfor small group activities during the week and\nON weekends for teenageTs.\n\n\nAll of us should heed the constant teen0ge\nconablain that there is no place to go.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 145,
+                    "y0": 1307,
+                    "x1": 1908,
+                    "y1": 5453
+                }
+            ],
+            "bbox": [
+                145,
+                1307,
+                1908,
+                5453
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-11-13_p1_sn84021918_0041421695A_1964111301_0627.json"
+        }
+    ]
+}

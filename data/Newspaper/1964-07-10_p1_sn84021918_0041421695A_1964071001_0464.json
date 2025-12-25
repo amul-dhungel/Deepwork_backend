@@ -1,0 +1,408 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071001/0464.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4890
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3007,
+                "y0": 521,
+                "x1": 3826,
+                "y1": 1525
+            },
+            "class": "article",
+            "raw_text": "LOS ANC ELES-The 67-year-\nold leader of the Black Muslims\nElijah Muhammad. resident Of\nPhoenix, was sued by two for\nmer secretaries on two separate\npaternity charges.\n\n\nThe suits we're filed by Luz\nellie Rosary and Evelyn Will\nliams, two young Negro women\nin their twenties.\n\n\nBoth claimed intimacies with\nMuhammad starting in 1857. Miss\nRosary accuses him of fathering\nher two children and said she\nis expecting a third by him.\n\n\nMiss Williams said he was the\nfather of her one daughter.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3019,
+                "y0": 318,
+                "x1": 3791,
+                "y1": 499
+            },
+            "class": "headline",
+            "raw_text": "Muhummed Charged In\n\n\nDouble Paternity Suits",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2120,
+                "y0": 1954,
+                "x1": 2944,
+                "y1": 3079
+            },
+            "class": "article",
+            "raw_text": "CHICAGO-Grants of S97 500\nmade to SO Negroes to attend\nmedical schools we're announced\nby DR.. Franklin c. Mclean, sec\nretary-treasurer of the National\nMedical Fellowships, Inc.\n\n\nThis group represents the\nlargest number of awards ever\nmade in the l8 year history of\nthe organization. The 88 winners\nwill attend 40 schools of medicine\nin the United States. In l947\nonly 20predominantly white med\nical colleges accepted Negroes.\n\n\nThe program aims to encour-\nage qualified Negro students to\nstudy medicine and to help ease\nthe acute shortage Of Negro ply\nsicians and surgeons.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2143,
+                "y0": 1681,
+                "x1": 2759,
+                "y1": 1908
+            },
+            "class": "headline",
+            "raw_text": "SO Receive\n\n\nMedic Grants",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 322,
+                "y0": 2464,
+                "x1": 1135,
+                "y1": 3103
+            },
+            "class": "article",
+            "raw_text": "Arizona Supreme Court Justice\nREM L. Jennings resigned. eff\nfective Aug. S. to seek the Demo-\ncratic nomination for US. sena-\ntor.\n\n\nJennings said he was accepting\na hard challenge. He will face\nopposition from Roy Elson. adj\nministradve assistant to Sen.\nCarl Hayden. and Howard Peter\nson, Phoenix attorney.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 328,
+                "y0": 2290,
+                "x1": 978,
+                "y1": 2447
+            },
+            "class": "headline",
+            "raw_text": "Jennings\n\n\nSeeks Senuie Spot",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3894,
+                "y0": 1739,
+                "x1": 4713,
+                "y1": 2859
+            },
+            "class": "article",
+            "raw_text": "L. Alton \"Pat' Riggs, member\nof the Maricopa County Board of\nSupervisors, announced his can\ndidacy for reelection from Dis\ntrict /.\n\n\nA Democrat, Riggs was elect\ned for his first term in 1862,\npledging fair and equitable repre-\nsentation.\n\n\nHe continues to assure voters\nthat he will be watchful of tax\ndollars and the dispensing of\nthem.\n\n\nThe son of a pioneer family,\nhe is a native of Arizona, and\nis practicing attorney in Tempe.\nHe attended ASU and graduated\nfrom the University of Arizona\nSchool of Law in 1898.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1227,
+                "y0": 2400,
+                "x1": 2051,
+                "y1": 3097
+            },
+            "class": "article",
+            "raw_text": "Justus Davis. of Los Angeles\nwill spend one week in the city\nvisiting his parents, Mr.. and\nMrs. James l.. Davis. He will be\nthe guest soloist at First Insti-\ntutional Baptist Church on Sum-,\nJuly 10Th.\n\n\nMr.. Davis began singing with\nthe senior choir of this church\nwhen he was a young boy. He\nlater moved to California. where\nhe directed choirs.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1244,
+                "y0": 2267,
+                "x1": 1871,
+                "y1": 2378
+            },
+            "class": "headline",
+            "raw_text": "Coming And Going",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3013,
+                "y0": 1739,
+                "x1": 3837,
+                "y1": 2569
+            },
+            "class": "article",
+            "raw_text": "SACRAMENTO-Dr. Daniel A.\nCollins, a Negro San Francisco\ndentist and member of the state\nboard of education, charged that\nCassandra Brooks, Negro high\nschool girl, was the victim of\niScrimination.\n\n\nDR.. Collins, said Cassandra\nwas treated inhumanly at Kalis-\npell, Montana where she was\nattending a meet. She and three\nother Negroes were badgered in\nthe streets and couldn't find a\nplace to stay.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3024,
+                "y0": 1542,
+                "x1": 3768,
+                "y1": 1717
+            },
+            "class": "headline",
+            "raw_text": "Charges Discrimination\nAuuinsf Athlete",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 334,
+                "y0": 1600,
+                "x1": 2045,
+                "y1": 2256
+            },
+            "class": "article",
+            "raw_text": "Flora Rfn. cash awards to Miss Olga Thomas\nand John Noman, authentic the Debonair\nannual Hawkins Dance, Sat-, July 4th.\n\n\nJim KCAC radio served master of ceremonies\n\n\nHawkins sponsored by Debonars\nheld Sat July Able Hall. On hand real\ncountry outfits Austin Watson John Noan Mr. and\nClarence Long, Miss Olga Thomas Howard Gaines Miss\nMinis C. M. Peterson, Mrs. Cora McCreay, Arthur\nSimpson, Jimmie Moseey, Miss Linda Ireland Jonas North\nington.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "Muhummed Charged In\n\n\nDouble Paternity Suits",
+            "article": "LOS ANC ELES-The 67-year-\nold leader of the Black Muslims\nElijah Muhammad. resident Of\nPhoenix, was sued by two for\nmer secretaries on two separate\npaternity charges.\n\n\nThe suits we're filed by Luz\nellie Rosary and Evelyn Will\nliams, two young Negro women\nin their twenties.\n\n\nBoth claimed intimacies with\nMuhammad starting in 1857. Miss\nRosary accuses him of fathering\nher two children and said she\nis expecting a third by him.\n\n\nMiss Williams said he was the\nfather of her one daughter.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3019,
+                    "y0": 318,
+                    "x1": 3791,
+                    "y1": 499
+                },
+                {
+                    "x0": 3007,
+                    "y0": 521,
+                    "x1": 3826,
+                    "y1": 1525
+                }
+            ],
+            "bbox": [
+                3007,
+                318,
+                3826,
+                1525
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-10_p1_sn84021918_0041421695A_1964071001_0464.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "SO Receive\n\n\nMedic Grants",
+            "article": "CHICAGO-Grants of S97 500\nmade to SO Negroes to attend\nmedical schools we're announced\nby DR.. Franklin c. Mclean, sec\nretary-treasurer of the National\nMedical Fellowships, Inc.\n\n\nThis group represents the\nlargest number of awards ever\nmade in the l8 year history of\nthe organization. The 88 winners\nwill attend 40 schools of medicine\nin the United States. In l947\nonly 20predominantly white med\nical colleges accepted Negroes.\n\n\nThe program aims to encour-\nage qualified Negro students to\nstudy medicine and to help ease\nthe acute shortage Of Negro ply\nsicians and surgeons.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2143,
+                    "y0": 1681,
+                    "x1": 2759,
+                    "y1": 1908
+                },
+                {
+                    "x0": 2120,
+                    "y0": 1954,
+                    "x1": 2944,
+                    "y1": 3079
+                }
+            ],
+            "bbox": [
+                2120,
+                1681,
+                2944,
+                3079
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-10_p1_sn84021918_0041421695A_1964071001_0464.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "Jennings\n\n\nSeeks Senuie Spot",
+            "article": "Arizona Supreme Court Justice\nREM L. Jennings resigned. eff\nfective Aug. S. to seek the Demo-\ncratic nomination for US. sena-\ntor.\n\n\nJennings said he was accepting\na hard challenge. He will face\nopposition from Roy Elson. adj\nministradve assistant to Sen.\nCarl Hayden. and Howard Peter\nson, Phoenix attorney.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 328,
+                    "y0": 2290,
+                    "x1": 978,
+                    "y1": 2447
+                },
+                {
+                    "x0": 322,
+                    "y0": 2464,
+                    "x1": 1135,
+                    "y1": 3103
+                }
+            ],
+            "bbox": [
+                322,
+                2290,
+                1135,
+                3103
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-10_p1_sn84021918_0041421695A_1964071001_0464.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "L. Alton \"Pat' Riggs, member\nof the Maricopa County Board of\nSupervisors, announced his can\ndidacy for reelection from Dis\ntrict /.\n\n\nA Democrat, Riggs was elect\ned for his first term in 1862,\npledging fair and equitable repre-\nsentation.\n\n\nHe continues to assure voters\nthat he will be watchful of tax\ndollars and the dispensing of\nthem.\n\n\nThe son of a pioneer family,\nhe is a native of Arizona, and\nis practicing attorney in Tempe.\nHe attended ASU and graduated\nfrom the University of Arizona\nSchool of Law in 1898.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3894,
+                    "y0": 1739,
+                    "x1": 4713,
+                    "y1": 2859
+                }
+            ],
+            "bbox": [
+                3894,
+                1739,
+                4713,
+                2859
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-10_p1_sn84021918_0041421695A_1964071001_0464.json"
+        },
+        {
+            "object_ids": [
+                16,
+                6
+            ],
+            "headline": "Coming And Going",
+            "article": "Justus Davis. of Los Angeles\nwill spend one week in the city\nvisiting his parents, Mr.. and\nMrs. James l.. Davis. He will be\nthe guest soloist at First Insti-\ntutional Baptist Church on Sum-,\nJuly 10Th.\n\n\nMr.. Davis began singing with\nthe senior choir of this church\nwhen he was a young boy. He\nlater moved to California. where\nhe directed choirs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1244,
+                    "y0": 2267,
+                    "x1": 1871,
+                    "y1": 2378
+                },
+                {
+                    "x0": 1227,
+                    "y0": 2400,
+                    "x1": 2051,
+                    "y1": 3097
+                }
+            ],
+            "bbox": [
+                1227,
+                2267,
+                2051,
+                3097
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-10_p1_sn84021918_0041421695A_1964071001_0464.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "Charges Discrimination\nAuuinsf Athlete",
+            "article": "SACRAMENTO-Dr. Daniel A.\nCollins, a Negro San Francisco\ndentist and member of the state\nboard of education, charged that\nCassandra Brooks, Negro high\nschool girl, was the victim of\niScrimination.\n\n\nDR.. Collins, said Cassandra\nwas treated inhumanly at Kalis-\npell, Montana where she was\nattending a meet. She and three\nother Negroes were badgered in\nthe streets and couldn't find a\nplace to stay.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3024,
+                    "y0": 1542,
+                    "x1": 3768,
+                    "y1": 1717
+                },
+                {
+                    "x0": 3013,
+                    "y0": 1739,
+                    "x1": 3837,
+                    "y1": 2569
+                }
+            ],
+            "bbox": [
+                3013,
+                1542,
+                3837,
+                2569
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-10_p1_sn84021918_0041421695A_1964071001_0464.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Flora Rfn. cash awards to Miss Olga Thomas\nand John Noman, authentic the Debonair\nannual Hawkins Dance, Sat-, July 4th.\n\n\nJim KCAC radio served master of ceremonies\n\n\nHawkins sponsored by Debonars\nheld Sat July Able Hall. On hand real\ncountry outfits Austin Watson John Noan Mr. and\nClarence Long, Miss Olga Thomas Howard Gaines Miss\nMinis C. M. Peterson, Mrs. Cora McCreay, Arthur\nSimpson, Jimmie Moseey, Miss Linda Ireland Jonas North\nington.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 334,
+                    "y0": 1600,
+                    "x1": 2045,
+                    "y1": 2256
+                }
+            ],
+            "bbox": [
+                334,
+                1600,
+                2045,
+                2256
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-07-10_p1_sn84021918_0041421695A_1964071001_0464.json"
+        }
+    ]
+}

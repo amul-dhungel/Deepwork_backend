@@ -1,0 +1,630 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7380,
+        "width": 4918,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061201/0429.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2828,
+                "y0": 6100,
+                "x1": 3630,
+                "y1": 7110
+            },
+            "class": "article",
+            "raw_text": "BALDWIN, NY. - Neighbors\nof the single Negro family living\nin a previously all white area\npainted the SWastika and eviction\nwords off of the home.\n\n\nSeveral Protestant ministers\nand a rabbi were among the\n10 persons who participated in\nthe repainting program.\n\n\nThe home Of Mr.. and Mrs.\nWesley Mitchell and their two\nchildren was defaced by unknown\npersons. The family had been\nliving in the house less than two\nweeks, but they had lived in the\nLong Island community for nearly\nyear.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2822,
+                "y0": 5904,
+                "x1": 3422,
+                "y1": 6083
+            },
+            "class": "headline",
+            "raw_text": "Negro FumiIy's\n\n\nHouse Repuinted",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 175,
+                "y0": 6111,
+                "x1": 989,
+                "y1": 7121
+            },
+            "class": "article",
+            "raw_text": "Two elderly per sons drowned\nearly Sunday while on a fishing\nparty at the Roosevelt Canal,\nat 9th Avenue and Buckeye Road.\nVictims we're Mrs. Pernello\nBrown. 60. 1742 T.. Line OH. and\nRobert A. Brodie. So, 1875 W.\nSherman.\n\n\nPolice reported Mrs. Brown\nfell into the water first and\nMrs. Catherine Brodie told her\nthat she pushed her husband into\nthe canal to save her friend.\n\n\nBoth drowned and Mrs. BrOdie\nand Cleveland Brown were booked\nin the city Jail on charges of\ndrunken and disOrderly conduct.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 164,
+                "y0": 5898,
+                "x1": 816,
+                "y1": 6083
+            },
+            "class": "headline",
+            "raw_text": "z Drown\nAT Roosevelt CunuI",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1945,
+                "y0": 2865,
+                "x1": 2759,
+                "y1": 3702
+            },
+            "class": "article",
+            "raw_text": "NEW YORK; A thousand extra\npolicemen have been ordered to\npatrol New York's recreational\nareas in an effort to halt teenage\nterrOristS.\n\n\nPolice have been assigned to\nride the Staten Island ferry and\ncity officials may ban beer drink\ning at all city beaches.\n\n\nEarlier in the week a Negro\narmed with knife attacked a\nwhite subway rider without any\nrea son. He said he felt like\ndoing it.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1951,
+                "y0": 2686,
+                "x1": 2558,
+                "y1": 2849
+            },
+            "class": "headline",
+            "raw_text": "Extru Police\nAssigned In NY.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1945,
+                "y0": 1476,
+                "x1": 2765,
+                "y1": 2676
+            },
+            "class": "article",
+            "raw_text": "BIRMINGHAM Sunday, June\n7th marked the beginning of\nchurch services at the Sixteenth\nst. Baptist Church, where bomb\nlast Sept. Is killed four little\ngirls and injured 19 others.\n\n\nThe Negro church was rebuilt\nwith contributions from all over\nthe world in excess of 100000.\n\n\nDR.. H.O. Hester, a white min\nlister of Montgomery delivered\nthe main address.\n\n\nRev. John H. Cross, pastor of\nthe church led his congr egation\nin the new edifice. Some en-\nbraced, some wept and some\nsmiled. Fourteen persons were\nbaptized and Sunday school SER\nvices were held in the basement\nwhere the children had died.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1934,
+                "y0": 1228,
+                "x1": 2598,
+                "y1": 1453
+            },
+            "class": "headline",
+            "raw_text": "Bonn bed Church\nReopens Doors",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2828,
+                "y0": 5039,
+                "x1": 3636,
+                "y1": 5876
+            },
+            "class": "article",
+            "raw_text": "ST. LOUIS, Mo. THE Politi-\ncal Action Committee of the local\nbranch of the National ASSOCia-\nton for the Advancement OF\nColored People conducted one\nday \"crash\" voter registration\neffort in a housing project that\nadded more than 500 persons to\nthe ballot rolls.\n\n\nDewey Creighton, chairman OF\nthe branch's voter registration\ncommittee. directed the drive.\nThe NAACP Youth Council and\nthe Catholic clergy assisted.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2828,
+                "y0": 4814,
+                "x1": 3561,
+                "y1": 5017
+            },
+            "class": "headline",
+            "raw_text": "NAACP Sets Vote\n\n\nProgram In 81. Louis",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1063,
+                "y0": 6244,
+                "x1": 1877,
+                "y1": 7086
+            },
+            "class": "article",
+            "raw_text": "PHILADEL PHIA - Near mass\nhySteria occurred at the funeral\nservices of Rudy Lewis, lead\nsinger of the famous Drifters.\nThe q year old former gospel\nsinger died of a heart attack\nfollowing party at New York\nhotel.\n\n\nCelebrities of show business\nwere present and a three hour\nservice caused many in the aud\nfence to faint and scream. More\nthan 600 persons attended the\nlast rites.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1069,
+                "y0": 6002,
+                "x1": 1768,
+                "y1": 6216
+            },
+            "class": "headline",
+            "raw_text": "Funeral OF One\nThe Drifters Is Held",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3698,
+                "y0": 5171,
+                "x1": 4506,
+                "y1": 7092
+            },
+            "class": "article",
+            "raw_text": "Oakland, Calf. 49, Delta Sigma\nTheta Sorority will hold its far\nwest regional conference at the\nbennington Hotel June II, for\nmembers from Alaska, Arizona,\nCalifornia, Oregon and Washing\nton.\n\n\nAssemblyman w. Byron Rum\nford, veteran legislator, will\naddress a public civil right lun-\ncheon in the bennington Hotel\nat noon Saturday, June IS.\n\n\nDelegates from Is Of the 81\nundergraduate and alumnae chap\nterS of the women organization\nwill attend the conference, which\nwill be opened by a keynote\naddress by Mrs. Charlotte II.\nLewis Of Albany. Calf.\n\n\nThe banquet address Sunday\nwill be given by Dr.. Geraldine\np. Woods Of Los Angeles. natiun-\nal president of Delta Sigma Theta.\nOne Of Americas outstanding\nwomen leaders, she has hJd a\ndiStmgui shed career in public and\norganization affairs aS well Is",
+            "legibility": "Illegible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3877,
+                "y0": 2484,
+                "x1": 4449,
+                "y1": 2543
+            },
+            "class": "author",
+            "raw_text": "you never outgrOW your",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3715,
+                "y0": 4820,
+                "x1": 4270,
+                "y1": 5138
+            },
+            "class": "headline",
+            "raw_text": "DeItus To Hold\nRegional Confub\nIn Oakland",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1957,
+                "y0": 6699,
+                "x1": 2765,
+                "y1": 7133
+            },
+            "class": "article",
+            "raw_text": "Singer Leslie Uggams, star OF\nthe television Sing Along With\nMitch, received 500, 900 on her\n21st birthday last week. 1t was\na trust fund which was eStab-\nlished for her when she started\nher career as a child performer.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1951,
+                "y0": 6549,
+                "x1": 2736,
+                "y1": 6671
+            },
+            "class": "headline",
+            "raw_text": "Singer Gets Trust Fund",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1951,
+                "y0": 5488,
+                "x1": 2765,
+                "y1": 6412
+            },
+            "class": "article",
+            "raw_text": "Dana j. Dixon, IL, son of Mrs.\nLille May Dixon, 2126 W. Madi-\nson, drowned while swimming in\na cement company's pond.\n\n\nHe was accompanied by his\nsister, Loren Hayes, &c, 2133\nw. Tonic, who said she nearly\ndrowned trying to rescue him.\n\n\nAlbert Brewer, 3425 w. Mari\ncopa heard her screams for help\nand jumped into the pond and\nrescued her.\n\n\nThe drowning occurred at the\nUnited Materials Co., pond\nlocated at 364O N. 10th Ave.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1945,
+                "y0": 5240,
+                "x1": 2465,
+                "y1": 5455
+            },
+            "class": "headline",
+            "raw_text": "Youth browns,\nSister Saved",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 158,
+                "y0": 2698,
+                "x1": 1820,
+                "y1": 3673
+            },
+            "class": "article",
+            "raw_text": "Recipients Alpha Kappa Alpha Sorority Scholarship\nheld Sunday the home of Mrs.\nj. Ford Smith, 5O25 S. Fl\n\n\nMrs. McFradde Martin left, congratuaes the winners.\n\n\nFrom Faye Livingston, Jean\nRoberts, Newman Bettye Webb Marionee Smith,\nHigh will attend ASH. She plans\nsinging\n\n\nof Mr. Mrs Roberts, 110 w. Pima\nenter plans teacher.\n\n\nLorraine Newman is the daughter Of Mr. and Mrs. James\nNewman, 42O8 S. 18th ST., will attend ASU\n\n\nEmmett Webb Fl 20 E. Parkway\nDr. school. She also the\noutstanding senior girl South High.\n\n\nPerry also received AKA scholarship award",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964061201_0429",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "Negro FumiIy's\n\n\nHouse Repuinted",
+            "article": "BALDWIN, NY. - Neighbors\nof the single Negro family living\nin a previously all white area\npainted the SWastika and eviction\nwords off of the home.\n\n\nSeveral Protestant ministers\nand a rabbi were among the\n10 persons who participated in\nthe repainting program.\n\n\nThe home Of Mr.. and Mrs.\nWesley Mitchell and their two\nchildren was defaced by unknown\npersons. The family had been\nliving in the house less than two\nweeks, but they had lived in the\nLong Island community for nearly\nyear.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2822,
+                    "y0": 5904,
+                    "x1": 3422,
+                    "y1": 6083
+                },
+                {
+                    "x0": 2828,
+                    "y0": 6100,
+                    "x1": 3630,
+                    "y1": 7110
+                }
+            ],
+            "bbox": [
+                2822,
+                5904,
+                3630,
+                7110
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                20,
+                3
+            ],
+            "headline": "z Drown\nAT Roosevelt CunuI",
+            "article": "Two elderly per sons drowned\nearly Sunday while on a fishing\nparty at the Roosevelt Canal,\nat 9th Avenue and Buckeye Road.\nVictims we're Mrs. Pernello\nBrown. 60. 1742 T.. Line OH. and\nRobert A. Brodie. So, 1875 W.\nSherman.\n\n\nPolice reported Mrs. Brown\nfell into the water first and\nMrs. Catherine Brodie told her\nthat she pushed her husband into\nthe canal to save her friend.\n\n\nBoth drowned and Mrs. BrOdie\nand Cleveland Brown were booked\nin the city Jail on charges of\ndrunken and disOrderly conduct.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 164,
+                    "y0": 5898,
+                    "x1": 816,
+                    "y1": 6083
+                },
+                {
+                    "x0": 175,
+                    "y0": 6111,
+                    "x1": 989,
+                    "y1": 7121
+                }
+            ],
+            "bbox": [
+                164,
+                5898,
+                989,
+                7121
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "Extru Police\nAssigned In NY.",
+            "article": "NEW YORK; A thousand extra\npolicemen have been ordered to\npatrol New York's recreational\nareas in an effort to halt teenage\nterrOristS.\n\n\nPolice have been assigned to\nride the Staten Island ferry and\ncity officials may ban beer drink\ning at all city beaches.\n\n\nEarlier in the week a Negro\narmed with knife attacked a\nwhite subway rider without any\nrea son. He said he felt like\ndoing it.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1951,
+                    "y0": 2686,
+                    "x1": 2558,
+                    "y1": 2849
+                },
+                {
+                    "x0": 1945,
+                    "y0": 2865,
+                    "x1": 2759,
+                    "y1": 3702
+                }
+            ],
+            "bbox": [
+                1945,
+                2686,
+                2759,
+                3702
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "Bonn bed Church\nReopens Doors",
+            "article": "BIRMINGHAM Sunday, June\n7th marked the beginning of\nchurch services at the Sixteenth\nst. Baptist Church, where bomb\nlast Sept. Is killed four little\ngirls and injured 19 others.\n\n\nThe Negro church was rebuilt\nwith contributions from all over\nthe world in excess of 100000.\n\n\nDR.. H.O. Hester, a white min\nlister of Montgomery delivered\nthe main address.\n\n\nRev. John H. Cross, pastor of\nthe church led his congr egation\nin the new edifice. Some en-\nbraced, some wept and some\nsmiled. Fourteen persons were\nbaptized and Sunday school SER\nvices were held in the basement\nwhere the children had died.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1934,
+                    "y0": 1228,
+                    "x1": 2598,
+                    "y1": 1453
+                },
+                {
+                    "x0": 1945,
+                    "y0": 1476,
+                    "x1": 2765,
+                    "y1": 2676
+                }
+            ],
+            "bbox": [
+                1934,
+                1228,
+                2765,
+                2676
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                14,
+                6
+            ],
+            "headline": "NAACP Sets Vote\n\n\nProgram In 81. Louis",
+            "article": "ST. LOUIS, Mo. THE Politi-\ncal Action Committee of the local\nbranch of the National ASSOCia-\nton for the Advancement OF\nColored People conducted one\nday \"crash\" voter registration\neffort in a housing project that\nadded more than 500 persons to\nthe ballot rolls.\n\n\nDewey Creighton, chairman OF\nthe branch's voter registration\ncommittee. directed the drive.\nThe NAACP Youth Council and\nthe Catholic clergy assisted.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2828,
+                    "y0": 4814,
+                    "x1": 3561,
+                    "y1": 5017
+                },
+                {
+                    "x0": 2828,
+                    "y0": 5039,
+                    "x1": 3636,
+                    "y1": 5876
+                }
+            ],
+            "bbox": [
+                2828,
+                4814,
+                3636,
+                5876
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "Funeral OF One\nThe Drifters Is Held",
+            "article": "PHILADEL PHIA - Near mass\nhySteria occurred at the funeral\nservices of Rudy Lewis, lead\nsinger of the famous Drifters.\nThe q year old former gospel\nsinger died of a heart attack\nfollowing party at New York\nhotel.\n\n\nCelebrities of show business\nwere present and a three hour\nservice caused many in the aud\nfence to faint and scream. More\nthan 600 persons attended the\nlast rites.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1069,
+                    "y0": 6002,
+                    "x1": 1768,
+                    "y1": 6216
+                },
+                {
+                    "x0": 1063,
+                    "y0": 6244,
+                    "x1": 1877,
+                    "y1": 7086
+                }
+            ],
+            "bbox": [
+                1063,
+                6002,
+                1877,
+                7086
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                31,
+                12,
+                9
+            ],
+            "headline": "DeItus To Hold\nRegional Confub\nIn Oakland",
+            "article": "Oakland, Calf. 49, Delta Sigma\nTheta Sorority will hold its far\nwest regional conference at the\nbennington Hotel June II, for\nmembers from Alaska, Arizona,\nCalifornia, Oregon and Washing\nton.\n\n\nAssemblyman w. Byron Rum\nford, veteran legislator, will\naddress a public civil right lun-\ncheon in the bennington Hotel\nat noon Saturday, June IS.\n\n\nDelegates from Is Of the 81\nundergraduate and alumnae chap\nterS of the women organization\nwill attend the conference, which\nwill be opened by a keynote\naddress by Mrs. Charlotte II.\nLewis Of Albany. Calf.\n\n\nThe banquet address Sunday\nwill be given by Dr.. Geraldine\np. Woods Of Los Angeles. natiun-\nal president of Delta Sigma Theta.\nOne Of Americas outstanding\nwomen leaders, she has hJd a\ndiStmgui shed career in public and\norganization affairs aS well Is",
+            "byline": "you never outgrOW your",
+            "bbox_list": [
+                {
+                    "x0": 3877,
+                    "y0": 2484,
+                    "x1": 4449,
+                    "y1": 2543
+                },
+                {
+                    "x0": 3715,
+                    "y0": 4820,
+                    "x1": 4270,
+                    "y1": 5138
+                },
+                {
+                    "x0": 3698,
+                    "y0": 5171,
+                    "x1": 4506,
+                    "y1": 7092
+                }
+            ],
+            "bbox": [
+                3698,
+                2484,
+                4506,
+                7092
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                23,
+                10
+            ],
+            "headline": "Singer Gets Trust Fund",
+            "article": "Singer Leslie Uggams, star OF\nthe television Sing Along With\nMitch, received 500, 900 on her\n21st birthday last week. 1t was\na trust fund which was eStab-\nlished for her when she started\nher career as a child performer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1951,
+                    "y0": 6549,
+                    "x1": 2736,
+                    "y1": 6671
+                },
+                {
+                    "x0": 1957,
+                    "y0": 6699,
+                    "x1": 2765,
+                    "y1": 7133
+                }
+            ],
+            "bbox": [
+                1951,
+                6549,
+                2765,
+                7133
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                30,
+                11
+            ],
+            "headline": "Youth browns,\nSister Saved",
+            "article": "Dana j. Dixon, IL, son of Mrs.\nLille May Dixon, 2126 W. Madi-\nson, drowned while swimming in\na cement company's pond.\n\n\nHe was accompanied by his\nsister, Loren Hayes, &c, 2133\nw. Tonic, who said she nearly\ndrowned trying to rescue him.\n\n\nAlbert Brewer, 3425 w. Mari\ncopa heard her screams for help\nand jumped into the pond and\nrescued her.\n\n\nThe drowning occurred at the\nUnited Materials Co., pond\nlocated at 364O N. 10th Ave.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1945,
+                    "y0": 5240,
+                    "x1": 2465,
+                    "y1": 5455
+                },
+                {
+                    "x0": 1951,
+                    "y0": 5488,
+                    "x1": 2765,
+                    "y1": 6412
+                }
+            ],
+            "bbox": [
+                1945,
+                5240,
+                2765,
+                6412
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "Recipients Alpha Kappa Alpha Sorority Scholarship\nheld Sunday the home of Mrs.\nj. Ford Smith, 5O25 S. Fl\n\n\nMrs. McFradde Martin left, congratuaes the winners.\n\n\nFrom Faye Livingston, Jean\nRoberts, Newman Bettye Webb Marionee Smith,\nHigh will attend ASH. She plans\nsinging\n\n\nof Mr. Mrs Roberts, 110 w. Pima\nenter plans teacher.\n\n\nLorraine Newman is the daughter Of Mr. and Mrs. James\nNewman, 42O8 S. 18th ST., will attend ASU\n\n\nEmmett Webb Fl 20 E. Parkway\nDr. school. She also the\noutstanding senior girl South High.\n\n\nPerry also received AKA scholarship award",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 158,
+                    "y0": 2698,
+                    "x1": 1820,
+                    "y1": 3673
+                }
+            ],
+            "bbox": [
+                158,
+                2698,
+                1820,
+                3673
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-06-12_pna_sn84021918_0041421695A_1964061201_0429.json"
+        }
+    ]
+}

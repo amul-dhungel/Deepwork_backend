@@ -1,0 +1,574 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964040301/0349.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4874
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2814,
+                "y0": 6301,
+                "x1": 3621,
+                "y1": 7242
+            },
+            "class": "article",
+            "raw_text": "DETROIT ASU sprint star\nHenry Carr and his high school\nsweetheart we're married in their\nhometown Sunday.\n\n\nCarr, 81, holder of the 20.3\nseconds world record for the\n22O-yard dash, and Glenda F.\nNixon, 20, Michigan State Uni\nversity coed, we're married at\nHartford Avenue Baptist Church.\n\n\nThe newly weds returned to\nTempe, where Carr, a junior at\nArizona State, will resume his\nstudies. Glenda said she will\nskip the current semester at\nMichigan State.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2814,
+                "y0": 6098,
+                "x1": 3453,
+                "y1": 6273
+            },
+            "class": "headline",
+            "raw_text": "TRACK STAR\n\n\nWEEDS IN DETROIT",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2814,
+                "y0": 5048,
+                "x1": 3621,
+                "y1": 6081
+            },
+            "class": "article",
+            "raw_text": "The body of a 25-year-old\nPhoenix woman was found last\nweek in a blood-spattered room\nin the home of Carl Watson\n27, oO3 E. Southern Pacific DR..\n\n\nPolice identified the woman as\nMrs. Theresa Simmons. Of l445\nE. Madison. They said suicide\nnote was found and a gas oven\nwas turned on.\n\n\nHowever, an Arizona Public\nService Co., investigator said\nthere was not enough natural\ngas in the room to cause death.\nDetective Jack Cozad said the\nbody showed no external injuries.\nOfficers are seeking Watson for\nQuestioning.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2848,
+                "y0": 4856,
+                "x1": 3331,
+                "y1": 5020
+            },
+            "class": "headline",
+            "raw_text": "WOMAN IS\n\n\nFOUND DEAD",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1932,
+                "y0": 5831,
+                "x1": 2745,
+                "y1": 7242
+            },
+            "class": "article",
+            "raw_text": "Hugh H. Gregory has beenpro-\nNOTED to assistant product man\nager in the Foods Division of\nLever Brothers Company, an\nnounced Ernest l.. Whitney, Jr.,\nmarketing vice president of the\ndivision. The Foods Division\nmarkets the company's marga-\nrines, shortening, dessert top\npings and pancake syrup.\n\n\nHe had been a promotion ma\nterials specialist since joining\nthe company in 1861. He pre-\nviously had been associated with\nthe F & M Schaefer Brewing\nCompany and Schenley Distillers\nCompany.\n\n\nA graduate of the University\nof Chicago with a BIS. degree\nin sociology, Mr.. Gregory was\na flight officer with the US.\nAir Corps during World War\nII. He resides in New York City\nwith his wife and two children.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3696,
+                "y0": 5274,
+                "x1": 4509,
+                "y1": 7155
+            },
+            "class": "article",
+            "raw_text": "FARMVILLE, VA. The man\nwho organized free schools In\nPrince Edward County from\nscratch after the public schools\nhad been closed for four years\nsaid he hoped the job would\nnot have to be done again next\nfall.\n\n\nDR.. Neil ]. Sullivan, superin-\ntendent of the Prince Edward\nFree School Ass ociation, warned\ncounty officials to begin taking\nsteps now to reopen the public\nschools in the fall.\n\n\nHe said officials from other\nschool districts we're making al\nmost daily visits to Farmville\nto sign up teachers due to leave\nwhen the one-year free school\nends in August.\n\n\nArguments which could lead\nto an order to reopen the public\nschools will be heard by the US.\nSupreme Court in Washington\nTuesday.\n\n\nPrince Edward closed its pub\nlie schools in 1859 to avoid court\nordered classroom integration.\nThe free schools we're organized\nat the insistence of President\nKennedy, and are attended mainly\nby Negro students.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3713,
+                "y0": 4897,
+                "x1": 4416,
+                "y1": 5223
+            },
+            "class": "headline",
+            "raw_text": "Prince Edward\nFree School To\nClose Next Year",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 150,
+                "y0": 6608,
+                "x1": 964,
+                "y1": 7265
+            },
+            "class": "article",
+            "raw_text": "STsAUCUSTTNE, FLA. Police\narrested the II year old mother\nof Massachusetts Gov. Endico OFT\nPeabody Monday and used dogs\nto Jail Negro youths as racial\ndemonstrations reached new\npeak.\n\n\nMrs. Malcolm Peabody was\narrested by Police 1t. E. ].\nIrwin as she sat with five St.\nAugustine Negro women in the",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1050,
+                "y0": 6597,
+                "x1": 1863,
+                "y1": 7236
+            },
+            "class": "article",
+            "raw_text": "dining room of the Ponce de\nLeon Motor Lodge.\n\n\nWith typical New England re-\nserve, Mrs. Peabody smiled and\nsaid calmly, when Irwin asked\nher if she was going to leave:\n\n\n''We are not going to leave\"\n\n\nTold that she was under ar\nrest, she rose quietly and walked\nwith the others ahead of a group\nof officers to waiting car.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 191,
+                "y0": 6458,
+                "x1": 1294,
+                "y1": 6580
+            },
+            "class": "headline",
+            "raw_text": "Mrs Peabody Is Arrested",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1920,
+                "y0": 2761,
+                "x1": 2739,
+                "y1": 4584
+            },
+            "class": "article",
+            "raw_text": "Mrs. Thomas maple Ley\nPratt, l7l6 W. Mohave, heads the\nstate delegation to the western\nregional convention of Alpha Chi\nPi Omega Sorority and Frater-\nnifty.\n\n\nThe meetings will be held at\nthe Hilton Hotel in Denver, April\nSo.\n\n\nMrs. Pratt, local chapter ba-\nsileus will be accompanied by\nMesdames Delois Moore, Alma\nBerkeley, Beatrice White, Chris\ntine Jackson Tapp. Maefaire\nAlexander, Velma MCGEE, Idella\nSoublet, Emma Johnson and Mar\nceline Murray.\n\n\nShe Is serving her second con-\nsecutive term as basileus. Her\nother activities include member\nof Board of directors of the Ur-\nban League. grand district deputy\nof IBPOEW, NAACP, PISA trus-\ntee and First Institutional Baptist\nChurch.\n\n\nMrs. Pratt owns and manages\nthe Lady Ebonee Beauty Center.\n\n\nShe will head the committee\nwhich will return Ebonys Fash\nion Fair to the city later this\nyear.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 168,
+                "y0": 5848,
+                "x1": 1840,
+                "y1": 6447
+            },
+            "class": "article",
+            "raw_text": "grade school pupils participated in the civil rights demon\nMonday March &c. Capitol Building 100 W. Wash\nington.\n\n\nbegan Friday group high school and college\nstudents by Duncan CORE representative from\nSan Francisco appeared.\nDemonstrations halted Tuesday afternoon.\nBill 1884, the public accommodations bill the Arizona\nHouse of Representatives and awaits Senate action\n\n\nWILSON",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 121,
+                "y0": 1572,
+                "x1": 1846,
+                "y1": 4248
+            },
+            "class": "article",
+            "raw_text": "Last weekend q California ciUil rights leader\nCharles Duncan, a Congress of Racial Equality\n(CORE) bYesent0tive came to Phoenix and\norganized a demons tYotion in support Of\nHouse Bill 164.\n\n\nHe mustered small forces for the first\nCOUPLE of days and national attention sO0S\ndYooOu to the states Capitol Building. Mn. Dun\ncan, Of San Francis co, appeared and proceeded\nto at least accomplish a protest movement\nwjaile a couple of local National Association\nfor Advancement Of ColoYed People (NAACP)\nofficers agreed to compromise without hold\ninc a meeting of their members or interested\npersons Who would be ected by their deci-\nsion.\n\n\nArizona problems should be settled by ATi-\nzonQ citizens. There is no need for CalitoT-\nMIA citizen to come here and attempt to waeM\nso much authority. The efforts OF Mn. Duncan\nprone that the state, and county NAACP pro-\ngram is indeed ine1fe ctive and IS unable TO\ndiYect group activities for the area.\n\n\nAfter a spirited demons tyati0m on Monday\nseveral demonstrators WeYe jailed. Ru,n0YS\nspread that a caravan Of b5ckets a0eYe en-\nroute from California to bolster the protest\nlines. Arizona citizens should be able to pre-\nsent their os0n protests, programs or any\nother activity without assistance from C0kfoY-\nMIA or surrounding states.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 139,
+                "y0": 1375,
+                "x1": 1451,
+                "y1": 1538
+            },
+            "class": "headline",
+            "raw_text": "AN ARIZONA PROBLEM",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2843,
+                "y0": 2007,
+                "x1": 4503,
+                "y1": 2374
+            },
+            "class": "article",
+            "raw_text": "Harry Sessions. right check donated by the William H.\nPatterson Elks Lodge ATT Desert Mashe Golf Club.\n\n\nMr.. Sessions member Of the golf club said the 10th\ntournament will be held April SIS in the city,\n\n\nPresenting the check is Arthur Blackshear while sah\nWard, exalted ruler, watches.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 4932,
+                "y0": 411,
+                "x1": 6157,
+                "y1": 5814
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2819,
+                "y0": 6046,
+                "x1": 3099,
+                "y1": 6087
+            },
+            "class": "article",
+            "raw_text": "questioning.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-04-03"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "TRACK STAR\n\n\nWEEDS IN DETROIT",
+            "article": "DETROIT ASU sprint star\nHenry Carr and his high school\nsweetheart we're married in their\nhometown Sunday.\n\n\nCarr, 81, holder of the 20.3\nseconds world record for the\n22O-yard dash, and Glenda F.\nNixon, 20, Michigan State Uni\nversity coed, we're married at\nHartford Avenue Baptist Church.\n\n\nThe newly weds returned to\nTempe, where Carr, a junior at\nArizona State, will resume his\nstudies. Glenda said she will\nskip the current semester at\nMichigan State.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2814,
+                    "y0": 6098,
+                    "x1": 3453,
+                    "y1": 6273
+                },
+                {
+                    "x0": 2814,
+                    "y0": 6301,
+                    "x1": 3621,
+                    "y1": 7242
+                }
+            ],
+            "bbox": [
+                2814,
+                6098,
+                3621,
+                7242
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "WOMAN IS\n\n\nFOUND DEAD",
+            "article": "The body of a 25-year-old\nPhoenix woman was found last\nweek in a blood-spattered room\nin the home of Carl Watson\n27, oO3 E. Southern Pacific DR..\n\n\nPolice identified the woman as\nMrs. Theresa Simmons. Of l445\nE. Madison. They said suicide\nnote was found and a gas oven\nwas turned on.\n\n\nHowever, an Arizona Public\nService Co., investigator said\nthere was not enough natural\ngas in the room to cause death.\nDetective Jack Cozad said the\nbody showed no external injuries.\nOfficers are seeking Watson for\nQuestioning.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2848,
+                    "y0": 4856,
+                    "x1": 3331,
+                    "y1": 5020
+                },
+                {
+                    "x0": 2814,
+                    "y0": 5048,
+                    "x1": 3621,
+                    "y1": 6081
+                }
+            ],
+            "bbox": [
+                2814,
+                4856,
+                3621,
+                6081
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Hugh H. Gregory has beenpro-\nNOTED to assistant product man\nager in the Foods Division of\nLever Brothers Company, an\nnounced Ernest l.. Whitney, Jr.,\nmarketing vice president of the\ndivision. The Foods Division\nmarkets the company's marga-\nrines, shortening, dessert top\npings and pancake syrup.\n\n\nHe had been a promotion ma\nterials specialist since joining\nthe company in 1861. He pre-\nviously had been associated with\nthe F & M Schaefer Brewing\nCompany and Schenley Distillers\nCompany.\n\n\nA graduate of the University\nof Chicago with a BIS. degree\nin sociology, Mr.. Gregory was\na flight officer with the US.\nAir Corps during World War\nII. He resides in New York City\nwith his wife and two children.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1932,
+                    "y0": 5831,
+                    "x1": 2745,
+                    "y1": 7242
+                }
+            ],
+            "bbox": [
+                1932,
+                5831,
+                2745,
+                7242
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                12,
+                8
+            ],
+            "headline": "Prince Edward\nFree School To\nClose Next Year",
+            "article": "FARMVILLE, VA. The man\nwho organized free schools In\nPrince Edward County from\nscratch after the public schools\nhad been closed for four years\nsaid he hoped the job would\nnot have to be done again next\nfall.\n\n\nDR.. Neil ]. Sullivan, superin-\ntendent of the Prince Edward\nFree School Ass ociation, warned\ncounty officials to begin taking\nsteps now to reopen the public\nschools in the fall.\n\n\nHe said officials from other\nschool districts we're making al\nmost daily visits to Farmville\nto sign up teachers due to leave\nwhen the one-year free school\nends in August.\n\n\nArguments which could lead\nto an order to reopen the public\nschools will be heard by the US.\nSupreme Court in Washington\nTuesday.\n\n\nPrince Edward closed its pub\nlie schools in 1859 to avoid court\nordered classroom integration.\nThe free schools we're organized\nat the insistence of President\nKennedy, and are attended mainly\nby Negro students.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3713,
+                    "y0": 4897,
+                    "x1": 4416,
+                    "y1": 5223
+                },
+                {
+                    "x0": 3696,
+                    "y0": 5274,
+                    "x1": 4509,
+                    "y1": 7155
+                }
+            ],
+            "bbox": [
+                3696,
+                4897,
+                4509,
+                7155
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "STsAUCUSTTNE, FLA. Police\narrested the II year old mother\nof Massachusetts Gov. Endico OFT\nPeabody Monday and used dogs\nto Jail Negro youths as racial\ndemonstrations reached new\npeak.\n\n\nMrs. Malcolm Peabody was\narrested by Police 1t. E. ].\nIrwin as she sat with five St.\nAugustine Negro women in the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 150,
+                    "y0": 6608,
+                    "x1": 964,
+                    "y1": 7265
+                }
+            ],
+            "bbox": [
+                150,
+                6608,
+                964,
+                7265
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                24,
+                10
+            ],
+            "headline": "Mrs Peabody Is Arrested",
+            "article": "dining room of the Ponce de\nLeon Motor Lodge.\n\n\nWith typical New England re-\nserve, Mrs. Peabody smiled and\nsaid calmly, when Irwin asked\nher if she was going to leave:\n\n\n''We are not going to leave\"\n\n\nTold that she was under ar\nrest, she rose quietly and walked\nwith the others ahead of a group\nof officers to waiting car.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 191,
+                    "y0": 6458,
+                    "x1": 1294,
+                    "y1": 6580
+                },
+                {
+                    "x0": 1050,
+                    "y0": 6597,
+                    "x1": 1863,
+                    "y1": 7236
+                }
+            ],
+            "bbox": [
+                191,
+                6458,
+                1863,
+                7236
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Mrs. Thomas maple Ley\nPratt, l7l6 W. Mohave, heads the\nstate delegation to the western\nregional convention of Alpha Chi\nPi Omega Sorority and Frater-\nnifty.\n\n\nThe meetings will be held at\nthe Hilton Hotel in Denver, April\nSo.\n\n\nMrs. Pratt, local chapter ba-\nsileus will be accompanied by\nMesdames Delois Moore, Alma\nBerkeley, Beatrice White, Chris\ntine Jackson Tapp. Maefaire\nAlexander, Velma MCGEE, Idella\nSoublet, Emma Johnson and Mar\nceline Murray.\n\n\nShe Is serving her second con-\nsecutive term as basileus. Her\nother activities include member\nof Board of directors of the Ur-\nban League. grand district deputy\nof IBPOEW, NAACP, PISA trus-\ntee and First Institutional Baptist\nChurch.\n\n\nMrs. Pratt owns and manages\nthe Lady Ebonee Beauty Center.\n\n\nShe will head the committee\nwhich will return Ebonys Fash\nion Fair to the city later this\nyear.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1920,
+                    "y0": 2761,
+                    "x1": 2739,
+                    "y1": 4584
+                }
+            ],
+            "bbox": [
+                1920,
+                2761,
+                2739,
+                4584
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "grade school pupils participated in the civil rights demon\nMonday March &c. Capitol Building 100 W. Wash\nington.\n\n\nbegan Friday group high school and college\nstudents by Duncan CORE representative from\nSan Francisco appeared.\nDemonstrations halted Tuesday afternoon.\nBill 1884, the public accommodations bill the Arizona\nHouse of Representatives and awaits Senate action\n\n\nWILSON",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 168,
+                    "y0": 5848,
+                    "x1": 1840,
+                    "y1": 6447
+                }
+            ],
+            "bbox": [
+                168,
+                5848,
+                1840,
+                6447
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                22,
+                17
+            ],
+            "headline": "AN ARIZONA PROBLEM",
+            "article": "Last weekend q California ciUil rights leader\nCharles Duncan, a Congress of Racial Equality\n(CORE) bYesent0tive came to Phoenix and\norganized a demons tYotion in support Of\nHouse Bill 164.\n\n\nHe mustered small forces for the first\nCOUPLE of days and national attention sO0S\ndYooOu to the states Capitol Building. Mn. Dun\ncan, Of San Francis co, appeared and proceeded\nto at least accomplish a protest movement\nwjaile a couple of local National Association\nfor Advancement Of ColoYed People (NAACP)\nofficers agreed to compromise without hold\ninc a meeting of their members or interested\npersons Who would be ected by their deci-\nsion.\n\n\nArizona problems should be settled by ATi-\nzonQ citizens. There is no need for CalitoT-\nMIA citizen to come here and attempt to waeM\nso much authority. The efforts OF Mn. Duncan\nprone that the state, and county NAACP pro-\ngram is indeed ine1fe ctive and IS unable TO\ndiYect group activities for the area.\n\n\nAfter a spirited demons tyati0m on Monday\nseveral demonstrators WeYe jailed. Ru,n0YS\nspread that a caravan Of b5ckets a0eYe en-\nroute from California to bolster the protest\nlines. Arizona citizens should be able to pre-\nsent their os0n protests, programs or any\nother activity without assistance from C0kfoY-\nMIA or surrounding states.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 139,
+                    "y0": 1375,
+                    "x1": 1451,
+                    "y1": 1538
+                },
+                {
+                    "x0": 121,
+                    "y0": 1572,
+                    "x1": 1846,
+                    "y1": 4248
+                }
+            ],
+            "bbox": [
+                121,
+                1375,
+                1846,
+                4248
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "Harry Sessions. right check donated by the William H.\nPatterson Elks Lodge ATT Desert Mashe Golf Club.\n\n\nMr.. Sessions member Of the golf club said the 10th\ntournament will be held April SIS in the city,\n\n\nPresenting the check is Arthur Blackshear while sah\nWard, exalted ruler, watches.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2843,
+                    "y0": 2007,
+                    "x1": 4503,
+                    "y1": 2374
+                }
+            ],
+            "bbox": [
+                2843,
+                2007,
+                4503,
+                2374
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "questioning.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2819,
+                    "y0": 6046,
+                    "x1": 3099,
+                    "y1": 6087
+                }
+            ],
+            "bbox": [
+                2819,
+                6046,
+                3099,
+                6087
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-04-03_p1_sn84021918_0041421695A_1964040301_0349.json"
+        }
+    ]
+}

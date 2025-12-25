@@ -1,0 +1,169 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964013101/0284.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7392,
+        "width": 4784
+    },
+    "bboxes": [
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 4840,
+                "y0": 433,
+                "x1": 6094,
+                "y1": 5787
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3789,
+                "y0": 3799,
+                "x1": 4610,
+                "y1": 6180
+            },
+            "class": "article",
+            "raw_text": "Phoenix Union Evening School\nand the Maricopa County Health\nDepartment announced that re-\ngistration for the next Food\nhandler 8 courses is now open.\n\n\nAttendance at the 8-hour\ncourse in sanitary methods and\ntechniques for handling, prepar-\ning and serving food and drink in\ncommercial establishments is\nrequired by the County Health\nDepartment Sanitary Code. New\ncourses start every four weeks.\n\n\nThis requirement may be met\nby attending a 2-hour session,\nonce a week, for 4 weeks. Upon\nsatisfactory completion of the.\ncourse, certificate will be\nissued to those attending.\n\n\nFoodhandlers who have not\ncompleted this course are to\nregister for the new courses\nwhich begin February 8, A, S, and\n6, 1864. Registration can be\nmade in the classroom of Phoe-\nnix Union Evening School, Room\nEOS. Building 8, while attending\nthe first session on the above\ndates. The classes will be held\nfrom TO pm. for four weeks.\nAn afternoon class will be held\nfrom $40 pm. to 500 pm.\nbeginning on February 8, 1864.\nRegistration fee for the course\nis ST. so.\n\n\nAdditional information may be\nobtained by calling the Division\nof Environmental Sanitation,\nMaricopa County Health Depart\nment, at AL 8-638l.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3812,
+                "y0": 3609,
+                "x1": 4408,
+                "y1": 3777
+            },
+            "class": "headline",
+            "raw_text": "FOODHANDLERS\nCOURSE OPENS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2905,
+                "y0": 3707,
+                "x1": 3738,
+                "y1": 6255
+            },
+            "class": "article",
+            "raw_text": "LOUISVILLE, Ky.-Addressing\nmore than 1000 persons, NAACP\nExecutive Secretary Roy Wilkins\nwarned against a proposal to\ndelay introduction of a public\naccommodations bill in the Ken\nlucky State Legislature until\nMarch 8, awaiting action by Con-\ngress on the pending Federal\nrights bill.\n\n\nGov. Edward T. Breathitt has\nannounced that he will put pub\nlie accommodations bill before\nthe General Assembly by March\n8 if Congress has not acted by\nthat time.\n\n\nIn his address here, Jan. 20,\nthe NAACP leader noted that the\nGovernor timetable would allow\nonly Is days before the close of\nthe legislative session. In such\nan advent. the bill would be\ncaught in ga rat race and get\nstomped to DEATH\" Mr.. wilkins\nurged immediate introduction Of\nthe bill and prompt action on it.\n\n\nTurning to the national scene,\nMr.. wilkins noted that Louis\nVile Congressman. NJ. G. Sny-\nder, had failed to include civil\nrights among issues in public\nopinion poll he is conducting In\nhis district.\n\n\n''In his mind\" the NAACP\nleader said, \"civil rights is not\nan Issue. l hope you will re-\nmember Congressman Synder\ncome November. You just re-\nmember him even If they run a\nchimpanzee against him. We know\nwhere Congressman Snyder\nstands, but we don't know what\nthe chimp might do\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2911,
+                "y0": 3505,
+                "x1": 3553,
+                "y1": 3668
+            },
+            "class": "headline",
+            "raw_text": "WILKINS URGES\nKY. RIGHTS BILL",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-01-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                1
+            ],
+            "headline": "FOODHANDLERS\nCOURSE OPENS",
+            "article": "Phoenix Union Evening School\nand the Maricopa County Health\nDepartment announced that re-\ngistration for the next Food\nhandler 8 courses is now open.\n\n\nAttendance at the 8-hour\ncourse in sanitary methods and\ntechniques for handling, prepar-\ning and serving food and drink in\ncommercial establishments is\nrequired by the County Health\nDepartment Sanitary Code. New\ncourses start every four weeks.\n\n\nThis requirement may be met\nby attending a 2-hour session,\nonce a week, for 4 weeks. Upon\nsatisfactory completion of the.\ncourse, certificate will be\nissued to those attending.\n\n\nFoodhandlers who have not\ncompleted this course are to\nregister for the new courses\nwhich begin February 8, A, S, and\n6, 1864. Registration can be\nmade in the classroom of Phoe-\nnix Union Evening School, Room\nEOS. Building 8, while attending\nthe first session on the above\ndates. The classes will be held\nfrom TO pm. for four weeks.\nAn afternoon class will be held\nfrom $40 pm. to 500 pm.\nbeginning on February 8, 1864.\nRegistration fee for the course\nis ST. so.\n\n\nAdditional information may be\nobtained by calling the Division\nof Environmental Sanitation,\nMaricopa County Health Depart\nment, at AL 8-638l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3812,
+                    "y0": 3609,
+                    "x1": 4408,
+                    "y1": 3777
+                },
+                {
+                    "x0": 3789,
+                    "y0": 3799,
+                    "x1": 4610,
+                    "y1": 6180
+                }
+            ],
+            "bbox": [
+                3789,
+                3609,
+                4610,
+                6180
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-31_p1_sn84021918_0041421695A_1964013101_0284.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "WILKINS URGES\nKY. RIGHTS BILL",
+            "article": "LOUISVILLE, Ky.-Addressing\nmore than 1000 persons, NAACP\nExecutive Secretary Roy Wilkins\nwarned against a proposal to\ndelay introduction of a public\naccommodations bill in the Ken\nlucky State Legislature until\nMarch 8, awaiting action by Con-\ngress on the pending Federal\nrights bill.\n\n\nGov. Edward T. Breathitt has\nannounced that he will put pub\nlie accommodations bill before\nthe General Assembly by March\n8 if Congress has not acted by\nthat time.\n\n\nIn his address here, Jan. 20,\nthe NAACP leader noted that the\nGovernor timetable would allow\nonly Is days before the close of\nthe legislative session. In such\nan advent. the bill would be\ncaught in ga rat race and get\nstomped to DEATH\" Mr.. wilkins\nurged immediate introduction Of\nthe bill and prompt action on it.\n\n\nTurning to the national scene,\nMr.. wilkins noted that Louis\nVile Congressman. NJ. G. Sny-\nder, had failed to include civil\nrights among issues in public\nopinion poll he is conducting In\nhis district.\n\n\n''In his mind\" the NAACP\nleader said, \"civil rights is not\nan Issue. l hope you will re-\nmember Congressman Synder\ncome November. You just re-\nmember him even If they run a\nchimpanzee against him. We know\nwhere Congressman Snyder\nstands, but we don't know what\nthe chimp might do\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2911,
+                    "y0": 3505,
+                    "x1": 3553,
+                    "y1": 3668
+                },
+                {
+                    "x0": 2905,
+                    "y0": 3707,
+                    "x1": 3738,
+                    "y1": 6255
+                }
+            ],
+            "bbox": [
+                2905,
+                3505,
+                3738,
+                6255
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-31_p1_sn84021918_0041421695A_1964013101_0284.json"
+        }
+    ]
+}

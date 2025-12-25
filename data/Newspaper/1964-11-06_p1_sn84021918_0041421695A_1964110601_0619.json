@@ -1,0 +1,408 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964110601/0619.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7395,
+        "width": 4910
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1911,
+                "y0": 3645,
+                "x1": 2733,
+                "y1": 5709
+            },
+            "class": "article",
+            "raw_text": "Henry A. Cabirac, Jr., of New\nOrleans ha been named director\nof the Phoenix Human Relations\nCommission by William P. Reilly\nchairman.\n\n\nThe city council approved the\nappointment and a proposed an\nnual salary of $l2,3l2.\n\n\nHe said: IA screening commit\ntee carefully reviewed 40 appli-\ncations for the post. MIR. Cab\nirac has had excellent training\nand experience in the field Of\nhuman relations. He ha sbeen ex-\necutive director of the New Or\nleans Catholic Council on HUI\nman Relations since 1861 and\nat the same time wa S in charge\nof the Southern Field Service of\nthe Catholic Conference on Inter-\nracial Justice.\n\n\n\"He helped plan successful\ncompliance with the public &C\ncommodations section of the Civil\nRights Bill and in desegregating\nCatholic schools in New Orleans\nand Atlanta, Ga. He was sue\ncessful in achieving harmony in\nhis work with white and colored\nleaders in l4-state area\"\n\n\nCabirac, 40, is World War\nII Navy veteran, graduate Of\nTulane University and is mar\nried and has three children. He\nis native of New Orleans.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1923,
+                "y0": 3443,
+                "x1": 2617,
+                "y1": 3634
+            },
+            "class": "headline",
+            "raw_text": "R eIutions\n\n\nDirector N am ed",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2824,
+                "y0": 6199,
+                "x1": 3640,
+                "y1": 7141
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA D. Ward\nNichols, suspended bishop of the\nAfrican Methodist Episcopal\nChurch, was relea sed after\nthree man panel of judges upset\nthe guilty of theft charges against\nhim.\n\n\nBishop Nichols. of Long Island.\nN. Y, had appealed his case.\nHe was convicted by a circuit\ncourt on embodiment and fraud\nlent annexing of $4,000 in\nGuiding church monies for his\npersonal bank account.\n\n\nThe IS year old bishop was\niubiliant upon his acquittal.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2818,
+                "y0": 5973,
+                "x1": 3322,
+                "y1": 6176
+            },
+            "class": "headline",
+            "raw_text": "AME Bishop\nIs Freed",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1923,
+                "y0": 5991,
+                "x1": 2744,
+                "y1": 7026
+            },
+            "class": "article",
+            "raw_text": "SEATTLE = Little Willie John\nwas jailed on a murder charge.\nHe is accused of stabbing 24o\npound man to death during fight\nat a wild interracial drinking\nparty.\n\n\nThe 1870 lb. singer, known for\nhis recording of Fever\" had\nrented the apartment during his\nnightclub appearance in the city.\n\n\nThe stabbing resulted from the\nbig mans refusal to give his\nseat to a young woman guest.\nThe victim, Kendall Roundtree\nwas At. His accused slayer\nWilliam Edward (Little Willie)\nJohn is III, and 5 #, S inches.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1940,
+                "y0": 5754,
+                "x1": 2479,
+                "y1": 5974
+            },
+            "class": "headline",
+            "raw_text": "Singer Held\nIn Staying",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1911,
+                "y0": 2455,
+                "x1": 2733,
+                "y1": 3392
+            },
+            "class": "article",
+            "raw_text": "John c. Foster, executive d.\nrector of the Arizona Blue Cross\nBlue Shield Plan, announced the\npromotion. of Walter M. Spears,\n24l8 West Wa shington, to super\nvisor of the Mail and Stock De-\npartment.\n\n\nSpears, a native of New Or\nleans, La, has been with the plan\nfor Is years. He attended the\nNew Orleans YMCA School Of\nCommerce and Lam son Business\nCollege. He and his wife are\nthe parents of four children. He\nis member Of the Church of\nGod in Christ.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3702,
+                "y0": 6239,
+                "x1": 4518,
+                "y1": 7066
+            },
+            "class": "article",
+            "raw_text": "After a three hour special\nsession, the Texas Dental AS\nISOLATION, voted to accept Negro\nmembers if they are recognized\nas members of local dental\ngroups.\n\n\nThis action repealed the 1861\nrule which prohibited Negro den\nfists from belonging to the state\ngroup although they belonged toa\nlocal one.\n\n\n1t is reported there are ap-\nproximately 100 Negro dentists\nin the tate.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3697,
+                "y0": 5956,
+                "x1": 4420,
+                "y1": 6211
+            },
+            "class": "headline",
+            "raw_text": "NEGRO DENTISTS\nACCEPTABLE",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2813,
+                "y0": 1866,
+                "x1": 4495,
+                "y1": 3051
+            },
+            "class": "article",
+            "raw_text": "Mrs. Banks, o-publisher Arizona\nTribune, shows of weekly Wallace\nH. Terry II, correspondent with Time Magazine.\nTerry in the Valley with national international\n\n\n\nDental campaign.\n\n\npoint of general interest found when Mrs.\nTerry discovered that they shared hometoWns Indianapolis\nHe is native New Yorker,\nIndianapolis. He attended Brown University Providence\nwhere he the first Negro editor of paper.\nAfter receiving degree from the University Chicago\nTerry ordained minister of the Disciples Christ.\nHe became interested relations and journalism\nthe staffs of the Providence Journal\npolls News four years hngton\njoining Time la year,\n\n\nHis of achievements includes being\nhe interviewed\nCow Orval Faubus during the days racial \" Arkansas.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 115,
+                "y0": 1403,
+                "x1": 1814,
+                "y1": 5547
+            },
+            "class": "article",
+            "raw_text": "The decisive UictO1y Of the Democratic\nParty for the presidential zee and in most\nother cOngTe SS iO,a0l and state and county Of\nfees throughout the nation proves that the\nthinning party wielded no magic.\n\n\nThe defeat of the Republican Party fol-\nLoaOed the doanstaH Of national ticket CON-\nposed Of Senator Barry Golduutev and Rep.\nWilliam Miller, former Republican National\nPanty chairman. They 1VeYe unable to in\nthuence the majority of UOteYS in the nation\nthat peace, bT0Sbe 11ty and extended federal\nprograms weYe not beneficial. In re Tying too\ngreatly ON dis content and Wide spread Obb0Si-\nton to such important issues as the ciUil\nrights act, the Tennessee Valley Authority,\nand nucLe0T 1Oe0bOnS cu1t0iln1ent, Barry\nGOldU0teY 1U0S Uictin1 of q NARROW and\nunre0hstic platform devised by iuexbeY-\nfenced advisers.\n\n\nOn the other hand, President johnson, one\nof the 1COYld'S most 0Stute politicians, dis\nplayed his thinning nays at every stop on his\ncampaign route. He en1bhaS sized the progress\nSes of the nation and made proposals that\nwould giue help to many areas. He remained\nfrom the negative type of mate rial used in\ncessantly by his Republican opponent\n\n\nThere W0s no naagician'S atund In Tuesday s\nelections many excellent candidates a0eYe\nsupported. Some we're defeated and some\nNON, but some Of the lessons learned mil\nunfortunately be forgotten Within the next\nfour years.\n\n\nPerhaps one Of the most significant facts\nto remember is the failure of a back lash\nvote. This byoveS that more Anne y1canS are\nnot disturbed ovev ne cent equality moves for\nand by Negroes.\n\n\nA second important fact is the large turn\nout by Negro vOteTS all OUeY the nation At\nlast they are lea ming the importance Of the\nballot box.\n\n\nThe Arizona Tribune extends c0ngyutul0-\ntionS to the President Johnson and Vice Pres\nident Humphrey. We all look forward to\nunited efforts of u0i,a1evs and losers for\ngreater progress in all fifty states.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 687,
+                "y0": 1247,
+                "x1": 1271,
+                "y1": 1387
+            },
+            "class": "headline",
+            "raw_text": "NO MAGIC",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-11-06"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "R eIutions\n\n\nDirector N am ed",
+            "article": "Henry A. Cabirac, Jr., of New\nOrleans ha been named director\nof the Phoenix Human Relations\nCommission by William P. Reilly\nchairman.\n\n\nThe city council approved the\nappointment and a proposed an\nnual salary of $l2,3l2.\n\n\nHe said: IA screening commit\ntee carefully reviewed 40 appli-\ncations for the post. MIR. Cab\nirac has had excellent training\nand experience in the field Of\nhuman relations. He ha sbeen ex-\necutive director of the New Or\nleans Catholic Council on HUI\nman Relations since 1861 and\nat the same time wa S in charge\nof the Southern Field Service of\nthe Catholic Conference on Inter-\nracial Justice.\n\n\n\"He helped plan successful\ncompliance with the public &C\ncommodations section of the Civil\nRights Bill and in desegregating\nCatholic schools in New Orleans\nand Atlanta, Ga. He was sue\ncessful in achieving harmony in\nhis work with white and colored\nleaders in l4-state area\"\n\n\nCabirac, 40, is World War\nII Navy veteran, graduate Of\nTulane University and is mar\nried and has three children. He\nis native of New Orleans.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1923,
+                    "y0": 3443,
+                    "x1": 2617,
+                    "y1": 3634
+                },
+                {
+                    "x0": 1911,
+                    "y0": 3645,
+                    "x1": 2733,
+                    "y1": 5709
+                }
+            ],
+            "bbox": [
+                1911,
+                3443,
+                2733,
+                5709
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-06_p1_sn84021918_0041421695A_1964110601_0619.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "AME Bishop\nIs Freed",
+            "article": "PHILADELPHIA D. Ward\nNichols, suspended bishop of the\nAfrican Methodist Episcopal\nChurch, was relea sed after\nthree man panel of judges upset\nthe guilty of theft charges against\nhim.\n\n\nBishop Nichols. of Long Island.\nN. Y, had appealed his case.\nHe was convicted by a circuit\ncourt on embodiment and fraud\nlent annexing of $4,000 in\nGuiding church monies for his\npersonal bank account.\n\n\nThe IS year old bishop was\niubiliant upon his acquittal.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2818,
+                    "y0": 5973,
+                    "x1": 3322,
+                    "y1": 6176
+                },
+                {
+                    "x0": 2824,
+                    "y0": 6199,
+                    "x1": 3640,
+                    "y1": 7141
+                }
+            ],
+            "bbox": [
+                2818,
+                5973,
+                3640,
+                7141
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-06_p1_sn84021918_0041421695A_1964110601_0619.json"
+        },
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "Singer Held\nIn Staying",
+            "article": "SEATTLE = Little Willie John\nwas jailed on a murder charge.\nHe is accused of stabbing 24o\npound man to death during fight\nat a wild interracial drinking\nparty.\n\n\nThe 1870 lb. singer, known for\nhis recording of Fever\" had\nrented the apartment during his\nnightclub appearance in the city.\n\n\nThe stabbing resulted from the\nbig mans refusal to give his\nseat to a young woman guest.\nThe victim, Kendall Roundtree\nwas At. His accused slayer\nWilliam Edward (Little Willie)\nJohn is III, and 5 #, S inches.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1940,
+                    "y0": 5754,
+                    "x1": 2479,
+                    "y1": 5974
+                },
+                {
+                    "x0": 1923,
+                    "y0": 5991,
+                    "x1": 2744,
+                    "y1": 7026
+                }
+            ],
+            "bbox": [
+                1923,
+                5754,
+                2744,
+                7026
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-06_p1_sn84021918_0041421695A_1964110601_0619.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "John c. Foster, executive d.\nrector of the Arizona Blue Cross\nBlue Shield Plan, announced the\npromotion. of Walter M. Spears,\n24l8 West Wa shington, to super\nvisor of the Mail and Stock De-\npartment.\n\n\nSpears, a native of New Or\nleans, La, has been with the plan\nfor Is years. He attended the\nNew Orleans YMCA School Of\nCommerce and Lam son Business\nCollege. He and his wife are\nthe parents of four children. He\nis member Of the Church of\nGod in Christ.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1911,
+                    "y0": 2455,
+                    "x1": 2733,
+                    "y1": 3392
+                }
+            ],
+            "bbox": [
+                1911,
+                2455,
+                2733,
+                3392
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-11-06_p1_sn84021918_0041421695A_1964110601_0619.json"
+        },
+        {
+            "object_ids": [
+                13,
+                8
+            ],
+            "headline": "NEGRO DENTISTS\nACCEPTABLE",
+            "article": "After a three hour special\nsession, the Texas Dental AS\nISOLATION, voted to accept Negro\nmembers if they are recognized\nas members of local dental\ngroups.\n\n\nThis action repealed the 1861\nrule which prohibited Negro den\nfists from belonging to the state\ngroup although they belonged toa\nlocal one.\n\n\n1t is reported there are ap-\nproximately 100 Negro dentists\nin the tate.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3697,
+                    "y0": 5956,
+                    "x1": 4420,
+                    "y1": 6211
+                },
+                {
+                    "x0": 3702,
+                    "y0": 6239,
+                    "x1": 4518,
+                    "y1": 7066
+                }
+            ],
+            "bbox": [
+                3697,
+                5956,
+                4518,
+                7066
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-11-06_p1_sn84021918_0041421695A_1964110601_0619.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Mrs. Banks, o-publisher Arizona\nTribune, shows of weekly Wallace\nH. Terry II, correspondent with Time Magazine.\nTerry in the Valley with national international\n\n\n\nDental campaign.\n\n\npoint of general interest found when Mrs.\nTerry discovered that they shared hometoWns Indianapolis\nHe is native New Yorker,\nIndianapolis. He attended Brown University Providence\nwhere he the first Negro editor of paper.\nAfter receiving degree from the University Chicago\nTerry ordained minister of the Disciples Christ.\nHe became interested relations and journalism\nthe staffs of the Providence Journal\npolls News four years hngton\njoining Time la year,\n\n\nHis of achievements includes being\nhe interviewed\nCow Orval Faubus during the days racial \" Arkansas.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2813,
+                    "y0": 1866,
+                    "x1": 4495,
+                    "y1": 3051
+                }
+            ],
+            "bbox": [
+                2813,
+                1866,
+                4495,
+                3051
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-06_p1_sn84021918_0041421695A_1964110601_0619.json"
+        },
+        {
+            "object_ids": [
+                21,
+                18
+            ],
+            "headline": "NO MAGIC",
+            "article": "The decisive UictO1y Of the Democratic\nParty for the presidential zee and in most\nother cOngTe SS iO,a0l and state and county Of\nfees throughout the nation proves that the\nthinning party wielded no magic.\n\n\nThe defeat of the Republican Party fol-\nLoaOed the doanstaH Of national ticket CON-\nposed Of Senator Barry Golduutev and Rep.\nWilliam Miller, former Republican National\nPanty chairman. They 1VeYe unable to in\nthuence the majority of UOteYS in the nation\nthat peace, bT0Sbe 11ty and extended federal\nprograms weYe not beneficial. In re Tying too\ngreatly ON dis content and Wide spread Obb0Si-\nton to such important issues as the ciUil\nrights act, the Tennessee Valley Authority,\nand nucLe0T 1Oe0bOnS cu1t0iln1ent, Barry\nGOldU0teY 1U0S Uictin1 of q NARROW and\nunre0hstic platform devised by iuexbeY-\nfenced advisers.\n\n\nOn the other hand, President johnson, one\nof the 1COYld'S most 0Stute politicians, dis\nplayed his thinning nays at every stop on his\ncampaign route. He en1bhaS sized the progress\nSes of the nation and made proposals that\nwould giue help to many areas. He remained\nfrom the negative type of mate rial used in\ncessantly by his Republican opponent\n\n\nThere W0s no naagician'S atund In Tuesday s\nelections many excellent candidates a0eYe\nsupported. Some we're defeated and some\nNON, but some Of the lessons learned mil\nunfortunately be forgotten Within the next\nfour years.\n\n\nPerhaps one Of the most significant facts\nto remember is the failure of a back lash\nvote. This byoveS that more Anne y1canS are\nnot disturbed ovev ne cent equality moves for\nand by Negroes.\n\n\nA second important fact is the large turn\nout by Negro vOteTS all OUeY the nation At\nlast they are lea ming the importance Of the\nballot box.\n\n\nThe Arizona Tribune extends c0ngyutul0-\ntionS to the President Johnson and Vice Pres\nident Humphrey. We all look forward to\nunited efforts of u0i,a1evs and losers for\ngreater progress in all fifty states.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 687,
+                    "y0": 1247,
+                    "x1": 1271,
+                    "y1": 1387
+                },
+                {
+                    "x0": 115,
+                    "y0": 1403,
+                    "x1": 1814,
+                    "y1": 5547
+                }
+            ],
+            "bbox": [
+                115,
+                1247,
+                1814,
+                5547
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-11-06_p1_sn84021918_0041421695A_1964110601_0619.json"
+        }
+    ]
+}

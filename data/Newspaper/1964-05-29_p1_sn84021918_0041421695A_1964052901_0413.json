@@ -1,0 +1,547 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052901/0413.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4885
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1908,
+                "y0": 4327,
+                "x1": 2727,
+                "y1": 5500
+            },
+            "class": "article",
+            "raw_text": "Nathaniel Robins on, 2S4o West\nJefferson ST., has received Nat\nional Science Foundation grant.\nHe received one two years ago.\nalso.\n\n\nMr.. Robinson will attend the\nsummer session at the University\nof Missouri. at Columbia. He will\nstudy geology.\n\n\nA teacher at Julian School in the\nRoosevelt District for the past\nthirteen years. MIR. Robinson\nholds bachelors degree from\nLangston University and mas\nter's degree from ASU.\n\n\nHe is the schools science\ncoordinator and Is special events\nchairman for the second time for\nthe Roosevelt Classroom Teach\ners Assn.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1926,
+                "y0": 5789,
+                "x1": 2733,
+                "y1": 6787
+            },
+            "class": "article",
+            "raw_text": "Salt River Power District will\ncontribute nearly SIS million to\nthe county treasury in lieu of 1864\ntaxes.\n\n\nThe county's share will total\nnearly 100000, county manager\nJoseph Herrick said. The same\namount will 60 to the state and\nthe balance will be divided among\ntowns in the county using Salt\nRiver facilities, the county junior\ncollege district and various\nschool districts.\n\n\nFirst half of the lieu tax pay\nment will be made in November,\nthe balance is due in May of\nnext year.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1937,
+                "y0": 5533,
+                "x1": 2478,
+                "y1": 5755
+            },
+            "class": "headline",
+            "raw_text": "SRP To Pay\nLieu Taxes",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 145,
+                "y0": 6224,
+                "x1": 958,
+                "y1": 7112
+            },
+            "class": "article",
+            "raw_text": "CANNES. France--\"One Po-\ntato Two Potato\" a movie deal\ning with the marriage of white\nand Negro in the United States\nwon an award at the annual French\nfilm festival.\n\n\nThe picture which was ignored\nby the Hollywood selection COM\nmittee won an ovation.\n\n\nDirector Larry Peerce said\nthe picture costs S250,000. 1t\ntells how white divorcee loses\nlegal custody of her young daugh-\nter after marrying Negro fac\ntory worker.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 145,
+                "y0": 5963,
+                "x1": 935,
+                "y1": 6190
+            },
+            "class": "headline",
+            "raw_text": "CONTROVERSIAL FILM\nWINS CANNES AWARDS",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2778,
+                "y0": 5412,
+                "x1": 3603,
+                "y1": 6950
+            },
+            "class": "article",
+            "raw_text": "The Rev. Martin Luther King,\nJr.. will appear in the Valley for\nthe first time ate GOODWIN Stadium,\nAS.U. Tempe, on June 8, 8 pm.\nHis appearance is sponsored by\nthe National Association for the\nAdvancement of Colored People\nand of leaders of church groups.\n\n\nNamed as Time Magazine\n\"Man of the Year\" for 1868 DR..\nKing is internationally the known\nleader of the non-vlolent civil\nrights movement.\n\n\nMembers of religious circles\nin Phoenix spoons oring the add\nress are: Rt. Rev. Monsignor\nRobert Donohoe, DR.. Kermit\nLong, Rabbi Albert l.. Plotkin,\nRevs. C. N. Hall, A. G. Ken\ndric and Louis Eaton, director\nof the Phoenix Council of Chur-\ncheS.\n\n\nFurther Information can be\nobtained at 212 Greater Arizona\nSavings and Loan Building. Phone\n252-5296.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2825,
+                "y0": 5069,
+                "x1": 3418,
+                "y1": 5389
+            },
+            "class": "headline",
+            "raw_text": "Rev. Martin\n|. King Here\nJune 3",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1056,
+                "y0": 6450,
+                "x1": 1863,
+                "y1": 7101
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Arizona'S lone\nrepresentative in the Olympic\nboxing trials was eliminated in\nthe first round Tuesday.\n\n\nAlton Golfer. Phoenix, was out\npointed by Henry Aaron of At\nlanta, Ca, and Fl. Campbell, KY,\nin their lightweight bout.\n\n\nGolfer is a member of the\nRuss Keeton Market team of\nPhoenix.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1056,
+                "y0": 6230,
+                "x1": 1642,
+                "y1": 6416
+            },
+            "class": "headline",
+            "raw_text": "PHOENIX\n\n\nBOXER DEFEATED",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 110,
+                "y0": 3700,
+                "x1": 935,
+                "y1": 5882
+            },
+            "class": "article",
+            "raw_text": "A letter from Roy Cooksey,\nPresident of the Southwest Area\nConference of the National Asso-\ncitation for the Advancement of\nColored People has been mailed\nto John E. Evans, secretary\ntreasurer and executive board\nmember of the State AFL-C1O.\n\n\nNAACP urges the State AFL-\nClio executive board to recon-\nslider their decision to table the\nrecommendation of the State\nAFL-Cio Civil Rights Commit\ntee; that would request funds\nfrom the international union to\nbe matched by the state to employ\nNn experienced Negro civil rights\nfield worker.\n\n\nCooksey who is also a member\nof the State Civil Rights Commit\ntee (AFL-CIO) said that the his\ntory OF the Negro and organized\nlabor in Arizona would indicate\nthat minorities can only be i'm\npartially represented by Negro\nwho is directly associated with\nthe struggle of minority groups.\n\n\nCooksey also stated that unem-\nployment even among unskilled\nworkers Is much higher than Ne\ngroes. So since membership\ndues have been raised recently\nand assessments levied in the\npast for less worthy causes the\nexecutive board should not hesi-\ntate to give this their immediate\napproval.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 127,
+                "y0": 3405,
+                "x1": 883,
+                "y1": 3678
+            },
+            "class": "headline",
+            "raw_text": "NAACP Prexy Urges\nUnion Hiring OF\n\n\nNegro Rights Workers",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1021,
+                "y0": 3666,
+                "x1": 1846,
+                "y1": 6149
+            },
+            "class": "article",
+            "raw_text": "CHICAGO = The Chicago Trib-\nune said it has learned the War\nrem Commission has authorized\nan investigation of reports of\nheavy drinking by some Secret\nService agents the night before\nPresident Kennedy was assassi-\nmated.\n\n\nThe Tribune noted that dis\nclosure closely followed charges\nby Abraham Bolden, a former\nmember of the White House body\nguard detail, that certain agents\ndrank heavily before and after\ntheir assignments in Dallas.\n\n\n\"a commission member also\ntold the Tribune that agent Boil\nden, first Negro ever assigned\nto the presidential protective de-\ntail. probably will be called to\ntestify before the commission\"\nthe story said.\n\n\n1t quoted the source as saying\nit \"has always been the COM\nmissions policy to let anyone\nwho wants to testify be heard.\nCertainly. man who has created\nthis notoriety and said he wants\nto testify. ought to be heard\"\n\n\nBolden was indicted by fed\neral grand jury on three counts.\ncharging him with soliciting\nthrough an intermediary\n$4,000 payroll for delivery of\nsecret government file on the\ninvestigation of counterfeting\nring.\n\n\nBolden has denied the charges,\nsaying he was arrested on false\ncharges in an effort to keep him\nfrom testifying before the War\nrem Commission.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1032,
+                "y0": 3422,
+                "x1": 1799,
+                "y1": 3643
+            },
+            "class": "headline",
+            "raw_text": "Negro Agent Charges\n\n\nFake Arrest In Chicago",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3678,
+                "y0": 5243,
+                "x1": 4496,
+                "y1": 7060
+            },
+            "class": "article",
+            "raw_text": "OKLAHOMA CITY The Unit\ned Presbyterian Church VISA.\nelected the first Negro moderator\nin its history, the Rev. Elder\nG. Hawkins.\n\n\nThe voting commissioners\nfrom 1914 presbyteries gave the\n55-year-old New York City min\nlister 465-368 margin over the\nRev. Alva Ray Cartilage of Erie.\nPa.\n\n\nThe election of the Negro mod\norator underlines the militant\nrole the church's leaders have\ntaken against racial discrimina-\ntion He Is pastor of St. Angus\ntin Presbyterian Church In the\nBronx.\n\n\nThe United Presbyterian\nChurch has almost 3.3 million\nmembers in about 9,l00 churches\nin the country, but only minor\nfraction are in the southeast\nern states.\n\n\nThe Rev. Hawkins has built\nSt. Augustine church from nine\nmembers to more than 1000\nin his 26 years as its pastor.\nThe membership includes all\nraces and services are In sew\neral languages.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3707,
+                "y0": 5023,
+                "x1": 4380,
+                "y1": 5215
+            },
+            "class": "headline",
+            "raw_text": "Negro Heads\n\n\nUnited Presbyterian",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2807,
+                "y0": 498,
+                "x1": 4485,
+                "y1": 3063
+            },
+            "class": "article",
+            "raw_text": "EUeYy June thousands of graduates from\ngrammar school, high school, colleges and\nhear endless speeches exhoYting\nthem to seek the future with more learning.\n\n\nGraduates from the length and breadth Of\nour United States are adnaOnisehed to go for\n1VaYd and conquer the world with a diploma\nand a fearless heart.\n\n\nToday in this quickly changing world this\nadUice is not sufficient. Graduates from the\neighth grade should be encouraged by great\neY numbers Of private citizens who could\nspend a fen dollars to aid some aspiring stu\ndent to enter and stay in high school.\n\n\nThere are surely some busiae sSnen IN\nPhoenix who could contribute scholarships\nto deserving eighth grade and high school\ngraduates.\n\n\nLocally, approximately three ha'adred Ne\ngro pupils gYad,tate from the Valley elenaem-\ntoYy schools, less than fifty complete high\nschool and less than q dozen complete either\nthe junior college or the university.\n\n\nMany more opportunities are open to the\nyounger generation than eveT before. THIS\ngroup of young people aOho graduate must re-\nahze that they are kving in an age when the\nsky is their limit. Horizons are aOide and IN\ncreased employment opportunities are mo1t-\ning.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2952,
+                "y0": 284,
+                "x1": 4224,
+                "y1": 453
+            },
+            "class": "headline",
+            "raw_text": "The SKY IS The LIMIT",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-05-29"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Nathaniel Robins on, 2S4o West\nJefferson ST., has received Nat\nional Science Foundation grant.\nHe received one two years ago.\nalso.\n\n\nMr.. Robinson will attend the\nsummer session at the University\nof Missouri. at Columbia. He will\nstudy geology.\n\n\nA teacher at Julian School in the\nRoosevelt District for the past\nthirteen years. MIR. Robinson\nholds bachelors degree from\nLangston University and mas\nter's degree from ASU.\n\n\nHe is the schools science\ncoordinator and Is special events\nchairman for the second time for\nthe Roosevelt Classroom Teach\ners Assn.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 4327,
+                    "x1": 2727,
+                    "y1": 5500
+                }
+            ],
+            "bbox": [
+                1908,
+                4327,
+                2727,
+                5500
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "SRP To Pay\nLieu Taxes",
+            "article": "Salt River Power District will\ncontribute nearly SIS million to\nthe county treasury in lieu of 1864\ntaxes.\n\n\nThe county's share will total\nnearly 100000, county manager\nJoseph Herrick said. The same\namount will 60 to the state and\nthe balance will be divided among\ntowns in the county using Salt\nRiver facilities, the county junior\ncollege district and various\nschool districts.\n\n\nFirst half of the lieu tax pay\nment will be made in November,\nthe balance is due in May of\nnext year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1937,
+                    "y0": 5533,
+                    "x1": 2478,
+                    "y1": 5755
+                },
+                {
+                    "x0": 1926,
+                    "y0": 5789,
+                    "x1": 2733,
+                    "y1": 6787
+                }
+            ],
+            "bbox": [
+                1926,
+                5533,
+                2733,
+                6787
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                17,
+                5
+            ],
+            "headline": "CONTROVERSIAL FILM\nWINS CANNES AWARDS",
+            "article": "CANNES. France--\"One Po-\ntato Two Potato\" a movie deal\ning with the marriage of white\nand Negro in the United States\nwon an award at the annual French\nfilm festival.\n\n\nThe picture which was ignored\nby the Hollywood selection COM\nmittee won an ovation.\n\n\nDirector Larry Peerce said\nthe picture costs S250,000. 1t\ntells how white divorcee loses\nlegal custody of her young daugh-\nter after marrying Negro fac\ntory worker.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 145,
+                    "y0": 5963,
+                    "x1": 935,
+                    "y1": 6190
+                },
+                {
+                    "x0": 145,
+                    "y0": 6224,
+                    "x1": 958,
+                    "y1": 7112
+                }
+            ],
+            "bbox": [
+                145,
+                5963,
+                958,
+                7112
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                13,
+                6
+            ],
+            "headline": "Rev. Martin\n|. King Here\nJune 3",
+            "article": "The Rev. Martin Luther King,\nJr.. will appear in the Valley for\nthe first time ate GOODWIN Stadium,\nAS.U. Tempe, on June 8, 8 pm.\nHis appearance is sponsored by\nthe National Association for the\nAdvancement of Colored People\nand of leaders of church groups.\n\n\nNamed as Time Magazine\n\"Man of the Year\" for 1868 DR..\nKing is internationally the known\nleader of the non-vlolent civil\nrights movement.\n\n\nMembers of religious circles\nin Phoenix spoons oring the add\nress are: Rt. Rev. Monsignor\nRobert Donohoe, DR.. Kermit\nLong, Rabbi Albert l.. Plotkin,\nRevs. C. N. Hall, A. G. Ken\ndric and Louis Eaton, director\nof the Phoenix Council of Chur-\ncheS.\n\n\nFurther Information can be\nobtained at 212 Greater Arizona\nSavings and Loan Building. Phone\n252-5296.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2825,
+                    "y0": 5069,
+                    "x1": 3418,
+                    "y1": 5389
+                },
+                {
+                    "x0": 2778,
+                    "y0": 5412,
+                    "x1": 3603,
+                    "y1": 6950
+                }
+            ],
+            "bbox": [
+                2778,
+                5069,
+                3603,
+                6950
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                16,
+                7
+            ],
+            "headline": "PHOENIX\n\n\nBOXER DEFEATED",
+            "article": "NEW YORK Arizona'S lone\nrepresentative in the Olympic\nboxing trials was eliminated in\nthe first round Tuesday.\n\n\nAlton Golfer. Phoenix, was out\npointed by Henry Aaron of At\nlanta, Ca, and Fl. Campbell, KY,\nin their lightweight bout.\n\n\nGolfer is a member of the\nRuss Keeton Market team of\nPhoenix.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1056,
+                    "y0": 6230,
+                    "x1": 1642,
+                    "y1": 6416
+                },
+                {
+                    "x0": 1056,
+                    "y0": 6450,
+                    "x1": 1863,
+                    "y1": 7101
+                }
+            ],
+            "bbox": [
+                1056,
+                6230,
+                1863,
+                7101
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                12,
+                8
+            ],
+            "headline": "NAACP Prexy Urges\nUnion Hiring OF\n\n\nNegro Rights Workers",
+            "article": "A letter from Roy Cooksey,\nPresident of the Southwest Area\nConference of the National Asso-\ncitation for the Advancement of\nColored People has been mailed\nto John E. Evans, secretary\ntreasurer and executive board\nmember of the State AFL-C1O.\n\n\nNAACP urges the State AFL-\nClio executive board to recon-\nslider their decision to table the\nrecommendation of the State\nAFL-Cio Civil Rights Commit\ntee; that would request funds\nfrom the international union to\nbe matched by the state to employ\nNn experienced Negro civil rights\nfield worker.\n\n\nCooksey who is also a member\nof the State Civil Rights Commit\ntee (AFL-CIO) said that the his\ntory OF the Negro and organized\nlabor in Arizona would indicate\nthat minorities can only be i'm\npartially represented by Negro\nwho is directly associated with\nthe struggle of minority groups.\n\n\nCooksey also stated that unem-\nployment even among unskilled\nworkers Is much higher than Ne\ngroes. So since membership\ndues have been raised recently\nand assessments levied in the\npast for less worthy causes the\nexecutive board should not hesi-\ntate to give this their immediate\napproval.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 127,
+                    "y0": 3405,
+                    "x1": 883,
+                    "y1": 3678
+                },
+                {
+                    "x0": 110,
+                    "y0": 3700,
+                    "x1": 935,
+                    "y1": 5882
+                }
+            ],
+            "bbox": [
+                110,
+                3405,
+                935,
+                5882
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                19,
+                9
+            ],
+            "headline": "Negro Agent Charges\n\n\nFake Arrest In Chicago",
+            "article": "CHICAGO = The Chicago Trib-\nune said it has learned the War\nrem Commission has authorized\nan investigation of reports of\nheavy drinking by some Secret\nService agents the night before\nPresident Kennedy was assassi-\nmated.\n\n\nThe Tribune noted that dis\nclosure closely followed charges\nby Abraham Bolden, a former\nmember of the White House body\nguard detail, that certain agents\ndrank heavily before and after\ntheir assignments in Dallas.\n\n\n\"a commission member also\ntold the Tribune that agent Boil\nden, first Negro ever assigned\nto the presidential protective de-\ntail. probably will be called to\ntestify before the commission\"\nthe story said.\n\n\n1t quoted the source as saying\nit \"has always been the COM\nmissions policy to let anyone\nwho wants to testify be heard.\nCertainly. man who has created\nthis notoriety and said he wants\nto testify. ought to be heard\"\n\n\nBolden was indicted by fed\neral grand jury on three counts.\ncharging him with soliciting\nthrough an intermediary\n$4,000 payroll for delivery of\nsecret government file on the\ninvestigation of counterfeting\nring.\n\n\nBolden has denied the charges,\nsaying he was arrested on false\ncharges in an effort to keep him\nfrom testifying before the War\nrem Commission.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1032,
+                    "y0": 3422,
+                    "x1": 1799,
+                    "y1": 3643
+                },
+                {
+                    "x0": 1021,
+                    "y0": 3666,
+                    "x1": 1846,
+                    "y1": 6149
+                }
+            ],
+            "bbox": [
+                1021,
+                3422,
+                1846,
+                6149
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                18,
+                10
+            ],
+            "headline": "Negro Heads\n\n\nUnited Presbyterian",
+            "article": "OKLAHOMA CITY The Unit\ned Presbyterian Church VISA.\nelected the first Negro moderator\nin its history, the Rev. Elder\nG. Hawkins.\n\n\nThe voting commissioners\nfrom 1914 presbyteries gave the\n55-year-old New York City min\nlister 465-368 margin over the\nRev. Alva Ray Cartilage of Erie.\nPa.\n\n\nThe election of the Negro mod\norator underlines the militant\nrole the church's leaders have\ntaken against racial discrimina-\ntion He Is pastor of St. Angus\ntin Presbyterian Church In the\nBronx.\n\n\nThe United Presbyterian\nChurch has almost 3.3 million\nmembers in about 9,l00 churches\nin the country, but only minor\nfraction are in the southeast\nern states.\n\n\nThe Rev. Hawkins has built\nSt. Augustine church from nine\nmembers to more than 1000\nin his 26 years as its pastor.\nThe membership includes all\nraces and services are In sew\neral languages.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3707,
+                    "y0": 5023,
+                    "x1": 4380,
+                    "y1": 5215
+                },
+                {
+                    "x0": 3678,
+                    "y0": 5243,
+                    "x1": 4496,
+                    "y1": 7060
+                }
+            ],
+            "bbox": [
+                3678,
+                5023,
+                4496,
+                7060
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        },
+        {
+            "object_ids": [
+                26,
+                11
+            ],
+            "headline": "The SKY IS The LIMIT",
+            "article": "EUeYy June thousands of graduates from\ngrammar school, high school, colleges and\nhear endless speeches exhoYting\nthem to seek the future with more learning.\n\n\nGraduates from the length and breadth Of\nour United States are adnaOnisehed to go for\n1VaYd and conquer the world with a diploma\nand a fearless heart.\n\n\nToday in this quickly changing world this\nadUice is not sufficient. Graduates from the\neighth grade should be encouraged by great\neY numbers Of private citizens who could\nspend a fen dollars to aid some aspiring stu\ndent to enter and stay in high school.\n\n\nThere are surely some busiae sSnen IN\nPhoenix who could contribute scholarships\nto deserving eighth grade and high school\ngraduates.\n\n\nLocally, approximately three ha'adred Ne\ngro pupils gYad,tate from the Valley elenaem-\ntoYy schools, less than fifty complete high\nschool and less than q dozen complete either\nthe junior college or the university.\n\n\nMany more opportunities are open to the\nyounger generation than eveT before. THIS\ngroup of young people aOho graduate must re-\nahze that they are kving in an age when the\nsky is their limit. Horizons are aOide and IN\ncreased employment opportunities are mo1t-\ning.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2952,
+                    "y0": 284,
+                    "x1": 4224,
+                    "y1": 453
+                },
+                {
+                    "x0": 2807,
+                    "y0": 498,
+                    "x1": 4485,
+                    "y1": 3063
+                }
+            ],
+            "bbox": [
+                2807,
+                284,
+                4485,
+                3063
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-29_p1_sn84021918_0041421695A_1964052901_0413.json"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-08",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4942,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-08",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050801/0393.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2018,
+                "y0": 2738,
+                "x1": 2860,
+                "y1": 3128
+            },
+            "class": "article",
+            "raw_text": "1t pays to take the time to\nlaunder and dry braid and fringe\ntrimmings before stitching them\non to washable fabrics. This will\nprevent any shrinkage problems\nwhen laundering the finished\nitems.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 248,
+                "y0": 2692,
+                "x1": 1949,
+                "y1": 3314
+            },
+            "class": "article",
+            "raw_text": "above taken the Kappas dance held on the\npatio Adams Hotel Saturday night.\n\n\nPictured Mrs. Warren Bass Mr. and Mrs. Ananas\nMason Mesdames Williams Sam Solomon. Gilbert Gray\nIT.. D. Nelson Randolph and Eva Nealey.\n\n\nOthers shown E. E. Roberts, W. Bell Mr. and Mrs. William\nHooks Mrs. Lois Anderson. Virgil Berry and Mrs.\nHadley Murrell.\n\n\npictured Mr.. Mrs William Warren and Mrs Gera\n(",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964050801_0393",
+    "full articles": [
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "1t pays to take the time to\nlaunder and dry braid and fringe\ntrimmings before stitching them\non to washable fabrics. This will\nprevent any shrinkage problems\nwhen laundering the finished\nitems.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2018,
+                    "y0": 2738,
+                    "x1": 2860,
+                    "y1": 3128
+                }
+            ],
+            "bbox": [
+                2018,
+                2738,
+                2860,
+                3128
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-08_pna_sn84021918_0041421695A_1964050801_0393.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "above taken the Kappas dance held on the\npatio Adams Hotel Saturday night.\n\n\nPictured Mrs. Warren Bass Mr. and Mrs. Ananas\nMason Mesdames Williams Sam Solomon. Gilbert Gray\nIT.. D. Nelson Randolph and Eva Nealey.\n\n\nOthers shown E. E. Roberts, W. Bell Mr. and Mrs. William\nHooks Mrs. Lois Anderson. Virgil Berry and Mrs.\nHadley Murrell.\n\n\npictured Mr.. Mrs William Warren and Mrs Gera\n(",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 248,
+                    "y0": 2692,
+                    "x1": 1949,
+                    "y1": 3314
+                }
+            ],
+            "bbox": [
+                248,
+                2692,
+                1949,
+                3314
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-08_pna_sn84021918_0041421695A_1964050801_0393.json"
+        }
+    ]
+}

@@ -1,0 +1,391 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082101/0522.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4920
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2970,
+                "y0": 2057,
+                "x1": 3788,
+                "y1": 2771
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-In answer to Sen.\nBarry Goldwater's request for a\nconference, Jackie Robins on re-\npiled that he felt such meet\ning would be useless.\n\n\nRobinso on wrote to the Republi-\ncan presidential nominee that he\nWIS committed to work for 'way\nOf life we have known and love-\"\n\n\nHe continued saying he would\nhelp win Republicans for Johns on\nand keep defying extremism.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2975,
+                "y0": 1843,
+                "x1": 3620,
+                "y1": 2029
+            },
+            "class": "headline",
+            "raw_text": "Robinson will Not\nMeet With Barry",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2083,
+                "y0": 1976,
+                "x1": 2901,
+                "y1": 3461
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON DR.. Leonidas\nH. Berry. senior attending ply\nstefan of Reese Hospital, Chi\ncago, was chosen president-elect\nof the National Medical Associa-\nton at its Goth annual convention.\n\n\nHe will succeed DR.. W. Mon\ntague Cobb of Washington re-\nGently elected president.\n\n\nDR.. Berry is an authority on\ngastroenterology and has con-\ntributed several articles in lead\ning journals.\n\n\nHe received the fifth Warfield\naward for his outstanding career.\nThe award Is given in honor OF\nDR.. William Alonza Warfield,\nwho was one of the first internes\nat Freedmen's Hospital in 1894.\nHe served as surgeon in chief\nthere for IS years.\n\n\nDR.. Berry is the developer OF\nthe Berry Plan. through which\nyouthful narcotic users are given\ncounsel and treatment in clinics.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2106,
+                "y0": 1820,
+                "x1": 2779,
+                "y1": 1971
+            },
+            "class": "headline",
+            "raw_text": "Dr.. Berry is\n\n\nNAM Prexy Elect",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 280,
+                "y0": 2440,
+                "x1": 1098,
+                "y1": 3084
+            },
+            "class": "article",
+            "raw_text": "GREENWOOD. Miss. Silas\nMcChee, 20, who had led activ-\nities to integrate movie theater,\nwas shot with a small caliber\ngun. The bullet lodged behind\nhis nose.\n\n\nInvestigators said the shot\ncame from station wagon oc-\ncupied by two white men. McChee\nwas sitting in parked car when\nthe incident occurred.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 291,
+                "y0": 2254,
+                "x1": 768,
+                "y1": 2418
+            },
+            "class": "headline",
+            "raw_text": "Negro Hit In\n\n\nFace BY Shot",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3857,
+                "y0": 1930,
+                "x1": 4669,
+                "y1": 2638
+            },
+            "class": "article",
+            "raw_text": "NEW YORK A civil rights\nrally is planned for the precon-\nvention opening of the Democratic\nParty at Atlantic City, announced\nGloster Current ,NAACP director\nof branches. CORE, SCLC and\nSNCC will cooperate in the joint\nmeeting.\n\n\nBus and car cavalcades are\nexpected from New York, Mary\nland, Pennsylvania and nearby\nNew Jersey cities.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3874,
+                "y0": 1588,
+                "x1": 4605,
+                "y1": 1908
+            },
+            "class": "headline",
+            "raw_text": "Civil Rights\nGroups Plan\nConvention Rally",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1178,
+                "y0": 2434,
+                "x1": 2003,
+                "y1": 3079
+            },
+            "class": "article",
+            "raw_text": "PEORIA. Ill. Billy Clemens\nhas filed a ST 900 damage suit\nagainst Swan Lake Memorial\nGardens, a local cemetery.\nCharges we're the manager re-\nfused to sell him two plots be-\ncause Negroes were not accepted.\nFirst President to be born in a\nlog cabin Andrew Jacks on.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1207,
+                "y0": 2237,
+                "x1": 1550,
+                "y1": 2412
+            },
+            "class": "headline",
+            "raw_text": "Man Sues\n&c nse tary",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2089,
+                "y0": 3623,
+                "x1": 2889,
+                "y1": 3989
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON, D. CA list\ning of \"Colored Properties\" in\nthe real estate section of the yell\nlow Pages of the Chesapeake and\nPotomac Telephone Companys\ndirectory has been dropped.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2100,
+                "y0": 3501,
+                "x1": 2895,
+                "y1": 3606
+            },
+            "class": "headline",
+            "raw_text": "CoIored Listings Dropped",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-08-21"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "Robinson will Not\nMeet With Barry",
+            "article": "NEW YORK-In answer to Sen.\nBarry Goldwater's request for a\nconference, Jackie Robins on re-\npiled that he felt such meet\ning would be useless.\n\n\nRobinso on wrote to the Republi-\ncan presidential nominee that he\nWIS committed to work for 'way\nOf life we have known and love-\"\n\n\nHe continued saying he would\nhelp win Republicans for Johns on\nand keep defying extremism.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2975,
+                    "y0": 1843,
+                    "x1": 3620,
+                    "y1": 2029
+                },
+                {
+                    "x0": 2970,
+                    "y0": 2057,
+                    "x1": 3788,
+                    "y1": 2771
+                }
+            ],
+            "bbox": [
+                2970,
+                1843,
+                3788,
+                2771
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-21_p1_sn84021918_0041421695A_1964082101_0522.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "Dr.. Berry is\n\n\nNAM Prexy Elect",
+            "article": "WASHINGTON DR.. Leonidas\nH. Berry. senior attending ply\nstefan of Reese Hospital, Chi\ncago, was chosen president-elect\nof the National Medical Associa-\nton at its Goth annual convention.\n\n\nHe will succeed DR.. W. Mon\ntague Cobb of Washington re-\nGently elected president.\n\n\nDR.. Berry is an authority on\ngastroenterology and has con-\ntributed several articles in lead\ning journals.\n\n\nHe received the fifth Warfield\naward for his outstanding career.\nThe award Is given in honor OF\nDR.. William Alonza Warfield,\nwho was one of the first internes\nat Freedmen's Hospital in 1894.\nHe served as surgeon in chief\nthere for IS years.\n\n\nDR.. Berry is the developer OF\nthe Berry Plan. through which\nyouthful narcotic users are given\ncounsel and treatment in clinics.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2106,
+                    "y0": 1820,
+                    "x1": 2779,
+                    "y1": 1971
+                },
+                {
+                    "x0": 2083,
+                    "y0": 1976,
+                    "x1": 2901,
+                    "y1": 3461
+                }
+            ],
+            "bbox": [
+                2083,
+                1820,
+                2901,
+                3461
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-21_p1_sn84021918_0041421695A_1964082101_0522.json"
+        },
+        {
+            "object_ids": [
+                14,
+                4
+            ],
+            "headline": "Negro Hit In\n\n\nFace BY Shot",
+            "article": "GREENWOOD. Miss. Silas\nMcChee, 20, who had led activ-\nities to integrate movie theater,\nwas shot with a small caliber\ngun. The bullet lodged behind\nhis nose.\n\n\nInvestigators said the shot\ncame from station wagon oc-\ncupied by two white men. McChee\nwas sitting in parked car when\nthe incident occurred.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 291,
+                    "y0": 2254,
+                    "x1": 768,
+                    "y1": 2418
+                },
+                {
+                    "x0": 280,
+                    "y0": 2440,
+                    "x1": 1098,
+                    "y1": 3084
+                }
+            ],
+            "bbox": [
+                280,
+                2254,
+                1098,
+                3084
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-21_p1_sn84021918_0041421695A_1964082101_0522.json"
+        },
+        {
+            "object_ids": [
+                7,
+                6
+            ],
+            "headline": "Civil Rights\nGroups Plan\nConvention Rally",
+            "article": "NEW YORK A civil rights\nrally is planned for the precon-\nvention opening of the Democratic\nParty at Atlantic City, announced\nGloster Current ,NAACP director\nof branches. CORE, SCLC and\nSNCC will cooperate in the joint\nmeeting.\n\n\nBus and car cavalcades are\nexpected from New York, Mary\nland, Pennsylvania and nearby\nNew Jersey cities.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3874,
+                    "y0": 1588,
+                    "x1": 4605,
+                    "y1": 1908
+                },
+                {
+                    "x0": 3857,
+                    "y0": 1930,
+                    "x1": 4669,
+                    "y1": 2638
+                }
+            ],
+            "bbox": [
+                3857,
+                1588,
+                4669,
+                2638
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-08-21_p1_sn84021918_0041421695A_1964082101_0522.json"
+        },
+        {
+            "object_ids": [
+                19,
+                8
+            ],
+            "headline": "Man Sues\n&c nse tary",
+            "article": "PEORIA. Ill. Billy Clemens\nhas filed a ST 900 damage suit\nagainst Swan Lake Memorial\nGardens, a local cemetery.\nCharges we're the manager re-\nfused to sell him two plots be-\ncause Negroes were not accepted.\nFirst President to be born in a\nlog cabin Andrew Jacks on.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1207,
+                    "y0": 2237,
+                    "x1": 1550,
+                    "y1": 2412
+                },
+                {
+                    "x0": 1178,
+                    "y0": 2434,
+                    "x1": 2003,
+                    "y1": 3079
+                }
+            ],
+            "bbox": [
+                1178,
+                2237,
+                2003,
+                3079
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-21_p1_sn84021918_0041421695A_1964082101_0522.json"
+        },
+        {
+            "object_ids": [
+                23,
+                13
+            ],
+            "headline": "CoIored Listings Dropped",
+            "article": "WASHINGTON, D. CA list\ning of \"Colored Properties\" in\nthe real estate section of the yell\nlow Pages of the Chesapeake and\nPotomac Telephone Companys\ndirectory has been dropped.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2100,
+                    "y0": 3501,
+                    "x1": 2895,
+                    "y1": 3606
+                },
+                {
+                    "x0": 2089,
+                    "y0": 3623,
+                    "x1": 2889,
+                    "y1": 3989
+                }
+            ],
+            "bbox": [
+                2089,
+                3501,
+                2895,
+                3989
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-08-21_p1_sn84021918_0041421695A_1964082101_0522.json"
+        }
+    ]
+}

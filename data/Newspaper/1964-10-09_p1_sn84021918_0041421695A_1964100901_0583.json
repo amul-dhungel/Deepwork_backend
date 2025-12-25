@@ -1,0 +1,311 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100901/0583.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4885
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1949,
+                "y0": 2551,
+                "x1": 2768,
+                "y1": 3787
+            },
+            "class": "article",
+            "raw_text": "TUCSON (AP) = Roy Wilkins,\nnational director of the National\nAssociation for Advancement Of\nColored People (NAACP), told the\nTucson Press Club that the Con-\ngress of Racial Equality was\nresponsible for the picketing at\nthe Republican National Con-\nvention and he added, GORE\nhas internal problems\"\n\n\nAfter hearing Wilkins COM\nments, Roy Twitty. local CORE\npresident, walked out.\n\n\n\"CORE is what is facetioulsy\nknown as a loosely knit organ\nization,\" Wilkins said. while\nthe San Francisco chapter was\npicketing the convention the\nNew York leaders we're mutter-\ning in their beer or what\never they drink\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1972,
+                "y0": 2325,
+                "x1": 2594,
+                "y1": 2529
+            },
+            "class": "headline",
+            "raw_text": "CORE Leader w uIks\nOut On wilkins",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1938,
+                "y0": 4145,
+                "x1": 2756,
+                "y1": 5399
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA (NPD Mayor\nJames H. j. Tate reported last\nweek that the recent race riots\nthat rocked North Philadelphia\nwill cost the Getty of Brotherly\nLove- a total of $4.2 million,\nand that he will have to make\nsome changes\" in the program\nof several city departments to\navert having to increase taxes\nto abs orb the cost.\n\n\nThe biggest item in the riot\nexpense. the mayor said, is a\nclaim of about SIS million made\non the city by some 500 shop\nkeepers for damages to their\nproperties. He said the next\nbiggest item is SIS million for\npolice and park guard overtime,\nfood for these men and especial\nequipment\" including helmets.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1961,
+                "y0": 3826,
+                "x1": 2739,
+                "y1": 4123
+            },
+            "class": "headline",
+            "raw_text": "PhiIIy Riot\nCost Is 4 Million",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1943,
+                "y0": 626,
+                "x1": 2774,
+                "y1": 2227
+            },
+            "class": "article",
+            "raw_text": "Detectives Norm OComor and\nBob Manning said a very thin\nNegro man and a heavily built\nwhite woman took 1882 from\nBen Brothers Market, 1645 E.\nVan Buren, Friday.\n\n\nBoth welding pistols. used ad-\nhesive tape to tie the owners,\nMr.. and Mrs. Ben C. Ong, and\nthree customers a boy, about\nIA; a girl about 4: and Richard\nHenry. owner ofCometition Mo-\ntors. l705 E. Van Buren,.\n\n\nThe youngsters quickly worked\nthemselves free after the rob-\nbers left, police said. The adults,\ngagged by strips Of tape. were\nunable even to ask the children\nfor help and could only watch and\ngroan as the youngsters ran from\nthe store.\n\n\nThe Ongs and Henry were\nworking slowly at the tape that\nheld them when deliveryman Paul\nStevenson, 1924 N. 30th Drive,\nentered the store, discovered\nthem, and freed them.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1984,
+                "y0": 516,
+                "x1": 2495,
+                "y1": 604
+            },
+            "class": "headline",
+            "raw_text": "GROCER ROBBED",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1074,
+                "y0": 4540,
+                "x1": 1886,
+                "y1": 5515
+            },
+            "class": "article",
+            "raw_text": "Robert l.. Carter announced.\n\n\nNAACP Executive Director\nRoy Wilkins hailed the successful\ntermination of the case and ex-\npressed confidence that the As\nsociation will soon regain its\nposition of leadership\" in Ala\nbama.\n\n\nAn order from the Circuit Curt\nof Montgomery County. handed\ndown on Sept. 10, dissolved a\npermanent Injunction banning\nNAACP activity in the state and\ncleared the way for reorganiza-\ntion of local Association units\nto resume the NAACP civil rights\nprogram in Alabama.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 586,
+                "y0": 4441,
+                "x1": 1457,
+                "y1": 4523
+            },
+            "class": "headline",
+            "raw_text": "NAACP Resumes i'm Alabama",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 169,
+                "y0": 4563,
+                "x1": 976,
+                "y1": 5503
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = The National\nAssociation for the Advancement\nof Colored People, barred by an\nAlabama court Injunction from\noperating in that state since 1856,\nwill soon resume activity in the\nonly state where no local or\nganization exists.\n\n\nPapers registering the NAACP\nas an OUT of-state corporation,\nthe first step towards resumption\nof activity, we're filed with the\nAlabama Secretary of State and\nthe State Department of Revenue\nin Montgomery. Wednesday. Sept.\n%, NAACP General Counsel",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-09"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "CORE Leader w uIks\nOut On wilkins",
+            "article": "TUCSON (AP) = Roy Wilkins,\nnational director of the National\nAssociation for Advancement Of\nColored People (NAACP), told the\nTucson Press Club that the Con-\ngress of Racial Equality was\nresponsible for the picketing at\nthe Republican National Con-\nvention and he added, GORE\nhas internal problems\"\n\n\nAfter hearing Wilkins COM\nments, Roy Twitty. local CORE\npresident, walked out.\n\n\n\"CORE is what is facetioulsy\nknown as a loosely knit organ\nization,\" Wilkins said. while\nthe San Francisco chapter was\npicketing the convention the\nNew York leaders we're mutter-\ning in their beer or what\never they drink\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1972,
+                    "y0": 2325,
+                    "x1": 2594,
+                    "y1": 2529
+                },
+                {
+                    "x0": 1949,
+                    "y0": 2551,
+                    "x1": 2768,
+                    "y1": 3787
+                }
+            ],
+            "bbox": [
+                1949,
+                2325,
+                2768,
+                3787
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-09_p1_sn84021918_0041421695A_1964100901_0583.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "PhiIIy Riot\nCost Is 4 Million",
+            "article": "PHILADELPHIA (NPD Mayor\nJames H. j. Tate reported last\nweek that the recent race riots\nthat rocked North Philadelphia\nwill cost the Getty of Brotherly\nLove- a total of $4.2 million,\nand that he will have to make\nsome changes\" in the program\nof several city departments to\navert having to increase taxes\nto abs orb the cost.\n\n\nThe biggest item in the riot\nexpense. the mayor said, is a\nclaim of about SIS million made\non the city by some 500 shop\nkeepers for damages to their\nproperties. He said the next\nbiggest item is SIS million for\npolice and park guard overtime,\nfood for these men and especial\nequipment\" including helmets.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1961,
+                    "y0": 3826,
+                    "x1": 2739,
+                    "y1": 4123
+                },
+                {
+                    "x0": 1938,
+                    "y0": 4145,
+                    "x1": 2756,
+                    "y1": 5399
+                }
+            ],
+            "bbox": [
+                1938,
+                3826,
+                2756,
+                5399
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-09_p1_sn84021918_0041421695A_1964100901_0583.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "GROCER ROBBED",
+            "article": "Detectives Norm OComor and\nBob Manning said a very thin\nNegro man and a heavily built\nwhite woman took 1882 from\nBen Brothers Market, 1645 E.\nVan Buren, Friday.\n\n\nBoth welding pistols. used ad-\nhesive tape to tie the owners,\nMr.. and Mrs. Ben C. Ong, and\nthree customers a boy, about\nIA; a girl about 4: and Richard\nHenry. owner ofCometition Mo-\ntors. l705 E. Van Buren,.\n\n\nThe youngsters quickly worked\nthemselves free after the rob-\nbers left, police said. The adults,\ngagged by strips Of tape. were\nunable even to ask the children\nfor help and could only watch and\ngroan as the youngsters ran from\nthe store.\n\n\nThe Ongs and Henry were\nworking slowly at the tape that\nheld them when deliveryman Paul\nStevenson, 1924 N. 30th Drive,\nentered the store, discovered\nthem, and freed them.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1984,
+                    "y0": 516,
+                    "x1": 2495,
+                    "y1": 604
+                },
+                {
+                    "x0": 1943,
+                    "y0": 626,
+                    "x1": 2774,
+                    "y1": 2227
+                }
+            ],
+            "bbox": [
+                1943,
+                516,
+                2774,
+                2227
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-09_p1_sn84021918_0041421695A_1964100901_0583.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "NAACP Resumes i'm Alabama",
+            "article": "Robert l.. Carter announced.\n\n\nNAACP Executive Director\nRoy Wilkins hailed the successful\ntermination of the case and ex-\npressed confidence that the As\nsociation will soon regain its\nposition of leadership\" in Ala\nbama.\n\n\nAn order from the Circuit Curt\nof Montgomery County. handed\ndown on Sept. 10, dissolved a\npermanent Injunction banning\nNAACP activity in the state and\ncleared the way for reorganiza-\ntion of local Association units\nto resume the NAACP civil rights\nprogram in Alabama.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 586,
+                    "y0": 4441,
+                    "x1": 1457,
+                    "y1": 4523
+                },
+                {
+                    "x0": 1074,
+                    "y0": 4540,
+                    "x1": 1886,
+                    "y1": 5515
+                }
+            ],
+            "bbox": [
+                586,
+                4441,
+                1886,
+                5515
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-09_p1_sn84021918_0041421695A_1964100901_0583.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "NEW YORK = The National\nAssociation for the Advancement\nof Colored People, barred by an\nAlabama court Injunction from\noperating in that state since 1856,\nwill soon resume activity in the\nonly state where no local or\nganization exists.\n\n\nPapers registering the NAACP\nas an OUT of-state corporation,\nthe first step towards resumption\nof activity, we're filed with the\nAlabama Secretary of State and\nthe State Department of Revenue\nin Montgomery. Wednesday. Sept.\n%, NAACP General Counsel",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 169,
+                    "y0": 4563,
+                    "x1": 976,
+                    "y1": 5503
+                }
+            ],
+            "bbox": [
+                169,
+                4563,
+                976,
+                5503
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-09_p1_sn84021918_0041421695A_1964100901_0583.json"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-06",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4824,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-06",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0320.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3891,
+                "y0": 589,
+                "x1": 4713,
+                "y1": 3000
+            },
+            "class": "article",
+            "raw_text": "ASHEBORO, N.C.--Two white\nmen, repeatedly Ku Klux Klan\nmembers and armed with pistol,\nhave been arrested at the scene\nof a sit-in demonstration being\nconducted here by local units OF\nthe National Association for the\nAdvancement of Colored People.\n\n\nThey we're seized outside the\nLittle Castle newsstand and lunch\ncounter where seven Negroes\nwe're protesting the establish\nment's discriminatory practices.\nThe two we're charged with carry\ning a concealed weapon. inter-\nfering with police officers and\nattempting to incite riot. They\nwe're held in lieu of ST. 900 bond\neach in the Randolph County jail.\nTrial was set for March IL.\n\n\nShortly before their arrest the\ntwo men we're seen distributing\nKu Klux Khan literature In down.\ntown Asheboro. Also. two OUT\nof-county cars loaded with XXX\nmaterial we're parked near the\nprotest target. A white Klans-\nmans uniform and hood we're\nhanging in one Of the vehicles.\n\n\nBesides the lunch counter. pro-\ntests against racial discrimina-\nton we're conducted at Wal\ngreen's Drug Store and the Caro-\nlima Theatre. Fifty-two persons\ninvolved we're arrested. Some\nwere charged with trespassing:\nothers with resisting arrest when\nofficers we're forced to carry\nthem bodily to a police car and up\na steep flight of stairs to the\ncounty Jail.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3908,
+                "y0": 329,
+                "x1": 4637,
+                "y1": 532
+            },
+            "class": "headline",
+            "raw_text": "z WHITES ARRESTED\nIN DISPUTE",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 314,
+                "y0": 525,
+                "x1": 1135,
+                "y1": 1168
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON : Pupils OF\nWashington schools will receive\nlessons from a $50 page curri-\nculum guide, \"The Negro in\nAmerican History\" This guide\nwas prepared for all social stud\nles teachers by nine man COM\nniittee.\n\n\nSchools in Detroit are also US\ning a So page booklet on Amer\nlean Negro history.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 308,
+                "y0": 352,
+                "x1": 939,
+                "y1": 509
+            },
+            "class": "headline",
+            "raw_text": "Negro History\nTuuqhf In Capital",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964030601_0320",
+    "full articles": [
+        {
+            "object_ids": [
+                2,
+                0
+            ],
+            "headline": "z WHITES ARRESTED\nIN DISPUTE",
+            "article": "ASHEBORO, N.C.--Two white\nmen, repeatedly Ku Klux Klan\nmembers and armed with pistol,\nhave been arrested at the scene\nof a sit-in demonstration being\nconducted here by local units OF\nthe National Association for the\nAdvancement of Colored People.\n\n\nThey we're seized outside the\nLittle Castle newsstand and lunch\ncounter where seven Negroes\nwe're protesting the establish\nment's discriminatory practices.\nThe two we're charged with carry\ning a concealed weapon. inter-\nfering with police officers and\nattempting to incite riot. They\nwe're held in lieu of ST. 900 bond\neach in the Randolph County jail.\nTrial was set for March IL.\n\n\nShortly before their arrest the\ntwo men we're seen distributing\nKu Klux Khan literature In down.\ntown Asheboro. Also. two OUT\nof-county cars loaded with XXX\nmaterial we're parked near the\nprotest target. A white Klans-\nmans uniform and hood we're\nhanging in one Of the vehicles.\n\n\nBesides the lunch counter. pro-\ntests against racial discrimina-\nton we're conducted at Wal\ngreen's Drug Store and the Caro-\nlima Theatre. Fifty-two persons\ninvolved we're arrested. Some\nwere charged with trespassing:\nothers with resisting arrest when\nofficers we're forced to carry\nthem bodily to a police car and up\na steep flight of stairs to the\ncounty Jail.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3908,
+                    "y0": 329,
+                    "x1": 4637,
+                    "y1": 532
+                },
+                {
+                    "x0": 3891,
+                    "y0": 589,
+                    "x1": 4713,
+                    "y1": 3000
+                }
+            ],
+            "bbox": [
+                3891,
+                329,
+                4713,
+                3000
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-03-06_pna_sn84021918_0041421695A_1964030601_0320.json"
+        },
+        {
+            "object_ids": [
+                6,
+                1
+            ],
+            "headline": "Negro History\nTuuqhf In Capital",
+            "article": "WASHINGTON : Pupils OF\nWashington schools will receive\nlessons from a $50 page curri-\nculum guide, \"The Negro in\nAmerican History\" This guide\nwas prepared for all social stud\nles teachers by nine man COM\nniittee.\n\n\nSchools in Detroit are also US\ning a So page booklet on Amer\nlean Negro history.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 308,
+                    "y0": 352,
+                    "x1": 939,
+                    "y1": 509
+                },
+                {
+                    "x0": 314,
+                    "y0": 525,
+                    "x1": 1135,
+                    "y1": 1168
+                }
+            ],
+            "bbox": [
+                308,
+                352,
+                1135,
+                1168
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-06_pna_sn84021918_0041421695A_1964030601_0320.json"
+        }
+    ]
+}

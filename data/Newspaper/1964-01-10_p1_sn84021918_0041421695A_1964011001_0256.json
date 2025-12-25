@@ -1,0 +1,547 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011001/0256.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7395,
+        "width": 4743
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1961,
+                "y0": 531,
+                "x1": 2794,
+                "y1": 2190
+            },
+            "class": "article",
+            "raw_text": "u. S. Civil Service Commission\nannounces new examinations for\naccounting technician, accounting\nclerk, and welfare and pension\nplan specialist.\n\n\nLocation of vacancies; ac-\ncounting technician and clerk\nFederal Housing Administration\nand other agencies in Washing\nton, DC. Starting salaries $4,2l5\nand 81, 800. Applications must be\nfiled before Jan. 20 see announce\nment #34OB for details.\n\n\nWelfare and pension plans\nspecialist positions are mainly\nin the Dept. of Labor in Wash\nington, D. C. Sa1ries range from\n$7,O3O-Se, $50. File applications\nbefore Mar. 9 see announcement\n#3l9B for details.\n\n\nCivil service announcements\nand applications are available\nfrom Harold Passey, executive\nsecretary, RIM. 2Ol, Main Post\nOffice Bldg, 522 No. Central\nAve., Phoenix, or from the US.\nCivil Service Commits sion,\nWashington DC.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1995,
+                "y0": 335,
+                "x1": 2603,
+                "y1": 497
+            },
+            "class": "headline",
+            "raw_text": "CIVIL SERVICE\n\n\nJOBS OPEN NOW",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 164,
+                "y0": 2368,
+                "x1": 980,
+                "y1": 3028
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA The NAACP\nobtained a pledge from the Trail\nways Bus Company, to employ\n10 Negro drivers when hiring is\nresumed in March.\n\n\nThe agreement wos reached\nlast week at a conference at\ntended by representatives of the\nlocal NAACP branch, headed by\npresident Cecil Moore and bus\ncompany officials.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 187,
+                "y0": 2183,
+                "x1": 864,
+                "y1": 2346
+            },
+            "class": "headline",
+            "raw_text": "NAACP GETS BUS\nHIRING PROMISES",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2856,
+                "y0": 508,
+                "x1": 3678,
+                "y1": 1324
+            },
+            "class": "article",
+            "raw_text": "SALT LAKE CITY The Ma\ntional Association for the Adj\nvancement of Colored People an\nnounced plans to picket Repub-\nlocation Embarrassing dinner here\nhonoring Michigan Gov. George\nRomney.\n\n\nAlbert B. Fritz, president of\nthe Salt Lake NAACP Chapter,\nsaid the Jan. IL dinner would be\npicketed because the Utah Re-\npublican Party has not kept its\ncampaign promises for a public\naccommodation bill.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2891,
+                "y0": 329,
+                "x1": 3522,
+                "y1": 480
+            },
+            "class": "headline",
+            "raw_text": "COP DINNER\n\n\nTO BE PICKETED",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1065,
+                "y0": 2345,
+                "x1": 1887,
+                "y1": 3057
+            },
+            "class": "article",
+            "raw_text": "Eric Evans, 48, 5l8 N. l8 St.\nwas charged with manslaughter in\nthe fatal shooting of Fred E.\nRose. SO, 1926 E. Jefferson.\n\n\nRose repeatedly threatened\nEvans Saturday during an argu-\nment over gambling in front of\nthe Star Tavern, 1929 E. Wash\nington. Evans was charged with\nvoluntary manslaughter by Jus\ntice of the Peace Charles F.\nCoppock.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1083,
+                "y0": 2114,
+                "x1": 1771,
+                "y1": 2329
+            },
+            "class": "headline",
+            "raw_text": "EVANS FACES\n\n\nMANSLAUGHTER\nCHARGE IN DEATH",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2903,
+                "y0": 2669,
+                "x1": 3718,
+                "y1": 4004
+            },
+            "class": "article",
+            "raw_text": "\n\n\nwhich a great number of our y\nMany helping hands are ex-\ntended to these young offenders,\nand the Boys Clubs of America\nis always at the forefront in it's\nefforts to furnish assistance.\n\n\nSince it was founded in 1906,\nthis splendid organization has\nguided thousands of boys away\nfrom the disastrous path of\ncrime and toward responsible,\nmature manhood. It's tireless en-\nthusiasm and interest have often\nsucceeded in reaching boys who\nhave been unresponsive to other\ngroups.\n\n\nThe Boys Clubs of America\nincludes youngsters of every ma\ntionality and religion working\nand playing together under\nproper supervision and in\nhealthful surroundings. The\nwholesome outlets provided for\ntheir youthful energies promote\ndesirable attitudes and behavior\nwhich will benefit them through\nout their lives.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3758,
+                "y0": 491,
+                "x1": 4573,
+                "y1": 1306
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Grady O-Cum-\nmings III, chairman of the Ma\ntional Civil Rights Party, says he\nwill enter New Hampshire s\nMarch 10 primary in quest of\nthe Democratic presidential\nnomination.\n\n\nO'Cummings, \"a, Negro, said\nhe wanted to focus attention on\nthe civil rights fight in this\ncountry\" He will go to New\nHampshire Jan. IL, he told a\nnews conference, to set up cam\npaign headquarters.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3775,
+                "y0": 306,
+                "x1": 4504,
+                "y1": 463
+            },
+            "class": "headline",
+            "raw_text": "NEGRO PLANS\nTO ENTER PRIMARY",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1967,
+                "y0": 2443,
+                "x1": 2788,
+                "y1": 3045
+            },
+            "class": "article",
+            "raw_text": "Four men we're arrested Sat-\nurday night at 1888 E. Wash\nington for gambling with dice\npolice reported.\n\n\nArrested we're: ]. D. Ander-\nson, lo, 1916 E. Tonic; Terry\nAnthony Smith, lo l4l4 E. Mad\nison; Clifton Wright, 26, 1921\nE. Monroe; and Arthur Shivers,\nIs, 1908 E. Buckeye Road.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1990,
+                "y0": 2253,
+                "x1": 2574,
+                "y1": 2415
+            },
+            "class": "headline",
+            "raw_text": "q ARRESTED\nFOR GAMBLING",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2914,
+                "y0": 2565,
+                "x1": 4539,
+                "y1": 2727
+            },
+            "class": "article",
+            "raw_text": "The tragic stories Of vicious juvenile crimes which daily fill\nAmericas furnish ample evidence of the sinister\nwhich number of people pursuing today",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3018,
+                "y0": 2322,
+                "x1": 4423,
+                "y1": 2433
+            },
+            "class": "headline",
+            "raw_text": "Boys Clubs Provide Lifelong Benefits",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3295,
+                "y0": 2443,
+                "x1": 4146,
+                "y1": 2508
+            },
+            "class": "author",
+            "raw_text": "By J. Edgar Hoover, FBI Director",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 170,
+                "y0": 1663,
+                "x1": 1869,
+                "y1": 2103
+            },
+            "class": "article",
+            "raw_text": "his itinerary with\npublishers editors of The Arizona\nHe will visit Michigan and New Hampshire within the next\nweek.\n\n\nphotograph made in the Senator's study at his home\nHogan Valley following his nationwide\nwould seek the Republican presidential nomination",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-01-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "CIVIL SERVICE\n\n\nJOBS OPEN NOW",
+            "article": "u. S. Civil Service Commission\nannounces new examinations for\naccounting technician, accounting\nclerk, and welfare and pension\nplan specialist.\n\n\nLocation of vacancies; ac-\ncounting technician and clerk\nFederal Housing Administration\nand other agencies in Washing\nton, DC. Starting salaries $4,2l5\nand 81, 800. Applications must be\nfiled before Jan. 20 see announce\nment #34OB for details.\n\n\nWelfare and pension plans\nspecialist positions are mainly\nin the Dept. of Labor in Wash\nington, D. C. Sa1ries range from\n$7,O3O-Se, $50. File applications\nbefore Mar. 9 see announcement\n#3l9B for details.\n\n\nCivil service announcements\nand applications are available\nfrom Harold Passey, executive\nsecretary, RIM. 2Ol, Main Post\nOffice Bldg, 522 No. Central\nAve., Phoenix, or from the US.\nCivil Service Commits sion,\nWashington DC.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1995,
+                    "y0": 335,
+                    "x1": 2603,
+                    "y1": 497
+                },
+                {
+                    "x0": 1961,
+                    "y0": 531,
+                    "x1": 2794,
+                    "y1": 2190
+                }
+            ],
+            "bbox": [
+                1961,
+                335,
+                2794,
+                2190
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                17,
+                3
+            ],
+            "headline": "NAACP GETS BUS\nHIRING PROMISES",
+            "article": "PHILADELPHIA The NAACP\nobtained a pledge from the Trail\nways Bus Company, to employ\n10 Negro drivers when hiring is\nresumed in March.\n\n\nThe agreement wos reached\nlast week at a conference at\ntended by representatives of the\nlocal NAACP branch, headed by\npresident Cecil Moore and bus\ncompany officials.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 187,
+                    "y0": 2183,
+                    "x1": 864,
+                    "y1": 2346
+                },
+                {
+                    "x0": 164,
+                    "y0": 2368,
+                    "x1": 980,
+                    "y1": 3028
+                }
+            ],
+            "bbox": [
+                164,
+                2183,
+                980,
+                3028
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "COP DINNER\n\n\nTO BE PICKETED",
+            "article": "SALT LAKE CITY The Ma\ntional Association for the Adj\nvancement of Colored People an\nnounced plans to picket Repub-\nlocation Embarrassing dinner here\nhonoring Michigan Gov. George\nRomney.\n\n\nAlbert B. Fritz, president of\nthe Salt Lake NAACP Chapter,\nsaid the Jan. IL dinner would be\npicketed because the Utah Re-\npublican Party has not kept its\ncampaign promises for a public\naccommodation bill.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2891,
+                    "y0": 329,
+                    "x1": 3522,
+                    "y1": 480
+                },
+                {
+                    "x0": 2856,
+                    "y0": 508,
+                    "x1": 3678,
+                    "y1": 1324
+                }
+            ],
+            "bbox": [
+                2856,
+                329,
+                3678,
+                1324
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "EVANS FACES\n\n\nMANSLAUGHTER\nCHARGE IN DEATH",
+            "article": "Eric Evans, 48, 5l8 N. l8 St.\nwas charged with manslaughter in\nthe fatal shooting of Fred E.\nRose. SO, 1926 E. Jefferson.\n\n\nRose repeatedly threatened\nEvans Saturday during an argu-\nment over gambling in front of\nthe Star Tavern, 1929 E. Wash\nington. Evans was charged with\nvoluntary manslaughter by Jus\ntice of the Peace Charles F.\nCoppock.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1083,
+                    "y0": 2114,
+                    "x1": 1771,
+                    "y1": 2329
+                },
+                {
+                    "x0": 1065,
+                    "y0": 2345,
+                    "x1": 1887,
+                    "y1": 3057
+                }
+            ],
+            "bbox": [
+                1065,
+                2114,
+                1887,
+                3057
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "\n\n\nwhich a great number of our y\nMany helping hands are ex-\ntended to these young offenders,\nand the Boys Clubs of America\nis always at the forefront in it's\nefforts to furnish assistance.\n\n\nSince it was founded in 1906,\nthis splendid organization has\nguided thousands of boys away\nfrom the disastrous path of\ncrime and toward responsible,\nmature manhood. It's tireless en-\nthusiasm and interest have often\nsucceeded in reaching boys who\nhave been unresponsive to other\ngroups.\n\n\nThe Boys Clubs of America\nincludes youngsters of every ma\ntionality and religion working\nand playing together under\nproper supervision and in\nhealthful surroundings. The\nwholesome outlets provided for\ntheir youthful energies promote\ndesirable attitudes and behavior\nwhich will benefit them through\nout their lives.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2903,
+                    "y0": 2669,
+                    "x1": 3718,
+                    "y1": 4004
+                }
+            ],
+            "bbox": [
+                2903,
+                2669,
+                3718,
+                4004
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                12,
+                9
+            ],
+            "headline": "NEGRO PLANS\nTO ENTER PRIMARY",
+            "article": "NEW YORK Grady O-Cum-\nmings III, chairman of the Ma\ntional Civil Rights Party, says he\nwill enter New Hampshire s\nMarch 10 primary in quest of\nthe Democratic presidential\nnomination.\n\n\nO'Cummings, \"a, Negro, said\nhe wanted to focus attention on\nthe civil rights fight in this\ncountry\" He will go to New\nHampshire Jan. IL, he told a\nnews conference, to set up cam\npaign headquarters.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3775,
+                    "y0": 306,
+                    "x1": 4504,
+                    "y1": 463
+                },
+                {
+                    "x0": 3758,
+                    "y0": 491,
+                    "x1": 4573,
+                    "y1": 1306
+                }
+            ],
+            "bbox": [
+                3758,
+                306,
+                4573,
+                1306
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                14,
+                10
+            ],
+            "headline": "q ARRESTED\nFOR GAMBLING",
+            "article": "Four men we're arrested Sat-\nurday night at 1888 E. Wash\nington for gambling with dice\npolice reported.\n\n\nArrested we're: ]. D. Ander-\nson, lo, 1916 E. Tonic; Terry\nAnthony Smith, lo l4l4 E. Mad\nison; Clifton Wright, 26, 1921\nE. Monroe; and Arthur Shivers,\nIs, 1908 E. Buckeye Road.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1990,
+                    "y0": 2253,
+                    "x1": 2574,
+                    "y1": 2415
+                },
+                {
+                    "x0": 1967,
+                    "y0": 2443,
+                    "x1": 2788,
+                    "y1": 3045
+                }
+            ],
+            "bbox": [
+                1967,
+                2253,
+                2788,
+                3045
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                20,
+                23,
+                19
+            ],
+            "headline": "Boys Clubs Provide Lifelong Benefits",
+            "article": "The tragic stories Of vicious juvenile crimes which daily fill\nAmericas furnish ample evidence of the sinister\nwhich number of people pursuing today",
+            "byline": "By J. Edgar Hoover, FBI Director",
+            "bbox_list": [
+                {
+                    "x0": 3018,
+                    "y0": 2322,
+                    "x1": 4423,
+                    "y1": 2433
+                },
+                {
+                    "x0": 3295,
+                    "y0": 2443,
+                    "x1": 4146,
+                    "y1": 2508
+                },
+                {
+                    "x0": 2914,
+                    "y0": 2565,
+                    "x1": 4539,
+                    "y1": 2727
+                }
+            ],
+            "bbox": [
+                2914,
+                2322,
+                4539,
+                2727
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "his itinerary with\npublishers editors of The Arizona\nHe will visit Michigan and New Hampshire within the next\nweek.\n\n\nphotograph made in the Senator's study at his home\nHogan Valley following his nationwide\nwould seek the Republican presidential nomination",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 170,
+                    "y0": 1663,
+                    "x1": 1869,
+                    "y1": 2103
+                }
+            ],
+            "bbox": [
+                170,
+                1663,
+                1869,
+                2103
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-01-10_p1_sn84021918_0041421695A_1964011001_0256.json"
+        }
+    ]
+}

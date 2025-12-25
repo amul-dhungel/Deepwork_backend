@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7443,
+        "width": 4902,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964060501/0427.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1107,
+                "y0": 3297,
+                "x1": 1928,
+                "y1": 3716
+            },
+            "class": "article",
+            "raw_text": "shon B. o. Collier, Ambassador\nto the u s., said at the dedication\nof the Sierra Leone Pavilion.\n\n\n\"Our Worlds Fair Pavilion\nhas been designed to tell the story\nof Sierra Leone's unique history\nand culture as we'll as to project",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 555,
+                "y0": 3169,
+                "x1": 1678,
+                "y1": 3274
+            },
+            "class": "headline",
+            "raw_text": "African Nations Exhibit At Fair",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2003,
+                "y0": 2325,
+                "x1": 2824,
+                "y1": 3681
+            },
+            "class": "article",
+            "raw_text": "the exciting potential Of our\nlargely untapped natural and hui\nman res sources. Americans will\nalso be surprised at the number\nof cultural links they share with\nSierra Leone\" Ambassador c OIL\nlier continued.\n\n\nThe Pavilion consists Of an\norganic grouping Of three con-\nical shapes reminiscent of the\ncountrYs mountain peaks. Sierra\nLeone means Mountain of Lions\nin Portuguese.\n\n\nIndustrial and mining exhibits\nare prominent among the Pavil-\nions displays. Because diamond\nmining has played such an i'm\nportant part in Sierra Leone's\neconomy, the Diamond Corpora\nton of West Africa's display is\ngiven a prominent location, as is\nthe exhibit of the Mining Asso-\ncitation of Sierra Leone.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 218,
+                "y0": 3308,
+                "x1": 1033,
+                "y1": 3734
+            },
+            "class": "article",
+            "raw_text": "NEW YORK \"Sierra Leone\nhas come to the New York World\nFair because it believes in active\npromotion of world peace and be-\ncause 1t wants to become better\nknown by other peoples. partic-\nularly Americans\" H. E. Ger",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2898,
+                "y0": 593,
+                "x1": 4591,
+                "y1": 1187
+            },
+            "class": "article",
+            "raw_text": "Jesse Johnson Denver recently visited the city, He regional\npresident National Association Brokers'\n\n\nHe Is currently touring the organizing chapters\nWhile Phoenix he held Messrs S.\nClyde Webb William Dckey and Bill Franklin local real\n\n\n\nThe MARE formed 9 Detroit. is the father\nthe United Mortgage Bankers of America.\n\n\nMr. ohnsons regional division includes Utah. Colorado Arizona\nNew Mexico. Montana and Wyoming.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2916,
+                "y0": 343,
+                "x1": 3923,
+                "y1": 565
+            },
+            "class": "headline",
+            "raw_text": "MARE Regional Director\nVisits City For Survey",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2898,
+                "y0": 1331,
+                "x1": 4556,
+                "y1": 1524
+            },
+            "class": "article",
+            "raw_text": "Eat delicious dinner In cool comfort after the service\nSum- June church dining hail. First Institutional Baptist Church.\nll4 E. INSTRUMENTATION $25. by",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3084,
+                "y0": 1215,
+                "x1": 4225,
+                "y1": 1315
+            },
+            "class": "headline",
+            "raw_text": "Senior Choir Dinner Sundu,",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 229,
+                "y0": 2227,
+                "x1": 1917,
+                "y1": 3152
+            },
+            "class": "article",
+            "raw_text": "the march music played the eighth grade graduates Palm\ndale School formed their professional line.\n\n\nTop row lenes Of girls and boys preparing end the\ngrammar school, Christopher Brown graduating with\nhighest honors, presented the welcome address,\n\n\nw. D. Svtnda principal awards one of ga diplomas.\n\n\nphoosOe Davis the Links Award from Mrs.\nw. D. Swdndall.\n\n\nAlvin wrist watch from the Pandale\nrepresentative Mrs. Fred Barnes made the\npresentation. Photos Lonne Billips\nPALMDALE SCHOOL PHOTOS\n\n\nPRINTS AVAILABLE NoW-REAsoNAsLE\n\n\n254-292I WILsoN-LoNNIE",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964060501_0427",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "African Nations Exhibit At Fair",
+            "article": "shon B. o. Collier, Ambassador\nto the u s., said at the dedication\nof the Sierra Leone Pavilion.\n\n\n\"Our Worlds Fair Pavilion\nhas been designed to tell the story\nof Sierra Leone's unique history\nand culture as we'll as to project",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 555,
+                    "y0": 3169,
+                    "x1": 1678,
+                    "y1": 3274
+                },
+                {
+                    "x0": 1107,
+                    "y0": 3297,
+                    "x1": 1928,
+                    "y1": 3716
+                }
+            ],
+            "bbox": [
+                555,
+                3169,
+                1928,
+                3716
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-05_pna_sn84021918_0041421695A_1964060501_0427.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "the exciting potential Of our\nlargely untapped natural and hui\nman res sources. Americans will\nalso be surprised at the number\nof cultural links they share with\nSierra Leone\" Ambassador c OIL\nlier continued.\n\n\nThe Pavilion consists Of an\norganic grouping Of three con-\nical shapes reminiscent of the\ncountrYs mountain peaks. Sierra\nLeone means Mountain of Lions\nin Portuguese.\n\n\nIndustrial and mining exhibits\nare prominent among the Pavil-\nions displays. Because diamond\nmining has played such an i'm\nportant part in Sierra Leone's\neconomy, the Diamond Corpora\nton of West Africa's display is\ngiven a prominent location, as is\nthe exhibit of the Mining Asso-\ncitation of Sierra Leone.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2003,
+                    "y0": 2325,
+                    "x1": 2824,
+                    "y1": 3681
+                }
+            ],
+            "bbox": [
+                2003,
+                2325,
+                2824,
+                3681
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-05_pna_sn84021918_0041421695A_1964060501_0427.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "NEW YORK \"Sierra Leone\nhas come to the New York World\nFair because it believes in active\npromotion of world peace and be-\ncause 1t wants to become better\nknown by other peoples. partic-\nularly Americans\" H. E. Ger",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 218,
+                    "y0": 3308,
+                    "x1": 1033,
+                    "y1": 3734
+                }
+            ],
+            "bbox": [
+                218,
+                3308,
+                1033,
+                3734
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-05_pna_sn84021918_0041421695A_1964060501_0427.json"
+        },
+        {
+            "object_ids": [
+                5,
+                4
+            ],
+            "headline": "MARE Regional Director\nVisits City For Survey",
+            "article": "Jesse Johnson Denver recently visited the city, He regional\npresident National Association Brokers'\n\n\nHe Is currently touring the organizing chapters\nWhile Phoenix he held Messrs S.\nClyde Webb William Dckey and Bill Franklin local real\n\n\n\nThe MARE formed 9 Detroit. is the father\nthe United Mortgage Bankers of America.\n\n\nMr. ohnsons regional division includes Utah. Colorado Arizona\nNew Mexico. Montana and Wyoming.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2916,
+                    "y0": 343,
+                    "x1": 3923,
+                    "y1": 565
+                },
+                {
+                    "x0": 2898,
+                    "y0": 593,
+                    "x1": 4591,
+                    "y1": 1187
+                }
+            ],
+            "bbox": [
+                2898,
+                343,
+                4591,
+                1187
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-05_pna_sn84021918_0041421695A_1964060501_0427.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "Senior Choir Dinner Sundu,",
+            "article": "Eat delicious dinner In cool comfort after the service\nSum- June church dining hail. First Institutional Baptist Church.\nll4 E. INSTRUMENTATION $25. by",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3084,
+                    "y0": 1215,
+                    "x1": 4225,
+                    "y1": 1315
+                },
+                {
+                    "x0": 2898,
+                    "y0": 1331,
+                    "x1": 4556,
+                    "y1": 1524
+                }
+            ],
+            "bbox": [
+                2898,
+                1215,
+                4556,
+                1524
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-05_pna_sn84021918_0041421695A_1964060501_0427.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "the march music played the eighth grade graduates Palm\ndale School formed their professional line.\n\n\nTop row lenes Of girls and boys preparing end the\ngrammar school, Christopher Brown graduating with\nhighest honors, presented the welcome address,\n\n\nw. D. Svtnda principal awards one of ga diplomas.\n\n\nphoosOe Davis the Links Award from Mrs.\nw. D. Swdndall.\n\n\nAlvin wrist watch from the Pandale\nrepresentative Mrs. Fred Barnes made the\npresentation. Photos Lonne Billips\nPALMDALE SCHOOL PHOTOS\n\n\nPRINTS AVAILABLE NoW-REAsoNAsLE\n\n\n254-292I WILsoN-LoNNIE",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 229,
+                    "y0": 2227,
+                    "x1": 1917,
+                    "y1": 3152
+                }
+            ],
+            "bbox": [
+                229,
+                2227,
+                1917,
+                3152
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-05_pna_sn84021918_0041421695A_1964060501_0427.json"
+        }
+    ]
+}

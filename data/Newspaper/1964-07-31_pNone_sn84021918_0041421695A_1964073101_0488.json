@@ -1,0 +1,487 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4887,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0488.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3866,
+                "y0": 2563,
+                "x1": 4677,
+                "y1": 3559
+            },
+            "class": "article",
+            "raw_text": "The Alpha Kappa Alpha Soror-\nity will hold it's 4lst national con-\nvention in Philadelphia Aug. OLA.\n\n\nMrs. Julia Purnell, national\npresident and director of reading\nservices at Southern University,\nBaton Rouge, La. said record\nnumber of delegates is expected.\n\n\nGuest speakers will include\nDR.. Martin L. King, president\nof the Southern Christian Lead\nership Conference and Whitney\nYoung, national executive direc-\ntor of the Urban League.\n\n\nThe convention theme is \"Ad-\nvancement Through knowledge\nand Action\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3878,
+                "y0": 2354,
+                "x1": 4411,
+                "y1": 2546
+            },
+            "class": "headline",
+            "raw_text": "AKA To\n\n\nMeet In Denver",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2987,
+                "y0": 2568,
+                "x1": 3804,
+                "y1": 3518
+            },
+            "class": "article",
+            "raw_text": "CHICAGO A total of Is per-\nsons have claimed kinship to the\ndead policy operator, Lawrence\nWakefield, Negro.\n\n\nThe Is join Mrs. Rose Kennedy,\na white woman, Wakefield COM\nmon in law wife and woman\nwho says she is the dead mans\ndaughter, in legal battle for the\n100000 found in Wakefield's\napartment.\n\n\nHe suffered fatal heart attack\nthis spring and the money was\nfound hidden in the southside\napartment shared by Mrs. Ken\nnedy and the deceased.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2987,
+                "y0": 2354,
+                "x1": 3757,
+                "y1": 2558
+            },
+            "class": "headline",
+            "raw_text": "II FILE SUITS FOR\n\n\nDEAD MANS FORTUNE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2061,
+                "y0": 2025,
+                "x1": 2878,
+                "y1": 2841
+            },
+            "class": "article",
+            "raw_text": "Clarence Jackson, recreation\ndirector at Eastlake Park, an\nnounces open house begins July\nII and ends Aug. E.\n\n\nThe summer park band under\nthe direction of H. F. Edwards\nwill present free concert Thurs.\nJuly 80 at the bandshell.\n\n\nA gala program is planned for\nthe public We'd, Aug. 5. There\nwill be drama, Slimnastics and\ndance demonstrations by mem\nbers of the summer recreation\nprogram.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2090,
+                "y0": 1793,
+                "x1": 2600,
+                "y1": 2002
+            },
+            "class": "headline",
+            "raw_text": "EusfIuke\n\n\nPark News",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 285,
+                "y0": 1805,
+                "x1": 1981,
+                "y1": 2454
+            },
+            "class": "article",
+            "raw_text": "Shown three great Negro leaders who\nthe civil rights\n\n\nleft Dr. William E. B. Dubois of the founders\nNAACP, who also noted writer and lecturer.\n\n\nMiddle James Weldon Johnson, NAACP executive from\nl92l930 He teacher lawyer and One his earliest\npoems Lift Every and Sing by his bro\nJohnson widely National Negro\nAnthem.\n\n\nsecretary the NAACP from 1890\nwe'll known andW",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3866,
+                "y0": 3784,
+                "x1": 4683,
+                "y1": 4080
+            },
+            "class": "article",
+            "raw_text": "and goes to some lengths to\nprove it.\n\n\nOfficial records show she was\nborn In slavery in Cordelo, Ca,\non July 4, 1862.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2987,
+                "y0": 3610,
+                "x1": 4660,
+                "y1": 3750
+            },
+            "class": "headline",
+            "raw_text": "Former Slave Disugrees About Her Age",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2981,
+                "y0": 3789,
+                "x1": 3798,
+                "y1": 4051
+            },
+            "class": "article",
+            "raw_text": "DETROIT = Mrs. Mollie Black\ncelebrated her lO2nd birthday\nhere last week. But Mrs. Black\nmaintains she is los years old",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 273,
+                "y0": 2609,
+                "x1": 1090,
+                "y1": 2847
+            },
+            "class": "article",
+            "raw_text": "COLUMBUS Ohio-Pete\nBrown. Negro. overcame two poor\nrounds and won 1862 in the Pro-\nfessional Golf Assn. tournament",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 534,
+                "y0": 2470,
+                "x1": 1721,
+                "y1": 2575
+            },
+            "class": "headline",
+            "raw_text": "Negro Golfer Wins Money!",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1176,
+                "y0": 2609,
+                "x1": 1993,
+                "y1": 2836
+            },
+            "class": "article",
+            "raw_text": "which Bobby Nichols won.\n\n\nCharlie Sifford, the top ranking\nNegro player did not appear in the\ntourna nent.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2993,
+                "y0": 1886,
+                "x1": 4683,
+                "y1": 2309
+            },
+            "class": "article",
+            "raw_text": "One of the earliest demonstrations staged by the National\nAssociation for the Advancement of Coored People held 1917\nin New York City.\n\n\nSome $4,000 marched silently behind mued drums\nagainst nchngs and other mob violence which\nring in the South and other parts of the country.\n\n\nparaders the Fifth",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964073101_0488",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "AKA To\n\n\nMeet In Denver",
+            "article": "The Alpha Kappa Alpha Soror-\nity will hold it's 4lst national con-\nvention in Philadelphia Aug. OLA.\n\n\nMrs. Julia Purnell, national\npresident and director of reading\nservices at Southern University,\nBaton Rouge, La. said record\nnumber of delegates is expected.\n\n\nGuest speakers will include\nDR.. Martin L. King, president\nof the Southern Christian Lead\nership Conference and Whitney\nYoung, national executive direc-\ntor of the Urban League.\n\n\nThe convention theme is \"Ad-\nvancement Through knowledge\nand Action\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3878,
+                    "y0": 2354,
+                    "x1": 4411,
+                    "y1": 2546
+                },
+                {
+                    "x0": 3866,
+                    "y0": 2563,
+                    "x1": 4677,
+                    "y1": 3559
+                }
+            ],
+            "bbox": [
+                3866,
+                2354,
+                4677,
+                3559
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                6,
+                2
+            ],
+            "headline": "II FILE SUITS FOR\n\n\nDEAD MANS FORTUNE",
+            "article": "CHICAGO A total of Is per-\nsons have claimed kinship to the\ndead policy operator, Lawrence\nWakefield, Negro.\n\n\nThe Is join Mrs. Rose Kennedy,\na white woman, Wakefield COM\nmon in law wife and woman\nwho says she is the dead mans\ndaughter, in legal battle for the\n100000 found in Wakefield's\napartment.\n\n\nHe suffered fatal heart attack\nthis spring and the money was\nfound hidden in the southside\napartment shared by Mrs. Ken\nnedy and the deceased.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2987,
+                    "y0": 2354,
+                    "x1": 3757,
+                    "y1": 2558
+                },
+                {
+                    "x0": 2987,
+                    "y0": 2568,
+                    "x1": 3804,
+                    "y1": 3518
+                }
+            ],
+            "bbox": [
+                2987,
+                2354,
+                3804,
+                3518
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "EusfIuke\n\n\nPark News",
+            "article": "Clarence Jackson, recreation\ndirector at Eastlake Park, an\nnounces open house begins July\nII and ends Aug. E.\n\n\nThe summer park band under\nthe direction of H. F. Edwards\nwill present free concert Thurs.\nJuly 80 at the bandshell.\n\n\nA gala program is planned for\nthe public We'd, Aug. 5. There\nwill be drama, Slimnastics and\ndance demonstrations by mem\nbers of the summer recreation\nprogram.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2090,
+                    "y0": 1793,
+                    "x1": 2600,
+                    "y1": 2002
+                },
+                {
+                    "x0": 2061,
+                    "y0": 2025,
+                    "x1": 2878,
+                    "y1": 2841
+                }
+            ],
+            "bbox": [
+                2061,
+                1793,
+                2878,
+                2841
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Shown three great Negro leaders who\nthe civil rights\n\n\nleft Dr. William E. B. Dubois of the founders\nNAACP, who also noted writer and lecturer.\n\n\nMiddle James Weldon Johnson, NAACP executive from\nl92l930 He teacher lawyer and One his earliest\npoems Lift Every and Sing by his bro\nJohnson widely National Negro\nAnthem.\n\n\nsecretary the NAACP from 1890\nwe'll known andW",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 285,
+                    "y0": 1805,
+                    "x1": 1981,
+                    "y1": 2454
+                }
+            ],
+            "bbox": [
+                285,
+                1805,
+                1981,
+                2454
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                14,
+                9
+            ],
+            "headline": "Former Slave Disugrees About Her Age",
+            "article": "and goes to some lengths to\nprove it.\n\n\nOfficial records show she was\nborn In slavery in Cordelo, Ca,\non July 4, 1862.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2987,
+                    "y0": 3610,
+                    "x1": 4660,
+                    "y1": 3750
+                },
+                {
+                    "x0": 3866,
+                    "y0": 3784,
+                    "x1": 4683,
+                    "y1": 4080
+                }
+            ],
+            "bbox": [
+                2987,
+                3610,
+                4683,
+                4080
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "DETROIT = Mrs. Mollie Black\ncelebrated her lO2nd birthday\nhere last week. But Mrs. Black\nmaintains she is los years old",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2981,
+                    "y0": 3789,
+                    "x1": 3798,
+                    "y1": 4051
+                }
+            ],
+            "bbox": [
+                2981,
+                3789,
+                3798,
+                4051
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                18,
+                11
+            ],
+            "headline": "Negro Golfer Wins Money!",
+            "article": "COLUMBUS Ohio-Pete\nBrown. Negro. overcame two poor\nrounds and won 1862 in the Pro-\nfessional Golf Assn. tournament",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 534,
+                    "y0": 2470,
+                    "x1": 1721,
+                    "y1": 2575
+                },
+                {
+                    "x0": 273,
+                    "y0": 2609,
+                    "x1": 1090,
+                    "y1": 2847
+                }
+            ],
+            "bbox": [
+                273,
+                2470,
+                1721,
+                2847
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "which Bobby Nichols won.\n\n\nCharlie Sifford, the top ranking\nNegro player did not appear in the\ntourna nent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1176,
+                    "y0": 2609,
+                    "x1": 1993,
+                    "y1": 2836
+                }
+            ],
+            "bbox": [
+                1176,
+                2609,
+                1993,
+                2836
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "One of the earliest demonstrations staged by the National\nAssociation for the Advancement of Coored People held 1917\nin New York City.\n\n\nSome $4,000 marched silently behind mued drums\nagainst nchngs and other mob violence which\nring in the South and other parts of the country.\n\n\nparaders the Fifth",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2993,
+                    "y0": 1886,
+                    "x1": 4683,
+                    "y1": 2309
+                }
+            ],
+            "bbox": [
+                2993,
+                1886,
+                4683,
+                2309
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-07-31_pna_sn84021918_0041421695A_1964073101_0488.json"
+        }
+    ]
+}

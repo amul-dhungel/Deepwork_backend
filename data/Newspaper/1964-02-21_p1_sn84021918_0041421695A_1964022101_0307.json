@@ -1,0 +1,193 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022101/0307.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4792
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1908,
+                "y0": 2429,
+                "x1": 2733,
+                "y1": 2894
+            },
+            "class": "article",
+            "raw_text": "bundling out of our shores shady\ncharacters, GA agents. fellow\ntravellers of decadent imper-\nialism who have tried with con-\nsistency to subvert our university\nstudents\"\n\n\nFour of the expelled faculty\nmembers are Americans:",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1010,
+                "y0": 614,
+                "x1": 1828,
+                "y1": 2308
+            },
+            "class": "article",
+            "raw_text": "1t. Col. Fred Williams, chief\nof opthalmology. 9th General\nHospital, Frankfurt Germany,\nwas cited as an outstanding alum\nnus, and received an Achievement\nAward at Founder S Day. held\nFeb. 7, at Arizona State Univer-\nsity in Tempe.\n\n\nHe graduated from the college\nin 1913. He received a medical\ndegree from Meharry Medical\nCollege.\n\n\nIn addition to his duties atGen-\neral Hospital, Col. Williams is\nchief consultant in opthalmology\nfor the United States Army in\nEurope. He holds the Bronze Star\nfor his work at Tokyo Army Hos\npital during the Korean War. is\na certified member of the Amer\nlean Board of Ophthalmology, and\nhas been chief in his specially\nat Osaka Army Hospital. Fl.\nLeonard Wood. Fl. Ord. and\nMadigan general hospitals.\n\n\nThis distinguished eye special\nist is the son of MIR. and Mrs.\nFred Williams. 1922 E. Wash\nington St.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 998,
+                "y0": 388,
+                "x1": 1828,
+                "y1": 575
+            },
+            "class": "headline",
+            "raw_text": "Ii. Col. williams\nCited by ASU at Tempe",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1015,
+                "y0": 2423,
+                "x1": 1834,
+                "y1": 2894
+            },
+            "class": "article",
+            "raw_text": "ACCRA, GHANA The Cha\nnaian Times described as the\nheight of hypocrisy protest\nby the u. S. State Department\nagainst deportation of six Univer-\nsity of Ghana professors.\n\n\neve have done no more than\nprotect our national interest by",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1311,
+                "y0": 2330,
+                "x1": 2315,
+                "y1": 2418
+            },
+            "class": "headline",
+            "raw_text": "GHANA GUSTS Professors",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-02-21"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "bundling out of our shores shady\ncharacters, GA agents. fellow\ntravellers of decadent imper-\nialism who have tried with con-\nsistency to subvert our university\nstudents\"\n\n\nFour of the expelled faculty\nmembers are Americans:",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 2429,
+                    "x1": 2733,
+                    "y1": 2894
+                }
+            ],
+            "bbox": [
+                1908,
+                2429,
+                2733,
+                2894
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-21_p1_sn84021918_0041421695A_1964022101_0307.json"
+        },
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "Ii. Col. williams\nCited by ASU at Tempe",
+            "article": "1t. Col. Fred Williams, chief\nof opthalmology. 9th General\nHospital, Frankfurt Germany,\nwas cited as an outstanding alum\nnus, and received an Achievement\nAward at Founder S Day. held\nFeb. 7, at Arizona State Univer-\nsity in Tempe.\n\n\nHe graduated from the college\nin 1913. He received a medical\ndegree from Meharry Medical\nCollege.\n\n\nIn addition to his duties atGen-\neral Hospital, Col. Williams is\nchief consultant in opthalmology\nfor the United States Army in\nEurope. He holds the Bronze Star\nfor his work at Tokyo Army Hos\npital during the Korean War. is\na certified member of the Amer\nlean Board of Ophthalmology, and\nhas been chief in his specially\nat Osaka Army Hospital. Fl.\nLeonard Wood. Fl. Ord. and\nMadigan general hospitals.\n\n\nThis distinguished eye special\nist is the son of MIR. and Mrs.\nFred Williams. 1922 E. Wash\nington St.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 998,
+                    "y0": 388,
+                    "x1": 1828,
+                    "y1": 575
+                },
+                {
+                    "x0": 1010,
+                    "y0": 614,
+                    "x1": 1828,
+                    "y1": 2308
+                }
+            ],
+            "bbox": [
+                998,
+                388,
+                1828,
+                2308
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-21_p1_sn84021918_0041421695A_1964022101_0307.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "GHANA GUSTS Professors",
+            "article": "ACCRA, GHANA The Cha\nnaian Times described as the\nheight of hypocrisy protest\nby the u. S. State Department\nagainst deportation of six Univer-\nsity of Ghana professors.\n\n\neve have done no more than\nprotect our national interest by",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1311,
+                    "y0": 2330,
+                    "x1": 2315,
+                    "y1": 2418
+                },
+                {
+                    "x0": 1015,
+                    "y0": 2423,
+                    "x1": 1834,
+                    "y1": 2894
+                }
+            ],
+            "bbox": [
+                1015,
+                2330,
+                2315,
+                2894
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-21_p1_sn84021918_0041421695A_1964022101_0307.json"
+        }
+    ]
+}

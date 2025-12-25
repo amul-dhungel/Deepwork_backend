@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112701/0649.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4874
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2731,
+                "y0": 549,
+                "x1": 3554,
+                "y1": 2256
+            },
+            "class": "article",
+            "raw_text": "CHICAGO : Kenneth NJ. Piper.\nvice pre- sident, Motorola Inc,\nhas been named chairman of the\nboard of the Council of Profit\nSharing Industries at the annual\nmeeting in St. Louis.\n\n\nPiper, first vice chairman of\nthe organization in 1862 and 1863,\nsucceeds Rollin E. Ecke, finan-\ncial vice president, Farmers In\nsurance Group, as chairman.\n\n\nThe Council of Profit Sharing\nIndustries is an association of\nmore than 1000 companies that\nhave profit sharing programs\nwith their employees. Member\ncompanies, located in the U s.,\nCanada, Mexico, England, Den\nmark and India, employ APPROX\nmately IL million people.\n\n\nPiper, So, is a graduate of\nU.C.L.A. and Loyola University\nLaw School. A former F.B.I.\nagent, he was director of In\ndustrial Relations for Bausch\n& Lomb Optical Co., Rochester,\nN. Y. from lo44-48. He joined\nMotorola as director of human\nrelations in 1919.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2755,
+                "y0": 323,
+                "x1": 3565,
+                "y1": 533
+            },
+            "class": "headline",
+            "raw_text": "MoforoIu Executive\nHeads Group",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2864,
+                "y0": 2764,
+                "x1": 3478,
+                "y1": 3089
+            },
+            "class": "article",
+            "raw_text": "Let US be thankful +ho+ we\nlive in a land Of freedom\nand plenty. Let US never\nlose sight Of the fact that\nfreedom depends on the\nvigilance Of all who love it.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2760,
+                "y0": 2318,
+                "x1": 3542,
+                "y1": 2614
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 118,
+                "y0": 4545,
+                "x1": 1801,
+                "y1": 4974
+            },
+            "class": "article",
+            "raw_text": "Brownies recently organized on\nof Mesdames Cora Warren\nand McDell Jackson.\n\n\nmorning meeting Norma Fierros JAMIE\nSndra Hawkins Maryn\nWarren Mango MITCHELL Daniels Joyce Jack\neon and Elaine Mitchell. Photo Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3668,
+                "y0": 3354,
+                "x1": 4404,
+                "y1": 3563
+            },
+            "class": "article",
+            "raw_text": "SOUBLET'S BEAUTY SHOP\n2O14 E. Broadway\nBR 6-3964",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3657,
+                "y0": 2064,
+                "x1": 4479,
+                "y1": 2244
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-0511",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3668,
+                "y0": 1757,
+                "x1": 4386,
+                "y1": 2019
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-11-27"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                3
+            ],
+            "headline": "MoforoIu Executive\nHeads Group",
+            "article": "CHICAGO : Kenneth NJ. Piper.\nvice pre- sident, Motorola Inc,\nhas been named chairman of the\nboard of the Council of Profit\nSharing Industries at the annual\nmeeting in St. Louis.\n\n\nPiper, first vice chairman of\nthe organization in 1862 and 1863,\nsucceeds Rollin E. Ecke, finan-\ncial vice president, Farmers In\nsurance Group, as chairman.\n\n\nThe Council of Profit Sharing\nIndustries is an association of\nmore than 1000 companies that\nhave profit sharing programs\nwith their employees. Member\ncompanies, located in the U s.,\nCanada, Mexico, England, Den\nmark and India, employ APPROX\nmately IL million people.\n\n\nPiper, So, is a graduate of\nU.C.L.A. and Loyola University\nLaw School. A former F.B.I.\nagent, he was director of In\ndustrial Relations for Bausch\n& Lomb Optical Co., Rochester,\nN. Y. from lo44-48. He joined\nMotorola as director of human\nrelations in 1919.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2755,
+                    "y0": 323,
+                    "x1": 3565,
+                    "y1": 533
+                },
+                {
+                    "x0": 2731,
+                    "y0": 549,
+                    "x1": 3554,
+                    "y1": 2256
+                }
+            ],
+            "bbox": [
+                2731,
+                323,
+                3565,
+                2256
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-27_p1_sn84021918_0041421695A_1964112701_0649.json"
+        },
+        {
+            "object_ids": [
+                8,
+                10
+            ],
+            "headline": "",
+            "article": "Let US be thankful +ho+ we\nlive in a land Of freedom\nand plenty. Let US never\nlose sight Of the fact that\nfreedom depends on the\nvigilance Of all who love it.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2760,
+                    "y0": 2318,
+                    "x1": 3542,
+                    "y1": 2614
+                },
+                {
+                    "x0": 2864,
+                    "y0": 2764,
+                    "x1": 3478,
+                    "y1": 3089
+                }
+            ],
+            "bbox": [
+                2760,
+                2318,
+                3542,
+                3089
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-27_p1_sn84021918_0041421695A_1964112701_0649.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Brownies recently organized on\nof Mesdames Cora Warren\nand McDell Jackson.\n\n\nmorning meeting Norma Fierros JAMIE\nSndra Hawkins Maryn\nWarren Mango MITCHELL Daniels Joyce Jack\neon and Elaine Mitchell. Photo Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 118,
+                    "y0": 4545,
+                    "x1": 1801,
+                    "y1": 4974
+                }
+            ],
+            "bbox": [
+                118,
+                4545,
+                1801,
+                4974
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-11-27_p1_sn84021918_0041421695A_1964112701_0649.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "SOUBLET'S BEAUTY SHOP\n2O14 E. Broadway\nBR 6-3964",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3668,
+                    "y0": 3354,
+                    "x1": 4404,
+                    "y1": 3563
+                }
+            ],
+            "bbox": [
+                3668,
+                3354,
+                4404,
+                3563
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-11-27_p1_sn84021918_0041421695A_1964112701_0649.json"
+        },
+        {
+            "object_ids": [
+                21,
+                25
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-0511",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3668,
+                    "y0": 1757,
+                    "x1": 4386,
+                    "y1": 2019
+                },
+                {
+                    "x0": 3657,
+                    "y0": 2064,
+                    "x1": 4479,
+                    "y1": 2244
+                }
+            ],
+            "bbox": [
+                3657,
+                1757,
+                4479,
+                2244
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-11-27_p1_sn84021918_0041421695A_1964112701_0649.json"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-18",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7444,
+        "width": 4902,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-18",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121801/0673.jp2"
+    },
+    "bboxes": [],
+    "id": "sn84021918_0041421695A_1964121801_0673",
+    "full articles": []
+}

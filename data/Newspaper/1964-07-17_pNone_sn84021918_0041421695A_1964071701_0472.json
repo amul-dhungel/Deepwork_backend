@@ -1,0 +1,196 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4912,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071701/0472.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 326,
+                "y0": 2835,
+                "x1": 1143,
+                "y1": 3316
+            },
+            "class": "article",
+            "raw_text": "ATLANTIC CITY Singer Del\nla Reese. 80. returned to her\nmotel room and found that thieves\nhad taken more than $l3. 900\nworth of furs and jewels.\n\n\nShe was at the club from mid\nnight to S a.m., when she re-\nturned to her room at the Blair",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 320,
+                "y0": 2534,
+                "x1": 1629,
+                "y1": 2812
+            },
+            "class": "headline",
+            "raw_text": "Della Reese Loses\n\n\nCostly Jewels And Furs",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2137,
+                "y0": 2719,
+                "x1": 2960,
+                "y1": 3304
+            },
+            "class": "article",
+            "raw_text": "On July Is, 1868 the 54th\nMassachusetts. the first Negro\nregiment recruited in the North\nunder federal authority. led the\nattack on Fl. Wagner, at Morris\nIsland, South Carolina. Despite\nbravery the regiment was re-\npulsed and many lost their lives.\nincluding the young colonel, Rob-\nert G ould Shaw.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2253,
+                "y0": 2626,
+                "x1": 2867,
+                "y1": 2708
+            },
+            "class": "headline",
+            "raw_text": "100 YEARS AGO",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1246,
+                "y0": 2840,
+                "x1": 2063,
+                "y1": 3316
+            },
+            "class": "article",
+            "raw_text": "Motor Inn.\n\n\nMiss Reese listed the missing\nitems as chinchilla coat worth\n$500: two silver mink coats.\n$4,000; one white gold leaf pin\nwith diamonds, $500: three\nrings and two wristwatches with\na value of 1900.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964071701_0472",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                2
+            ],
+            "headline": "Della Reese Loses\n\n\nCostly Jewels And Furs",
+            "article": "ATLANTIC CITY Singer Del\nla Reese. 80. returned to her\nmotel room and found that thieves\nhad taken more than $l3. 900\nworth of furs and jewels.\n\n\nShe was at the club from mid\nnight to S a.m., when she re-\nturned to her room at the Blair",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 320,
+                    "y0": 2534,
+                    "x1": 1629,
+                    "y1": 2812
+                },
+                {
+                    "x0": 326,
+                    "y0": 2835,
+                    "x1": 1143,
+                    "y1": 3316
+                }
+            ],
+            "bbox": [
+                320,
+                2534,
+                1629,
+                3316
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-17_pna_sn84021918_0041421695A_1964071701_0472.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "100 YEARS AGO",
+            "article": "On July Is, 1868 the 54th\nMassachusetts. the first Negro\nregiment recruited in the North\nunder federal authority. led the\nattack on Fl. Wagner, at Morris\nIsland, South Carolina. Despite\nbravery the regiment was re-\npulsed and many lost their lives.\nincluding the young colonel, Rob-\nert G ould Shaw.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2253,
+                    "y0": 2626,
+                    "x1": 2867,
+                    "y1": 2708
+                },
+                {
+                    "x0": 2137,
+                    "y0": 2719,
+                    "x1": 2960,
+                    "y1": 3304
+                }
+            ],
+            "bbox": [
+                2137,
+                2626,
+                2960,
+                3304
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-17_pna_sn84021918_0041421695A_1964071701_0472.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Motor Inn.\n\n\nMiss Reese listed the missing\nitems as chinchilla coat worth\n$500: two silver mink coats.\n$4,000; one white gold leaf pin\nwith diamonds, $500: three\nrings and two wristwatches with\na value of 1900.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1246,
+                    "y0": 2840,
+                    "x1": 2063,
+                    "y1": 3316
+                }
+            ],
+            "bbox": [
+                1246,
+                2840,
+                2063,
+                3316
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-17_pna_sn84021918_0041421695A_1964071701_0472.json"
+        }
+    ]
+}

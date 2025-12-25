@@ -1,0 +1,311 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0323.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4797
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1993,
+                "y0": 2556,
+                "x1": 2815,
+                "y1": 3563
+            },
+            "class": "article",
+            "raw_text": "CHICAGO Fifty-mile hikes,\nthe fading footsore fad of 1868,\nshould be rare exception rather\nthan the rule for visitors at the\n1864 Worlds Fair in New York,\naccording to Greyhound officials.\n\n\nGreyhound at the World S Fair,\nInc, will offer radio dispatched\ntravel service for on-the-spot\ntransportation. Included in the\ncompany's fleet of more than\n800 specially designed vehicles\nwill be \"Glide-a-Rides.\" each\nconsisting of motorized unit and\nthree trailers carrying 90 per-\nsons. and four-passenger \"Es-\ncorter\" lounge cars.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2861,
+                "y0": 2550,
+                "x1": 3677,
+                "y1": 3545
+            },
+            "class": "article",
+            "raw_text": "To insure that empty \"Glide-\na-Rde\" vehicles and Escort\nerr cars are matched up quickly\nwith energetic but foot-weary\nfairgoers, Greyhound plans to\ncoordinate movement of the We\nhicles through use of an extern\nsive two-way radio system.\nEquipment for the unique COM\nmunications network was recent\nly ordered from Motorola. In\ncluded are dispatching facilities\nfor use at Greyhound exhibit\nbuilding at the Fair, and 20\nlightweight portable radios which\nwill be assigned to rowing super\nvisors.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3034,
+                "y0": 1954,
+                "x1": 3504,
+                "y1": 2296
+            },
+            "class": "headline",
+            "raw_text": "SUBSCRIBE\nARIZONA\n\n\nTRIBUNE",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2317,
+                "y0": 2388,
+                "x1": 3399,
+                "y1": 2522
+            },
+            "class": "headline",
+            "raw_text": "Buses To Aid Fuirgoers",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3751,
+                "y0": 2191,
+                "x1": 4556,
+                "y1": 2956
+            },
+            "class": "article",
+            "raw_text": "ANNAPOLIS, Md. Sixteen\ndemonstrators were arrested\nMonday for refusing to leave\nrestaurant. Police had to drag\nthem away.\n\n\nAbout 400 persons had marched\non the state capital protesting\npolice tactics during last week\nracial disturbance at Princess\nAnne when 3O0Negro college stu\ndents fought with state troopers.\n\n\nThose arrested we're charged\nwith disorderly conduct.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3763,
+                "y0": 1954,
+                "x1": 4325,
+                "y1": 2175
+            },
+            "class": "headline",
+            "raw_text": "10 Arrested\n\n\nIn Maryland",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1103,
+                "y0": 2613,
+                "x1": 1913,
+                "y1": 3383
+            },
+            "class": "article",
+            "raw_text": "Governor Paul Fannin will be\nthe principal speaker during the\nannual convention banquet of the\nArizona Association of Realtors,\nSaturday evening, April 4. at\nthe Ramada Inn, Phoenix, accord\ning to Henry E. Brodersen. of\nPhoenix, President Of the Asso-\ncitation.\n\n\nThe Realtor' 10Th Annual Con-\nvention will be held at the Ramada\nInn. Friday and Saturday Of April\nga.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1103,
+                "y0": 2411,
+                "x1": 1861,
+                "y1": 2585
+            },
+            "class": "headline",
+            "raw_text": "Gov. Funnin\nTo Speak To Realtors",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 201,
+                "y0": 3059,
+                "x1": 1017,
+                "y1": 3268
+            },
+            "class": "article",
+            "raw_text": "CARPETS Unstable D and re-\npaired Days, evenings Sundays\nCell. 275-3053. .... ...-.,.,.,.. ........",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-03-06"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "CHICAGO Fifty-mile hikes,\nthe fading footsore fad of 1868,\nshould be rare exception rather\nthan the rule for visitors at the\n1864 Worlds Fair in New York,\naccording to Greyhound officials.\n\n\nGreyhound at the World S Fair,\nInc, will offer radio dispatched\ntravel service for on-the-spot\ntransportation. Included in the\ncompany's fleet of more than\n800 specially designed vehicles\nwill be \"Glide-a-Rides.\" each\nconsisting of motorized unit and\nthree trailers carrying 90 per-\nsons. and four-passenger \"Es-\ncorter\" lounge cars.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1993,
+                    "y0": 2556,
+                    "x1": 2815,
+                    "y1": 3563
+                }
+            ],
+            "bbox": [
+                1993,
+                2556,
+                2815,
+                3563
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-06_p1_sn84021918_0041421695A_1964030601_0323.json"
+        },
+        {
+            "object_ids": [
+                7,
+                17,
+                3
+            ],
+            "headline": "SUBSCRIBE\nARIZONA\n\n\nTRIBUNE\n\nBuses To Aid Fuirgoers",
+            "article": "To insure that empty \"Glide-\na-Rde\" vehicles and Escort\nerr cars are matched up quickly\nwith energetic but foot-weary\nfairgoers, Greyhound plans to\ncoordinate movement of the We\nhicles through use of an extern\nsive two-way radio system.\nEquipment for the unique COM\nmunications network was recent\nly ordered from Motorola. In\ncluded are dispatching facilities\nfor use at Greyhound exhibit\nbuilding at the Fair, and 20\nlightweight portable radios which\nwill be assigned to rowing super\nvisors.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3034,
+                    "y0": 1954,
+                    "x1": 3504,
+                    "y1": 2296
+                },
+                {
+                    "x0": 2317,
+                    "y0": 2388,
+                    "x1": 3399,
+                    "y1": 2522
+                },
+                {
+                    "x0": 2861,
+                    "y0": 2550,
+                    "x1": 3677,
+                    "y1": 3545
+                }
+            ],
+            "bbox": [
+                2317,
+                1954,
+                3677,
+                3545
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-06_p1_sn84021918_0041421695A_1964030601_0323.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "10 Arrested\n\n\nIn Maryland",
+            "article": "ANNAPOLIS, Md. Sixteen\ndemonstrators were arrested\nMonday for refusing to leave\nrestaurant. Police had to drag\nthem away.\n\n\nAbout 400 persons had marched\non the state capital protesting\npolice tactics during last week\nracial disturbance at Princess\nAnne when 3O0Negro college stu\ndents fought with state troopers.\n\n\nThose arrested we're charged\nwith disorderly conduct.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3763,
+                    "y0": 1954,
+                    "x1": 4325,
+                    "y1": 2175
+                },
+                {
+                    "x0": 3751,
+                    "y0": 2191,
+                    "x1": 4556,
+                    "y1": 2956
+                }
+            ],
+            "bbox": [
+                3751,
+                1954,
+                4556,
+                2956
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-06_p1_sn84021918_0041421695A_1964030601_0323.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "Gov. Funnin\nTo Speak To Realtors",
+            "article": "Governor Paul Fannin will be\nthe principal speaker during the\nannual convention banquet of the\nArizona Association of Realtors,\nSaturday evening, April 4. at\nthe Ramada Inn, Phoenix, accord\ning to Henry E. Brodersen. of\nPhoenix, President Of the Asso-\ncitation.\n\n\nThe Realtor' 10Th Annual Con-\nvention will be held at the Ramada\nInn. Friday and Saturday Of April\nga.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1103,
+                    "y0": 2411,
+                    "x1": 1861,
+                    "y1": 2585
+                },
+                {
+                    "x0": 1103,
+                    "y0": 2613,
+                    "x1": 1913,
+                    "y1": 3383
+                }
+            ],
+            "bbox": [
+                1103,
+                2411,
+                1913,
+                3383
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-03-06_p1_sn84021918_0041421695A_1964030601_0323.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "CARPETS Unstable D and re-\npaired Days, evenings Sundays\nCell. 275-3053. .... ...-.,.,.,.. ........",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 201,
+                    "y0": 3059,
+                    "x1": 1017,
+                    "y1": 3268
+                }
+            ],
+            "bbox": [
+                201,
+                3059,
+                1017,
+                3268
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-03-06_p1_sn84021918_0041421695A_1964030601_0323.json"
+        }
+    ]
+}

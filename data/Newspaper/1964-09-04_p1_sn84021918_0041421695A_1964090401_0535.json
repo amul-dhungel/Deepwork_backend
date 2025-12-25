@@ -1,0 +1,266 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964090401/0535.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7438,
+        "width": 4885
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1942,
+                "y0": 2876,
+                "x1": 2757,
+                "y1": 3342
+            },
+            "class": "article",
+            "raw_text": "MONTGOMERY. Ala. Only\neight Negro pupils have passed\nrequirements set up by the board\nof education to be placed in all\nwhite schools. A total of %\napplications we're accepted.\n\n\nThe federal court must approve\nthis recent action.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1960,
+                "y0": 2766,
+                "x1": 2600,
+                "y1": 2854
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1942,
+                "y0": 1446,
+                "x1": 2763,
+                "y1": 2743
+            },
+            "class": "article",
+            "raw_text": "ST. Paul, MINI. The City\nCouncil has adopted a new civil\nrights ordinance banning dis\nelimination in public accommo-\ndations, housing, public services\nand education.\n\n\nThe ordinance adopted ON Aug.\n20. also established a special\nll-man commission to investi-\ngate charges Of violations and to\nenforce the new law. Enforce\nment will include fines and work\nhouse terms for violators Of the\nemployment ban and various other\nsanctions in other areas.\n\n\nPrior to the new ordinance,\nSt. Paul had a municipal fair\nemployment practices measure.\nThere are also Minneso ta State\nlaws banning discrimination in\npublic accommodations, employ\nment and housing.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1971,
+                "y0": 1353,
+                "x1": 2623,
+                "y1": 1442
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 158,
+                "y0": 1284,
+                "x1": 1833,
+                "y1": 1703
+            },
+            "class": "article",
+            "raw_text": "The Youth Department Of Union Baptist Church has doing\nkinds of work raise for their chartered bus trip the\ntional convention in Los Angeles on Sept. IL.\n\n\nLast Saturday wash day the church grounds.\n\n\nYouth leader Thomas Wilson, back Of said they\nhe of the who had worked\ndiligently.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1942,
+                "y0": 522,
+                "x1": 2751,
+                "y1": 1331
+            },
+            "class": "article",
+            "raw_text": "New officers Of Les Femmes\nd Art for the year included Mes\ndanes William Bennett. presi-\ndent; Lowell Wormley. vice\npresident: Frank Huff. secretary;\nAID. Hart. Asst. secretary: Au-\nbrey Aldridge, treasurer; Leo\nnard Wilburn. parliamentarian;\nCercy Mcclellan. historian and\nDIV. Williams. reporter.\n\n\nAn executive board meeting\nwas held Aug. d at the home\nOf Mrs. William Bennett to dis\ncusS annual plans.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1983,
+                "y0": 430,
+                "x1": 2350,
+                "y1": 506
+            },
+            "class": "headline",
+            "raw_text": "CLUB NEWS",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 4929,
+                "y0": 435,
+                "x1": 6174,
+                "y1": 5817
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-09-04"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                3
+            ],
+            "headline": "",
+            "article": "MONTGOMERY. Ala. Only\neight Negro pupils have passed\nrequirements set up by the board\nof education to be placed in all\nwhite schools. A total of %\napplications we're accepted.\n\n\nThe federal court must approve\nthis recent action.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1960,
+                    "y0": 2766,
+                    "x1": 2600,
+                    "y1": 2854
+                },
+                {
+                    "x0": 1942,
+                    "y0": 2876,
+                    "x1": 2757,
+                    "y1": 3342
+                }
+            ],
+            "bbox": [
+                1942,
+                2766,
+                2757,
+                3342
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-04_p1_sn84021918_0041421695A_1964090401_0535.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "",
+            "article": "ST. Paul, MINI. The City\nCouncil has adopted a new civil\nrights ordinance banning dis\nelimination in public accommo-\ndations, housing, public services\nand education.\n\n\nThe ordinance adopted ON Aug.\n20. also established a special\nll-man commission to investi-\ngate charges Of violations and to\nenforce the new law. Enforce\nment will include fines and work\nhouse terms for violators Of the\nemployment ban and various other\nsanctions in other areas.\n\n\nPrior to the new ordinance,\nSt. Paul had a municipal fair\nemployment practices measure.\nThere are also Minneso ta State\nlaws banning discrimination in\npublic accommodations, employ\nment and housing.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1971,
+                    "y0": 1353,
+                    "x1": 2623,
+                    "y1": 1442
+                },
+                {
+                    "x0": 1942,
+                    "y0": 1446,
+                    "x1": 2763,
+                    "y1": 2743
+                }
+            ],
+            "bbox": [
+                1942,
+                1353,
+                2763,
+                2743
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-04_p1_sn84021918_0041421695A_1964090401_0535.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "The Youth Department Of Union Baptist Church has doing\nkinds of work raise for their chartered bus trip the\ntional convention in Los Angeles on Sept. IL.\n\n\nLast Saturday wash day the church grounds.\n\n\nYouth leader Thomas Wilson, back Of said they\nhe of the who had worked\ndiligently.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 158,
+                    "y0": 1284,
+                    "x1": 1833,
+                    "y1": 1703
+                }
+            ],
+            "bbox": [
+                158,
+                1284,
+                1833,
+                1703
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-04_p1_sn84021918_0041421695A_1964090401_0535.json"
+        },
+        {
+            "object_ids": [
+                8,
+                12
+            ],
+            "headline": "CLUB NEWS",
+            "article": "New officers Of Les Femmes\nd Art for the year included Mes\ndanes William Bennett. presi-\ndent; Lowell Wormley. vice\npresident: Frank Huff. secretary;\nAID. Hart. Asst. secretary: Au-\nbrey Aldridge, treasurer; Leo\nnard Wilburn. parliamentarian;\nCercy Mcclellan. historian and\nDIV. Williams. reporter.\n\n\nAn executive board meeting\nwas held Aug. d at the home\nOf Mrs. William Bennett to dis\ncusS annual plans.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1983,
+                    "y0": 430,
+                    "x1": 2350,
+                    "y1": 506
+                },
+                {
+                    "x0": 1942,
+                    "y0": 522,
+                    "x1": 2751,
+                    "y1": 1331
+                }
+            ],
+            "bbox": [
+                1942,
+                430,
+                2751,
+                1331
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-09-04_p1_sn84021918_0041421695A_1964090401_0535.json"
+        }
+    ]
+}

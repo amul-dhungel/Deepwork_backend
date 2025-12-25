@@ -1,0 +1,449 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-13",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4806,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-13",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964031301/0328.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1124,
+                "y0": 2769,
+                "x1": 1964,
+                "y1": 3360
+            },
+            "class": "article",
+            "raw_text": "scented to five graduates of the\nUniversity for distinguished\npostgraduate service. Recipient\nwere Roy A. Auduze of St. Thorn\nas, V. l., DR.. Errold D. oily\nmore of White Plains, MY. the\nRev. James Farmer of New York\nCity, DR.. Lillian B. Lewis of\nWinston-Salem, NC. and Flax\nlie Nj. Pinkett Washington, DC.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 234,
+                "y0": 2521,
+                "x1": 1449,
+                "y1": 2753
+            },
+            "class": "headline",
+            "raw_text": "DR.. PERCY JULIAN SPEAKS\nAT HOWARD UNIVERSITY",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3825,
+                "y0": 3382,
+                "x1": 4647,
+                "y1": 4164
+            },
+            "class": "article",
+            "raw_text": "Interdenominational Ministers\nWives will sponsor a Negro His\ntory Week program, Sum-, Mar.\nis 3 PM, at the South Phoenix\nBaptist Church, 10th and East\nBroadway.\n\n\nRev. F. Tops, Jr. is the pas\ntor.\n\n\nOfficers of the organization in\nclude Mesdames A. Oby Bell,\npresident; Frances Scott, secre-\ntary and Amelia Thompson, fl\nnancial secretary.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3825,
+                "y0": 3128,
+                "x1": 4514,
+                "y1": 3355
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY\n\n\nPROGRAM SUNDAY",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 217,
+                "y0": 2769,
+                "x1": 1045,
+                "y1": 3326
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON, DC. Indus\ntrial chemist Percy L. Julian\nof Franklin Park, H., was the\nprincipal speaker at Charter Day\nexercises marking the 9th ami\nversary of the founding ofHoward\nUniversity, Monday, March 2.\n\n\nDuring the exercises alumni\nachievement awards we're pre-",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2940,
+                "y0": 3319,
+                "x1": 3768,
+                "y1": 3678
+            },
+            "class": "article",
+            "raw_text": "Junior Woman S Society of Mt.\nCalvary Baptist Church will pre-\nsent it's sixth annual St. Patrick S\nDay Tea, Sum-, Mar. is, At pm.\n\n\nMesdames Alma Rivers and\nChristine Sales are cochairmen.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2946,
+                "y0": 3088,
+                "x1": 3676,
+                "y1": 3297
+            },
+            "class": "headline",
+            "raw_text": "ST. PATRICK'S DAY\nTEA PLANNED",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2929,
+                "y0": 3897,
+                "x1": 3751,
+                "y1": 4187
+            },
+            "class": "article",
+            "raw_text": "Olive Court FL, Heroines of\nJericho, will sponsor it's annual\nPalm Sunday service, Sum-, Mar.\n%, ii am. at Tanner Chapel\nAME, 9th and E. Jefferson.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2946,
+                "y0": 3706,
+                "x1": 3496,
+                "y1": 3887
+            },
+            "class": "headline",
+            "raw_text": "PALM SUNDAY\n\n\nPROGRAM SET",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2044,
+                "y0": 2978,
+                "x1": 2878,
+                "y1": 3349
+            },
+            "class": "article",
+            "raw_text": "Mexican food will be sold at\nSouthminster Pres byterian\nChurch. 1923 E. Broadway, Sat-,\nMar. IA, 1880 am $3.50 pm.\nTacos and tostadas will be\nserved.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2038,
+                "y0": 2741,
+                "x1": 2687,
+                "y1": 2950
+            },
+            "class": "headline",
+            "raw_text": "MEXICAN FOOD\n\n\nSALE AT CHURCH",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 228,
+                "y0": 1954,
+                "x1": 1947,
+                "y1": 2499
+            },
+            "class": "article",
+            "raw_text": "Day Phillips Memorial Church. 4O2 E.\nAdams Sunday, Mar. 7.\n\n\nThompson delivered the of the charter\nO he church\nMesdames Elizabeth Garner Madge Copeland 0.\nSmith, Mrs. Susie Curry Rev. NJ Thompson, Mrs. A.\nThompson Mesdames Lillian White Mr. Cecil Hewe Mesdames\nRuth Franklin Lillian Davis Floyd Johnson John Bell and Rev.\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2044,
+                "y0": 2012,
+                "x1": 2878,
+                "y1": 2701
+            },
+            "class": "article",
+            "raw_text": "IN THE MAILBAG\nDear Editors:\n\n\nThe promotional committee for\nthe Prairie View ACapella Choir\nappearance spoons ored by Wesley\nMethodist Church thanks The\nArizona Tribune for its excel\nlent coverage.\n\n\nMrs. Rosa Edwards\n\n\nGeneral chairman",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964031301_0328",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "DR.. PERCY JULIAN SPEAKS\nAT HOWARD UNIVERSITY",
+            "article": "scented to five graduates of the\nUniversity for distinguished\npostgraduate service. Recipient\nwere Roy A. Auduze of St. Thorn\nas, V. l., DR.. Errold D. oily\nmore of White Plains, MY. the\nRev. James Farmer of New York\nCity, DR.. Lillian B. Lewis of\nWinston-Salem, NC. and Flax\nlie Nj. Pinkett Washington, DC.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 234,
+                    "y0": 2521,
+                    "x1": 1449,
+                    "y1": 2753
+                },
+                {
+                    "x0": 1124,
+                    "y0": 2769,
+                    "x1": 1964,
+                    "y1": 3360
+                }
+            ],
+            "bbox": [
+                234,
+                2521,
+                1964,
+                3360
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "NEGRO HISTORY\n\n\nPROGRAM SUNDAY",
+            "article": "Interdenominational Ministers\nWives will sponsor a Negro His\ntory Week program, Sum-, Mar.\nis 3 PM, at the South Phoenix\nBaptist Church, 10th and East\nBroadway.\n\n\nRev. F. Tops, Jr. is the pas\ntor.\n\n\nOfficers of the organization in\nclude Mesdames A. Oby Bell,\npresident; Frances Scott, secre-\ntary and Amelia Thompson, fl\nnancial secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3825,
+                    "y0": 3128,
+                    "x1": 4514,
+                    "y1": 3355
+                },
+                {
+                    "x0": 3825,
+                    "y0": 3382,
+                    "x1": 4647,
+                    "y1": 4164
+                }
+            ],
+            "bbox": [
+                3825,
+                3128,
+                4647,
+                4164
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "WASHINGTON, DC. Indus\ntrial chemist Percy L. Julian\nof Franklin Park, H., was the\nprincipal speaker at Charter Day\nexercises marking the 9th ami\nversary of the founding ofHoward\nUniversity, Monday, March 2.\n\n\nDuring the exercises alumni\nachievement awards we're pre-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 217,
+                    "y0": 2769,
+                    "x1": 1045,
+                    "y1": 3326
+                }
+            ],
+            "bbox": [
+                217,
+                2769,
+                1045,
+                3326
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        },
+        {
+            "object_ids": [
+                9,
+                8
+            ],
+            "headline": "ST. PATRICK'S DAY\nTEA PLANNED",
+            "article": "Junior Woman S Society of Mt.\nCalvary Baptist Church will pre-\nsent it's sixth annual St. Patrick S\nDay Tea, Sum-, Mar. is, At pm.\n\n\nMesdames Alma Rivers and\nChristine Sales are cochairmen.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2946,
+                    "y0": 3088,
+                    "x1": 3676,
+                    "y1": 3297
+                },
+                {
+                    "x0": 2940,
+                    "y0": 3319,
+                    "x1": 3768,
+                    "y1": 3678
+                }
+            ],
+            "bbox": [
+                2940,
+                3088,
+                3768,
+                3678
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        },
+        {
+            "object_ids": [
+                10,
+                11
+            ],
+            "headline": "PALM SUNDAY\n\n\nPROGRAM SET",
+            "article": "Olive Court FL, Heroines of\nJericho, will sponsor it's annual\nPalm Sunday service, Sum-, Mar.\n%, ii am. at Tanner Chapel\nAME, 9th and E. Jefferson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2946,
+                    "y0": 3706,
+                    "x1": 3496,
+                    "y1": 3887
+                },
+                {
+                    "x0": 2929,
+                    "y0": 3897,
+                    "x1": 3751,
+                    "y1": 4187
+                }
+            ],
+            "bbox": [
+                2929,
+                3706,
+                3751,
+                4187
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        },
+        {
+            "object_ids": [
+                7,
+                12
+            ],
+            "headline": "MEXICAN FOOD\n\n\nSALE AT CHURCH",
+            "article": "Mexican food will be sold at\nSouthminster Pres byterian\nChurch. 1923 E. Broadway, Sat-,\nMar. IA, 1880 am $3.50 pm.\nTacos and tostadas will be\nserved.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2038,
+                    "y0": 2741,
+                    "x1": 2687,
+                    "y1": 2950
+                },
+                {
+                    "x0": 2044,
+                    "y0": 2978,
+                    "x1": 2878,
+                    "y1": 3349
+                }
+            ],
+            "bbox": [
+                2038,
+                2741,
+                2878,
+                3349
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Day Phillips Memorial Church. 4O2 E.\nAdams Sunday, Mar. 7.\n\n\nThompson delivered the of the charter\nO he church\nMesdames Elizabeth Garner Madge Copeland 0.\nSmith, Mrs. Susie Curry Rev. NJ Thompson, Mrs. A.\nThompson Mesdames Lillian White Mr. Cecil Hewe Mesdames\nRuth Franklin Lillian Davis Floyd Johnson John Bell and Rev.\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 228,
+                    "y0": 1954,
+                    "x1": 1947,
+                    "y1": 2499
+                }
+            ],
+            "bbox": [
+                228,
+                1954,
+                1947,
+                2499
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "IN THE MAILBAG\nDear Editors:\n\n\nThe promotional committee for\nthe Prairie View ACapella Choir\nappearance spoons ored by Wesley\nMethodist Church thanks The\nArizona Tribune for its excel\nlent coverage.\n\n\nMrs. Rosa Edwards\n\n\nGeneral chairman",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2044,
+                    "y0": 2012,
+                    "x1": 2878,
+                    "y1": 2701
+                }
+            ],
+            "bbox": [
+                2044,
+                2012,
+                2878,
+                2701
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-03-13_pna_sn84021918_0041421695A_1964031301_0328.json"
+        }
+    ]
+}

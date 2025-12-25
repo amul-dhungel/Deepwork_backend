@@ -1,0 +1,637 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022801/0309.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7438,
+        "width": 4742
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 157,
+                "y0": 5107,
+                "x1": 1837,
+                "y1": 5596
+            },
+            "class": "article",
+            "raw_text": "Planning for the concert be presented March\nthe Capea Choir Of Prairie View University met Sunday\nat Wesley Methodist Church. 1902 E. Washington.\n\n\nMesdames Eva Flowers, Bertha Solomon, Joan\nPatrick Toer second rowRosa Edwards Ora Lackey\nMessrs Edward Kuykenda Davis and Rev. Rollins,\nWinslow.\n\n\nThe choir will appear Longvew School auditorium.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 4811,
+                "y0": 435,
+                "x1": 6096,
+                "y1": 5823
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1929,
+                "y0": 6421,
+                "x1": 2738,
+                "y1": 7165
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Whitney M. Young\nJr., executive director of the\nNational Urban League, has been\noffered post as the second\nin-command in President John\nsons \"war on poverty\" reported\na source last week.\n\n\nHowever, Young had notyetde-\ncided whether to accept the offer.\nwhich would place him in one of\nthe highest positions to be held\nby a Negro in the national ad-\nminiStration.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1946,
+                "y0": 6211,
+                "x1": 2685,
+                "y1": 6398
+            },
+            "class": "headline",
+            "raw_text": "URBAN LEAGUE HEAD\nMAY GET TOP SPOT",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1057,
+                "y0": 5799,
+                "x1": 1872,
+                "y1": 6445
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Althea Gibson,\ntwice a Wimbledon and US. Ma\ntional tennis champion, was\nawarded a \"New York Athlete\nof the Century plaque recently.\nMiss Gibson, the first Negro to\nwin the coveted tennis titles, re-\ntired from tennis competition in\n1860. She Is a community rela-\nlions representative for Wards\nTip Top Bakers.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1063,
+                "y0": 5595,
+                "x1": 1744,
+                "y1": 5777
+            },
+            "class": "headline",
+            "raw_text": "Athlete OF Century\nPLAGUE Awarded",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1906,
+                "y0": 3015,
+                "x1": 2732,
+                "y1": 5132
+            },
+            "class": "article",
+            "raw_text": "SCARSDALE. MY. A So\nyear-old Negro housewife Is one\nOf the new arbiters of civil rights\nin this suburban village Of big\nestates, many clubs and\n$2S, 0OO-a-year average family\nincome.\n\n\nShe Is Mrs. Marcus w. Moore,\nwife of a dentist and mother of\na l4-year-old high school girl.\nThe family lives at III Saxon\nWoods Road, adjacent to Saxon\nWoods Golf Course and in an\narea settled by Negro families\nin the Civil Wharf.-The only area\nwhere Negroes have clustered in\nthis nearly all-white community.\n\n\nDR.. Moore is the first Negro\nadmitted to the Town Club, and\nhis wife is the first Negro ap-\npointed to an official village COM\nmittee.\n\n\nMayor Ralph K. Rogers and\nthe village trustees named Mrs.\nMoore as one of seven members\nof the Scarsdale Citizens Advi-\nsorry Committee on Human Re-\nlations.\n\n\nMrs. Moore, a resident here\nfor eight years. Is a native of\nPort Huron. Mich. She gradu-\nated from Arkansas State Col\nlege and Is Girl Scout lead\nerr, a member of the Urban League\nof Westchester and secretary of\nthe Scarsdale fair housing group.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1929,
+                "y0": 2713,
+                "x1": 2587,
+                "y1": 2976
+            },
+            "class": "headline",
+            "raw_text": "NEGRO WOMAN\nNAMED TO\n\n\nEXCLUSIVE GROUP",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3695,
+                "y0": 6577,
+                "x1": 4504,
+                "y1": 7165
+            },
+            "class": "article",
+            "raw_text": "CAIRO-Ethiopia has asked and\nreceived an emergency airlift Of\narms Of American origin,\nsource reports. However, the\nState Department officials said\nthey were not aware of any arms\nsent to Ethiopia.\n\n\nEthiopia and Somalia have been\nraiding a disputed border ter\nritory. Many lives have been lost.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3707,
+                "y0": 6357,
+                "x1": 4254,
+                "y1": 6549
+            },
+            "class": "headline",
+            "raw_text": "Arms AirIift\n\n\nDenied BY US.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1929,
+                "y0": 5462,
+                "x1": 2743,
+                "y1": 6172
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Constance Baker\nMotley, the NAACP attorney in\nthe Meredith case, became the\nfirst Negro woman elected to the\nNew York State Senate.\n\n\nMrs. Motley, a Democrat, is\nthe second Negro woman elected\nas a state senator in the United\nStates.\n\n\nMiss Cora Brown of Detroit\nwas the first winning her seat\nin 1858.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1940,
+                "y0": 5148,
+                "x1": 2633,
+                "y1": 5434
+            },
+            "class": "headline",
+            "raw_text": "WON an Lawyer\nWins NY.\n\n\nSenate Seat",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 168,
+                "y0": 6078,
+                "x1": 983,
+                "y1": 7194
+            },
+            "class": "article",
+            "raw_text": "WARREN, Ohio The home\nof Negro, located in former\nly all-white neighborhood, was\ndamaged by fire when Molotov\ncocktails were thrown through the\nliving room and garage windows.\n\n\nThe house Is owned by W.\nRobert Smalls, executive direc-\ntor TO the Warren Urban League.\n\n\nMIR. and Mrs. Smalls, their\ndaughter and her l6-year-old son\nescaped unhurt. They were sleep\ning when they heard the windows\nshatter.\n\n\n.Firemen who put out the flames\nestimated damage at SIS, 900. One\ngasoline-filled jar was thrown\ninto the living room and one into\nthe garage.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 162,
+                "y0": 5712,
+                "x1": 890,
+                "y1": 6038
+            },
+            "class": "headline",
+            "raw_text": "HOME DAMAGED BY\nMOLOTOV COCKTAIL\nIN OHIO",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1057,
+                "y0": 6676,
+                "x1": 1866,
+                "y1": 7206
+            },
+            "class": "article",
+            "raw_text": "Norris Liggins, FL. was ar\nrested as one of the men sus-\npected in the holdup of the Speed\nway Market, 5033 S. l6 ST., Feb.\nIL.\n\n\nLtggins was apprehended near\nhis home near 9th and E. Mar\nguerite by detectives Ed Kulick\nand Bill Dowdy.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1063,
+                "y0": 6485,
+                "x1": 1668,
+                "y1": 6654
+            },
+            "class": "headline",
+            "raw_text": "M on jailed\n\n\nIn Store Robbery",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2812,
+                "y0": 6607,
+                "x1": 3621,
+                "y1": 7183
+            },
+            "class": "article",
+            "raw_text": "CHERAW, sc. An eleven\nmember Negro family burned to\ndeath in a fire that destroyed a\nrented frame home in a rural\narea eight miles south Of here\non US. 81.\n\n\nThe victims were Moses James\nand his wife, Mary Agnes, both\nIS and their nine children, aged\none to Is.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2830,
+                "y0": 6386,
+                "x1": 3284,
+                "y1": 6573
+            },
+            "class": "headline",
+            "raw_text": "II In Far iIy\nDie In Fire",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 145,
+                "y0": 2702,
+                "x1": 1843,
+                "y1": 3592
+            },
+            "class": "article",
+            "raw_text": "Omega chapter, Alpha Kappa Alpha sorority\nDay with traditional ceremonies the\nPorterhouse Restaurant.\n\n\nProgram included Sorors Veora Johnson Vivian Min\nyard Winstona Aldridge and McFraddte Martin.\n\n\nSoror Irma Leos was hostess.\nTwo women who were chapter Mesdames Amelia\nThompson Rodgers honored the meeting\n\n\nMines Senoma Smith, Amelia Thompson, Myrtle\nRodgers Brooks baseus Alice Marriott baeus and\nLouise Phillips.\n\n\nStanding Mines Lottie WYATT\nMinyar, Wnstona Adrdge Ozea James, grammateus,\nMcFradd Martini Doris Moen anibasileu and Veora Johnson,\nchairman of committee.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2824,
+                "y0": 2120,
+                "x1": 4504,
+                "y1": 2581
+            },
+            "class": "article",
+            "raw_text": "The annual Coorama featuring modern hair styling\nand techmes presented by Valley Hi #lO Affiliate Of the Arr\nCosmetoogists Sum- Feb. % the Masonic Temple\nFrom left winners and their models Standing sss\nMrs. dea Soube Mrs. Florne Oliver second and\nMrs. Charesetta Lee, third\n\n\nModels from left Mines Rosie Lee Reece Beverly Chambers\nan Pearlene Chambers.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-02-28"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "Planning for the concert be presented March\nthe Capea Choir Of Prairie View University met Sunday\nat Wesley Methodist Church. 1902 E. Washington.\n\n\nMesdames Eva Flowers, Bertha Solomon, Joan\nPatrick Toer second rowRosa Edwards Ora Lackey\nMessrs Edward Kuykenda Davis and Rev. Rollins,\nWinslow.\n\n\nThe choir will appear Longvew School auditorium.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 157,
+                    "y0": 5107,
+                    "x1": 1837,
+                    "y1": 5596
+                }
+            ],
+            "bbox": [
+                157,
+                5107,
+                1837,
+                5596
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "URBAN LEAGUE HEAD\nMAY GET TOP SPOT",
+            "article": "NEW YORK = Whitney M. Young\nJr., executive director of the\nNational Urban League, has been\noffered post as the second\nin-command in President John\nsons \"war on poverty\" reported\na source last week.\n\n\nHowever, Young had notyetde-\ncided whether to accept the offer.\nwhich would place him in one of\nthe highest positions to be held\nby a Negro in the national ad-\nminiStration.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1946,
+                    "y0": 6211,
+                    "x1": 2685,
+                    "y1": 6398
+                },
+                {
+                    "x0": 1929,
+                    "y0": 6421,
+                    "x1": 2738,
+                    "y1": 7165
+                }
+            ],
+            "bbox": [
+                1929,
+                6211,
+                2738,
+                7165
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                20,
+                6
+            ],
+            "headline": "Athlete OF Century\nPLAGUE Awarded",
+            "article": "NEW YORK Althea Gibson,\ntwice a Wimbledon and US. Ma\ntional tennis champion, was\nawarded a \"New York Athlete\nof the Century plaque recently.\nMiss Gibson, the first Negro to\nwin the coveted tennis titles, re-\ntired from tennis competition in\n1860. She Is a community rela-\nlions representative for Wards\nTip Top Bakers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1063,
+                    "y0": 5595,
+                    "x1": 1744,
+                    "y1": 5777
+                },
+                {
+                    "x0": 1057,
+                    "y0": 5799,
+                    "x1": 1872,
+                    "y1": 6445
+                }
+            ],
+            "bbox": [
+                1057,
+                5595,
+                1872,
+                6445
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "NEGRO WOMAN\nNAMED TO\n\n\nEXCLUSIVE GROUP",
+            "article": "SCARSDALE. MY. A So\nyear-old Negro housewife Is one\nOf the new arbiters of civil rights\nin this suburban village Of big\nestates, many clubs and\n$2S, 0OO-a-year average family\nincome.\n\n\nShe Is Mrs. Marcus w. Moore,\nwife of a dentist and mother of\na l4-year-old high school girl.\nThe family lives at III Saxon\nWoods Road, adjacent to Saxon\nWoods Golf Course and in an\narea settled by Negro families\nin the Civil Wharf.-The only area\nwhere Negroes have clustered in\nthis nearly all-white community.\n\n\nDR.. Moore is the first Negro\nadmitted to the Town Club, and\nhis wife is the first Negro ap-\npointed to an official village COM\nmittee.\n\n\nMayor Ralph K. Rogers and\nthe village trustees named Mrs.\nMoore as one of seven members\nof the Scarsdale Citizens Advi-\nsorry Committee on Human Re-\nlations.\n\n\nMrs. Moore, a resident here\nfor eight years. Is a native of\nPort Huron. Mich. She gradu-\nated from Arkansas State Col\nlege and Is Girl Scout lead\nerr, a member of the Urban League\nof Westchester and secretary of\nthe Scarsdale fair housing group.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1929,
+                    "y0": 2713,
+                    "x1": 2587,
+                    "y1": 2976
+                },
+                {
+                    "x0": 1906,
+                    "y0": 3015,
+                    "x1": 2732,
+                    "y1": 5132
+                }
+            ],
+            "bbox": [
+                1906,
+                2713,
+                2732,
+                5132
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "Arms AirIift\n\n\nDenied BY US.",
+            "article": "CAIRO-Ethiopia has asked and\nreceived an emergency airlift Of\narms Of American origin,\nsource reports. However, the\nState Department officials said\nthey were not aware of any arms\nsent to Ethiopia.\n\n\nEthiopia and Somalia have been\nraiding a disputed border ter\nritory. Many lives have been lost.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3707,
+                    "y0": 6357,
+                    "x1": 4254,
+                    "y1": 6549
+                },
+                {
+                    "x0": 3695,
+                    "y0": 6577,
+                    "x1": 4504,
+                    "y1": 7165
+                }
+            ],
+            "bbox": [
+                3695,
+                6357,
+                4504,
+                7165
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                13,
+                9
+            ],
+            "headline": "WON an Lawyer\nWins NY.\n\n\nSenate Seat",
+            "article": "NEW YORK Constance Baker\nMotley, the NAACP attorney in\nthe Meredith case, became the\nfirst Negro woman elected to the\nNew York State Senate.\n\n\nMrs. Motley, a Democrat, is\nthe second Negro woman elected\nas a state senator in the United\nStates.\n\n\nMiss Cora Brown of Detroit\nwas the first winning her seat\nin 1858.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1940,
+                    "y0": 5148,
+                    "x1": 2633,
+                    "y1": 5434
+                },
+                {
+                    "x0": 1929,
+                    "y0": 5462,
+                    "x1": 2743,
+                    "y1": 6172
+                }
+            ],
+            "bbox": [
+                1929,
+                5148,
+                2743,
+                6172
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                14,
+                10
+            ],
+            "headline": "HOME DAMAGED BY\nMOLOTOV COCKTAIL\nIN OHIO",
+            "article": "WARREN, Ohio The home\nof Negro, located in former\nly all-white neighborhood, was\ndamaged by fire when Molotov\ncocktails were thrown through the\nliving room and garage windows.\n\n\nThe house Is owned by W.\nRobert Smalls, executive direc-\ntor TO the Warren Urban League.\n\n\nMIR. and Mrs. Smalls, their\ndaughter and her l6-year-old son\nescaped unhurt. They were sleep\ning when they heard the windows\nshatter.\n\n\n.Firemen who put out the flames\nestimated damage at SIS, 900. One\ngasoline-filled jar was thrown\ninto the living room and one into\nthe garage.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 162,
+                    "y0": 5712,
+                    "x1": 890,
+                    "y1": 6038
+                },
+                {
+                    "x0": 168,
+                    "y0": 6078,
+                    "x1": 983,
+                    "y1": 7194
+                }
+            ],
+            "bbox": [
+                162,
+                5712,
+                983,
+                7194
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                19,
+                11
+            ],
+            "headline": "M on jailed\n\n\nIn Store Robbery",
+            "article": "Norris Liggins, FL. was ar\nrested as one of the men sus-\npected in the holdup of the Speed\nway Market, 5033 S. l6 ST., Feb.\nIL.\n\n\nLtggins was apprehended near\nhis home near 9th and E. Mar\nguerite by detectives Ed Kulick\nand Bill Dowdy.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1063,
+                    "y0": 6485,
+                    "x1": 1668,
+                    "y1": 6654
+                },
+                {
+                    "x0": 1057,
+                    "y0": 6676,
+                    "x1": 1866,
+                    "y1": 7206
+                }
+            ],
+            "bbox": [
+                1057,
+                6485,
+                1866,
+                7206
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                17,
+                12
+            ],
+            "headline": "II In Far iIy\nDie In Fire",
+            "article": "CHERAW, sc. An eleven\nmember Negro family burned to\ndeath in a fire that destroyed a\nrented frame home in a rural\narea eight miles south Of here\non US. 81.\n\n\nThe victims were Moses James\nand his wife, Mary Agnes, both\nIS and their nine children, aged\none to Is.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2830,
+                    "y0": 6386,
+                    "x1": 3284,
+                    "y1": 6573
+                },
+                {
+                    "x0": 2812,
+                    "y0": 6607,
+                    "x1": 3621,
+                    "y1": 7183
+                }
+            ],
+            "bbox": [
+                2812,
+                6386,
+                3621,
+                7183
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "Omega chapter, Alpha Kappa Alpha sorority\nDay with traditional ceremonies the\nPorterhouse Restaurant.\n\n\nProgram included Sorors Veora Johnson Vivian Min\nyard Winstona Aldridge and McFraddte Martin.\n\n\nSoror Irma Leos was hostess.\nTwo women who were chapter Mesdames Amelia\nThompson Rodgers honored the meeting\n\n\nMines Senoma Smith, Amelia Thompson, Myrtle\nRodgers Brooks baseus Alice Marriott baeus and\nLouise Phillips.\n\n\nStanding Mines Lottie WYATT\nMinyar, Wnstona Adrdge Ozea James, grammateus,\nMcFradd Martini Doris Moen anibasileu and Veora Johnson,\nchairman of committee.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 145,
+                    "y0": 2702,
+                    "x1": 1843,
+                    "y1": 3592
+                }
+            ],
+            "bbox": [
+                145,
+                2702,
+                1843,
+                3592
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "The annual Coorama featuring modern hair styling\nand techmes presented by Valley Hi #lO Affiliate Of the Arr\nCosmetoogists Sum- Feb. % the Masonic Temple\nFrom left winners and their models Standing sss\nMrs. dea Soube Mrs. Florne Oliver second and\nMrs. Charesetta Lee, third\n\n\nModels from left Mines Rosie Lee Reece Beverly Chambers\nan Pearlene Chambers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2824,
+                    "y0": 2120,
+                    "x1": 4504,
+                    "y1": 2581
+                }
+            ],
+            "bbox": [
+                2824,
+                2120,
+                4504,
+                2581
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-02-28_p1_sn84021918_0041421695A_1964022801_0309.json"
+        }
+    ]
+}

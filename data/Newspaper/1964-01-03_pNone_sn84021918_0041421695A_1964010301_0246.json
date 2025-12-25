@@ -1,0 +1,488 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4729,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964010301/0246.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3832,
+                "y0": 4953,
+                "x1": 4656,
+                "y1": 6909
+            },
+            "class": "article",
+            "raw_text": "support to South Africa's racial\npolicies by the fact that US\ninvestments in South Africa ex-\ncoed 500 million dollars and\n\"have increased IS to Is percent\nsince 1861\" The petition further\nargues that \"as long as the United\nStates permits American dollars\nto bolster minority government.\nall of us, as American citizens,\nare morally guilty of support\ning apartheid.\"\n\n\nThe petition thus calls on the\nPresident Ito direct the US Mis-\nsion to the UN to support reso-\nlutions for boycotts and sane\nlions against South Africa: to\nplace an embargo on American\ntrade with South Africa; and to\nsuspend recognition of the South\nAfrican Government until such\ntime as 1t represents all South\nAfricans.\n\n\nAmong signers of the petition\nwe're: Martin Luther King, Ed\nward Albee, Lewis Mumford,\nAshley Montagu, Bishop James\nPike, Edward Stone, Mas on Sears\nLionel Trilling, Linus Pauling\nand Walter, Victor and Roy Reu-\nTheir. Among the organiz cation en-\ndorsing the petition was the\nAmerican Newspaper Guild.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3031,
+                "y0": 4768,
+                "x1": 4505,
+                "y1": 4937
+            },
+            "class": "headline",
+            "raw_text": "COMMITTEE ON AFRICA SENDS\nOUT PETITIONS AGAINST SOUTH AFRICA",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2932,
+                "y0": 4977,
+                "x1": 3757,
+                "y1": 6927
+            },
+            "class": "article",
+            "raw_text": "NEW YORK A petition de-\nmanding US faction Against\nApartheid'' in South Africa,\nsigned by 5000 Americans, was\nhanded to Ambassador Adlai\nStevenson for transmittal to\nPresident Lyndon Johns on. The\npetition was circulated by the\nAmerican Committee on Africa\nto its own members. Represent\ning the Committee at the 80 min\nute meeting which took place at\nthe US Mission to the UN were:\nJames Farmer (CORE), Donald\nHarrington Community Church\nof Africa), Bayard Rustin (March\non Washington, and Peter Weiss\npresident, Americana Committee\non Africa).\n\n\nAmbassador Stevenson pledged\nthat the petitions would be for\nwarded to the President accom-\npanied with personal note from\nhim. He also commented gener-\nally on the US position on apar-\ntheid. Afterwards, US Mission\nPress Chief Francis Carpenter\nreported that Stevenson had been\n\"glad to see US. civil rights\nleaders concerned with the fate of\nSouth Africa's nom whites\"\n\n\nThe petition read, in part:\n\n\n1.-THE US does continue to lend",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2932,
+                "y0": 933,
+                "x1": 4622,
+                "y1": 2274
+            },
+            "class": "article",
+            "raw_text": "Congress has granted funds for another OF the Peace\nwhich has thousands Americans teaching and working In\nglobe Many being aided by this\nprogram and that better international relations may\nbe brought about.\n\n\nbelieve the Peace Corps could\ncountry. Here in the land of\nplenty millions of existing without food, clothing\nHere in the land of free schooling there millions\nunable write Here in the land\nof opportunity there millions obless\n\n\nThere millions suffering from psychological Illnesses and\nillnesses Our mental inst-\nfilled capacity and millions OF children face\nmental disturbances There many\npeople could aided with simple health in modern\nand sanitary country.\n\n\nWe should have organized In every city and\nthe problems which face us here In\nthe funds being In distant\n\n\ncould be better used in backyard or front yard\nlook far find ignorance and disease",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3466,
+                "y0": 290,
+                "x1": 4465,
+                "y1": 749
+            },
+            "class": "headline",
+            "raw_text": "Views, PREvIEws\nAMO REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3692,
+                "y0": 655,
+                "x1": 4227,
+                "y1": 743
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2932,
+                "y0": 835,
+                "x1": 4389,
+                "y1": 917
+            },
+            "class": "headline",
+            "raw_text": "PEACE CORPS NEEDED IN OUR COUNTRY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 229,
+                "y0": 5156,
+                "x1": 1942,
+                "y1": 6840
+            },
+            "class": "article",
+            "raw_text": "You to know about compensatory damages\nThe that the damages which paid should\ncompensate for injuries sustained.\n\n\nawarded for breach Know\nthey make good the loss where the\nresulting financial loss\nthe parties the This loss order be\nsable the natural probable result of the\ncontemplated\nagreed upon the which,\nbreach, been lost by the injured party\nbreach be recovered If they\nwith reasonable\ncertainty where dependent contingencies\nthat they actually be traced the breach of contract\nthe\nulave damages prospective damages awarded where there\ncertainty that such damages will result from the\n\n\n\nwhat the damages might be, and reasonable\ncomputing damages be furnished\ntaken into consideration in arriving\nwhich\nwrongdoer throwing portion of actual appre-\nciabe loss upon the injured party\n\n\nhis legal public service under super\nArizona and is written to inform, not\nadvse.)",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 270,
+                "y0": 4959,
+                "x1": 1089,
+                "y1": 5053
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Low",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2909,
+                "y0": 2540,
+                "x1": 4645,
+                "y1": 4717
+            },
+            "class": "article",
+            "raw_text": "The Russians opened their hearts at Christ\nmas time and opened uOide the gates which bar\nWest Germany from the eastern section. For\nthe holidays West Germans aOeYe permitted\npasses to UiSit families and friends in the Rus\nsian controlled area.\n\n\nthousands SWannbed the offices for per-\nmaits and the roads leading to the gate sOeye\ncI0gged with automobiles. Families and\nFRIENDS aOlaO had not seen each other for naapy\nmonths aOeYe reunited at the Christmas season.\n\n\nDuring the building Of the pUull and the clos\ning Of the gates there uas much talk of unit\ning East and West Germany. When Chancellor\nET1a0Td Uisited President Lyndon Johnson\nlast week, he also spoke OF the reunion. D\n\n\nThe VaIl stands as q symbol of not only\nthe nilitaYistic spirit of the Russians, but Ut\n1t IS also q reminder Of the naihtoYistic ma\ntiOn which 1t divides. One man mas shot and\nkilled as he tried to leaUe the eastern sec\ntiOn duYi,ag the Christmas rush. The wall re-\nmains and the guards are still on duty. There\nis little chance that West Germany and East\nGermany mill be united soon.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2985,
+                "y0": 2366,
+                "x1": 3572,
+                "y1": 2518
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2016,
+                "y0": 661,
+                "x1": 2870,
+                "y1": 6207
+            },
+            "class": "article",
+            "raw_text": "day begin to make mental sum-\nmaries of all of the ways | in\ntend to improve myself for the\nincoming year. My resolution\ntime starts with the beginning of\nthe new year because | am al\nways doing something which |\ncould have done better, even on\nJanuary the first.\n\n\n| tried several years ago to\nwrite my list of resolutions on\nsheet of paper. AS | wrote and\nmeditated for three or Jour days,\n| discovered there we're too many\nthings l needed to stop, start\nor alter. My resolution writing\nended when | reached number\ntwenty.\n\n\nThis year l have decided to\nforego all writing and just spend\nthe last few hours of 1868 think\ning. Not about how | could have\nimproved myself, some situation\nor some production, but about the\ngrand times and glorious NOM\nents have had.\n\n\nwill remember 1868 as hap\npy year. will remember 1868\nas a busy year. l will remember\n1868 as being the year of LA.\n(not Los Angeles but less al\nleroy reactions for meg. The year\nof 80 was a Joy filled year for\nme and my spouse. We worked\nharder than ever and enjoyed\nevery minute of the labor of pro-\nducing a weekly newspaper.\n\n\nEdward and | travelled great\ndeal and we met many interest\ning persons. l like to see diff\nferent cities and meet different\npeople. No matter where you 60,\nyou will make new friends. We\nstrike up conversations on the\nplane, in taxis, in the elevator\nor in the hotel lobby. Some of\nthe people we met in 1868 have\nbecome close friends. So 1868\nwas a friendly year.\n\n\nl can't recall what res olutions\nhad in mind for the year which\nis passing on this 3o5th flip of\nthe calendar. | am sure top on\nthe list was the desire to remem-\nDer the golden rule. am con-\nvinced that more happiness can\nbe brought into your own life\nthroughout the entire year by fol-\nlowing it.\n\n\nThe dying year brought its\nshare of troubles and woes, also.\nMy spouse and l had some sad\nmoments caused by illnesses in\nour families. His mother in\nEngland became very i'll. We\ncalled her and she assured us\nshe was improving. For a little\nlady over seventy, she certainly\nwas perky.\n\n\nMy husband told her we would\nvisit her in the summer of 1864\nand this made her happy. In spite\nof the great distance Ed is still\nat heart an Englishman. When\never he gets homesick and calls\nEngland, see a faraway gaze\nin his eyes. After talking with\nhis mother he often starts tell\ning me of his boyhood. In 1868\nwe made many more travel plans.\n1t was year of planning.\n\n\nHow else can one recall year.\nA year Is measured in days,\nweeks and months. All pass so\nquickly that unless we keep a\nhuge diary, we are unable to\nrecollect to many events.\n\n\nSo much happens each day until\n1t is extremely difficult to keep\none week in mind. We are crea-\nlures bent on seeking happiness.\nThis makes us remember most\nof the pleasant things. We instinc-\nlively forget or hide the unpleas-",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2033,
+                "y0": 220,
+                "x1": 2829,
+                "y1": 441
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELolsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2062,
+                "y0": 475,
+                "x1": 2707,
+                "y1": 563
+            },
+            "class": "headline",
+            "raw_text": "THE YEARS END",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 206,
+                "y0": 498,
+                "x1": 1976,
+                "y1": 5221
+            },
+            "class": "article",
+            "raw_text": "W. w. AAASNI4ESX>~\n\n\nVOL. 6, NO. rs\n\n\nEDWARD BANKS, eusLlsHER-E0IToR\n\n\nELOISE BANKS,\n\n\nBOBBY HEARD, STAFF PHOTOGRAPHER\n\n\nTO-\n\n\nPUBLISHED EACH THURSDAY\n\n\nINC\n\n\nzIs7 E. BROADWAY\n\n\nPHOENIX,\nSECOND PHOENIX, ARIZONA\nTALL\nJUSTICE GIVE FREEDOM\"\nASSOCIATION\n~ Public ''\". Rev re ~4 46ak y. AT Nv.\nLbJ AT WORK\n\n\nMany reports haze been given on the POLL\ntical ability of President Lyndon B. johnson.\nHIS knowledge of the nays and sO|aims of laaO-\nmakers has made him almost a legend sO)aile\nhe Ines. NesuscasteYs ten the johnson\ntouch.\" NesVs stories give accounts Of the\nJohnson method of thinning his nay. Cartoon\nlists haze used the big Texas handshake theme.\nAfter more than month President Johnson\nappears to be in a Qua,adary. He is caught in\nmaze of political hats. He is attempting to be\nmany persons at the same time. He is s0mae-\ntimes a liberal, the next time conservative.\nHe says ne must haze greater military power,\nthen he announces the shut DOM Of several\nbases.\n\n\nMn. johnson pressed Congress into the hoh-\nday squeeze to min the foreign aid bilL He IN\nvited senator's and YebYes entatiUeS to an old\nfashioned tvinteY reception. There he tod them\nto forget i'll fee hmgs.\n\n\nLater Mn. Johnson entertained the head Of\nthe West German government at his ranch IN\nTexas. There he pledged support Of the Ey-\nhard government. Ey]aayd in return said he\nwould help the United States min favOT with\nthe Common Market. After some southern\nbarbecue Mn. EYhQYd returned home and re-\nleased the usual message Of his wonderful\nviSit with the president.\n\n\nour president Vill find that 1t takes more\nthan southern hospitality to run the country\nas an effective executive.\nDiscussing Arizona Low\n\n\nDAMAGES\n\n\nYou may know about compensatory damages",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 4754,
+                "y0": 429,
+                "x1": 6066,
+                "y1": 5807
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964010301_0246",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "COMMITTEE ON AFRICA SENDS\nOUT PETITIONS AGAINST SOUTH AFRICA",
+            "article": "support to South Africa's racial\npolicies by the fact that US\ninvestments in South Africa ex-\ncoed 500 million dollars and\n\"have increased IS to Is percent\nsince 1861\" The petition further\nargues that \"as long as the United\nStates permits American dollars\nto bolster minority government.\nall of us, as American citizens,\nare morally guilty of support\ning apartheid.\"\n\n\nThe petition thus calls on the\nPresident Ito direct the US Mis-\nsion to the UN to support reso-\nlutions for boycotts and sane\nlions against South Africa: to\nplace an embargo on American\ntrade with South Africa; and to\nsuspend recognition of the South\nAfrican Government until such\ntime as 1t represents all South\nAfricans.\n\n\nAmong signers of the petition\nwe're: Martin Luther King, Ed\nward Albee, Lewis Mumford,\nAshley Montagu, Bishop James\nPike, Edward Stone, Mas on Sears\nLionel Trilling, Linus Pauling\nand Walter, Victor and Roy Reu-\nTheir. Among the organiz cation en-\ndorsing the petition was the\nAmerican Newspaper Guild.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3031,
+                    "y0": 4768,
+                    "x1": 4505,
+                    "y1": 4937
+                },
+                {
+                    "x0": 3832,
+                    "y0": 4953,
+                    "x1": 4656,
+                    "y1": 6909
+                }
+            ],
+            "bbox": [
+                3031,
+                4768,
+                4656,
+                6909
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-03_pna_sn84021918_0041421695A_1964010301_0246.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "NEW YORK A petition de-\nmanding US faction Against\nApartheid'' in South Africa,\nsigned by 5000 Americans, was\nhanded to Ambassador Adlai\nStevenson for transmittal to\nPresident Lyndon Johns on. The\npetition was circulated by the\nAmerican Committee on Africa\nto its own members. Represent\ning the Committee at the 80 min\nute meeting which took place at\nthe US Mission to the UN were:\nJames Farmer (CORE), Donald\nHarrington Community Church\nof Africa), Bayard Rustin (March\non Washington, and Peter Weiss\npresident, Americana Committee\non Africa).\n\n\nAmbassador Stevenson pledged\nthat the petitions would be for\nwarded to the President accom-\npanied with personal note from\nhim. He also commented gener-\nally on the US position on apar-\ntheid. Afterwards, US Mission\nPress Chief Francis Carpenter\nreported that Stevenson had been\n\"glad to see US. civil rights\nleaders concerned with the fate of\nSouth Africa's nom whites\"\n\n\nThe petition read, in part:\n\n\n1.-THE US does continue to lend",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2932,
+                    "y0": 4977,
+                    "x1": 3757,
+                    "y1": 6927
+                }
+            ],
+            "bbox": [
+                2932,
+                4977,
+                3757,
+                6927
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-03_pna_sn84021918_0041421695A_1964010301_0246.json"
+        },
+        {
+            "object_ids": [
+                6,
+                18,
+                12,
+                2
+            ],
+            "headline": "Views, PREvIEws\nAMO REVIEWS\n\n\nEdward Banks\n\nPEACE CORPS NEEDED IN OUR COUNTRY",
+            "article": "Congress has granted funds for another OF the Peace\nwhich has thousands Americans teaching and working In\nglobe Many being aided by this\nprogram and that better international relations may\nbe brought about.\n\n\nbelieve the Peace Corps could\ncountry. Here in the land of\nplenty millions of existing without food, clothing\nHere in the land of free schooling there millions\nunable write Here in the land\nof opportunity there millions obless\n\n\nThere millions suffering from psychological Illnesses and\nillnesses Our mental inst-\nfilled capacity and millions OF children face\nmental disturbances There many\npeople could aided with simple health in modern\nand sanitary country.\n\n\nWe should have organized In every city and\nthe problems which face us here In\nthe funds being In distant\n\n\ncould be better used in backyard or front yard\nlook far find ignorance and disease",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3466,
+                    "y0": 290,
+                    "x1": 4465,
+                    "y1": 749
+                },
+                {
+                    "x0": 3692,
+                    "y0": 655,
+                    "x1": 4227,
+                    "y1": 743
+                },
+                {
+                    "x0": 2932,
+                    "y0": 835,
+                    "x1": 4389,
+                    "y1": 917
+                },
+                {
+                    "x0": 2932,
+                    "y0": 933,
+                    "x1": 4622,
+                    "y1": 2274
+                }
+            ],
+            "bbox": [
+                2932,
+                290,
+                4622,
+                2274
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-03_pna_sn84021918_0041421695A_1964010301_0246.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Discussing Arizona Low",
+            "article": "You to know about compensatory damages\nThe that the damages which paid should\ncompensate for injuries sustained.\n\n\nawarded for breach Know\nthey make good the loss where the\nresulting financial loss\nthe parties the This loss order be\nsable the natural probable result of the\ncontemplated\nagreed upon the which,\nbreach, been lost by the injured party\nbreach be recovered If they\nwith reasonable\ncertainty where dependent contingencies\nthat they actually be traced the breach of contract\nthe\nulave damages prospective damages awarded where there\ncertainty that such damages will result from the\n\n\n\nwhat the damages might be, and reasonable\ncomputing damages be furnished\ntaken into consideration in arriving\nwhich\nwrongdoer throwing portion of actual appre-\nciabe loss upon the injured party\n\n\nhis legal public service under super\nArizona and is written to inform, not\nadvse.)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 270,
+                    "y0": 4959,
+                    "x1": 1089,
+                    "y1": 5053
+                },
+                {
+                    "x0": 229,
+                    "y0": 5156,
+                    "x1": 1942,
+                    "y1": 6840
+                }
+            ],
+            "bbox": [
+                229,
+                4959,
+                1942,
+                6840
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-03_pna_sn84021918_0041421695A_1964010301_0246.json"
+        },
+        {
+            "object_ids": [
+                9,
+                5
+            ],
+            "headline": "",
+            "article": "The Russians opened their hearts at Christ\nmas time and opened uOide the gates which bar\nWest Germany from the eastern section. For\nthe holidays West Germans aOeYe permitted\npasses to UiSit families and friends in the Rus\nsian controlled area.\n\n\nthousands SWannbed the offices for per-\nmaits and the roads leading to the gate sOeye\ncI0gged with automobiles. Families and\nFRIENDS aOlaO had not seen each other for naapy\nmonths aOeYe reunited at the Christmas season.\n\n\nDuring the building Of the pUull and the clos\ning Of the gates there uas much talk of unit\ning East and West Germany. When Chancellor\nET1a0Td Uisited President Lyndon Johnson\nlast week, he also spoke OF the reunion. D\n\n\nThe VaIl stands as q symbol of not only\nthe nilitaYistic spirit of the Russians, but Ut\n1t IS also q reminder Of the naihtoYistic ma\ntiOn which 1t divides. One man mas shot and\nkilled as he tried to leaUe the eastern sec\ntiOn duYi,ag the Christmas rush. The wall re-\nmains and the guards are still on duty. There\nis little chance that West Germany and East\nGermany mill be united soon.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2985,
+                    "y0": 2366,
+                    "x1": 3572,
+                    "y1": 2518
+                },
+                {
+                    "x0": 2909,
+                    "y0": 2540,
+                    "x1": 4645,
+                    "y1": 4717
+                }
+            ],
+            "bbox": [
+                2909,
+                2366,
+                4645,
+                4717
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-03_pna_sn84021918_0041421695A_1964010301_0246.json"
+        },
+        {
+            "object_ids": [
+                10,
+                13,
+                8
+            ],
+            "headline": "Sights and Sounds\nELolsE BANKS\n\nTHE YEARS END",
+            "article": "day begin to make mental sum-\nmaries of all of the ways | in\ntend to improve myself for the\nincoming year. My resolution\ntime starts with the beginning of\nthe new year because | am al\nways doing something which |\ncould have done better, even on\nJanuary the first.\n\n\n| tried several years ago to\nwrite my list of resolutions on\nsheet of paper. AS | wrote and\nmeditated for three or Jour days,\n| discovered there we're too many\nthings l needed to stop, start\nor alter. My resolution writing\nended when | reached number\ntwenty.\n\n\nThis year l have decided to\nforego all writing and just spend\nthe last few hours of 1868 think\ning. Not about how | could have\nimproved myself, some situation\nor some production, but about the\ngrand times and glorious NOM\nents have had.\n\n\nwill remember 1868 as hap\npy year. will remember 1868\nas a busy year. l will remember\n1868 as being the year of LA.\n(not Los Angeles but less al\nleroy reactions for meg. The year\nof 80 was a Joy filled year for\nme and my spouse. We worked\nharder than ever and enjoyed\nevery minute of the labor of pro-\nducing a weekly newspaper.\n\n\nEdward and | travelled great\ndeal and we met many interest\ning persons. l like to see diff\nferent cities and meet different\npeople. No matter where you 60,\nyou will make new friends. We\nstrike up conversations on the\nplane, in taxis, in the elevator\nor in the hotel lobby. Some of\nthe people we met in 1868 have\nbecome close friends. So 1868\nwas a friendly year.\n\n\nl can't recall what res olutions\nhad in mind for the year which\nis passing on this 3o5th flip of\nthe calendar. | am sure top on\nthe list was the desire to remem-\nDer the golden rule. am con-\nvinced that more happiness can\nbe brought into your own life\nthroughout the entire year by fol-\nlowing it.\n\n\nThe dying year brought its\nshare of troubles and woes, also.\nMy spouse and l had some sad\nmoments caused by illnesses in\nour families. His mother in\nEngland became very i'll. We\ncalled her and she assured us\nshe was improving. For a little\nlady over seventy, she certainly\nwas perky.\n\n\nMy husband told her we would\nvisit her in the summer of 1864\nand this made her happy. In spite\nof the great distance Ed is still\nat heart an Englishman. When\never he gets homesick and calls\nEngland, see a faraway gaze\nin his eyes. After talking with\nhis mother he often starts tell\ning me of his boyhood. In 1868\nwe made many more travel plans.\n1t was year of planning.\n\n\nHow else can one recall year.\nA year Is measured in days,\nweeks and months. All pass so\nquickly that unless we keep a\nhuge diary, we are unable to\nrecollect to many events.\n\n\nSo much happens each day until\n1t is extremely difficult to keep\none week in mind. We are crea-\nlures bent on seeking happiness.\nThis makes us remember most\nof the pleasant things. We instinc-\nlively forget or hide the unpleas-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2033,
+                    "y0": 220,
+                    "x1": 2829,
+                    "y1": 441
+                },
+                {
+                    "x0": 2062,
+                    "y0": 475,
+                    "x1": 2707,
+                    "y1": 563
+                },
+                {
+                    "x0": 2016,
+                    "y0": 661,
+                    "x1": 2870,
+                    "y1": 6207
+                }
+            ],
+            "bbox": [
+                2016,
+                220,
+                2870,
+                6207
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-03_pna_sn84021918_0041421695A_1964010301_0246.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "W. w. AAASNI4ESX>~\n\n\nVOL. 6, NO. rs\n\n\nEDWARD BANKS, eusLlsHER-E0IToR\n\n\nELOISE BANKS,\n\n\nBOBBY HEARD, STAFF PHOTOGRAPHER\n\n\nTO-\n\n\nPUBLISHED EACH THURSDAY\n\n\nINC\n\n\nzIs7 E. BROADWAY\n\n\nPHOENIX,\nSECOND PHOENIX, ARIZONA\nTALL\nJUSTICE GIVE FREEDOM\"\nASSOCIATION\n~ Public ''\". Rev re ~4 46ak y. AT Nv.\nLbJ AT WORK\n\n\nMany reports haze been given on the POLL\ntical ability of President Lyndon B. johnson.\nHIS knowledge of the nays and sO|aims of laaO-\nmakers has made him almost a legend sO)aile\nhe Ines. NesuscasteYs ten the johnson\ntouch.\" NesVs stories give accounts Of the\nJohnson method of thinning his nay. Cartoon\nlists haze used the big Texas handshake theme.\nAfter more than month President Johnson\nappears to be in a Qua,adary. He is caught in\nmaze of political hats. He is attempting to be\nmany persons at the same time. He is s0mae-\ntimes a liberal, the next time conservative.\nHe says ne must haze greater military power,\nthen he announces the shut DOM Of several\nbases.\n\n\nMn. johnson pressed Congress into the hoh-\nday squeeze to min the foreign aid bilL He IN\nvited senator's and YebYes entatiUeS to an old\nfashioned tvinteY reception. There he tod them\nto forget i'll fee hmgs.\n\n\nLater Mn. Johnson entertained the head Of\nthe West German government at his ranch IN\nTexas. There he pledged support Of the Ey-\nhard government. Ey]aayd in return said he\nwould help the United States min favOT with\nthe Common Market. After some southern\nbarbecue Mn. EYhQYd returned home and re-\nleased the usual message Of his wonderful\nviSit with the president.\n\n\nour president Vill find that 1t takes more\nthan southern hospitality to run the country\nas an effective executive.\nDiscussing Arizona Low\n\n\nDAMAGES\n\n\nYou may know about compensatory damages",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 206,
+                    "y0": 498,
+                    "x1": 1976,
+                    "y1": 5221
+                }
+            ],
+            "bbox": [
+                206,
+                498,
+                1976,
+                5221
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-01-03_pna_sn84021918_0041421695A_1964010301_0246.json"
+        }
+    ]
+}

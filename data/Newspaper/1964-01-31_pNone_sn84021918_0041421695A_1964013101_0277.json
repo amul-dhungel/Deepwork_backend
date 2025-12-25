@@ -1,0 +1,716 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7443,
+        "width": 4852,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964013101/0277.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2844,
+                "y0": 5343,
+                "x1": 3264,
+                "y1": 5391
+            },
+            "class": "article",
+            "raw_text": "$15,6o5 annually.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 4932,
+                "y0": 476,
+                "x1": 6154,
+                "y1": 5804
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1937,
+                "y0": 4814,
+                "x1": 2758,
+                "y1": 6170
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = Rep. Howard\nW. Smith. D-Va., opposition lead\ner and chairman Of the Rules\nCommittee which has held the bill\nfor two months, agreed to this\nspeed-up as an alternative to\nhaving his committee run over\nhim by formal vote.\n\n\nSmiths committee 8 function\nis to set ground rules for House\ndebate. His hearings have run\nfor two weeks and will continue\nfor one more.\n\n\nLeaders of both parties want\nto pass the top priority rights\nbill before Lincoln Birthday,\nFeb. IL, when Republicans ira\nditionally scatter for speechmak-\ning.\n\n\nThis probably would have been\nimpossible under Smith 8 origi-\nnal plan to run the hearings\nthrough all of next week.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1949,
+                "y0": 4651,
+                "x1": 2688,
+                "y1": 4792
+            },
+            "class": "headline",
+            "raw_text": "RIGHTS BILL\nOUT OF COMMITTEE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1053,
+                "y0": 3576,
+                "x1": 1874,
+                "y1": 4594
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Superior Court\nJudge A. A. Scott, who presided\nover a jury trial in which singer\nRay Charles was ruled the faith\ner of a child born out of we'd\nlock, said the mother will \"nev-\ner get her hands on a dime\nof support money Charles must\napy.\n\n\nThe mother, Sandra Jean Belts,\n%, won her suit against the 80\nyear-old blind vocalist. She had\nasked ST. 100 a month support for\nher daughter Sheila. born last\nSept. 80. She agreed to $3.50\nmonthly.\n\n\nJudge Scott ordered $500",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1949,
+                "y0": 6454,
+                "x1": 2758,
+                "y1": 7217
+            },
+            "class": "article",
+            "raw_text": "CHANDLER-Heavyweight con-\ntender Fora Foley apparently is\nmore able to win ring judges\nvotes than political votes as he\nfinished next to last in the pri-\nmary city council election.\n\n\nThe council seat contender\ngot 1T votes in a total vote\nturnout of ISL. He edged out\nCarlos Rodriguez, who received\n1852 and placed last.\n\n\nFour winners received 800\n322 votes to win.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1949,
+                "y0": 6210,
+                "x1": 2665,
+                "y1": 6426
+            },
+            "class": "headline",
+            "raw_text": "FOLEY ALMOST\nLAST IN COUNCIL\nRACE IN CHANDLER",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3705,
+                "y0": 5663,
+                "x1": 4514,
+                "y1": 7095
+            },
+            "class": "article",
+            "raw_text": "JACKSON, Miss. Byron De La\nBeckwith, white fertilizer\nsalesman from the Mississippi\nDelta, went on trial for the 1868\nambush Staying Of Negro civil\nrights leader Medgar Evers.\n\n\nSpectators entering the main\ncourtroom or its upstairs bal\ncony were searched thoroughly\nby police and sheriff deputies.\n\n\nBeckwith, who has been in\nseveral jails and a mental in\nstitution since his arrest l0days\nafter the June IL. 1868. ambush\nStaying, has pleaded innocent.\n\n\nHis legal staff-referred to by\nhim once as his ISIS. 900 worth\nOf lawyers\"-is headed by Hugh\nCunningham, partner in the law\nfirm headed by Former Gov. Ross\nBarnett. He has a record of\nkeeping So Of the So accused muir\nderers he has defended from\ngoing to their death.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3711,
+                "y0": 5489,
+                "x1": 4351,
+                "y1": 5641
+            },
+            "class": "headline",
+            "raw_text": "BECkWITH TRIAL\nOPENS IN MISS.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1937,
+                "y0": 3570,
+                "x1": 2758,
+                "y1": 4623
+            },
+            "class": "article",
+            "raw_text": "monthly support for the child.\n$500 to equip nursery and for\nhospital and medical bills and\ninsurance. He also ordered a\n$500 fee to be paid to- Miss\nBelts attorneys, Ted Shield and\nPeter ]. Kaplanis.\n\n\nThe judge said a guardian would\nbe appointed to administer sup\nport payments for the child only\nnot the mother.\n\n\nJudge Scott described Charles\ntestimony as sincere. fair and\nabove board\" The singer ad-\nmitted intimacies with Miss Belts\nbut contended there we're other\nmen and he did not father the\nchild.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1338,
+                "y0": 3372,
+                "x1": 2386,
+                "y1": 3542
+            },
+            "class": "headline",
+            "raw_text": "RAY CHARLES HAS TO PAY\n\n\nSANDRA WON'T GET A CENT",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 152,
+                "y0": 2924,
+                "x1": 984,
+                "y1": 6379
+            },
+            "class": "article",
+            "raw_text": "Mrs. Jack Naura) Banks. $40\nw. Williams, Tucson, was named\nas the Outstanding Woman Of the\nYear for community service by\nthe Arizona Daily Star.\n\n\nMrs. Banks was one of eight\nwomen to be cited for their con-\ntributions in public service, bus\nmess, philanthropy, the arts, and\neducation.\n\n\nA native of Tucson, Mrs. Banks\nreceived all of her education in\nTucson. She holds a bacherlor' s\ndegree from the University Of\nArizona and has done graduate\nstudy at the University Of South\nern California.\n\n\nShe is the president of the\nTucson YWCA. being the first of\nher race to be elected to this\npost in the western region. She\nhas been a WV member since\n1895.\n\n\nMrs. Banks has served on the\nWV board since 1859 and was the\nfirst vice president for two years.\nIn 1855 she was a delegate to the\nYWCA convention in New York\nand was chairman of the western\nregion YWCA.\n\n\nA teacher in the elementary\npublic schools for 81 years. Mrs.\nBanks has inspired many young\nStudents.\n\n\nMrs. Banks was also chosen\nas the Tucson NAACP Woman of\nthe Year. She has served as pres\nident of the organization and this\nyear she Is chairman of the Com\nmunity Relations Committee.\n\n\nShe Is an organizer of the Eta\nEpsilon Omega chapter of Alpha\nKappa Alpha Sorority and a past\npresident. She is presently pub\nlicity chairman of the chapter.\nShe also serves on the nominal\ning committee of the western\nregion and will attend the AKA\nnational meeting in Chicago in\nMarch.\n\n\nThis year Mrs. Banks served\non the Tucson Advisory Commit\ntee for Minority Employment\nProblems, Arizona State EN-\nployment Service.\n\n\nShe is the wife of Jack Banks,\nowner Of Jacks Drive Inns and\nshe serves as the personnel man\nager.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2827,
+                "y0": 5622,
+                "x1": 3642,
+                "y1": 7252
+            },
+            "class": "article",
+            "raw_text": "William P. Reilly and Mrs.\nRichard Fennemore we're named\nthe Phoenix Man and Woman Of\nthe Year for 1868 by the Phoenix\nAdvertising Club.\n\n\nSelections we're made at the\nclub s weekly meeting Monday at\nthe Hotel Westward Ho. Jack\nThomps on, selection committee\nchairman presented the awards.\n\n\nw. P. Reilly, executive vice\npresident of Arizona Public Ser\nvice Co., is chairman of the Phoe-\nnix Human Relations Committee.\n\n\nHe Is a vice president and\ndirector of the Community Coun-\nell and the Roosevelt Council Of\nBoy Scouts. He is president OF\nthe board of directors of the State\nInstitutions for Juveniles.\n\n\nMrs. Fennemore helped organ\nlie the Visiting Nurse Service\nauxiliary, was a founder Of the\nGood Samaritan Hospital Wo-\nmen s Auxiliary, a member Of the\nPhoenix Adjustment Board and a\nmember of the boards Of the\nYWCA and the Crittenton Home.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2838,
+                "y0": 5401,
+                "x1": 3648,
+                "y1": 5606
+            },
+            "class": "headline",
+            "raw_text": "AID CLUB CHOOSES\nMAN AND WOMAN\nOF THE YEAR MONDAY",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 164,
+                "y0": 6623,
+                "x1": 979,
+                "y1": 7217
+            },
+            "class": "article",
+            "raw_text": "MIAMI BEACH = Heavyweight\nchampion Sonny Liston will rent\na house on Miami Beach while\ntraining for his Feb. Is fight\nhere with Cassius Clay. 1t was\nreported.\n\n\nListon originally rented a\nhouse in Miami 8 southwest Sec\nton, but later cancelled the\n$4,000 deal.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 152,
+                "y0": 6431,
+                "x1": 932,
+                "y1": 6600
+            },
+            "class": "headline",
+            "raw_text": "LISTON MOVES\n\n\nCAMPSITE TO BEACH",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1047,
+                "y0": 4826,
+                "x1": 1880,
+                "y1": 6775
+            },
+            "class": "article",
+            "raw_text": "The Phoenix Union High School\nBoard has passed regulations\nin attendance coming to permit\nstudents to cross zone boundaries\nto attend the school of their\nchoice.\n\n\nEast, Hayden. North and Phoe-\nnix Union will be open next fall\nto students from all neighbor-\nhoods, which in effect, ends any\nsegregation of Phoenix high\nschools because of residence.\n\n\nIn the past, the only school\nin the nine-school union district\nopen to students from all parts\nof the city was Phoenix Union\nHigh School.\n\n\nThe board action will bring few\nathletic ramifications since the\nnew regulations state that a STU\ndent attending outside his resi-\ndence zone can't take part in\nathletics for the first two Sc\nmesterS.\n\n\nIn other action. the board\nawarded the Arnold Construction\nCo. of Phoenix the contract for\nadditions and remodeling at South\nMountain High on a bid of\n$544, 1000.\n\n\nIf the work Is completed by\nSeptember, as scheduled. the\nschool will end double sessions.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1047,
+                "y0": 4640,
+                "x1": 1839,
+                "y1": 4804
+            },
+            "class": "headline",
+            "raw_text": "HIGH SCHOOL BOARD\nOPENS ALL SCHOOLS",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2833,
+                "y0": 4506,
+                "x1": 4514,
+                "y1": 5385
+            },
+            "class": "article",
+            "raw_text": "Postmaster General John A. Gronous gh Henry\nL. Dixon his appointment special assistant Assistant Post\nGeneral Frederick C. Been Qef).\n\n\nMr. Dixon carrier and clerk for 20 assigned\nposition empoye relations expert in 1861.\n\n\nThe so old recently promoted special assist\nposition where he will be charge concerning\nthe Post Office Departments SOS, 900 workers.\n\n\nHe will and review proposed labor and work\nwith the industrial relations bureau.\n\n\nMr.. Dixon is we'll known civil leader he is member Of the\nUrban League, Employees and has\nserved many civic organization boards.\n\n\nHis position grade is in the general salary schedule\nSIS, 665 annually",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1053,
+                "y0": 2628,
+                "x1": 2741,
+                "y1": 3309
+            },
+            "class": "article",
+            "raw_text": "Asia entertained Sunday the home Of Mr.\nand Mrs. Robert Banks, 45l9 E. Becker Lane.\n\n\nThree agricultural directors from Pnjab spent memorable\nValley They acquainted with the Bankses\nRoger, who is in Punjab with the Peace Corps.\n\n\nleft Mr. Robert Banks A. S. Kahlon. G. B. Gosal,\nBanks, Robert Banks. and Dr. T. S. Boarta.\n\n\nThe study Of the United States They have\nState University agricultural\nthe University Of Arizona Tucson for\nanother three weeks session.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1059,
+                "y0": 6937,
+                "x1": 1874,
+                "y1": 7240
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Leo Phillips :,\nformer residents, now living\nin Lawrence, Kansas, announce\nthe arrival of a daughter. Philipa,\nborn Jan. IL.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 1071,
+                "y0": 6820,
+                "x1": 1740,
+                "y1": 6914
+            },
+            "class": "headline",
+            "raw_text": "STORKING ROUND",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964013101_0277",
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "$15,6o5 annually.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2844,
+                    "y0": 5343,
+                    "x1": 3264,
+                    "y1": 5391
+                }
+            ],
+            "bbox": [
+                2844,
+                5343,
+                3264,
+                5391
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                20,
+                2
+            ],
+            "headline": "RIGHTS BILL\nOUT OF COMMITTEE",
+            "article": "WASHINGTON = Rep. Howard\nW. Smith. D-Va., opposition lead\ner and chairman Of the Rules\nCommittee which has held the bill\nfor two months, agreed to this\nspeed-up as an alternative to\nhaving his committee run over\nhim by formal vote.\n\n\nSmiths committee 8 function\nis to set ground rules for House\ndebate. His hearings have run\nfor two weeks and will continue\nfor one more.\n\n\nLeaders of both parties want\nto pass the top priority rights\nbill before Lincoln Birthday,\nFeb. IL, when Republicans ira\nditionally scatter for speechmak-\ning.\n\n\nThis probably would have been\nimpossible under Smith 8 origi-\nnal plan to run the hearings\nthrough all of next week.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1949,
+                    "y0": 4651,
+                    "x1": 2688,
+                    "y1": 4792
+                },
+                {
+                    "x0": 1937,
+                    "y0": 4814,
+                    "x1": 2758,
+                    "y1": 6170
+                }
+            ],
+            "bbox": [
+                1937,
+                4651,
+                2758,
+                6170
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "LOS ANGELES Superior Court\nJudge A. A. Scott, who presided\nover a jury trial in which singer\nRay Charles was ruled the faith\ner of a child born out of we'd\nlock, said the mother will \"nev-\ner get her hands on a dime\nof support money Charles must\napy.\n\n\nThe mother, Sandra Jean Belts,\n%, won her suit against the 80\nyear-old blind vocalist. She had\nasked ST. 100 a month support for\nher daughter Sheila. born last\nSept. 80. She agreed to $3.50\nmonthly.\n\n\nJudge Scott ordered $500",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1053,
+                    "y0": 3576,
+                    "x1": 1874,
+                    "y1": 4594
+                }
+            ],
+            "bbox": [
+                1053,
+                3576,
+                1874,
+                4594
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                17,
+                5
+            ],
+            "headline": "FOLEY ALMOST\nLAST IN COUNCIL\nRACE IN CHANDLER",
+            "article": "CHANDLER-Heavyweight con-\ntender Fora Foley apparently is\nmore able to win ring judges\nvotes than political votes as he\nfinished next to last in the pri-\nmary city council election.\n\n\nThe council seat contender\ngot 1T votes in a total vote\nturnout of ISL. He edged out\nCarlos Rodriguez, who received\n1852 and placed last.\n\n\nFour winners received 800\n322 votes to win.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1949,
+                    "y0": 6210,
+                    "x1": 2665,
+                    "y1": 6426
+                },
+                {
+                    "x0": 1949,
+                    "y0": 6454,
+                    "x1": 2758,
+                    "y1": 7217
+                }
+            ],
+            "bbox": [
+                1949,
+                6210,
+                2758,
+                7217
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "BECkWITH TRIAL\nOPENS IN MISS.",
+            "article": "JACKSON, Miss. Byron De La\nBeckwith, white fertilizer\nsalesman from the Mississippi\nDelta, went on trial for the 1868\nambush Staying Of Negro civil\nrights leader Medgar Evers.\n\n\nSpectators entering the main\ncourtroom or its upstairs bal\ncony were searched thoroughly\nby police and sheriff deputies.\n\n\nBeckwith, who has been in\nseveral jails and a mental in\nstitution since his arrest l0days\nafter the June IL. 1868. ambush\nStaying, has pleaded innocent.\n\n\nHis legal staff-referred to by\nhim once as his ISIS. 900 worth\nOf lawyers\"-is headed by Hugh\nCunningham, partner in the law\nfirm headed by Former Gov. Ross\nBarnett. He has a record of\nkeeping So Of the So accused muir\nderers he has defended from\ngoing to their death.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3711,
+                    "y0": 5489,
+                    "x1": 4351,
+                    "y1": 5641
+                },
+                {
+                    "x0": 3705,
+                    "y0": 5663,
+                    "x1": 4514,
+                    "y1": 7095
+                }
+            ],
+            "bbox": [
+                3705,
+                5489,
+                4514,
+                7095
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                23,
+                8
+            ],
+            "headline": "RAY CHARLES HAS TO PAY\n\n\nSANDRA WON'T GET A CENT",
+            "article": "monthly support for the child.\n$500 to equip nursery and for\nhospital and medical bills and\ninsurance. He also ordered a\n$500 fee to be paid to- Miss\nBelts attorneys, Ted Shield and\nPeter ]. Kaplanis.\n\n\nThe judge said a guardian would\nbe appointed to administer sup\nport payments for the child only\nnot the mother.\n\n\nJudge Scott described Charles\ntestimony as sincere. fair and\nabove board\" The singer ad-\nmitted intimacies with Miss Belts\nbut contended there we're other\nmen and he did not father the\nchild.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1338,
+                    "y0": 3372,
+                    "x1": 2386,
+                    "y1": 3542
+                },
+                {
+                    "x0": 1937,
+                    "y0": 3570,
+                    "x1": 2758,
+                    "y1": 4623
+                }
+            ],
+            "bbox": [
+                1338,
+                3372,
+                2758,
+                4623
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Mrs. Jack Naura) Banks. $40\nw. Williams, Tucson, was named\nas the Outstanding Woman Of the\nYear for community service by\nthe Arizona Daily Star.\n\n\nMrs. Banks was one of eight\nwomen to be cited for their con-\ntributions in public service, bus\nmess, philanthropy, the arts, and\neducation.\n\n\nA native of Tucson, Mrs. Banks\nreceived all of her education in\nTucson. She holds a bacherlor' s\ndegree from the University Of\nArizona and has done graduate\nstudy at the University Of South\nern California.\n\n\nShe is the president of the\nTucson YWCA. being the first of\nher race to be elected to this\npost in the western region. She\nhas been a WV member since\n1895.\n\n\nMrs. Banks has served on the\nWV board since 1859 and was the\nfirst vice president for two years.\nIn 1855 she was a delegate to the\nYWCA convention in New York\nand was chairman of the western\nregion YWCA.\n\n\nA teacher in the elementary\npublic schools for 81 years. Mrs.\nBanks has inspired many young\nStudents.\n\n\nMrs. Banks was also chosen\nas the Tucson NAACP Woman of\nthe Year. She has served as pres\nident of the organization and this\nyear she Is chairman of the Com\nmunity Relations Committee.\n\n\nShe Is an organizer of the Eta\nEpsilon Omega chapter of Alpha\nKappa Alpha Sorority and a past\npresident. She is presently pub\nlicity chairman of the chapter.\nShe also serves on the nominal\ning committee of the western\nregion and will attend the AKA\nnational meeting in Chicago in\nMarch.\n\n\nThis year Mrs. Banks served\non the Tucson Advisory Commit\ntee for Minority Employment\nProblems, Arizona State EN-\nployment Service.\n\n\nShe is the wife of Jack Banks,\nowner Of Jacks Drive Inns and\nshe serves as the personnel man\nager.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 152,
+                    "y0": 2924,
+                    "x1": 984,
+                    "y1": 6379
+                }
+            ],
+            "bbox": [
+                152,
+                2924,
+                984,
+                6379
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                16,
+                10
+            ],
+            "headline": "AID CLUB CHOOSES\nMAN AND WOMAN\nOF THE YEAR MONDAY",
+            "article": "William P. Reilly and Mrs.\nRichard Fennemore we're named\nthe Phoenix Man and Woman Of\nthe Year for 1868 by the Phoenix\nAdvertising Club.\n\n\nSelections we're made at the\nclub s weekly meeting Monday at\nthe Hotel Westward Ho. Jack\nThomps on, selection committee\nchairman presented the awards.\n\n\nw. P. Reilly, executive vice\npresident of Arizona Public Ser\nvice Co., is chairman of the Phoe-\nnix Human Relations Committee.\n\n\nHe Is a vice president and\ndirector of the Community Coun-\nell and the Roosevelt Council Of\nBoy Scouts. He is president OF\nthe board of directors of the State\nInstitutions for Juveniles.\n\n\nMrs. Fennemore helped organ\nlie the Visiting Nurse Service\nauxiliary, was a founder Of the\nGood Samaritan Hospital Wo-\nmen s Auxiliary, a member Of the\nPhoenix Adjustment Board and a\nmember of the boards Of the\nYWCA and the Crittenton Home.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2838,
+                    "y0": 5401,
+                    "x1": 3648,
+                    "y1": 5606
+                },
+                {
+                    "x0": 2827,
+                    "y0": 5622,
+                    "x1": 3642,
+                    "y1": 7252
+                }
+            ],
+            "bbox": [
+                2827,
+                5401,
+                3648,
+                7252
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                18,
+                11
+            ],
+            "headline": "LISTON MOVES\n\n\nCAMPSITE TO BEACH",
+            "article": "MIAMI BEACH = Heavyweight\nchampion Sonny Liston will rent\na house on Miami Beach while\ntraining for his Feb. Is fight\nhere with Cassius Clay. 1t was\nreported.\n\n\nListon originally rented a\nhouse in Miami 8 southwest Sec\nton, but later cancelled the\n$4,000 deal.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 152,
+                    "y0": 6431,
+                    "x1": 932,
+                    "y1": 6600
+                },
+                {
+                    "x0": 164,
+                    "y0": 6623,
+                    "x1": 979,
+                    "y1": 7217
+                }
+            ],
+            "bbox": [
+                152,
+                6431,
+                979,
+                7217
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                26,
+                12
+            ],
+            "headline": "HIGH SCHOOL BOARD\nOPENS ALL SCHOOLS",
+            "article": "The Phoenix Union High School\nBoard has passed regulations\nin attendance coming to permit\nstudents to cross zone boundaries\nto attend the school of their\nchoice.\n\n\nEast, Hayden. North and Phoe-\nnix Union will be open next fall\nto students from all neighbor-\nhoods, which in effect, ends any\nsegregation of Phoenix high\nschools because of residence.\n\n\nIn the past, the only school\nin the nine-school union district\nopen to students from all parts\nof the city was Phoenix Union\nHigh School.\n\n\nThe board action will bring few\nathletic ramifications since the\nnew regulations state that a STU\ndent attending outside his resi-\ndence zone can't take part in\nathletics for the first two Sc\nmesterS.\n\n\nIn other action. the board\nawarded the Arnold Construction\nCo. of Phoenix the contract for\nadditions and remodeling at South\nMountain High on a bid of\n$544, 1000.\n\n\nIf the work Is completed by\nSeptember, as scheduled. the\nschool will end double sessions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1047,
+                    "y0": 4640,
+                    "x1": 1839,
+                    "y1": 4804
+                },
+                {
+                    "x0": 1047,
+                    "y0": 4826,
+                    "x1": 1880,
+                    "y1": 6775
+                }
+            ],
+            "bbox": [
+                1047,
+                4640,
+                1880,
+                6775
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Postmaster General John A. Gronous gh Henry\nL. Dixon his appointment special assistant Assistant Post\nGeneral Frederick C. Been Qef).\n\n\nMr. Dixon carrier and clerk for 20 assigned\nposition empoye relations expert in 1861.\n\n\nThe so old recently promoted special assist\nposition where he will be charge concerning\nthe Post Office Departments SOS, 900 workers.\n\n\nHe will and review proposed labor and work\nwith the industrial relations bureau.\n\n\nMr.. Dixon is we'll known civil leader he is member Of the\nUrban League, Employees and has\nserved many civic organization boards.\n\n\nHis position grade is in the general salary schedule\nSIS, 665 annually",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2833,
+                    "y0": 4506,
+                    "x1": 4514,
+                    "y1": 5385
+                }
+            ],
+            "bbox": [
+                2833,
+                4506,
+                4514,
+                5385
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Asia entertained Sunday the home Of Mr.\nand Mrs. Robert Banks, 45l9 E. Becker Lane.\n\n\nThree agricultural directors from Pnjab spent memorable\nValley They acquainted with the Bankses\nRoger, who is in Punjab with the Peace Corps.\n\n\nleft Mr. Robert Banks A. S. Kahlon. G. B. Gosal,\nBanks, Robert Banks. and Dr. T. S. Boarta.\n\n\nThe study Of the United States They have\nState University agricultural\nthe University Of Arizona Tucson for\nanother three weeks session.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1053,
+                    "y0": 2628,
+                    "x1": 2741,
+                    "y1": 3309
+                }
+            ],
+            "bbox": [
+                1053,
+                2628,
+                2741,
+                3309
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        },
+        {
+            "object_ids": [
+                29,
+                15
+            ],
+            "headline": "STORKING ROUND",
+            "article": "Mr.. and Mrs. Leo Phillips :,\nformer residents, now living\nin Lawrence, Kansas, announce\nthe arrival of a daughter. Philipa,\nborn Jan. IL.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1071,
+                    "y0": 6820,
+                    "x1": 1740,
+                    "y1": 6914
+                },
+                {
+                    "x0": 1059,
+                    "y0": 6937,
+                    "x1": 1874,
+                    "y1": 7240
+                }
+            ],
+            "bbox": [
+                1059,
+                6820,
+                1874,
+                7240
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-01-31_pna_sn84021918_0041421695A_1964013101_0277.json"
+        }
+    ]
+}

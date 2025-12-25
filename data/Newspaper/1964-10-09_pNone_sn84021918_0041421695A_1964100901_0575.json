@@ -1,0 +1,619 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4890,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100901/0575.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 4923,
+                "y0": 398,
+                "x1": 6148,
+                "y1": 5575
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1884,
+                "y0": 6267,
+                "x1": 2694,
+                "y1": 7140
+            },
+            "class": "article",
+            "raw_text": "DETROIT = Nine Negro can\ndidates for the state legislature\nand senate in primary elections\nheld in Wayne County were cleo\nted.\n\n\nSix of the nine are incum-\nbents.\n\n\nTwo Negro incumbents failed to\nwin denomination.\n\n\nThey we're Hiram McNeeley,\nveteran politician from sub\nurban Inkster. and Arthur Cart\nwright. who tried to switch to\nthe senate and ran fourth In a\nSixth District campaign.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1919,
+                "y0": 6036,
+                "x1": 2295,
+                "y1": 6239
+            },
+            "class": "headline",
+            "raw_text": "2 NEGROES\nON BALLOT",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 99,
+                "y0": 2622,
+                "x1": 1787,
+                "y1": 4113
+            },
+            "class": "article",
+            "raw_text": "the National Newspaper Publishers Assoca-\ntion pledged support O the federal poverty.\n\n\nAttending meeting held Washington D. Co. recently\nJohn Speaks Chicago Julius Carter.\nTime of Houton Sargent Shrver director Of\nanpovr and Banks Arizona Tribune Phoenix\nArizona.\n\n\npresident Frank L. Stanley Sr. of Louisville and\nthe Louisville Defender headed the executive board\nof NNPA who met with Sargent Shrver.\n\n\nShrver charge of the which will be admin\nthrough Office Opportunity He asked\nthem aid in recruiting thousands of young and women of\ncorps urged publishers finding teachers\ncomselors, athletic instructors and other personnel.\n\n\noutlined the program of Vista Volunteers who will\nmonthly during their assignments poverty stricken\nAny high school graduate l8 can apply\n\n\nOpportunity will in various cities provide home\nmaking and job training.\n\n\nOther NNPA members attending the session c. E. Boiler.\nPIERCE Fa E. A. Daily Oakland, Calf; Carlton Goodlet,\nFrancisco Caf Percy Greene Jackson MISS Balm Leave\nChicago: John Murphy ILL., Baltimore Mesdames Eleanor Lotion\nPittsburgh Gerald Porter, Cincinnati.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 105,
+                "y0": 6400,
+                "x1": 915,
+                "y1": 7158
+            },
+            "class": "article",
+            "raw_text": "RIVERSIDE, Calf. Two\nNegro drivers competed in the\nTime Annual Grand Prix for\nSports Cars at Riverside Inter-\nnational Raceway.\n\n\nKing Johnson and William\nPayne III, are members of the\nnewly organized Scorpions Rae\ning Team. Both have been racing\nfor several months but have never\nwon. They are listed in the top\ntwenty drivers in the western\ndivision.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 145,
+                "y0": 6273,
+                "x1": 857,
+                "y1": 6372
+            },
+            "class": "headline",
+            "raw_text": "z Negro In Grund Prix",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1896,
+                "y0": 4823,
+                "x1": 2711,
+                "y1": 5991
+            },
+            "class": "article",
+            "raw_text": "Harvard H. Hill. a vice presi-\ndent Of Valley National Bank,\nand E. P. (Ned) Mullan, Phoe-\nnix auto company executive, have\nasked the Maricopa County Junior\nCollege District board to not\nallow proposed unit Of the Con-\ngress Of Racial Equality C ORE.\nto organize on Phoenix College\ncampus.\n\n\nMullan, state chairman Of the\nAmericanism Committee Of the\nAmerican Legion. said 90. I.\nCORES methods are not justi-\nfled, even though 1t might sup\nport some good causes\"\n\n\nDR.. Robert Hannelly, district\npresident, said the disputed ap-\nplication would be judged by Fri\nday.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1902,
+                "y0": 4557,
+                "x1": 2451,
+                "y1": 4789
+            },
+            "class": "headline",
+            "raw_text": "CORE Application\nIs Opposed",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1884,
+                "y0": 1507,
+                "x1": 2700,
+                "y1": 2987
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Three white\nmen we're arrested in Mississippi\non charges Of bombing the homes\nof two Negroes near McComb.\nMiss.\n\n\nArrest of the three was an\nnounced here by acting Atty. Gen.\nNicolas Katzenbach and Missis-\nsippi Gov. Paul Johnson. They\nwe're arrested by FBI agents\nworking closely with the Missis-\nsippi Highway Safety Patrol and\nPike County (Miss.) Sheriff R. R.\nWarren.\n\n\nThey we're charged with VIOLA\nlions of Mississippi law banning\nunlawful use of explosives.\n\n\nFBI Director ]. Edgar Hoover\nidentified those arrested as Paul\nDewey Wilson Is. who moved\nfrom Nice omb to Jayess. Mss,\nyesterday: Ernest Frederick\nZeeck, Is, of McComb; and\nJimmy Prinston Wilson, 38, of\nMcC omb.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1942,
+                "y0": 1276,
+                "x1": 2399,
+                "y1": 1479
+            },
+            "class": "headline",
+            "raw_text": "TRIO NABBED\n\n\nIN B0MBINcs",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 995,
+                "y0": 6377,
+                "x1": 1804,
+                "y1": 7140
+            },
+            "class": "article",
+            "raw_text": "Sixty days. suspension of the\nbeer and wine license at Trot\nInn, 2432 E. Broadway, was an\nnounced yesterday by the State\nDepartment of Liquor Licenses\nand Control.\n\n\nThe 6O-day suspension follow\ned inquiry into two charges that\ndisorderly people we're permitted\non the licensed premises. a de-\npartment spokesman said.\n\n\nHolder of the license was iden-\ntitled as Harry B. Martin.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1012,
+                "y0": 6250,
+                "x1": 1492,
+                "y1": 6349
+            },
+            "class": "headline",
+            "raw_text": "Trot Inn Closed",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1902,
+                "y0": 3200,
+                "x1": 2729,
+                "y1": 4512
+            },
+            "class": "article",
+            "raw_text": "Appointment of a 14-member\nhuman relations committee, an\nnounced by Governor Fannin, will\ngive the state an agency to as\nsist in dealing with the new\nfederal civil rights law.\n\n\nNamed to the committee are\nVal Cordova. 500l E. CHEEKY\nLynn: W. A. Robins on. 1914 E.\nJefferso on: William A. Gray, 20\nS. 10th Ave.: Allen Rosenberg,\n$500 N. 5th Ave.: Msgr. Robert\n]. Donohoe, 1854 N. oath ST.;\nthe Rev. Culver Nelson, 1902 w.\nVista; DR.. Curtis Greenfield, 345\nW. Winds or Ave.. K. W. Michael,\n1890 N. Black Canyon: Pete\nHomer. Parker; ]. Lamar Shell\nley. Mesa: Patti Cline. Flagstaff:\nMrs. Hazel Johns on, Wilcox;\nArthur Pacheco Jr.. and Andy\nTolson Tucson.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1936,
+                "y0": 2998,
+                "x1": 2394,
+                "y1": 3172
+            },
+            "class": "headline",
+            "raw_text": "Funnin N an es\nCom mission",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2803,
+                "y0": 1969,
+                "x1": 4473,
+                "y1": 2675
+            },
+            "class": "article",
+            "raw_text": "Whitney NJ Young r left director of the National\nUrban League future league with Edward H.\nPepow president Of League Juniu\nPhoenix Urban League director and Charles Harn\nrecently resigned Pull director.\n\n\nMr. Young appeared Monday Phoenix Press Club He told\nhis audience that Negroes fear those supporters Barry Godwate\nwho have always stood against them He continued that Godwater\nshould step forward and denoce those wanted supporters\n\n\nThe Of Urban League discussed and Young\ndemned the media for giving inammatory Of violence",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2762,
+                "y0": 6845,
+                "x1": 3572,
+                "y1": 7140
+            },
+            "class": "article",
+            "raw_text": "TAMPA A member of an\nintegrated party which had been\nheld in the Cotton Club in a\nNegro district, returned after\nthe party to rob the place.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3120,
+                "y0": 6712,
+                "x1": 4138,
+                "y1": 6823
+            },
+            "class": "headline",
+            "raw_text": "PARTY GUEST RETURNS AS THIEF",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3652,
+                "y0": 6868,
+                "x1": 4462,
+                "y1": 7111
+            },
+            "class": "article",
+            "raw_text": "He was nabbed and identified as\nCharles Butler. white, who had\nbroken locks on the mems room\nwindow.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 134,
+                "y0": 5713,
+                "x1": 1816,
+                "y1": 6239
+            },
+            "class": "article",
+            "raw_text": "The fifth annual Srlorama hair style show sponsored by the\nArizona Cosmeoogists Association Valley Hi affiliate No.\nheld Sum-, Oct 4 at the Ramada Inn.\n\n\nPictured above trophy winners and their models From left\nstanding Mesdaes Betty Mckinney first place. Forine Oliver\nsecond place: Charlesea Lee third place. Jubilee Contest\nstudent winner, Clemmie Smith.\n\n\nModels wearing chic coiffures hold their sss cleaning\ntrophies.",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964100901_0575",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "2 NEGROES\nON BALLOT",
+            "article": "DETROIT = Nine Negro can\ndidates for the state legislature\nand senate in primary elections\nheld in Wayne County were cleo\nted.\n\n\nSix of the nine are incum-\nbents.\n\n\nTwo Negro incumbents failed to\nwin denomination.\n\n\nThey we're Hiram McNeeley,\nveteran politician from sub\nurban Inkster. and Arthur Cart\nwright. who tried to switch to\nthe senate and ran fourth In a\nSixth District campaign.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1919,
+                    "y0": 6036,
+                    "x1": 2295,
+                    "y1": 6239
+                },
+                {
+                    "x0": 1884,
+                    "y0": 6267,
+                    "x1": 2694,
+                    "y1": 7140
+                }
+            ],
+            "bbox": [
+                1884,
+                6036,
+                2694,
+                7140
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "the National Newspaper Publishers Assoca-\ntion pledged support O the federal poverty.\n\n\nAttending meeting held Washington D. Co. recently\nJohn Speaks Chicago Julius Carter.\nTime of Houton Sargent Shrver director Of\nanpovr and Banks Arizona Tribune Phoenix\nArizona.\n\n\npresident Frank L. Stanley Sr. of Louisville and\nthe Louisville Defender headed the executive board\nof NNPA who met with Sargent Shrver.\n\n\nShrver charge of the which will be admin\nthrough Office Opportunity He asked\nthem aid in recruiting thousands of young and women of\ncorps urged publishers finding teachers\ncomselors, athletic instructors and other personnel.\n\n\noutlined the program of Vista Volunteers who will\nmonthly during their assignments poverty stricken\nAny high school graduate l8 can apply\n\n\nOpportunity will in various cities provide home\nmaking and job training.\n\n\nOther NNPA members attending the session c. E. Boiler.\nPIERCE Fa E. A. Daily Oakland, Calf; Carlton Goodlet,\nFrancisco Caf Percy Greene Jackson MISS Balm Leave\nChicago: John Murphy ILL., Baltimore Mesdames Eleanor Lotion\nPittsburgh Gerald Porter, Cincinnati.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 99,
+                    "y0": 2622,
+                    "x1": 1787,
+                    "y1": 4113
+                }
+            ],
+            "bbox": [
+                99,
+                2622,
+                1787,
+                4113
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                24,
+                6
+            ],
+            "headline": "z Negro In Grund Prix",
+            "article": "RIVERSIDE, Calf. Two\nNegro drivers competed in the\nTime Annual Grand Prix for\nSports Cars at Riverside Inter-\nnational Raceway.\n\n\nKing Johnson and William\nPayne III, are members of the\nnewly organized Scorpions Rae\ning Team. Both have been racing\nfor several months but have never\nwon. They are listed in the top\ntwenty drivers in the western\ndivision.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 145,
+                    "y0": 6273,
+                    "x1": 857,
+                    "y1": 6372
+                },
+                {
+                    "x0": 105,
+                    "y0": 6400,
+                    "x1": 915,
+                    "y1": 7158
+                }
+            ],
+            "bbox": [
+                105,
+                6273,
+                915,
+                7158
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                16,
+                7
+            ],
+            "headline": "CORE Application\nIs Opposed",
+            "article": "Harvard H. Hill. a vice presi-\ndent Of Valley National Bank,\nand E. P. (Ned) Mullan, Phoe-\nnix auto company executive, have\nasked the Maricopa County Junior\nCollege District board to not\nallow proposed unit Of the Con-\ngress Of Racial Equality C ORE.\nto organize on Phoenix College\ncampus.\n\n\nMullan, state chairman Of the\nAmericanism Committee Of the\nAmerican Legion. said 90. I.\nCORES methods are not justi-\nfled, even though 1t might sup\nport some good causes\"\n\n\nDR.. Robert Hannelly, district\npresident, said the disputed ap-\nplication would be judged by Fri\nday.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1902,
+                    "y0": 4557,
+                    "x1": 2451,
+                    "y1": 4789
+                },
+                {
+                    "x0": 1896,
+                    "y0": 4823,
+                    "x1": 2711,
+                    "y1": 5991
+                }
+            ],
+            "bbox": [
+                1896,
+                4557,
+                2711,
+                5991
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                15,
+                9
+            ],
+            "headline": "TRIO NABBED\n\n\nIN B0MBINcs",
+            "article": "WASHINGTON Three white\nmen we're arrested in Mississippi\non charges Of bombing the homes\nof two Negroes near McComb.\nMiss.\n\n\nArrest of the three was an\nnounced here by acting Atty. Gen.\nNicolas Katzenbach and Missis-\nsippi Gov. Paul Johnson. They\nwe're arrested by FBI agents\nworking closely with the Missis-\nsippi Highway Safety Patrol and\nPike County (Miss.) Sheriff R. R.\nWarren.\n\n\nThey we're charged with VIOLA\nlions of Mississippi law banning\nunlawful use of explosives.\n\n\nFBI Director ]. Edgar Hoover\nidentified those arrested as Paul\nDewey Wilson Is. who moved\nfrom Nice omb to Jayess. Mss,\nyesterday: Ernest Frederick\nZeeck, Is, of McComb; and\nJimmy Prinston Wilson, 38, of\nMcC omb.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1942,
+                    "y0": 1276,
+                    "x1": 2399,
+                    "y1": 1479
+                },
+                {
+                    "x0": 1884,
+                    "y0": 1507,
+                    "x1": 2700,
+                    "y1": 2987
+                }
+            ],
+            "bbox": [
+                1884,
+                1276,
+                2700,
+                2987
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                28,
+                10
+            ],
+            "headline": "Trot Inn Closed",
+            "article": "Sixty days. suspension of the\nbeer and wine license at Trot\nInn, 2432 E. Broadway, was an\nnounced yesterday by the State\nDepartment of Liquor Licenses\nand Control.\n\n\nThe 6O-day suspension follow\ned inquiry into two charges that\ndisorderly people we're permitted\non the licensed premises. a de-\npartment spokesman said.\n\n\nHolder of the license was iden-\ntitled as Harry B. Martin.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1012,
+                    "y0": 6250,
+                    "x1": 1492,
+                    "y1": 6349
+                },
+                {
+                    "x0": 995,
+                    "y0": 6377,
+                    "x1": 1804,
+                    "y1": 7140
+                }
+            ],
+            "bbox": [
+                995,
+                6250,
+                1804,
+                7140
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                17,
+                11
+            ],
+            "headline": "Funnin N an es\nCom mission",
+            "article": "Appointment of a 14-member\nhuman relations committee, an\nnounced by Governor Fannin, will\ngive the state an agency to as\nsist in dealing with the new\nfederal civil rights law.\n\n\nNamed to the committee are\nVal Cordova. 500l E. CHEEKY\nLynn: W. A. Robins on. 1914 E.\nJefferso on: William A. Gray, 20\nS. 10th Ave.: Allen Rosenberg,\n$500 N. 5th Ave.: Msgr. Robert\n]. Donohoe, 1854 N. oath ST.;\nthe Rev. Culver Nelson, 1902 w.\nVista; DR.. Curtis Greenfield, 345\nW. Winds or Ave.. K. W. Michael,\n1890 N. Black Canyon: Pete\nHomer. Parker; ]. Lamar Shell\nley. Mesa: Patti Cline. Flagstaff:\nMrs. Hazel Johns on, Wilcox;\nArthur Pacheco Jr.. and Andy\nTolson Tucson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1936,
+                    "y0": 2998,
+                    "x1": 2394,
+                    "y1": 3172
+                },
+                {
+                    "x0": 1902,
+                    "y0": 3200,
+                    "x1": 2729,
+                    "y1": 4512
+                }
+            ],
+            "bbox": [
+                1902,
+                2998,
+                2729,
+                4512
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Whitney NJ Young r left director of the National\nUrban League future league with Edward H.\nPepow president Of League Juniu\nPhoenix Urban League director and Charles Harn\nrecently resigned Pull director.\n\n\nMr. Young appeared Monday Phoenix Press Club He told\nhis audience that Negroes fear those supporters Barry Godwate\nwho have always stood against them He continued that Godwater\nshould step forward and denoce those wanted supporters\n\n\nThe Of Urban League discussed and Young\ndemned the media for giving inammatory Of violence",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2803,
+                    "y0": 1969,
+                    "x1": 4473,
+                    "y1": 2675
+                }
+            ],
+            "bbox": [
+                2803,
+                1969,
+                4473,
+                2675
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                26,
+                14
+            ],
+            "headline": "PARTY GUEST RETURNS AS THIEF",
+            "article": "TAMPA A member of an\nintegrated party which had been\nheld in the Cotton Club in a\nNegro district, returned after\nthe party to rob the place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3120,
+                    "y0": 6712,
+                    "x1": 4138,
+                    "y1": 6823
+                },
+                {
+                    "x0": 2762,
+                    "y0": 6845,
+                    "x1": 3572,
+                    "y1": 7140
+                }
+            ],
+            "bbox": [
+                2762,
+                6712,
+                4138,
+                7140
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "He was nabbed and identified as\nCharles Butler. white, who had\nbroken locks on the mems room\nwindow.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3652,
+                    "y0": 6868,
+                    "x1": 4462,
+                    "y1": 7111
+                }
+            ],
+            "bbox": [
+                3652,
+                6868,
+                4462,
+                7111
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "The fifth annual Srlorama hair style show sponsored by the\nArizona Cosmeoogists Association Valley Hi affiliate No.\nheld Sum-, Oct 4 at the Ramada Inn.\n\n\nPictured above trophy winners and their models From left\nstanding Mesdaes Betty Mckinney first place. Forine Oliver\nsecond place: Charlesea Lee third place. Jubilee Contest\nstudent winner, Clemmie Smith.\n\n\nModels wearing chic coiffures hold their sss cleaning\ntrophies.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 134,
+                    "y0": 5713,
+                    "x1": 1816,
+                    "y1": 6239
+                }
+            ],
+            "bbox": [
+                134,
+                5713,
+                1816,
+                6239
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-10-09_pna_sn84021918_0041421695A_1964100901_0575.json"
+        }
+    ]
+}

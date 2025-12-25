@@ -1,0 +1,387 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121101/0659.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4923
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2003,
+                "y0": 1593,
+                "x1": 2821,
+                "y1": 3929
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The US. SUI\npreme Court was asked to end\na practice used by numerous\nsouthern communities to system\natically exclude Negro citizens\nfrom juries.\n\n\nConstance Baker Motley, as\nsociate counsel of the NAACP\nLegal Defense Fund, argued that\nthe 1862 conviction of Robert\nSwain should be reversed.\n\n\nWhile few Talladega County\nNegroes are included on the jury\nrolls, they have been consistently\nstruck by prosecutors, Mrs.\nMotley stressed.\n\n\nThe US. Civil Rights Commits\nsion's 1861 report indicates that\nthis practice Is widely used\nacross the deep south.\n\n\nRobert Swain, the defendant,\nwas sentenced to death for the\nalleged rape of a white woman.\n\n\nThe civil rights lawyer pointed\nout that no Negro has served on\na trial jury in Talladega County\nin either civil or criminal cases.\n\n\nThis was Mrs. Motleys ninth\nappearance before the US. Su-\npreme Court. Assisting her were\nLegal Defense Fund Director\nCounsel Jack Greenberg: James\nM. Nabrit III. Michael Meltsner\nand Frank Heffron of the Fund\nNew York City headquarters.\n\n\nCooperating Attorneys Orzell\nBillingsley, Jr. and Peter Hall\nof Birmingham assisted on the\ncase as did volunteer attorney,\nHenry M. di Suvero.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2015,
+                "y0": 1344,
+                "x1": 2746,
+                "y1": 1576
+            },
+            "class": "headline",
+            "raw_text": "SUprem e Court\nTo Judge Tactics",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2003,
+                "y0": 4078,
+                "x1": 2810,
+                "y1": 4780
+            },
+            "class": "article",
+            "raw_text": "NEW YORK A Judge dis\nmissed charges against \"a young\nparents protesting a contro-\nversial \"school-pairing' plan in\nQueens.\n\n\nQueens Criminal Court Judge\nMorris Weinfeld ruled that the\nparents had improperly been\nplaced under citizens arrest by\nthe principal Of a school where\nthey were demonstrating last\nOct. 7.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2015,
+                "y0": 3957,
+                "x1": 2589,
+                "y1": 4062
+            },
+            "class": "headline",
+            "raw_text": "Parents Freed",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2907,
+                "y0": 6668,
+                "x1": 3713,
+                "y1": 7208
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The Supreme\nCourt struck down a Florida\nlaw prohibiting a Negro and a\nwhite person who are not married\nto each other from occupying the\nsame room at night.\n\n\nHowever, the court did not act\nagainst the Florida law which\nprohibits racial intermarriage.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3776,
+                "y0": 6657,
+                "x1": 4577,
+                "y1": 7127
+            },
+            "class": "article",
+            "raw_text": "The same type of law is still\nin effect in lo states.\n\n\nA unanimous opinion read by\nJustice Bryan R.White cast doubt\non such laws stating it was an\nindication of police powers which\ninfringed upon individual free\ndomS.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3081,
+                "y0": 6489,
+                "x1": 4380,
+                "y1": 6629
+            },
+            "class": "headline",
+            "raw_text": "HIGH COURT HATS ROOM LAW",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 184,
+                "y0": 1488,
+                "x1": 1935,
+                "y1": 4861
+            },
+            "class": "article",
+            "raw_text": "For the past few years one man has become\nthe seD-abbOinted great white father for all\nminority groups in the Valley. Robert Cho0te\nhas assumed the monumental task of dire citing\nall types of programs which pertain to persons\nof the Negro race.\n\n\nHe has managed to get q footh0ld in many\nagencies and has been appointed usually by\nhimself to head community activities. AS the\nbYgvious year passes into history, nv. ChO0te\nhas bombovded the Valley Of the Sun with his\nclaims of the gigantic Voyk Of his remedies\nfor dYobouts and career interests. Little has\nbeen proven by any Of his efforts as far as\nknoup or evidenced IN the Negro neighbour\nhoods.\n\n\nChoate has ignored existing Negro conferred\ngroups and Negro leaders in our community.\nInstead, he has set himself ON pinnacle and\nhas rushed about promoting mostly NM: Choote\n\n\nAS the antiboveYty program is in its infancy,\nCho0te rushed ahead and organized steering\ncommittee to implement some ontiboUeTy\nprogram in the city without the Obvious utili-\nzotion of the aid of Negro citizens.\n\n\nThe re cent Urban League Equal ObboYt1Ga-\nity Day turned into a tiasco. Choate used\nseemingly as a stepping stone for another\none of his self Qualification programs.\n\n\nIt is still true that man WbO wears too\nnaaey hats, usually has no time to Oeor any\ntoo weu Apparently, Robert Choate fails into\nthe category characterized by Negro leader\nuho said, HE uses race relations as some\nkind of hobby\"\n\n\nChoate and others, WhetheY they are C0u-\ncosion or Negro, should realize that Negroes\nare not a GROUP of illiteyutes waiting IKE\nbunch of cattle to be led from place to place.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 578,
+                "y0": 1309,
+                "x1": 1500,
+                "y1": 1449
+            },
+            "class": "headline",
+            "raw_text": "TOO MANY HATS",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2884,
+                "y0": 4391,
+                "x1": 4559,
+                "y1": 4746
+            },
+            "class": "article",
+            "raw_text": "James A. Horton right who last week editor\nof Agricultural Marketing publication of the US. Department\nof Agriculture shown studying issue of the monthly\nwith Administrator S. R. Smith of USDs Agricultural Marketing\nService Mr. Horton had assistant editor of the publication\nfor years. USDA Photo",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 259,
+                "y0": 6517,
+                "x1": 1929,
+                "y1": 6994
+            },
+            "class": "article",
+            "raw_text": "birthday party given by members of the Order Of the\nEastern Star Marcopa Chapter honorng members of the Palm\nChapter.\n\n\nMrs. Virginia Curry northy of the OES Chapter\nPrince affiliate, welcomed than hundred honorees\nand guests the affair.\nMrs. Vernela president of the Palm Chapter.\n\n\nPr Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-11"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "SUprem e Court\nTo Judge Tactics",
+            "article": "WASHINGTON The US. SUI\npreme Court was asked to end\na practice used by numerous\nsouthern communities to system\natically exclude Negro citizens\nfrom juries.\n\n\nConstance Baker Motley, as\nsociate counsel of the NAACP\nLegal Defense Fund, argued that\nthe 1862 conviction of Robert\nSwain should be reversed.\n\n\nWhile few Talladega County\nNegroes are included on the jury\nrolls, they have been consistently\nstruck by prosecutors, Mrs.\nMotley stressed.\n\n\nThe US. Civil Rights Commits\nsion's 1861 report indicates that\nthis practice Is widely used\nacross the deep south.\n\n\nRobert Swain, the defendant,\nwas sentenced to death for the\nalleged rape of a white woman.\n\n\nThe civil rights lawyer pointed\nout that no Negro has served on\na trial jury in Talladega County\nin either civil or criminal cases.\n\n\nThis was Mrs. Motleys ninth\nappearance before the US. Su-\npreme Court. Assisting her were\nLegal Defense Fund Director\nCounsel Jack Greenberg: James\nM. Nabrit III. Michael Meltsner\nand Frank Heffron of the Fund\nNew York City headquarters.\n\n\nCooperating Attorneys Orzell\nBillingsley, Jr. and Peter Hall\nof Birmingham assisted on the\ncase as did volunteer attorney,\nHenry M. di Suvero.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2015,
+                    "y0": 1344,
+                    "x1": 2746,
+                    "y1": 1576
+                },
+                {
+                    "x0": 2003,
+                    "y0": 1593,
+                    "x1": 2821,
+                    "y1": 3929
+                }
+            ],
+            "bbox": [
+                2003,
+                1344,
+                2821,
+                3929
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-11_p1_sn84021918_0041421695A_1964121101_0659.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "Parents Freed",
+            "article": "NEW YORK A Judge dis\nmissed charges against \"a young\nparents protesting a contro-\nversial \"school-pairing' plan in\nQueens.\n\n\nQueens Criminal Court Judge\nMorris Weinfeld ruled that the\nparents had improperly been\nplaced under citizens arrest by\nthe principal Of a school where\nthey were demonstrating last\nOct. 7.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2015,
+                    "y0": 3957,
+                    "x1": 2589,
+                    "y1": 4062
+                },
+                {
+                    "x0": 2003,
+                    "y0": 4078,
+                    "x1": 2810,
+                    "y1": 4780
+                }
+            ],
+            "bbox": [
+                2003,
+                3957,
+                2810,
+                4780
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-11_p1_sn84021918_0041421695A_1964121101_0659.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "WASHINGTON The Supreme\nCourt struck down a Florida\nlaw prohibiting a Negro and a\nwhite person who are not married\nto each other from occupying the\nsame room at night.\n\n\nHowever, the court did not act\nagainst the Florida law which\nprohibits racial intermarriage.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2907,
+                    "y0": 6668,
+                    "x1": 3713,
+                    "y1": 7208
+                }
+            ],
+            "bbox": [
+                2907,
+                6668,
+                3713,
+                7208
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-11_p1_sn84021918_0041421695A_1964121101_0659.json"
+        },
+        {
+            "object_ids": [
+                16,
+                7
+            ],
+            "headline": "HIGH COURT HATS ROOM LAW",
+            "article": "The same type of law is still\nin effect in lo states.\n\n\nA unanimous opinion read by\nJustice Bryan R.White cast doubt\non such laws stating it was an\nindication of police powers which\ninfringed upon individual free\ndomS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3081,
+                    "y0": 6489,
+                    "x1": 4380,
+                    "y1": 6629
+                },
+                {
+                    "x0": 3776,
+                    "y0": 6657,
+                    "x1": 4577,
+                    "y1": 7127
+                }
+            ],
+            "bbox": [
+                3081,
+                6489,
+                4577,
+                7127
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-12-11_p1_sn84021918_0041421695A_1964121101_0659.json"
+        },
+        {
+            "object_ids": [
+                15,
+                9
+            ],
+            "headline": "TOO MANY HATS",
+            "article": "For the past few years one man has become\nthe seD-abbOinted great white father for all\nminority groups in the Valley. Robert Cho0te\nhas assumed the monumental task of dire citing\nall types of programs which pertain to persons\nof the Negro race.\n\n\nHe has managed to get q footh0ld in many\nagencies and has been appointed usually by\nhimself to head community activities. AS the\nbYgvious year passes into history, nv. ChO0te\nhas bombovded the Valley Of the Sun with his\nclaims of the gigantic Voyk Of his remedies\nfor dYobouts and career interests. Little has\nbeen proven by any Of his efforts as far as\nknoup or evidenced IN the Negro neighbour\nhoods.\n\n\nChoate has ignored existing Negro conferred\ngroups and Negro leaders in our community.\nInstead, he has set himself ON pinnacle and\nhas rushed about promoting mostly NM: Choote\n\n\nAS the antiboveYty program is in its infancy,\nCho0te rushed ahead and organized steering\ncommittee to implement some ontiboUeTy\nprogram in the city without the Obvious utili-\nzotion of the aid of Negro citizens.\n\n\nThe re cent Urban League Equal ObboYt1Ga-\nity Day turned into a tiasco. Choate used\nseemingly as a stepping stone for another\none of his self Qualification programs.\n\n\nIt is still true that man WbO wears too\nnaaey hats, usually has no time to Oeor any\ntoo weu Apparently, Robert Choate fails into\nthe category characterized by Negro leader\nuho said, HE uses race relations as some\nkind of hobby\"\n\n\nChoate and others, WhetheY they are C0u-\ncosion or Negro, should realize that Negroes\nare not a GROUP of illiteyutes waiting IKE\nbunch of cattle to be led from place to place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 578,
+                    "y0": 1309,
+                    "x1": 1500,
+                    "y1": 1449
+                },
+                {
+                    "x0": 184,
+                    "y0": 1488,
+                    "x1": 1935,
+                    "y1": 4861
+                }
+            ],
+            "bbox": [
+                184,
+                1309,
+                1935,
+                4861
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-12-11_p1_sn84021918_0041421695A_1964121101_0659.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "James A. Horton right who last week editor\nof Agricultural Marketing publication of the US. Department\nof Agriculture shown studying issue of the monthly\nwith Administrator S. R. Smith of USDs Agricultural Marketing\nService Mr. Horton had assistant editor of the publication\nfor years. USDA Photo",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2884,
+                    "y0": 4391,
+                    "x1": 4559,
+                    "y1": 4746
+                }
+            ],
+            "bbox": [
+                2884,
+                4391,
+                4559,
+                4746
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-12-11_p1_sn84021918_0041421695A_1964121101_0659.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "birthday party given by members of the Order Of the\nEastern Star Marcopa Chapter honorng members of the Palm\nChapter.\n\n\nMrs. Virginia Curry northy of the OES Chapter\nPrince affiliate, welcomed than hundred honorees\nand guests the affair.\nMrs. Vernela president of the Palm Chapter.\n\n\nPr Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 259,
+                    "y0": 6517,
+                    "x1": 1929,
+                    "y1": 6994
+                }
+            ],
+            "bbox": [
+                259,
+                6517,
+                1929,
+                6994
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-12-11_p1_sn84021918_0041421695A_1964121101_0659.json"
+        }
+    ]
+}

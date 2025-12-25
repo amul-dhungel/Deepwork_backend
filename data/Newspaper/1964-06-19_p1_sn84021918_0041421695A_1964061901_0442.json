@@ -1,0 +1,210 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061901/0442.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7413,
+        "width": 4943
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3983,
+                "y0": 538,
+                "x1": 4800,
+                "y1": 1825
+            },
+            "class": "article",
+            "raw_text": "area in the past four yeaks.\n\n\nThe gift postlight will carry\na plate bearing this inscription:\nwelcome to the home of the\n250,000th gas meter installed by\nArizona Public Sercice Com\npany.\"\n\n\nAlthough Public Service and\nits predecessors have been sup\nplying gas to Arizonans since\n1886. most Of the quarter-mil-\nlion gas meters installed have\nbeen placed in service only since\n1884.\n\n\nIn that year, Central Arizona\nLight and Power Company\nswitched from manufactured gas\nto natural gas in the Phoenix\narea, which now Is the heart of\nthe present firms service area.\nAt that time, Calapco had only\n1920 gas customers.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3096,
+                "y0": 382,
+                "x1": 4800,
+                "y1": 504
+            },
+            "class": "headline",
+            "raw_text": "ESQ ,oooth GAS METER TO Be INSTALLED BY APPS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3085,
+                "y0": 550,
+                "x1": 3908,
+                "y1": 1912
+            },
+            "class": "article",
+            "raw_text": "Arizona Public Service Com\npanys $500 employees are wait\ning for next Friday. June %.\n\n\nThen APPS will install Its\n25O,OOOth natural gas meter. The\ncompanys rate Of meter install\nlations--an average of 200 a\nweek--indicates the quarter mil\nkionth meter should be ready for\ninstallation then.\n\n\nSprague Meter Company Of\nBridgeport, Conn.,, will provide\nchrome-plate meter to be used\nwhen the quarter-millionth re-\nquest for gas service comes in.\n\n\nIn addition to receiving the\nchrome plated meter, the\n50,0O0th customer will be pre-\nscented a gas postlight by Public\nService. The light will be sim\nliar to the more than Is 900 gas\npostlights homeowners have had\ninstalled in the utilitys service",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3496,
+                "y0": 4789,
+                "x1": 4372,
+                "y1": 6302
+            },
+            "class": "article",
+            "raw_text": "In one compact unit electric\nheat pump refrigeration\nand heating provides cool,\nconstant comfort in the\n\n\nsummer, acknowledging the\nair and filtering out dust\nand pollens. In winter, the\nsame unit heats your home,\nwith no seasonal chongeover\nservice coll required.\n\n\nInstallation and maintenance\ncosts are cut to minimum\nbecause the compact heat pump\nhas fewer parts and needs no\nvents, hues, gas or water lines.\n1t can be placed practically any\nwhere and, in many cases, your\nexisting duct work can be utilized.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3983,
+                "y0": 2218,
+                "x1": 4777,
+                "y1": 2601
+            },
+            "class": "article",
+            "raw_text": "Special to home decorators:\nThose elusive closet light switch\ncords will be easier to find in the\ndark if you string them with chill\ndren's large wooden beads. Be\nsure to tie big knot in the end\nof the cord so the beads won't\nslide off.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-19"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                0
+            ],
+            "headline": "ESQ ,oooth GAS METER TO Be INSTALLED BY APPS",
+            "article": "area in the past four yeaks.\n\n\nThe gift postlight will carry\na plate bearing this inscription:\nwelcome to the home of the\n250,000th gas meter installed by\nArizona Public Sercice Com\npany.\"\n\n\nAlthough Public Service and\nits predecessors have been sup\nplying gas to Arizonans since\n1886. most Of the quarter-mil-\nlion gas meters installed have\nbeen placed in service only since\n1884.\n\n\nIn that year, Central Arizona\nLight and Power Company\nswitched from manufactured gas\nto natural gas in the Phoenix\narea, which now Is the heart of\nthe present firms service area.\nAt that time, Calapco had only\n1920 gas customers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3096,
+                    "y0": 382,
+                    "x1": 4800,
+                    "y1": 504
+                },
+                {
+                    "x0": 3983,
+                    "y0": 538,
+                    "x1": 4800,
+                    "y1": 1825
+                }
+            ],
+            "bbox": [
+                3096,
+                382,
+                4800,
+                1825
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-19_p1_sn84021918_0041421695A_1964061901_0442.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Arizona Public Service Com\npanys $500 employees are wait\ning for next Friday. June %.\n\n\nThen APPS will install Its\n25O,OOOth natural gas meter. The\ncompanys rate Of meter install\nlations--an average of 200 a\nweek--indicates the quarter mil\nkionth meter should be ready for\ninstallation then.\n\n\nSprague Meter Company Of\nBridgeport, Conn.,, will provide\nchrome-plate meter to be used\nwhen the quarter-millionth re-\nquest for gas service comes in.\n\n\nIn addition to receiving the\nchrome plated meter, the\n50,0O0th customer will be pre-\nscented a gas postlight by Public\nService. The light will be sim\nliar to the more than Is 900 gas\npostlights homeowners have had\ninstalled in the utilitys service",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3085,
+                    "y0": 550,
+                    "x1": 3908,
+                    "y1": 1912
+                }
+            ],
+            "bbox": [
+                3085,
+                550,
+                3908,
+                1912
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-19_p1_sn84021918_0041421695A_1964061901_0442.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "In one compact unit electric\nheat pump refrigeration\nand heating provides cool,\nconstant comfort in the\n\n\nsummer, acknowledging the\nair and filtering out dust\nand pollens. In winter, the\nsame unit heats your home,\nwith no seasonal chongeover\nservice coll required.\n\n\nInstallation and maintenance\ncosts are cut to minimum\nbecause the compact heat pump\nhas fewer parts and needs no\nvents, hues, gas or water lines.\n1t can be placed practically any\nwhere and, in many cases, your\nexisting duct work can be utilized.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3496,
+                    "y0": 4789,
+                    "x1": 4372,
+                    "y1": 6302
+                }
+            ],
+            "bbox": [
+                3496,
+                4789,
+                4372,
+                6302
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-06-19_p1_sn84021918_0041421695A_1964061901_0442.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Special to home decorators:\nThose elusive closet light switch\ncords will be easier to find in the\ndark if you string them with chill\ndren's large wooden beads. Be\nsure to tie big knot in the end\nof the cord so the beads won't\nslide off.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3983,
+                    "y0": 2218,
+                    "x1": 4777,
+                    "y1": 2601
+                }
+            ],
+            "bbox": [
+                3983,
+                2218,
+                4777,
+                2601
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-19_p1_sn84021918_0041421695A_1964061901_0442.json"
+        }
+    ]
+}

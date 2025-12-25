@@ -1,0 +1,286 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7387,
+        "width": 4880,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964120401/0653.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 945,
+                "y0": 392,
+                "x1": 1771,
+                "y1": 3429
+            },
+            "class": "article",
+            "raw_text": "10 minutes, he was reclining in\nthe hydraulic bed.\n\n\nWhen | left him, he was\nbit displea sed because his meals\nwere restricted until the next\nnoontime. | could tell that he\nwas not too i'll, for a man and\nhis appetite are sure signs of\nImprovement.\n\n\nSaturday and Sunday passed\nvery rapidly between dashes from\nthe hospital to home. | sand\nwiched a couple Of stops at the\nstore and the cleaners during\nthe hours. OF course, the post\nThanksgiving dinner was post\nponed.\n\n\nMonday started as any other\nMonday. For two weeks have\nbeen pitting salve, capsules and\nstamina against an allergic con-\ndition. My hands and feet became\nthe backgrounds = for a day\nthey itched and we're swollen.\n\n\nMonday evening was disturbed\nby a series of sneezes. The nurse\nat Good Samaritan thought was\ncatching a cold. So did my hus-\nband. | assured them that some\nthing was not agreeing with my\nsensitive system.\n\n\nUpon returning home | felt\na tickle in my throat..l had eaten\na quarter slice of an apple\nsuddenly my hands and feet ting\nled. Just then the telephone rang.\n\n\ncould hardly talk and | had to\nbreak off suddenly, gulping two\nallergy pills. Within fifteen min\nutes l had jumped into our car\nand driven myself to the emer-\ngency room at Good Samaritan\nHospital.\n\n\nAll is we'll again--My spouse\nfeels better, my itches are gone\nbut the goose remains in the\nbutcher s freezer.\n\n\nl forgot = Thursday night\nmedium sized toad was crouched\nin our bathroom near the bath\nrub. He had entered unnoticed",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 50,
+                "y0": 507,
+                "x1": 877,
+                "y1": 3452
+            },
+            "class": "article",
+            "raw_text": "welcomed me and introduced me\nto their children and friends.\nSince, | was a bit late--1 was\nstarting on my first course when\nmost of them were finishing.\n\n\nThe menu really had from soup\nto nuts on 1t. There we're tur-\nkey, goose, beef, lamb or lob\nster for main dishes. You could\nprime your palate with fruit\nsherbet cocktail, cream ofmush-\nroom soup, seafood cocktail or\none Of the hundred bottles Of\nvintage wines.\n\n\nVegetables ranged from\nmashed potatoes to tiny creamed\nonions. Two kinds of salads we're\navailable, plus hot rolls and\nbreads served continuously by\nsmiling waiter.\n\n\nDesserts are usually ones\npiece de resistance--and | sue\ncumbed to a generous slice of\npumpkin pie with cheddar cheese\n(being displaced Hoosier, was\nunable to destroy the spicy pump\nkin flavor with bit of cheese).\n) After dinner you could relax\nover a dish of roquefort cheese\nand crackers and drink coffee,\ntea, milk homogenized or non\nfat), beef broth, hot or cold,\nSanka or pure water.\n\n\nFruit cake, plum pudding, pink\nchampagne sherbet, pecan ice\ncream, jumbo dates, chilled\ngrapes, sailed nuts or a hand\nfull Of minis we're other des-\nsert entries.\n\n\n: Mrs. Stewart sent two large\nboxes of dinner to my spouse.\nJoined him in a second feast\nand commented on the grand\nmeal | had eaten earlier at the\nComeback Inn.\n\n\nFriday was another full day.\nEdward had an appointment to\nenter the hospital. We arrived\nat the admitting office of Good\nSamaritan at l:45 p.n.. within",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 50,
+                "y0": 375,
+                "x1": 675,
+                "y1": 474
+            },
+            "class": "headline",
+            "raw_text": "Sights-eontinued",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1845,
+                "y0": 380,
+                "x1": 2671,
+                "y1": 1513
+            },
+            "class": "article",
+            "raw_text": "while was checking the car\nport Storeroom.\n\n\nMy holiday spirits we're really\nlifted after l had talked long\ndistance to my beloved Mother\nand Grandmother. Their voices\nmade me forget most of the hec-\ntic and marrying events of the\npast days and nights.\n\n\nTrue life stories seldom make\nheadlines unless something STU\npendous happens - but I'll bet\nyour days could match any\ndramas concocted by story\nmakers.\n\n\nWho needs a diary7 ustkeep-\ning living and enjoying the best\nof it, remembering the most of\nit and forgetting the worst OF 1t.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1862,
+                "y0": 1621,
+                "x1": 2718,
+                "y1": 2950
+            },
+            "class": "article",
+            "raw_text": "SER VICE COMPANY\nhas immediate openings for\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\nl.. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM Col\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\nOpen Mon Fri 8-4:45 pm.\nAn equal opportunity employer\no35-o31l Elk. 2253",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1862,
+                "y0": 1540,
+                "x1": 2718,
+                "y1": 1691
+            },
+            "class": "headline",
+            "raw_text": "LOCKHEED AIRCRAFT\n\n\nRVICE COMPANY",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2763,
+                "y0": 2285,
+                "x1": 4420,
+                "y1": 2586
+            },
+            "class": "article",
+            "raw_text": "Whitney M Young r executive director of the National Urban\nleft the recipient the annual Atlanta Equal Oppor\ntuy Day Dinner Plaque of Distinction award Pictured\nright Tman Cochrane of Atlanta University who made the\npresentation for Atlanta Citizens committee.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 4892,
+                "y0": 398,
+                "x1": 6146,
+                "y1": 5777
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964120401_0653",
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "10 minutes, he was reclining in\nthe hydraulic bed.\n\n\nWhen | left him, he was\nbit displea sed because his meals\nwere restricted until the next\nnoontime. | could tell that he\nwas not too i'll, for a man and\nhis appetite are sure signs of\nImprovement.\n\n\nSaturday and Sunday passed\nvery rapidly between dashes from\nthe hospital to home. | sand\nwiched a couple Of stops at the\nstore and the cleaners during\nthe hours. OF course, the post\nThanksgiving dinner was post\nponed.\n\n\nMonday started as any other\nMonday. For two weeks have\nbeen pitting salve, capsules and\nstamina against an allergic con-\ndition. My hands and feet became\nthe backgrounds = for a day\nthey itched and we're swollen.\n\n\nMonday evening was disturbed\nby a series of sneezes. The nurse\nat Good Samaritan thought was\ncatching a cold. So did my hus-\nband. | assured them that some\nthing was not agreeing with my\nsensitive system.\n\n\nUpon returning home | felt\na tickle in my throat..l had eaten\na quarter slice of an apple\nsuddenly my hands and feet ting\nled. Just then the telephone rang.\n\n\ncould hardly talk and | had to\nbreak off suddenly, gulping two\nallergy pills. Within fifteen min\nutes l had jumped into our car\nand driven myself to the emer-\ngency room at Good Samaritan\nHospital.\n\n\nAll is we'll again--My spouse\nfeels better, my itches are gone\nbut the goose remains in the\nbutcher s freezer.\n\n\nl forgot = Thursday night\nmedium sized toad was crouched\nin our bathroom near the bath\nrub. He had entered unnoticed",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 945,
+                    "y0": 392,
+                    "x1": 1771,
+                    "y1": 3429
+                }
+            ],
+            "bbox": [
+                945,
+                392,
+                1771,
+                3429
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-04_pna_sn84021918_0041421695A_1964120401_0653.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "Sights-eontinued",
+            "article": "welcomed me and introduced me\nto their children and friends.\nSince, | was a bit late--1 was\nstarting on my first course when\nmost of them were finishing.\n\n\nThe menu really had from soup\nto nuts on 1t. There we're tur-\nkey, goose, beef, lamb or lob\nster for main dishes. You could\nprime your palate with fruit\nsherbet cocktail, cream ofmush-\nroom soup, seafood cocktail or\none Of the hundred bottles Of\nvintage wines.\n\n\nVegetables ranged from\nmashed potatoes to tiny creamed\nonions. Two kinds of salads we're\navailable, plus hot rolls and\nbreads served continuously by\nsmiling waiter.\n\n\nDesserts are usually ones\npiece de resistance--and | sue\ncumbed to a generous slice of\npumpkin pie with cheddar cheese\n(being displaced Hoosier, was\nunable to destroy the spicy pump\nkin flavor with bit of cheese).\n) After dinner you could relax\nover a dish of roquefort cheese\nand crackers and drink coffee,\ntea, milk homogenized or non\nfat), beef broth, hot or cold,\nSanka or pure water.\n\n\nFruit cake, plum pudding, pink\nchampagne sherbet, pecan ice\ncream, jumbo dates, chilled\ngrapes, sailed nuts or a hand\nfull Of minis we're other des-\nsert entries.\n\n\n: Mrs. Stewart sent two large\nboxes of dinner to my spouse.\nJoined him in a second feast\nand commented on the grand\nmeal | had eaten earlier at the\nComeback Inn.\n\n\nFriday was another full day.\nEdward had an appointment to\nenter the hospital. We arrived\nat the admitting office of Good\nSamaritan at l:45 p.n.. within",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 50,
+                    "y0": 375,
+                    "x1": 675,
+                    "y1": 474
+                },
+                {
+                    "x0": 50,
+                    "y0": 507,
+                    "x1": 877,
+                    "y1": 3452
+                }
+            ],
+            "bbox": [
+                50,
+                375,
+                877,
+                3452
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-04_pna_sn84021918_0041421695A_1964120401_0653.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "while was checking the car\nport Storeroom.\n\n\nMy holiday spirits we're really\nlifted after l had talked long\ndistance to my beloved Mother\nand Grandmother. Their voices\nmade me forget most of the hec-\ntic and marrying events of the\npast days and nights.\n\n\nTrue life stories seldom make\nheadlines unless something STU\npendous happens - but I'll bet\nyour days could match any\ndramas concocted by story\nmakers.\n\n\nWho needs a diary7 ustkeep-\ning living and enjoying the best\nof it, remembering the most of\nit and forgetting the worst OF 1t.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1845,
+                    "y0": 380,
+                    "x1": 2671,
+                    "y1": 1513
+                }
+            ],
+            "bbox": [
+                1845,
+                380,
+                2671,
+                1513
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-04_pna_sn84021918_0041421695A_1964120401_0653.json"
+        },
+        {
+            "object_ids": [
+                12,
+                9
+            ],
+            "headline": "LOCKHEED AIRCRAFT\n\n\nRVICE COMPANY",
+            "article": "SER VICE COMPANY\nhas immediate openings for\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\nl.. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM Col\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\nOpen Mon Fri 8-4:45 pm.\nAn equal opportunity employer\no35-o31l Elk. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1862,
+                    "y0": 1540,
+                    "x1": 2718,
+                    "y1": 1691
+                },
+                {
+                    "x0": 1862,
+                    "y0": 1621,
+                    "x1": 2718,
+                    "y1": 2950
+                }
+            ],
+            "bbox": [
+                1862,
+                1540,
+                2718,
+                2950
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-12-04_pna_sn84021918_0041421695A_1964120401_0653.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Whitney M Young r executive director of the National Urban\nleft the recipient the annual Atlanta Equal Oppor\ntuy Day Dinner Plaque of Distinction award Pictured\nright Tman Cochrane of Atlanta University who made the\npresentation for Atlanta Citizens committee.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2763,
+                    "y0": 2285,
+                    "x1": 4420,
+                    "y1": 2586
+                }
+            ],
+            "bbox": [
+                2763,
+                2285,
+                4420,
+                2586
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-12-04_pna_sn84021918_0041421695A_1964120401_0653.json"
+        }
+    ]
+}

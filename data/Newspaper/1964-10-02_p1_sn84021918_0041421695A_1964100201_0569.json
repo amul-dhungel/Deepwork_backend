@@ -1,0 +1,467 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100201/0569.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7452,
+        "width": 4935
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1896,
+                "y0": 2678,
+                "x1": 2718,
+                "y1": 3400
+            },
+            "class": "article",
+            "raw_text": "Arizona has new state welter-\nweight boxing champion. Bonnie\nMcCorvey, l44 8 \"a FOUNDER. kept\nhis opponent Mott busy. He won\na unanimous decision. Only ESQ\npersons viewed the fight In\nMadison Square Garden.\n\n\nWhen baking a cake that calls\nfor melted shortening, melt it in\nthe cake pan you will use. Result\nyour pan is creased! And you\nsave washing an extra pan.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1896,
+                "y0": 2555,
+                "x1": 2491,
+                "y1": 2655
+            },
+            "class": "headline",
+            "raw_text": "MecoRvEY WINS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 97,
+                "y0": 2235,
+                "x1": 925,
+                "y1": 3005
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Cleveland's star\nfullback Jimmy Brown declared\nthat he Is \"all for\" the Black\nMuslims.\n\n\nIn the current issue Of Look\nMagazine Brown discusses the\nNegr0s fight for equality. Brown\nsays he Is not a Muslin. yet\nI'm all for them because we need\nevery possible element going for\nus. The more commotion. the bet\nter\"\n\n\nDeclaring that the Black Mus",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1006,
+                "y0": 2235,
+                "x1": 1822,
+                "y1": 2958
+            },
+            "class": "article",
+            "raw_text": "Inns basic attitude toward whites\nis shared by almost 9 per cent\nof the Negro population\" Brown\nwarned that the Negroes mood Is\n\"explosive'' and \"the white man\nhad better start trying to under\nstand him.\"\n\n\nHe expressed skepticism OF\nNegro leader Martin Luther\nKings philoso phy Of turning\nthe other cheek\" and gaining\nequality through \"love.\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1879,
+                "y0": 611,
+                "x1": 2701,
+                "y1": 2027
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. c. V. Nelson,\nol3 S. Sixth Ave., are grand\nparents again. Mr.. and Mrs.\nNelson Of Los Angeles announced\nthe birth of girl weighing E\npounds.\n\n\nGeorge Grimmitt, 1850 W.\nMagnolia was visited byhis rela-\ntives. He wounded himself with\na shotgun and he is in the county\nhospital.\n\n\nSgt. and Mrs. Brady Heron\nand their three children are living\nhere now at I'LL E. Atlanta. They\nmoved here from Hawaii.\n\n\nMrs. Roberta Williams family\nheld agrand reunion and barbecue\nat the home of Mr.. and Mrs.\nCharles Williams, 3842 w. Lat\nham. Among those present we're\nthe Billy Williams family andthe\nIrving Matthews family.\n\n\nCleveland Jackson, 733 S. 10th\nAvenue Is very i'll.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1873,
+                "y0": 424,
+                "x1": 2555,
+                "y1": 548
+            },
+            "class": "headline",
+            "raw_text": "Westside Notes",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1885,
+                "y0": 2223,
+                "x1": 2701,
+                "y1": 2521
+            },
+            "class": "article",
+            "raw_text": "MIAMI BEACH. Fla. = Heavy\nweight champion Cassius Clay\nhas stepped up drills for his Nov.\nl6 title defense against Sonny\nListon in Boston.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1896,
+                "y0": 2037,
+                "x1": 2305,
+                "y1": 2201
+            },
+            "class": "headline",
+            "raw_text": "Clay Trains\nFor Lision",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2158,
+                "y0": 3830,
+                "x1": 4290,
+                "y1": 4868
+            },
+            "class": "article",
+            "raw_text": "Save at the Volley-We pay 3h3O daily interest on new\nuvngs deposits 40 on deposits left in the bank full year,\nLittle things add to be lot Just tor\nexample, change have left the end of the day\nchicken feed saved nothing but these small\nValley Bank savings account you'd have\ngood sized nest egg.\n\n\nwithout Valley Bank savings account because\ncan lay your hands lump to then why\nthousands of other Valley do: peck away at\nsavings account by saving your chicken feed\n\n\nfood for thought, isn't it",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2129,
+                "y0": 3446,
+                "x1": 4308,
+                "y1": 3808
+            },
+            "class": "headline",
+            "raw_text": "The best way to get nest egg\n\n\nis to save your chicken feed!",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2787,
+                "y0": 2858,
+                "x1": 4453,
+                "y1": 3389
+            },
+            "class": "article",
+            "raw_text": "Medallion Social and Civic Club held It's install\naton dinner meeting Smokehouse Restaurant Friday\n\n\nNew officers pictured in the top photograph From lett\nare Opal Crimes PRESIDENT Eloise MCreay secre\ntary Dolly Boyer Gloria Evans treasurer ee BROOKS\nJulie Engram. asst. secretary.\n\n\nOutgoing officers shown in second photo include Nesdames\nJones' Yvonne Huff PRESIDENT Bete Oos wee\nPRESIDENT Daher secretary and Betty Young reporter",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3847,
+                "y0": 2846,
+                "x1": 4424,
+                "y1": 2906
+            },
+            "class": "author",
+            "raw_text": "lvic Club held It's install",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 156,
+                "y0": 3568,
+                "x1": 1793,
+                "y1": 7103
+            },
+            "class": "article",
+            "raw_text": "IOIV Z. VAN DUKEV\n\n\nAL 8-6O71\nWe CARRY OUR OWN CONTRACTS\nOVER 200 CARS TO CHOOSE FROM\nSO CADILLAC COUPE DE VILE FACT. REFG. i\n\n\n$3.50 DOWN .......... .Sl4So\nso CORVAIR SEDAN $685.\nso CHEW. We TUDOR STICK ..... $500\nSO CHEW. IMPALA H/REFRIG. .....s4ss\n81 oLDs. SO CONVERTIBLE ........ 1888\nSO BUICK RIVIERA COUPE ALSO\n81 BUICK RIVIERA COUPE, FACT. REFRIG.\n\n\n$500 DOWN DELIVERS EITHER ONE\n81 CORVAIR NIONZA COUPE\n\n\n4SPEED TRANS. ...... 1888\n81 CHEW. STATION WAGON\n\n\nR/H- STICK ..............$3 $500\n81 CADILLAC CONVERTIBLE, FULLY\nEQUIPPED INCLUDING FACTORY\nREFRIGERATION, VERY LOW\n\n\nMILEAGE CAR ................$2995\n81 CADILLAC COUPE DE VILE ALSO\n81 CADILLACE COUPE DE VILE BOTH\nEQUIPPED WITH FACTORY REFRIG.\n\n\n$3.50 DOWN DELIVERS.\nIS CHEVROLET SUPER SPORT HARDTOP\nCOUPE : SPEED TRANSMISSION\n\n\n$3.50 DOWN DELIVERS.\nx sARWARK n\nMOTOR SALES\n1910 {. VAN buren, AL 8-607l\nCREDIT NO PROBLEM\n: WE CARRY OUR OWN CONTRACTS",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 406,
+                "y0": 3068,
+                "x1": 1583,
+                "y1": 3657
+            },
+            "class": "headline",
+            "raw_text": "SARWARk\n\n\nMOTOR SALES\n1910 (. VAN buren,",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-02"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "MecoRvEY WINS",
+            "article": "Arizona has new state welter-\nweight boxing champion. Bonnie\nMcCorvey, l44 8 \"a FOUNDER. kept\nhis opponent Mott busy. He won\na unanimous decision. Only ESQ\npersons viewed the fight In\nMadison Square Garden.\n\n\nWhen baking a cake that calls\nfor melted shortening, melt it in\nthe cake pan you will use. Result\nyour pan is creased! And you\nsave washing an extra pan.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1896,
+                    "y0": 2555,
+                    "x1": 2491,
+                    "y1": 2655
+                },
+                {
+                    "x0": 1896,
+                    "y0": 2678,
+                    "x1": 2718,
+                    "y1": 3400
+                }
+            ],
+            "bbox": [
+                1896,
+                2555,
+                2718,
+                3400
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "NEW YORK Cleveland's star\nfullback Jimmy Brown declared\nthat he Is \"all for\" the Black\nMuslims.\n\n\nIn the current issue Of Look\nMagazine Brown discusses the\nNegr0s fight for equality. Brown\nsays he Is not a Muslin. yet\nI'm all for them because we need\nevery possible element going for\nus. The more commotion. the bet\nter\"\n\n\nDeclaring that the Black Mus",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 97,
+                    "y0": 2235,
+                    "x1": 925,
+                    "y1": 3005
+                }
+            ],
+            "bbox": [
+                97,
+                2235,
+                925,
+                3005
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Inns basic attitude toward whites\nis shared by almost 9 per cent\nof the Negro population\" Brown\nwarned that the Negroes mood Is\n\"explosive'' and \"the white man\nhad better start trying to under\nstand him.\"\n\n\nHe expressed skepticism OF\nNegro leader Martin Luther\nKings philoso phy Of turning\nthe other cheek\" and gaining\nequality through \"love.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1006,
+                    "y0": 2235,
+                    "x1": 1822,
+                    "y1": 2958
+                }
+            ],
+            "bbox": [
+                1006,
+                2235,
+                1822,
+                2958
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        },
+        {
+            "object_ids": [
+                8,
+                5
+            ],
+            "headline": "Westside Notes",
+            "article": "Mr.. and Mrs. c. V. Nelson,\nol3 S. Sixth Ave., are grand\nparents again. Mr.. and Mrs.\nNelson Of Los Angeles announced\nthe birth of girl weighing E\npounds.\n\n\nGeorge Grimmitt, 1850 W.\nMagnolia was visited byhis rela-\ntives. He wounded himself with\na shotgun and he is in the county\nhospital.\n\n\nSgt. and Mrs. Brady Heron\nand their three children are living\nhere now at I'LL E. Atlanta. They\nmoved here from Hawaii.\n\n\nMrs. Roberta Williams family\nheld agrand reunion and barbecue\nat the home of Mr.. and Mrs.\nCharles Williams, 3842 w. Lat\nham. Among those present we're\nthe Billy Williams family andthe\nIrving Matthews family.\n\n\nCleveland Jackson, 733 S. 10th\nAvenue Is very i'll.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1873,
+                    "y0": 424,
+                    "x1": 2555,
+                    "y1": 548
+                },
+                {
+                    "x0": 1879,
+                    "y0": 611,
+                    "x1": 2701,
+                    "y1": 2027
+                }
+            ],
+            "bbox": [
+                1873,
+                424,
+                2701,
+                2027
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        },
+        {
+            "object_ids": [
+                7,
+                9
+            ],
+            "headline": "Clay Trains\nFor Lision",
+            "article": "MIAMI BEACH. Fla. = Heavy\nweight champion Cassius Clay\nhas stepped up drills for his Nov.\nl6 title defense against Sonny\nListon in Boston.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1896,
+                    "y0": 2037,
+                    "x1": 2305,
+                    "y1": 2201
+                },
+                {
+                    "x0": 1885,
+                    "y0": 2223,
+                    "x1": 2701,
+                    "y1": 2521
+                }
+            ],
+            "bbox": [
+                1885,
+                2037,
+                2701,
+                2521
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        },
+        {
+            "object_ids": [
+                6,
+                11
+            ],
+            "headline": "The best way to get nest egg\n\n\nis to save your chicken feed!",
+            "article": "Save at the Volley-We pay 3h3O daily interest on new\nuvngs deposits 40 on deposits left in the bank full year,\nLittle things add to be lot Just tor\nexample, change have left the end of the day\nchicken feed saved nothing but these small\nValley Bank savings account you'd have\ngood sized nest egg.\n\n\nwithout Valley Bank savings account because\ncan lay your hands lump to then why\nthousands of other Valley do: peck away at\nsavings account by saving your chicken feed\n\n\nfood for thought, isn't it",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2129,
+                    "y0": 3446,
+                    "x1": 4308,
+                    "y1": 3808
+                },
+                {
+                    "x0": 2158,
+                    "y0": 3830,
+                    "x1": 4290,
+                    "y1": 4868
+                }
+            ],
+            "bbox": [
+                2129,
+                3446,
+                4308,
+                4868
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        },
+        {
+            "object_ids": [
+                20,
+                16
+            ],
+            "headline": "",
+            "article": "Medallion Social and Civic Club held It's install\naton dinner meeting Smokehouse Restaurant Friday\n\n\nNew officers pictured in the top photograph From lett\nare Opal Crimes PRESIDENT Eloise MCreay secre\ntary Dolly Boyer Gloria Evans treasurer ee BROOKS\nJulie Engram. asst. secretary.\n\n\nOutgoing officers shown in second photo include Nesdames\nJones' Yvonne Huff PRESIDENT Bete Oos wee\nPRESIDENT Daher secretary and Betty Young reporter",
+            "byline": "lvic Club held It's install",
+            "bbox_list": [
+                {
+                    "x0": 3847,
+                    "y0": 2846,
+                    "x1": 4424,
+                    "y1": 2906
+                },
+                {
+                    "x0": 2787,
+                    "y0": 2858,
+                    "x1": 4453,
+                    "y1": 3389
+                }
+            ],
+            "bbox": [
+                2787,
+                2846,
+                4453,
+                3389
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        },
+        {
+            "object_ids": [
+                19,
+                17
+            ],
+            "headline": "SARWARk\n\n\nMOTOR SALES\n1910 (. VAN buren,",
+            "article": "IOIV Z. VAN DUKEV\n\n\nAL 8-6O71\nWe CARRY OUR OWN CONTRACTS\nOVER 200 CARS TO CHOOSE FROM\nSO CADILLAC COUPE DE VILE FACT. REFG. i\n\n\n$3.50 DOWN .......... .Sl4So\nso CORVAIR SEDAN $685.\nso CHEW. We TUDOR STICK ..... $500\nSO CHEW. IMPALA H/REFRIG. .....s4ss\n81 oLDs. SO CONVERTIBLE ........ 1888\nSO BUICK RIVIERA COUPE ALSO\n81 BUICK RIVIERA COUPE, FACT. REFRIG.\n\n\n$500 DOWN DELIVERS EITHER ONE\n81 CORVAIR NIONZA COUPE\n\n\n4SPEED TRANS. ...... 1888\n81 CHEW. STATION WAGON\n\n\nR/H- STICK ..............$3 $500\n81 CADILLAC CONVERTIBLE, FULLY\nEQUIPPED INCLUDING FACTORY\nREFRIGERATION, VERY LOW\n\n\nMILEAGE CAR ................$2995\n81 CADILLAC COUPE DE VILE ALSO\n81 CADILLACE COUPE DE VILE BOTH\nEQUIPPED WITH FACTORY REFRIG.\n\n\n$3.50 DOWN DELIVERS.\nIS CHEVROLET SUPER SPORT HARDTOP\nCOUPE : SPEED TRANSMISSION\n\n\n$3.50 DOWN DELIVERS.\nx sARWARK n\nMOTOR SALES\n1910 {. VAN buren, AL 8-607l\nCREDIT NO PROBLEM\n: WE CARRY OUR OWN CONTRACTS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 406,
+                    "y0": 3068,
+                    "x1": 1583,
+                    "y1": 3657
+                },
+                {
+                    "x0": 156,
+                    "y0": 3568,
+                    "x1": 1793,
+                    "y1": 7103
+                }
+            ],
+            "bbox": [
+                156,
+                3068,
+                1793,
+                7103
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-10-02_p1_sn84021918_0041421695A_1964100201_0569.json"
+        }
+    ]
+}

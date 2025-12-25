@@ -1,0 +1,210 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082101/0521.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7417,
+        "width": 4896
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 217,
+                "y0": 2051,
+                "x1": 1910,
+                "y1": 2486
+            },
+            "class": "article",
+            "raw_text": "MEN OF THE YEAR Maricopa County Attorney Charles NJ\nQefD and Pima County Sheriff Walden \" Burr admire\nplaques they Arizona County Attorneys and Sheriff\nbeing an in their\n\n\ncapacities Roman cited for his ceaseess interest\nstatewide legal problems Burr for his Of\nsolution of a number of unusual criminal cases.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 924,
+                "y0": 4218,
+                "x1": 2240,
+                "y1": 5152
+            },
+            "class": "article",
+            "raw_text": "Here's Worlds Fair cooking demonstration everyone\nattend It's being held at the Gas Appliance Show\ncase Chris Town. Watch live demonstrations and re-\nceive valuable tips the preparation of dishes from\naround the world Learn how easy it is to cook with\ndependable gas. Free recipes and samples of world\nfamous foods will be given away\n\n\nYou will why $3.50 of the cooking at the New\nYork Worlds Fair is done with gas and no wonder\n\n\nthe worlds finest chefs agree it cooks best Witness\nsmokeless broilng, instant on-of response and COM\npetey adjustable flame for expert cooking results See\nand compare 10 famousna brands of gas ovens and\nranges during this foreign cooking spree the\nWorlds Fair of Gas Cooking",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 286,
+                "y0": 3123,
+                "x1": 2657,
+                "y1": 4091
+            },
+            "class": "headline",
+            "raw_text": "&. ,.,.. &C.,.\n\n\n\" Worlds Fair.\nOf Gas Cooking",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 205,
+                "y0": 2578,
+                "x1": 1023,
+                "y1": 2996
+            },
+            "class": "article",
+            "raw_text": "JACKSON, Miss. Two white\nmen we're arrested for shooting\na Negro. Willie Guynes, Is. He\nwas not injured seriously.\n\n\nMarcus Perkins and D. ]. Haw-\nkins, both 20, we're arrested by\npolice.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1086,
+                "y0": 2584,
+                "x1": 1898,
+                "y1": 2944
+            },
+            "class": "article",
+            "raw_text": "Several crossburnings we're\nreported in Jackson and a white\ncivil rights worker from New\nYork, Phillip Hooker, lo, was\nbeaten by a young man with a\nbaseball bat.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-08-21"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "MEN OF THE YEAR Maricopa County Attorney Charles NJ\nQefD and Pima County Sheriff Walden \" Burr admire\nplaques they Arizona County Attorneys and Sheriff\nbeing an in their\n\n\ncapacities Roman cited for his ceaseess interest\nstatewide legal problems Burr for his Of\nsolution of a number of unusual criminal cases.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 217,
+                    "y0": 2051,
+                    "x1": 1910,
+                    "y1": 2486
+                }
+            ],
+            "bbox": [
+                217,
+                2051,
+                1910,
+                2486
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-21_p1_sn84021918_0041421695A_1964082101_0521.json"
+        },
+        {
+            "object_ids": [
+                14,
+                10
+            ],
+            "headline": "&. ,.,.. &C.,.\n\n\n\" Worlds Fair.\nOf Gas Cooking",
+            "article": "Here's Worlds Fair cooking demonstration everyone\nattend It's being held at the Gas Appliance Show\ncase Chris Town. Watch live demonstrations and re-\nceive valuable tips the preparation of dishes from\naround the world Learn how easy it is to cook with\ndependable gas. Free recipes and samples of world\nfamous foods will be given away\n\n\nYou will why $3.50 of the cooking at the New\nYork Worlds Fair is done with gas and no wonder\n\n\nthe worlds finest chefs agree it cooks best Witness\nsmokeless broilng, instant on-of response and COM\npetey adjustable flame for expert cooking results See\nand compare 10 famousna brands of gas ovens and\nranges during this foreign cooking spree the\nWorlds Fair of Gas Cooking",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 286,
+                    "y0": 3123,
+                    "x1": 2657,
+                    "y1": 4091
+                },
+                {
+                    "x0": 924,
+                    "y0": 4218,
+                    "x1": 2240,
+                    "y1": 5152
+                }
+            ],
+            "bbox": [
+                286,
+                3123,
+                2657,
+                5152
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-08-21_p1_sn84021918_0041421695A_1964082101_0521.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "JACKSON, Miss. Two white\nmen we're arrested for shooting\na Negro. Willie Guynes, Is. He\nwas not injured seriously.\n\n\nMarcus Perkins and D. ]. Haw-\nkins, both 20, we're arrested by\npolice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 205,
+                    "y0": 2578,
+                    "x1": 1023,
+                    "y1": 2996
+                }
+            ],
+            "bbox": [
+                205,
+                2578,
+                1023,
+                2996
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-21_p1_sn84021918_0041421695A_1964082101_0521.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Several crossburnings we're\nreported in Jackson and a white\ncivil rights worker from New\nYork, Phillip Hooker, lo, was\nbeaten by a young man with a\nbaseball bat.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1086,
+                    "y0": 2584,
+                    "x1": 1898,
+                    "y1": 2944
+                }
+            ],
+            "bbox": [
+                1086,
+                2584,
+                1898,
+                2944
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-08-21_p1_sn84021918_0041421695A_1964082101_0521.json"
+        }
+    ]
+}

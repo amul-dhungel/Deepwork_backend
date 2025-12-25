@@ -1,0 +1,248 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4906,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0487.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 992,
+                "y0": 2288,
+                "x1": 1810,
+                "y1": 3372
+            },
+            "class": "article",
+            "raw_text": "1.-THE Galahads\" comedy folk\nsingers, return to Arizona for a\nlimited engagement at Legend\nCity amusement park.\n\n\nThe five-man act will appear\nnightly, except Monday, at Legend\nCity's Golden Palace saloon. The\nfive Valley boys who make up the\nact are Comic Jack Poe, Bramlet,\nGeorge Cox, Bill Nelson and Tom\nScotch.\n\n\nIn addition to recent nightclub\nengagements. they have just COM\npleted national tour with Jack\nLinkletter' Hootenanny Show,\nplaying to Runaway crowds in\nNew Orleans, Dallas, Reno, Las\nVegas and Hollywood.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1010,
+                "y0": 2027,
+                "x1": 1579,
+                "y1": 2260
+            },
+            "class": "headline",
+            "raw_text": "CuIuhuds At\nLegend City",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1879,
+                "y0": 1703,
+                "x1": 2697,
+                "y1": 3413
+            },
+            "class": "article",
+            "raw_text": "Whitney M. Young, Jr., became\nExecutive Director of the Ma\ntional Urban League on Octo-\nDer l, 1861. He was formerly\nDean of the Atlanta University\nSchool of Social Work 1854\n1861.\n\n\nHe did his undergraduate work\nat Kentucky State College; his\ngraduate work at Massachusetts\nInstitute of Technology and the\nUniversity of MINES ota, at which\nlatter institution he received his\nMasters Degree in social work\nin 1o47. During the academic\nyear lo60-6l he was visiting\nscholar at Harvard under a spe-\ncial Rockefeller grant.\n\n\nFor three years he has Indus\ntrial Relations Secretary of the\nSt. Paul Urban League and from\n1850 to 1854 was Executive Sec\nrotary of the Omaha Urban\nLeague. He has also been on the\nfaculty of St. Catherine S College\nin St. Paul, the School of Social\nWork of the University of Ne\nbraska and Creighton University\nat Omaha.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 100,
+                "y0": 2201,
+                "x1": 918,
+                "y1": 3042
+            },
+            "class": "article",
+            "raw_text": "A Women Auxiliary of the | C.\nHomes Unit of the Boys Clubs\nof Phoenix was recently organ\nlied. Don Will, unit director, ex-\nplanned to the ladies the func-\nlions of Women's Auxiliary and\nthe benefit they can be to the Boys\nClub.\n\n\nOfficers we're elected; Mrs.\nSadie Harvey. President; Mrs.\nSessions, Secretary: Mrs. Erris\nHarvey, Treasurer. The group\nwill meet the third Wednesday of\neach month.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 118,
+                "y0": 1975,
+                "x1": 837,
+                "y1": 2173
+            },
+            "class": "headline",
+            "raw_text": "Auxiliary Formed\nAt Homes Boys Club",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 4909,
+                "y0": 411,
+                "x1": 6167,
+                "y1": 5603
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2777,
+                "y0": 3140,
+                "x1": 3021,
+                "y1": 3210
+            },
+            "class": "article",
+            "raw_text": "Mut Graham\n\n\nMAYOR",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964073101_0487",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "CuIuhuds At\nLegend City",
+            "article": "1.-THE Galahads\" comedy folk\nsingers, return to Arizona for a\nlimited engagement at Legend\nCity amusement park.\n\n\nThe five-man act will appear\nnightly, except Monday, at Legend\nCity's Golden Palace saloon. The\nfive Valley boys who make up the\nact are Comic Jack Poe, Bramlet,\nGeorge Cox, Bill Nelson and Tom\nScotch.\n\n\nIn addition to recent nightclub\nengagements. they have just COM\npleted national tour with Jack\nLinkletter' Hootenanny Show,\nplaying to Runaway crowds in\nNew Orleans, Dallas, Reno, Las\nVegas and Hollywood.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1010,
+                    "y0": 2027,
+                    "x1": 1579,
+                    "y1": 2260
+                },
+                {
+                    "x0": 992,
+                    "y0": 2288,
+                    "x1": 1810,
+                    "y1": 3372
+                }
+            ],
+            "bbox": [
+                992,
+                2027,
+                1810,
+                3372
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_pna_sn84021918_0041421695A_1964073101_0487.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Whitney M. Young, Jr., became\nExecutive Director of the Ma\ntional Urban League on Octo-\nDer l, 1861. He was formerly\nDean of the Atlanta University\nSchool of Social Work 1854\n1861.\n\n\nHe did his undergraduate work\nat Kentucky State College; his\ngraduate work at Massachusetts\nInstitute of Technology and the\nUniversity of MINES ota, at which\nlatter institution he received his\nMasters Degree in social work\nin 1o47. During the academic\nyear lo60-6l he was visiting\nscholar at Harvard under a spe-\ncial Rockefeller grant.\n\n\nFor three years he has Indus\ntrial Relations Secretary of the\nSt. Paul Urban League and from\n1850 to 1854 was Executive Sec\nrotary of the Omaha Urban\nLeague. He has also been on the\nfaculty of St. Catherine S College\nin St. Paul, the School of Social\nWork of the University of Ne\nbraska and Creighton University\nat Omaha.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1879,
+                    "y0": 1703,
+                    "x1": 2697,
+                    "y1": 3413
+                }
+            ],
+            "bbox": [
+                1879,
+                1703,
+                2697,
+                3413
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_pna_sn84021918_0041421695A_1964073101_0487.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "Auxiliary Formed\nAt Homes Boys Club",
+            "article": "A Women Auxiliary of the | C.\nHomes Unit of the Boys Clubs\nof Phoenix was recently organ\nlied. Don Will, unit director, ex-\nplanned to the ladies the func-\nlions of Women's Auxiliary and\nthe benefit they can be to the Boys\nClub.\n\n\nOfficers we're elected; Mrs.\nSadie Harvey. President; Mrs.\nSessions, Secretary: Mrs. Erris\nHarvey, Treasurer. The group\nwill meet the third Wednesday of\neach month.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 118,
+                    "y0": 1975,
+                    "x1": 837,
+                    "y1": 2173
+                },
+                {
+                    "x0": 100,
+                    "y0": 2201,
+                    "x1": 918,
+                    "y1": 3042
+                }
+            ],
+            "bbox": [
+                100,
+                1975,
+                918,
+                3042
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-31_pna_sn84021918_0041421695A_1964073101_0487.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Mut Graham\n\n\nMAYOR",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2777,
+                    "y0": 3140,
+                    "x1": 3021,
+                    "y1": 3210
+                }
+            ],
+            "bbox": [
+                2777,
+                3140,
+                3021,
+                3210
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-07-31_pna_sn84021918_0041421695A_1964073101_0487.json"
+        }
+    ]
+}

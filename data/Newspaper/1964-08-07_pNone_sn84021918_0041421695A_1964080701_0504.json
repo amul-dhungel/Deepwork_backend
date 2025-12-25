@@ -1,0 +1,394 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-07",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7386,
+        "width": 4874,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-07",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964080701/0504.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3014,
+                "y0": 3652,
+                "x1": 3828,
+                "y1": 4415
+            },
+            "class": "article",
+            "raw_text": "Earl l.. OClair, chief of the\nstate drivers licensing depart\nment, reminded minors they need\nbirth certificates when applying\nfor drivers licenses.\n\n\nBesides birth certificates as\nproof that he is at least Is years\nand seven months of age, an APP\nplicant must have the signatures\nof both of his parents, the 81\nfee for a learners license and\nbe able to pass a vision test\nand written test on Arizona laws.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3902,
+                "y0": 3646,
+                "x1": 4711,
+                "y1": 4415
+            },
+            "class": "article",
+            "raw_text": "The parents must sign the ap-\nplication before a notary or a\ndrivers license examiner.\n\n\nIf the applicant has but one\nparent or a legal guardian, the\nsignature Of the one parent Is\nacceptable. But the court order\nverifying guardianship must be\nshown as proof of legal guar\ndianship, O'Clair said.\n\n\nApplicants l8 years old or\nolder do not need parental con-\nsent.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3019,
+                "y0": 3462,
+                "x1": 4013,
+                "y1": 3630
+            },
+            "class": "headline",
+            "raw_text": "Minors Need Birth Certificates\nfor Drivers licenses",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 319,
+                "y0": 2510,
+                "x1": 1133,
+                "y1": 2926
+            },
+            "class": "article",
+            "raw_text": "DENVER Secretary Of the\nInterior Stewart l.. Udall told the\nNational Association of Colored\nWomen's Clubs that conditions\nin Harlem are in part due to the\npast failures in white correct\nand wise use of envir onment.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1213,
+                "y0": 2463,
+                "x1": 2034,
+                "y1": 2920
+            },
+            "class": "article",
+            "raw_text": "At the groups national con-\nvention where he was cited for his\nefforts to make the home of\nFrederick Douglass a national\nshrine, Udall said the congestion\nof the cities and ugliness we're\nto be blamed also in todays\nstrife.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 625,
+                "y0": 2354,
+                "x1": 1728,
+                "y1": 2453
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2108,
+                "y0": 2648,
+                "x1": 2928,
+                "y1": 2886
+            },
+            "class": "article",
+            "raw_text": "Hills Phoenician Beauty Shop\n2ll0 E. letters on, will be closed\nMondays and Tuesdays until\nSeptember.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2125,
+                "y0": 2452,
+                "x1": 2645,
+                "y1": 2626
+            },
+            "class": "headline",
+            "raw_text": "New Hours\n\n\nfor Hills Salon",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2119,
+                "y0": 2140,
+                "x1": 2934,
+                "y1": 2430
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Leon Jordan and\nfamily have returned from Den\nYER, Colorado, where he attended\nsummer school under a National\nScience Foundation grant.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2142,
+                "y0": 1967,
+                "x1": 2645,
+                "y1": 2124
+            },
+            "class": "headline",
+            "raw_text": "Jorduns Return\nfrom Denver",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1398,
+                "y0": 605,
+                "x1": 1710,
+                "y1": 681
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 809,
+                "y0": 415,
+                "x1": 2420,
+                "y1": 583
+            },
+            "class": "headline",
+            "raw_text": "Teen Hop Held at WV Club",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 4900,
+                "y0": 461,
+                "x1": 6136,
+                "y1": 5742
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964080701_0504",
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "Earl l.. OClair, chief of the\nstate drivers licensing depart\nment, reminded minors they need\nbirth certificates when applying\nfor drivers licenses.\n\n\nBesides birth certificates as\nproof that he is at least Is years\nand seven months of age, an APP\nplicant must have the signatures\nof both of his parents, the 81\nfee for a learners license and\nbe able to pass a vision test\nand written test on Arizona laws.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3014,
+                    "y0": 3652,
+                    "x1": 3828,
+                    "y1": 4415
+                }
+            ],
+            "bbox": [
+                3014,
+                3652,
+                3828,
+                4415
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-07_pna_sn84021918_0041421695A_1964080701_0504.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "Minors Need Birth Certificates\nfor Drivers licenses",
+            "article": "The parents must sign the ap-\nplication before a notary or a\ndrivers license examiner.\n\n\nIf the applicant has but one\nparent or a legal guardian, the\nsignature Of the one parent Is\nacceptable. But the court order\nverifying guardianship must be\nshown as proof of legal guar\ndianship, O'Clair said.\n\n\nApplicants l8 years old or\nolder do not need parental con-\nsent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3019,
+                    "y0": 3462,
+                    "x1": 4013,
+                    "y1": 3630
+                },
+                {
+                    "x0": 3902,
+                    "y0": 3646,
+                    "x1": 4711,
+                    "y1": 4415
+                }
+            ],
+            "bbox": [
+                3019,
+                3462,
+                4711,
+                4415
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-07_pna_sn84021918_0041421695A_1964080701_0504.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "DENVER Secretary Of the\nInterior Stewart l.. Udall told the\nNational Association of Colored\nWomen's Clubs that conditions\nin Harlem are in part due to the\npast failures in white correct\nand wise use of envir onment.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 319,
+                    "y0": 2510,
+                    "x1": 1133,
+                    "y1": 2926
+                }
+            ],
+            "bbox": [
+                319,
+                2510,
+                1133,
+                2926
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-07_pna_sn84021918_0041421695A_1964080701_0504.json"
+        },
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "",
+            "article": "At the groups national con-\nvention where he was cited for his\nefforts to make the home of\nFrederick Douglass a national\nshrine, Udall said the congestion\nof the cities and ugliness we're\nto be blamed also in todays\nstrife.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 625,
+                    "y0": 2354,
+                    "x1": 1728,
+                    "y1": 2453
+                },
+                {
+                    "x0": 1213,
+                    "y0": 2463,
+                    "x1": 2034,
+                    "y1": 2920
+                }
+            ],
+            "bbox": [
+                625,
+                2354,
+                2034,
+                2920
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-07_pna_sn84021918_0041421695A_1964080701_0504.json"
+        },
+        {
+            "object_ids": [
+                6,
+                7
+            ],
+            "headline": "New Hours\n\n\nfor Hills Salon",
+            "article": "Hills Phoenician Beauty Shop\n2ll0 E. letters on, will be closed\nMondays and Tuesdays until\nSeptember.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2125,
+                    "y0": 2452,
+                    "x1": 2645,
+                    "y1": 2626
+                },
+                {
+                    "x0": 2108,
+                    "y0": 2648,
+                    "x1": 2928,
+                    "y1": 2886
+                }
+            ],
+            "bbox": [
+                2108,
+                2452,
+                2928,
+                2886
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-07_pna_sn84021918_0041421695A_1964080701_0504.json"
+        },
+        {
+            "object_ids": [
+                13,
+                11
+            ],
+            "headline": "Jorduns Return\nfrom Denver",
+            "article": "Mr.. and Mrs. Leon Jordan and\nfamily have returned from Den\nYER, Colorado, where he attended\nsummer school under a National\nScience Foundation grant.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2142,
+                    "y0": 1967,
+                    "x1": 2645,
+                    "y1": 2124
+                },
+                {
+                    "x0": 2119,
+                    "y0": 2140,
+                    "x1": 2934,
+                    "y1": 2430
+                }
+            ],
+            "bbox": [
+                2119,
+                1967,
+                2934,
+                2430
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-07_pna_sn84021918_0041421695A_1964080701_0504.json"
+        }
+    ]
+}

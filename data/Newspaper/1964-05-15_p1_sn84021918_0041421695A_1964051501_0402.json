@@ -1,0 +1,186 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964051501/0402.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4786
+    },
+    "bboxes": [
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2965,
+                "y0": 4663,
+                "x1": 4638,
+                "y1": 5023
+            },
+            "class": "article",
+            "raw_text": "PBSW Ramblers opened their sob schedule in the Pacific\nCoast League.\n\n\nThe fvorite player Dot Wilkinson\nwill begin her 3Oh\n\n\nShown left right Thema Keith Billie Harris and Dot\nWilkinson",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 240,
+                "y0": 688,
+                "x1": 1063,
+                "y1": 2043
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON, DC. Four\nmajor industrial firms, two labor\nunions and one Federal agency\nare charged with discriminatory\nemployment practices in a series\nof complaints filed with the Pres\nident's Committee on Equal EN-\nployment Opportunity by the Ma\ntional Association for the Ad-\nvancement of Colored People.\n\n\nNames in the complaints filed\nApril 80 by Herbert Hill, NAACP\nlabor secretary, are the General\nMotors Corporation. the Amer\nlean Viscose Corporation, Owens\nIllinois Forest Products Com\npany, Goodyear Tire and Rubber\nCompany. Textile Workers I'm\nion, AFL-CIO, and the Interna-\ntional Brotherhood Of Pulp. Sui\nphite and Paper Mill Workers\nUnion, AFL-CIO, and the General\nService Administration.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 252,
+                "y0": 399,
+                "x1": 935,
+                "y1": 666
+            },
+            "class": "headline",
+            "raw_text": "4 Firms, z Unions\n\n\nAnd Federal Agency\nCharged With Bios",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 4805,
+                "y0": 457,
+                "x1": 6102,
+                "y1": 5792
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1177,
+                "y0": 1880,
+                "x1": 2874,
+                "y1": 2425
+            },
+            "class": "article",
+            "raw_text": "Dbonars Club started the baseball with $500 contri-\nbttion Julian School Boosters Club.\n\n\nFrom left Mrs. Helen Miller Mr. Ted A. Edwards Boosters\ntreasurer, Mrs. Coleman Mrs. Demetra Vann.\n\n\nLittle League sponsored the Julian School\nplayground and they have been asking for support from\nan the\n\n\nDebonars PRESIDENT Mrs. Coleman is secretary\nnd Mrs. Miller is the social chairman.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-15"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "PBSW Ramblers opened their sob schedule in the Pacific\nCoast League.\n\n\nThe fvorite player Dot Wilkinson\nwill begin her 3Oh\n\n\nShown left right Thema Keith Billie Harris and Dot\nWilkinson",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2965,
+                    "y0": 4663,
+                    "x1": 4638,
+                    "y1": 5023
+                }
+            ],
+            "bbox": [
+                2965,
+                4663,
+                4638,
+                5023
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-05-15_p1_sn84021918_0041421695A_1964051501_0402.json"
+        },
+        {
+            "object_ids": [
+                4,
+                1
+            ],
+            "headline": "4 Firms, z Unions\n\n\nAnd Federal Agency\nCharged With Bios",
+            "article": "WASHINGTON, DC. Four\nmajor industrial firms, two labor\nunions and one Federal agency\nare charged with discriminatory\nemployment practices in a series\nof complaints filed with the Pres\nident's Committee on Equal EN-\nployment Opportunity by the Ma\ntional Association for the Ad-\nvancement of Colored People.\n\n\nNames in the complaints filed\nApril 80 by Herbert Hill, NAACP\nlabor secretary, are the General\nMotors Corporation. the Amer\nlean Viscose Corporation, Owens\nIllinois Forest Products Com\npany, Goodyear Tire and Rubber\nCompany. Textile Workers I'm\nion, AFL-CIO, and the Interna-\ntional Brotherhood Of Pulp. Sui\nphite and Paper Mill Workers\nUnion, AFL-CIO, and the General\nService Administration.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 252,
+                    "y0": 399,
+                    "x1": 935,
+                    "y1": 666
+                },
+                {
+                    "x0": 240,
+                    "y0": 688,
+                    "x1": 1063,
+                    "y1": 2043
+                }
+            ],
+            "bbox": [
+                240,
+                399,
+                1063,
+                2043
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-15_p1_sn84021918_0041421695A_1964051501_0402.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Dbonars Club started the baseball with $500 contri-\nbttion Julian School Boosters Club.\n\n\nFrom left Mrs. Helen Miller Mr. Ted A. Edwards Boosters\ntreasurer, Mrs. Coleman Mrs. Demetra Vann.\n\n\nLittle League sponsored the Julian School\nplayground and they have been asking for support from\nan the\n\n\nDebonars PRESIDENT Mrs. Coleman is secretary\nnd Mrs. Miller is the social chairman.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1177,
+                    "y0": 1880,
+                    "x1": 2874,
+                    "y1": 2425
+                }
+            ],
+            "bbox": [
+                1177,
+                1880,
+                2874,
+                2425
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-15_p1_sn84021918_0041421695A_1964051501_0402.json"
+        }
+    ]
+}

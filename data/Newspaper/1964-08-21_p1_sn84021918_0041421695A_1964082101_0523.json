@@ -1,0 +1,619 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082101/0523.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4920
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 1990,
+                "y0": 5941,
+                "x1": 2611,
+                "y1": 6076
+            },
+            "class": "article",
+            "raw_text": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1984,
+                "y0": 5524,
+                "x1": 2814,
+                "y1": 5716
+            },
+            "class": "article",
+            "raw_text": "JACkSON'S BEAUTY SHOPPE\n1898 E. Madison\nAL 2-954i",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3764,
+                "y0": 637,
+                "x1": 4594,
+                "y1": 3253
+            },
+            "class": "article",
+            "raw_text": "Representatives of William\nPatterson Lodge and Grand\nCanyon Temple who left Tuesday\nto attend the grand lodge in\nMiami, Florida are Isiah Ward.\nexalted ruler: Ruby Blackshear,\ndaughter ruler; Kermit eagle,\nJames McElroy, Maple Lee\nPratt, grand district deputies;\nEsther McElroy. loyal DIT. ruler:\nNorris Woods, house chairman:\nFelix Raney, member, former\nresident of Yuma and Howard\nKirk, 9TH regional oratorical win\nner. Howard will compete in the\ngrand lodge contest. also.\n\n\nEveryone is invited to come\nout and hear our new band led\nby Richard Clark. Players In\nclude Charlie Lewis, Dave Cook\nand Dave Phillips.\n\n\nOur new bartenders are Alfred\n\"Piggie\" Woodbridge and Joseph\nFord.\n\n\nAug. I'll Elks bowlers are\nspoons oring a Beatnik Dance do\nnation ST..\n\n\nClarence Marsell is home re-\ncuperating. His address is 2lo\nw. Sherman.\n\n\nDIT. Elizabeth Turner is re-\ncuperating at her daughters\nhome, 1902 S. 10th St.\n\n\nBro. Charles Patterson and his\nwife, Lillian, are both i'll at home,\nl407 E. Coronado.\n\n\nFinal rites are pending for\nCharlie Massey, who passed away\nAug. II at Fort Whipple.\n\n\nFirst President chosen by a\nnational convention. Andrew\nJacks on.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3804,
+                "y0": 428,
+                "x1": 4362,
+                "y1": 621
+            },
+            "class": "headline",
+            "raw_text": "EIks Corner\nC. McCLAMMY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1103,
+                "y0": 620,
+                "x1": 1939,
+                "y1": 2284
+            },
+            "class": "article",
+            "raw_text": "Mrs. Alwortha Carter,\ndaughter of Mr.. and Mrs. Leonard\nStevens, 9l7 w. Grant, recently\nreturned to her home in Rome,\nMY.\n\n\nShe had spent a month with\nher parents.\n\n\nJohn A. Henry, 1896 S. 10Th\nST., left Sunday to attend the\nOmega Denver grand conclave,\nAug. 1920.\n\n\nSolomon Freliz has returned\nfrom an extended vacatin in Den\nyer. He visited Mr.. and Mrs.\nIsaac Moore.\n\n\nDR.. and Mrs. David NJ. Solomon\nplaned to Denver to attend the\ngrand conclave of the Omeg Psi\nPhi fraternity.\n\n\nWalter Venerable and his two\nsons, Michael and Walter, spent\nfive days camping at Grand Can\nyon National Park.\n\n\nMr.. and Mrs. Lafayette\nWinrow and family will vacation\nat San Diego before school re-\nopens.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1109,
+                "y0": 469,
+                "x1": 1910,
+                "y1": 592
+            },
+            "class": "headline",
+            "raw_text": "Coming And Going",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2883,
+                "y0": 2434,
+                "x1": 3701,
+                "y1": 3264
+            },
+            "class": "article",
+            "raw_text": "The reports agreed that Miss\nMoreno is able to understand the\nnature of the charges against\nher.\n\n\nMiss Moreno is charged with\nthe butcher-knife Staying Sept.\n10, 1868, of Grady (2X) Holly,\nIs, of 1886 w. Madison, outside\nmarket at e46 W. Buckeye\nRoad.\n\n\nHolly was known as TX in the\nBlack Muslins, Negro group\nwhich advocates complete sep\naration of black and white races.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 210,
+                "y0": 3072,
+                "x1": 1029,
+                "y1": 4035
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Led by Tom\nSkinner, an evangelist, IS Negro\nchurches have called for mass\nmeeting to act against violence\nand hatred.\n\n\nThe churches of nine Protes-\ntant denominations want to CO.\nordinate efforts of those Har-\nlemites who want to end the\nriots, and vandalism which has\nbeen happening recently.\n\n\nSkinner, ~ yr. old son of a\nBaptist minister, asked for 100\npeople to volunteer for a moral\nand spiritual revolution in\nHarlem, not for armed ones.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 210,
+                "y0": 2840,
+                "x1": 785,
+                "y1": 3038
+            },
+            "class": "headline",
+            "raw_text": "Harlem Churches\nWork for Peace",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 199,
+                "y0": 1901,
+                "x1": 1017,
+                "y1": 2795
+            },
+            "class": "article",
+            "raw_text": "A woman's legs are one of the\nmost observed parts of her body.\nAS a result it is very important\nthat they should be well-groomed\nat all times.\n\n\nWhether at home or on a trip,\ngood grooming is pleasure with\nnew ultra smooth Cosmetic Shv-\ning Creme by Clairol. The aqua\nand white container has an over\nsize cap enabling you to stand\nthe tube on end. Clairol shaving\ncreme adds new silky COM\nplexion to your legs. It's great\nfor underarms, too.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1103,
+                "y0": 2492,
+                "x1": 1933,
+                "y1": 4058
+            },
+            "class": "article",
+            "raw_text": "BILOXI, Miss. Several Negro\nchildren registered quietly at\nformerly segregated school for\nwhites. They we're the first\nNegroes to be integrated in a\nschool below the college level in\nMississippi.\n\n\nA heavy guard of FBI agents\nand local police we're on hand.\n\n\nBiloxi is desegregating its first\ngrade under federal court\norder.\n\n\nJOB OPPORTUNITIES\nCity of Phoenix Apply at Isl\nWest Washington\nLibrary Clerk $2l6-276 month\nWater Meter Repairman $685.\n$440 month\n\n\nCashier II (male only) $294-38O\nmonth\n\n\nPolice Communications Dis\npatcher 1924 42O month\nFirst President to live in the\nWhite House John Adams.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1120,
+                "y0": 2301,
+                "x1": 1771,
+                "y1": 2476
+            },
+            "class": "headline",
+            "raw_text": "Negroes Enter\n\n\nlst grade in Miss.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2007,
+                "y0": 2637,
+                "x1": 2826,
+                "y1": 3479
+            },
+            "class": "article",
+            "raw_text": "Ramona Tapio Moreno, %, who\nis charged with the fatal stabbing\nof Negro, is legally sane and\nwill stand trial for murder Sept.\ns.\n\n\nSuperior Court Judge William\nA. Holohan ruled Miss Moreno,\n1906 w. Grant, is mentally able\nto assist an attorney in her own\ndefense.\n\n\nJudge Holohan ruled after\nhearing reports of two Phoenix\npsychiatrists, DR.. Paul Bin\ndelglas and DR.. Carl Breimer.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2036,
+                "y0": 2405,
+                "x1": 2484,
+                "y1": 2597
+            },
+            "class": "headline",
+            "raw_text": "Moreno Trial\nSet Sept. 8",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2007,
+                "y0": 6405,
+                "x1": 2826,
+                "y1": 6777
+            },
+            "class": "article",
+            "raw_text": "FOR RENT\n\n\n2 bedrm., new apis. coolers, built\nin range /oven. See resident mgr.\n6o32 S. 22nd St. & Vineyard\nApt. 4: $3.50 including free\nwater, 276-825O.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1097,
+                "y0": 3924,
+                "x1": 1921,
+                "y1": 4058
+            },
+            "class": "article",
+            "raw_text": "First President to live in the\nWhite House = John Adams.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1126,
+                "y0": 3211,
+                "x1": 1788,
+                "y1": 3293
+            },
+            "class": "headline",
+            "raw_text": "JOB OPPORTUNITIES",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1990,
+                "y0": 5762,
+                "x1": 2588,
+                "y1": 5902
+            },
+            "class": "article",
+            "raw_text": "j & M BARBER SHOP\n1906 W. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-08-21"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1990,
+                    "y0": 5941,
+                    "x1": 2611,
+                    "y1": 6076
+                }
+            ],
+            "bbox": [
+                1990,
+                5941,
+                2611,
+                6076
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "JACkSON'S BEAUTY SHOPPE\n1898 E. Madison\nAL 2-954i",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1984,
+                    "y0": 5524,
+                    "x1": 2814,
+                    "y1": 5716
+                }
+            ],
+            "bbox": [
+                1984,
+                5524,
+                2814,
+                5716
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "EIks Corner\nC. McCLAMMY",
+            "article": "Representatives of William\nPatterson Lodge and Grand\nCanyon Temple who left Tuesday\nto attend the grand lodge in\nMiami, Florida are Isiah Ward.\nexalted ruler: Ruby Blackshear,\ndaughter ruler; Kermit eagle,\nJames McElroy, Maple Lee\nPratt, grand district deputies;\nEsther McElroy. loyal DIT. ruler:\nNorris Woods, house chairman:\nFelix Raney, member, former\nresident of Yuma and Howard\nKirk, 9TH regional oratorical win\nner. Howard will compete in the\ngrand lodge contest. also.\n\n\nEveryone is invited to come\nout and hear our new band led\nby Richard Clark. Players In\nclude Charlie Lewis, Dave Cook\nand Dave Phillips.\n\n\nOur new bartenders are Alfred\n\"Piggie\" Woodbridge and Joseph\nFord.\n\n\nAug. I'll Elks bowlers are\nspoons oring a Beatnik Dance do\nnation ST..\n\n\nClarence Marsell is home re-\ncuperating. His address is 2lo\nw. Sherman.\n\n\nDIT. Elizabeth Turner is re-\ncuperating at her daughters\nhome, 1902 S. 10th St.\n\n\nBro. Charles Patterson and his\nwife, Lillian, are both i'll at home,\nl407 E. Coronado.\n\n\nFinal rites are pending for\nCharlie Massey, who passed away\nAug. II at Fort Whipple.\n\n\nFirst President chosen by a\nnational convention. Andrew\nJacks on.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3804,
+                    "y0": 428,
+                    "x1": 4362,
+                    "y1": 621
+                },
+                {
+                    "x0": 3764,
+                    "y0": 637,
+                    "x1": 4594,
+                    "y1": 3253
+                }
+            ],
+            "bbox": [
+                3764,
+                428,
+                4594,
+                3253
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                19,
+                3
+            ],
+            "headline": "Coming And Going",
+            "article": "Mrs. Alwortha Carter,\ndaughter of Mr.. and Mrs. Leonard\nStevens, 9l7 w. Grant, recently\nreturned to her home in Rome,\nMY.\n\n\nShe had spent a month with\nher parents.\n\n\nJohn A. Henry, 1896 S. 10Th\nST., left Sunday to attend the\nOmega Denver grand conclave,\nAug. 1920.\n\n\nSolomon Freliz has returned\nfrom an extended vacatin in Den\nyer. He visited Mr.. and Mrs.\nIsaac Moore.\n\n\nDR.. and Mrs. David NJ. Solomon\nplaned to Denver to attend the\ngrand conclave of the Omeg Psi\nPhi fraternity.\n\n\nWalter Venerable and his two\nsons, Michael and Walter, spent\nfive days camping at Grand Can\nyon National Park.\n\n\nMr.. and Mrs. Lafayette\nWinrow and family will vacation\nat San Diego before school re-\nopens.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1109,
+                    "y0": 469,
+                    "x1": 1910,
+                    "y1": 592
+                },
+                {
+                    "x0": 1103,
+                    "y0": 620,
+                    "x1": 1939,
+                    "y1": 2284
+                }
+            ],
+            "bbox": [
+                1103,
+                469,
+                1939,
+                2284
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "The reports agreed that Miss\nMoreno is able to understand the\nnature of the charges against\nher.\n\n\nMiss Moreno is charged with\nthe butcher-knife Staying Sept.\n10, 1868, of Grady (2X) Holly,\nIs, of 1886 w. Madison, outside\nmarket at e46 W. Buckeye\nRoad.\n\n\nHolly was known as TX in the\nBlack Muslins, Negro group\nwhich advocates complete sep\naration of black and white races.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2883,
+                    "y0": 2434,
+                    "x1": 3701,
+                    "y1": 3264
+                }
+            ],
+            "bbox": [
+                2883,
+                2434,
+                3701,
+                3264
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "Harlem Churches\nWork for Peace",
+            "article": "NEW YORK Led by Tom\nSkinner, an evangelist, IS Negro\nchurches have called for mass\nmeeting to act against violence\nand hatred.\n\n\nThe churches of nine Protes-\ntant denominations want to CO.\nordinate efforts of those Har-\nlemites who want to end the\nriots, and vandalism which has\nbeen happening recently.\n\n\nSkinner, ~ yr. old son of a\nBaptist minister, asked for 100\npeople to volunteer for a moral\nand spiritual revolution in\nHarlem, not for armed ones.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 210,
+                    "y0": 2840,
+                    "x1": 785,
+                    "y1": 3038
+                },
+                {
+                    "x0": 210,
+                    "y0": 3072,
+                    "x1": 1029,
+                    "y1": 4035
+                }
+            ],
+            "bbox": [
+                210,
+                2840,
+                1029,
+                4035
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "A woman's legs are one of the\nmost observed parts of her body.\nAS a result it is very important\nthat they should be well-groomed\nat all times.\n\n\nWhether at home or on a trip,\ngood grooming is pleasure with\nnew ultra smooth Cosmetic Shv-\ning Creme by Clairol. The aqua\nand white container has an over\nsize cap enabling you to stand\nthe tube on end. Clairol shaving\ncreme adds new silky COM\nplexion to your legs. It's great\nfor underarms, too.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 199,
+                    "y0": 1901,
+                    "x1": 1017,
+                    "y1": 2795
+                }
+            ],
+            "bbox": [
+                199,
+                1901,
+                1017,
+                2795
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                13,
+                18
+            ],
+            "headline": "Negroes Enter\n\n\nlst grade in Miss.",
+            "article": "BILOXI, Miss. Several Negro\nchildren registered quietly at\nformerly segregated school for\nwhites. They we're the first\nNegroes to be integrated in a\nschool below the college level in\nMississippi.\n\n\nA heavy guard of FBI agents\nand local police we're on hand.\n\n\nBiloxi is desegregating its first\ngrade under federal court\norder.\n\n\nJOB OPPORTUNITIES\nCity of Phoenix Apply at Isl\nWest Washington\nLibrary Clerk $2l6-276 month\nWater Meter Repairman $685.\n$440 month\n\n\nCashier II (male only) $294-38O\nmonth\n\n\nPolice Communications Dis\npatcher 1924 42O month\nFirst President to live in the\nWhite House John Adams.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1120,
+                    "y0": 2301,
+                    "x1": 1771,
+                    "y1": 2476
+                },
+                {
+                    "x0": 1103,
+                    "y0": 2492,
+                    "x1": 1933,
+                    "y1": 4058
+                }
+            ],
+            "bbox": [
+                1103,
+                2301,
+                1933,
+                4058
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                12,
+                22
+            ],
+            "headline": "Moreno Trial\nSet Sept. 8",
+            "article": "Ramona Tapio Moreno, %, who\nis charged with the fatal stabbing\nof Negro, is legally sane and\nwill stand trial for murder Sept.\ns.\n\n\nSuperior Court Judge William\nA. Holohan ruled Miss Moreno,\n1906 w. Grant, is mentally able\nto assist an attorney in her own\ndefense.\n\n\nJudge Holohan ruled after\nhearing reports of two Phoenix\npsychiatrists, DR.. Paul Bin\ndelglas and DR.. Carl Breimer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2036,
+                    "y0": 2405,
+                    "x1": 2484,
+                    "y1": 2597
+                },
+                {
+                    "x0": 2007,
+                    "y0": 2637,
+                    "x1": 2826,
+                    "y1": 3479
+                }
+            ],
+            "bbox": [
+                2007,
+                2405,
+                2826,
+                3479
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "FOR RENT\n\n\n2 bedrm., new apis. coolers, built\nin range /oven. See resident mgr.\n6o32 S. 22nd St. & Vineyard\nApt. 4: $3.50 including free\nwater, 276-825O.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2007,
+                    "y0": 6405,
+                    "x1": 2826,
+                    "y1": 6777
+                }
+            ],
+            "bbox": [
+                2007,
+                6405,
+                2826,
+                6777
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                23,
+                27
+            ],
+            "headline": "JOB OPPORTUNITIES",
+            "article": "First President to live in the\nWhite House = John Adams.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1126,
+                    "y0": 3211,
+                    "x1": 1788,
+                    "y1": 3293
+                },
+                {
+                    "x0": 1097,
+                    "y0": 3924,
+                    "x1": 1921,
+                    "y1": 4058
+                }
+            ],
+            "bbox": [
+                1097,
+                3211,
+                1921,
+                4058
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "j & M BARBER SHOP\n1906 W. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1990,
+                    "y0": 5762,
+                    "x1": 2588,
+                    "y1": 5902
+                }
+            ],
+            "bbox": [
+                1990,
+                5762,
+                2588,
+                5902
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-08-21_p1_sn84021918_0041421695A_1964082101_0523.json"
+        }
+    ]
+}

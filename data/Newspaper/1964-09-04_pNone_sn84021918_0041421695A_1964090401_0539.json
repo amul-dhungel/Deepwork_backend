@@ -1,0 +1,567 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-04",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4888,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-04",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964090401/0539.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3712,
+                "y0": 4152,
+                "x1": 4281,
+                "y1": 4403
+            },
+            "class": "article",
+            "raw_text": "HILLS PHOENICIAN\nBEAUTY SHOP\n2110 E. Jeffer son\nAL 3-9989",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3718,
+                "y0": 509,
+                "x1": 4530,
+                "y1": 1918
+            },
+            "class": "article",
+            "raw_text": "Sept. A and Is Temple\nmeeting; Sept. 8 and % Lodge\nmeeting: Sept. ii Bathing\nbeauty, talent and fashion show:\n18th Bowlers Banquet public\ninvited = 81 donation.\n\n\nWe are pleased to see DIT.\nBeatrice Jackson up and around\nsince her accident several\nmonths ago.\n\n\nRemember the sick and aged\nmembers who are not able to\nattend our meetings. Dts. Min\nerva Parker, 808 E. So. 9TH Ave.;\nClara Blackburn, lo3OE. Adams;\nAnnie Dair, 1923 E. Jefferson;\nand Bro. Homer Kennedy l04-l p\nN. 18th St.\n\n\nDIT. Alma Holt has been i'll with\nthe flu.\n\n\nOur delegates have returned\nfrom the Grand Convention in\nMiami Beach, Fla. They we're\ncaught in the hurricane.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3753,
+                "y0": 301,
+                "x1": 4298,
+                "y1": 481
+            },
+            "class": "headline",
+            "raw_text": "EIks Corner\n\n\nC. McCLAMMY",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3724,
+                "y0": 2218,
+                "x1": 4535,
+                "y1": 2926
+            },
+            "class": "article",
+            "raw_text": "A total Of 100 delegates and\nalternates attended the national\nDemocratic convention in Allan\ntic City August 24-28.\n\n\nThey came from 20 states In\nGLIDING some southern areas, in\nGLIDING Georgia.\n\n\nMrs. Marie Ogletree of Phoe-\nnix, an alternate, was the only\nNegro in the Arizona delegation\nwhich contained two Indian dele\ngates.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3718,
+                "y0": 1986,
+                "x1": 4327,
+                "y1": 2196
+            },
+            "class": "headline",
+            "raw_text": "100 Negroes on\n\n\nDemo D eIsguts Lists",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1957,
+                "y0": 2328,
+                "x1": 2769,
+                "y1": 2630
+            },
+            "class": "article",
+            "raw_text": "DETROIT = Sammy Davis, Jr.,\nsinger, dancer and actor, has\nbeen unable to save the new\nmusical version of Odets' &c OIL\nden Boy\"",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2832,
+                "y0": 2287,
+                "x1": 3643,
+                "y1": 2636
+            },
+            "class": "article",
+            "raw_text": "The 1887 story Of a young musi-\nclan fighting his way up in the\nboxing world, fails although\nmodern themes have been used.\n\n\nDavis is assisted ably by Paula\nWayne and singer Billy Daniels.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2403,
+                "y0": 2172,
+                "x1": 3250,
+                "y1": 2271
+            },
+            "class": "headline",
+            "raw_text": "Summy's Golden Boy Falling",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1969,
+                "y0": 1778,
+                "x1": 3643,
+                "y1": 2132
+            },
+            "class": "article",
+            "raw_text": "Resting practice the the\nbathing beauty talent show From Left Misses\nLivingston Sharon Boone Beverly Moore Hazel Durham,\nBarbara Washington and Barbara McCleland.\n\n\ntalent show will be held FRI Sept IL the Eks\nLodge, 1907 S. 9TH Ave.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3718,
+                "y0": 5589,
+                "x1": 4535,
+                "y1": 5978
+            },
+            "class": "article",
+            "raw_text": "FOR RENT\n\n\n2 bedrm.. new apts.. coolers. built\nin range /oven. See res ident mgr.\no632 S. 22nd St. & Vineyard\nApt. A $3.50 including free\nwater. 276-6250.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3718,
+                "y0": 5218,
+                "x1": 4310,
+                "y1": 5358
+            },
+            "class": "headline",
+            "raw_text": "j g. M BARBER SHOP\n1905 W. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -3
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3712,
+                "y0": 5398,
+                "x1": 4315,
+                "y1": 5532
+            },
+            "class": "headline",
+            "raw_text": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -2
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3753,
+                "y0": 5595,
+                "x1": 4142,
+                "y1": 5677
+            },
+            "class": "headline",
+            "raw_text": "FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3712,
+                "y0": 4749,
+                "x1": 4425,
+                "y1": 4947
+            },
+            "class": "article",
+            "raw_text": "SOUBLET'S BEAUTY SHOP\n2014 E. Broadway\nBR 6-3964",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3724,
+                "y0": 3214,
+                "x1": 4530,
+                "y1": 3395
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n1913 E. Washington\n258-0511",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3747,
+                "y0": 2948,
+                "x1": 4478,
+                "y1": 3198
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3712,
+                "y0": 4987,
+                "x1": 4524,
+                "y1": 5173
+            },
+            "class": "article",
+            "raw_text": "JACKSON'S BEAUTY SHOPPE\n1898 E. Madison\nAL 2-9541",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964090401_0539",
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "HILLS PHOENICIAN\nBEAUTY SHOP\n2110 E. Jeffer son\nAL 3-9989",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3712,
+                    "y0": 4152,
+                    "x1": 4281,
+                    "y1": 4403
+                }
+            ],
+            "bbox": [
+                3712,
+                4152,
+                4281,
+                4403
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "EIks Corner\n\n\nC. McCLAMMY",
+            "article": "Sept. A and Is Temple\nmeeting; Sept. 8 and % Lodge\nmeeting: Sept. ii Bathing\nbeauty, talent and fashion show:\n18th Bowlers Banquet public\ninvited = 81 donation.\n\n\nWe are pleased to see DIT.\nBeatrice Jackson up and around\nsince her accident several\nmonths ago.\n\n\nRemember the sick and aged\nmembers who are not able to\nattend our meetings. Dts. Min\nerva Parker, 808 E. So. 9TH Ave.;\nClara Blackburn, lo3OE. Adams;\nAnnie Dair, 1923 E. Jefferson;\nand Bro. Homer Kennedy l04-l p\nN. 18th St.\n\n\nDIT. Alma Holt has been i'll with\nthe flu.\n\n\nOur delegates have returned\nfrom the Grand Convention in\nMiami Beach, Fla. They we're\ncaught in the hurricane.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3753,
+                    "y0": 301,
+                    "x1": 4298,
+                    "y1": 481
+                },
+                {
+                    "x0": 3718,
+                    "y0": 509,
+                    "x1": 4530,
+                    "y1": 1918
+                }
+            ],
+            "bbox": [
+                3718,
+                301,
+                4530,
+                1918
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "100 Negroes on\n\n\nDemo D eIsguts Lists",
+            "article": "A total Of 100 delegates and\nalternates attended the national\nDemocratic convention in Allan\ntic City August 24-28.\n\n\nThey came from 20 states In\nGLIDING some southern areas, in\nGLIDING Georgia.\n\n\nMrs. Marie Ogletree of Phoe-\nnix, an alternate, was the only\nNegro in the Arizona delegation\nwhich contained two Indian dele\ngates.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3718,
+                    "y0": 1986,
+                    "x1": 4327,
+                    "y1": 2196
+                },
+                {
+                    "x0": 3724,
+                    "y0": 2218,
+                    "x1": 4535,
+                    "y1": 2926
+                }
+            ],
+            "bbox": [
+                3718,
+                1986,
+                4535,
+                2926
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "DETROIT = Sammy Davis, Jr.,\nsinger, dancer and actor, has\nbeen unable to save the new\nmusical version of Odets' &c OIL\nden Boy\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1957,
+                    "y0": 2328,
+                    "x1": 2769,
+                    "y1": 2630
+                }
+            ],
+            "bbox": [
+                1957,
+                2328,
+                2769,
+                2630
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                14,
+                8
+            ],
+            "headline": "Summy's Golden Boy Falling",
+            "article": "The 1887 story Of a young musi-\nclan fighting his way up in the\nboxing world, fails although\nmodern themes have been used.\n\n\nDavis is assisted ably by Paula\nWayne and singer Billy Daniels.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2403,
+                    "y0": 2172,
+                    "x1": 3250,
+                    "y1": 2271
+                },
+                {
+                    "x0": 2832,
+                    "y0": 2287,
+                    "x1": 3643,
+                    "y1": 2636
+                }
+            ],
+            "bbox": [
+                2403,
+                2172,
+                3643,
+                2636
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "Resting practice the the\nbathing beauty talent show From Left Misses\nLivingston Sharon Boone Beverly Moore Hazel Durham,\nBarbara Washington and Barbara McCleland.\n\n\ntalent show will be held FRI Sept IL the Eks\nLodge, 1907 S. 9TH Ave.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1969,
+                    "y0": 1778,
+                    "x1": 3643,
+                    "y1": 2132
+                }
+            ],
+            "bbox": [
+                1969,
+                1778,
+                3643,
+                2132
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                29,
+                26,
+                32,
+                24
+            ],
+            "headline": "j g. M BARBER SHOP\n1905 W. Buckeye\n\nEARL'S BARBER SHOP\n1852 E. Washington\n\nFOR RENT",
+            "article": "FOR RENT\n\n\n2 bedrm.. new apts.. coolers. built\nin range /oven. See res ident mgr.\no632 S. 22nd St. & Vineyard\nApt. A $3.50 including free\nwater. 276-6250.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3718,
+                    "y0": 5218,
+                    "x1": 4310,
+                    "y1": 5358
+                },
+                {
+                    "x0": 3712,
+                    "y0": 5398,
+                    "x1": 4315,
+                    "y1": 5532
+                },
+                {
+                    "x0": 3753,
+                    "y0": 5595,
+                    "x1": 4142,
+                    "y1": 5677
+                },
+                {
+                    "x0": 3718,
+                    "y0": 5589,
+                    "x1": 4535,
+                    "y1": 5978
+                }
+            ],
+            "bbox": [
+                3712,
+                5218,
+                4535,
+                5978
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "SOUBLET'S BEAUTY SHOP\n2014 E. Broadway\nBR 6-3964",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3712,
+                    "y0": 4749,
+                    "x1": 4425,
+                    "y1": 4947
+                }
+            ],
+            "bbox": [
+                3712,
+                4749,
+                4425,
+                4947
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                20,
+                28
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n1913 E. Washington\n258-0511",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3747,
+                    "y0": 2948,
+                    "x1": 4478,
+                    "y1": 3198
+                },
+                {
+                    "x0": 3724,
+                    "y0": 3214,
+                    "x1": 4530,
+                    "y1": 3395
+                }
+            ],
+            "bbox": [
+                3724,
+                2948,
+                4530,
+                3395
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "JACKSON'S BEAUTY SHOPPE\n1898 E. Madison\nAL 2-9541",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3712,
+                    "y0": 4987,
+                    "x1": 4524,
+                    "y1": 5173
+                }
+            ],
+            "bbox": [
+                3712,
+                4987,
+                4524,
+                5173
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-09-04_pna_sn84021918_0041421695A_1964090401_0539.json"
+        }
+    ]
+}

@@ -1,0 +1,678 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032701/0347.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7461,
+        "width": 4907
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2855,
+                "y0": 728,
+                "x1": 3661,
+                "y1": 1551
+            },
+            "class": "article",
+            "raw_text": "MIAMI, Florida-Ed Eastman,\nWorld Boxing Association presi-\ndent, said the executive commit\ntee decided to let Cassius Clay\nkeep his heavyweight title.\n\n\nEarlier this week Lassmanhad\ncommented that his organization\nmight end recognition of Clay as\nthe title holder. Action was bas-\ned on the fact that the champion\nhad signed a contract with the\nformer champions Inter-Con-\ntinental Promotion group before\nthe fight was held.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2867,
+                "y0": 512,
+                "x1": 3509,
+                "y1": 706
+            },
+            "class": "headline",
+            "raw_text": "VIDA Will Not Lift\nCluY's Title",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2867,
+                "y0": 1830,
+                "x1": 3678,
+                "y1": 2956
+            },
+            "class": "article",
+            "raw_text": "ST.LOUIS = A neighbor paid a\nman with truck $3.50 per hour\nto steal furniture from another\nneighbor.\n\n\nWhen Mrs Cora Reeves re-\nturned home last Thursday. she\nwas amazed to find an empty\nhouse. She notified police.\n\n\nOfficers found a witness who\nknew the truck driver. Police\nfound a twenty one year old man\nwho admitted he had taken the\nfurniture for a man who lived in\nthe vicinity. He had been paid\nfor other hot hauling jobs. too.\n\n\nPolice arrested three others\nin the case. Mrs. Reeves fur\nniture was found in a house two\nblocks away.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2896,
+                "y0": 1626,
+                "x1": 3532,
+                "y1": 1807
+            },
+            "class": "headline",
+            "raw_text": "Mon Puid\n\n\nTo Steel Furniture",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2849,
+                "y0": 3130,
+                "x1": 3655,
+                "y1": 3894
+            },
+            "class": "article",
+            "raw_text": "1t is seldom necessary for a\nveteran to visit a Veterans Ad-\nministration office, Wayne San\nders, Manager Of VAS Arizona\nRegional Office said. 1.-THE VA\nis as close as your mailbox,\"\nSanders said.\n\n\nInformation regarding any\nphase of the program for veterans\ncan be secured by writing to the\nVeterans Administration Region\nal Office, Federal Building. 230\nN. First Ave., Phoenix Is, Ariz.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2873,
+                "y0": 2990,
+                "x1": 3317,
+                "y1": 3107
+            },
+            "class": "headline",
+            "raw_text": "VA NEWS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1975,
+                "y0": 2669,
+                "x1": 2786,
+                "y1": 3428
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Cassius Clay, now\nknown as Muhammad Ali, said\nthe VIDA was acting like towards\ntrying to take his title away. He\noffered to fight three men in one\nbout to prove no one could de-\nfeat him.\n\n\nClay remarked the VIDA must\nbe talking about Liston because\nhe was a clean living young pretty\nman. Clay, a member of the\nBlack Muslims, plans to make a\nworld tour soon.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1981,
+                "y0": 2483,
+                "x1": 2506,
+                "y1": 2653
+            },
+            "class": "headline",
+            "raw_text": "Clay Calls\nVIDA Cowurds",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1958,
+                "y0": 775,
+                "x1": 2780,
+                "y1": 2472
+            },
+            "class": "article",
+            "raw_text": "Several Phoenicians attended\nthe Candlelight Dinner partyheld\nat Pilgrim Rest Lodge in Tucson,\nSat-, Mar. FL.\n\n\nDIT. Ola Mae West was crowned\nMiss Pilgrim Rest that night.\n\n\nThe Antler Guard unit meets\nevery first and third Thursday at\npm.\n\n\nPISA Convention Committee\nmeetings are held every second\nand fourth Sundays at pm.\n\n\nAll persons interested in bowl\ning are asked to meet at the\nLodge on April S at pm.\n\n\nWe are forming marching\nunit and we welcome children\nfrom ages three to high school.\n\n\nMeet every Saturday at pm.\n\n\nThe annual pre-Easter hop will\nbe held Mar. u, donation ST..\n\n\nDon't forget the annual Easter\nDay parade of fashions. 1t will\nbe held Easter Sunday at pm.\n\n\nSend in your choice for the\nElk of the Year award to Mrs.\nMaple L. Pratt, 1915 w. Mohave.\nThe program will be held on\nApril %.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1998,
+                "y0": 518,
+                "x1": 2600,
+                "y1": 729
+            },
+            "class": "headline",
+            "raw_text": "ELKS CORN Err\nc.. McCLAMMY",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1095,
+                "y0": 3118,
+                "x1": 1906,
+                "y1": 3463
+            },
+            "class": "article",
+            "raw_text": "Persons who may qualify for\naccount executives, advertising\nmanagers, art directors, script\nwriter's, publishing assistants\nand many more areas should\nsend for complete Information.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 483,
+                "y0": 3025,
+                "x1": 1568,
+                "y1": 3125
+            },
+            "class": "headline",
+            "raw_text": "Job Opportunities Listed",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3747,
+                "y0": 3386,
+                "x1": 4558,
+                "y1": 3912
+            },
+            "class": "article",
+            "raw_text": "FOR RENT\nl-3 Bedroom House unfinished\n$500 per month Option to buy.\n6lo West Illini - AL 3-3408\nEvenings.\n\n\nOne Bedroom furnished Apt.\nUtilities Paid $1,000 per week\nquiet. l2O West Elwood See\nTurner. AL 3-34O8 Evenings.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 197,
+                "y0": 3159,
+                "x1": 1008,
+                "y1": 3457
+            },
+            "class": "article",
+            "raw_text": "Job opportunities are listed for\nvarious professions by the Inter-\nnational Student Research and\nDevelopment Council. Inc. Pc.\nBox 3O5, New York, N. Y. l0027.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 215,
+                "y0": 2529,
+                "x1": 1889,
+                "y1": 3020
+            },
+            "class": "article",
+            "raw_text": "The Naomi Missionary Society sponsored luncheon Sum- Mar\nBaptist Church. ll4l E. Jefferson.\n\n\nCommittee members included from left Mesdames Cecil Hughes\nSmith, Clinton. Violet Matthews and Ben Lggns\nMrs. Robert B. Phillips served as chairman.\n\n\nMen who served the luncheon Palm Sunday from left Car\nChester l. McPherson Harry Crawford William Smith,\nHarold Sublett, Harry Phillips and Robuser Strickland",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1538,
+                "y0": 588,
+                "x1": 1795,
+                "y1": 682
+            },
+            "class": "author",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3747,
+                "y0": 3159,
+                "x1": 4558,
+                "y1": 3346
+            },
+            "class": "article",
+            "raw_text": "CARPETS INSTALLED and re-\npaired Days, evenings, Sundays\nCall 275-3O53.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3747,
+                "y0": 2972,
+                "x1": 4302,
+                "y1": 3107
+            },
+            "class": "article",
+            "raw_text": "J& M BARBER SHOP\n1905 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3741,
+                "y0": 2733,
+                "x1": 4418,
+                "y1": 2915
+            },
+            "class": "article",
+            "raw_text": "GOLDYS BEAUTY SHOP\n1921 E. Broadway\nBR 6-9O83",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3735,
+                "y0": 2273,
+                "x1": 4442,
+                "y1": 2454
+            },
+            "class": "article",
+            "raw_text": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-03-27"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                1
+            ],
+            "headline": "VIDA Will Not Lift\nCluY's Title",
+            "article": "MIAMI, Florida-Ed Eastman,\nWorld Boxing Association presi-\ndent, said the executive commit\ntee decided to let Cassius Clay\nkeep his heavyweight title.\n\n\nEarlier this week Lassmanhad\ncommented that his organization\nmight end recognition of Clay as\nthe title holder. Action was bas-\ned on the fact that the champion\nhad signed a contract with the\nformer champions Inter-Con-\ntinental Promotion group before\nthe fight was held.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2867,
+                    "y0": 512,
+                    "x1": 3509,
+                    "y1": 706
+                },
+                {
+                    "x0": 2855,
+                    "y0": 728,
+                    "x1": 3661,
+                    "y1": 1551
+                }
+            ],
+            "bbox": [
+                2855,
+                512,
+                3661,
+                1551
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "Mon Puid\n\n\nTo Steel Furniture",
+            "article": "ST.LOUIS = A neighbor paid a\nman with truck $3.50 per hour\nto steal furniture from another\nneighbor.\n\n\nWhen Mrs Cora Reeves re-\nturned home last Thursday. she\nwas amazed to find an empty\nhouse. She notified police.\n\n\nOfficers found a witness who\nknew the truck driver. Police\nfound a twenty one year old man\nwho admitted he had taken the\nfurniture for a man who lived in\nthe vicinity. He had been paid\nfor other hot hauling jobs. too.\n\n\nPolice arrested three others\nin the case. Mrs. Reeves fur\nniture was found in a house two\nblocks away.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2896,
+                    "y0": 1626,
+                    "x1": 3532,
+                    "y1": 1807
+                },
+                {
+                    "x0": 2867,
+                    "y0": 1830,
+                    "x1": 3678,
+                    "y1": 2956
+                }
+            ],
+            "bbox": [
+                2867,
+                1626,
+                3678,
+                2956
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "VA NEWS",
+            "article": "1t is seldom necessary for a\nveteran to visit a Veterans Ad-\nministration office, Wayne San\nders, Manager Of VAS Arizona\nRegional Office said. 1.-THE VA\nis as close as your mailbox,\"\nSanders said.\n\n\nInformation regarding any\nphase of the program for veterans\ncan be secured by writing to the\nVeterans Administration Region\nal Office, Federal Building. 230\nN. First Ave., Phoenix Is, Ariz.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2873,
+                    "y0": 2990,
+                    "x1": 3317,
+                    "y1": 3107
+                },
+                {
+                    "x0": 2849,
+                    "y0": 3130,
+                    "x1": 3655,
+                    "y1": 3894
+                }
+            ],
+            "bbox": [
+                2849,
+                2990,
+                3655,
+                3894
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "Clay Calls\nVIDA Cowurds",
+            "article": "NEW YORK-Cassius Clay, now\nknown as Muhammad Ali, said\nthe VIDA was acting like towards\ntrying to take his title away. He\noffered to fight three men in one\nbout to prove no one could de-\nfeat him.\n\n\nClay remarked the VIDA must\nbe talking about Liston because\nhe was a clean living young pretty\nman. Clay, a member of the\nBlack Muslims, plans to make a\nworld tour soon.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1981,
+                    "y0": 2483,
+                    "x1": 2506,
+                    "y1": 2653
+                },
+                {
+                    "x0": 1975,
+                    "y0": 2669,
+                    "x1": 2786,
+                    "y1": 3428
+                }
+            ],
+            "bbox": [
+                1975,
+                2483,
+                2786,
+                3428
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                17,
+                5
+            ],
+            "headline": "ELKS CORN Err\nc.. McCLAMMY",
+            "article": "Several Phoenicians attended\nthe Candlelight Dinner partyheld\nat Pilgrim Rest Lodge in Tucson,\nSat-, Mar. FL.\n\n\nDIT. Ola Mae West was crowned\nMiss Pilgrim Rest that night.\n\n\nThe Antler Guard unit meets\nevery first and third Thursday at\npm.\n\n\nPISA Convention Committee\nmeetings are held every second\nand fourth Sundays at pm.\n\n\nAll persons interested in bowl\ning are asked to meet at the\nLodge on April S at pm.\n\n\nWe are forming marching\nunit and we welcome children\nfrom ages three to high school.\n\n\nMeet every Saturday at pm.\n\n\nThe annual pre-Easter hop will\nbe held Mar. u, donation ST..\n\n\nDon't forget the annual Easter\nDay parade of fashions. 1t will\nbe held Easter Sunday at pm.\n\n\nSend in your choice for the\nElk of the Year award to Mrs.\nMaple L. Pratt, 1915 w. Mohave.\nThe program will be held on\nApril %.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1998,
+                    "y0": 518,
+                    "x1": 2600,
+                    "y1": 729
+                },
+                {
+                    "x0": 1958,
+                    "y0": 775,
+                    "x1": 2780,
+                    "y1": 2472
+                }
+            ],
+            "bbox": [
+                1958,
+                518,
+                2780,
+                2472
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "Job Opportunities Listed",
+            "article": "Persons who may qualify for\naccount executives, advertising\nmanagers, art directors, script\nwriter's, publishing assistants\nand many more areas should\nsend for complete Information.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 483,
+                    "y0": 3025,
+                    "x1": 1568,
+                    "y1": 3125
+                },
+                {
+                    "x0": 1095,
+                    "y0": 3118,
+                    "x1": 1906,
+                    "y1": 3463
+                }
+            ],
+            "bbox": [
+                483,
+                3025,
+                1906,
+                3463
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "FOR RENT\nl-3 Bedroom House unfinished\n$500 per month Option to buy.\n6lo West Illini - AL 3-3408\nEvenings.\n\n\nOne Bedroom furnished Apt.\nUtilities Paid $1,000 per week\nquiet. l2O West Elwood See\nTurner. AL 3-34O8 Evenings.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3747,
+                    "y0": 3386,
+                    "x1": 4558,
+                    "y1": 3912
+                }
+            ],
+            "bbox": [
+                3747,
+                3386,
+                4558,
+                3912
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Job opportunities are listed for\nvarious professions by the Inter-\nnational Student Research and\nDevelopment Council. Inc. Pc.\nBox 3O5, New York, N. Y. l0027.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 197,
+                    "y0": 3159,
+                    "x1": 1008,
+                    "y1": 3457
+                }
+            ],
+            "bbox": [
+                197,
+                3159,
+                1008,
+                3457
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                28,
+                10
+            ],
+            "headline": "",
+            "article": "The Naomi Missionary Society sponsored luncheon Sum- Mar\nBaptist Church. ll4l E. Jefferson.\n\n\nCommittee members included from left Mesdames Cecil Hughes\nSmith, Clinton. Violet Matthews and Ben Lggns\nMrs. Robert B. Phillips served as chairman.\n\n\nMen who served the luncheon Palm Sunday from left Car\nChester l. McPherson Harry Crawford William Smith,\nHarold Sublett, Harry Phillips and Robuser Strickland",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1538,
+                    "y0": 588,
+                    "x1": 1795,
+                    "y1": 682
+                },
+                {
+                    "x0": 215,
+                    "y0": 2529,
+                    "x1": 1889,
+                    "y1": 3020
+                }
+            ],
+            "bbox": [
+                215,
+                588,
+                1889,
+                3020
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "CARPETS INSTALLED and re-\npaired Days, evenings, Sundays\nCall 275-3O53.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3747,
+                    "y0": 3159,
+                    "x1": 4558,
+                    "y1": 3346
+                }
+            ],
+            "bbox": [
+                3747,
+                3159,
+                4558,
+                3346
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "J& M BARBER SHOP\n1905 w. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3747,
+                    "y0": 2972,
+                    "x1": 4302,
+                    "y1": 3107
+                }
+            ],
+            "bbox": [
+                3747,
+                2972,
+                4302,
+                3107
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "GOLDYS BEAUTY SHOP\n1921 E. Broadway\nBR 6-9O83",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3741,
+                    "y0": 2733,
+                    "x1": 4418,
+                    "y1": 2915
+                }
+            ],
+            "bbox": [
+                3741,
+                2733,
+                4418,
+                2915
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3735,
+                    "y0": 2273,
+                    "x1": 4442,
+                    "y1": 2454
+                }
+            ],
+            "bbox": [
+                3735,
+                2273,
+                4442,
+                2454
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-03-27_p1_sn84021918_0041421695A_1964032701_0347.json"
+        }
+    ]
+}

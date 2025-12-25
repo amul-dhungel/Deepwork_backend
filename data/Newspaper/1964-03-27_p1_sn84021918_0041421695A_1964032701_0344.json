@@ -1,0 +1,189 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032701/0344.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4872
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 242,
+                "y0": 2419,
+                "x1": 1943,
+                "y1": 3296
+            },
+            "class": "article",
+            "raw_text": "Washington D. c. The United States Department Of Labor steps\nthe mpemntaon Of It's pioneering efforts toward the goal Of\nfull utilization the potential and existing labor supply\nscented by minority groups\n\n\nNathaniel Dekerson ef General Foods Corporation Represen\npers the list than 10 900 1862 college graduates\nOf predomnany Negro colleges assembled by Arthur Chaplin\n(gh Special Assistant the Secretary Labor In search Of\nprospective employees This LISTS the DEPARTMENT. program\nof Private Industry Supply Demand Utilization.\n\n\nFive fried grasshoppers r. Buffalo IL the snoWies city\nestimated contains 77s the nation with average fall\ncaories. Of 1908 inches year.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1113,
+                "y0": 3092,
+                "x1": 1943,
+                "y1": 3273
+            },
+            "class": "article",
+            "raw_text": "Buffalo IL the snowiest city In\nthe nation, with an average fall\nOf 1908 inches a year.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 231,
+                "y0": 3098,
+                "x1": 1056,
+                "y1": 3279
+            },
+            "class": "article",
+            "raw_text": "Five fried grasshoppers, it\nhas been estimated, contains 22s\ncalories.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2012,
+                "y0": 2738,
+                "x1": 2854,
+                "y1": 3285
+            },
+            "class": "article",
+            "raw_text": "Before putting bread, fruit, or\nother table foods into new baskets,\nswish these through warm soap or\ndetergent suds and rinses.\n\n\nThis Ii a sanitary preeaution\nbecause most such baskets are\nmade by hand - mainly In foreign\ncountries - and go through count\nless other hands before reaching\nyour home.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-03-27"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Washington D. c. The United States Department Of Labor steps\nthe mpemntaon Of It's pioneering efforts toward the goal Of\nfull utilization the potential and existing labor supply\nscented by minority groups\n\n\nNathaniel Dekerson ef General Foods Corporation Represen\npers the list than 10 900 1862 college graduates\nOf predomnany Negro colleges assembled by Arthur Chaplin\n(gh Special Assistant the Secretary Labor In search Of\nprospective employees This LISTS the DEPARTMENT. program\nof Private Industry Supply Demand Utilization.\n\n\nFive fried grasshoppers r. Buffalo IL the snoWies city\nestimated contains 77s the nation with average fall\ncaories. Of 1908 inches year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 242,
+                    "y0": 2419,
+                    "x1": 1943,
+                    "y1": 3296
+                }
+            ],
+            "bbox": [
+                242,
+                2419,
+                1943,
+                3296
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-27_p1_sn84021918_0041421695A_1964032701_0344.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Buffalo IL the snowiest city In\nthe nation, with an average fall\nOf 1908 inches a year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1113,
+                    "y0": 3092,
+                    "x1": 1943,
+                    "y1": 3273
+                }
+            ],
+            "bbox": [
+                1113,
+                3092,
+                1943,
+                3273
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-03-27_p1_sn84021918_0041421695A_1964032701_0344.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Five fried grasshoppers, it\nhas been estimated, contains 22s\ncalories.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 231,
+                    "y0": 3098,
+                    "x1": 1056,
+                    "y1": 3279
+                }
+            ],
+            "bbox": [
+                231,
+                3098,
+                1056,
+                3279
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-27_p1_sn84021918_0041421695A_1964032701_0344.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Before putting bread, fruit, or\nother table foods into new baskets,\nswish these through warm soap or\ndetergent suds and rinses.\n\n\nThis Ii a sanitary preeaution\nbecause most such baskets are\nmade by hand - mainly In foreign\ncountries - and go through count\nless other hands before reaching\nyour home.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2012,
+                    "y0": 2738,
+                    "x1": 2854,
+                    "y1": 3285
+                }
+            ],
+            "bbox": [
+                2012,
+                2738,
+                2854,
+                3285
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-27_p1_sn84021918_0041421695A_1964032701_0344.json"
+        }
+    ]
+}

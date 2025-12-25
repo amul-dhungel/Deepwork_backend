@@ -1,0 +1,581 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964013101/0281.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7472,
+        "width": 4808
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 109,
+                "y0": 793,
+                "x1": 928,
+                "y1": 1787
+            },
+            "class": "article",
+            "raw_text": "James Montgomery, l9, was\nsentenced to state prison for 7\nto 10 years in Superior Court\nMonday for the Sept. IL rifle\nStaying of Georgia Davis. l9,\nhis common law wife.\n\n\nHe was found guilty of invol-\nuntary manslaughter on Jan. 20.\nDefense attorney Walter Kessler\nimpressed the jury with the fact\nthat Montgomery S rifle was fired\naccidentally. The victim was shot\ntwice in the head after she threat\nened to leave. Montgomery tried\nto commit suicide by shooting\nhimself in the chest after Miss\nLewis was shot.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 121,
+                "y0": 519,
+                "x1": 752,
+                "y1": 748
+            },
+            "class": "headline",
+            "raw_text": "MONTGOMERY IS\nSENTENCED FOR\nKILLING WOMAN",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2806,
+                "y0": 677,
+                "x1": 3625,
+                "y1": 1752
+            },
+            "class": "article",
+            "raw_text": "ATLANTA While United Ma\nlions subcommission members\nwere studying racial progress In\nthe city, demonstrators formed\npicket lines in front Of segre-\ngated restaurant.\n\n\nEighty six persons were jailed\nfollowing the protest demonstra-\nton in which two women were\nrepeatedly beaten. A policeman\nwas knocked to the ground during\nthe melee.\n\n\nThe UN commission reported\nit was pleased with what 1t had\nseen in Atlanta. Sira Arcot Krish-\nnaswami, a delegate from India,\nsaid he was ''heartened by pro-\ngress made there",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2806,
+                "y0": 507,
+                "x1": 3484,
+                "y1": 654
+            },
+            "class": "headline",
+            "raw_text": "Sc JAILED IN\nATLANTA SUNDAY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3676,
+                "y0": 2060,
+                "x1": 4500,
+                "y1": 3550
+            },
+            "class": "article",
+            "raw_text": "Ruby Hutchinson, 16, Carl Hay\nden High School junior, is the\nArizona Tribune Teen of the\nWeek.\n\n\nShe is maintaining near a {\npoint scholastic average while\nkeeping active in school and\nchurch organizations.\n\n\nRuby Is a member of the junior\nNational Council Of Christians\nand Jews. delegate to Anytown,\na member Of the Girls League,\nBadminton Club, and Standards\nCommittee.\n\n\nA member of First Institutional\nBaptist Church. she also partici-\npates in community drives such\nas the Heart Fund.\n\n\nShe plans to be a physical\ntherapist and already she volun-\nteers her services to help retar-\nded children.\n\n\nRuby is the daughter of Mr.. and\nMrs. Ernest Hutchinson, 25O6\nWest Madison.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2812,
+                "y0": 2072,
+                "x1": 3630,
+                "y1": 3736
+            },
+            "class": "article",
+            "raw_text": "Adult Education classes are\nstarting at Eastlake Park, 10th\nand E. Jefferson ST., FRI, Jan.\n81. Enrolment session will begin\nat 10 am. in Bldg. 8.\n\n\nClasses are open to any adult\nregardless Of age who wishes to\nimprove his language or arith-\nmetic skills. A teacher will con-\nduct all classes.\n\n\nFor further information con-\ntact Clarence Jackson, director\n262-6759, Mon. Fri, after 2 pm.\nTandem basketball free throw\ntournament for elementary\nschool boys will be held Feb.\n8 at Eastlake. Call 262-6759\nfor more information.\n\n\nThe public is invited to come\nand enjoy the boys basketball\nleague games Mon.-Fri. E pm.\nand Sat. 10 am.\n\n\nBall clinic for girls will be\nheld Thurs, 7 pm. All girls in\nterested in playing basketball\nare invited.\n\n\nSenior Citizens Club meets\nevery first and third Wed.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2818,
+                "y0": 1868,
+                "x1": 3274,
+                "y1": 2038
+            },
+            "class": "headline",
+            "raw_text": "EASTLAKE\n\n\nPARK NEWS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 115,
+                "y0": 2037,
+                "x1": 945,
+                "y1": 4063
+            },
+            "class": "article",
+            "raw_text": "Whether YOU conserve or lose\nMtamins as you trim, scrape, and\npeel vegetables depends lot on\nknowing where the highest con-\ncentrations of Wtamins are in the\nvarious vegetables, say US. De-\npartment of Agriculture nutri-\ntionists.\n\n\nThe leafy parts of collard\ngreens, and kale, for example,\nhave much more vitan A value\nthan the stems or midribs do.\nSo, If you remove the fibrous\nstems and midribs to make the\nvegetables more acceptable to the\nfamily, the loss in nutrients is\nnot serious.\n\n\nThe coarse outer leaves Of\nhead lettuce contain higher con-\ncentrations of vitamins than the\ninner, tender leaves. Use the\nouter leaves whenever possible.\nsay nutritionists of USDA's Ag-\nricultural Research Service.\n\n\nWhen trimming cabbage, re-\nmember the core, as well as the\nleaves. is high in vitamin c.\n\n\nBroccoli leaves have much\nmore vitamin A than the stalks\nor flower buds. If broccoli leaves\nare tender when you get them\nplan to eat them. Keep them cool\nand moist until they re ready for\nuse.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 115,
+                "y0": 1821,
+                "x1": 863,
+                "y1": 1997
+            },
+            "class": "headline",
+            "raw_text": "USE VEGETABLE\nLEAVES AND CORES",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1003,
+                "y0": 3537,
+                "x1": 1850,
+                "y1": 4087
+            },
+            "class": "article",
+            "raw_text": "If you make your own draperies\nfrom fabric which may shrink,\nit's wise to suds, rinse, and press\nit before you measure and cut.\n\n\nAlso take advantage of the\nautomatic pleating tapes and\nornamental clips which give drap-\ncries a custom look when hung,\nand can be spread fiat for wash\ning and pressing.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2806,
+                "y0": 4010,
+                "x1": 3630,
+                "y1": 5540
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Undersecre-\ntary of Labor John F. Henning\nsays unions and employers in the\nconstruction industry would COM\nply with a new federal order de-\nsigned to open more jobs to Ne\ngroes.\n\n\nHenning said field directors Of\nthe Brueau Of Apprenticeship and\nTraining had been called to Wash\n1ngton and given their instruc-\nlions on how to enforce the anti\ndiscrimination directive.\n\n\nLabor Secretary W. Willard\nWirtz issued the regulation. COW\nering an estimated 1000 appren-\nticeship programs, following a\nRecommendation from the late\nPresident John F. Kennedy which\ntook effect Friday.\n\n\nUnder its standards, unions\nand employers must select ap-\nprentices on the basis Of quail\nfications and revise any WAITING\nlists If necessary to remove the\nimpact Of previous discrimina-",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1925,
+                "y0": 3689,
+                "x1": 2749,
+                "y1": 6142
+            },
+            "class": "article",
+            "raw_text": "Biracial primers written and\nintroduced by Detroit public\nschools over year ago have been\nrated as excellent.\n\n\nDR.. Gertrude Whipple, asst.\ndirector of language education\ndepartment, directed the plan\nming and writing process. Fol-\nlett Publishing Company pre-\npared the books.\n\n\nThe primers tested on first\ngraders of various backgr ounds,\nutilized white and Negro charac-\ntiers and the illustrations we're\nracially mixed. too.\n\n\nThe new books were designed\nto promote social detectives as\nwell as reading shlls.\nMAILORDER\n\n\nNURSES NOT OK\n\n\nNEW YORK-Mailorder schools\nOf practical nursing are still\nturning out would-be nurses who\ncan do more harm than good,\naccording to a survey by \"Medi-\ncal Tribune\" physician 8\nnewspaper.\n\n\nLacking clinical experience,\ngraduates of correspondence\nnursing schools are not licensed\nand cannot qualify for license ex-\nanimation, the survey showed.\nThe graduates, however. wear\nuniforms and other identifying\nmarks of the certified. licensed\npractical nurse.\n\n\nPhysicians meeting them in\nprivate homes may be misled\nand entrust the unprofessional\nwith tasks they are unable to\nperform.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1931,
+                "y0": 3467,
+                "x1": 2644,
+                "y1": 3672
+            },
+            "class": "headline",
+            "raw_text": "BIRACIAL PRIMERS\nSUCCESSFUL IN\n\n\nDETROIT SCHOOLS",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2818,
+                "y0": 5609,
+                "x1": 4553,
+                "y1": 5972
+            },
+            "class": "article",
+            "raw_text": "MORE U.S. WOMEN ARE GETTING MARRIED than before,\nreports the Population recently 1940\nOf their early SOS been married. 1850\njust During 1862 the bureau 900 American\nstill be working.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1020,
+                "y0": 2971,
+                "x1": 2714,
+                "y1": 3468
+            },
+            "class": "article",
+            "raw_text": "1t triple birthday time the social meeting FRI JAM \"a\nMedalons Club. The party held the home Of Mrs\nMarshall Nckerson 2548 w. Washington\n\n\nleft Mesdames Julie Gipson Jan.30 Eva JONES' JAM\nIL and Mary Mckerson, Jan. y the honorees.\n\n\nOther pictured from left Medames George Johnson, Ken\nNorman bbs Ted McCreay Chester Huff Hubert\nBoyer. Howard Dasher. Betty Young and Thomas Evans.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3682,
+                "y0": 4004,
+                "x1": 4512,
+                "y1": 5546
+            },
+            "class": "article",
+            "raw_text": "tion.\n\n\nHenning took issue with re-\nport by the U. S. Civil Rights\nCommission made public Monday\nwhich suggested that such ad-\nministrative measures would not\naccomplish too much.\n\n\nThe report said the number Of\nNegro craftsmen was \"alarm-\ningly meager.\"\n\n\nHenning said federal officials\nwould police the nondiscrimina-\ntion order in 20 states, includ-\ning Illinois, Ohio and Pennsyl-\nvania. where apprenticeship pro-\ngrams are registered directly\nwith the Labor Department. In\nthe other 80 states, he said, state\nagencies register programs US\ning federal standards.\n\n\nThe penalty for noncompliance\nwith the Wirtz directive is de-\nregistration Of program aside\nfrom stigma. This means appren-\ntees must be paid higher wages\non federally financed projects.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3227,
+                "y0": 3753,
+                "x1": 4004,
+                "y1": 3976
+            },
+            "class": "headline",
+            "raw_text": "LABOR OFFICIAL\n\n\nSEES IMMIGRATION\nRULING COMPLIANCE",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-01-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "MONTGOMERY IS\nSENTENCED FOR\nKILLING WOMAN",
+            "article": "James Montgomery, l9, was\nsentenced to state prison for 7\nto 10 years in Superior Court\nMonday for the Sept. IL rifle\nStaying of Georgia Davis. l9,\nhis common law wife.\n\n\nHe was found guilty of invol-\nuntary manslaughter on Jan. 20.\nDefense attorney Walter Kessler\nimpressed the jury with the fact\nthat Montgomery S rifle was fired\naccidentally. The victim was shot\ntwice in the head after she threat\nened to leave. Montgomery tried\nto commit suicide by shooting\nhimself in the chest after Miss\nLewis was shot.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 121,
+                    "y0": 519,
+                    "x1": 752,
+                    "y1": 748
+                },
+                {
+                    "x0": 109,
+                    "y0": 793,
+                    "x1": 928,
+                    "y1": 1787
+                }
+            ],
+            "bbox": [
+                109,
+                519,
+                928,
+                1787
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                19,
+                2
+            ],
+            "headline": "Sc JAILED IN\nATLANTA SUNDAY",
+            "article": "ATLANTA While United Ma\nlions subcommission members\nwere studying racial progress In\nthe city, demonstrators formed\npicket lines in front Of segre-\ngated restaurant.\n\n\nEighty six persons were jailed\nfollowing the protest demonstra-\nton in which two women were\nrepeatedly beaten. A policeman\nwas knocked to the ground during\nthe melee.\n\n\nThe UN commission reported\nit was pleased with what 1t had\nseen in Atlanta. Sira Arcot Krish-\nnaswami, a delegate from India,\nsaid he was ''heartened by pro-\ngress made there",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2806,
+                    "y0": 507,
+                    "x1": 3484,
+                    "y1": 654
+                },
+                {
+                    "x0": 2806,
+                    "y0": 677,
+                    "x1": 3625,
+                    "y1": 1752
+                }
+            ],
+            "bbox": [
+                2806,
+                507,
+                3625,
+                1752
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Ruby Hutchinson, 16, Carl Hay\nden High School junior, is the\nArizona Tribune Teen of the\nWeek.\n\n\nShe is maintaining near a {\npoint scholastic average while\nkeeping active in school and\nchurch organizations.\n\n\nRuby Is a member of the junior\nNational Council Of Christians\nand Jews. delegate to Anytown,\na member Of the Girls League,\nBadminton Club, and Standards\nCommittee.\n\n\nA member of First Institutional\nBaptist Church. she also partici-\npates in community drives such\nas the Heart Fund.\n\n\nShe plans to be a physical\ntherapist and already she volun-\nteers her services to help retar-\nded children.\n\n\nRuby is the daughter of Mr.. and\nMrs. Ernest Hutchinson, 25O6\nWest Madison.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3676,
+                    "y0": 2060,
+                    "x1": 4500,
+                    "y1": 3550
+                }
+            ],
+            "bbox": [
+                3676,
+                2060,
+                4500,
+                3550
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                20,
+                4
+            ],
+            "headline": "EASTLAKE\n\n\nPARK NEWS",
+            "article": "Adult Education classes are\nstarting at Eastlake Park, 10th\nand E. Jefferson ST., FRI, Jan.\n81. Enrolment session will begin\nat 10 am. in Bldg. 8.\n\n\nClasses are open to any adult\nregardless Of age who wishes to\nimprove his language or arith-\nmetic skills. A teacher will con-\nduct all classes.\n\n\nFor further information con-\ntact Clarence Jackson, director\n262-6759, Mon. Fri, after 2 pm.\nTandem basketball free throw\ntournament for elementary\nschool boys will be held Feb.\n8 at Eastlake. Call 262-6759\nfor more information.\n\n\nThe public is invited to come\nand enjoy the boys basketball\nleague games Mon.-Fri. E pm.\nand Sat. 10 am.\n\n\nBall clinic for girls will be\nheld Thurs, 7 pm. All girls in\nterested in playing basketball\nare invited.\n\n\nSenior Citizens Club meets\nevery first and third Wed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2818,
+                    "y0": 1868,
+                    "x1": 3274,
+                    "y1": 2038
+                },
+                {
+                    "x0": 2812,
+                    "y0": 2072,
+                    "x1": 3630,
+                    "y1": 3736
+                }
+            ],
+            "bbox": [
+                2812,
+                1868,
+                3630,
+                3736
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                18,
+                6
+            ],
+            "headline": "USE VEGETABLE\nLEAVES AND CORES",
+            "article": "Whether YOU conserve or lose\nMtamins as you trim, scrape, and\npeel vegetables depends lot on\nknowing where the highest con-\ncentrations of Wtamins are in the\nvarious vegetables, say US. De-\npartment of Agriculture nutri-\ntionists.\n\n\nThe leafy parts of collard\ngreens, and kale, for example,\nhave much more vitan A value\nthan the stems or midribs do.\nSo, If you remove the fibrous\nstems and midribs to make the\nvegetables more acceptable to the\nfamily, the loss in nutrients is\nnot serious.\n\n\nThe coarse outer leaves Of\nhead lettuce contain higher con-\ncentrations of vitamins than the\ninner, tender leaves. Use the\nouter leaves whenever possible.\nsay nutritionists of USDA's Ag-\nricultural Research Service.\n\n\nWhen trimming cabbage, re-\nmember the core, as well as the\nleaves. is high in vitamin c.\n\n\nBroccoli leaves have much\nmore vitamin A than the stalks\nor flower buds. If broccoli leaves\nare tender when you get them\nplan to eat them. Keep them cool\nand moist until they re ready for\nuse.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 115,
+                    "y0": 1821,
+                    "x1": 863,
+                    "y1": 1997
+                },
+                {
+                    "x0": 115,
+                    "y0": 2037,
+                    "x1": 945,
+                    "y1": 4063
+                }
+            ],
+            "bbox": [
+                115,
+                1821,
+                945,
+                4063
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "If you make your own draperies\nfrom fabric which may shrink,\nit's wise to suds, rinse, and press\nit before you measure and cut.\n\n\nAlso take advantage of the\nautomatic pleating tapes and\nornamental clips which give drap-\ncries a custom look when hung,\nand can be spread fiat for wash\ning and pressing.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1003,
+                    "y0": 3537,
+                    "x1": 1850,
+                    "y1": 4087
+                }
+            ],
+            "bbox": [
+                1003,
+                3537,
+                1850,
+                4087
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "WASHINGTON Undersecre-\ntary of Labor John F. Henning\nsays unions and employers in the\nconstruction industry would COM\nply with a new federal order de-\nsigned to open more jobs to Ne\ngroes.\n\n\nHenning said field directors Of\nthe Brueau Of Apprenticeship and\nTraining had been called to Wash\n1ngton and given their instruc-\nlions on how to enforce the anti\ndiscrimination directive.\n\n\nLabor Secretary W. Willard\nWirtz issued the regulation. COW\nering an estimated 1000 appren-\nticeship programs, following a\nRecommendation from the late\nPresident John F. Kennedy which\ntook effect Friday.\n\n\nUnder its standards, unions\nand employers must select ap-\nprentices on the basis Of quail\nfications and revise any WAITING\nlists If necessary to remove the\nimpact Of previous discrimina-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2806,
+                    "y0": 4010,
+                    "x1": 3630,
+                    "y1": 5540
+                }
+            ],
+            "bbox": [
+                2806,
+                4010,
+                3630,
+                5540
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                15,
+                17
+            ],
+            "headline": "BIRACIAL PRIMERS\nSUCCESSFUL IN\n\n\nDETROIT SCHOOLS",
+            "article": "Biracial primers written and\nintroduced by Detroit public\nschools over year ago have been\nrated as excellent.\n\n\nDR.. Gertrude Whipple, asst.\ndirector of language education\ndepartment, directed the plan\nming and writing process. Fol-\nlett Publishing Company pre-\npared the books.\n\n\nThe primers tested on first\ngraders of various backgr ounds,\nutilized white and Negro charac-\ntiers and the illustrations we're\nracially mixed. too.\n\n\nThe new books were designed\nto promote social detectives as\nwell as reading shlls.\nMAILORDER\n\n\nNURSES NOT OK\n\n\nNEW YORK-Mailorder schools\nOf practical nursing are still\nturning out would-be nurses who\ncan do more harm than good,\naccording to a survey by \"Medi-\ncal Tribune\" physician 8\nnewspaper.\n\n\nLacking clinical experience,\ngraduates of correspondence\nnursing schools are not licensed\nand cannot qualify for license ex-\nanimation, the survey showed.\nThe graduates, however. wear\nuniforms and other identifying\nmarks of the certified. licensed\npractical nurse.\n\n\nPhysicians meeting them in\nprivate homes may be misled\nand entrust the unprofessional\nwith tasks they are unable to\nperform.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1931,
+                    "y0": 3467,
+                    "x1": 2644,
+                    "y1": 3672
+                },
+                {
+                    "x0": 1925,
+                    "y0": 3689,
+                    "x1": 2749,
+                    "y1": 6142
+                }
+            ],
+            "bbox": [
+                1925,
+                3467,
+                2749,
+                6142
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "MORE U.S. WOMEN ARE GETTING MARRIED than before,\nreports the Population recently 1940\nOf their early SOS been married. 1850\njust During 1862 the bureau 900 American\nstill be working.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2818,
+                    "y0": 5609,
+                    "x1": 4553,
+                    "y1": 5972
+                }
+            ],
+            "bbox": [
+                2818,
+                5609,
+                4553,
+                5972
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "1t triple birthday time the social meeting FRI JAM \"a\nMedalons Club. The party held the home Of Mrs\nMarshall Nckerson 2548 w. Washington\n\n\nleft Mesdames Julie Gipson Jan.30 Eva JONES' JAM\nIL and Mary Mckerson, Jan. y the honorees.\n\n\nOther pictured from left Medames George Johnson, Ken\nNorman bbs Ted McCreay Chester Huff Hubert\nBoyer. Howard Dasher. Betty Young and Thomas Evans.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1020,
+                    "y0": 2971,
+                    "x1": 2714,
+                    "y1": 3468
+                }
+            ],
+            "bbox": [
+                1020,
+                2971,
+                2714,
+                3468
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        },
+        {
+            "object_ids": [
+                14,
+                24
+            ],
+            "headline": "LABOR OFFICIAL\n\n\nSEES IMMIGRATION\nRULING COMPLIANCE",
+            "article": "tion.\n\n\nHenning took issue with re-\nport by the U. S. Civil Rights\nCommission made public Monday\nwhich suggested that such ad-\nministrative measures would not\naccomplish too much.\n\n\nThe report said the number Of\nNegro craftsmen was \"alarm-\ningly meager.\"\n\n\nHenning said federal officials\nwould police the nondiscrimina-\ntion order in 20 states, includ-\ning Illinois, Ohio and Pennsyl-\nvania. where apprenticeship pro-\ngrams are registered directly\nwith the Labor Department. In\nthe other 80 states, he said, state\nagencies register programs US\ning federal standards.\n\n\nThe penalty for noncompliance\nwith the Wirtz directive is de-\nregistration Of program aside\nfrom stigma. This means appren-\ntees must be paid higher wages\non federally financed projects.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3227,
+                    "y0": 3753,
+                    "x1": 4004,
+                    "y1": 3976
+                },
+                {
+                    "x0": 3682,
+                    "y0": 4004,
+                    "x1": 4512,
+                    "y1": 5546
+                }
+            ],
+            "bbox": [
+                3227,
+                3753,
+                4512,
+                5546
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-01-31_p1_sn84021918_0041421695A_1964013101_0281.json"
+        }
+    ]
+}

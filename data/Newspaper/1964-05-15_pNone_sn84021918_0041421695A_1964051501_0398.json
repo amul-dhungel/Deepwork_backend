@@ -1,0 +1,436 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-15",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7430,
+        "width": 4855,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-15",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964051501/0398.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2073,
+                "y0": 6199,
+                "x1": 2892,
+                "y1": 7245
+            },
+            "class": "article",
+            "raw_text": "Arizona motor vehicle regis\ntrations increased SO percent\nin 1868 with a total of 855.775\nvehicles registered at year end.\nPassenger cars accounted for\n583,843. followed by commercial\nvehicles with ll3,74l. and trail\ners Qncluding house) with 81 PIG.\nNon-commercial trucks plus\nbuses, taxis, motorcycles and\nscooters accounted for the bal\nance.\n\n\nBetween 1882 and 1862, Ari-\nIONA posted III percent gain\nin passenger car registrations\nAMI showed the greatest rate Of\ngrowth in registrations Of any\nwestern state.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2096,
+                "y0": 5978,
+                "x1": 2550,
+                "y1": 6159
+            },
+            "class": "headline",
+            "raw_text": "MORE CARS\n\n\nIN ARIZONA",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2026,
+                "y0": 818,
+                "x1": 2863,
+                "y1": 5950
+            },
+            "class": "article",
+            "raw_text": "What is there in the air now7\nCalifornians are going to the polls\nto cast ballots for free televi-\nsion or pay television.\n\n\nPerhaps with the summer re-\nruns waiting In the wings, we\nshould have another vote to de-\neide wether to accept the tele\nvision programs or reject them.\n\n\nTelevision has brought some\ninteresting programs to us. 1t\nhas provided us with some spec\ntacular events in the sports world\nand in the theater. 1t has given\nus many thrills and laughs and\n1t has brought Joy and tragedy,\ntoo.\n\n\nToo many excellent shows have\nbeen cancelled because Of GER\ntain ratings. Too many mediocre\nones stay on year after year.\nevidently the low budget shows\nmanage to keep on for obvious\nreasons.\n\n\nSeveral programs nominated\nfor Emmy Awards will not be\nseen next season. The joke was\nto be nominated the show had\nTO have been axed recently.\n\n\nWe enjoy many programs and\nlook forward to some of the rare\nplays or operas which do appear\nnow and then.\n\n\nLooking over the schedule\nwould have one believe that all\nof us want to see comical ami\nmails, puppets and other chill\ndren shows.\n\n\nSing Along With Mitch keeps\nits humming formal every week\nwhile Andy Williams never lets\nus forget his old Iowa home.\n\n\nThere Is one thing about the\nfriendly Martian--he manages to\noutsmart these Earthlings. No\ndoubt he watched our television\nshows before landing.\n\n\nWestern actors have been COW\ncred with two guns, rifle barrels,\npaisley printed vests, sequined\nbreeches and hip boots--but they\nstill went that away.\n\n\nWestern stories are not set In\nold Kansas saloons or a small\nand poor ranch. Todayin the tele-\nvision producers book the\nsettings must be plush saloons\nand huge ranch spreads under the\nponderosa pines.\n\n\n| used to vince as Roy Rogers\nand Gene Autry made their way\nover the dusty trail. They would\nbe a welcome relief now to the\nglib talking cowboys who roam\nthe television range.\n\n\nGone are the days Of Sam Spade,\nMr.. and Mrs. North, the Thin\nMan or the Saint. How | would\nlike to see just one of the old\nschool the knock down rough\nand ready private eye operate\nagain.\n\n\nBefore we worry about voting\nfor pay or free television--lets\nlombard the sponsors and pro-\nducers to increase the number\nand type of shows.\n\n\nwould like to give Emmys\nof the year for the worst local\nTV personalities to Aquanetta\nand Wallace.\n\n\nThese two should make team\nand take their show to New York\nl am sure they could catch\nsponsor. After all they have little\ntalent.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2050,
+                "y0": 475,
+                "x1": 2846,
+                "y1": 703
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOIsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2044,
+                "y0": 725,
+                "x1": 2712,
+                "y1": 836
+            },
+            "class": "headline",
+            "raw_text": "TeIevision Time",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2973,
+                "y0": 6919,
+                "x1": 3775,
+                "y1": 7227
+            },
+            "class": "article",
+            "raw_text": "If you've exhausted stamp\nswapping possibilities in your\ntown, start Il \"pen pal\" swap\nwith collectors in other cities or\neven foreign countries. Send lists\nOf stamps you'll swap and those",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3861,
+                "y0": 6930,
+                "x1": 4669,
+                "y1": 7187
+            },
+            "class": "article",
+            "raw_text": "you want. Stamp clubs can put\nyou in touch with individuals in\nthis country. Schools, libraries,\nthe Red Cross may have names of\npen pals abroad.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 233,
+                "y0": 1886,
+                "x1": 1987,
+                "y1": 6333
+            },
+            "class": "article",
+            "raw_text": "AEZ6N1 NEWSPAPERS ASSOCIATION AMALcAMATEo PUBLISHERS\n\n\nNO One SPEAKS FOR ALL\n\n\nTwo Negro civil rights leaders appeared ON\nnationally teleUiSed programs Sunday and\nUoiced their UieWS. They represent tVo groups\nwhich haze sbeaYheaded demonstrations Which\nhaze brought attention and results.\n\n\nDr.. Martin L. King, Jy., head Of the South\neYn Christian Leadership Conference, gave\nseveral opinions on the problems ia cling the\ncountry because Of failure Of the ciUil rights\nmeasure in Congress. He seemed disturbed\nbecause the bin hadn't made more progress\nand he mas surprised When advocates Of the\nbin UeYe nOlO possibly making concessions\nto Wotey the bin down.\n\n\nDr.. King again refused TO accept j. Edgar\nHOOUeY'S statements that Communists abound\nin the Negroes ciUil rights organizations. He\nYetOYted that WaS amazing that such fen\nNegroes had ever fallen under the influence Of\ncommunism in spite Of the conditions in this\ncountry.\n\n\nThe second spotlight Of the day occurred\ndxYi,g the interview of James Farmer, ma\ntional dire ctoY of the Congress Of Ra cial\nEquality.\n\n\nMn. Farmers group initiated freedom\nrides and it has been very active in U0teY\nregistrations drives.\n\n\nHe felt the churches had been too SlO1O in\nmaking any moves to end segregation within\ntheir ranks.\n\n\nMn. Farmer favored Transporting pupils out\nOf their home area districts to alleviate racial\nschool segregation caused by boundary lines.\n\n\nHis vieWs on the Ills Of the Negro race laid\nblame on Negroes Initiating aO1iteS. He could\nlocate no other point.\n\n\nBoth men agreed that an increased type Of\ndemonstration would take place if the ciUil\nrights measure 1VaS not passed. Both pre-\ndicted greater summer activities.\n\n\nDr.. King and Mn. Farmer may lead their\nYesbe ctiUe groups, but W1en they SPEAK they\ncan not speak for Is million Negroes. AS ne\nreach for equal opportunities and rights, ne\ncan not lose our indiUiduahty and be come\nmere herd Of sheep.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 831,
+                "y0": 922,
+                "x1": 1395,
+                "y1": 999
+            },
+            "class": "author",
+            "raw_text": "VOL. 6, NO. a.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 361,
+                "y0": 1828,
+                "x1": 1041,
+                "y1": 1986
+            },
+            "class": "author",
+            "raw_text": "~ Nhb Newspaper 10 mswS~ u\nAgiz6HA NEWSPAPERS ASSOCIATION\n. Fes Greater pvblIe Ssvvies",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2938,
+                "y0": 1201,
+                "x1": 4674,
+                "y1": 4093
+            },
+            "class": "article",
+            "raw_text": "vi SIHVVI SUUIeIIS\n\n\nOn the southSide of Phoenix a man has ab-\npointed himself byotec toY Of the realm. He\nmust imagine he is a modern day knight Wh0\nmust go into the field Of combat against the\ndragons. The dragons which ReU. Aubrey\nMoore encounters are not monsters WlO luTR\nin the woods.\n\n\nReq. Moore and his followers we're able to\narouse public action and halt the housing code\nin Phoenix. This code is needed to eliminate\nmany health and safety hazaydS and permit re-\nbuilding Of 6hghted neighboyhoodS.\n\n\nTo-Day Mn. Moore IS Waging another battle.\nHe denounces the teaching Of the theory Of\nevolution in our schools. Mn. Moore believes\nin The Bible. He said all others who adhere to\nany theories such as evolution are atheists.\n\n\nHe and his followers represent segment\nof the population 1Oho refuse to keep in step\nwith the modern World. They are quick to refer\nto their religion in all arguments.\n\n\nThe great issue is not the tea ching of eU0M-\ntiOn or any other scientific theory. The issue\nis hidden and often hidden buYb0Sely, because\nthe American tradition is on trial.\n\n\nThe tradition Of freedom to teach and Free\ndom to learn is being threatened when men\nlike Aubrey Moore would haze the curriculum\nof our schools become issues at the polls.\n\n\nSeeds Of a t0ta litaYs0n society are SCUM IN\nsmall rows. Those aOho WiSh to dictate what\nshah be taught in the schools wiA go to any\nlengths to min approval",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3466,
+                "y0": 551,
+                "x1": 4460,
+                "y1": 1005
+            },
+            "class": "headline",
+            "raw_text": "Views, pREvIews\nANo REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3692,
+                "y0": 917,
+                "x1": 4222,
+                "y1": 999
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -2
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2973,
+                "y0": 1039,
+                "x1": 3792,
+                "y1": 1249
+            },
+            "class": "headline",
+            "raw_text": "Beware Of Curbs\n\n\nOn School Subjects",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964051501_0398",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                0
+            ],
+            "headline": "MORE CARS\n\n\nIN ARIZONA",
+            "article": "Arizona motor vehicle regis\ntrations increased SO percent\nin 1868 with a total of 855.775\nvehicles registered at year end.\nPassenger cars accounted for\n583,843. followed by commercial\nvehicles with ll3,74l. and trail\ners Qncluding house) with 81 PIG.\nNon-commercial trucks plus\nbuses, taxis, motorcycles and\nscooters accounted for the bal\nance.\n\n\nBetween 1882 and 1862, Ari-\nIONA posted III percent gain\nin passenger car registrations\nAMI showed the greatest rate Of\ngrowth in registrations Of any\nwestern state.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2096,
+                    "y0": 5978,
+                    "x1": 2550,
+                    "y1": 6159
+                },
+                {
+                    "x0": 2073,
+                    "y0": 6199,
+                    "x1": 2892,
+                    "y1": 7245
+                }
+            ],
+            "bbox": [
+                2073,
+                5978,
+                2892,
+                7245
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-15_pna_sn84021918_0041421695A_1964051501_0398.json"
+        },
+        {
+            "object_ids": [
+                14,
+                12,
+                4
+            ],
+            "headline": "Sights and Sounds\nELOIsE BANKS\n\nTeIevision Time",
+            "article": "What is there in the air now7\nCalifornians are going to the polls\nto cast ballots for free televi-\nsion or pay television.\n\n\nPerhaps with the summer re-\nruns waiting In the wings, we\nshould have another vote to de-\neide wether to accept the tele\nvision programs or reject them.\n\n\nTelevision has brought some\ninteresting programs to us. 1t\nhas provided us with some spec\ntacular events in the sports world\nand in the theater. 1t has given\nus many thrills and laughs and\n1t has brought Joy and tragedy,\ntoo.\n\n\nToo many excellent shows have\nbeen cancelled because Of GER\ntain ratings. Too many mediocre\nones stay on year after year.\nevidently the low budget shows\nmanage to keep on for obvious\nreasons.\n\n\nSeveral programs nominated\nfor Emmy Awards will not be\nseen next season. The joke was\nto be nominated the show had\nTO have been axed recently.\n\n\nWe enjoy many programs and\nlook forward to some of the rare\nplays or operas which do appear\nnow and then.\n\n\nLooking over the schedule\nwould have one believe that all\nof us want to see comical ami\nmails, puppets and other chill\ndren shows.\n\n\nSing Along With Mitch keeps\nits humming formal every week\nwhile Andy Williams never lets\nus forget his old Iowa home.\n\n\nThere Is one thing about the\nfriendly Martian--he manages to\noutsmart these Earthlings. No\ndoubt he watched our television\nshows before landing.\n\n\nWestern actors have been COW\ncred with two guns, rifle barrels,\npaisley printed vests, sequined\nbreeches and hip boots--but they\nstill went that away.\n\n\nWestern stories are not set In\nold Kansas saloons or a small\nand poor ranch. Todayin the tele-\nvision producers book the\nsettings must be plush saloons\nand huge ranch spreads under the\nponderosa pines.\n\n\n| used to vince as Roy Rogers\nand Gene Autry made their way\nover the dusty trail. They would\nbe a welcome relief now to the\nglib talking cowboys who roam\nthe television range.\n\n\nGone are the days Of Sam Spade,\nMr.. and Mrs. North, the Thin\nMan or the Saint. How | would\nlike to see just one of the old\nschool the knock down rough\nand ready private eye operate\nagain.\n\n\nBefore we worry about voting\nfor pay or free television--lets\nlombard the sponsors and pro-\nducers to increase the number\nand type of shows.\n\n\nwould like to give Emmys\nof the year for the worst local\nTV personalities to Aquanetta\nand Wallace.\n\n\nThese two should make team\nand take their show to New York\nl am sure they could catch\nsponsor. After all they have little\ntalent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2050,
+                    "y0": 475,
+                    "x1": 2846,
+                    "y1": 703
+                },
+                {
+                    "x0": 2044,
+                    "y0": 725,
+                    "x1": 2712,
+                    "y1": 836
+                },
+                {
+                    "x0": 2026,
+                    "y0": 818,
+                    "x1": 2863,
+                    "y1": 5950
+                }
+            ],
+            "bbox": [
+                2026,
+                475,
+                2863,
+                5950
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-15_pna_sn84021918_0041421695A_1964051501_0398.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "If you've exhausted stamp\nswapping possibilities in your\ntown, start Il \"pen pal\" swap\nwith collectors in other cities or\neven foreign countries. Send lists\nOf stamps you'll swap and those",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2973,
+                    "y0": 6919,
+                    "x1": 3775,
+                    "y1": 7227
+                }
+            ],
+            "bbox": [
+                2973,
+                6919,
+                3775,
+                7227
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-15_pna_sn84021918_0041421695A_1964051501_0398.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "you want. Stamp clubs can put\nyou in touch with individuals in\nthis country. Schools, libraries,\nthe Red Cross may have names of\npen pals abroad.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3861,
+                    "y0": 6930,
+                    "x1": 4669,
+                    "y1": 7187
+                }
+            ],
+            "bbox": [
+                3861,
+                6930,
+                4669,
+                7187
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-05-15_pna_sn84021918_0041421695A_1964051501_0398.json"
+        },
+        {
+            "object_ids": [
+                22,
+                23,
+                16
+            ],
+            "headline": "",
+            "article": "AEZ6N1 NEWSPAPERS ASSOCIATION AMALcAMATEo PUBLISHERS\n\n\nNO One SPEAKS FOR ALL\n\n\nTwo Negro civil rights leaders appeared ON\nnationally teleUiSed programs Sunday and\nUoiced their UieWS. They represent tVo groups\nwhich haze sbeaYheaded demonstrations Which\nhaze brought attention and results.\n\n\nDr.. Martin L. King, Jy., head Of the South\neYn Christian Leadership Conference, gave\nseveral opinions on the problems ia cling the\ncountry because Of failure Of the ciUil rights\nmeasure in Congress. He seemed disturbed\nbecause the bin hadn't made more progress\nand he mas surprised When advocates Of the\nbin UeYe nOlO possibly making concessions\nto Wotey the bin down.\n\n\nDr.. King again refused TO accept j. Edgar\nHOOUeY'S statements that Communists abound\nin the Negroes ciUil rights organizations. He\nYetOYted that WaS amazing that such fen\nNegroes had ever fallen under the influence Of\ncommunism in spite Of the conditions in this\ncountry.\n\n\nThe second spotlight Of the day occurred\ndxYi,g the interview of James Farmer, ma\ntional dire ctoY of the Congress Of Ra cial\nEquality.\n\n\nMn. Farmers group initiated freedom\nrides and it has been very active in U0teY\nregistrations drives.\n\n\nHe felt the churches had been too SlO1O in\nmaking any moves to end segregation within\ntheir ranks.\n\n\nMn. Farmer favored Transporting pupils out\nOf their home area districts to alleviate racial\nschool segregation caused by boundary lines.\n\n\nHis vieWs on the Ills Of the Negro race laid\nblame on Negroes Initiating aO1iteS. He could\nlocate no other point.\n\n\nBoth men agreed that an increased type Of\ndemonstration would take place if the ciUil\nrights measure 1VaS not passed. Both pre-\ndicted greater summer activities.\n\n\nDr.. King and Mn. Farmer may lead their\nYesbe ctiUe groups, but W1en they SPEAK they\ncan not speak for Is million Negroes. AS ne\nreach for equal opportunities and rights, ne\ncan not lose our indiUiduahty and be come\nmere herd Of sheep.",
+            "byline": "VOL. 6, NO. a.\n\n~ Nhb Newspaper 10 mswS~ u\nAgiz6HA NEWSPAPERS ASSOCIATION\n. Fes Greater pvblIe Ssvvies",
+            "bbox_list": [
+                {
+                    "x0": 831,
+                    "y0": 922,
+                    "x1": 1395,
+                    "y1": 999
+                },
+                {
+                    "x0": 361,
+                    "y0": 1828,
+                    "x1": 1041,
+                    "y1": 1986
+                },
+                {
+                    "x0": 233,
+                    "y0": 1886,
+                    "x1": 1987,
+                    "y1": 6333
+                }
+            ],
+            "bbox": [
+                233,
+                922,
+                1987,
+                6333
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-05-15_pna_sn84021918_0041421695A_1964051501_0398.json"
+        },
+        {
+            "object_ids": [
+                10,
+                20,
+                7,
+                17
+            ],
+            "headline": "Views, pREvIews\nANo REVIEWS\n\n\nEdward Banks\n\nBeware Of Curbs\n\n\nOn School Subjects",
+            "article": "vi SIHVVI SUUIeIIS\n\n\nOn the southSide of Phoenix a man has ab-\npointed himself byotec toY Of the realm. He\nmust imagine he is a modern day knight Wh0\nmust go into the field Of combat against the\ndragons. The dragons which ReU. Aubrey\nMoore encounters are not monsters WlO luTR\nin the woods.\n\n\nReq. Moore and his followers we're able to\narouse public action and halt the housing code\nin Phoenix. This code is needed to eliminate\nmany health and safety hazaydS and permit re-\nbuilding Of 6hghted neighboyhoodS.\n\n\nTo-Day Mn. Moore IS Waging another battle.\nHe denounces the teaching Of the theory Of\nevolution in our schools. Mn. Moore believes\nin The Bible. He said all others who adhere to\nany theories such as evolution are atheists.\n\n\nHe and his followers represent segment\nof the population 1Oho refuse to keep in step\nwith the modern World. They are quick to refer\nto their religion in all arguments.\n\n\nThe great issue is not the tea ching of eU0M-\ntiOn or any other scientific theory. The issue\nis hidden and often hidden buYb0Sely, because\nthe American tradition is on trial.\n\n\nThe tradition Of freedom to teach and Free\ndom to learn is being threatened when men\nlike Aubrey Moore would haze the curriculum\nof our schools become issues at the polls.\n\n\nSeeds Of a t0ta litaYs0n society are SCUM IN\nsmall rows. Those aOho WiSh to dictate what\nshah be taught in the schools wiA go to any\nlengths to min approval",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3466,
+                    "y0": 551,
+                    "x1": 4460,
+                    "y1": 1005
+                },
+                {
+                    "x0": 3692,
+                    "y0": 917,
+                    "x1": 4222,
+                    "y1": 999
+                },
+                {
+                    "x0": 2973,
+                    "y0": 1039,
+                    "x1": 3792,
+                    "y1": 1249
+                },
+                {
+                    "x0": 2938,
+                    "y0": 1201,
+                    "x1": 4674,
+                    "y1": 4093
+                }
+            ],
+            "bbox": [
+                2938,
+                551,
+                4674,
+                4093
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-05-15_pna_sn84021918_0041421695A_1964051501_0398.json"
+        }
+    ]
+}

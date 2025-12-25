@@ -1,0 +1,412 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-22",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4882,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-22",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052201/0406.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2961,
+                "y0": 1127,
+                "x1": 4655,
+                "y1": 2659
+            },
+            "class": "article",
+            "raw_text": "Each year public relations firm Philadelphia sends me It's\nannual national meetings scheduled leading\nternal, church and civic organizations\n\n\nChurch associations self improvement groups leagues\nand mems clubs listed. There many groups active\nthan one would imagine and all we'll known.\n\n\nDuring the past four there trend change\nOF most OF the groups which previously had Negro part\nof the title.\n\n\nThe Negro has been changed National There\nperhaps for altering the beginning title\nNegro. but feel that pride should be\nBY merely changing the Of group alter fact\nthat 1t was primarily organized aid Negroes are assuming\nnat anything or any designation Of totally wrong\ninferioriy.\n\n\nbelieve that should every the\nword Negro for will lose portion heritage which\nseem to be striving recapture.\nTrue citizens Of the United States rightly\nAmericans but maintain of racial distinction\nlike the lowering sights.\n\n\nOn the other hand the Of Negro might stigma\ncontinue the idea degree However,\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3498,
+                "y0": 427,
+                "x1": 4505,
+                "y1": 763
+            },
+            "class": "headline",
+            "raw_text": "Views, Prevents.\n\n\nMvo Reviews, ~",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3718,
+                "y0": 786,
+                "x1": 4251,
+                "y1": 867
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2995,
+                "y0": 907,
+                "x1": 3933,
+                "y1": 1104
+            },
+            "class": "headline",
+            "raw_text": "Race Labels Are Not\n\n\nAlways Detrimental q",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2972,
+                "y0": 2907,
+                "x1": 3794,
+                "y1": 3682
+            },
+            "class": "article",
+            "raw_text": "to the tribal steps performed by\nthe real WaMsis who live in\nAfrica. The craze now blends the\nspirited Watusi manner with\na slower spiralling Of the hips.\nInclude hop or two and you are\nin business for the next whirl\nor should | say gyration around\nthe dance floor.\n\n\nThese new dances must have\nbeen welcomed by the chiroprac-\ntors, not only for neck ailments\nbut for leg disorders.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3435,
+                "y0": 2739,
+                "x1": 4112,
+                "y1": 2856
+            },
+            "class": "headline",
+            "raw_text": "Sights. And Sounds",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3833,
+                "y0": 2918,
+                "x1": 4644,
+                "y1": 3636
+            },
+            "class": "article",
+            "raw_text": "The best way to do the twist\nor Watu-twist Is to be barefoot\ned. wear something loose. relax\nand go-go. IS esitt,J Z\n~. For confirmed foxtrotters--\nyou can always sit or stand on\nthe sidelines and shake you head\nadmonishing the decline of,Amer+\nlean dancing. But, It IL not nearly\nas much fun--just to stand back\nand complain. Get out there and\nlive q little",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 256,
+                "y0": 2190,
+                "x1": 1979,
+                "y1": 4676
+            },
+            "class": "article",
+            "raw_text": "This week another civil rights protest\nmarch waS held in the city. 1t sUas organized\nby the local unit Of the Congress of Racial\nEquality (CORE). The publicity chairman\nfor the group Lester King announced its\npurposes at a press conference.\n\n\nThere was no attempt made by CORE lead\nevs to make concerted effort to get the SUP\nport of other groups and citizens Who are\ncertainly inv0lUed in the same struggle for\nImproving race re lati0nS in Phoenix and the\nstate.\n\n\nNo one doubts that all kinds of protest\nmeasures are warranted, however, no one\ngroup should believe that it can operate\nalone.\n\n\nIN this road to gain greater equality,\nmhethev in the north or south, all Negroes\nshould be sought to give widey support and\nmeaning to any type Of program.\n\n\nLet us not demonstrate merely for the\nsake Of thinning some publicity for one single\ngroup or idea.\n\n\nMayor Milton Graham has announced that\nthe city council Will haze the public accom-\nna0dati0ns proposal ON its agenda 10it)hin the\nnest tho weeks. 1t is hoped that some positive\nactions uil be made with the cooperation Of\nall.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 874,
+                "y0": 809,
+                "x1": 1430,
+                "y1": 879
+            },
+            "class": "author",
+            "raw_text": "VOL. s, NO. as",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 660,
+                "y0": 1988,
+                "x1": 1476,
+                "y1": 2139
+            },
+            "class": "headline",
+            "raw_text": "UNITY NEEDED",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2065,
+                "y0": 843,
+                "x1": 2910,
+                "y1": 6375
+            },
+            "class": "article",
+            "raw_text": "nave OVSA ASAO6SA WAOA SSoeS\nments concerning the demoraliz-\ning aspects of \"The Twist\"\nFriends and not 50 friendly per-\nsons have made known their dis\nlike Of new dance, aptly named\n1.-THE Twist\"\n\n\nAlthough there Is some doubt\nHIM the historical development anc\nthe originator Of this dance. 1t\nhas stirred the country from\ncoast to coast--or rather should\n! say from hip to hip. This tor\nso gyration has caused more con-\nversation than the native dance\nviewed by Captain Cook on his\ntour Of the South Seas several\nyears ago.\n\n\nTMsters were once wavy do\nnuts. Persons in the Midwest\nknew Of tornados--by this name.\nTMsters didn't get national or\nInternational attention until sew\neral years ago.\n\n\nElvis Presley was drafted\nand suddenly his kind Of body\nmovements we're adopted by sew\neral unknown singers and the\nTwist was born.\n\n\nEven in the hey-days Of his\n\"Blue Suede Shoes and Hound\nDog\" Elvis the Pelvis did not\nreach such astronomical proper\nlions Of popularity.\n\n\nHe swooned thousands with his\nsullen delivery Of tunes plus his\nanatomical actions. but he wasn't\naround when the wiring of the\nwrist was supplanted by the thrust\nOf the twisted ubias.\n\n\nThere's no reason to chang\ning partners. You must choose\na side in this battle. To twist\nor not to tMst--that Is the ques-\nton.\n\n\nFor az many years 40 manhas\nbeen able to communicate his\nlikes or dislikes-- something was\nchosen or refuted. My grand\nmother must have had to decide\nwhether to Turkey Trot'' or\n\"Minuet.\" Surely her Mother\nwas not happy when she went to\nthe weekend dancing nights and\nperformed mad trot.\n\n\nNo doubt sirens of old had to\nuse their individuality and end\nthe staid measures Of the courtly\nwaltz for a wilder polka. Who\ncan say that one dance Is more\nimmoral than another7\n\n\nThe hula Is a classic example\nOf the problem. Hula dancing Is\nan art in Hawaii. but its move\nments could cause a closedown\nof a Liln St. Cyr revue.\n\n\nThe Tahitian hula Is known as\nthe whooping hula to end all hulas\nbut few eyebrows are raised when\ndancers appear on bold Jour-\nney, via national television.\n\n\nWhen Glenn orbited around out\nearth he little realized that\nwithin a short span Of time -\nsomewhere on this not SO celes-\ntial globe - new and worldly\ndance would be erupting.\n\n\nAlthough haven't heard Of\nit YETI am sure that beneath\nthe roofs from New Zealand to\nNew York--a new tempo is being\nfitted to a new dance step. Time\nmay change its name from the\nShimmy. the Black Bottom, the\nApple Jack, the SLOUGH or the\nTwist--but there will surely be\nstill on earth some pers ons who\nwill condemn 1t. In honor Of the\nspace men 1t might be called\nthe \"Orbit Roll\"\n\n\nTo be abs olutely sure Of learn\ning and promoting an accepted\ndance--you had better join Arthur\nMurrays group--l believe they",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2071,
+                "y0": 369,
+                "x1": 2863,
+                "y1": 584
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOusE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2071,
+                "y0": 601,
+                "x1": 2615,
+                "y1": 792
+            },
+            "class": "headline",
+            "raw_text": "DANCE\n\n\nAGAIN TIME",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 4920,
+                "y0": 410,
+                "x1": 6146,
+                "y1": 5532
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964052201_0406",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                14,
+                6,
+                0
+            ],
+            "headline": "Views, Prevents.\n\n\nMvo Reviews, ~\n\nRace Labels Are Not\n\n\nAlways Detrimental q",
+            "article": "Each year public relations firm Philadelphia sends me It's\nannual national meetings scheduled leading\nternal, church and civic organizations\n\n\nChurch associations self improvement groups leagues\nand mems clubs listed. There many groups active\nthan one would imagine and all we'll known.\n\n\nDuring the past four there trend change\nOF most OF the groups which previously had Negro part\nof the title.\n\n\nThe Negro has been changed National There\nperhaps for altering the beginning title\nNegro. but feel that pride should be\nBY merely changing the Of group alter fact\nthat 1t was primarily organized aid Negroes are assuming\nnat anything or any designation Of totally wrong\ninferioriy.\n\n\nbelieve that should every the\nword Negro for will lose portion heritage which\nseem to be striving recapture.\nTrue citizens Of the United States rightly\nAmericans but maintain of racial distinction\nlike the lowering sights.\n\n\nOn the other hand the Of Negro might stigma\ncontinue the idea degree However,\n\n\n",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3498,
+                    "y0": 427,
+                    "x1": 4505,
+                    "y1": 763
+                },
+                {
+                    "x0": 3718,
+                    "y0": 786,
+                    "x1": 4251,
+                    "y1": 867
+                },
+                {
+                    "x0": 2995,
+                    "y0": 907,
+                    "x1": 3933,
+                    "y1": 1104
+                },
+                {
+                    "x0": 2961,
+                    "y0": 1127,
+                    "x1": 4655,
+                    "y1": 2659
+                }
+            ],
+            "bbox": [
+                2961,
+                427,
+                4655,
+                2659
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-22_pna_sn84021918_0041421695A_1964052201_0406.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "Sights. And Sounds",
+            "article": "to the tribal steps performed by\nthe real WaMsis who live in\nAfrica. The craze now blends the\nspirited Watusi manner with\na slower spiralling Of the hips.\nInclude hop or two and you are\nin business for the next whirl\nor should | say gyration around\nthe dance floor.\n\n\nThese new dances must have\nbeen welcomed by the chiroprac-\ntors, not only for neck ailments\nbut for leg disorders.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3435,
+                    "y0": 2739,
+                    "x1": 4112,
+                    "y1": 2856
+                },
+                {
+                    "x0": 2972,
+                    "y0": 2907,
+                    "x1": 3794,
+                    "y1": 3682
+                }
+            ],
+            "bbox": [
+                2972,
+                2739,
+                4112,
+                3682
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-22_pna_sn84021918_0041421695A_1964052201_0406.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "The best way to do the twist\nor Watu-twist Is to be barefoot\ned. wear something loose. relax\nand go-go. IS esitt,J Z\n~. For confirmed foxtrotters--\nyou can always sit or stand on\nthe sidelines and shake you head\nadmonishing the decline of,Amer+\nlean dancing. But, It IL not nearly\nas much fun--just to stand back\nand complain. Get out there and\nlive q little",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3833,
+                    "y0": 2918,
+                    "x1": 4644,
+                    "y1": 3636
+                }
+            ],
+            "bbox": [
+                3833,
+                2918,
+                4644,
+                3636
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-22_pna_sn84021918_0041421695A_1964052201_0406.json"
+        },
+        {
+            "object_ids": [
+                18,
+                9,
+                4
+            ],
+            "headline": "UNITY NEEDED",
+            "article": "This week another civil rights protest\nmarch waS held in the city. 1t sUas organized\nby the local unit Of the Congress of Racial\nEquality (CORE). The publicity chairman\nfor the group Lester King announced its\npurposes at a press conference.\n\n\nThere was no attempt made by CORE lead\nevs to make concerted effort to get the SUP\nport of other groups and citizens Who are\ncertainly inv0lUed in the same struggle for\nImproving race re lati0nS in Phoenix and the\nstate.\n\n\nNo one doubts that all kinds of protest\nmeasures are warranted, however, no one\ngroup should believe that it can operate\nalone.\n\n\nIN this road to gain greater equality,\nmhethev in the north or south, all Negroes\nshould be sought to give widey support and\nmeaning to any type Of program.\n\n\nLet us not demonstrate merely for the\nsake Of thinning some publicity for one single\ngroup or idea.\n\n\nMayor Milton Graham has announced that\nthe city council Will haze the public accom-\nna0dati0ns proposal ON its agenda 10it)hin the\nnest tho weeks. 1t is hoped that some positive\nactions uil be made with the cooperation Of\nall.",
+            "byline": "VOL. s, NO. as",
+            "bbox_list": [
+                {
+                    "x0": 874,
+                    "y0": 809,
+                    "x1": 1430,
+                    "y1": 879
+                },
+                {
+                    "x0": 660,
+                    "y0": 1988,
+                    "x1": 1476,
+                    "y1": 2139
+                },
+                {
+                    "x0": 256,
+                    "y0": 2190,
+                    "x1": 1979,
+                    "y1": 4676
+                }
+            ],
+            "bbox": [
+                256,
+                809,
+                1979,
+                4676
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-22_pna_sn84021918_0041421695A_1964052201_0406.json"
+        },
+        {
+            "object_ids": [
+                11,
+                10,
+                7
+            ],
+            "headline": "Sights and Sounds\nELOusE BANKS\n\nDANCE\n\n\nAGAIN TIME",
+            "article": "nave OVSA ASAO6SA WAOA SSoeS\nments concerning the demoraliz-\ning aspects of \"The Twist\"\nFriends and not 50 friendly per-\nsons have made known their dis\nlike Of new dance, aptly named\n1.-THE Twist\"\n\n\nAlthough there Is some doubt\nHIM the historical development anc\nthe originator Of this dance. 1t\nhas stirred the country from\ncoast to coast--or rather should\n! say from hip to hip. This tor\nso gyration has caused more con-\nversation than the native dance\nviewed by Captain Cook on his\ntour Of the South Seas several\nyears ago.\n\n\nTMsters were once wavy do\nnuts. Persons in the Midwest\nknew Of tornados--by this name.\nTMsters didn't get national or\nInternational attention until sew\neral years ago.\n\n\nElvis Presley was drafted\nand suddenly his kind Of body\nmovements we're adopted by sew\neral unknown singers and the\nTwist was born.\n\n\nEven in the hey-days Of his\n\"Blue Suede Shoes and Hound\nDog\" Elvis the Pelvis did not\nreach such astronomical proper\nlions Of popularity.\n\n\nHe swooned thousands with his\nsullen delivery Of tunes plus his\nanatomical actions. but he wasn't\naround when the wiring of the\nwrist was supplanted by the thrust\nOf the twisted ubias.\n\n\nThere's no reason to chang\ning partners. You must choose\na side in this battle. To twist\nor not to tMst--that Is the ques-\nton.\n\n\nFor az many years 40 manhas\nbeen able to communicate his\nlikes or dislikes-- something was\nchosen or refuted. My grand\nmother must have had to decide\nwhether to Turkey Trot'' or\n\"Minuet.\" Surely her Mother\nwas not happy when she went to\nthe weekend dancing nights and\nperformed mad trot.\n\n\nNo doubt sirens of old had to\nuse their individuality and end\nthe staid measures Of the courtly\nwaltz for a wilder polka. Who\ncan say that one dance Is more\nimmoral than another7\n\n\nThe hula Is a classic example\nOf the problem. Hula dancing Is\nan art in Hawaii. but its move\nments could cause a closedown\nof a Liln St. Cyr revue.\n\n\nThe Tahitian hula Is known as\nthe whooping hula to end all hulas\nbut few eyebrows are raised when\ndancers appear on bold Jour-\nney, via national television.\n\n\nWhen Glenn orbited around out\nearth he little realized that\nwithin a short span Of time -\nsomewhere on this not SO celes-\ntial globe - new and worldly\ndance would be erupting.\n\n\nAlthough haven't heard Of\nit YETI am sure that beneath\nthe roofs from New Zealand to\nNew York--a new tempo is being\nfitted to a new dance step. Time\nmay change its name from the\nShimmy. the Black Bottom, the\nApple Jack, the SLOUGH or the\nTwist--but there will surely be\nstill on earth some pers ons who\nwill condemn 1t. In honor Of the\nspace men 1t might be called\nthe \"Orbit Roll\"\n\n\nTo be abs olutely sure Of learn\ning and promoting an accepted\ndance--you had better join Arthur\nMurrays group--l believe they",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2071,
+                    "y0": 369,
+                    "x1": 2863,
+                    "y1": 584
+                },
+                {
+                    "x0": 2071,
+                    "y0": 601,
+                    "x1": 2615,
+                    "y1": 792
+                },
+                {
+                    "x0": 2065,
+                    "y0": 843,
+                    "x1": 2910,
+                    "y1": 6375
+                }
+            ],
+            "bbox": [
+                2065,
+                369,
+                2910,
+                6375
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-22_pna_sn84021918_0041421695A_1964052201_0406.json"
+        }
+    ]
+}

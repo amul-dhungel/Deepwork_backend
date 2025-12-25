@@ -1,0 +1,589 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011001/0257.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7460,
+        "width": 4890
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2882,
+                "y0": 4586,
+                "x1": 3699,
+                "y1": 5292
+            },
+            "class": "article",
+            "raw_text": "Rep. Morris K. Udall, D-Ariz.\nannounces US. state department\nforeign service officer examina-\nlions will be held in Phoenix on\nMar. 7. Applications must be\npostmarked no later than Jan. 20.\n\n\nPersons with political science,\nhistory, government, and educa-\nton backgrounds, or trained bud\nget, fiscal, personnel, labor rela-\ntons, law, banking, finance or\nforeign trade persons are sought.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1996,
+                "y0": 3170,
+                "x1": 2824,
+                "y1": 5473
+            },
+            "class": "article",
+            "raw_text": "Japanese telephone installers\nconnected more than a million\nphones in 1862, making Japan the\nWITHDRAWING country in total\ntelephones. The United States Is\nfirst, and United Kingdom second.\n\n\nThese facts are included in\nthis years edition of \"The\n\n\nthis years edition of 1.-THE\nWorld s Telephones\" released\nby American Telephone & Tele-\ngraph Company. The annual pub\nlocation takes a full year to COM\npile.\n\n\nAccording to the report, Japa-\nnese businessmen we're users\nof 87.5% of the countrys\n7,35O,O00 phones. In the United\nStates, 28% of the Sl-million\nphones we're classified as \"bus-\nmess\"\n\n\nMore phones were added\nthroughout the world during 1862\nthan in any previous year. &C\ncording to the report. More than\nnine million we're added, bring\ning the worlds total to\n15e, 900.\n\n\nThe United States had 43.1\nphones for every 100 person\ncompared to 2.59 phones for\nevery 100 Russians. Among the\nlarger cities Of the world, Phoe-\nnix was listed with 3o.1 phones\nper 100 persons, and Tucson with\nALL. Beverly Hills, Calf. in the\nlatest report, continued to have\nmore phones than people, with\n1898 for each 100 residents.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2002,
+                "y0": 2989,
+                "x1": 2737,
+                "y1": 3142
+            },
+            "class": "headline",
+            "raw_text": "JAPANESE GETTING\nMORE NEW PHONES",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2002,
+                "y0": 5711,
+                "x1": 2813,
+                "y1": 6481
+            },
+            "class": "article",
+            "raw_text": "A young couple decided to make\na small garden in back of their\nhouse. After breakfast the hus-\nband was sitting on the porch\nwhen his wife came around with\na shovel saying, Here. you know\nwhat to do with this\"\n\n\nLater she went out to see how\nhe was getting along with the\ngarden and found the shovel stuck\nin the ground, and this note\na attached: 'Have worms, will\nfish\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2025,
+                "y0": 5565,
+                "x1": 2533,
+                "y1": 5671
+            },
+            "class": "headline",
+            "raw_text": "GRIN CORNER",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3762,
+                "y0": 4545,
+                "x1": 4573,
+                "y1": 5292
+            },
+            "class": "article",
+            "raw_text": "Applicants must be 2lyears and\nhave been citizen for at least\n10 years. The examination is open\nalso to persons 20 years old who\nhold a. bachelors degree or who\nhave completed their junior year\nin college.\n\n\nApplications must be obtained\nfrom Rep. Udalls office, 456\nCam House Office BLDG, or from\nthe Board of Examiners, Foreign\nService, Dept. of State, Wash\nington IS, DC.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3418,
+                "y0": 4324,
+                "x1": 4141,
+                "y1": 4535
+            },
+            "class": "headline",
+            "raw_text": "UDALL ANNOUNCES\nFOREIGN SERVICE\n\n\nEXAM DATES HERE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 201,
+                "y0": 3811,
+                "x1": 1018,
+                "y1": 4471
+            },
+            "class": "article",
+            "raw_text": "Lone Star Baptist Church will\nsponsor a chicken dinner sale,\nSat-, Jan. ii at the home of Mrs.\nRoberta Williams, 1922 w. Sher-\nman. Donation $l.25.\n\n\nMr.. Freeman Waynewood,\nAustin Texas, drove Mrs. Louise\nScales to the city. He spent the\nholiday at the home of Mr.. and\nMrs. John Wilson, 1926 w. Mo-\nhave.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2007,
+                "y0": 6714,
+                "x1": 2818,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "approximately 900, 000earth-\nouakes occur in the world every\nyear (most of them under the\nocean,.\n\n\nAbout one in 10 schoolchildren\nin the United States Is lefthanded.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2031,
+                "y0": 6574,
+                "x1": 2626,
+                "y1": 6680
+            },
+            "class": "headline",
+            "raw_text": "DID YOU KNOW !",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2864,
+                "y0": 658,
+                "x1": 4567,
+                "y1": 2903
+            },
+            "class": "article",
+            "raw_text": "CONGRESSMAN FROM PHILADELPHIA\nBorn August 9, 1905 in Orangeburg, South Carolina\nElected May TO- 1883 4 District Philadelphia fill unexired\nCongressman Chudoff and took the oath of\noffice June 4, 1858.\n\n\nHarris Hall High School,\nCity, Lincoln University, Chester County Pa University of\nPennsylvania Law School.\nAiaon: Pracicing lawyer 1925; admitted\nall of Philadelphia County, Superior and\nSupreme the Commonwealth of Pennsylvania, also US.\nand Circuit Courts in Eartern Pennsylvania\nPublic Special Attorney General of Pennsylvania\nEscheas Division State of Revenue,\nAssistant Attorney General\nCommonwealth during 1o34-38. Elected Ward Exc\nCommitteeman, 9th Division, commencing 1882,\nreelected year years date; ward committee\nchairman l95Ol958 Unanimously elected Democratic ward\n32nd Ward, 1858. Member of Policy Committee,\nPhiladelphia, Democratic Campaign Committee Philade-\npha, and CoChairman INTERPRETATIONS Committee ofDemo-\nCampaign Committee since 1888 Delegate to Demo-\ncratic National Convention in Chicago in 1856 Elected\nDemocratic County Committee June\nIA, 1885,\n\n\nMilitary Experiences Students Army Training\nCorps Lincoln University First World War; honoraby Dis\ncharged. Registered for Second World War but\ncalled.\n\n\nCommunal, Fraterna\n\n\nReligious Organizations Member of White Rock Baptist Church.\nPhiladelphia Penna. Is years; member of Philadelphia\nBar Association, Philadelphia Lawyers Club Pyramid Club\nPhiladelphia Omega Psi Fraternity, of Pa Chapter;\nBenevolent Protective Order of Elks NA.AC.P: YNCA:\nAmerican Woodman Philadelphia Citizens Committee\nagainst Juvenile Delnouencies and their causes",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2893,
+                "y0": 407,
+                "x1": 3792,
+                "y1": 537
+            },
+            "class": "headline",
+            "raw_text": "Negro History Notes",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -3
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2905,
+                "y0": 559,
+                "x1": 3442,
+                "y1": 630
+            },
+            "class": "author",
+            "raw_text": "ROBERT c. NIX",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2876,
+                "y0": 646,
+                "x1": 3932,
+                "y1": 700
+            },
+            "class": "author",
+            "raw_text": "",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1104,
+                "y0": 3799,
+                "x1": 1933,
+                "y1": 4558
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Wyress and Mr..\nand Mrs. Roy Banks motored\nthrough California for a holi-\nday vacation. They visited San\nFrancisco, Sacramento, Fresno\nand Los Angeles.\n\n\nMrs. Sallie MCGEE, 1917 S.\nNinth Ave., entertained relatives\nfrom Monroe, La, and Fred Ross\nof Los Angeles.\n\n\nMrs. Odessa Morrison, l245\nS. IL Ave., is recuperating at\nhome.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 690,
+                "y0": 3619,
+                "x1": 1478,
+                "y1": 3701
+            },
+            "class": "headline",
+            "raw_text": "IVES TSIDE NOTE 6",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 679,
+                "y0": 3706,
+                "x1": 1338,
+                "y1": 3765
+            },
+            "class": "author",
+            "raw_text": "BY ORA JAG K s ON",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2870,
+                "y0": 3129,
+                "x1": 4555,
+                "y1": 4313
+            },
+            "class": "article",
+            "raw_text": "Valley National Bank deposits loans and earnings reached\nhigh 1863 president James Patrick\n\n\nDeposits $500 ,44 gain $50 o9o465\n90.\n\n\nLoans also showed steady increase throughout the in all\nand Industrial\nand livestock, nstalment and real gaining total OF\n1923 for the which represented overall increase\nof 90.\n\n\nThe bank contributed the growth and development of Arizona\nmunicipalities bond under\nwriting activity and by increasing its holdings Arizona municipal\nbonds by $685.\n\n\noperating earnings $6655633, equivalent $2.67\nper share This gain 1863 1862 earnings $233\nSHARE adjusted 81 dividend paid February 1863\nDue the substantial increase in deposits and the AZ\nbeing paid these funds savings deposit received\ntotal of $12265O3 in interest This $2O248O9\n20%, increase the previous year.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2893,
+                "y0": 2949,
+                "x1": 4287,
+                "y1": 3101
+            },
+            "class": "headline",
+            "raw_text": "VALLEY NATIONAL BANK REPORTS\nALL TIME HIGH IN ALL DEPARTMENTS",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-01-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Rep. Morris K. Udall, D-Ariz.\nannounces US. state department\nforeign service officer examina-\nlions will be held in Phoenix on\nMar. 7. Applications must be\npostmarked no later than Jan. 20.\n\n\nPersons with political science,\nhistory, government, and educa-\nton backgrounds, or trained bud\nget, fiscal, personnel, labor rela-\ntons, law, banking, finance or\nforeign trade persons are sought.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2882,
+                    "y0": 4586,
+                    "x1": 3699,
+                    "y1": 5292
+                }
+            ],
+            "bbox": [
+                2882,
+                4586,
+                3699,
+                5292
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "JAPANESE GETTING\nMORE NEW PHONES",
+            "article": "Japanese telephone installers\nconnected more than a million\nphones in 1862, making Japan the\nWITHDRAWING country in total\ntelephones. The United States Is\nfirst, and United Kingdom second.\n\n\nThese facts are included in\nthis years edition of \"The\n\n\nthis years edition of 1.-THE\nWorld s Telephones\" released\nby American Telephone & Tele-\ngraph Company. The annual pub\nlocation takes a full year to COM\npile.\n\n\nAccording to the report, Japa-\nnese businessmen we're users\nof 87.5% of the countrys\n7,35O,O00 phones. In the United\nStates, 28% of the Sl-million\nphones we're classified as \"bus-\nmess\"\n\n\nMore phones were added\nthroughout the world during 1862\nthan in any previous year. &C\ncording to the report. More than\nnine million we're added, bring\ning the worlds total to\n15e, 900.\n\n\nThe United States had 43.1\nphones for every 100 person\ncompared to 2.59 phones for\nevery 100 Russians. Among the\nlarger cities Of the world, Phoe-\nnix was listed with 3o.1 phones\nper 100 persons, and Tucson with\nALL. Beverly Hills, Calf. in the\nlatest report, continued to have\nmore phones than people, with\n1898 for each 100 residents.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2002,
+                    "y0": 2989,
+                    "x1": 2737,
+                    "y1": 3142
+                },
+                {
+                    "x0": 1996,
+                    "y0": 3170,
+                    "x1": 2824,
+                    "y1": 5473
+                }
+            ],
+            "bbox": [
+                1996,
+                2989,
+                2824,
+                5473
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                14,
+                4
+            ],
+            "headline": "GRIN CORNER",
+            "article": "A young couple decided to make\na small garden in back of their\nhouse. After breakfast the hus-\nband was sitting on the porch\nwhen his wife came around with\na shovel saying, Here. you know\nwhat to do with this\"\n\n\nLater she went out to see how\nhe was getting along with the\ngarden and found the shovel stuck\nin the ground, and this note\na attached: 'Have worms, will\nfish\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2025,
+                    "y0": 5565,
+                    "x1": 2533,
+                    "y1": 5671
+                },
+                {
+                    "x0": 2002,
+                    "y0": 5711,
+                    "x1": 2813,
+                    "y1": 6481
+                }
+            ],
+            "bbox": [
+                2002,
+                5565,
+                2813,
+                6481
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "UDALL ANNOUNCES\nFOREIGN SERVICE\n\n\nEXAM DATES HERE",
+            "article": "Applicants must be 2lyears and\nhave been citizen for at least\n10 years. The examination is open\nalso to persons 20 years old who\nhold a. bachelors degree or who\nhave completed their junior year\nin college.\n\n\nApplications must be obtained\nfrom Rep. Udalls office, 456\nCam House Office BLDG, or from\nthe Board of Examiners, Foreign\nService, Dept. of State, Wash\nington IS, DC.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3418,
+                    "y0": 4324,
+                    "x1": 4141,
+                    "y1": 4535
+                },
+                {
+                    "x0": 3762,
+                    "y0": 4545,
+                    "x1": 4573,
+                    "y1": 5292
+                }
+            ],
+            "bbox": [
+                3418,
+                4324,
+                4573,
+                5292
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Lone Star Baptist Church will\nsponsor a chicken dinner sale,\nSat-, Jan. ii at the home of Mrs.\nRoberta Williams, 1922 w. Sher-\nman. Donation $l.25.\n\n\nMr.. Freeman Waynewood,\nAustin Texas, drove Mrs. Louise\nScales to the city. He spent the\nholiday at the home of Mr.. and\nMrs. John Wilson, 1926 w. Mo-\nhave.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 201,
+                    "y0": 3811,
+                    "x1": 1018,
+                    "y1": 4471
+                }
+            ],
+            "bbox": [
+                201,
+                3811,
+                1018,
+                4471
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                15,
+                9
+            ],
+            "headline": "DID YOU KNOW !",
+            "article": "approximately 900, 000earth-\nouakes occur in the world every\nyear (most of them under the\nocean,.\n\n\nAbout one in 10 schoolchildren\nin the United States Is lefthanded.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2031,
+                    "y0": 6574,
+                    "x1": 2626,
+                    "y1": 6680
+                },
+                {
+                    "x0": 2007,
+                    "y0": 6714,
+                    "x1": 2818,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                2007,
+                6574,
+                2818,
+                7134
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                18,
+                24,
+                26,
+                10
+            ],
+            "headline": "Negro History Notes",
+            "article": "CONGRESSMAN FROM PHILADELPHIA\nBorn August 9, 1905 in Orangeburg, South Carolina\nElected May TO- 1883 4 District Philadelphia fill unexired\nCongressman Chudoff and took the oath of\noffice June 4, 1858.\n\n\nHarris Hall High School,\nCity, Lincoln University, Chester County Pa University of\nPennsylvania Law School.\nAiaon: Pracicing lawyer 1925; admitted\nall of Philadelphia County, Superior and\nSupreme the Commonwealth of Pennsylvania, also US.\nand Circuit Courts in Eartern Pennsylvania\nPublic Special Attorney General of Pennsylvania\nEscheas Division State of Revenue,\nAssistant Attorney General\nCommonwealth during 1o34-38. Elected Ward Exc\nCommitteeman, 9th Division, commencing 1882,\nreelected year years date; ward committee\nchairman l95Ol958 Unanimously elected Democratic ward\n32nd Ward, 1858. Member of Policy Committee,\nPhiladelphia, Democratic Campaign Committee Philade-\npha, and CoChairman INTERPRETATIONS Committee ofDemo-\nCampaign Committee since 1888 Delegate to Demo-\ncratic National Convention in Chicago in 1856 Elected\nDemocratic County Committee June\nIA, 1885,\n\n\nMilitary Experiences Students Army Training\nCorps Lincoln University First World War; honoraby Dis\ncharged. Registered for Second World War but\ncalled.\n\n\nCommunal, Fraterna\n\n\nReligious Organizations Member of White Rock Baptist Church.\nPhiladelphia Penna. Is years; member of Philadelphia\nBar Association, Philadelphia Lawyers Club Pyramid Club\nPhiladelphia Omega Psi Fraternity, of Pa Chapter;\nBenevolent Protective Order of Elks NA.AC.P: YNCA:\nAmerican Woodman Philadelphia Citizens Committee\nagainst Juvenile Delnouencies and their causes",
+            "byline": "ROBERT c. NIX\n\n",
+            "bbox_list": [
+                {
+                    "x0": 2893,
+                    "y0": 407,
+                    "x1": 3792,
+                    "y1": 537
+                },
+                {
+                    "x0": 2905,
+                    "y0": 559,
+                    "x1": 3442,
+                    "y1": 630
+                },
+                {
+                    "x0": 2876,
+                    "y0": 646,
+                    "x1": 3932,
+                    "y1": 700
+                },
+                {
+                    "x0": 2864,
+                    "y0": 658,
+                    "x1": 4567,
+                    "y1": 2903
+                }
+            ],
+            "bbox": [
+                2864,
+                407,
+                4567,
+                2903
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                23,
+                20,
+                11
+            ],
+            "headline": "IVES TSIDE NOTE 6",
+            "article": "Mr.. and Mrs. Wyress and Mr..\nand Mrs. Roy Banks motored\nthrough California for a holi-\nday vacation. They visited San\nFrancisco, Sacramento, Fresno\nand Los Angeles.\n\n\nMrs. Sallie MCGEE, 1917 S.\nNinth Ave., entertained relatives\nfrom Monroe, La, and Fred Ross\nof Los Angeles.\n\n\nMrs. Odessa Morrison, l245\nS. IL Ave., is recuperating at\nhome.",
+            "byline": "BY ORA JAG K s ON",
+            "bbox_list": [
+                {
+                    "x0": 690,
+                    "y0": 3619,
+                    "x1": 1478,
+                    "y1": 3701
+                },
+                {
+                    "x0": 679,
+                    "y0": 3706,
+                    "x1": 1338,
+                    "y1": 3765
+                },
+                {
+                    "x0": 1104,
+                    "y0": 3799,
+                    "x1": 1933,
+                    "y1": 4558
+                }
+            ],
+            "bbox": [
+                679,
+                3619,
+                1933,
+                4558
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        },
+        {
+            "object_ids": [
+                19,
+                16
+            ],
+            "headline": "VALLEY NATIONAL BANK REPORTS\nALL TIME HIGH IN ALL DEPARTMENTS",
+            "article": "Valley National Bank deposits loans and earnings reached\nhigh 1863 president James Patrick\n\n\nDeposits $500 ,44 gain $50 o9o465\n90.\n\n\nLoans also showed steady increase throughout the in all\nand Industrial\nand livestock, nstalment and real gaining total OF\n1923 for the which represented overall increase\nof 90.\n\n\nThe bank contributed the growth and development of Arizona\nmunicipalities bond under\nwriting activity and by increasing its holdings Arizona municipal\nbonds by $685.\n\n\noperating earnings $6655633, equivalent $2.67\nper share This gain 1863 1862 earnings $233\nSHARE adjusted 81 dividend paid February 1863\nDue the substantial increase in deposits and the AZ\nbeing paid these funds savings deposit received\ntotal of $12265O3 in interest This $2O248O9\n20%, increase the previous year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2893,
+                    "y0": 2949,
+                    "x1": 4287,
+                    "y1": 3101
+                },
+                {
+                    "x0": 2870,
+                    "y0": 3129,
+                    "x1": 4555,
+                    "y1": 4313
+                }
+            ],
+            "bbox": [
+                2870,
+                2949,
+                4555,
+                4313
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-01-10_p1_sn84021918_0041421695A_1964011001_0257.json"
+        }
+    ]
+}

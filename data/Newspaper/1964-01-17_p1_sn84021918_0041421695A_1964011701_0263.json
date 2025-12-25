@@ -1,0 +1,429 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011701/0263.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4805
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1967,
+                "y0": 585,
+                "x1": 2791,
+                "y1": 1665
+            },
+            "class": "article",
+            "raw_text": "BROWNSVILLE, Tenn. Hill\nlizard Currin. a Negro farmer Of\n700 acres, ID q new member Of\nthe U. S. Department Of Agri-\ncultures advisory committee on\nfeed grams and wheat.\n\n\nMr.. Currin Is the first Of his\nrace to serve on this committee.\nHe holds BIS degree from Ten\nnessee A and l State Univer-\nsity.\n\n\nBefore taking over the 700ac\nfarm. he taught vocational agri-\nculture for sevenyears. His farm\nincludes ESQ acres Of corn and\nother grains, 100 acres of cotton\nand ESQ acres in pasture for his\n200 head Of beef cattle.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1973,
+                "y0": 330,
+                "x1": 2635,
+                "y1": 546
+            },
+            "class": "headline",
+            "raw_text": "NEGRO ON\nAGRICULTURE\nADVISORY BOARD",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2860,
+                "y0": 2905,
+                "x1": 3679,
+                "y1": 3688
+            },
+            "class": "article",
+            "raw_text": "ALBANY, MY. = Justice Is\nadore Bookstein of the State SUI\npreme Court ruled than an order\nof education commissioner ia\nmes Allen for Long Island\nschool district to set up new\nenrolment plan was discr1mi-\nnatory against the white pupils.\n\n\nAllen had ordered the district\nto end an 80 per cent Negro\nstudent body at one school and\nsend them to schools in outlying\nneighborhoods.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2872,
+                "y0": 2707,
+                "x1": 3945,
+                "y1": 2871
+            },
+            "class": "headline",
+            "raw_text": "NY, JUSTICE RULES OUT\n\n\nIMMIGRATION SCHOOL ORDER",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1080,
+                "y0": 550,
+                "x1": 1910,
+                "y1": 1885
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Pageant maya\nzine this week cited Constance\nBaker Motley, associate counsel,\nNAACP Legal Defense Fund. az\nthe American to watch In the field\nOf race relations In 1864.\n\n\nMrs. Motley, attorney for James\nMeredith and host Of other his\ntoric civil rights cases. holds the\nnumber two administrative post\nat the Fund which represented\n1O,485 demonstrators in 1868.\n\n\nAmong the distinguished cit\nliens cited by Pageant are DR..\nJohn P. Merrill, medicine, a\nleader in the field of kidney trans\nplantation: Rev. Malcolm Boyd,\nreligion, Espicopal Chaplain,\nWayne State University.\n\n\nAlso, Michael O. Sullivan,\ntheatre, star of the off-Broadway\nsmash, elm White America\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1092,
+                "y0": 353,
+                "x1": 1771,
+                "y1": 511
+            },
+            "class": "headline",
+            "raw_text": "MAGAZINE NAMES\nFEMME LAWYER",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3765,
+                "y0": 2910,
+                "x1": 4577,
+                "y1": 3694
+            },
+            "class": "article",
+            "raw_text": "The NAACP had complained that\npupils In one Malverene school\nwe're denied equal educational OPP\nportunity because they had few\nassociations with whites.\n\n\nBookstein cites a US. District\nCourt decision in support Of his\nfindings. The case occurred in\nIndiana last year. Bookstein said\nthe court held that the Constitu-\ntion \"neither forbids racial i'm\nbalance nor compels racial i'm\nbalance\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1979,
+                "y0": 4256,
+                "x1": 2791,
+                "y1": 5271
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The US. SUI\npreme Court ruled this week that\nNew Orleans must allow Negroes\nto utilize its municipal audi\nforum.\n\n\nThe victory was won by attorneys\nOf the NAACP Legal Defense\nFund. APP. Tureaud and Ernest\nMortal, both Of New Orleans.\n\n\nTrouble arose when Horace c..\nBynum Of the local NAACP chap\nter attempted to secure the audi\nforum for a meeting.\n\n\nHe was denied despite the fact\nthat the White Citizens Councils\nhad been permitted to use the\nfacilities.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1985,
+                "y0": 4000,
+                "x1": 2664,
+                "y1": 4228
+            },
+            "class": "headline",
+            "raw_text": "NEGROES MAY\nUSE LOUISIANA\nCITY AUDITORIUM",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1973,
+                "y0": 2035,
+                "x1": 2803,
+                "y1": 3943
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Families of\nautomobile workers in South\nBend, Ind, laid off by curtail-\nment of Studebaker operations.\nare now receiving federally-do-\nmated foods, the US. Department\nOf Agriculture reports.\n\n\nElsewhere in the nation, more\nthan 100 counties and towns are\nresuming food donations to needy\npersons for the winter months, a\nperiod when farm and other work.\ners are seasonally unemployed.\n\n\nIn Kentucky. about 1900 per-\nsons in four counties we're added\nto the food distribution rolls. An\nother d counties across the\nNation are beginning family do\nnation programs for the first\ntime.\n\n\nThese renewed efforts to wipe\nout pockets Of need are in\nresponse to President Lyndon\nB. Johnson 8 request for fuller\nuse Of America s food abundance.\nOn Thanksgiving Day, Secretary\nof Agriculture OrMlle L. Free\nman echoed this plea in a letter\nto the Governors of the so States,\nrequesting them to review steps\nthat would help include all people\nin need Of their programs.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1979,
+                "y0": 1768,
+                "x1": 2612,
+                "y1": 2007
+            },
+            "class": "headline",
+            "raw_text": "FEDERAL FOODS\nSENT TO SOUTH\nBEND, INDIANA",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 175,
+                "y0": 545,
+                "x1": 1000,
+                "y1": 1688
+            },
+            "class": "article",
+            "raw_text": "MIAMI, Fla. The famous Flori-\nda A and university band, the\nMarching Hundred, was the fea-\ntured attraction Of the Orange\nBowl during the CHS televised\nNational Football League playoff\ngame between the Cleveland\nBrowns and the Green Bay Pack\ners, Sun., Jan. 5.\n\n\nThe incompatible 1872 piece\nFAMU band we're shown over\nnationwide teleNsion hoolup for\nnearly 20 minutes. The telecast\nincluded 2lO stations of the Co\nlumbia Broadcasting System.\n\n\nDR.. William P. Foster, band\ndirector, put the band through\ncreative precision marching and\npresented excellent music.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 164,
+                "y0": 371,
+                "x1": 988,
+                "y1": 522
+            },
+            "class": "headline",
+            "raw_text": "FAMU BAND THRILLED\nMILLIONS ON CBS-TV",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-01-17"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "NEGRO ON\nAGRICULTURE\nADVISORY BOARD",
+            "article": "BROWNSVILLE, Tenn. Hill\nlizard Currin. a Negro farmer Of\n700 acres, ID q new member Of\nthe U. S. Department Of Agri-\ncultures advisory committee on\nfeed grams and wheat.\n\n\nMr.. Currin Is the first Of his\nrace to serve on this committee.\nHe holds BIS degree from Ten\nnessee A and l State Univer-\nsity.\n\n\nBefore taking over the 700ac\nfarm. he taught vocational agri-\nculture for sevenyears. His farm\nincludes ESQ acres Of corn and\nother grains, 100 acres of cotton\nand ESQ acres in pasture for his\n200 head Of beef cattle.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1973,
+                    "y0": 330,
+                    "x1": 2635,
+                    "y1": 546
+                },
+                {
+                    "x0": 1967,
+                    "y0": 585,
+                    "x1": 2791,
+                    "y1": 1665
+                }
+            ],
+            "bbox": [
+                1967,
+                330,
+                2791,
+                1665
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-17_p1_sn84021918_0041421695A_1964011701_0263.json"
+        },
+        {
+            "object_ids": [
+                19,
+                2
+            ],
+            "headline": "NY, JUSTICE RULES OUT\n\n\nIMMIGRATION SCHOOL ORDER",
+            "article": "ALBANY, MY. = Justice Is\nadore Bookstein of the State SUI\npreme Court ruled than an order\nof education commissioner ia\nmes Allen for Long Island\nschool district to set up new\nenrolment plan was discr1mi-\nnatory against the white pupils.\n\n\nAllen had ordered the district\nto end an 80 per cent Negro\nstudent body at one school and\nsend them to schools in outlying\nneighborhoods.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2872,
+                    "y0": 2707,
+                    "x1": 3945,
+                    "y1": 2871
+                },
+                {
+                    "x0": 2860,
+                    "y0": 2905,
+                    "x1": 3679,
+                    "y1": 3688
+                }
+            ],
+            "bbox": [
+                2860,
+                2707,
+                3945,
+                3688
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-17_p1_sn84021918_0041421695A_1964011701_0263.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "MAGAZINE NAMES\nFEMME LAWYER",
+            "article": "NEW YORK = Pageant maya\nzine this week cited Constance\nBaker Motley, associate counsel,\nNAACP Legal Defense Fund. az\nthe American to watch In the field\nOf race relations In 1864.\n\n\nMrs. Motley, attorney for James\nMeredith and host Of other his\ntoric civil rights cases. holds the\nnumber two administrative post\nat the Fund which represented\n1O,485 demonstrators in 1868.\n\n\nAmong the distinguished cit\nliens cited by Pageant are DR..\nJohn P. Merrill, medicine, a\nleader in the field of kidney trans\nplantation: Rev. Malcolm Boyd,\nreligion, Espicopal Chaplain,\nWayne State University.\n\n\nAlso, Michael O. Sullivan,\ntheatre, star of the off-Broadway\nsmash, elm White America\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1092,
+                    "y0": 353,
+                    "x1": 1771,
+                    "y1": 511
+                },
+                {
+                    "x0": 1080,
+                    "y0": 550,
+                    "x1": 1910,
+                    "y1": 1885
+                }
+            ],
+            "bbox": [
+                1080,
+                353,
+                1910,
+                1885
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-17_p1_sn84021918_0041421695A_1964011701_0263.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "The NAACP had complained that\npupils In one Malverene school\nwe're denied equal educational OPP\nportunity because they had few\nassociations with whites.\n\n\nBookstein cites a US. District\nCourt decision in support Of his\nfindings. The case occurred in\nIndiana last year. Bookstein said\nthe court held that the Constitu-\ntion \"neither forbids racial i'm\nbalance nor compels racial i'm\nbalance\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3765,
+                    "y0": 2910,
+                    "x1": 4577,
+                    "y1": 3694
+                }
+            ],
+            "bbox": [
+                3765,
+                2910,
+                4577,
+                3694
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-17_p1_sn84021918_0041421695A_1964011701_0263.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "NEGROES MAY\nUSE LOUISIANA\nCITY AUDITORIUM",
+            "article": "WASHINGTON The US. SUI\npreme Court ruled this week that\nNew Orleans must allow Negroes\nto utilize its municipal audi\nforum.\n\n\nThe victory was won by attorneys\nOf the NAACP Legal Defense\nFund. APP. Tureaud and Ernest\nMortal, both Of New Orleans.\n\n\nTrouble arose when Horace c..\nBynum Of the local NAACP chap\nter attempted to secure the audi\nforum for a meeting.\n\n\nHe was denied despite the fact\nthat the White Citizens Councils\nhad been permitted to use the\nfacilities.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1985,
+                    "y0": 4000,
+                    "x1": 2664,
+                    "y1": 4228
+                },
+                {
+                    "x0": 1979,
+                    "y0": 4256,
+                    "x1": 2791,
+                    "y1": 5271
+                }
+            ],
+            "bbox": [
+                1979,
+                4000,
+                2791,
+                5271
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-17_p1_sn84021918_0041421695A_1964011701_0263.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "FEDERAL FOODS\nSENT TO SOUTH\nBEND, INDIANA",
+            "article": "WASHINGTON Families of\nautomobile workers in South\nBend, Ind, laid off by curtail-\nment of Studebaker operations.\nare now receiving federally-do-\nmated foods, the US. Department\nOf Agriculture reports.\n\n\nElsewhere in the nation, more\nthan 100 counties and towns are\nresuming food donations to needy\npersons for the winter months, a\nperiod when farm and other work.\ners are seasonally unemployed.\n\n\nIn Kentucky. about 1900 per-\nsons in four counties we're added\nto the food distribution rolls. An\nother d counties across the\nNation are beginning family do\nnation programs for the first\ntime.\n\n\nThese renewed efforts to wipe\nout pockets Of need are in\nresponse to President Lyndon\nB. Johnson 8 request for fuller\nuse Of America s food abundance.\nOn Thanksgiving Day, Secretary\nof Agriculture OrMlle L. Free\nman echoed this plea in a letter\nto the Governors of the so States,\nrequesting them to review steps\nthat would help include all people\nin need Of their programs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1979,
+                    "y0": 1768,
+                    "x1": 2612,
+                    "y1": 2007
+                },
+                {
+                    "x0": 1973,
+                    "y0": 2035,
+                    "x1": 2803,
+                    "y1": 3943
+                }
+            ],
+            "bbox": [
+                1973,
+                1768,
+                2803,
+                3943
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-17_p1_sn84021918_0041421695A_1964011701_0263.json"
+        },
+        {
+            "object_ids": [
+                18,
+                8
+            ],
+            "headline": "FAMU BAND THRILLED\nMILLIONS ON CBS-TV",
+            "article": "MIAMI, Fla. The famous Flori-\nda A and university band, the\nMarching Hundred, was the fea-\ntured attraction Of the Orange\nBowl during the CHS televised\nNational Football League playoff\ngame between the Cleveland\nBrowns and the Green Bay Pack\ners, Sun., Jan. 5.\n\n\nThe incompatible 1872 piece\nFAMU band we're shown over\nnationwide teleNsion hoolup for\nnearly 20 minutes. The telecast\nincluded 2lO stations of the Co\nlumbia Broadcasting System.\n\n\nDR.. William P. Foster, band\ndirector, put the band through\ncreative precision marching and\npresented excellent music.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 164,
+                    "y0": 371,
+                    "x1": 988,
+                    "y1": 522
+                },
+                {
+                    "x0": 175,
+                    "y0": 545,
+                    "x1": 1000,
+                    "y1": 1688
+                }
+            ],
+            "bbox": [
+                164,
+                371,
+                1000,
+                1688
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-17_p1_sn84021918_0041421695A_1964011701_0263.json"
+        }
+    ]
+}

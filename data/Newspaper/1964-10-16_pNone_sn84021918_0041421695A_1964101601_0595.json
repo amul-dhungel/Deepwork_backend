@@ -1,0 +1,234 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-16",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7479,
+        "width": 4876,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-16",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0595.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1917,
+                "y0": 2506,
+                "x1": 2736,
+                "y1": 3734
+            },
+            "class": "article",
+            "raw_text": "Sum-, Oct. l8 = Plan to attend\nour Indian Summer Fa shion Show.\nThe program begins at 4 pm.\nAdults : ST.; students 500.\n\n\nOct. 81 Grand Canyon Temple\n437 annual Halloween Dance is\na \"must' affair. Donation S rs.\nPrizes and surprises for all.\nSick list includes DIT. Lillian\nFlora Hightower who will be re-\nleased this week from St. Jo-\nseph' S Hospital.\n\n\nDIT. Mary Thompson, 1921 So.\n2lst Street, and DIT. Myrtle Jack\nson, 1917 w. Pima, are also con-\nfined.\n\n\nHappy Birthday to Bro. James\nMcElroy on Oct. g. and Dts.\nYvonne Epperson and Mayfaire\nAlexander.\n\n\nOur ageless member Bro.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1958,
+                "y0": 2366,
+                "x1": 2474,
+                "y1": 2478
+            },
+            "class": "headline",
+            "raw_text": "ELKs CORNER",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2800,
+                "y0": 2372,
+                "x1": 3613,
+                "y1": 2840
+            },
+            "class": "article",
+            "raw_text": "Bonnie Nicholson will be o5' on\nOct. %.\n\n\nMake a note on your calendar\nfor our annual Purple and White\nformal on Dec. ID.\n\n\nCharlesetta McClammy\n\n\nElkS Reporter",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3676,
+                "y0": 2056,
+                "x1": 4484,
+                "y1": 2823
+            },
+            "class": "article",
+            "raw_text": "A Community Relations Day\nwill be held Sat-, Oct. IL at the\nBeacon Light Church of Seventh\nDay Adventists. o63 E. Monro e.\n\n\nThe activities will include\nSabbath School at $3.50, ann, di-\nrected by Mrs. Bernard Cayton,\nand youth program at 4:30p.m..\ndirected by Mrs. William Collins.\n\n\nRev. James P. Middleton will\ndeliver a sermon at IL a.m.,\nentitled, \"The Black Man in Bible\nProphecy\"",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 135,
+                "y0": 4353,
+                "x1": 4373,
+                "y1": 6095
+            },
+            "class": "article",
+            "raw_text": "the und\nMust ofo\nbachelor electrical ensnea from\n\n\n\nundrad\nv.. at\nOf niHoned\nhtveO\no least 0\nn",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 264,
+                "y0": 3780,
+                "x1": 3426,
+                "y1": 4324
+            },
+            "class": "headline",
+            "raw_text": "MOTOR A\nas Job Openings For\nENGINEERS AND TECHN|CIANS",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964101601_0595",
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                0
+            ],
+            "headline": "ELKs CORNER",
+            "article": "Sum-, Oct. l8 = Plan to attend\nour Indian Summer Fa shion Show.\nThe program begins at 4 pm.\nAdults : ST.; students 500.\n\n\nOct. 81 Grand Canyon Temple\n437 annual Halloween Dance is\na \"must' affair. Donation S rs.\nPrizes and surprises for all.\nSick list includes DIT. Lillian\nFlora Hightower who will be re-\nleased this week from St. Jo-\nseph' S Hospital.\n\n\nDIT. Mary Thompson, 1921 So.\n2lst Street, and DIT. Myrtle Jack\nson, 1917 w. Pima, are also con-\nfined.\n\n\nHappy Birthday to Bro. James\nMcElroy on Oct. g. and Dts.\nYvonne Epperson and Mayfaire\nAlexander.\n\n\nOur ageless member Bro.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1958,
+                    "y0": 2366,
+                    "x1": 2474,
+                    "y1": 2478
+                },
+                {
+                    "x0": 1917,
+                    "y0": 2506,
+                    "x1": 2736,
+                    "y1": 3734
+                }
+            ],
+            "bbox": [
+                1917,
+                2366,
+                2736,
+                3734
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-16_pna_sn84021918_0041421695A_1964101601_0595.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Bonnie Nicholson will be o5' on\nOct. %.\n\n\nMake a note on your calendar\nfor our annual Purple and White\nformal on Dec. ID.\n\n\nCharlesetta McClammy\n\n\nElkS Reporter",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2800,
+                    "y0": 2372,
+                    "x1": 3613,
+                    "y1": 2840
+                }
+            ],
+            "bbox": [
+                2800,
+                2372,
+                3613,
+                2840
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-16_pna_sn84021918_0041421695A_1964101601_0595.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "A Community Relations Day\nwill be held Sat-, Oct. IL at the\nBeacon Light Church of Seventh\nDay Adventists. o63 E. Monro e.\n\n\nThe activities will include\nSabbath School at $3.50, ann, di-\nrected by Mrs. Bernard Cayton,\nand youth program at 4:30p.m..\ndirected by Mrs. William Collins.\n\n\nRev. James P. Middleton will\ndeliver a sermon at IL a.m.,\nentitled, \"The Black Man in Bible\nProphecy\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3676,
+                    "y0": 2056,
+                    "x1": 4484,
+                    "y1": 2823
+                }
+            ],
+            "bbox": [
+                3676,
+                2056,
+                4484,
+                2823
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-10-16_pna_sn84021918_0041421695A_1964101601_0595.json"
+        },
+        {
+            "object_ids": [
+                15,
+                13
+            ],
+            "headline": "MOTOR A\nas Job Openings For\nENGINEERS AND TECHN|CIANS",
+            "article": "the und\nMust ofo\nbachelor electrical ensnea from\n\n\n\nundrad\nv.. at\nOf niHoned\nhtveO\no least 0\nn",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 264,
+                    "y0": 3780,
+                    "x1": 3426,
+                    "y1": 4324
+                },
+                {
+                    "x0": 135,
+                    "y0": 4353,
+                    "x1": 4373,
+                    "y1": 6095
+                }
+            ],
+            "bbox": [
+                135,
+                3780,
+                4373,
+                6095
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-10-16_pna_sn84021918_0041421695A_1964101601_0595.json"
+        }
+    ]
+}

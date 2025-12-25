@@ -1,0 +1,252 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964051501/0400.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4827
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2864,
+                "y0": 2639,
+                "x1": 3682,
+                "y1": 2877
+            },
+            "class": "article",
+            "raw_text": "Bishop Daniel A. Payne was\nan AME Church leader and an\nactive educator, during the Civil\nWar.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3055,
+                "y0": 2465,
+                "x1": 4347,
+                "y1": 2605
+            },
+            "class": "headline",
+            "raw_text": "Bishop Payne Bought College",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3739,
+                "y0": 2645,
+                "x1": 4556,
+                "y1": 2895
+            },
+            "class": "article",
+            "raw_text": "In March 1868, he bought Will\nberforce University for $4,000\nfrom the Methodist Episcopal\nChurch Gan all white group.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1944,
+                "y0": 2952,
+                "x1": 2779,
+                "y1": 4805
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Secretary of\nLabor w. Willard Wirtz In his\nreport to Congress on the first\nfull year Of operations under\nthe Manpower Development and\nTraining Act. noted that the eff\nfects of lack of schooling are so\ndrastic in the case of some\nyouths. that not only are they un-\nable to find any employment for\nwhich they are qualified. he added\nthey are virtually incapable of\nbeing trained for a vocation and\njob.\n\n\nThe Secretary called attention\nto the fact that nearly one-fourth\nof the manpower program train\nees at the present time are nom\nwhite - about the same proper\ntion as this group represented\namong all unemployed persons\nin 1868. More than 40 percent\nof all trainees we're women.\n\n\nThe typical trainee in 1868\nwas a young adult with family\nresponsibilities. Two-thirds Of\nthe male trainees were heads of\nhouseholds. Six out of ten were\nprimary wage earners. Most Of\nthe trainees were high school\ngraduates.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1985,
+                "y0": 2720,
+                "x1": 2622,
+                "y1": 2912
+            },
+            "class": "headline",
+            "raw_text": "Wirtz Reports On\n\n\nTruinins Program",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1962,
+                "y0": 5076,
+                "x1": 2779,
+                "y1": 5795
+            },
+            "class": "article",
+            "raw_text": "LEOPOLDVILLE. The Congo\nThree Italian priests have fled\ntheir mission in Kivu Province\nafter an attack by knife WELD\ning terrorists.\n\n\nSources said the priests had\narrived at Belgian-run sugar\nrefinery near Uvira. They ap-\nparently walked about 20 miles\nthrough rugged, mountainous\nCountry from their mission at\nMulenge.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1956,
+                "y0": 4867,
+                "x1": 2564,
+                "y1": 5054
+            },
+            "class": "headline",
+            "raw_text": "PRIESTS\nFLEE 1ERRoRIs1s",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-05-15"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                8
+            ],
+            "headline": "Bishop Payne Bought College",
+            "article": "Bishop Daniel A. Payne was\nan AME Church leader and an\nactive educator, during the Civil\nWar.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3055,
+                    "y0": 2465,
+                    "x1": 4347,
+                    "y1": 2605
+                },
+                {
+                    "x0": 2864,
+                    "y0": 2639,
+                    "x1": 3682,
+                    "y1": 2877
+                }
+            ],
+            "bbox": [
+                2864,
+                2465,
+                4347,
+                2877
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-15_p1_sn84021918_0041421695A_1964051501_0400.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "In March 1868, he bought Will\nberforce University for $4,000\nfrom the Methodist Episcopal\nChurch Gan all white group.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3739,
+                    "y0": 2645,
+                    "x1": 4556,
+                    "y1": 2895
+                }
+            ],
+            "bbox": [
+                3739,
+                2645,
+                4556,
+                2895
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-05-15_p1_sn84021918_0041421695A_1964051501_0400.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "Wirtz Reports On\n\n\nTruinins Program",
+            "article": "WASHINGTON Secretary of\nLabor w. Willard Wirtz In his\nreport to Congress on the first\nfull year Of operations under\nthe Manpower Development and\nTraining Act. noted that the eff\nfects of lack of schooling are so\ndrastic in the case of some\nyouths. that not only are they un-\nable to find any employment for\nwhich they are qualified. he added\nthey are virtually incapable of\nbeing trained for a vocation and\njob.\n\n\nThe Secretary called attention\nto the fact that nearly one-fourth\nof the manpower program train\nees at the present time are nom\nwhite - about the same proper\ntion as this group represented\namong all unemployed persons\nin 1868. More than 40 percent\nof all trainees we're women.\n\n\nThe typical trainee in 1868\nwas a young adult with family\nresponsibilities. Two-thirds Of\nthe male trainees were heads of\nhouseholds. Six out of ten were\nprimary wage earners. Most Of\nthe trainees were high school\ngraduates.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1985,
+                    "y0": 2720,
+                    "x1": 2622,
+                    "y1": 2912
+                },
+                {
+                    "x0": 1944,
+                    "y0": 2952,
+                    "x1": 2779,
+                    "y1": 4805
+                }
+            ],
+            "bbox": [
+                1944,
+                2720,
+                2779,
+                4805
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-15_p1_sn84021918_0041421695A_1964051501_0400.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "PRIESTS\nFLEE 1ERRoRIs1s",
+            "article": "LEOPOLDVILLE. The Congo\nThree Italian priests have fled\ntheir mission in Kivu Province\nafter an attack by knife WELD\ning terrorists.\n\n\nSources said the priests had\narrived at Belgian-run sugar\nrefinery near Uvira. They ap-\nparently walked about 20 miles\nthrough rugged, mountainous\nCountry from their mission at\nMulenge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1956,
+                    "y0": 4867,
+                    "x1": 2564,
+                    "y1": 5054
+                },
+                {
+                    "x0": 1962,
+                    "y0": 5076,
+                    "x1": 2779,
+                    "y1": 5795
+                }
+            ],
+            "bbox": [
+                1956,
+                4867,
+                2779,
+                5795
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-15_p1_sn84021918_0041421695A_1964051501_0400.json"
+        }
+    ]
+}

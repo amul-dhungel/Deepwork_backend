@@ -1,0 +1,753 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-08",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7391,
+        "width": 4880,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-08",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050801/0395.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3716,
+                "y0": 952,
+                "x1": 4392,
+                "y1": 1144
+            },
+            "class": "article",
+            "raw_text": "DELOIS' BEAUTY SHOP\nlib w. Grant St.\nAL 4-O560",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1071,
+                "y0": 409,
+                "x1": 1880,
+                "y1": 1409
+            },
+            "class": "article",
+            "raw_text": "MOBILE Ala Archbishop\nThomas ]. Toolen ordered every\nRoman Catholic school in Ala\nbama and northwest Florida de-\nsegregated in September.\n\n\nThe 77-year-old bishops or\nder apparently signalled the\ngreatest desegregation yet Of\nAlabama schools. Only about\ndozen Negro children now attend\npublic schools with whites in that\nstate. p\n\n\nIn a pastoral letter read to\ncongregations in every church in\nhis diocese. Toolen said deseg-\nregation was necessary \"in JUS\ntice and charity\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1083,
+                "y0": 202,
+                "x1": 1649,
+                "y1": 376
+            },
+            "class": "headline",
+            "raw_text": "BISHOP ORDERS\nDISSERTATION",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 147,
+                "y0": 542,
+                "x1": 974,
+                "y1": 1415
+            },
+            "class": "article",
+            "raw_text": "\n\n\nCHICAGO Stephin dFetchit I'll.\nCOMEDIAN we'll known for his\nshSfMM iy aga SLOW SLOW speech oles is\nIll Agd%ibout, funds in the Cook\nouhtyHospitaI.ad edf oya4s~\nFetchit 'hfade twoRmllion dol\nlars during his ~long-Hollywood\ncareer. He recalls the days when\nhe owned IL expensive cars and\nowned mansion stated with l6\nChinese servants.\n\n\nAtt one timent,e owned \"a $3.50\ncashmere suit and said ~ spent\nhis dnon&y Wildly .butshas no re-\nrretS. ~ I ~ Z & MI ~",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 164,
+                "y0": 196,
+                "x1": 847,
+                "y1": 514
+            },
+            "class": "headline",
+            "raw_text": "eomediu'' !. Ill.,; O\nAnd. Penni1esss\n\n\n\\ -s&In.GedW-A9i5s bns\n\n\nIN lido hlC0q0i uodd !",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2838,
+                "y0": 2904,
+                "x1": 3647,
+                "y1": 3350
+            },
+            "class": "article",
+            "raw_text": "blame for the resumption Of dem\nonstration must be laid at the\nfeet of Gov. Nelson Rockefeller\nand Mayor Robert Wagner for\nfailing to cancel contracts in\nvolving unions and contractors\nwho practice discriminatory hir-\ninC",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1978,
+                "y0": 2760,
+                "x1": 3110,
+                "y1": 2876
+            },
+            "class": "headline",
+            "raw_text": "New York To See Protests",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1966,
+                "y0": 2939,
+                "x1": 2775,
+                "y1": 3361
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The National As\nsociation for the Advancement of\nColored People has asked for\nprotest demonstrations this sum-\nmer at all public construction\nsites throughout New York state.\n\n\nNAACP leaders said that the",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3721,
+                "y0": 3037,
+                "x1": 4537,
+                "y1": 3286
+            },
+            "class": "article",
+            "raw_text": "FREE TRANSPORTATION-Help\ndrive to Oklahoma. Leave the\nfirst week in June APP 1880\nafter S pm.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3814,
+                "y0": 2915,
+                "x1": 4427,
+                "y1": 3003
+            },
+            "class": "headline",
+            "raw_text": "DRIVER WANTED",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1983,
+                "y0": 2251,
+                "x1": 3647,
+                "y1": 2732
+            },
+            "class": "article",
+            "raw_text": "These photographs show Of the participants Of the Ar\nState Employment Sercerban League youth job\nwhich held Saturday First Congregational Church.\n\n\nGuest speakers discussion leaders included\nSaeway Stores Mooroa International Business Machines\nand other businesses and industries.\n\n\nMore than 100 pupils attended ways preparing job\napplications and how dress plus other helpful job hints.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3716,
+                "y0": 2702,
+                "x1": 4288,
+                "y1": 2841
+            },
+            "class": "article",
+            "raw_text": "10 M BARBER SHOP\n1205 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3721,
+                "y0": 1997,
+                "x1": 4433,
+                "y1": 2189
+            },
+            "class": "article",
+            "raw_text": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3716,
+                "y0": 2471,
+                "x1": 4363,
+                "y1": 2657
+            },
+            "class": "article",
+            "raw_text": "COLDYS BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3727,
+                "y0": 479,
+                "x1": 4542,
+                "y1": 670
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n14l8 E. Washington\n258-O5ll",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3733,
+                "y0": 213,
+                "x1": 4479,
+                "y1": 451
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3716,
+                "y0": 2234,
+                "x1": 4513,
+                "y1": 2431
+            },
+            "class": "article",
+            "raw_text": "1ACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3721,
+                "y0": 716,
+                "x1": 4525,
+                "y1": 907
+            },
+            "class": "article",
+            "raw_text": "ALBRITTONS BEAUTY SHOP\n1916 E. Monroe\nAL 4-35o7",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3721,
+                "y0": 1189,
+                "x1": 4444,
+                "y1": 1369
+            },
+            "class": "article",
+            "raw_text": "LORETTA'S BEAUTY SHOP\n$50 W. Grant St.\n254-O7O6",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3721,
+                "y0": 1414,
+                "x1": 4311,
+                "y1": 1663
+            },
+            "class": "article",
+            "raw_text": "HILLS PHOENIClAN\nBEAUTY SHOP\n2l10 E. Jefferson\nAL $1,000",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3710,
+                "y0": 1703,
+                "x1": 4386,
+                "y1": 1964
+            },
+            "class": "article",
+            "raw_text": "LADY EBONEE BEAUTY\nCENTER\nol7W. Buckeye Rd.\nAL 2-2642",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964050801_0395",
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "DELOIS' BEAUTY SHOP\nlib w. Grant St.\nAL 4-O560",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3716,
+                    "y0": 952,
+                    "x1": 4392,
+                    "y1": 1144
+                }
+            ],
+            "bbox": [
+                3716,
+                952,
+                4392,
+                1144
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                6,
+                1
+            ],
+            "headline": "BISHOP ORDERS\nDISSERTATION",
+            "article": "MOBILE Ala Archbishop\nThomas ]. Toolen ordered every\nRoman Catholic school in Ala\nbama and northwest Florida de-\nsegregated in September.\n\n\nThe 77-year-old bishops or\nder apparently signalled the\ngreatest desegregation yet Of\nAlabama schools. Only about\ndozen Negro children now attend\npublic schools with whites in that\nstate. p\n\n\nIn a pastoral letter read to\ncongregations in every church in\nhis diocese. Toolen said deseg-\nregation was necessary \"in JUS\ntice and charity\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1083,
+                    "y0": 202,
+                    "x1": 1649,
+                    "y1": 376
+                },
+                {
+                    "x0": 1071,
+                    "y0": 409,
+                    "x1": 1880,
+                    "y1": 1409
+                }
+            ],
+            "bbox": [
+                1071,
+                202,
+                1880,
+                1409
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "eomediu'' !. Ill.,; O\nAnd. Penni1esss\n\n\n\\ -s&In.GedW-A9i5s bns\n\n\nIN lido hlC0q0i uodd !",
+            "article": "\n\n\nCHICAGO Stephin dFetchit I'll.\nCOMEDIAN we'll known for his\nshSfMM iy aga SLOW SLOW speech oles is\nIll Agd%ibout, funds in the Cook\nouhtyHospitaI.ad edf oya4s~\nFetchit 'hfade twoRmllion dol\nlars during his ~long-Hollywood\ncareer. He recalls the days when\nhe owned IL expensive cars and\nowned mansion stated with l6\nChinese servants.\n\n\nAtt one timent,e owned \"a $3.50\ncashmere suit and said ~ spent\nhis dnon&y Wildly .butshas no re-\nrretS. ~ I ~ Z & MI ~",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 164,
+                    "y0": 196,
+                    "x1": 847,
+                    "y1": 514
+                },
+                {
+                    "x0": 147,
+                    "y0": 542,
+                    "x1": 974,
+                    "y1": 1415
+                }
+            ],
+            "bbox": [
+                147,
+                196,
+                974,
+                1415
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "New York To See Protests",
+            "article": "blame for the resumption Of dem\nonstration must be laid at the\nfeet of Gov. Nelson Rockefeller\nand Mayor Robert Wagner for\nfailing to cancel contracts in\nvolving unions and contractors\nwho practice discriminatory hir-\ninC",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1978,
+                    "y0": 2760,
+                    "x1": 3110,
+                    "y1": 2876
+                },
+                {
+                    "x0": 2838,
+                    "y0": 2904,
+                    "x1": 3647,
+                    "y1": 3350
+                }
+            ],
+            "bbox": [
+                1978,
+                2760,
+                3647,
+                3350
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "NEW YORK The National As\nsociation for the Advancement of\nColored People has asked for\nprotest demonstrations this sum-\nmer at all public construction\nsites throughout New York state.\n\n\nNAACP leaders said that the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1966,
+                    "y0": 2939,
+                    "x1": 2775,
+                    "y1": 3361
+                }
+            ],
+            "bbox": [
+                1966,
+                2939,
+                2775,
+                3361
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "DRIVER WANTED",
+            "article": "FREE TRANSPORTATION-Help\ndrive to Oklahoma. Leave the\nfirst week in June APP 1880\nafter S pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3814,
+                    "y0": 2915,
+                    "x1": 4427,
+                    "y1": 3003
+                },
+                {
+                    "x0": 3721,
+                    "y0": 3037,
+                    "x1": 4537,
+                    "y1": 3286
+                }
+            ],
+            "bbox": [
+                3721,
+                2915,
+                4537,
+                3286
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "These photographs show Of the participants Of the Ar\nState Employment Sercerban League youth job\nwhich held Saturday First Congregational Church.\n\n\nGuest speakers discussion leaders included\nSaeway Stores Mooroa International Business Machines\nand other businesses and industries.\n\n\nMore than 100 pupils attended ways preparing job\napplications and how dress plus other helpful job hints.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1983,
+                    "y0": 2251,
+                    "x1": 3647,
+                    "y1": 2732
+                }
+            ],
+            "bbox": [
+                1983,
+                2251,
+                3647,
+                2732
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "10 M BARBER SHOP\n1205 w. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3716,
+                    "y0": 2702,
+                    "x1": 4288,
+                    "y1": 2841
+                }
+            ],
+            "bbox": [
+                3716,
+                2702,
+                4288,
+                2841
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3721,
+                    "y0": 1997,
+                    "x1": 4433,
+                    "y1": 2189
+                }
+            ],
+            "bbox": [
+                3721,
+                1997,
+                4433,
+                2189
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "COLDYS BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3716,
+                    "y0": 2471,
+                    "x1": 4363,
+                    "y1": 2657
+                }
+            ],
+            "bbox": [
+                3716,
+                2471,
+                4363,
+                2657
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                17,
+                23
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n14l8 E. Washington\n258-O5ll",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3733,
+                    "y0": 213,
+                    "x1": 4479,
+                    "y1": 451
+                },
+                {
+                    "x0": 3727,
+                    "y0": 479,
+                    "x1": 4542,
+                    "y1": 670
+                }
+            ],
+            "bbox": [
+                3727,
+                213,
+                4542,
+                670
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "1ACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3716,
+                    "y0": 2234,
+                    "x1": 4513,
+                    "y1": 2431
+                }
+            ],
+            "bbox": [
+                3716,
+                2234,
+                4513,
+                2431
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "ALBRITTONS BEAUTY SHOP\n1916 E. Monroe\nAL 4-35o7",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3721,
+                    "y0": 716,
+                    "x1": 4525,
+                    "y1": 907
+                }
+            ],
+            "bbox": [
+                3721,
+                716,
+                4525,
+                907
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "LORETTA'S BEAUTY SHOP\n$50 W. Grant St.\n254-O7O6",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3721,
+                    "y0": 1189,
+                    "x1": 4444,
+                    "y1": 1369
+                }
+            ],
+            "bbox": [
+                3721,
+                1189,
+                4444,
+                1369
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "HILLS PHOENIClAN\nBEAUTY SHOP\n2l10 E. Jefferson\nAL $1,000",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3721,
+                    "y0": 1414,
+                    "x1": 4311,
+                    "y1": 1663
+                }
+            ],
+            "bbox": [
+                3721,
+                1414,
+                4311,
+                1663
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "LADY EBONEE BEAUTY\nCENTER\nol7W. Buckeye Rd.\nAL 2-2642",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3710,
+                    "y0": 1703,
+                    "x1": 4386,
+                    "y1": 1964
+                }
+            ],
+            "bbox": [
+                3710,
+                1703,
+                4386,
+                1964
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-05-08_pna_sn84021918_0041421695A_1964050801_0395.json"
+        }
+    ]
+}

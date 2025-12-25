@@ -1,0 +1,262 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4882,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082801/0527.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 110,
+                "y0": 4028,
+                "x1": 923,
+                "y1": 4267
+            },
+            "class": "article",
+            "raw_text": "Mrs. Rosa Lee Dishroom, 2OOl\nw. Washington ST., has returned\nfrom vacationing with her sis\ntiers, Mrs. Mildred Jones of Ala",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 168,
+                "y0": 3912,
+                "x1": 824,
+                "y1": 4006
+            },
+            "class": "headline",
+            "raw_text": "Vacation News",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1020,
+                "y0": 3953,
+                "x1": 1839,
+                "y1": 4261
+            },
+            "class": "article",
+            "raw_text": "media and Mrs. Lille Downs of\nLos Angeles.\n\n\nShe also visited Mrs. Villa Nc\nDuell a niece of Mrs. James L.\nDavis in Berkeley.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2783,
+                "y0": 2417,
+                "x1": 4488,
+                "y1": 3374
+            },
+            "class": "article",
+            "raw_text": "Trustee Boards of\n9th Jefferson sponsored appreciation program Sum- Aug\n23 honoring the Rev. and Mrs. l.. K. Williams.\n\n\nFrom left pictured Mesdames Barnes Rosser,\nDR.. and Mrs. Curtis Greenfield Rev. and Mrs Williams Mrs. Inez\nRosser and Miss C. Townsend.\n\n\nOfficers of the Steward and Trustee Boards who hosed the\nprobation program honoring the L. K. Williams Sunday\nincluded from left Robert Cayrooks Mrs. Carrie Roberts, Leon\nJordan Mrs. Oby Bell Mesdames Florence Clay\nBrooks Magee George Selen and Mr. Sco o Stewards\n\n\nWords To Remember\nWe have no more right to con- without producing George\nhappiness without pro- Bernard Shaw",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2348,
+                "y0": 573,
+                "x1": 2702,
+                "y1": 2070
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2794,
+                "y0": 3234,
+                "x1": 3607,
+                "y1": 3357
+            },
+            "class": "article",
+            "raw_text": "We have no more right to con-\nsumo happiness without pro-",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3206,
+                "y0": 3095,
+                "x1": 4082,
+                "y1": 3200
+            },
+            "class": "headline",
+            "raw_text": "Words To Rememb Der",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 4916,
+                "y0": 382,
+                "x1": 6157,
+                "y1": 5589
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964082801_0527",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                0
+            ],
+            "headline": "Vacation News",
+            "article": "Mrs. Rosa Lee Dishroom, 2OOl\nw. Washington ST., has returned\nfrom vacationing with her sis\ntiers, Mrs. Mildred Jones of Ala",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 168,
+                    "y0": 3912,
+                    "x1": 824,
+                    "y1": 4006
+                },
+                {
+                    "x0": 110,
+                    "y0": 4028,
+                    "x1": 923,
+                    "y1": 4267
+                }
+            ],
+            "bbox": [
+                110,
+                3912,
+                923,
+                4267
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-28_pna_sn84021918_0041421695A_1964082801_0527.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "media and Mrs. Lille Downs of\nLos Angeles.\n\n\nShe also visited Mrs. Villa Nc\nDuell a niece of Mrs. James L.\nDavis in Berkeley.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1020,
+                    "y0": 3953,
+                    "x1": 1839,
+                    "y1": 4261
+                }
+            ],
+            "bbox": [
+                1020,
+                3953,
+                1839,
+                4261
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-28_pna_sn84021918_0041421695A_1964082801_0527.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Trustee Boards of\n9th Jefferson sponsored appreciation program Sum- Aug\n23 honoring the Rev. and Mrs. l.. K. Williams.\n\n\nFrom left pictured Mesdames Barnes Rosser,\nDR.. and Mrs. Curtis Greenfield Rev. and Mrs Williams Mrs. Inez\nRosser and Miss C. Townsend.\n\n\nOfficers of the Steward and Trustee Boards who hosed the\nprobation program honoring the L. K. Williams Sunday\nincluded from left Robert Cayrooks Mrs. Carrie Roberts, Leon\nJordan Mrs. Oby Bell Mesdames Florence Clay\nBrooks Magee George Selen and Mr. Sco o Stewards\n\n\nWords To Remember\nWe have no more right to con- without producing George\nhappiness without pro- Bernard Shaw",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2783,
+                    "y0": 2417,
+                    "x1": 4488,
+                    "y1": 3374
+                }
+            ],
+            "bbox": [
+                2783,
+                2417,
+                4488,
+                3374
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-08-28_pna_sn84021918_0041421695A_1964082801_0527.json"
+        },
+        {
+            "object_ids": [
+                17,
+                18
+            ],
+            "headline": "Words To Rememb Der",
+            "article": "We have no more right to con-\nsumo happiness without pro-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3206,
+                    "y0": 3095,
+                    "x1": 4082,
+                    "y1": 3200
+                },
+                {
+                    "x0": 2794,
+                    "y0": 3234,
+                    "x1": 3607,
+                    "y1": 3357
+                }
+            ],
+            "bbox": [
+                2794,
+                3095,
+                4082,
+                3357
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-08-28_pna_sn84021918_0041421695A_1964082801_0527.json"
+        }
+    ]
+}

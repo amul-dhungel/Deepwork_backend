@@ -1,0 +1,326 @@
+swagger: "2.0"
+info:
+  title: "WordAssistantAI API"
+  description: "AI-powered document creation and editing API with RAG support"
+  version: "1.0.0"
+  contact:
+    name: "WordAssistantAI Team"
+
+host: "localhost:8000"
+basePath: "/"
+schemes:
+  - "http"
+
+securityDefinitions:
+  SessionID:
+    type: "apiKey"
+    name: "X-Session-ID"
+    in: "header"
+    description: "Session identifier for user context"
+
+tags:
+  - name: "Health"
+    description: "Health check endpoints"
+  - name: "Files"
+    description: "File upload and management"
+  - name: "Generation"
+    description: "AI content generation"
+  - name: "Chat"
+    description: "Chat and conversation"
+  - name: "RAG"
+    description: "Retrieval-Augmented Generation for newspapers"
+  - name: "Mock"
+    description: "Testing and mock endpoints"
+
+paths:
+  /api/health:
+    get:
+      tags:
+        - "Health"
+      summary: "Health check"
+      description: "Check if the API is running"
+      responses:
+        200:
+          description: "API is healthy"
+          schema:
+            type: "object"
+            properties:
+              status:
+                type: "string"
+                example: "healthy"
+
+  /api/models/status:
+    get:
+      tags:
+        - "Health"
+      summary: "Get AI model status"
+      description: "Check status of all AI models (Claude, Gemini, Ollama)"
+      responses:
+        200:
+          description: "Model status information"
+          schema:
+            type: "object"
+            properties:
+              claude:
+                type: "boolean"
+              gemini:
+                type: "boolean"
+              ollama:
+                type: "boolean"
+
+  /api/upload:
+    post:
+      tags:
+        - "Files"
+      summary: "Upload files"
+      description: "Upload documents or images for processing"
+      security:
+        - SessionID: []
+      consumes:
+        - "multipart/form-data"
+      parameters:
+        - name: "X-Session-ID"
+          in: "header"
+          required: true
+          type: "string"
+        - name: "files"
+          in: "formData"
+          type: "file"
+          required: true
+          description: "Files to upload (PDF, DOCX, images)"
+      responses:
+        200:
+          description: "Upload successful"
+          schema:
+            type: "object"
+            properties:
+              status:
+                type: "string"
+              documents:
+                type: "array"
+                items:
+                  type: "object"
+              images:
+                type: "array"
+                items:
+                  type: "object"
+
+  /api/generate:
+    post:
+      tags:
+        - "Generation"
+      summary: "Generate AI report"
+      description: "Generate comprehensive AI-powered reports and documents"
+      security:
+        - SessionID: []
+      parameters:
+        - name: "X-Session-ID"
+          in: "header"
+          required: true
+          type: "string"
+        - name: "body"
+          in: "body"
+          required: true
+          schema:
+            type: "object"
+            required:
+              - "topic"
+            properties:
+              topic:
+                type: "string"
+                example: "Machine Learning in Healthcare"
+              purpose:
+                type: "string"
+              tone:
+                type: "string"
+                example: "professional"
+              key_points:
+                type: "array"
+                items:
+                  type: "string"
+      responses:
+        200:
+          description: "Generated content"
+        400:
+          description: "Missing session ID or topic"
+
+  /api/generate/academic_report:
+    post:
+      tags:
+        - "Generation"
+      summary: "Stream academic report"
+      description: "Generate and stream academic report with tables and diagrams"
+      security:
+        - SessionID: []
+      parameters:
+        - name: "X-Session-ID"
+          in: "header"
+          required: true
+          type: "string"
+        - name: "body"
+          in: "body"
+          required: true
+          schema:
+            type: "object"
+            required:
+              - "topic"
+            properties:
+              topic:
+                type: "string"
+                example: "Quantum Computing"
+      produces:
+        - "text/event-stream"
+      responses:
+        200:
+          description: "Streaming academic report (SSE)"
+
+  /api/stream_chat:
+    post:
+      tags:
+        - "Chat"
+      summary: "Stream chat response"
+      description: "Get streaming chat responses from AI"
+      security:
+        - SessionID: []
+      parameters:
+        - name: "X-Session-ID"
+          in: "header"
+          required: true
+          type: "string"
+        - name: "body"
+          in: "body"
+          required: true
+          schema:
+            type: "object"
+            required:
+              - "prompt"
+            properties:
+              prompt:
+                type: "string"
+                example: "Explain machine learning"
+      produces:
+        - "text/event-stream"
+      responses:
+        200:
+          description: "Streaming chat response (SSE)"
+
+  /api/rag/search:
+    post:
+      tags:
+        - "RAG"
+      summary: "Search newspapers"
+      description: "Search newspaper database using vector similarity"
+      parameters:
+        - name: "body"
+          in: "body"
+          required: true
+          schema:
+            type: "object"
+            required:
+              - "query"
+            properties:
+              query:
+                type: "string"
+                example: "Arizona 1964 civil rights"
+              n_results:
+                type: "integer"
+                default: 5
+      responses:
+        200:
+          description: "Search results with LLM summary"
+          schema:
+            type: "object"
+            properties:
+              newspapers:
+                type: "array"
+              llm_summary:
+                type: "string"
+
+  /api/rag/generate_layout:
+    post:
+      tags:
+        - "RAG"
+      summary: "Generate newspaper layout"
+      description: "Generate newspaper layout with 3 alternative suggestions"
+      parameters:
+        - name: "body"
+          in: "body"
+          schema:
+            type: "object"
+            properties:
+              query:
+                type: "string"
+                example: "Arizona newspaper 1964"
+      responses:
+        200:
+          description: "Newspaper layout with suggestions"
+          schema:
+            type: "object"
+            properties:
+              newspaper:
+                type: "object"
+              suggestions:
+                type: "array"
+                items:
+                  type: "object"
+              summary:
+                type: "string"
+        404:
+          description: "No newspapers found"
+
+  /api/rag/ingest:
+    post:
+      tags:
+        - "RAG"
+      summary: "Ingest newspapers"
+      description: "Ingest newspaper JSON files into vector database"
+      parameters:
+        - name: "body"
+          in: "body"
+          schema:
+            type: "object"
+            properties:
+              directory:
+                type: "string"
+                example: "./data/Newspaper"
+      responses:
+        200:
+          description: "Ingestion successful"
+          schema:
+            type: "object"
+            properties:
+              message:
+                type: "string"
+              count:
+                type: "integer"
+
+  /api/rag/status:
+    get:
+      tags:
+        - "RAG"
+      summary: "Get RAG status"
+      description: "Get status of RAG system and newspaper count"
+      responses:
+        200:
+          description: "RAG system status"
+          schema:
+            type: "object"
+            properties:
+              status:
+                type: "string"
+              newspaper_count:
+                type: "integer"
+              model:
+                type: "string"
+
+  /api/mock/stream_report:
+    get:
+      tags:
+        - "Mock"
+      summary: "Test streaming"
+      description: "Test streaming with mock newspaper data"
+      produces:
+        - "text/event-stream"
+      responses:
+        200:
+          description: "Streaming mock data (SSE)"

@@ -1,0 +1,78 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-23",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4693,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-23",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964102301/0602.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1930,
+                "y0": 1410,
+                "x1": 2746,
+                "y1": 2006
+            },
+            "class": "article",
+            "raw_text": "Paul S. Carter is an appliance\nsalesman in Montgomery Ward,\nThomas Mall store, 44th and E.\nThomas Rd.\n\n\nMr.. Carter, his wife, Helen.\nand two children, Paulette and\nAllan, moved to the city from\nBaltimore, Md.\n\n\nHe was a real estate broker\nfor Is years and is a veteran.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964102301_0602",
+    "full articles": [
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Paul S. Carter is an appliance\nsalesman in Montgomery Ward,\nThomas Mall store, 44th and E.\nThomas Rd.\n\n\nMr.. Carter, his wife, Helen.\nand two children, Paulette and\nAllan, moved to the city from\nBaltimore, Md.\n\n\nHe was a real estate broker\nfor Is years and is a veteran.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1930,
+                    "y0": 1410,
+                    "x1": 2746,
+                    "y1": 2006
+                }
+            ],
+            "bbox": [
+                1930,
+                1410,
+                2746,
+                2006
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-23_pna_sn84021918_0041421695A_1964102301_0602.json"
+        }
+    ]
+}

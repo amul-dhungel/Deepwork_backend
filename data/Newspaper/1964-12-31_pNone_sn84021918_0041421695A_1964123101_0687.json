@@ -1,0 +1,508 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7381,
+        "width": 4854,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964123101/0687.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 126,
+                "y0": 5985,
+                "x1": 940,
+                "y1": 7041
+            },
+            "class": "article",
+            "raw_text": "ATLANTA, Ga. = Kirkwood\nElementary School here. picketed\nin August by Negro parents and\ncivil rights demonstrators be-\ncause it did not accept Negro\nstudents, will begin enrolling Ne\ngroes Immediately after the New\nYear holiday.\n\n\nThe 422 while students now at\ntending will have the option OF\nremaining in the school or trans\nferring to other white elementary\nschools.\n\n\nCommenting on the shift to &C\nceptance of Negroes, Oby Brew\nerr, President of this citys Board\nof Education, declared: We've\nhad to face up to the realities",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 120,
+                "y0": 5645,
+                "x1": 1782,
+                "y1": 5940
+            },
+            "class": "headline",
+            "raw_text": "Atlanta School to Enroll\n\n\nNegroes at Start of New Year",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2796,
+                "y0": 5968,
+                "x1": 3604,
+                "y1": 7030
+            },
+            "class": "article",
+            "raw_text": "CHICAGO Pianist singer\nDorothy Donegan voicedher opin-\nions concerning Negro enter\ntainers during her recent en-\ngagement at the Edgewater Beach\nHotel.\n\n\nShe aimed her scathing re-\nmarks at Negro entertainers who\nmarry whites and seemingly get\nthe best jobs. She named Lena\nHorne and Eartha Kit as\nexamples.\n\n\nMiss Donegan blasted the\nhiring policy Of plush hotels and\nC lubs which pay different salaries\nto white and Negro performers.\n\n\nShe criticized Negro singers\nfor often overemphasizing sex in",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2801,
+                "y0": 5651,
+                "x1": 3558,
+                "y1": 5917
+            },
+            "class": "headline",
+            "raw_text": "Dorothy Donegun\nSpeaks Out",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1031,
+                "y0": 5991,
+                "x1": 1839,
+                "y1": 6995
+            },
+            "class": "article",
+            "raw_text": "of the situation. Our problem is\nto get some additional space for\nthese Negro children and to give\nthe white children a chance to\nmake a choice\"\n\n\nKirkwood, to the deep annoy\nance of Negro citizens, has had\nempty classroom space, while\ntwo nearby Negro elementary\nschools are overcrowded.\n\n\nCity education authorities had\nclashed sharply with the civil\nrights movement in taking the\nposition that the school does not\ncome under the Atlanta grade\na-year desegregation plan until\nthe fall of 1865.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1913,
+                "y0": 6510,
+                "x1": 2722,
+                "y1": 7047
+            },
+            "class": "article",
+            "raw_text": "A salute to Dick Gregory who\ninterested people from coast to\ncoast in helping to make Mis-\nsissippians enjoy a real Christ\nmas with turkey and all the trim\nmings and Mr.. Gregory made this\nproject one for all people regard\nless of race, creed, color or\nnational origin.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1896,
+                "y0": 6216,
+                "x1": 2733,
+                "y1": 6470
+            },
+            "class": "headline",
+            "raw_text": "Dick Gregory\nBrings Holiday Joy",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3666,
+                "y0": 6435,
+                "x1": 4475,
+                "y1": 7030
+            },
+            "class": "article",
+            "raw_text": "Prentiss Nixon, IA yrs. old,\nson of Mr.. and Mrs. Nixon, l547\nWest Tonic, was chosen \"Boy\nof the Month for December,\n1864, at Homes Unit of the Boys\nClub at 1901 West Sherman. The\naward is given monthly for the\nboy who is most outstanding in the\nclubs library, gym, and all ath-\nletic functions for that month.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3672,
+                "y0": 6233,
+                "x1": 4371,
+                "y1": 6413
+            },
+            "class": "headline",
+            "raw_text": ">'BoY Of the Month -\"\n\n\nfor Deem Der",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3661,
+                "y0": 5639,
+                "x1": 4469,
+                "y1": 6211
+            },
+            "class": "article",
+            "raw_text": "their songs. She said that she\nhad stopped drinking SO she could\nkeep from ending up broke and\nasking for benefit shows like\nDorothy cambridge or Ethel\nWaters.\n\n\nMiss Dongean said she had\nnever married because most men\nonly want to marry performer\nbecause of her salary.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1908,
+                "y0": 5639,
+                "x1": 2722,
+                "y1": 6176
+            },
+            "class": "article",
+            "raw_text": "Rev. George Ward, 1922 West\nIndian School Road, long time\ncollector of Lincoln's historical\nwritings and original picture with\nexact likeness of Lincoln such as\nthe one Mr.. Ward Is showing\nhere next to a synopsis of Lin\ncoins Message to Congress in\nDecember, 1864.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 126,
+                "y0": 1539,
+                "x1": 2641,
+                "y1": 1684
+            },
+            "class": "article",
+            "raw_text": "nd Of\nthe eEusein",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 120,
+                "y0": 1101,
+                "x1": 2399,
+                "y1": 1494
+            },
+            "class": "headline",
+            "raw_text": "BLACK AND white FORMAL\nA GALA AFFAIR",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1896,
+                "y0": 4907,
+                "x1": 2739,
+                "y1": 5588
+            },
+            "class": "article",
+            "raw_text": "1WU1 1WW5UO0 K~020I\nAv2\n\n\nfellow citizens Of The Senate\nand House of Representatives\nAgain The blessings of health\nond obundont hurvests claim\nour profoundesf orutitude to\n\n\nAlmighty God.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1908,
+                "y0": 4838,
+                "x1": 2716,
+                "y1": 4948
+            },
+            "class": "headline",
+            "raw_text": "That famous Beginning",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964123101_0687",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "Atlanta School to Enroll\n\n\nNegroes at Start of New Year",
+            "article": "ATLANTA, Ga. = Kirkwood\nElementary School here. picketed\nin August by Negro parents and\ncivil rights demonstrators be-\ncause it did not accept Negro\nstudents, will begin enrolling Ne\ngroes Immediately after the New\nYear holiday.\n\n\nThe 422 while students now at\ntending will have the option OF\nremaining in the school or trans\nferring to other white elementary\nschools.\n\n\nCommenting on the shift to &C\nceptance of Negroes, Oby Brew\nerr, President of this citys Board\nof Education, declared: We've\nhad to face up to the realities",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 120,
+                    "y0": 5645,
+                    "x1": 1782,
+                    "y1": 5940
+                },
+                {
+                    "x0": 126,
+                    "y0": 5985,
+                    "x1": 940,
+                    "y1": 7041
+                }
+            ],
+            "bbox": [
+                120,
+                5645,
+                1782,
+                7041
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                12,
+                6
+            ],
+            "headline": "Dorothy Donegun\nSpeaks Out",
+            "article": "CHICAGO Pianist singer\nDorothy Donegan voicedher opin-\nions concerning Negro enter\ntainers during her recent en-\ngagement at the Edgewater Beach\nHotel.\n\n\nShe aimed her scathing re-\nmarks at Negro entertainers who\nmarry whites and seemingly get\nthe best jobs. She named Lena\nHorne and Eartha Kit as\nexamples.\n\n\nMiss Donegan blasted the\nhiring policy Of plush hotels and\nC lubs which pay different salaries\nto white and Negro performers.\n\n\nShe criticized Negro singers\nfor often overemphasizing sex in",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2801,
+                    "y0": 5651,
+                    "x1": 3558,
+                    "y1": 5917
+                },
+                {
+                    "x0": 2796,
+                    "y0": 5968,
+                    "x1": 3604,
+                    "y1": 7030
+                }
+            ],
+            "bbox": [
+                2796,
+                5651,
+                3604,
+                7030
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "of the situation. Our problem is\nto get some additional space for\nthese Negro children and to give\nthe white children a chance to\nmake a choice\"\n\n\nKirkwood, to the deep annoy\nance of Negro citizens, has had\nempty classroom space, while\ntwo nearby Negro elementary\nschools are overcrowded.\n\n\nCity education authorities had\nclashed sharply with the civil\nrights movement in taking the\nposition that the school does not\ncome under the Atlanta grade\na-year desegregation plan until\nthe fall of 1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1031,
+                    "y0": 5991,
+                    "x1": 1839,
+                    "y1": 6995
+                }
+            ],
+            "bbox": [
+                1031,
+                5991,
+                1839,
+                6995
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                11,
+                8
+            ],
+            "headline": "Dick Gregory\nBrings Holiday Joy",
+            "article": "A salute to Dick Gregory who\ninterested people from coast to\ncoast in helping to make Mis-\nsissippians enjoy a real Christ\nmas with turkey and all the trim\nmings and Mr.. Gregory made this\nproject one for all people regard\nless of race, creed, color or\nnational origin.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1896,
+                    "y0": 6216,
+                    "x1": 2733,
+                    "y1": 6470
+                },
+                {
+                    "x0": 1913,
+                    "y0": 6510,
+                    "x1": 2722,
+                    "y1": 7047
+                }
+            ],
+            "bbox": [
+                1896,
+                6216,
+                2733,
+                7047
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                15,
+                9
+            ],
+            "headline": ">'BoY Of the Month -\"\n\n\nfor Deem Der",
+            "article": "Prentiss Nixon, IA yrs. old,\nson of Mr.. and Mrs. Nixon, l547\nWest Tonic, was chosen \"Boy\nof the Month for December,\n1864, at Homes Unit of the Boys\nClub at 1901 West Sherman. The\naward is given monthly for the\nboy who is most outstanding in the\nclubs library, gym, and all ath-\nletic functions for that month.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3672,
+                    "y0": 6233,
+                    "x1": 4371,
+                    "y1": 6413
+                },
+                {
+                    "x0": 3666,
+                    "y0": 6435,
+                    "x1": 4475,
+                    "y1": 7030
+                }
+            ],
+            "bbox": [
+                3666,
+                6233,
+                4475,
+                7030
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "their songs. She said that she\nhad stopped drinking SO she could\nkeep from ending up broke and\nasking for benefit shows like\nDorothy cambridge or Ethel\nWaters.\n\n\nMiss Dongean said she had\nnever married because most men\nonly want to marry performer\nbecause of her salary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3661,
+                    "y0": 5639,
+                    "x1": 4469,
+                    "y1": 6211
+                }
+            ],
+            "bbox": [
+                3661,
+                5639,
+                4469,
+                6211
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Rev. George Ward, 1922 West\nIndian School Road, long time\ncollector of Lincoln's historical\nwritings and original picture with\nexact likeness of Lincoln such as\nthe one Mr.. Ward Is showing\nhere next to a synopsis of Lin\ncoins Message to Congress in\nDecember, 1864.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 5639,
+                    "x1": 2722,
+                    "y1": 6176
+                }
+            ],
+            "bbox": [
+                1908,
+                5639,
+                2722,
+                6176
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                16,
+                20
+            ],
+            "headline": "BLACK AND white FORMAL\nA GALA AFFAIR",
+            "article": "nd Of\nthe eEusein",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 120,
+                    "y0": 1101,
+                    "x1": 2399,
+                    "y1": 1494
+                },
+                {
+                    "x0": 126,
+                    "y0": 1539,
+                    "x1": 2641,
+                    "y1": 1684
+                }
+            ],
+            "bbox": [
+                120,
+                1101,
+                2641,
+                1684
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        },
+        {
+            "object_ids": [
+                26,
+                25
+            ],
+            "headline": "That famous Beginning",
+            "article": "1WU1 1WW5UO0 K~020I\nAv2\n\n\nfellow citizens Of The Senate\nand House of Representatives\nAgain The blessings of health\nond obundont hurvests claim\nour profoundesf orutitude to\n\n\nAlmighty God.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 4838,
+                    "x1": 2716,
+                    "y1": 4948
+                },
+                {
+                    "x0": 1896,
+                    "y0": 4907,
+                    "x1": 2739,
+                    "y1": 5588
+                }
+            ],
+            "bbox": [
+                1896,
+                4838,
+                2739,
+                5588
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-12-31_pna_sn84021918_0041421695A_1964123101_0687.json"
+        }
+    ]
+}

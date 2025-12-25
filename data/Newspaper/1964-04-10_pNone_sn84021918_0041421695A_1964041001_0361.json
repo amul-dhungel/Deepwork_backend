@@ -1,0 +1,508 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7428,
+        "width": 4893,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041001/0361.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3827,
+                "y0": 539,
+                "x1": 4641,
+                "y1": 2084
+            },
+            "class": "article",
+            "raw_text": "way, has threatened such drastic\naction as going over the heads of\nthe programming executives to\nNBC Board Chairman Robert\nSarnoff. and Withdrawing Chevro-\nlet commercials from the Sunday\nnight show in question.\n\n\nThe network, on the other hand,\nis reported to be standing pat on\nits decision to air the one-hour\nprogram which features Ena\nHartman, young Negro actress.\nMiss Hartman, groomed by and\nunder contract to NBC, CUES\nstars as the daughter Of a Negro\nopera singer staying in Virginia\nCity who gets involved with the\nshows regular white, all-male\nranch family. The plot Is saidto\ndeal with prejudice in some way.\n\n\nGeneral Motors objected to\nshowing the controversial seq\nment, Variety said, ION the pre-\nmise of not wanting to whip up\nnational anMeties during the cur\nrent integration crisis\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2980,
+                "y0": 388,
+                "x1": 4153,
+                "y1": 511
+            },
+            "class": "headline",
+            "raw_text": "Bonanza Tv Show Stopped",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2063,
+                "y0": 528,
+                "x1": 2876,
+                "y1": 1997
+            },
+            "class": "article",
+            "raw_text": "Eight city pools will open the\nswimming season Thursday,\nApril 10, announced L. Cedric\nAustin, Superintendent Of the\nPhoenix Parks and Recreation\nDepartment.\n\n\nPools opening are: Encanto.\n18th Avenue & Encanto Blvd;\nFalcon. 35th Ave. & Roosevelt:\nHarmon, 5th Ave. & Yavapai:\nMadison, 10th St. & Glenrosa:\nMaryvale Park Pool. 5lst Ave.\n& Campbell: Perry Pool. 32nd\nSt. & Windsor: Sunnyslope Pool.\n3Ol w. Dunlap: and Washington\nPool, 23rd Ave. & Ocotillo.\n\n\nEncanto will open at 2 p.m.,\nweekdays and 10 ann. weekends\nand holidays. Harmon will open\nat $3.50 p.m., weekdays and IL\nnoon weekends and holidays. All\nothers will be open at $3.50 PM.\nweekdays and 10 ann, weekends\nand holidays. Closing time for all\npools will be E pm.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2075,
+                "y0": 353,
+                "x1": 2534,
+                "y1": 511
+            },
+            "class": "headline",
+            "raw_text": "POOLS OPEN\nTHURSDAY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2945,
+                "y0": 539,
+                "x1": 3759,
+                "y1": 2084
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - A report that\nGeneral Motors Corporation is\ntrying to pressure NBC-TV into\nshelving bonanza\" episode\nwhich features a Negro starlet\nhas drawn a hot blast from Roy\nwilkins. NAACP executive sec\nrotary.\n\n\nIn a telegram to Frederic Don\nner, chairman of the General Mo-\ntors Corporation board of direc-\ntors, Mr.. wilkins. highly In\ncensed at GINS slap at the\nNegroes drive for equality and\njustice, said:\n\n\n\"This Is no time for a major\nAmerican corporation to line up\nin an open support of exclusion\nbased upon race. 1t Is a time for\nmen and corporations to take af-\nfirmative action in behalf of hui\nman rights for ALL\"\n\n\nThe report, which appeared in\nthe April l edition of the enter\ntainment world weekly, Variety,\nsaid that GIN, in order to get It's",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2069,
+                "y0": 2176,
+                "x1": 2882,
+                "y1": 2815
+            },
+            "class": "article",
+            "raw_text": "CHICAGO-Singer Barbara Nc\nNair Is repeatedly dating comic\nMort Sahl. Miss McNair is a\nrising young Negro singer who\nhas several hit tunes.\n\n\nBoth were appearing at a fam\nGus New York supper club last\nweek.\n\n\nThe item linking their names\nwas reported by Herb Lyon a New\nYork columnist.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2086,
+                "y0": 2007,
+                "x1": 2615,
+                "y1": 2159
+            },
+            "class": "headline",
+            "raw_text": "SINGER LINKED\nWITH SAIL",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3845,
+                "y0": 2356,
+                "x1": 4652,
+                "y1": 2832
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Sen. Frank\nLausche Of Ohio told the Senate\nMonday that civil rights suppor-\ntiers are reported to be forming\nrifle clubs to protect demon\nstrators in Cleveland and that\nsuch reports are charming the\ncause of the Negro",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3311,
+                "y0": 2187,
+                "x1": 4263,
+                "y1": 2310
+            },
+            "class": "headline",
+            "raw_text": "Race Relations Diary",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2968,
+                "y0": 2361,
+                "x1": 3782,
+                "y1": 2838
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS: Anthony Ce-\nlebreeze. secretary of Health,\nEducation and Welfare, said Mon\nday that an end to racial discrim-\nination could solve many prob\nlens of the nation. He spoke\nbefore the Louisiana AFL-CIO\nstate convention.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 287,
+                "y0": 2547,
+                "x1": 1106,
+                "y1": 2792
+            },
+            "class": "article",
+            "raw_text": "ALBANY, Ga. Five Negro\nchildren registered to attend the\nfirst and second grades next fall\nin previously all white schools.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 310,
+                "y0": 2437,
+                "x1": 956,
+                "y1": 2525
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1181,
+                "y0": 2524,
+                "x1": 1994,
+                "y1": 2757
+            },
+            "class": "article",
+            "raw_text": "Experts say that the proper\nthickness of a coat of paint ap-\npiled to a home is four-thou-\nsandths of an inch.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1193,
+                "y0": 2408,
+                "x1": 1716,
+                "y1": 2507
+            },
+            "class": "headline",
+            "raw_text": "PAINT LIGHTLY",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 305,
+                "y0": 2094,
+                "x1": 1960,
+                "y1": 2409
+            },
+            "class": "article",
+            "raw_text": "Hitting hoop accuracy the Eastake Team runner\nup position in the league tournament\n\n\nincluded Alv Horn Jessie Ross chae Berry\nKenneth Sheffield McDanes, and Bernell Blunt.\n\n\nis Frank Holloway.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041001_0361",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "Bonanza Tv Show Stopped",
+            "article": "way, has threatened such drastic\naction as going over the heads of\nthe programming executives to\nNBC Board Chairman Robert\nSarnoff. and Withdrawing Chevro-\nlet commercials from the Sunday\nnight show in question.\n\n\nThe network, on the other hand,\nis reported to be standing pat on\nits decision to air the one-hour\nprogram which features Ena\nHartman, young Negro actress.\nMiss Hartman, groomed by and\nunder contract to NBC, CUES\nstars as the daughter Of a Negro\nopera singer staying in Virginia\nCity who gets involved with the\nshows regular white, all-male\nranch family. The plot Is saidto\ndeal with prejudice in some way.\n\n\nGeneral Motors objected to\nshowing the controversial seq\nment, Variety said, ION the pre-\nmise of not wanting to whip up\nnational anMeties during the cur\nrent integration crisis\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2980,
+                    "y0": 388,
+                    "x1": 4153,
+                    "y1": 511
+                },
+                {
+                    "x0": 3827,
+                    "y0": 539,
+                    "x1": 4641,
+                    "y1": 2084
+                }
+            ],
+            "bbox": [
+                2980,
+                388,
+                4641,
+                2084
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                11,
+                2
+            ],
+            "headline": "POOLS OPEN\nTHURSDAY",
+            "article": "Eight city pools will open the\nswimming season Thursday,\nApril 10, announced L. Cedric\nAustin, Superintendent Of the\nPhoenix Parks and Recreation\nDepartment.\n\n\nPools opening are: Encanto.\n18th Avenue & Encanto Blvd;\nFalcon. 35th Ave. & Roosevelt:\nHarmon, 5th Ave. & Yavapai:\nMadison, 10th St. & Glenrosa:\nMaryvale Park Pool. 5lst Ave.\n& Campbell: Perry Pool. 32nd\nSt. & Windsor: Sunnyslope Pool.\n3Ol w. Dunlap: and Washington\nPool, 23rd Ave. & Ocotillo.\n\n\nEncanto will open at 2 p.m.,\nweekdays and 10 ann. weekends\nand holidays. Harmon will open\nat $3.50 p.m., weekdays and IL\nnoon weekends and holidays. All\nothers will be open at $3.50 PM.\nweekdays and 10 ann, weekends\nand holidays. Closing time for all\npools will be E pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2075,
+                    "y0": 353,
+                    "x1": 2534,
+                    "y1": 511
+                },
+                {
+                    "x0": 2063,
+                    "y0": 528,
+                    "x1": 2876,
+                    "y1": 1997
+                }
+            ],
+            "bbox": [
+                2063,
+                353,
+                2876,
+                1997
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "NEW YORK - A report that\nGeneral Motors Corporation is\ntrying to pressure NBC-TV into\nshelving bonanza\" episode\nwhich features a Negro starlet\nhas drawn a hot blast from Roy\nwilkins. NAACP executive sec\nrotary.\n\n\nIn a telegram to Frederic Don\nner, chairman of the General Mo-\ntors Corporation board of direc-\ntors, Mr.. wilkins. highly In\ncensed at GINS slap at the\nNegroes drive for equality and\njustice, said:\n\n\n\"This Is no time for a major\nAmerican corporation to line up\nin an open support of exclusion\nbased upon race. 1t Is a time for\nmen and corporations to take af-\nfirmative action in behalf of hui\nman rights for ALL\"\n\n\nThe report, which appeared in\nthe April l edition of the enter\ntainment world weekly, Variety,\nsaid that GIN, in order to get It's",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2945,
+                    "y0": 539,
+                    "x1": 3759,
+                    "y1": 2084
+                }
+            ],
+            "bbox": [
+                2945,
+                539,
+                3759,
+                2084
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "SINGER LINKED\nWITH SAIL",
+            "article": "CHICAGO-Singer Barbara Nc\nNair Is repeatedly dating comic\nMort Sahl. Miss McNair is a\nrising young Negro singer who\nhas several hit tunes.\n\n\nBoth were appearing at a fam\nGus New York supper club last\nweek.\n\n\nThe item linking their names\nwas reported by Herb Lyon a New\nYork columnist.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2086,
+                    "y0": 2007,
+                    "x1": 2615,
+                    "y1": 2159
+                },
+                {
+                    "x0": 2069,
+                    "y0": 2176,
+                    "x1": 2882,
+                    "y1": 2815
+                }
+            ],
+            "bbox": [
+                2069,
+                2007,
+                2882,
+                2815
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "Race Relations Diary",
+            "article": "WASHINGTON Sen. Frank\nLausche Of Ohio told the Senate\nMonday that civil rights suppor-\ntiers are reported to be forming\nrifle clubs to protect demon\nstrators in Cleveland and that\nsuch reports are charming the\ncause of the Negro",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3311,
+                    "y0": 2187,
+                    "x1": 4263,
+                    "y1": 2310
+                },
+                {
+                    "x0": 3845,
+                    "y0": 2356,
+                    "x1": 4652,
+                    "y1": 2832
+                }
+            ],
+            "bbox": [
+                3311,
+                2187,
+                4652,
+                2832
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "NEW ORLEANS: Anthony Ce-\nlebreeze. secretary of Health,\nEducation and Welfare, said Mon\nday that an end to racial discrim-\nination could solve many prob\nlens of the nation. He spoke\nbefore the Louisiana AFL-CIO\nstate convention.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2968,
+                    "y0": 2361,
+                    "x1": 3782,
+                    "y1": 2838
+                }
+            ],
+            "bbox": [
+                2968,
+                2361,
+                3782,
+                2838
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                14,
+                8
+            ],
+            "headline": "",
+            "article": "ALBANY, Ga. Five Negro\nchildren registered to attend the\nfirst and second grades next fall\nin previously all white schools.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 310,
+                    "y0": 2437,
+                    "x1": 956,
+                    "y1": 2525
+                },
+                {
+                    "x0": 287,
+                    "y0": 2547,
+                    "x1": 1106,
+                    "y1": 2792
+                }
+            ],
+            "bbox": [
+                287,
+                2437,
+                1106,
+                2792
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                15,
+                9
+            ],
+            "headline": "PAINT LIGHTLY",
+            "article": "Experts say that the proper\nthickness of a coat of paint ap-\npiled to a home is four-thou-\nsandths of an inch.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1193,
+                    "y0": 2408,
+                    "x1": 1716,
+                    "y1": 2507
+                },
+                {
+                    "x0": 1181,
+                    "y0": 2524,
+                    "x1": 1994,
+                    "y1": 2757
+                }
+            ],
+            "bbox": [
+                1181,
+                2408,
+                1994,
+                2757
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Hitting hoop accuracy the Eastake Team runner\nup position in the league tournament\n\n\nincluded Alv Horn Jessie Ross chae Berry\nKenneth Sheffield McDanes, and Bernell Blunt.\n\n\nis Frank Holloway.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 305,
+                    "y0": 2094,
+                    "x1": 1960,
+                    "y1": 2409
+                }
+            ],
+            "bbox": [
+                305,
+                2094,
+                1960,
+                2409
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-04-10_pna_sn84021918_0041421695A_1964041001_0361.json"
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-27",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4883,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-27",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032701/0346.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3956,
+                "y0": 2862,
+                "x1": 4772,
+                "y1": 3632
+            },
+            "class": "article",
+            "raw_text": "told the court they felt a jury\nwould be more difficult to select\nthis time than for the first trial\nwhich ended in hung jury Feb.\n7. A special venire of 200 jurors\nwas used for the first trial.\n\n\nBeckwith has been in Jail since\nFBI agents arrested him June %\nat Greenwood. Hendrick declared\na mistrial last month when the\nl2-man all white jury reported\nit was hopelessly deadlocked\nafter ii hours of deliberation.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3378,
+                "y0": 2741,
+                "x1": 4420,
+                "y1": 2846
+            },
+            "class": "headline",
+            "raw_text": "Beekwith Trial Opens April &",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 359,
+                "y0": 641,
+                "x1": 1210,
+                "y1": 3013
+            },
+            "class": "article",
+            "raw_text": "Martha Chapter No. l held a\nSt. Patricks Day Tea at Ma\niestic Hall. Mrs. Ora Jackson\nwas general chairman.\n\n\nGrand worthy matron Savara\nNelson received a fraternity COL\nlar with all degrees from the\nLily Of the Valley chapter Of\nMesa.\n\n\nMrs. Naomi Fisher is the\nworthy matron and Mary Jane\nFreeman Is the chapter secre-\ntary.\n\n\nSt. Johns Grand Lodge enjoyed\na sunrise breakfast at Majestic\nHall, 1906 South Ninth Ave.. Mar.\ny.\n\n\nMrs. Roosevelt Mary Jones\nsurprised her husband with\nbirthday luncheon.\n\n\nGuests included Mr.. and Mrs.\nAlfred Williams, Mr.. and Mrs.\nRobert Cherry. MIR. and Mrs.\nWesley Jackson, Sgt. and Mrs.\nBooker Sanders, Charles Felter,\nMrs. Mayfair Dunlap, Mr.. and\nMrs. John Wilson, MIR. and Mrs.\nErnest Reddington, Mrs. Lille\nM. Hall and Mrs. Ora Jackson.\n\n\nSt. Johns Day was celebrated\nat Lone Star Baptist Church,\n1920 South III Ave.. Sum. Mar.\nu.\n\n\nMesdames Ardelia Wilson, Alb\nbey Austin and G. Nj. Alfred\nMoore participated.\n\n\nRev. C. V. Nelson delivered\nthe sermon. A choir from Mesa\nprovided the music.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 365,
+                "y0": 503,
+                "x1": 967,
+                "y1": 608
+            },
+            "class": "headline",
+            "raw_text": "WEsrsIDE NOTES",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3094,
+                "y0": 2874,
+                "x1": 3911,
+                "y1": 3644
+            },
+            "class": "article",
+            "raw_text": "JACKSON, Miss. Circuit\nJudge Leon Hendrick set April\n6 as the date of a new trial\nfor Byron de la Beckwith. &C\ncused of Staying Negro civil\nrights leader Medgar Evers.\n\n\nThe process of drawing a 300\nman special venire for Beck\nwith's second trial was started\nImmediately.\n\n\nBoth Dist. Atty. William Wal\nlar and Beckwith' s attorneys\nHardy Lott and Stanny Sanders",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3077,
+                "y0": 647,
+                "x1": 4761,
+                "y1": 2718
+            },
+            "class": "article",
+            "raw_text": "theory setting lawyers fee appears be difficult.\npractice, difficult mysfng people may\nbelieve.\n\n\nless standardized charges for\nstandardized procedures such drawing simple\nwill In general the of legal services needed\nunprectabe that Is hard make\nspecific\n\n\nLAWYERS guided by Professional Ethics of the\nadopted the Supreme Court Arizona\nattorneys The following factors akennto consider\nation and most we'll lawyers recognize their\napplicability:\n\n\nl. Time and labor involved.\n\n\n2. Novelty and difficulty Of questions involved.\n\n\n8. Skill needed conduct the properly.\n\n\nA. Inability accept other business because Of involvement\n\n\nwith a particular\n\n\nS. Customary charges of the bar for similar activities\nE. Amount involved in controversy\n\n\n7. Benefits resulting clients.\n\n\n8. Contingency certainty compensation\n\n\nemployment is for only regular part\n\n\nof representing client.\n\n\nIn fixing fees lawyers professional try middle\navoid charges which their advice ana\nservices we'll as those which undervalue Them\n\n\nThe profession branch of the administration Of Justice\nnot getting trade clients ability to pay cannot\nJustify charge of the value of the services rendered.\neven though the poverty of the client require\na lesser charge. at all.\n\n\nThis legal column is is issued public service under super\nBar Of Arizona and is written to INFORM not TO\nadvise)",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3083,
+                "y0": 410,
+                "x1": 3899,
+                "y1": 619
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law\nAttorneys Fees",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1302,
+                "y0": 2475,
+                "x1": 2130,
+                "y1": 3071
+            },
+            "class": "article",
+            "raw_text": "XENIA, Ohio Barber Lewis\nCegner announced he has closed\nhis Yellow Springs shop indef-\ninitely following mass demon\nstrations protesting his refusal\nTO cut the hair of Negroes.\n\n\nCegner said his shop will re-\nmain closed and he will take no\nfurther action until the Ohio Su-\npremem Court acts on his appeal",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2181,
+                "y0": 2469,
+                "x1": 3003,
+                "y1": 3065
+            },
+            "class": "article",
+            "raw_text": "from an appellate court ruling\nwhich held that his refusal to\ncut Negroes hair was in vio-\nlation of the states public &C\ncommodation law.\n\n\nIn the meantime, the barber\nsaid, he intends to find out\nwhat Antioch, Central State and\nWilberforce colleges plan to do\nabout students breaking the",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1834,
+                "y0": 2365,
+                "x1": 2546,
+                "y1": 2458
+            },
+            "class": "headline",
+            "raw_text": "Closes Barber Shop",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964032701_0346",
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                1
+            ],
+            "headline": "Beekwith Trial Opens April &",
+            "article": "told the court they felt a jury\nwould be more difficult to select\nthis time than for the first trial\nwhich ended in hung jury Feb.\n7. A special venire of 200 jurors\nwas used for the first trial.\n\n\nBeckwith has been in Jail since\nFBI agents arrested him June %\nat Greenwood. Hendrick declared\na mistrial last month when the\nl2-man all white jury reported\nit was hopelessly deadlocked\nafter ii hours of deliberation.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3378,
+                    "y0": 2741,
+                    "x1": 4420,
+                    "y1": 2846
+                },
+                {
+                    "x0": 3956,
+                    "y0": 2862,
+                    "x1": 4772,
+                    "y1": 3632
+                }
+            ],
+            "bbox": [
+                3378,
+                2741,
+                4772,
+                3632
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-27_pna_sn84021918_0041421695A_1964032701_0346.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "WEsrsIDE NOTES",
+            "article": "Martha Chapter No. l held a\nSt. Patricks Day Tea at Ma\niestic Hall. Mrs. Ora Jackson\nwas general chairman.\n\n\nGrand worthy matron Savara\nNelson received a fraternity COL\nlar with all degrees from the\nLily Of the Valley chapter Of\nMesa.\n\n\nMrs. Naomi Fisher is the\nworthy matron and Mary Jane\nFreeman Is the chapter secre-\ntary.\n\n\nSt. Johns Grand Lodge enjoyed\na sunrise breakfast at Majestic\nHall, 1906 South Ninth Ave.. Mar.\ny.\n\n\nMrs. Roosevelt Mary Jones\nsurprised her husband with\nbirthday luncheon.\n\n\nGuests included Mr.. and Mrs.\nAlfred Williams, Mr.. and Mrs.\nRobert Cherry. MIR. and Mrs.\nWesley Jackson, Sgt. and Mrs.\nBooker Sanders, Charles Felter,\nMrs. Mayfair Dunlap, Mr.. and\nMrs. John Wilson, MIR. and Mrs.\nErnest Reddington, Mrs. Lille\nM. Hall and Mrs. Ora Jackson.\n\n\nSt. Johns Day was celebrated\nat Lone Star Baptist Church,\n1920 South III Ave.. Sum. Mar.\nu.\n\n\nMesdames Ardelia Wilson, Alb\nbey Austin and G. Nj. Alfred\nMoore participated.\n\n\nRev. C. V. Nelson delivered\nthe sermon. A choir from Mesa\nprovided the music.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 365,
+                    "y0": 503,
+                    "x1": 967,
+                    "y1": 608
+                },
+                {
+                    "x0": 359,
+                    "y0": 641,
+                    "x1": 1210,
+                    "y1": 3013
+                }
+            ],
+            "bbox": [
+                359,
+                503,
+                1210,
+                3013
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-27_pna_sn84021918_0041421695A_1964032701_0346.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "JACKSON, Miss. Circuit\nJudge Leon Hendrick set April\n6 as the date of a new trial\nfor Byron de la Beckwith. &C\ncused of Staying Negro civil\nrights leader Medgar Evers.\n\n\nThe process of drawing a 300\nman special venire for Beck\nwith's second trial was started\nImmediately.\n\n\nBoth Dist. Atty. William Wal\nlar and Beckwith' s attorneys\nHardy Lott and Stanny Sanders",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3094,
+                    "y0": 2874,
+                    "x1": 3911,
+                    "y1": 3644
+                }
+            ],
+            "bbox": [
+                3094,
+                2874,
+                3911,
+                3644
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-27_pna_sn84021918_0041421695A_1964032701_0346.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "Discussing Arizona Law\nAttorneys Fees",
+            "article": "theory setting lawyers fee appears be difficult.\npractice, difficult mysfng people may\nbelieve.\n\n\nless standardized charges for\nstandardized procedures such drawing simple\nwill In general the of legal services needed\nunprectabe that Is hard make\nspecific\n\n\nLAWYERS guided by Professional Ethics of the\nadopted the Supreme Court Arizona\nattorneys The following factors akennto consider\nation and most we'll lawyers recognize their\napplicability:\n\n\nl. Time and labor involved.\n\n\n2. Novelty and difficulty Of questions involved.\n\n\n8. Skill needed conduct the properly.\n\n\nA. Inability accept other business because Of involvement\n\n\nwith a particular\n\n\nS. Customary charges of the bar for similar activities\nE. Amount involved in controversy\n\n\n7. Benefits resulting clients.\n\n\n8. Contingency certainty compensation\n\n\nemployment is for only regular part\n\n\nof representing client.\n\n\nIn fixing fees lawyers professional try middle\navoid charges which their advice ana\nservices we'll as those which undervalue Them\n\n\nThe profession branch of the administration Of Justice\nnot getting trade clients ability to pay cannot\nJustify charge of the value of the services rendered.\neven though the poverty of the client require\na lesser charge. at all.\n\n\nThis legal column is is issued public service under super\nBar Of Arizona and is written to INFORM not TO\nadvise)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3083,
+                    "y0": 410,
+                    "x1": 3899,
+                    "y1": 619
+                },
+                {
+                    "x0": 3077,
+                    "y0": 647,
+                    "x1": 4761,
+                    "y1": 2718
+                }
+            ],
+            "bbox": [
+                3077,
+                410,
+                4761,
+                2718
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-27_pna_sn84021918_0041421695A_1964032701_0346.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "XENIA, Ohio Barber Lewis\nCegner announced he has closed\nhis Yellow Springs shop indef-\ninitely following mass demon\nstrations protesting his refusal\nTO cut the hair of Negroes.\n\n\nCegner said his shop will re-\nmain closed and he will take no\nfurther action until the Ohio Su-\npremem Court acts on his appeal",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1302,
+                    "y0": 2475,
+                    "x1": 2130,
+                    "y1": 3071
+                }
+            ],
+            "bbox": [
+                1302,
+                2475,
+                2130,
+                3071
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-27_pna_sn84021918_0041421695A_1964032701_0346.json"
+        },
+        {
+            "object_ids": [
+                20,
+                11
+            ],
+            "headline": "Closes Barber Shop",
+            "article": "from an appellate court ruling\nwhich held that his refusal to\ncut Negroes hair was in vio-\nlation of the states public &C\ncommodation law.\n\n\nIn the meantime, the barber\nsaid, he intends to find out\nwhat Antioch, Central State and\nWilberforce colleges plan to do\nabout students breaking the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1834,
+                    "y0": 2365,
+                    "x1": 2546,
+                    "y1": 2458
+                },
+                {
+                    "x0": 2181,
+                    "y0": 2469,
+                    "x1": 3003,
+                    "y1": 3065
+                }
+            ],
+            "bbox": [
+                1834,
+                2365,
+                3003,
+                3065
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-03-27_pna_sn84021918_0041421695A_1964032701_0346.json"
+        }
+    ]
+}

@@ -1,0 +1,588 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4841,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964040301/0353.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 122,
+                "y0": 4885,
+                "x1": 936,
+                "y1": 5733
+            },
+            "class": "article",
+            "raw_text": "CHICAGO \"A former president\nof the American Cancer Society\nsays lung cancer will cause 40\nper cent of all deaths in the\nUnited States 20 years hence\nunless something is done to pre-\nvent it.\"\n\n\nDIR. Alton Ochsner of New Or\nleans, asserting that \"all but\none kind of cancer are produced\nby smoking\" said mortality sta\ntistics give no support to spec\nulation that smog IS lung can\nGer agent in some regions.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 116,
+                "y0": 4670,
+                "x1": 616,
+                "y1": 4863
+            },
+            "class": "headline",
+            "raw_text": "LUNG CANCER\nCASES RISE",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 105,
+                "y0": 3620,
+                "x1": 918,
+                "y1": 4619
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Bobby Ray De-\nWitt, 8l6 W. Mckinley. filed\nsuitroveEnthee deathsof, their son.\nBobby Lynn. The 100000 suit.\nfiled by Attorney Jay Dushoff.\nalleges Peggy Lorraine Bell, 81,\nof 1901 w. Pima. was negligent\nin her operation of the car that\nstruck their 7 year old son.\n\n\nThe fatality happened on Jan.\n20 on. Seventh Avenue near Tay-\nlor. Miss Bell was not cited by\npolice in the accident.\n\n\nThe suit alleges she was speed\ning, did not keep proper look\nout and did not have her vehicle\nunder control.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 122,
+                "y0": 3411,
+                "x1": 686,
+                "y1": 3598
+            },
+            "class": "headline",
+            "raw_text": "Couple Sues\n\n\nFor Sons Death",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1016,
+                "y0": 3585,
+                "x1": 1835,
+                "y1": 4753
+            },
+            "class": "article",
+            "raw_text": "Planned Parenthood Associa-\ntion will open its third clinic at\nthe First Congregational Church,\n9th and Myrtle. Tempe, April 6.\n\n\nAn open house will be held\nfrom to E pm\n\n\nThe clinic offers birth control\nadvice and supplies, education\nfor marriage, infertility counsel\ning and cancer detection tests.\nThey are stated by registered\nOBJ. : Gym and qualified social\nworkers. The patients will be\nadmitted on the first and third\nMonday nights of the month. APP\npointments may be made by call\ning AL 2-59ll.\n\n\nOther planned parenthood elm\nles are located in the Memorial\nHospital at Phoenix and G lendale.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1022,
+                "y0": 3394,
+                "x1": 1707,
+                "y1": 3575
+            },
+            "class": "headline",
+            "raw_text": "Planned Parenth God\nClinic Opens",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1892,
+                "y0": 4984,
+                "x1": 2705,
+                "y1": 5762
+            },
+            "class": "article",
+            "raw_text": "About 67.8 per cent of Ameri-\ncan husbands take maps on the liv-\ning room sofa after dinner, &C\ncording to a survey by a furni-\nture manufacturer.\n\n\nThe average nap is half an\nhour. But 81 per cent sleep for\nan hour or more and about 10\nper cent are likely to sleep for\nthe entire evening on the sofa.\n\n\nThe concern made the survey\nto find out how its sofas were\nbeing used.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1915,
+                "y0": 4769,
+                "x1": 2398,
+                "y1": 4950
+            },
+            "class": "headline",
+            "raw_text": "SLEEPY HEAD\nHUSBANDS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1886,
+                "y0": 3092,
+                "x1": 2705,
+                "y1": 4735
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Nal Whitfield,\nOlympic gold medal winner in\n1913 and 1852 in the 800 meter\nraces. urged all American Ne\ngro athletes eligible for the Tok-\n20 Olympics to boycott the games\nif full rights are not granted\nby that time.\n\n\nIn an Ebony magazine article\nWhitfield said probably Is per\ncent of the U S. track team would\nbe Negroes.\n\n\nII think every athlete and every\ncoach should be dedicated to the\nreal purpose of going abroad to\nrepresent a free country. We\nare not representing afree coun-\ntry when we do not stand for\nequal rights\" he wrote.\n\n\nWhitfield won the Sullivan A\nward of the AAU in 1854 as the\noutstanding amateur. He was a\nstaff sergeant in the Air Force.\nHe has travelled extensively as a\ngood will ambassador for the\nState Department and he has\ncoached in Liberia, Ghana and\nGreece.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1915,
+                "y0": 2860,
+                "x1": 2525,
+                "y1": 3064
+            },
+            "class": "headline",
+            "raw_text": "Negroes Should\n\n\nBoycott Olympies",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3662,
+                "y0": 2245,
+                "x1": 4463,
+                "y1": 2838
+            },
+            "class": "article",
+            "raw_text": "BIRMINGHAM = Evangelist\nBill Graham spoke to the largest\nintegrated audience in the history\nof the state without incident.\n\n\napproximately 10000 attended\nthe mass meeting in Legion Field.\n\n\nThe one day crusade he said\nwas a great moment. 1t was con-\nsidered step forward by Me-\ngroes and whites.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3668,
+                "y0": 2042,
+                "x1": 4318,
+                "y1": 2223
+            },
+            "class": "headline",
+            "raw_text": "GRAHAM HAS\n\n\nINTECRATED MEET",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1033,
+                "y0": 4897,
+                "x1": 1847,
+                "y1": 5356
+            },
+            "class": "article",
+            "raw_text": "Mrs. Mile Stephenson, ofLos\nAngeles, spent four days in the\ncity visiting her son and daughter\nin law, Mr.. and Mrs. Leonard\nStephens on.\n\n\nShe was the dinner guest on\nEaster Sunday of Mr.. and Mrs.\n]. K. Plummer.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1039,
+                "y0": 4781,
+                "x1": 1446,
+                "y1": 4874
+            },
+            "class": "headline",
+            "raw_text": "VISITS CITY",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1027,
+                "y0": 5489,
+                "x1": 1841,
+                "y1": 5722
+            },
+            "class": "article",
+            "raw_text": "Your expression of sympathyis\nacknowledged and deeply appre-\nciated by Mrs. ]. c. Bruce and\nfamily.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1027,
+                "y0": 5384,
+                "x1": 1638,
+                "y1": 5466
+            },
+            "class": "headline",
+            "raw_text": "CARD OF THANKS",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1915,
+                "y0": 2036,
+                "x1": 3599,
+                "y1": 2815
+            },
+            "class": "article",
+            "raw_text": "Preparing for track activity Park 10th and E. Jeff\nboys pictured the They will ap\nthe annual Spring Relay Carnival scheduled April 4h and\n18th.\n\n\nneeng) Michael Hman Howard Scott and Raymond\nWarner.\nWilson.\n\n\nBottom Photograph of the girls who may be on hand\nthe girls track who only cheer\n\n\nIncluded on picture King Watson Earlene Whit\nfield Whitfield Margaret Whitfield Portia White and\nElenora Whitfield.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 128,
+                "y0": 2773,
+                "x1": 1812,
+                "y1": 3372
+            },
+            "class": "article",
+            "raw_text": "birthday party honoring Mrs. Bob ernel Rember CENTER\nwas held her parents home Saturday night.\n\n\nAwaiting their piece of cake Leroy Wright Misses Rosie\nSales LYNNE Binfod Mrs. Reber honoreee Mrs. Mae Nc\nCarly Roberts Bob Rebe Charles McCary Roma Young\nand Oscar Roberts.\n\n\nBottom enjoying Mrs. Remberrs birthday were\nShirley Roberts, Carolyn Michael Donnie. Julius Ernesne and\nRoberts Mesdames Wady Rosie Roberts Leta Michael\nCelesne Roberts. Bertha Ellis Grady Wady and Oa Ellis.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964040301_0353",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                0
+            ],
+            "headline": "LUNG CANCER\nCASES RISE",
+            "article": "CHICAGO \"A former president\nof the American Cancer Society\nsays lung cancer will cause 40\nper cent of all deaths in the\nUnited States 20 years hence\nunless something is done to pre-\nvent it.\"\n\n\nDIR. Alton Ochsner of New Or\nleans, asserting that \"all but\none kind of cancer are produced\nby smoking\" said mortality sta\ntistics give no support to spec\nulation that smog IS lung can\nGer agent in some regions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 116,
+                    "y0": 4670,
+                    "x1": 616,
+                    "y1": 4863
+                },
+                {
+                    "x0": 122,
+                    "y0": 4885,
+                    "x1": 936,
+                    "y1": 5733
+                }
+            ],
+            "bbox": [
+                116,
+                4670,
+                936,
+                5733
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "Couple Sues\n\n\nFor Sons Death",
+            "article": "Mr.. and Mrs. Bobby Ray De-\nWitt, 8l6 W. Mckinley. filed\nsuitroveEnthee deathsof, their son.\nBobby Lynn. The 100000 suit.\nfiled by Attorney Jay Dushoff.\nalleges Peggy Lorraine Bell, 81,\nof 1901 w. Pima. was negligent\nin her operation of the car that\nstruck their 7 year old son.\n\n\nThe fatality happened on Jan.\n20 on. Seventh Avenue near Tay-\nlor. Miss Bell was not cited by\npolice in the accident.\n\n\nThe suit alleges she was speed\ning, did not keep proper look\nout and did not have her vehicle\nunder control.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 122,
+                    "y0": 3411,
+                    "x1": 686,
+                    "y1": 3598
+                },
+                {
+                    "x0": 105,
+                    "y0": 3620,
+                    "x1": 918,
+                    "y1": 4619
+                }
+            ],
+            "bbox": [
+                105,
+                3411,
+                918,
+                4619
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "Planned Parenth God\nClinic Opens",
+            "article": "Planned Parenthood Associa-\ntion will open its third clinic at\nthe First Congregational Church,\n9th and Myrtle. Tempe, April 6.\n\n\nAn open house will be held\nfrom to E pm\n\n\nThe clinic offers birth control\nadvice and supplies, education\nfor marriage, infertility counsel\ning and cancer detection tests.\nThey are stated by registered\nOBJ. : Gym and qualified social\nworkers. The patients will be\nadmitted on the first and third\nMonday nights of the month. APP\npointments may be made by call\ning AL 2-59ll.\n\n\nOther planned parenthood elm\nles are located in the Memorial\nHospital at Phoenix and G lendale.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1022,
+                    "y0": 3394,
+                    "x1": 1707,
+                    "y1": 3575
+                },
+                {
+                    "x0": 1016,
+                    "y0": 3585,
+                    "x1": 1835,
+                    "y1": 4753
+                }
+            ],
+            "bbox": [
+                1016,
+                3394,
+                1835,
+                4753
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "SLEEPY HEAD\nHUSBANDS",
+            "article": "About 67.8 per cent of Ameri-\ncan husbands take maps on the liv-\ning room sofa after dinner, &C\ncording to a survey by a furni-\nture manufacturer.\n\n\nThe average nap is half an\nhour. But 81 per cent sleep for\nan hour or more and about 10\nper cent are likely to sleep for\nthe entire evening on the sofa.\n\n\nThe concern made the survey\nto find out how its sofas were\nbeing used.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 4769,
+                    "x1": 2398,
+                    "y1": 4950
+                },
+                {
+                    "x0": 1892,
+                    "y0": 4984,
+                    "x1": 2705,
+                    "y1": 5762
+                }
+            ],
+            "bbox": [
+                1892,
+                4769,
+                2705,
+                5762
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "Negroes Should\n\n\nBoycott Olympies",
+            "article": "NEW YORK = Nal Whitfield,\nOlympic gold medal winner in\n1913 and 1852 in the 800 meter\nraces. urged all American Ne\ngro athletes eligible for the Tok-\n20 Olympics to boycott the games\nif full rights are not granted\nby that time.\n\n\nIn an Ebony magazine article\nWhitfield said probably Is per\ncent of the U S. track team would\nbe Negroes.\n\n\nII think every athlete and every\ncoach should be dedicated to the\nreal purpose of going abroad to\nrepresent a free country. We\nare not representing afree coun-\ntry when we do not stand for\nequal rights\" he wrote.\n\n\nWhitfield won the Sullivan A\nward of the AAU in 1854 as the\noutstanding amateur. He was a\nstaff sergeant in the Air Force.\nHe has travelled extensively as a\ngood will ambassador for the\nState Department and he has\ncoached in Liberia, Ghana and\nGreece.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 2860,
+                    "x1": 2525,
+                    "y1": 3064
+                },
+                {
+                    "x0": 1886,
+                    "y0": 3092,
+                    "x1": 2705,
+                    "y1": 4735
+                }
+            ],
+            "bbox": [
+                1886,
+                2860,
+                2705,
+                4735
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "GRAHAM HAS\n\n\nINTECRATED MEET",
+            "article": "BIRMINGHAM = Evangelist\nBill Graham spoke to the largest\nintegrated audience in the history\nof the state without incident.\n\n\napproximately 10000 attended\nthe mass meeting in Legion Field.\n\n\nThe one day crusade he said\nwas a great moment. 1t was con-\nsidered step forward by Me-\ngroes and whites.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3668,
+                    "y0": 2042,
+                    "x1": 4318,
+                    "y1": 2223
+                },
+                {
+                    "x0": 3662,
+                    "y0": 2245,
+                    "x1": 4463,
+                    "y1": 2838
+                }
+            ],
+            "bbox": [
+                3662,
+                2042,
+                4463,
+                2838
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                20,
+                11
+            ],
+            "headline": "VISITS CITY",
+            "article": "Mrs. Mile Stephenson, ofLos\nAngeles, spent four days in the\ncity visiting her son and daughter\nin law, Mr.. and Mrs. Leonard\nStephens on.\n\n\nShe was the dinner guest on\nEaster Sunday of Mr.. and Mrs.\n]. K. Plummer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1039,
+                    "y0": 4781,
+                    "x1": 1446,
+                    "y1": 4874
+                },
+                {
+                    "x0": 1033,
+                    "y0": 4897,
+                    "x1": 1847,
+                    "y1": 5356
+                }
+            ],
+            "bbox": [
+                1033,
+                4781,
+                1847,
+                5356
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                21,
+                17
+            ],
+            "headline": "CARD OF THANKS",
+            "article": "Your expression of sympathyis\nacknowledged and deeply appre-\nciated by Mrs. ]. c. Bruce and\nfamily.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1027,
+                    "y0": 5384,
+                    "x1": 1638,
+                    "y1": 5466
+                },
+                {
+                    "x0": 1027,
+                    "y0": 5489,
+                    "x1": 1841,
+                    "y1": 5722
+                }
+            ],
+            "bbox": [
+                1027,
+                5384,
+                1841,
+                5722
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Preparing for track activity Park 10th and E. Jeff\nboys pictured the They will ap\nthe annual Spring Relay Carnival scheduled April 4h and\n18th.\n\n\nneeng) Michael Hman Howard Scott and Raymond\nWarner.\nWilson.\n\n\nBottom Photograph of the girls who may be on hand\nthe girls track who only cheer\n\n\nIncluded on picture King Watson Earlene Whit\nfield Whitfield Margaret Whitfield Portia White and\nElenora Whitfield.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 2036,
+                    "x1": 3599,
+                    "y1": 2815
+                }
+            ],
+            "bbox": [
+                1915,
+                2036,
+                3599,
+                2815
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "birthday party honoring Mrs. Bob ernel Rember CENTER\nwas held her parents home Saturday night.\n\n\nAwaiting their piece of cake Leroy Wright Misses Rosie\nSales LYNNE Binfod Mrs. Reber honoreee Mrs. Mae Nc\nCarly Roberts Bob Rebe Charles McCary Roma Young\nand Oscar Roberts.\n\n\nBottom enjoying Mrs. Remberrs birthday were\nShirley Roberts, Carolyn Michael Donnie. Julius Ernesne and\nRoberts Mesdames Wady Rosie Roberts Leta Michael\nCelesne Roberts. Bertha Ellis Grady Wady and Oa Ellis.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 128,
+                    "y0": 2773,
+                    "x1": 1812,
+                    "y1": 3372
+                }
+            ],
+            "bbox": [
+                128,
+                2773,
+                1812,
+                3372
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-04-03_pna_sn84021918_0041421695A_1964040301_0353.json"
+        }
+    ]
+}

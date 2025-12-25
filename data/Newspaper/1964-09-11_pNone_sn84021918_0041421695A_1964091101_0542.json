@@ -1,0 +1,711 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7378,
+        "width": 4863,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091101/0542.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3042,
+                "y0": 2392,
+                "x1": 4738,
+                "y1": 4520
+            },
+            "class": "article",
+            "raw_text": "like the present procedure that will aid\nyou calculations That is check and\nrecord income and Such record be\nsimple dollars and hours\nwork.\n\n\nThe who works for salary thinks he doesn't have\nhimself about keeping books and records But ne should\nWhether business ofyour have partner\nyear claiming substantial INTEREST,\" in\nThe law that keepbooks for him in he\nasks for accounting.\n\n\nhome paying out in instaments\nIt's likely that day you sell that house. When do you'll\nprove wee gain loss that\ngain resulted will probably add nome\na suffered may reduce your income\n\n\nmade certain improvements the house while\nunless show outof pocket expense you In\nwhile making them, you may credit for them IN your\ncost basis.\n\n\nperhaps received little cottage the lake as\ngift your sell should be able to show\nonly improvements made while\nworth for before Dad gave\nIt you.\n\n\nmay receiving annuity insurance policy\n\n\nyou how much that policy costs and how much OF\nthat cost you have recovered free to date2\n\n\nkinds enter into that some\nday computation Of your personal income tax The best\nanything you purchased is receiped bill or\ncancelled Of these pieces of evidence relates\nmay affect your income later years Is good\nidea to keep It, ardner may day ask to see It,\n\n\nThis legal issued public service under supervision\nof the State Bar Arizona and written to inform not to advse",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3059,
+                "y0": 2046,
+                "x1": 4357,
+                "y1": 2220
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3082,
+                "y0": 2247,
+                "x1": 3913,
+                "y1": 2358
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1238,
+                "y0": 6490,
+                "x1": 2052,
+                "y1": 7131
+            },
+            "class": "article",
+            "raw_text": "Less than three months after\nopening day, the Worlds Fair\nannounced that it is paying off\nalmost $7,500,000 on its debt.\nThis payments being made two\nyears before it is due, and repre-\nsents one-fourth of the total\n500, 100000 financing that built\nthe Fair. The early prepayment\nwas made possible by the tre-\nmendous advance sale of admis-\nsion tickets.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1411,
+                "y0": 6409,
+                "x1": 1873,
+                "y1": 6468
+            },
+            "class": "headline",
+            "raw_text": "QUICK RETURN",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2149,
+                "y0": 5562,
+                "x1": 2962,
+                "y1": 7148
+            },
+            "class": "article",
+            "raw_text": "NEW YORK, The Ford Foun-\ndation has announced a 100000\nappropriation to permit the rapid\nmobilization Of scholars to\nstudy the economic conse-\nquences of large-scale, fast\nstriking, unpredictable events In\nthe domestic economy, such as\nnatural disaster or major\nchanges in national economic\npolicy. The program Is intended\nto help capture important econo-\ninsights knowledge Of the re-\ncovery process. for example\nusually lost to scholars due to the\nlack of immediate research\nfunds.\n\n\nOther actions announced by the\nfoundation included:\n\n\nA 100000 appropriation for\nfurther support to basic research\non the factors responsible for\neconomic growth and\n\n\nA grant of 10000 to the\nNational Industrial Conference\nBoard to study the employment OF\nNegroes in business and industry.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2183,
+                "y0": 5349,
+                "x1": 2749,
+                "y1": 5546
+            },
+            "class": "headline",
+            "raw_text": "FUNDS TO AID\nNEGRO STUDY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3030,
+                "y0": 1014,
+                "x1": 4761,
+                "y1": 1937
+            },
+            "class": "article",
+            "raw_text": "Of irrigation bitches parallel\nOf the city These bitches great\nwhich provides the s blood the in the Valley the Sum-\n\n\nsouhde Phoenix\nThey filled with empty bottles, boxes poles\nclothes, frayed and bicycle tires and tall weeds.\n\n\nAll of insect life abounds in these bitches. There\nglass nails.\nIdentification the souside Was its program\nony7 Why the citizens of permit\nbitches become in front\n\n\nis time for sousiders neighbo\nhoods No committee sponsored by city hall produce pride\nones community We stop blaming the city officials for\nfailure proper",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3590,
+                "y0": 380,
+                "x1": 4565,
+                "y1": 819
+            },
+            "class": "headline",
+            "raw_text": "PRevlFws\nMD REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -3
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3803,
+                "y0": 732,
+                "x1": 4328,
+                "y1": 813
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3082,
+                "y0": 899,
+                "x1": 4115,
+                "y1": 998
+            },
+            "class": "headline",
+            "raw_text": "Waste bitches are Eyssorss",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2126,
+                "y0": 708,
+                "x1": 2968,
+                "y1": 5407
+            },
+            "class": "article",
+            "raw_text": "DO yOu HoNS any OAA Su9A oHSSSS\ncluttering your desk drawer7\nMaybe there are a couple Of\ndogeared warranties folded in\nyour cookbook Have you checked\non these papers lately7\n\n\nlurge you to review your pur-\nchases within the last year and\nread your manufacturers guar\nantees. Depending on the type of\nmerchandise, warranty or\nguarantee expires from 80 days to\nyear. Some of the finer print\ngives you a shorter time on GER\ntain parts.\n\n\nWhile cleaning out our file\ncabinet l opened the guarantee\nfolder and found several interest\ning cards or papers of written\nguarantee.\n\n\nThe first one studied covered\na glass lined gas water heater\nwhich was installed in 1860. This\nheater replaced defective heat\nwhich had been originally pur-\nchased in 1853. The initial\npurchase was guaranteed for ten\nyears and | saved the card after\nmailing in the bottom part. The\nplumbing company which had in\nstalled 1t first said the guaran-\ntee was past when l called to\nreport that the heater had br oxen.\n\n\nAfter producing not only the\nguarantee but the sales receipt,\na new heater was installed. There\nwas one difficulty = the heater\nof the same model we're no longer\nin stock and we had to pay slight\ncharge of twelve dollars for an\nother one.\n\n\nIf you have any guarantees\nhandy, study them and become\nacquainted with the finer prints.\nA few of them seem to be all\nfine prints and some of the terms\nan attorney would be needed to\ndecipher.\n\n\nl discovered a guarantee for\nsome articles which we pur-\nchased but we cannot recall\nwhere, when or what 1t Is.\n\n\nThe guarantee is for five years.\n1t further states that the finest\nmaterials obtainable have been\nused in making this article. This\nguarantee was filed but | failed\nto fill out the purchase date or\nkind of article. Here stand\nwith perfectly bona fide guaran-\ntee without knowing what Is\nguaranteed.\n\n\nSome firms issue warranties\nwhile other use guarantees. Both\nagreements state that the article\nis made of quality materials\n(Which grade is often dubious).\nThe manufacturer agrees to re-\nplace the article within a GER\ntain time If parts or the entire\narticle Is defective.\n\n\nOne Of the shortest guarantees\n| have ever seen was for three\nmonths.\n\n\nSave your guaranty, save your\nwarranty, you never know when\nyou might need it. If anyone\nneeds Race guarantee have an\nextra one.\n\n\nEIlNNe Tn Ain",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2154,
+                "y0": 299,
+                "x1": 2939,
+                "y1": 519
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELolsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2149,
+                "y0": 564,
+                "x1": 2680,
+                "y1": 658
+            },
+            "class": "headline",
+            "raw_text": "No Guarantee",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 350,
+                "y0": 4104,
+                "x1": 2023,
+                "y1": 6427
+            },
+            "class": "article",
+            "raw_text": "Thousands of school doors opened all 0veT\nthe state during the past tho weeks. More\nstudents of all ages, ranging from the kinder\nguyten to the university haze registered than\never before. Elementary schools, high schoo\nand the colleges are literally bursting at the\nseams with bYosbe ctiUe learners.\n\n\nReports from leading educational book\npublishing firms state that textbook sales\nare higher than at any time in the nations\nhistory.\n\n\nWith increased emphasis ON providing\nmore education for more persons the next\ndecade mil present more pressing problems\nin raising school revenues and building and\nmaintaining adequate school facilities.\n\n\nThere are many problems taci'ag citizens\nand taxpayers in Arizona, but one Of the\ngreatest burdens is financing our local\nschools. our school population uiH con-\ntinue to grow and educational opportunities\nmust be extended to all.\n\n\nAt the next legis l0ttve session, the U0ices\nof the taxpayers should be heard by those\nelected at the state capitol. DO not permit\nour legis latoYs forget that back to school\nmeans UP the school costs.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 448,
+                "y0": 3942,
+                "x1": 1152,
+                "y1": 4076
+            },
+            "class": "headline",
+            "raw_text": "Back to School",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 373,
+                "y0": 6565,
+                "x1": 1193,
+                "y1": 7125
+            },
+            "class": "article",
+            "raw_text": "Ice cream and other frozen\nfoods are holding their reputation\nas Americas favorite desserts.\nConsumption Of these products\nclimbed to record level of 2l.l\nquarts per person In 1868.\nPresent ice cream consumption\nis more than double the per\ncapita rate of Is years ago.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 702,
+                "y0": 6507,
+                "x1": 841,
+                "y1": 6554
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 344,
+                "y0": 2040,
+                "x1": 2069,
+                "y1": 3857
+            },
+            "class": "article",
+            "raw_text": "For the second time I'm the past tho years\nValley National Bank of r1zOraa provides\nleadership I'm the financial world. Last year\n1T NON blaudits of the advertising groups in the\nwest for using faces of students of different\nraces in its statewide advertising program.\n\n\nCopies of the particular advertisement\nshowing these students uOeYe utilized IN\nseveral shop uindOws and in clasSToonas.\n\n\nThis past year has been quiet, working\nyear at Valley National Bank where several\npersons of diverse racial groups haze been\nEmployed and trained.\n\n\nOn Monday, Sept. IA, the first Negro teller\nin the Phoenix area, mill perform his duties\nat the recently completed VNB branch located\nat 10th St. and Buckeye Road.\n\n\nWe are proud to salute one of the Tribune\nadvertisers for taking q step fOYUuTd in pro-\nviding greater mbloynaemt OPPORTUNITIES for\nminority groups.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 581,
+                "y0": 1625,
+                "x1": 1118,
+                "y1": 1782
+            },
+            "class": "author",
+            "raw_text": ".n,s nswsespss 10 Q ms@ess u\n4 NEWsPApeRs ASSOCIATION\n\n\nFen 6restev PsblIe Ssvvtee",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 448,
+                "y0": 1879,
+                "x1": 1590,
+                "y1": 2024
+            },
+            "class": "headline",
+            "raw_text": "Valley Bank Leads Again",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 396,
+                "y0": 876,
+                "x1": 2017,
+                "y1": 1833
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, NEUTRALITY-SUSPICIOUS.\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nJULY 10, 1888\n\n\nPUBLISHED THURSDAY\n\n\nISHINo COMPANY INC\naIs7 BROADWAY 27e-23oI So so rR.\nNAIL ADDRESS p. O. BOX sz4s, PHOENIX, AR'zt esoAo\nSECOND CLASS POSTAGE PAID AT PHOENIX, ARIZONA\nTAI THAT IS THE EVILS OF OUR\nTIMES IS TO DO JUSTICE GIVE FREEDOM.\nREPRESENTATIVE\nZ AMALGAMATED\nMADISON\n~ NEW YORK \", N. Y.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 367,
+                "y0": 340,
+                "x1": 1971,
+                "y1": 761
+            },
+            "class": "headline",
+            "raw_text": "Artzu,mfa&Grthutte\n\n\n~ saal IS ~",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 978,
+                "y0": 783,
+                "x1": 1510,
+                "y1": 859
+            },
+            "class": "headline",
+            "raw_text": "VOL. 7, NO. 8",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 4863,
+                "y0": 409,
+                "x1": 6109,
+                "y1": 5563
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091101_0542",
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                19,
+                0
+            ],
+            "headline": "Discussing Arizona Law\n\n",
+            "article": "like the present procedure that will aid\nyou calculations That is check and\nrecord income and Such record be\nsimple dollars and hours\nwork.\n\n\nThe who works for salary thinks he doesn't have\nhimself about keeping books and records But ne should\nWhether business ofyour have partner\nyear claiming substantial INTEREST,\" in\nThe law that keepbooks for him in he\nasks for accounting.\n\n\nhome paying out in instaments\nIt's likely that day you sell that house. When do you'll\nprove wee gain loss that\ngain resulted will probably add nome\na suffered may reduce your income\n\n\nmade certain improvements the house while\nunless show outof pocket expense you In\nwhile making them, you may credit for them IN your\ncost basis.\n\n\nperhaps received little cottage the lake as\ngift your sell should be able to show\nonly improvements made while\nworth for before Dad gave\nIt you.\n\n\nmay receiving annuity insurance policy\n\n\nyou how much that policy costs and how much OF\nthat cost you have recovered free to date2\n\n\nkinds enter into that some\nday computation Of your personal income tax The best\nanything you purchased is receiped bill or\ncancelled Of these pieces of evidence relates\nmay affect your income later years Is good\nidea to keep It, ardner may day ask to see It,\n\n\nThis legal issued public service under supervision\nof the State Bar Arizona and written to inform not to advse",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3059,
+                    "y0": 2046,
+                    "x1": 4357,
+                    "y1": 2220
+                },
+                {
+                    "x0": 3082,
+                    "y0": 2247,
+                    "x1": 3913,
+                    "y1": 2358
+                },
+                {
+                    "x0": 3042,
+                    "y0": 2392,
+                    "x1": 4738,
+                    "y1": 4520
+                }
+            ],
+            "bbox": [
+                3042,
+                2046,
+                4738,
+                4520
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                20,
+                1
+            ],
+            "headline": "QUICK RETURN",
+            "article": "Less than three months after\nopening day, the Worlds Fair\nannounced that it is paying off\nalmost $7,500,000 on its debt.\nThis payments being made two\nyears before it is due, and repre-\nsents one-fourth of the total\n500, 100000 financing that built\nthe Fair. The early prepayment\nwas made possible by the tre-\nmendous advance sale of admis-\nsion tickets.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1411,
+                    "y0": 6409,
+                    "x1": 1873,
+                    "y1": 6468
+                },
+                {
+                    "x0": 1238,
+                    "y0": 6490,
+                    "x1": 2052,
+                    "y1": 7131
+                }
+            ],
+            "bbox": [
+                1238,
+                6409,
+                2052,
+                7131
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "FUNDS TO AID\nNEGRO STUDY",
+            "article": "NEW YORK, The Ford Foun-\ndation has announced a 100000\nappropriation to permit the rapid\nmobilization Of scholars to\nstudy the economic conse-\nquences of large-scale, fast\nstriking, unpredictable events In\nthe domestic economy, such as\nnatural disaster or major\nchanges in national economic\npolicy. The program Is intended\nto help capture important econo-\ninsights knowledge Of the re-\ncovery process. for example\nusually lost to scholars due to the\nlack of immediate research\nfunds.\n\n\nOther actions announced by the\nfoundation included:\n\n\nA 100000 appropriation for\nfurther support to basic research\non the factors responsible for\neconomic growth and\n\n\nA grant of 10000 to the\nNational Industrial Conference\nBoard to study the employment OF\nNegroes in business and industry.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2183,
+                    "y0": 5349,
+                    "x1": 2749,
+                    "y1": 5546
+                },
+                {
+                    "x0": 2149,
+                    "y0": 5562,
+                    "x1": 2962,
+                    "y1": 7148
+                }
+            ],
+            "bbox": [
+                2149,
+                5349,
+                2962,
+                7148
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                5,
+                25,
+                16,
+                3
+            ],
+            "headline": "PRevlFws\nMD REVIEWS\n\n\nEdward Banks\n\nWaste bitches are Eyssorss",
+            "article": "Of irrigation bitches parallel\nOf the city These bitches great\nwhich provides the s blood the in the Valley the Sum-\n\n\nsouhde Phoenix\nThey filled with empty bottles, boxes poles\nclothes, frayed and bicycle tires and tall weeds.\n\n\nAll of insect life abounds in these bitches. There\nglass nails.\nIdentification the souside Was its program\nony7 Why the citizens of permit\nbitches become in front\n\n\nis time for sousiders neighbo\nhoods No committee sponsored by city hall produce pride\nones community We stop blaming the city officials for\nfailure proper",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3590,
+                    "y0": 380,
+                    "x1": 4565,
+                    "y1": 819
+                },
+                {
+                    "x0": 3803,
+                    "y0": 732,
+                    "x1": 4328,
+                    "y1": 813
+                },
+                {
+                    "x0": 3082,
+                    "y0": 899,
+                    "x1": 4115,
+                    "y1": 998
+                },
+                {
+                    "x0": 3030,
+                    "y0": 1014,
+                    "x1": 4761,
+                    "y1": 1937
+                }
+            ],
+            "bbox": [
+                3030,
+                380,
+                4761,
+                1937
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                12,
+                14,
+                8
+            ],
+            "headline": "Sights and Sounds\nELolsE BANKS\n\nNo Guarantee",
+            "article": "DO yOu HoNS any OAA Su9A oHSSSS\ncluttering your desk drawer7\nMaybe there are a couple Of\ndogeared warranties folded in\nyour cookbook Have you checked\non these papers lately7\n\n\nlurge you to review your pur-\nchases within the last year and\nread your manufacturers guar\nantees. Depending on the type of\nmerchandise, warranty or\nguarantee expires from 80 days to\nyear. Some of the finer print\ngives you a shorter time on GER\ntain parts.\n\n\nWhile cleaning out our file\ncabinet l opened the guarantee\nfolder and found several interest\ning cards or papers of written\nguarantee.\n\n\nThe first one studied covered\na glass lined gas water heater\nwhich was installed in 1860. This\nheater replaced defective heat\nwhich had been originally pur-\nchased in 1853. The initial\npurchase was guaranteed for ten\nyears and | saved the card after\nmailing in the bottom part. The\nplumbing company which had in\nstalled 1t first said the guaran-\ntee was past when l called to\nreport that the heater had br oxen.\n\n\nAfter producing not only the\nguarantee but the sales receipt,\na new heater was installed. There\nwas one difficulty = the heater\nof the same model we're no longer\nin stock and we had to pay slight\ncharge of twelve dollars for an\nother one.\n\n\nIf you have any guarantees\nhandy, study them and become\nacquainted with the finer prints.\nA few of them seem to be all\nfine prints and some of the terms\nan attorney would be needed to\ndecipher.\n\n\nl discovered a guarantee for\nsome articles which we pur-\nchased but we cannot recall\nwhere, when or what 1t Is.\n\n\nThe guarantee is for five years.\n1t further states that the finest\nmaterials obtainable have been\nused in making this article. This\nguarantee was filed but | failed\nto fill out the purchase date or\nkind of article. Here stand\nwith perfectly bona fide guaran-\ntee without knowing what Is\nguaranteed.\n\n\nSome firms issue warranties\nwhile other use guarantees. Both\nagreements state that the article\nis made of quality materials\n(Which grade is often dubious).\nThe manufacturer agrees to re-\nplace the article within a GER\ntain time If parts or the entire\narticle Is defective.\n\n\nOne Of the shortest guarantees\n| have ever seen was for three\nmonths.\n\n\nSave your guaranty, save your\nwarranty, you never know when\nyou might need it. If anyone\nneeds Race guarantee have an\nextra one.\n\n\nEIlNNe Tn Ain",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2154,
+                    "y0": 299,
+                    "x1": 2939,
+                    "y1": 519
+                },
+                {
+                    "x0": 2149,
+                    "y0": 564,
+                    "x1": 2680,
+                    "y1": 658
+                },
+                {
+                    "x0": 2126,
+                    "y0": 708,
+                    "x1": 2968,
+                    "y1": 5407
+                }
+            ],
+            "bbox": [
+                2126,
+                299,
+                2968,
+                5407
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                13,
+                9
+            ],
+            "headline": "Back to School",
+            "article": "Thousands of school doors opened all 0veT\nthe state during the past tho weeks. More\nstudents of all ages, ranging from the kinder\nguyten to the university haze registered than\never before. Elementary schools, high schoo\nand the colleges are literally bursting at the\nseams with bYosbe ctiUe learners.\n\n\nReports from leading educational book\npublishing firms state that textbook sales\nare higher than at any time in the nations\nhistory.\n\n\nWith increased emphasis ON providing\nmore education for more persons the next\ndecade mil present more pressing problems\nin raising school revenues and building and\nmaintaining adequate school facilities.\n\n\nThere are many problems taci'ag citizens\nand taxpayers in Arizona, but one Of the\ngreatest burdens is financing our local\nschools. our school population uiH con-\ntinue to grow and educational opportunities\nmust be extended to all.\n\n\nAt the next legis l0ttve session, the U0ices\nof the taxpayers should be heard by those\nelected at the state capitol. DO not permit\nour legis latoYs forget that back to school\nmeans UP the school costs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 448,
+                    "y0": 3942,
+                    "x1": 1152,
+                    "y1": 4076
+                },
+                {
+                    "x0": 350,
+                    "y0": 4104,
+                    "x1": 2023,
+                    "y1": 6427
+                }
+            ],
+            "bbox": [
+                350,
+                3942,
+                2023,
+                6427
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                27,
+                10
+            ],
+            "headline": "",
+            "article": "Ice cream and other frozen\nfoods are holding their reputation\nas Americas favorite desserts.\nConsumption Of these products\nclimbed to record level of 2l.l\nquarts per person In 1868.\nPresent ice cream consumption\nis more than double the per\ncapita rate of Is years ago.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 702,
+                    "y0": 6507,
+                    "x1": 841,
+                    "y1": 6554
+                },
+                {
+                    "x0": 373,
+                    "y0": 6565,
+                    "x1": 1193,
+                    "y1": 7125
+                }
+            ],
+            "bbox": [
+                373,
+                6507,
+                1193,
+                7125
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                24,
+                17,
+                11
+            ],
+            "headline": "Valley Bank Leads Again",
+            "article": "For the second time I'm the past tho years\nValley National Bank of r1zOraa provides\nleadership I'm the financial world. Last year\n1T NON blaudits of the advertising groups in the\nwest for using faces of students of different\nraces in its statewide advertising program.\n\n\nCopies of the particular advertisement\nshowing these students uOeYe utilized IN\nseveral shop uindOws and in clasSToonas.\n\n\nThis past year has been quiet, working\nyear at Valley National Bank where several\npersons of diverse racial groups haze been\nEmployed and trained.\n\n\nOn Monday, Sept. IA, the first Negro teller\nin the Phoenix area, mill perform his duties\nat the recently completed VNB branch located\nat 10th St. and Buckeye Road.\n\n\nWe are proud to salute one of the Tribune\nadvertisers for taking q step fOYUuTd in pro-\nviding greater mbloynaemt OPPORTUNITIES for\nminority groups.",
+            "byline": ".n,s nswsespss 10 Q ms@ess u\n4 NEWsPApeRs ASSOCIATION\n\n\nFen 6restev PsblIe Ssvvtee",
+            "bbox_list": [
+                {
+                    "x0": 581,
+                    "y0": 1625,
+                    "x1": 1118,
+                    "y1": 1782
+                },
+                {
+                    "x0": 448,
+                    "y0": 1879,
+                    "x1": 1590,
+                    "y1": 2024
+                },
+                {
+                    "x0": 344,
+                    "y0": 2040,
+                    "x1": 2069,
+                    "y1": 3857
+                }
+            ],
+            "bbox": [
+                344,
+                1625,
+                2069,
+                3857
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        },
+        {
+            "object_ids": [
+                21,
+                23,
+                18
+            ],
+            "headline": "Artzu,mfa&Grthutte\n\n\n~ saal IS ~\n\nVOL. 7, NO. 8",
+            "article": "EDWARD BANKS, NEUTRALITY-SUSPICIOUS.\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nJULY 10, 1888\n\n\nPUBLISHED THURSDAY\n\n\nISHINo COMPANY INC\naIs7 BROADWAY 27e-23oI So so rR.\nNAIL ADDRESS p. O. BOX sz4s, PHOENIX, AR'zt esoAo\nSECOND CLASS POSTAGE PAID AT PHOENIX, ARIZONA\nTAI THAT IS THE EVILS OF OUR\nTIMES IS TO DO JUSTICE GIVE FREEDOM.\nREPRESENTATIVE\nZ AMALGAMATED\nMADISON\n~ NEW YORK \", N. Y.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 367,
+                    "y0": 340,
+                    "x1": 1971,
+                    "y1": 761
+                },
+                {
+                    "x0": 978,
+                    "y0": 783,
+                    "x1": 1510,
+                    "y1": 859
+                },
+                {
+                    "x0": 396,
+                    "y0": 876,
+                    "x1": 2017,
+                    "y1": 1833
+                }
+            ],
+            "bbox": [
+                367,
+                340,
+                2017,
+                1833
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-09-11_pna_sn84021918_0041421695A_1964091101_0542.json"
+        }
+    ]
+}

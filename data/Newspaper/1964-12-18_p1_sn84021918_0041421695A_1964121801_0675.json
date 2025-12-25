@@ -1,0 +1,252 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121801/0675.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4858
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 963,
+                "y0": 2508,
+                "x1": 1775,
+                "y1": 3435
+            },
+            "class": "article",
+            "raw_text": "DENVER = Sonny Liston is\nhome relaxing probably wonder\ning when his opponent heavy\nweight champion Cassius Clay\nwill be able to defend his crown.\n\n\n1t was estimated that S25O,OOO\nwas lost when Clay was stricken\nby hernia ailment which can\ncelled the fight last month.\n\n\nMedical opinions agree that\nClay, %, will be able to fight\nwithin six months following the\nsurgery.\n\n\nListon remains calm and says,\nLETS put on our aprons and pay\nthe bills",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1021,
+                "y0": 2276,
+                "x1": 1688,
+                "y1": 2480
+            },
+            "class": "headline",
+            "raw_text": "LISTON RELAxES\nAND WAITS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2741,
+                "y0": 1633,
+                "x1": 3542,
+                "y1": 2265
+            },
+            "class": "article",
+            "raw_text": "rights for Scr1pto employees in\nan election held by the National\nLabor Relations Board in Sep\nTENDER, 1868.\n\n\nA union spokesman said more\nthan 700 of the 900 employees at\nthe plant we're Negroes. He said\nonly six of the Negroes we're\nclassified as \"skilled' workers.\nThe majority of Negro workers\nhe said, earned $l.25 an hour.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2168,
+                "y0": 1529,
+                "x1": 3385,
+                "y1": 1622
+            },
+            "class": "headline",
+            "raw_text": "Charities Strike At Pen Plant",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 71,
+                "y0": 2519,
+                "x1": 889,
+                "y1": 3418
+            },
+            "class": "article",
+            "raw_text": "Forty-seven Arizona charities\nand service institutions have re-\nceiped $4,000 this Christmas\nfrom members of the Arizona\nWholesale Beer and Liquor As\nsocation.\n\n\nThe donation brings gifts from\nthis organization to SIS 900 since\nthe program was begun 10 years\nago whereby the wholesalers give\nto charity what they ordinarily\nwould spend on gifts to their re-\ntail customers, said w. A. Jen-\nkins of Tucson. president of the\ngroup.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 112,
+                "y0": 2287,
+                "x1": 854,
+                "y1": 2491
+            },
+            "class": "headline",
+            "raw_text": "Beverage Industry\nAids",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1855,
+                "y0": 1644,
+                "x1": 2679,
+                "y1": 2283
+            },
+            "class": "article",
+            "raw_text": "ATLANTA = Local 574 of the\nInternational Chemical Workers\nUnion went on strike against\nScripto, Inc. 1t charged that the\nball-point pen manufa cturer dis\neliminated against Negro en-\nployes.\n\n\nScripto's general manager, ].\nE. Aderhold, said the company\nwas still in production.\n\n\nThe union won bargaining",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "LISTON RELAxES\nAND WAITS",
+            "article": "DENVER = Sonny Liston is\nhome relaxing probably wonder\ning when his opponent heavy\nweight champion Cassius Clay\nwill be able to defend his crown.\n\n\n1t was estimated that S25O,OOO\nwas lost when Clay was stricken\nby hernia ailment which can\ncelled the fight last month.\n\n\nMedical opinions agree that\nClay, %, will be able to fight\nwithin six months following the\nsurgery.\n\n\nListon remains calm and says,\nLETS put on our aprons and pay\nthe bills",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1021,
+                    "y0": 2276,
+                    "x1": 1688,
+                    "y1": 2480
+                },
+                {
+                    "x0": 963,
+                    "y0": 2508,
+                    "x1": 1775,
+                    "y1": 3435
+                }
+            ],
+            "bbox": [
+                963,
+                2276,
+                1775,
+                3435
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-18_p1_sn84021918_0041421695A_1964121801_0675.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "Charities Strike At Pen Plant",
+            "article": "rights for Scr1pto employees in\nan election held by the National\nLabor Relations Board in Sep\nTENDER, 1868.\n\n\nA union spokesman said more\nthan 700 of the 900 employees at\nthe plant we're Negroes. He said\nonly six of the Negroes we're\nclassified as \"skilled' workers.\nThe majority of Negro workers\nhe said, earned $l.25 an hour.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2168,
+                    "y0": 1529,
+                    "x1": 3385,
+                    "y1": 1622
+                },
+                {
+                    "x0": 2741,
+                    "y0": 1633,
+                    "x1": 3542,
+                    "y1": 2265
+                }
+            ],
+            "bbox": [
+                2168,
+                1529,
+                3542,
+                2265
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-18_p1_sn84021918_0041421695A_1964121801_0675.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "Beverage Industry\nAids",
+            "article": "Forty-seven Arizona charities\nand service institutions have re-\nceiped $4,000 this Christmas\nfrom members of the Arizona\nWholesale Beer and Liquor As\nsocation.\n\n\nThe donation brings gifts from\nthis organization to SIS 900 since\nthe program was begun 10 years\nago whereby the wholesalers give\nto charity what they ordinarily\nwould spend on gifts to their re-\ntail customers, said w. A. Jen-\nkins of Tucson. president of the\ngroup.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 112,
+                    "y0": 2287,
+                    "x1": 854,
+                    "y1": 2491
+                },
+                {
+                    "x0": 71,
+                    "y0": 2519,
+                    "x1": 889,
+                    "y1": 3418
+                }
+            ],
+            "bbox": [
+                71,
+                2287,
+                889,
+                3418
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-18_p1_sn84021918_0041421695A_1964121801_0675.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "ATLANTA = Local 574 of the\nInternational Chemical Workers\nUnion went on strike against\nScripto, Inc. 1t charged that the\nball-point pen manufa cturer dis\neliminated against Negro en-\nployes.\n\n\nScripto's general manager, ].\nE. Aderhold, said the company\nwas still in production.\n\n\nThe union won bargaining",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1855,
+                    "y0": 1644,
+                    "x1": 2679,
+                    "y1": 2283
+                }
+            ],
+            "bbox": [
+                1855,
+                1644,
+                2679,
+                2283
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-18_p1_sn84021918_0041421695A_1964121801_0675.json"
+        }
+    ]
+}

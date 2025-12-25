@@ -1,0 +1,251 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7433,
+        "width": 4786,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100901/0580.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1022,
+                "y0": 656,
+                "x1": 1848,
+                "y1": 837
+            },
+            "class": "article",
+            "raw_text": "school pupils. grades o-8. The\nlatest records are played and\nthere is no admission.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 134,
+                "y0": 650,
+                "x1": 959,
+                "y1": 843
+            },
+            "class": "article",
+            "raw_text": "A giant sock hop is held every\nMonday at Eastlake Park. 10th\nand E.. Jefferson for elementary",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 436,
+                "y0": 470,
+                "x1": 1586,
+                "y1": 593
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1957,
+                "y0": 3536,
+                "x1": 3636,
+                "y1": 4141
+            },
+            "class": "article",
+            "raw_text": "Relaxing during fall oc held Saturday\nnight the Hotel Adams members Of the Royaletes Social\nand Charity Club.\n\n\nEach year this group chooses service activity. Last\nValley schools.\nSeated from left Mesdames WliamJames John Ward.\nAnanais Mason, and Inez Rosser.\n\n\nStanding from left Mines Charles arlins Samuel Williams\n\n\nMiss Eva Neaey Mrs. Lois Anderson, Mines Lucas Leos and\nA. D. Hart. Photo Blizzard",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1951,
+                "y0": 4204,
+                "x1": 2771,
+                "y1": 4344
+            },
+            "class": "article",
+            "raw_text": "If your wife wants to learn to\ndrive, don't stand in her way.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3705,
+                "y0": 3536,
+                "x1": 4519,
+                "y1": 4153
+            },
+            "class": "article",
+            "raw_text": "Double Tragedy\n\n\nPHIL ADEL PEiIA Within \"a\nhours, twin tragedies struck Mrs.\nGertrude Ward. mother Of famed\ngospel singer Clara Ward.\n\n\nOn Sunday, Mrs. Wards\nbrother, Rev. Dave Murphy, died.\nMonday night, Mrs. Wards hus-\nband, George dropped dead.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964100901_0580",
+    "full articles": [
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "school pupils. grades o-8. The\nlatest records are played and\nthere is no admission.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1022,
+                    "y0": 656,
+                    "x1": 1848,
+                    "y1": 837
+                }
+            ],
+            "bbox": [
+                1022,
+                656,
+                1848,
+                837
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-09_pna_sn84021918_0041421695A_1964100901_0580.json"
+        },
+        {
+            "object_ids": [
+                9,
+                7
+            ],
+            "headline": "",
+            "article": "A giant sock hop is held every\nMonday at Eastlake Park. 10th\nand E.. Jefferson for elementary",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 436,
+                    "y0": 470,
+                    "x1": 1586,
+                    "y1": 593
+                },
+                {
+                    "x0": 134,
+                    "y0": 650,
+                    "x1": 959,
+                    "y1": 843
+                }
+            ],
+            "bbox": [
+                134,
+                470,
+                1586,
+                843
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-09_pna_sn84021918_0041421695A_1964100901_0580.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Relaxing during fall oc held Saturday\nnight the Hotel Adams members Of the Royaletes Social\nand Charity Club.\n\n\nEach year this group chooses service activity. Last\nValley schools.\nSeated from left Mesdames WliamJames John Ward.\nAnanais Mason, and Inez Rosser.\n\n\nStanding from left Mines Charles arlins Samuel Williams\n\n\nMiss Eva Neaey Mrs. Lois Anderson, Mines Lucas Leos and\nA. D. Hart. Photo Blizzard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1957,
+                    "y0": 3536,
+                    "x1": 3636,
+                    "y1": 4141
+                }
+            ],
+            "bbox": [
+                1957,
+                3536,
+                3636,
+                4141
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-09_pna_sn84021918_0041421695A_1964100901_0580.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "If your wife wants to learn to\ndrive, don't stand in her way.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1951,
+                    "y0": 4204,
+                    "x1": 2771,
+                    "y1": 4344
+                }
+            ],
+            "bbox": [
+                1951,
+                4204,
+                2771,
+                4344
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-10-09_pna_sn84021918_0041421695A_1964100901_0580.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Double Tragedy\n\n\nPHIL ADEL PEiIA Within \"a\nhours, twin tragedies struck Mrs.\nGertrude Ward. mother Of famed\ngospel singer Clara Ward.\n\n\nOn Sunday, Mrs. Wards\nbrother, Rev. Dave Murphy, died.\nMonday night, Mrs. Wards hus-\nband, George dropped dead.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3705,
+                    "y0": 3536,
+                    "x1": 4519,
+                    "y1": 4153
+                }
+            ],
+            "bbox": [
+                3705,
+                3536,
+                4519,
+                4153
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-10-09_pna_sn84021918_0041421695A_1964100901_0580.json"
+        }
+    ]
+}

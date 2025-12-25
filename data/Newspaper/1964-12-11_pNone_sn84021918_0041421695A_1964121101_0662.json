@@ -1,0 +1,154 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-11",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7384,
+        "width": 4896,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-11",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121101/0662.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1617,
+                "y0": 3288,
+                "x1": 2362,
+                "y1": 3514
+            },
+            "class": "article",
+            "raw_text": "Cute s\" doll in embroidered\ndress and hair bow. Rooted hair\ncan be combed; arm, legs move.\nComes in plastic wardrobe case.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1709,
+                "y0": 5272,
+                "x1": 2443,
+                "y1": 5498
+            },
+            "class": "article",
+            "raw_text": "Includes Angel Skin lotion, It's\nsues, Dream Flower tale, chap\nstick, comb. Her first cosmetics,\nteach good grooming habits.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1605,
+                "y0": 4130,
+                "x1": 2356,
+                "y1": 4362
+            },
+            "class": "article",
+            "raw_text": "Feeding set includes feeding\nbottle, bottle warmer, divided\ndish, oatmeal box, spoon, rattle,\ncup. Sturdy high chair.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964121101_0662",
+    "full articles": [
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Cute s\" doll in embroidered\ndress and hair bow. Rooted hair\ncan be combed; arm, legs move.\nComes in plastic wardrobe case.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1617,
+                    "y0": 3288,
+                    "x1": 2362,
+                    "y1": 3514
+                }
+            ],
+            "bbox": [
+                1617,
+                3288,
+                2362,
+                3514
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-11_pna_sn84021918_0041421695A_1964121101_0662.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Includes Angel Skin lotion, It's\nsues, Dream Flower tale, chap\nstick, comb. Her first cosmetics,\nteach good grooming habits.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1709,
+                    "y0": 5272,
+                    "x1": 2443,
+                    "y1": 5498
+                }
+            ],
+            "bbox": [
+                1709,
+                5272,
+                2443,
+                5498
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-11_pna_sn84021918_0041421695A_1964121101_0662.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Feeding set includes feeding\nbottle, bottle warmer, divided\ndish, oatmeal box, spoon, rattle,\ncup. Sturdy high chair.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1605,
+                    "y0": 4130,
+                    "x1": 2356,
+                    "y1": 4362
+                }
+            ],
+            "bbox": [
+                1605,
+                4130,
+                2356,
+                4362
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-11_pna_sn84021918_0041421695A_1964121101_0662.json"
+        }
+    ]
+}

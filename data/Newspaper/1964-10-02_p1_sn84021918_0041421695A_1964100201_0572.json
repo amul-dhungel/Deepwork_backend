@@ -1,0 +1,363 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100201/0572.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4838
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2065,
+                "y0": 2429,
+                "x1": 2883,
+                "y1": 2917
+            },
+            "class": "article",
+            "raw_text": "Royaleres Club Is spoons oring\nits annual fall frolic at the roof\ngardens. located atop the Hotel\nAdams. Sat-, Oct. 8. Tickets\nmay be purchased from mem\nbers or at the door. Proceeds\nwill finance the clubs charitable\nprogram.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2071,
+                "y0": 2232,
+                "x1": 2657,
+                "y1": 2407
+            },
+            "class": "headline",
+            "raw_text": "RoyuIettes Plan\nAnnual Fall FroIic",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1160,
+                "y0": 2446,
+                "x1": 1979,
+                "y1": 2871
+            },
+            "class": "article",
+            "raw_text": "100 lb. bag of pinto beans. For\nseven years Johnso on is the sole\nemployee in the bean department.\n\n\nHis job involves careful In\nspection and sorting. The prison\nkitchen provides meals for l 900\ninmates.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 279,
+                "y0": 2278,
+                "x1": 1944,
+                "y1": 2413
+            },
+            "class": "headline",
+            "raw_text": "Prisoner Has Beans To Count On Job",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 261,
+                "y0": 2458,
+                "x1": 1074,
+                "y1": 2888
+            },
+            "class": "article",
+            "raw_text": "FLORENCE An inmate of\nArizona State Prison, has\nprobably set new record in a\ndifferent kind of endurance event.\n\n\nHenry Johns 50. is the Of\nfetal bean counter. He knows that\nl5O,268 beans are contained in a",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3799,
+                "y0": 521,
+                "x1": 4710,
+                "y1": 3021
+            },
+            "class": "article",
+            "raw_text": "Republicans Of the Bethune&\nprecinct are spoons oring rally,\nWe'd, Oct. 7 at 1245 w. Watkins,\n1880 : $50 pm.\n\n\nMrs. Nellye Taylor said many\ncandidates will appear.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach q\n\n\nFlO4\n\n\nor recent experience\non century series aircraft\nAIR CRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical,\nelectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\no35-o3ll Eek. 2253",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3920,
+                "y0": 388,
+                "x1": 4548,
+                "y1": 505
+            },
+            "class": "headline",
+            "raw_text": "Rally Planned",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2071,
+                "y0": 539,
+                "x1": 2889,
+                "y1": 1265
+            },
+            "class": "article",
+            "raw_text": "Palmdale School faculty and\nstudents prepared exhibits which\nwe're displayed at Roosevelt\nSchool District offices for two\nweeks.\n\n\nThe back to school theme was\naptly followed in clay modelings.\ncharts and drawings.\n\n\nMrs. A. Fuller, display COM\nmittee chairman, was assisted by\nMesdames M. Edwards, D. Cum\nningham and o. King.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2175,
+                "y0": 400,
+                "x1": 2744,
+                "y1": 511
+            },
+            "class": "headline",
+            "raw_text": "School News",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2952,
+                "y0": 1925,
+                "x1": 3771,
+                "y1": 2981
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2059,
+                "y0": 1316,
+                "x1": 2883,
+                "y1": 2204
+            },
+            "class": "article",
+            "raw_text": "Paperback editions of books for\njunior and senior high school\nstudents are on display at the\nRoosevelt School Library. The\nexhibit is spoons ored by the Roo\nsevelt School District and is\nopen to teacher, librarians,\nsupervis ors, and administrators\nin the Phoenix area. Books may\nbe seen daily Oct. So; 8 am.\n5 pm.\n\n\nThe collection Includes range\nof subjects from folk music to\nscience. A reference and\nguidance section is show, too.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-02"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                4
+            ],
+            "headline": "RoyuIettes Plan\nAnnual Fall FroIic",
+            "article": "Royaleres Club Is spoons oring\nits annual fall frolic at the roof\ngardens. located atop the Hotel\nAdams. Sat-, Oct. 8. Tickets\nmay be purchased from mem\nbers or at the door. Proceeds\nwill finance the clubs charitable\nprogram.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2071,
+                    "y0": 2232,
+                    "x1": 2657,
+                    "y1": 2407
+                },
+                {
+                    "x0": 2065,
+                    "y0": 2429,
+                    "x1": 2883,
+                    "y1": 2917
+                }
+            ],
+            "bbox": [
+                2065,
+                2232,
+                2883,
+                2917
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-02_p1_sn84021918_0041421695A_1964100201_0572.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "Prisoner Has Beans To Count On Job",
+            "article": "100 lb. bag of pinto beans. For\nseven years Johnso on is the sole\nemployee in the bean department.\n\n\nHis job involves careful In\nspection and sorting. The prison\nkitchen provides meals for l 900\ninmates.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 279,
+                    "y0": 2278,
+                    "x1": 1944,
+                    "y1": 2413
+                },
+                {
+                    "x0": 1160,
+                    "y0": 2446,
+                    "x1": 1979,
+                    "y1": 2871
+                }
+            ],
+            "bbox": [
+                279,
+                2278,
+                1979,
+                2871
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-02_p1_sn84021918_0041421695A_1964100201_0572.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "FLORENCE An inmate of\nArizona State Prison, has\nprobably set new record in a\ndifferent kind of endurance event.\n\n\nHenry Johns 50. is the Of\nfetal bean counter. He knows that\nl5O,268 beans are contained in a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 261,
+                    "y0": 2458,
+                    "x1": 1074,
+                    "y1": 2888
+                }
+            ],
+            "bbox": [
+                261,
+                2458,
+                1074,
+                2888
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-02_p1_sn84021918_0041421695A_1964100201_0572.json"
+        },
+        {
+            "object_ids": [
+                18,
+                9
+            ],
+            "headline": "Rally Planned",
+            "article": "Republicans Of the Bethune&\nprecinct are spoons oring rally,\nWe'd, Oct. 7 at 1245 w. Watkins,\n1880 : $50 pm.\n\n\nMrs. Nellye Taylor said many\ncandidates will appear.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach q\n\n\nFlO4\n\n\nor recent experience\non century series aircraft\nAIR CRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical,\nelectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\no35-o3ll Eek. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3920,
+                    "y0": 388,
+                    "x1": 4548,
+                    "y1": 505
+                },
+                {
+                    "x0": 3799,
+                    "y0": 521,
+                    "x1": 4710,
+                    "y1": 3021
+                }
+            ],
+            "bbox": [
+                3799,
+                388,
+                4710,
+                3021
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-02_p1_sn84021918_0041421695A_1964100201_0572.json"
+        },
+        {
+            "object_ids": [
+                10,
+                15
+            ],
+            "headline": "School News",
+            "article": "Palmdale School faculty and\nstudents prepared exhibits which\nwe're displayed at Roosevelt\nSchool District offices for two\nweeks.\n\n\nThe back to school theme was\naptly followed in clay modelings.\ncharts and drawings.\n\n\nMrs. A. Fuller, display COM\nmittee chairman, was assisted by\nMesdames M. Edwards, D. Cum\nningham and o. King.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2175,
+                    "y0": 400,
+                    "x1": 2744,
+                    "y1": 511
+                },
+                {
+                    "x0": 2071,
+                    "y0": 539,
+                    "x1": 2889,
+                    "y1": 1265
+                }
+            ],
+            "bbox": [
+                2071,
+                400,
+                2889,
+                1265
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-10-02_p1_sn84021918_0041421695A_1964100201_0572.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Paperback editions of books for\njunior and senior high school\nstudents are on display at the\nRoosevelt School Library. The\nexhibit is spoons ored by the Roo\nsevelt School District and is\nopen to teacher, librarians,\nsupervis ors, and administrators\nin the Phoenix area. Books may\nbe seen daily Oct. So; 8 am.\n5 pm.\n\n\nThe collection Includes range\nof subjects from folk music to\nscience. A reference and\nguidance section is show, too.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2059,
+                    "y0": 1316,
+                    "x1": 2883,
+                    "y1": 2204
+                }
+            ],
+            "bbox": [
+                2059,
+                1316,
+                2883,
+                2204
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-10-02_p1_sn84021918_0041421695A_1964100201_0572.json"
+        }
+    ]
+}

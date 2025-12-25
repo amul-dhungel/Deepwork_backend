@@ -1,0 +1,474 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-29",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4852,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-29",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052901/0417.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2872,
+                "y0": 1884,
+                "x1": 3691,
+                "y1": 3520
+            },
+            "class": "article",
+            "raw_text": "Camp Gempers summer pro-\ngram for all physically handi-\ncapped children In the valley Is\nscheduled June Is to July \"a\nat Samuel Gempers Memorial\nRehabilitation Center. announced\nMrs. Monica Baird. executive\ndirector.\n\n\nThe most important new fea-\nture Of the program this year Is\nthat any disabled children ages\n& to IA may enroll In the six\nweek event. If they have a re-\nferral from their doctor. Last\nyear only children previously\nenrolled at the center we're ELI\ngible. Contact the center at 72ll\nNo. 9TH Street for details about\nregistering or phone WI 3-34S4.\n\n\nOther new features planned In\nclude organizing band, produc-\ning a play. and dancing for those\nwho are able. This Is In addi-\ntion to the regular activities Of\narts and crafts. singing. games,\nand any planned recreation fit\nting the physical abilities Of the\nhandicapped.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2878,
+                "y0": 1635,
+                "x1": 3592,
+                "y1": 1850
+            },
+            "class": "headline",
+            "raw_text": "compsrs Sets Camp\n\n\nFor Handicapped Kids",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2843,
+                "y0": 539,
+                "x1": 3667,
+                "y1": 1601
+            },
+            "class": "article",
+            "raw_text": "The Brothe rhood of New Home\nBaptist Church ended its finan-\ncial drive Sunday with the Men s\nDay program.\n\n\nDeacon Oliver Billion was\ncrowned Mr.. New Home for soli-\nciting the largest amount.\n\n\nFive other men competed for\nthe title including Rev. E. A.\nHunter, Deacons Tommie Will\nJams, Elroy Darlington, Jessie\nStarks and William Crawford,\npresident Of the Brotherhood.\n\n\nRev. S. T. Miller Of Shiloh\nBaptist Church was guest spea-\nker.\n\n\nA total Of $725.o6 was contri-\nbuted to the fund.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2872,
+                "y0": 313,
+                "x1": 3517,
+                "y1": 511
+            },
+            "class": "headline",
+            "raw_text": "MEN RAISE FUNDS\nAT CHURCH",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1956,
+                "y0": 498,
+                "x1": 2769,
+                "y1": 2100
+            },
+            "class": "article",
+            "raw_text": "The establishment Of a new\nlarge garment manufacturing\nplant in Phoenix will depend on\nthe results Of survey to be\nconducted by the Arizona State\nEmployment Service. The manu-\nfacturer wants to know Of the\navailability of women making fl\nnal plans.\n\n\nA spokesman for the employ\nment service said further infor-\nnation could not be given about\nthe firm because such an action\nmight prejudice the company\nagainst Phoenix. One prema-\nture disclosure recently cost\nan Arizona city a plant.\n\n\nThe survey started May rs,\n1864. Qualified applicants will\nhave appointments made for per-\nsonal interviews early In June.\nWorkers, both with and without\nexperience, are urged to con-\ntact the Industrial and Service\nOffice, 4ss West Adams. from\n8 am. to 5 pm. Monday through\nFriday, May IS through May 20.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1967,
+                "y0": 307,
+                "x1": 2426,
+                "y1": 476
+            },
+            "class": "headline",
+            "raw_text": "New Plant\n\n\nSurveys City",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3753,
+                "y0": 1049,
+                "x1": 4549,
+                "y1": 2204
+            },
+            "class": "article",
+            "raw_text": "PLANNED RETIREMENT\nDid you know 1t costs more a\nmonth than most Of US earn to\nPAY the premium on a Life In\nsurance Policy that would letyou\nretire In only l9 short years\nat $4,000 month or lump sum\nsavings Of 100000. You can\ndo just THIS by trading In your\nhome (paid for or not) or paying\nQ low down payment on 10 new\nrefrigerated units. 8 furnished\nand all rented. Presently under\nmanagement: but you manage and\nmake even more extra sS$$ per\nmonth. Check this chance for\nplanned retirement now.\n277-766e. p. o. Box l0422, Phoe-\nnix 10. Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3742,
+                "y0": 365,
+                "x1": 4468,
+                "y1": 893
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY\nREAL ESTATE\nVESTMENT",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3765,
+                "y0": 921,
+                "x1": 4531,
+                "y1": 1009
+            },
+            "class": "author",
+            "raw_text": "FOR MARRIED FOLKS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1973,
+                "y0": 2400,
+                "x1": 2792,
+                "y1": 3039
+            },
+            "class": "article",
+            "raw_text": "The heaviest single piece Of\nfreight ever moved over a US.\nrailroad was an isocracking re-\nactor vessel, or column, with\ngross weight Of 100000 pounds.\nThe vessel. which was 90 feet\nlong. was carried on two special\nheavy-duty, l2axle flat cars\nfrom Chattanooga, Tenn, to\nBayou Cas- otte, MISS, In March.\n1863.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1973,
+                "y0": 2180,
+                "x1": 2606,
+                "y1": 2384
+            },
+            "class": "headline",
+            "raw_text": "Heaviest Piece\n\n\nOF Freight Record",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3765,
+                "y0": 2400,
+                "x1": 4560,
+                "y1": 3224
+            },
+            "class": "article",
+            "raw_text": "VISIT YOUR NEW LUMBER\nYARD THIS WEEKEND OPENING\nSPECIALS:\n\n\n90 x 40 aluminium picture win\ndows 1928\nso x 6-8 mahogany door 6.95\n235 lb. top quality asbestos\nshingles SO. 1913\nl6 D box nails S0lb. bx. 6.4o\n\n\nKONKL Err LUMBER &\n\n\nSUPPLY\n\n\n4o08 So. 10th Street",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3817,
+                "y0": 2278,
+                "x1": 4456,
+                "y1": 2384
+            },
+            "class": "headline",
+            "raw_text": "LUMBER SUPPLIES",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1109,
+                "y0": 2696,
+                "x1": 1876,
+                "y1": 3027
+            },
+            "class": "article",
+            "raw_text": "Custom Observation-Disclosures\nObservation-Disclosures\nSpecially wood working\nFREE ESTIMATES Br 6-3772\n\n\n237 W. BROADWAY",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1103,
+                "y0": 2580,
+                "x1": 1864,
+                "y1": 2662
+            },
+            "class": "headline",
+            "raw_text": "LANDSON WOOD MFG,",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964052901_0417",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "compsrs Sets Camp\n\n\nFor Handicapped Kids",
+            "article": "Camp Gempers summer pro-\ngram for all physically handi-\ncapped children In the valley Is\nscheduled June Is to July \"a\nat Samuel Gempers Memorial\nRehabilitation Center. announced\nMrs. Monica Baird. executive\ndirector.\n\n\nThe most important new fea-\nture Of the program this year Is\nthat any disabled children ages\n& to IA may enroll In the six\nweek event. If they have a re-\nferral from their doctor. Last\nyear only children previously\nenrolled at the center we're ELI\ngible. Contact the center at 72ll\nNo. 9TH Street for details about\nregistering or phone WI 3-34S4.\n\n\nOther new features planned In\nclude organizing band, produc-\ning a play. and dancing for those\nwho are able. This Is In addi-\ntion to the regular activities Of\narts and crafts. singing. games,\nand any planned recreation fit\nting the physical abilities Of the\nhandicapped.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2878,
+                    "y0": 1635,
+                    "x1": 3592,
+                    "y1": 1850
+                },
+                {
+                    "x0": 2872,
+                    "y0": 1884,
+                    "x1": 3691,
+                    "y1": 3520
+                }
+            ],
+            "bbox": [
+                2872,
+                1635,
+                3691,
+                3520
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-29_pna_sn84021918_0041421695A_1964052901_0417.json"
+        },
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "MEN RAISE FUNDS\nAT CHURCH",
+            "article": "The Brothe rhood of New Home\nBaptist Church ended its finan-\ncial drive Sunday with the Men s\nDay program.\n\n\nDeacon Oliver Billion was\ncrowned Mr.. New Home for soli-\nciting the largest amount.\n\n\nFive other men competed for\nthe title including Rev. E. A.\nHunter, Deacons Tommie Will\nJams, Elroy Darlington, Jessie\nStarks and William Crawford,\npresident Of the Brotherhood.\n\n\nRev. S. T. Miller Of Shiloh\nBaptist Church was guest spea-\nker.\n\n\nA total Of $725.o6 was contri-\nbuted to the fund.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2872,
+                    "y0": 313,
+                    "x1": 3517,
+                    "y1": 511
+                },
+                {
+                    "x0": 2843,
+                    "y0": 539,
+                    "x1": 3667,
+                    "y1": 1601
+                }
+            ],
+            "bbox": [
+                2843,
+                313,
+                3667,
+                1601
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-29_pna_sn84021918_0041421695A_1964052901_0417.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "New Plant\n\n\nSurveys City",
+            "article": "The establishment Of a new\nlarge garment manufacturing\nplant in Phoenix will depend on\nthe results Of survey to be\nconducted by the Arizona State\nEmployment Service. The manu-\nfacturer wants to know Of the\navailability of women making fl\nnal plans.\n\n\nA spokesman for the employ\nment service said further infor-\nnation could not be given about\nthe firm because such an action\nmight prejudice the company\nagainst Phoenix. One prema-\nture disclosure recently cost\nan Arizona city a plant.\n\n\nThe survey started May rs,\n1864. Qualified applicants will\nhave appointments made for per-\nsonal interviews early In June.\nWorkers, both with and without\nexperience, are urged to con-\ntact the Industrial and Service\nOffice, 4ss West Adams. from\n8 am. to 5 pm. Monday through\nFriday, May IS through May 20.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1967,
+                    "y0": 307,
+                    "x1": 2426,
+                    "y1": 476
+                },
+                {
+                    "x0": 1956,
+                    "y0": 498,
+                    "x1": 2769,
+                    "y1": 2100
+                }
+            ],
+            "bbox": [
+                1956,
+                307,
+                2769,
+                2100
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-29_pna_sn84021918_0041421695A_1964052901_0417.json"
+        },
+        {
+            "object_ids": [
+                15,
+                17,
+                4
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY\nREAL ESTATE\nVESTMENT",
+            "article": "PLANNED RETIREMENT\nDid you know 1t costs more a\nmonth than most Of US earn to\nPAY the premium on a Life In\nsurance Policy that would letyou\nretire In only l9 short years\nat $4,000 month or lump sum\nsavings Of 100000. You can\ndo just THIS by trading In your\nhome (paid for or not) or paying\nQ low down payment on 10 new\nrefrigerated units. 8 furnished\nand all rented. Presently under\nmanagement: but you manage and\nmake even more extra sS$$ per\nmonth. Check this chance for\nplanned retirement now.\n277-766e. p. o. Box l0422, Phoe-\nnix 10. Arizona.",
+            "byline": "FOR MARRIED FOLKS",
+            "bbox_list": [
+                {
+                    "x0": 3742,
+                    "y0": 365,
+                    "x1": 4468,
+                    "y1": 893
+                },
+                {
+                    "x0": 3765,
+                    "y0": 921,
+                    "x1": 4531,
+                    "y1": 1009
+                },
+                {
+                    "x0": 3753,
+                    "y0": 1049,
+                    "x1": 4549,
+                    "y1": 2204
+                }
+            ],
+            "bbox": [
+                3742,
+                365,
+                4549,
+                2204
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-29_pna_sn84021918_0041421695A_1964052901_0417.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "Heaviest Piece\n\n\nOF Freight Record",
+            "article": "The heaviest single piece Of\nfreight ever moved over a US.\nrailroad was an isocracking re-\nactor vessel, or column, with\ngross weight Of 100000 pounds.\nThe vessel. which was 90 feet\nlong. was carried on two special\nheavy-duty, l2axle flat cars\nfrom Chattanooga, Tenn, to\nBayou Cas- otte, MISS, In March.\n1863.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1973,
+                    "y0": 2180,
+                    "x1": 2606,
+                    "y1": 2384
+                },
+                {
+                    "x0": 1973,
+                    "y0": 2400,
+                    "x1": 2792,
+                    "y1": 3039
+                }
+            ],
+            "bbox": [
+                1973,
+                2180,
+                2792,
+                3039
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-29_pna_sn84021918_0041421695A_1964052901_0417.json"
+        },
+        {
+            "object_ids": [
+                14,
+                6
+            ],
+            "headline": "LUMBER SUPPLIES",
+            "article": "VISIT YOUR NEW LUMBER\nYARD THIS WEEKEND OPENING\nSPECIALS:\n\n\n90 x 40 aluminium picture win\ndows 1928\nso x 6-8 mahogany door 6.95\n235 lb. top quality asbestos\nshingles SO. 1913\nl6 D box nails S0lb. bx. 6.4o\n\n\nKONKL Err LUMBER &\n\n\nSUPPLY\n\n\n4o08 So. 10th Street",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3817,
+                    "y0": 2278,
+                    "x1": 4456,
+                    "y1": 2384
+                },
+                {
+                    "x0": 3765,
+                    "y0": 2400,
+                    "x1": 4560,
+                    "y1": 3224
+                }
+            ],
+            "bbox": [
+                3765,
+                2278,
+                4560,
+                3224
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-29_pna_sn84021918_0041421695A_1964052901_0417.json"
+        },
+        {
+            "object_ids": [
+                22,
+                18
+            ],
+            "headline": "LANDSON WOOD MFG,",
+            "article": "Custom Observation-Disclosures\nObservation-Disclosures\nSpecially wood working\nFREE ESTIMATES Br 6-3772\n\n\n237 W. BROADWAY",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1103,
+                    "y0": 2580,
+                    "x1": 1864,
+                    "y1": 2662
+                },
+                {
+                    "x0": 1109,
+                    "y0": 2696,
+                    "x1": 1876,
+                    "y1": 3027
+                }
+            ],
+            "bbox": [
+                1103,
+                2580,
+                1876,
+                3027
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-05-29_pna_sn84021918_0041421695A_1964052901_0417.json"
+        }
+    ]
+}

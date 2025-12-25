@@ -1,0 +1,328 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071701/0473.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7403,
+        "width": 4839
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1875,
+                "y0": 2348,
+                "x1": 2692,
+                "y1": 3077
+            },
+            "class": "article",
+            "raw_text": "WASGHINTON- An agreement\nwas reached in the nation S CAPT.\ntai by the Washington Hotel Assn,\nand the Washington Urban League\nfor more Negroes to be hired and\npromoted in positions other than\nmaids and porters.\n\n\nMajor hotels now only employ\nnonwhites in unskilled categor-\nles. The Urban League stresses\nhiring them as cashiers, clerks\nand switchboard operators.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1875,
+                "y0": 2105,
+                "x1": 2530,
+                "y1": 2314
+            },
+            "class": "headline",
+            "raw_text": "HOTEL WORKERS\n\n\nTO BE PROMOTED",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 77,
+                "y0": 2845,
+                "x1": 893,
+                "y1": 3083
+            },
+            "class": "article",
+            "raw_text": "CAMBRIDGE, Md. National\nGuard troops withdrew from this\nracial trouble spot, a year after\nthe violence summoned them.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2783,
+                "y0": 1920,
+                "x1": 4462,
+                "y1": 2545
+            },
+            "class": "article",
+            "raw_text": "Teamwork has been the accomplishment\nof these employees of Gulf Oil Corporation National Broadcasng\nCompany and Young Rubcam, Inc They\ngeer provide information media both\npolitical and election night exclusively\nsored on NBC-TV and radio by Gulf.\n\n\nLeft right first Lois Weissfog Gulf Roy Koher,\nGulf Harry Rauch R; Betty Marshall NBC; Pete Fischer,\nr. Paul Gardner, 3 R. Back row; Gulf James",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 973,
+                "y0": 2787,
+                "x1": 1790,
+                "y1": 3077
+            },
+            "class": "article",
+            "raw_text": "A year ago, 400 guardsmen\nwere rushed to the community\nby Gov. ]. Willard Tawes after\na night of racial rioting in which\nsix pers ons we're shot.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 94,
+                "y0": 2585,
+                "x1": 1101,
+                "y1": 2829
+            },
+            "class": "headline",
+            "raw_text": "Troops Withdrawn\nFrom Cambridge",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 100,
+                "y0": 2139,
+                "x1": 1801,
+                "y1": 2568
+            },
+            "class": "article",
+            "raw_text": "rewardng Bible School ended\nnearly youngsters Bible Missionary Church. 217 w.\nSherman St.\n\n\nShown part the classes during the closing\ncises Rev. ]. o. Mundy and staff\n\n\ntheir excellent records Horace Lee\nNols Peggy Dixon, Pat Landrum and Sharon Leal.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1580,
+                "y0": 4991,
+                "x1": 2518,
+                "y1": 6472
+            },
+            "class": "article",
+            "raw_text": "WeII-pIanned outdoor lighting gives\nyou extra hours to enjoy outdoor living\n. lets you entertain on the patio,\nenjoy family games and friendly get\ntogethers outside after dark. Friends\nwill feel more welcome, too, with good\nlighting on driveways, walks and steps.\nAttractive lighting enhances the natural\nbeauty Of trees, shrubs, flowers, toun-\ntains and distinctive architecture. On\nthe practical side, it enables you to work\non the grounds in the cool Of the eve\nming .. helps prevent accidents, too\nand increases security.\n\n\nOutdoor lighting does SO much, yet\ncosts so little. Call Arizona Public\nService Company for Certified Light\ning ConsuItant to come out and give\nyou the latest suggestions for improv-\ning your home with outdoor lighting.\nThere's no obligation, of course.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1569,
+                "y0": 3770,
+                "x1": 2206,
+                "y1": 4379
+            },
+            "class": "headline",
+            "raw_text": "The Lights\nOn\n\n\nOutdoor\nLiuing",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-07-17"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "HOTEL WORKERS\n\n\nTO BE PROMOTED",
+            "article": "WASGHINTON- An agreement\nwas reached in the nation S CAPT.\ntai by the Washington Hotel Assn,\nand the Washington Urban League\nfor more Negroes to be hired and\npromoted in positions other than\nmaids and porters.\n\n\nMajor hotels now only employ\nnonwhites in unskilled categor-\nles. The Urban League stresses\nhiring them as cashiers, clerks\nand switchboard operators.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1875,
+                    "y0": 2105,
+                    "x1": 2530,
+                    "y1": 2314
+                },
+                {
+                    "x0": 1875,
+                    "y0": 2348,
+                    "x1": 2692,
+                    "y1": 3077
+                }
+            ],
+            "bbox": [
+                1875,
+                2105,
+                2692,
+                3077
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-17_p1_sn84021918_0041421695A_1964071701_0473.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "CAMBRIDGE, Md. National\nGuard troops withdrew from this\nracial trouble spot, a year after\nthe violence summoned them.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 77,
+                    "y0": 2845,
+                    "x1": 893,
+                    "y1": 3083
+                }
+            ],
+            "bbox": [
+                77,
+                2845,
+                893,
+                3083
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-17_p1_sn84021918_0041421695A_1964071701_0473.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Teamwork has been the accomplishment\nof these employees of Gulf Oil Corporation National Broadcasng\nCompany and Young Rubcam, Inc They\ngeer provide information media both\npolitical and election night exclusively\nsored on NBC-TV and radio by Gulf.\n\n\nLeft right first Lois Weissfog Gulf Roy Koher,\nGulf Harry Rauch R; Betty Marshall NBC; Pete Fischer,\nr. Paul Gardner, 3 R. Back row; Gulf James",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2783,
+                    "y0": 1920,
+                    "x1": 4462,
+                    "y1": 2545
+                }
+            ],
+            "bbox": [
+                2783,
+                1920,
+                4462,
+                2545
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-17_p1_sn84021918_0041421695A_1964071701_0473.json"
+        },
+        {
+            "object_ids": [
+                3,
+                8
+            ],
+            "headline": "Troops Withdrawn\nFrom Cambridge",
+            "article": "A year ago, 400 guardsmen\nwere rushed to the community\nby Gov. ]. Willard Tawes after\na night of racial rioting in which\nsix pers ons we're shot.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 94,
+                    "y0": 2585,
+                    "x1": 1101,
+                    "y1": 2829
+                },
+                {
+                    "x0": 973,
+                    "y0": 2787,
+                    "x1": 1790,
+                    "y1": 3077
+                }
+            ],
+            "bbox": [
+                94,
+                2585,
+                1790,
+                3077
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-17_p1_sn84021918_0041421695A_1964071701_0473.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "rewardng Bible School ended\nnearly youngsters Bible Missionary Church. 217 w.\nSherman St.\n\n\nShown part the classes during the closing\ncises Rev. ]. o. Mundy and staff\n\n\ntheir excellent records Horace Lee\nNols Peggy Dixon, Pat Landrum and Sharon Leal.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 100,
+                    "y0": 2139,
+                    "x1": 1801,
+                    "y1": 2568
+                }
+            ],
+            "bbox": [
+                100,
+                2139,
+                1801,
+                2568
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-07-17_p1_sn84021918_0041421695A_1964071701_0473.json"
+        },
+        {
+            "object_ids": [
+                12,
+                15
+            ],
+            "headline": "The Lights\nOn\n\n\nOutdoor\nLiuing",
+            "article": "WeII-pIanned outdoor lighting gives\nyou extra hours to enjoy outdoor living\n. lets you entertain on the patio,\nenjoy family games and friendly get\ntogethers outside after dark. Friends\nwill feel more welcome, too, with good\nlighting on driveways, walks and steps.\nAttractive lighting enhances the natural\nbeauty Of trees, shrubs, flowers, toun-\ntains and distinctive architecture. On\nthe practical side, it enables you to work\non the grounds in the cool Of the eve\nming .. helps prevent accidents, too\nand increases security.\n\n\nOutdoor lighting does SO much, yet\ncosts so little. Call Arizona Public\nService Company for Certified Light\ning ConsuItant to come out and give\nyou the latest suggestions for improv-\ning your home with outdoor lighting.\nThere's no obligation, of course.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1569,
+                    "y0": 3770,
+                    "x1": 2206,
+                    "y1": 4379
+                },
+                {
+                    "x0": 1580,
+                    "y0": 4991,
+                    "x1": 2518,
+                    "y1": 6472
+                }
+            ],
+            "bbox": [
+                1569,
+                3770,
+                2518,
+                6472
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-07-17_p1_sn84021918_0041421695A_1964071701_0473.json"
+        }
+    ]
+}

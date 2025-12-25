@@ -1,0 +1,394 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4918,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964012401/0270.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3003,
+                "y0": 1048,
+                "x1": 4689,
+                "y1": 2653
+            },
+            "class": "article",
+            "raw_text": "Several weeks outstanding athlete Flagstaff\nDugan Negro displayed very during\nheated basketball against the Prescott High School\n\n\nAfter receiving much heckng and whstandng catcas from\nthe opposing and players bench Dgan boy\nhad physical conflict The Prescott boy white all\nfail whether racial\nDugan caused serious facial\ning in broken\n\n\nThe Of the victim aroused we'll they should\nbeen They had said they would against\nNegro athlete who recently chosen head the\nhigh school all star football\n\n\nWe that football\nschools played ns good personality habits such honesty\nand fair play James Dugan first lose\nperhaps reach the limit fh endurance while tight\n\n\nHe should look the great Negro athletes\nhim in of They often subjected cule\nand calling The of Joe Louis Jackie Robinson\nKenny Washington, Henry Armstrong, Ahea Gibson Willie\nMays through their color ability fight\nback sur their They great figures\nthey played the game according rules.\n\n\nLet hope the Of the athletic hearing\nalso deal fairly with Dugan who also victim although he is\nvisby injured.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3547,
+                "y0": 393,
+                "x1": 4556,
+                "y1": 823
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIewS\nAND REVIEWS\n\n\nEdward Ranks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3721,
+                "y0": 770,
+                "x1": 4296,
+                "y1": 852
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3055,
+                "y0": 926,
+                "x1": 3809,
+                "y1": 1020
+            },
+            "class": "headline",
+            "raw_text": "The SPORTING GAME",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2991,
+                "y0": 2867,
+                "x1": 4684,
+                "y1": 4912
+            },
+            "class": "article",
+            "raw_text": "Lott Cary semade Negro preacher started out in\nlife as Of the world but 1907 he hearing\n\n\nforceful Not long thereafter exorer in\nthe African Baptist Church In Richmond Virginia congre\ncation consisted Of about 1000 members had employ\nassistant pastors.\n\n\nThe turning point in Lott Cars life hearing\nChristian work foreign fields made by Luther Rice\nmissionary This led the organization that year Richmond\nForeign Missionary Society,\" which cooperated Baptist\nTrennial Convention Later followed from this plan\nganzaton Of the Richmond African Baptist Missionary Society\nLott Cary the moving spirit Members only\nfrom the African Baptist Church but from others of the city,\nbody held annual meetings and during years\nlated $500.\n\n\nWhen the time commission IN the\nAfrican field which these funds would support\neered CO. accompanied by Collin league They duly\npointed by the Baptist Trieal Convention missionaries\nLiberia. They sailed with others Norfolk January\n\n\nIn LIBERIA Lott Cary took his energy\nHe established churches and preached continuously He\nneed for other efforts however, and he devoted\neducation as he did religion Being of striking person\natty too Cary welcomed leader in whatever he chose\nto He showed himself be such successful admins\ntraitor in the various positions in which he had served that\nAmerican Colonization Society made him vce-agen Of the whole\ncolony One Of his first duties in this position protect the\nhomes Of the civilized people from crude natives who UNDER\nstanding the meaning this settlement tried destroy While\nmaking preparations against their raids Carywas accidentally\n\n\nkilled by explosion in the ammunition\nof",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3044,
+                "y0": 2710,
+                "x1": 3896,
+                "y1": 2827
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2974,
+                "y0": 4987,
+                "x1": 3797,
+                "y1": 6071
+            },
+            "class": "article",
+            "raw_text": "the public market are entirely\nlost--but shop you must. On this\nSaturday as wheeled my wobbly\ncart to the checkout line a mere\nslip Of boy looked up at me\nand said, IL don't like you'll\"\n\n\nHad he said that at any other\ntime ! might have replied sharp\nerr. But this Saturday had just\nabout drained me. ! had exhaust\ned myself cleaning, driving and\nshopping - l was hungry and\nweary.\n\n\nWhen told the little chap |\nreally didn't care, but | thought\n| liked him--he stopped and gave\nme a stare. Then he began to\nclimb onto my cart.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2997,
+                "y0": 4877,
+                "x1": 3299,
+                "y1": 4924
+            },
+            "class": "author",
+            "raw_text": "Of Monrovia.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3860,
+                "y0": 4987,
+                "x1": 4678,
+                "y1": 6111
+            },
+            "class": "article",
+            "raw_text": "His mother looked bit dazed\nand edgy. Alphabetically, she\ntried to halt fist fight develop\ning between her other two young\nsters. thought Of an old saying\nthat some days 1t pays to stay in\nbed.\n\n\nTo top off the Saturday to end\nall Saturdays--on the way home\nfrom the supermarket a nervous\nmotorist bumped my car forward.\nEvidently ! wasn't moving up\nfast enough to suit him. alight-\ned from my car and told him to\nhave a bit more patience or he\ncould fly over. Muttering a few\ncurses he glowered and probably\nwent home grouching about a\nblack Saturday. too.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2082,
+                "y0": 834,
+                "x1": 2911,
+                "y1": 6389
+            },
+            "class": "article",
+            "raw_text": "depending on your natal day..\nSaturday Is special day. Satur-\nday Is either one of pain or\npleasure. There Is no halfway\npoint for Saturday.\n\n\nWhen you are young Saturday\nis perhaps the most wonderful\nday of the week. All pupils look\nforward to the day as one Of\nblessed release from less ons and\nthe teachers.\n\n\nCan you recall any great high\nlights of your Hfe7 I'll wager a\ngreenback or two--that some\nthing either wonderful or horrible\nhappened on a Saturday.\n\n\nSaturdays we're full of mean\ning for me when l was growing\nup in Indianapolis, Indiana. Sat-\nurday meant going to the library.\nSaturday meant going to the pub\nlie market. Saturday meant\ncleaning house. Saturday meant\nmy grandparents, either mater\nnal or paternal. depending on\nwhere was staying at the time.\n\n\nMy group of childhood friends\ncongregated on Saturdays at my\nMother house They came bright\nand early If we we're going to\ntown or to just hang around. In\nthe summer we would have our\nbikes ready for an early morning\nride, If 1t we're winter we would\nbe ready for a SNOWFALL fight or\na sled ride.\n\n\nSome Saturdays | would have\nbeen the first person up and out\non our street. Fresh, white snow\nwas a lure couldn't resist.\nI would go to sleep on Friday\nnight (while 1t was snoMng) with\none thought in mind-to be the first\none out in the snow on our\nstreet. I am sure modern psy-\nchiatrists could attach some hid\nden meaning to this desire. Maybe\nthey never stepped in the glist-\nening. blanket Of white crystals\nand heard 1t crunch underfoot.\n\n\nSaturdays we're housekeeping\ndays. l liked to arise early with\nmy grandfather Racker and start\nworking. He was good company\nfor me, but not housecleaner.\nMy Grandfather Waterman be-\nLEVIED homework was strictly\nwoman's duty. never saw him\nmop, sweep, cook a meal (unless\nyou considered a cup of coffee\nand a grease fried egg as meal).\n\n\nTwice year was wallpaper\ncleaning time. | can't remember\nthe millions Of strokes ! must\nhave made in our house Mping\nthose CRIME covered walls in May\nand November. That wallpaper\ncleaner had the strangest odor--\nlike kerosene and gum combined.\n\n\nSaturdays we're market days.\nOur day was not complete without\nat least one trip to the public\nmarket. You could go early in\nthe morning to get the fresh\nvegetables and fruit, or you could\ngo late just before closing time\nand catch some bargains. Look\nIng backward. | think loved to\ngo to the market just to buy a\nKosher sandwich and watch the\nsellers bark the prices Of the\nwares.\n\n\nThe market was a city within\na city. Housed in an old con-\ncrete and wooden structure. The\noutside entrances housed flow\ners. potted plants. (none of these\nartificials of today. Meat coun-\ntiers piled high with whole chick\nems, red beefsteaks, rosy pork\nroast and assorted lamb, veal and\nrabbit meat welcomed the buyers.\n\n\nSaturday, January seventh. was\na usual day. cleaned the house",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2111,
+                "y0": 295,
+                "x1": 2911,
+                "y1": 620
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOIsE BANKS\n\n\nSome Days",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 252,
+                "y0": 619,
+                "x1": 2042,
+                "y1": 5781
+            },
+            "class": "article",
+            "raw_text": "IL. ,6sz*sSSsTS ~\n\n\nVOL. 6, NO. 20\n\n\nEDWARD BANKS, pvsL,s4ER-EDlroR\n\n\nELOlSE BANKS, ASSISTANT\n\n\nBOBBY HEARD, STAFF PHOTOGRAPHER\n\n\nEsTAHL sHEo 10,\n\n\nPUBLISHED\n\n\nBY THE BANKS PUBL sHINe COMPANY INC\n\n\nE. BROADWAY\n\n\nPHOENIX, rR.\nPHOENIX\n\"ALL THAT IS NEEDED TO REMEDY THE EVILS\nOF OUR TIMES IS TO DO JUSTICE AND We FREEDOM\"\ns,o o\"r A1enH\n~ \"s\"' Public ''\"s. Rev se \" 49ak \\ AYE.\n\n\nWHO Will help?\n\n\nSomewhere, the modern education and\nrecreation programs haze gone 0stYay.\nSomehow, modern theories and family or\ng0nlz0tiOn studies haze UeeYed. Soneuuv.\nmodern principles for chih-Yeayi,zg and youth\ndevelopment haze be come tangled. Youth crime\nrates in Phoenix and AzQ11coba County are\nalarming.\n\n\nACCORDING to recent REPORT by Police\nChief Paul Bhbauna, juvenile crime in the\nCITY has increased I 500 cases since the\nlast years. report, When Il, $50 comp laints\nWeTe tsIed against persons under Is.\nlhss IS shocking figure and many more\ncases neUeT are counted be cause citizens\nare reluctant to report certain juveniles.\njuveniles haze been kno1Om TO threaten both\nchildren and ADULTS If their crimes are made\nkpoama to the police.\n\n\nWhat kind Of a Civilization are ne bYOduc-\ning What kind Of generations Of the future\nWiH eOOlUe from the ulde number Of young\npersons aOho openly flaaat LAM and order?\nNumerous homes are broken into d4yipzg\ndaylight hours and the young culbYits often\nreturn to the same houses within a month.\nSchools are tauoYite hau,ats Of youthful\ncriminals. They destroy thousands Of dol\nlars worth Of materials annually. They are\nusually knoaOn offenders, Uho laugh waen\n0bbYehended.\n\n\nWe can not expect LAM agencies to take\ncare of the rising juvenile crime rates\nalone. 1t IS time for rs to place YeSbon-\nSibihty for juvenile acts with their par\nentS. Perhaps, it isn't too late for the\nhome to be the primary source of guiding\nchildren TOWARD Yesbe citing LAM and order.\n\n\nBUY UNITED STATES\n\n\nSAVINGS BONDS, INVEST IN\n\n\nYOUR COUNTRY. BUY BONDS",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964012401_0270",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                12,
+                11,
+                0
+            ],
+            "headline": "Views, pRevIewS\nAND REVIEWS\n\n\nEdward Ranks\n\nThe SPORTING GAME",
+            "article": "Several weeks outstanding athlete Flagstaff\nDugan Negro displayed very during\nheated basketball against the Prescott High School\n\n\nAfter receiving much heckng and whstandng catcas from\nthe opposing and players bench Dgan boy\nhad physical conflict The Prescott boy white all\nfail whether racial\nDugan caused serious facial\ning in broken\n\n\nThe Of the victim aroused we'll they should\nbeen They had said they would against\nNegro athlete who recently chosen head the\nhigh school all star football\n\n\nWe that football\nschools played ns good personality habits such honesty\nand fair play James Dugan first lose\nperhaps reach the limit fh endurance while tight\n\n\nHe should look the great Negro athletes\nhim in of They often subjected cule\nand calling The of Joe Louis Jackie Robinson\nKenny Washington, Henry Armstrong, Ahea Gibson Willie\nMays through their color ability fight\nback sur their They great figures\nthey played the game according rules.\n\n\nLet hope the Of the athletic hearing\nalso deal fairly with Dugan who also victim although he is\nvisby injured.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3547,
+                    "y0": 393,
+                    "x1": 4556,
+                    "y1": 823
+                },
+                {
+                    "x0": 3721,
+                    "y0": 770,
+                    "x1": 4296,
+                    "y1": 852
+                },
+                {
+                    "x0": 3055,
+                    "y0": 926,
+                    "x1": 3809,
+                    "y1": 1020
+                },
+                {
+                    "x0": 3003,
+                    "y0": 1048,
+                    "x1": 4689,
+                    "y1": 2653
+                }
+            ],
+            "bbox": [
+                3003,
+                393,
+                4689,
+                2653
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-24_pna_sn84021918_0041421695A_1964012401_0270.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "NEGRO HISTORY NOTES",
+            "article": "Lott Cary semade Negro preacher started out in\nlife as Of the world but 1907 he hearing\n\n\nforceful Not long thereafter exorer in\nthe African Baptist Church In Richmond Virginia congre\ncation consisted Of about 1000 members had employ\nassistant pastors.\n\n\nThe turning point in Lott Cars life hearing\nChristian work foreign fields made by Luther Rice\nmissionary This led the organization that year Richmond\nForeign Missionary Society,\" which cooperated Baptist\nTrennial Convention Later followed from this plan\nganzaton Of the Richmond African Baptist Missionary Society\nLott Cary the moving spirit Members only\nfrom the African Baptist Church but from others of the city,\nbody held annual meetings and during years\nlated $500.\n\n\nWhen the time commission IN the\nAfrican field which these funds would support\neered CO. accompanied by Collin league They duly\npointed by the Baptist Trieal Convention missionaries\nLiberia. They sailed with others Norfolk January\n\n\nIn LIBERIA Lott Cary took his energy\nHe established churches and preached continuously He\nneed for other efforts however, and he devoted\neducation as he did religion Being of striking person\natty too Cary welcomed leader in whatever he chose\nto He showed himself be such successful admins\ntraitor in the various positions in which he had served that\nAmerican Colonization Society made him vce-agen Of the whole\ncolony One Of his first duties in this position protect the\nhomes Of the civilized people from crude natives who UNDER\nstanding the meaning this settlement tried destroy While\nmaking preparations against their raids Carywas accidentally\n\n\nkilled by explosion in the ammunition\nof",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3044,
+                    "y0": 2710,
+                    "x1": 3896,
+                    "y1": 2827
+                },
+                {
+                    "x0": 2991,
+                    "y0": 2867,
+                    "x1": 4684,
+                    "y1": 4912
+                }
+            ],
+            "bbox": [
+                2991,
+                2710,
+                4684,
+                4912
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-24_pna_sn84021918_0041421695A_1964012401_0270.json"
+        },
+        {
+            "object_ids": [
+                19,
+                2
+            ],
+            "headline": "",
+            "article": "the public market are entirely\nlost--but shop you must. On this\nSaturday as wheeled my wobbly\ncart to the checkout line a mere\nslip Of boy looked up at me\nand said, IL don't like you'll\"\n\n\nHad he said that at any other\ntime ! might have replied sharp\nerr. But this Saturday had just\nabout drained me. ! had exhaust\ned myself cleaning, driving and\nshopping - l was hungry and\nweary.\n\n\nWhen told the little chap |\nreally didn't care, but | thought\n| liked him--he stopped and gave\nme a stare. Then he began to\nclimb onto my cart.",
+            "byline": "Of Monrovia.",
+            "bbox_list": [
+                {
+                    "x0": 2997,
+                    "y0": 4877,
+                    "x1": 3299,
+                    "y1": 4924
+                },
+                {
+                    "x0": 2974,
+                    "y0": 4987,
+                    "x1": 3797,
+                    "y1": 6071
+                }
+            ],
+            "bbox": [
+                2974,
+                4877,
+                3797,
+                6071
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-24_pna_sn84021918_0041421695A_1964012401_0270.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "His mother looked bit dazed\nand edgy. Alphabetically, she\ntried to halt fist fight develop\ning between her other two young\nsters. thought Of an old saying\nthat some days 1t pays to stay in\nbed.\n\n\nTo top off the Saturday to end\nall Saturdays--on the way home\nfrom the supermarket a nervous\nmotorist bumped my car forward.\nEvidently ! wasn't moving up\nfast enough to suit him. alight-\ned from my car and told him to\nhave a bit more patience or he\ncould fly over. Muttering a few\ncurses he glowered and probably\nwent home grouching about a\nblack Saturday. too.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3860,
+                    "y0": 4987,
+                    "x1": 4678,
+                    "y1": 6111
+                }
+            ],
+            "bbox": [
+                3860,
+                4987,
+                4678,
+                6111
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-24_pna_sn84021918_0041421695A_1964012401_0270.json"
+        },
+        {
+            "object_ids": [
+                6,
+                7
+            ],
+            "headline": "Sights and Sounds\nELOIsE BANKS\n\n\nSome Days",
+            "article": "depending on your natal day..\nSaturday Is special day. Satur-\nday Is either one of pain or\npleasure. There Is no halfway\npoint for Saturday.\n\n\nWhen you are young Saturday\nis perhaps the most wonderful\nday of the week. All pupils look\nforward to the day as one Of\nblessed release from less ons and\nthe teachers.\n\n\nCan you recall any great high\nlights of your Hfe7 I'll wager a\ngreenback or two--that some\nthing either wonderful or horrible\nhappened on a Saturday.\n\n\nSaturdays we're full of mean\ning for me when l was growing\nup in Indianapolis, Indiana. Sat-\nurday meant going to the library.\nSaturday meant going to the pub\nlie market. Saturday meant\ncleaning house. Saturday meant\nmy grandparents, either mater\nnal or paternal. depending on\nwhere was staying at the time.\n\n\nMy group of childhood friends\ncongregated on Saturdays at my\nMother house They came bright\nand early If we we're going to\ntown or to just hang around. In\nthe summer we would have our\nbikes ready for an early morning\nride, If 1t we're winter we would\nbe ready for a SNOWFALL fight or\na sled ride.\n\n\nSome Saturdays | would have\nbeen the first person up and out\non our street. Fresh, white snow\nwas a lure couldn't resist.\nI would go to sleep on Friday\nnight (while 1t was snoMng) with\none thought in mind-to be the first\none out in the snow on our\nstreet. I am sure modern psy-\nchiatrists could attach some hid\nden meaning to this desire. Maybe\nthey never stepped in the glist-\nening. blanket Of white crystals\nand heard 1t crunch underfoot.\n\n\nSaturdays we're housekeeping\ndays. l liked to arise early with\nmy grandfather Racker and start\nworking. He was good company\nfor me, but not housecleaner.\nMy Grandfather Waterman be-\nLEVIED homework was strictly\nwoman's duty. never saw him\nmop, sweep, cook a meal (unless\nyou considered a cup of coffee\nand a grease fried egg as meal).\n\n\nTwice year was wallpaper\ncleaning time. | can't remember\nthe millions Of strokes ! must\nhave made in our house Mping\nthose CRIME covered walls in May\nand November. That wallpaper\ncleaner had the strangest odor--\nlike kerosene and gum combined.\n\n\nSaturdays we're market days.\nOur day was not complete without\nat least one trip to the public\nmarket. You could go early in\nthe morning to get the fresh\nvegetables and fruit, or you could\ngo late just before closing time\nand catch some bargains. Look\nIng backward. | think loved to\ngo to the market just to buy a\nKosher sandwich and watch the\nsellers bark the prices Of the\nwares.\n\n\nThe market was a city within\na city. Housed in an old con-\ncrete and wooden structure. The\noutside entrances housed flow\ners. potted plants. (none of these\nartificials of today. Meat coun-\ntiers piled high with whole chick\nems, red beefsteaks, rosy pork\nroast and assorted lamb, veal and\nrabbit meat welcomed the buyers.\n\n\nSaturday, January seventh. was\na usual day. cleaned the house",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2111,
+                    "y0": 295,
+                    "x1": 2911,
+                    "y1": 620
+                },
+                {
+                    "x0": 2082,
+                    "y0": 834,
+                    "x1": 2911,
+                    "y1": 6389
+                }
+            ],
+            "bbox": [
+                2082,
+                295,
+                2911,
+                6389
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-24_pna_sn84021918_0041421695A_1964012401_0270.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "IL. ,6sz*sSSsTS ~\n\n\nVOL. 6, NO. 20\n\n\nEDWARD BANKS, pvsL,s4ER-EDlroR\n\n\nELOlSE BANKS, ASSISTANT\n\n\nBOBBY HEARD, STAFF PHOTOGRAPHER\n\n\nEsTAHL sHEo 10,\n\n\nPUBLISHED\n\n\nBY THE BANKS PUBL sHINe COMPANY INC\n\n\nE. BROADWAY\n\n\nPHOENIX, rR.\nPHOENIX\n\"ALL THAT IS NEEDED TO REMEDY THE EVILS\nOF OUR TIMES IS TO DO JUSTICE AND We FREEDOM\"\ns,o o\"r A1enH\n~ \"s\"' Public ''\"s. Rev se \" 49ak \\ AYE.\n\n\nWHO Will help?\n\n\nSomewhere, the modern education and\nrecreation programs haze gone 0stYay.\nSomehow, modern theories and family or\ng0nlz0tiOn studies haze UeeYed. Soneuuv.\nmodern principles for chih-Yeayi,zg and youth\ndevelopment haze be come tangled. Youth crime\nrates in Phoenix and AzQ11coba County are\nalarming.\n\n\nACCORDING to recent REPORT by Police\nChief Paul Bhbauna, juvenile crime in the\nCITY has increased I 500 cases since the\nlast years. report, When Il, $50 comp laints\nWeTe tsIed against persons under Is.\nlhss IS shocking figure and many more\ncases neUeT are counted be cause citizens\nare reluctant to report certain juveniles.\njuveniles haze been kno1Om TO threaten both\nchildren and ADULTS If their crimes are made\nkpoama to the police.\n\n\nWhat kind Of a Civilization are ne bYOduc-\ning What kind Of generations Of the future\nWiH eOOlUe from the ulde number Of young\npersons aOho openly flaaat LAM and order?\nNumerous homes are broken into d4yipzg\ndaylight hours and the young culbYits often\nreturn to the same houses within a month.\nSchools are tauoYite hau,ats Of youthful\ncriminals. They destroy thousands Of dol\nlars worth Of materials annually. They are\nusually knoaOn offenders, Uho laugh waen\n0bbYehended.\n\n\nWe can not expect LAM agencies to take\ncare of the rising juvenile crime rates\nalone. 1t IS time for rs to place YeSbon-\nSibihty for juvenile acts with their par\nentS. Perhaps, it isn't too late for the\nhome to be the primary source of guiding\nchildren TOWARD Yesbe citing LAM and order.\n\n\nBUY UNITED STATES\n\n\nSAVINGS BONDS, INVEST IN\n\n\nYOUR COUNTRY. BUY BONDS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 252,
+                    "y0": 619,
+                    "x1": 2042,
+                    "y1": 5781
+                }
+            ],
+            "bbox": [
+                252,
+                619,
+                2042,
+                5781
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-01-24_pna_sn84021918_0041421695A_1964012401_0270.json"
+        }
+    ]
+}

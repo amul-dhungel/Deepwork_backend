@@ -1,0 +1,175 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4891,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0614.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3826,
+                "y0": 288,
+                "x1": 4764,
+                "y1": 2399
+            },
+            "class": "article",
+            "raw_text": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHEF &\nqualified on the Mach 2\n\n\nFlO4\n\n\nor recent experience\non century series aircraft\nAIRCRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical,\nelectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, mis- siles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\no35-o3ll Elk. 2253",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3873,
+                "y0": 6814,
+                "x1": 4700,
+                "y1": 7110
+            },
+            "class": "article",
+            "raw_text": "Help Wanted Male and Female,\nVarious Jobs Register Now -.\nSouth Phoenix Employment\nAgency. 1912 E. Southern Ave.\n276-5242.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3890,
+                "y0": 6710,
+                "x1": 4400,
+                "y1": 6803
+            },
+            "class": "headline",
+            "raw_text": "HELP WANTED",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 243,
+                "y0": 1433,
+                "x1": 1961,
+                "y1": 1752
+            },
+            "class": "article",
+            "raw_text": "Enjoying Chi Pi Omega annual a\nMesdames Ray Maple L. bsileu and Herman\nMathews.\n\n\nSeen at the beauty Mines. Emma John\nson. Resale MCGEE.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964103001_0614",
+    "full articles": [
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHEF &\nqualified on the Mach 2\n\n\nFlO4\n\n\nor recent experience\non century series aircraft\nAIRCRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical,\nelectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, mis- siles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\no35-o3ll Elk. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3826,
+                    "y0": 288,
+                    "x1": 4764,
+                    "y1": 2399
+                }
+            ],
+            "bbox": [
+                3826,
+                288,
+                4764,
+                2399
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-30_pna_sn84021918_0041421695A_1964103001_0614.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "HELP WANTED",
+            "article": "Help Wanted Male and Female,\nVarious Jobs Register Now -.\nSouth Phoenix Employment\nAgency. 1912 E. Southern Ave.\n276-5242.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3890,
+                    "y0": 6710,
+                    "x1": 4400,
+                    "y1": 6803
+                },
+                {
+                    "x0": 3873,
+                    "y0": 6814,
+                    "x1": 4700,
+                    "y1": 7110
+                }
+            ],
+            "bbox": [
+                3873,
+                6710,
+                4700,
+                7110
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-30_pna_sn84021918_0041421695A_1964103001_0614.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Enjoying Chi Pi Omega annual a\nMesdames Ray Maple L. bsileu and Herman\nMathews.\n\n\nSeen at the beauty Mines. Emma John\nson. Resale MCGEE.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 243,
+                    "y0": 1433,
+                    "x1": 1961,
+                    "y1": 1752
+                }
+            ],
+            "bbox": [
+                243,
+                1433,
+                1961,
+                1752
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-30_pna_sn84021918_0041421695A_1964103001_0614.json"
+        }
+    ]
+}

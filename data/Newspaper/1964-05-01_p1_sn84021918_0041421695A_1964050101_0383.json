@@ -1,0 +1,391 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050101/0383.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7413,
+        "width": 4835
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3732,
+                "y0": 480,
+                "x1": 4555,
+                "y1": 3493
+            },
+            "class": "article",
+            "raw_text": "ST. LOUIS, Mo. St. Louis\nmetropolitan area branches of the\nNational Association for the Adj\nvancement of Colored People\nhave launched selective-buying\ncampaign against Lever Bro\ntheirs. The drive is aimed at\ngetting more Negroes on the COM\npanys payroll.\n\n\nScores of NAACP volunteer\nworkers have been taking up sta\ntions outside of major stores and\nsupermarkets in the area passing\nout handbills urging shoppers not\nto purchase Lever Brothers pro-\nducts.\n\n\nThese include the following\nsoaps and detergents: Dove, Lux,\nLifeboy, Swan, All, Breeze, Rim\nso, Surf and Wisk; toothpaste\nPops odent and Stripe: margar-\ninc: Imperial and Good Luck;\nSpry shortening; Birds-Eye fro\nzen foods; and Upton teas and\nsoups.\n\n\nEfforts are under way TO ex-\npand the no-buy drive nationally.\nAccording to Ernest Galloway,\nfirst vice-president of the st.\nLouis NAACP branch and direc-\ntor Of the campaign; branches in\nother cities where Lever Bro\ntheirs operate plants are being\nurged to launch no-buy drives.\nThe cities are Baltimore, Md,\nChicago, Ill, Los Angeles, Calf,\nHammond, Ind, and Edgewater,\nN. ].\n\n\nThe campaign was instituted\nafter repeated efforts to contact\ncompany officials to discuss Le-\nyer Brothers policy of Negro\nlob tokenism,\" NAACP leaders\nsaid. An NAACP Investigations\nsaid to have revealed that the\ncompany employs only seven Ne\ncores in a force of 375 in St.\nLouis. Nationally, the firm is\nreported to have approximately\n5000 employees of which less\nthan five per cent are Negroes.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3737,
+                "y0": 254,
+                "x1": 4480,
+                "y1": 446
+            },
+            "class": "headline",
+            "raw_text": "NAACP TO BOYCOTT\nLEVER BROS.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 199,
+                "y0": 2611,
+                "x1": 1022,
+                "y1": 3620
+            },
+            "class": "article",
+            "raw_text": "Mrs. Rosa Williams Edwards\nhas been invited to attend the\nWestern Regional Conference for\nwomen's organizations of the\nPresident Committee for Traf-\nfic Safety.\n\n\nThe meeting will be held at the\nSheraton-Palace Hotel in San\nFrancisco, May As.\n\n\nThe women's groups are en-\nphasizing the need for halting the\nrising traffic death rates mall OF\nthe fifty states.\n\n\nDelegates from various or\nganizations including CIVIC\nchurch and community groups\nwill attend.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 193,
+                "y0": 2374,
+                "x1": 1005,
+                "y1": 2589
+            },
+            "class": "headline",
+            "raw_text": "Mrs. Edwards Invited\nTo Attend Traffic Meet",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1988,
+                "y0": 2079,
+                "x1": 2800,
+                "y1": 3383
+            },
+            "class": "article",
+            "raw_text": "May 2-Cocktail sip at Mr.. and\nMrs. Arthur Blackshear S home,\n1917 S. Is Drive.\n\n\nMay 3-City oratorical contest\nSouthminster Pre- byte r1a n\nChurch, 1923 E. Broadway Rd.,\n8 pm.\n\n\nPISA presidents Emmett H. Hair\nrison and Bessie /. Smith; sec\nretaries John Adams and Ger\ntrude Bradley made the final in\nspection tour for the planning OF\nthe PISA convention. The conven-\nton was confirmed and it will be\nheld in the city June 24-2o.\n\n\nMai. Gen. Matthew W. Lips\ncombe, 1t. Col. A. Thompson, Dt.\nLuthermae Adams, state secre-\ntary attended, also.\n\n\nDispensation is still OPEN\nTemple membership drive ends\nJune 30.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2000,
+                "y0": 1824,
+                "x1": 2621,
+                "y1": 2062
+            },
+            "class": "headline",
+            "raw_text": "ELKS CORN Err\n{. MtCIum my",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2012,
+                "y0": 3596,
+                "x1": 2823,
+                "y1": 4350
+            },
+            "class": "article",
+            "raw_text": "NASHVILLE Violent demon\nstrations resulted in the injury\nof 10 Negroes and seven po-\nlicemen.\n\n\nMost of the demonstrators\nwe're teenagers who formed lines\nin front of two segregated bust\nnesses. They lay in the streets\nand police used nightsticks to\nforce them back.\n\n\nOne Negro girl was takento the\nhospital unconscious. Police\nthreatened to use fire hoses.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2006,
+                "y0": 3411,
+                "x1": 2603,
+                "y1": 3580
+            },
+            "class": "headline",
+            "raw_text": "% INJURED IN\n\n\nNASHVILLE RIOT",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1108,
+                "y0": 2629,
+                "x1": 1926,
+                "y1": 3539
+            },
+            "class": "article",
+            "raw_text": "STATESVILLE, N. G. A Neg\n70 insurance agent seeking cleo\ntion to the Iredell County Board\nof Commissioners was found dead\nin a wooded area near States\nVile.\n\n\nBenjamin Sanford Carlton, At,\nof Statesville, had shotgun\nwound in his upper chest.\n\n\nSheriff &c. Rumple said Carl\ntons .4lO gauge shotgun was\nfound in his car, 81 feet from\nthe body. Rumple said there was\nblood in and near the car but\nthere we're no signs of struggle.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1091,
+                "y0": 2368,
+                "x1": 1897,
+                "y1": 2589
+            },
+            "class": "headline",
+            "raw_text": "Negro Cundidute Killed\nBy Shotgun Fire",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2863,
+                "y0": 2067,
+                "x1": 3681,
+                "y1": 3487
+            },
+            "class": "article",
+            "raw_text": "The 44th annual communica-\nton of the Most Worshipful\nPrince Hall Grand Lodge, Free\nand Accepted Mas ons of Arizona\nJurisdiction and the 43rd annual\ncommunication of the Sovereign\nGrand Chapter, Order of the\nEastern Star, will convene in\nPhoenix, May 9Th.\n\n\nA welcoming program will be\nheld at Tanner Chapel AME\nChurch, located at 9th St. and\nJefferson. Rev. L. K. Williams\nwill address the group.\n\n\nBusiness sessions will open\nMonday, May 4, 9 am at the\nMasonic Temple, 4th and JEFF\nferson.\n\n\nS. C. Boyer is the grand mas\nter.\n\n\nThe Grand Chapter will open\nmeetings We'd, May E at 9 am.\n\n\nMrs. Laura Franklin is the\ngrand worthy matron.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2851,
+                "y0": 1835,
+                "x1": 3617,
+                "y1": 2027
+            },
+            "class": "headline",
+            "raw_text": "Masonic ommUnicu flor\nOpen Monday",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-05-01"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                1
+            ],
+            "headline": "NAACP TO BOYCOTT\nLEVER BROS.",
+            "article": "ST. LOUIS, Mo. St. Louis\nmetropolitan area branches of the\nNational Association for the Adj\nvancement of Colored People\nhave launched selective-buying\ncampaign against Lever Bro\ntheirs. The drive is aimed at\ngetting more Negroes on the COM\npanys payroll.\n\n\nScores of NAACP volunteer\nworkers have been taking up sta\ntions outside of major stores and\nsupermarkets in the area passing\nout handbills urging shoppers not\nto purchase Lever Brothers pro-\nducts.\n\n\nThese include the following\nsoaps and detergents: Dove, Lux,\nLifeboy, Swan, All, Breeze, Rim\nso, Surf and Wisk; toothpaste\nPops odent and Stripe: margar-\ninc: Imperial and Good Luck;\nSpry shortening; Birds-Eye fro\nzen foods; and Upton teas and\nsoups.\n\n\nEfforts are under way TO ex-\npand the no-buy drive nationally.\nAccording to Ernest Galloway,\nfirst vice-president of the st.\nLouis NAACP branch and direc-\ntor Of the campaign; branches in\nother cities where Lever Bro\ntheirs operate plants are being\nurged to launch no-buy drives.\nThe cities are Baltimore, Md,\nChicago, Ill, Los Angeles, Calf,\nHammond, Ind, and Edgewater,\nN. ].\n\n\nThe campaign was instituted\nafter repeated efforts to contact\ncompany officials to discuss Le-\nyer Brothers policy of Negro\nlob tokenism,\" NAACP leaders\nsaid. An NAACP Investigations\nsaid to have revealed that the\ncompany employs only seven Ne\ncores in a force of 375 in St.\nLouis. Nationally, the firm is\nreported to have approximately\n5000 employees of which less\nthan five per cent are Negroes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3737,
+                    "y0": 254,
+                    "x1": 4480,
+                    "y1": 446
+                },
+                {
+                    "x0": 3732,
+                    "y0": 480,
+                    "x1": 4555,
+                    "y1": 3493
+                }
+            ],
+            "bbox": [
+                3732,
+                254,
+                4555,
+                3493
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-01_p1_sn84021918_0041421695A_1964050101_0383.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "Mrs. Edwards Invited\nTo Attend Traffic Meet",
+            "article": "Mrs. Rosa Williams Edwards\nhas been invited to attend the\nWestern Regional Conference for\nwomen's organizations of the\nPresident Committee for Traf-\nfic Safety.\n\n\nThe meeting will be held at the\nSheraton-Palace Hotel in San\nFrancisco, May As.\n\n\nThe women's groups are en-\nphasizing the need for halting the\nrising traffic death rates mall OF\nthe fifty states.\n\n\nDelegates from various or\nganizations including CIVIC\nchurch and community groups\nwill attend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 193,
+                    "y0": 2374,
+                    "x1": 1005,
+                    "y1": 2589
+                },
+                {
+                    "x0": 199,
+                    "y0": 2611,
+                    "x1": 1022,
+                    "y1": 3620
+                }
+            ],
+            "bbox": [
+                193,
+                2374,
+                1022,
+                3620
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-01_p1_sn84021918_0041421695A_1964050101_0383.json"
+        },
+        {
+            "object_ids": [
+                18,
+                3
+            ],
+            "headline": "ELKS CORN Err\n{. MtCIum my",
+            "article": "May 2-Cocktail sip at Mr.. and\nMrs. Arthur Blackshear S home,\n1917 S. Is Drive.\n\n\nMay 3-City oratorical contest\nSouthminster Pre- byte r1a n\nChurch, 1923 E. Broadway Rd.,\n8 pm.\n\n\nPISA presidents Emmett H. Hair\nrison and Bessie /. Smith; sec\nretaries John Adams and Ger\ntrude Bradley made the final in\nspection tour for the planning OF\nthe PISA convention. The conven-\nton was confirmed and it will be\nheld in the city June 24-2o.\n\n\nMai. Gen. Matthew W. Lips\ncombe, 1t. Col. A. Thompson, Dt.\nLuthermae Adams, state secre-\ntary attended, also.\n\n\nDispensation is still OPEN\nTemple membership drive ends\nJune 30.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2000,
+                    "y0": 1824,
+                    "x1": 2621,
+                    "y1": 2062
+                },
+                {
+                    "x0": 1988,
+                    "y0": 2079,
+                    "x1": 2800,
+                    "y1": 3383
+                }
+            ],
+            "bbox": [
+                1988,
+                1824,
+                2800,
+                3383
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-01_p1_sn84021918_0041421695A_1964050101_0383.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "% INJURED IN\n\n\nNASHVILLE RIOT",
+            "article": "NASHVILLE Violent demon\nstrations resulted in the injury\nof 10 Negroes and seven po-\nlicemen.\n\n\nMost of the demonstrators\nwe're teenagers who formed lines\nin front of two segregated bust\nnesses. They lay in the streets\nand police used nightsticks to\nforce them back.\n\n\nOne Negro girl was takento the\nhospital unconscious. Police\nthreatened to use fire hoses.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2006,
+                    "y0": 3411,
+                    "x1": 2603,
+                    "y1": 3580
+                },
+                {
+                    "x0": 2012,
+                    "y0": 3596,
+                    "x1": 2823,
+                    "y1": 4350
+                }
+            ],
+            "bbox": [
+                2006,
+                3411,
+                2823,
+                4350
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-01_p1_sn84021918_0041421695A_1964050101_0383.json"
+        },
+        {
+            "object_ids": [
+                16,
+                6
+            ],
+            "headline": "Negro Cundidute Killed\nBy Shotgun Fire",
+            "article": "STATESVILLE, N. G. A Neg\n70 insurance agent seeking cleo\ntion to the Iredell County Board\nof Commissioners was found dead\nin a wooded area near States\nVile.\n\n\nBenjamin Sanford Carlton, At,\nof Statesville, had shotgun\nwound in his upper chest.\n\n\nSheriff &c. Rumple said Carl\ntons .4lO gauge shotgun was\nfound in his car, 81 feet from\nthe body. Rumple said there was\nblood in and near the car but\nthere we're no signs of struggle.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1091,
+                    "y0": 2368,
+                    "x1": 1897,
+                    "y1": 2589
+                },
+                {
+                    "x0": 1108,
+                    "y0": 2629,
+                    "x1": 1926,
+                    "y1": 3539
+                }
+            ],
+            "bbox": [
+                1091,
+                2368,
+                1926,
+                3539
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-01_p1_sn84021918_0041421695A_1964050101_0383.json"
+        },
+        {
+            "object_ids": [
+                19,
+                7
+            ],
+            "headline": "Masonic ommUnicu flor\nOpen Monday",
+            "article": "The 44th annual communica-\nton of the Most Worshipful\nPrince Hall Grand Lodge, Free\nand Accepted Mas ons of Arizona\nJurisdiction and the 43rd annual\ncommunication of the Sovereign\nGrand Chapter, Order of the\nEastern Star, will convene in\nPhoenix, May 9Th.\n\n\nA welcoming program will be\nheld at Tanner Chapel AME\nChurch, located at 9th St. and\nJefferson. Rev. L. K. Williams\nwill address the group.\n\n\nBusiness sessions will open\nMonday, May 4, 9 am at the\nMasonic Temple, 4th and JEFF\nferson.\n\n\nS. C. Boyer is the grand mas\nter.\n\n\nThe Grand Chapter will open\nmeetings We'd, May E at 9 am.\n\n\nMrs. Laura Franklin is the\ngrand worthy matron.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2851,
+                    "y0": 1835,
+                    "x1": 3617,
+                    "y1": 2027
+                },
+                {
+                    "x0": 2863,
+                    "y0": 2067,
+                    "x1": 3681,
+                    "y1": 3487
+                }
+            ],
+            "bbox": [
+                2851,
+                1835,
+                3681,
+                3487
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-01_p1_sn84021918_0041421695A_1964050101_0383.json"
+        }
+    ]
+}

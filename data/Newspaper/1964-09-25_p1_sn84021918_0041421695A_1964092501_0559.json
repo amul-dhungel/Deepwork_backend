@@ -1,0 +1,779 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964092501/0559.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4946
+    },
+    "bboxes": [
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1070,
+                "y0": 5704,
+                "x1": 2752,
+                "y1": 6151
+            },
+            "class": "article",
+            "raw_text": "local bowler of the first Of his to enter profess\nsional bowling meet here.\n\n\nThrough the financial of Webbr Eastlake Moray and\nSocial Charity Club Houston Turner second\nleft participated annual professional bowling\nleague tournament held in Mesa.\n\n\nMssrs John Weber, Webbers Morulary\nH. Turner Mesdames Demea Vann president",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3713,
+                "y0": 5217,
+                "x1": 4526,
+                "y1": 6447
+            },
+            "class": "article",
+            "raw_text": "An Is yr. old robber pushedhis\nluck too far Wednesday night.\nThe excellent memory of taxi\ndispatcher caused a would be\nrobber to be trapped.\n\n\nPaul Springs said he was rob-\nbed of almost $24 by two men\nwhen he answered a call at 10th\nStreet and Roeser Sept. 9.\n\n\nGeorge Peterson, taxi dis\npatcher, had taken that call and\nhe received another call for the\nsame location. He recognized the\nvoice and telephoned police. de-\ntectives watched the cab and\narrested two passengers.\n\n\nOne of the passengers William\nHarris, 10, 274O E. Wier, adj\nmitted robbing Springs and the\nAug. E robbery of another taxi\ndriver.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3730,
+                "y0": 5089,
+                "x1": 4392,
+                "y1": 5200
+            },
+            "class": "headline",
+            "raw_text": "His Luck Ron Out",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2838,
+                "y0": 5315,
+                "x1": 3650,
+                "y1": 6418
+            },
+            "class": "article",
+            "raw_text": "Damages totaling $5OO,O00 are\nsought in wrongful-death suit\nfiled against the Atchison, Topeka\nand Santa Fe railroad in superior\ncourt.\n\n\nMrs. Jerrett Williams, widow\nof Tommie Lee Williams, %, of\n1927 w. Maricopa, brought the\nsuit over the death of her hus-\nband Jan. \"a in a truck-train\ncollision at the 18th Avenue\ncrossing.\n\n\nMrs. Williams said the rail-\nroad and two employees, Law\nrenee Lee Cook and Eugene\nSmith, we're negligent.\n\n\nShe seeks 100000 for herself\nand 100000 each for her three\nchildren.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2884,
+                "y0": 5031,
+                "x1": 3459,
+                "y1": 5299
+            },
+            "class": "headline",
+            "raw_text": "Widow Sues\nRailway",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1962,
+                "y0": 6364,
+                "x1": 2769,
+                "y1": 7293
+            },
+            "class": "article",
+            "raw_text": "Edward Banks, publisher and\neditor of The Arizona Tribune\nwill attend an executive board\nmeeting of the National News\npaper Publishers ASS ociation in\nWashington, DC, Sept. $3.50.\n\n\nMembers of the NNPA board\nwill confer with President John\nson and Sargent Shriver on the\nnew antipovery program and its\neffects on minority groups.\n\n\nMr.. Banks will serve as the\nhost for a luncheon meeting to\nbe held Mon., Sept. % with the\nRepublican presidential nominee,\nSen. Barry Gpldwater.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1962,
+                "y0": 6173,
+                "x1": 2566,
+                "y1": 6342
+            },
+            "class": "headline",
+            "raw_text": "Publisher\n\n\nGoes To Capital",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 148,
+                "y0": 4701,
+                "x1": 961,
+                "y1": 5774
+            },
+            "class": "article",
+            "raw_text": "4McCOMB,. Miss. The home\nOf Negro civil rights worker and\nanother Negro church were\nbombed Saturday night. Enraged\nNegroes stoned a police car when\n1t drove into the area.\n\n\nMrs. Aylene Ouin, restaurant\nowner and civil rights leader, re-\nported her two children, ages 9\nand 5 were not seriously in\njured. A bomb was thrown in\nfront of her five room frame\nhouse. Damages we're estimated\nat $4,000.\n\n\nThe Society Hill Baptist Church\nwas demolished by fire about an\nhour after the Quin home was\nbombed. twas empty at the time.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 154,
+                "y0": 4446,
+                "x1": 897,
+                "y1": 4667
+            },
+            "class": "headline",
+            "raw_text": "Bombs Fire\n\n\nq Home and Church",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 1075,
+                "y0": 6121,
+                "x1": 1876,
+                "y1": 6307
+            },
+            "class": "article",
+            "raw_text": "H. Turner, MeSdameS Demetrl\nBertha Price.\n\n\nPhoto = Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2832,
+                "y0": 6689,
+                "x1": 3644,
+                "y1": 7276
+            },
+            "class": "article",
+            "raw_text": "VATICAN CITY DR.. Martin\nLuther King discussed race rela-\nlions for twenty five minutes with\nPope Paul vi, head of the Roman\nCaholic Chruch. The Pope\nagreed to make a public denun-\ncitation of racial segregation.\n\n\nDR.. King visited Madrid and\nLondon before returning to New\nYork.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2878,
+                "y0": 6457,
+                "x1": 3337,
+                "y1": 6661
+            },
+            "class": "headline",
+            "raw_text": "KING MEETS\nPOPE PAUL",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1075,
+                "y0": 6579,
+                "x1": 1888,
+                "y1": 7281
+            },
+            "class": "article",
+            "raw_text": "CHICAGO = Congressman Will\nliam L. Dawson, Democrat, was\nhonored during a testimonial\nbanquet held last week. DR.. Percy\nL. Julian, chemist, was the main\nspeaker.\n\n\nMayor Richard Daley and many\nothers commended Dawson for\nhis service and leadership and\ncongratulated him for serving\nin Congress for more than a\ndecade.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1110,
+                "y0": 6428,
+                "x1": 1830,
+                "y1": 6557
+            },
+            "class": "headline",
+            "raw_text": "DAWSON n0NoRED",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1933,
+                "y0": 2608,
+                "x1": 2758,
+                "y1": 4203
+            },
+            "class": "article",
+            "raw_text": "Ibrahim Mohamed Ibrahim, SUI\ndams Deputy Director of Works.\nis undertaking 2 p month tour\nof U. S. highway departments\nsponsored by its International\nDevelopments Office of Inter-\nnational Training.\n\n\nMr.. Ibrahim will be in the\nstate Sept. 28-Oct. 2.\n\n\nIbrahim said, 81 would like to\nsee construction methods and\nthe maintenance of highways in\nthe different states, especially\nin those states where the eli\nmate is similar to ours\"\n\n\nSudan's ten year development\nprogram, according to Ibrahim.\ncalls for the construction of ap-\nproximately 1000 kilometers of\nroads. 1--WE expect to start on the\nfirst one in two years time\"\nhe revealed. \"When / return,\nl would like to put into practice\nsome of the things I'll see. Our\nbiggest project to date is the $50\nkilometer road between Khar-\ntoum and Wad Medani.''",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 165,
+                "y0": 5988,
+                "x1": 978,
+                "y1": 6638
+            },
+            "class": "article",
+            "raw_text": "CLEVELAND = Singer Gloria\nLynne was wounded by a stray\nbullet during a gun fight between\npolicemen and a bandit. The\nsinger was appearing at down.\ntown entertainment spot, Leo's\nCasino and had just made her\nentrance.\n\n\nMiss Lynne will remain at\nhome for the next two weeks.\nShe was not seriously injured.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 194,
+                "y0": 5837,
+                "x1": 723,
+                "y1": 5960
+            },
+            "class": "headline",
+            "raw_text": "SINGER SHOT",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3719,
+                "y0": 6683,
+                "x1": 4526,
+                "y1": 7270
+            },
+            "class": "article",
+            "raw_text": "1BADAN, Nigeria James\nMeredith re-entered college this\nweek in West Africa, faraway\nfrom the University of Missis-\nsippi which he helped integrate.\n\n\nMeredith, 81. is at the Univer-\nsity of Ibadan with his wife\nMary and 4~year-old son, John\nas guest of the Nigerian gov\nments",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3730,
+                "y0": 6463,
+                "x1": 4265,
+                "y1": 6650
+            },
+            "class": "headline",
+            "raw_text": "Meredith Enters\n\n\nAfrican College",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 171,
+                "y0": 6822,
+                "x1": 984,
+                "y1": 7299
+            },
+            "class": "article",
+            "raw_text": "Arizona's Miss America, Von-\nda Kay Van Dyke, and her dummy\nhurley Q, will make a guest ap-\npear ance on the Ed Sullivan Show\nSunday Sept. u. The Sunday\nevening national television show\nis carried locally by KOOL Tele-\nvision through the Chs Network.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 200,
+                "y0": 6683,
+                "x1": 937,
+                "y1": 6800
+            },
+            "class": "headline",
+            "raw_text": "vonda Gets TV Spot",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 107,
+                "y0": 1553,
+                "x1": 1871,
+                "y1": 4360
+            },
+            "class": "article",
+            "raw_text": "The Phoenix Urban League has an excellent\nopportunity to alter its image and YeOanab ITS\norganization as a whole. with the announcement\nof the resignation of its present exc cuttUe d.\nrector, Charles HoYlius, the league has a U0-\nconcy at the top.\n\n\nDuring the years since its inception, the\nPhoenix Urban League has continued to DRIFT\nfarther auUay from the national program.\nhas progress siUely maintained an 0lO0tness\nfrom the majority Of the minority groups 1t\nProcesses TO be assisting.\n\n\nThe man ON the street, the Negro citizen,\nrarely has heard of the Phoenix Urban League,\nnor its programs. Through its consistent\nfailures to project its program and attract\nCHIC minded persons sOhO are not merely seek\ning status the Phoenix Urban League lacks the\nappeal or force 1T should haze in today's time\nof great social changes.\n\n\nFortunately there are a fen dedicated per-\nsons on the Urban League roster sOh0 haze\ngiven their time to helping to maintain a\nsemblamce Of a program but uithOut some\ncapable and dedicated persons TO head the\nboard and dire ct the programs the league\nloses its effectiveness.\n\n\nPerhaps, q ne1O exe C1tiUe dire CtOY WiH haze\nthe good fortune Of hoUixg a new board or at\nleast some different persons aobo can add\nsome aOOYthaObile personal or community in\nSbiYed contributions to the Phoenix Urban\nLeague operation.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 606,
+                "y0": 1373,
+                "x1": 1332,
+                "y1": 1513
+            },
+            "class": "headline",
+            "raw_text": "A new START",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2844,
+                "y0": 4515,
+                "x1": 4531,
+                "y1": 5032
+            },
+            "class": "article",
+            "raw_text": "held Friday, Sept. 49, Wesley Methodist\nChurch. 1902 E. Washington ST. Plans made formulate\nstrategy the Methodist churches in the inner city\nRon Winsow pastor Wesley Church;\nRoscoe Sngs Sup of the Phoenix District Methodist churches\nof the Wesley Foundation Ari\nState University and Rev. William o. Smith, of Cross\nroads Methodist Church.\n\n\nvHeard",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-09-25"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "local bowler of the first Of his to enter profess\nsional bowling meet here.\n\n\nThrough the financial of Webbr Eastlake Moray and\nSocial Charity Club Houston Turner second\nleft participated annual professional bowling\nleague tournament held in Mesa.\n\n\nMssrs John Weber, Webbers Morulary\nH. Turner Mesdames Demea Vann president",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1070,
+                    "y0": 5704,
+                    "x1": 2752,
+                    "y1": 6151
+                }
+            ],
+            "bbox": [
+                1070,
+                5704,
+                2752,
+                6151
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                23,
+                1
+            ],
+            "headline": "His Luck Ron Out",
+            "article": "An Is yr. old robber pushedhis\nluck too far Wednesday night.\nThe excellent memory of taxi\ndispatcher caused a would be\nrobber to be trapped.\n\n\nPaul Springs said he was rob-\nbed of almost $24 by two men\nwhen he answered a call at 10th\nStreet and Roeser Sept. 9.\n\n\nGeorge Peterson, taxi dis\npatcher, had taken that call and\nhe received another call for the\nsame location. He recognized the\nvoice and telephoned police. de-\ntectives watched the cab and\narrested two passengers.\n\n\nOne of the passengers William\nHarris, 10, 274O E. Wier, adj\nmitted robbing Springs and the\nAug. E robbery of another taxi\ndriver.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3730,
+                    "y0": 5089,
+                    "x1": 4392,
+                    "y1": 5200
+                },
+                {
+                    "x0": 3713,
+                    "y0": 5217,
+                    "x1": 4526,
+                    "y1": 6447
+                }
+            ],
+            "bbox": [
+                3713,
+                5089,
+                4526,
+                6447
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "Widow Sues\nRailway",
+            "article": "Damages totaling $5OO,O00 are\nsought in wrongful-death suit\nfiled against the Atchison, Topeka\nand Santa Fe railroad in superior\ncourt.\n\n\nMrs. Jerrett Williams, widow\nof Tommie Lee Williams, %, of\n1927 w. Maricopa, brought the\nsuit over the death of her hus-\nband Jan. \"a in a truck-train\ncollision at the 18th Avenue\ncrossing.\n\n\nMrs. Williams said the rail-\nroad and two employees, Law\nrenee Lee Cook and Eugene\nSmith, we're negligent.\n\n\nShe seeks 100000 for herself\nand 100000 each for her three\nchildren.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2884,
+                    "y0": 5031,
+                    "x1": 3459,
+                    "y1": 5299
+                },
+                {
+                    "x0": 2838,
+                    "y0": 5315,
+                    "x1": 3650,
+                    "y1": 6418
+                }
+            ],
+            "bbox": [
+                2838,
+                5031,
+                3650,
+                6418
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                20,
+                3
+            ],
+            "headline": "Publisher\n\n\nGoes To Capital",
+            "article": "Edward Banks, publisher and\neditor of The Arizona Tribune\nwill attend an executive board\nmeeting of the National News\npaper Publishers ASS ociation in\nWashington, DC, Sept. $3.50.\n\n\nMembers of the NNPA board\nwill confer with President John\nson and Sargent Shriver on the\nnew antipovery program and its\neffects on minority groups.\n\n\nMr.. Banks will serve as the\nhost for a luncheon meeting to\nbe held Mon., Sept. % with the\nRepublican presidential nominee,\nSen. Barry Gpldwater.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1962,
+                    "y0": 6173,
+                    "x1": 2566,
+                    "y1": 6342
+                },
+                {
+                    "x0": 1962,
+                    "y0": 6364,
+                    "x1": 2769,
+                    "y1": 7293
+                }
+            ],
+            "bbox": [
+                1962,
+                6173,
+                2769,
+                7293
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                21,
+                4
+            ],
+            "headline": "Bombs Fire\n\n\nq Home and Church",
+            "article": "4McCOMB,. Miss. The home\nOf Negro civil rights worker and\nanother Negro church were\nbombed Saturday night. Enraged\nNegroes stoned a police car when\n1t drove into the area.\n\n\nMrs. Aylene Ouin, restaurant\nowner and civil rights leader, re-\nported her two children, ages 9\nand 5 were not seriously in\njured. A bomb was thrown in\nfront of her five room frame\nhouse. Damages we're estimated\nat $4,000.\n\n\nThe Society Hill Baptist Church\nwas demolished by fire about an\nhour after the Quin home was\nbombed. twas empty at the time.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 154,
+                    "y0": 4446,
+                    "x1": 897,
+                    "y1": 4667
+                },
+                {
+                    "x0": 148,
+                    "y0": 4701,
+                    "x1": 961,
+                    "y1": 5774
+                }
+            ],
+            "bbox": [
+                148,
+                4446,
+                961,
+                5774
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                33
+            ],
+            "headline": "",
+            "article": "H. Turner, MeSdameS Demetrl\nBertha Price.\n\n\nPhoto = Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1075,
+                    "y0": 6121,
+                    "x1": 1876,
+                    "y1": 6307
+                }
+            ],
+            "bbox": [
+                1075,
+                6121,
+                1876,
+                6307
+            ],
+            "full_article_id": 34,
+            "id": "34_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                15,
+                7
+            ],
+            "headline": "KING MEETS\nPOPE PAUL",
+            "article": "VATICAN CITY DR.. Martin\nLuther King discussed race rela-\nlions for twenty five minutes with\nPope Paul vi, head of the Roman\nCaholic Chruch. The Pope\nagreed to make a public denun-\ncitation of racial segregation.\n\n\nDR.. King visited Madrid and\nLondon before returning to New\nYork.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2878,
+                    "y0": 6457,
+                    "x1": 3337,
+                    "y1": 6661
+                },
+                {
+                    "x0": 2832,
+                    "y0": 6689,
+                    "x1": 3644,
+                    "y1": 7276
+                }
+            ],
+            "bbox": [
+                2832,
+                6457,
+                3644,
+                7276
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                22,
+                9
+            ],
+            "headline": "DAWSON n0NoRED",
+            "article": "CHICAGO = Congressman Will\nliam L. Dawson, Democrat, was\nhonored during a testimonial\nbanquet held last week. DR.. Percy\nL. Julian, chemist, was the main\nspeaker.\n\n\nMayor Richard Daley and many\nothers commended Dawson for\nhis service and leadership and\ncongratulated him for serving\nin Congress for more than a\ndecade.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1110,
+                    "y0": 6428,
+                    "x1": 1830,
+                    "y1": 6557
+                },
+                {
+                    "x0": 1075,
+                    "y0": 6579,
+                    "x1": 1888,
+                    "y1": 7281
+                }
+            ],
+            "bbox": [
+                1075,
+                6428,
+                1888,
+                7281
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Ibrahim Mohamed Ibrahim, SUI\ndams Deputy Director of Works.\nis undertaking 2 p month tour\nof U. S. highway departments\nsponsored by its International\nDevelopments Office of Inter-\nnational Training.\n\n\nMr.. Ibrahim will be in the\nstate Sept. 28-Oct. 2.\n\n\nIbrahim said, 81 would like to\nsee construction methods and\nthe maintenance of highways in\nthe different states, especially\nin those states where the eli\nmate is similar to ours\"\n\n\nSudan's ten year development\nprogram, according to Ibrahim.\ncalls for the construction of ap-\nproximately 1000 kilometers of\nroads. 1--WE expect to start on the\nfirst one in two years time\"\nhe revealed. \"When / return,\nl would like to put into practice\nsome of the things I'll see. Our\nbiggest project to date is the $50\nkilometer road between Khar-\ntoum and Wad Medani.''",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1933,
+                    "y0": 2608,
+                    "x1": 2758,
+                    "y1": 4203
+                }
+            ],
+            "bbox": [
+                1933,
+                2608,
+                2758,
+                4203
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                27,
+                11
+            ],
+            "headline": "SINGER SHOT",
+            "article": "CLEVELAND = Singer Gloria\nLynne was wounded by a stray\nbullet during a gun fight between\npolicemen and a bandit. The\nsinger was appearing at down.\ntown entertainment spot, Leo's\nCasino and had just made her\nentrance.\n\n\nMiss Lynne will remain at\nhome for the next two weeks.\nShe was not seriously injured.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 194,
+                    "y0": 5837,
+                    "x1": 723,
+                    "y1": 5960
+                },
+                {
+                    "x0": 165,
+                    "y0": 5988,
+                    "x1": 978,
+                    "y1": 6638
+                }
+            ],
+            "bbox": [
+                165,
+                5837,
+                978,
+                6638
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                17,
+                12
+            ],
+            "headline": "Meredith Enters\n\n\nAfrican College",
+            "article": "1BADAN, Nigeria James\nMeredith re-entered college this\nweek in West Africa, faraway\nfrom the University of Missis-\nsippi which he helped integrate.\n\n\nMeredith, 81. is at the Univer-\nsity of Ibadan with his wife\nMary and 4~year-old son, John\nas guest of the Nigerian gov\nments",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3730,
+                    "y0": 6463,
+                    "x1": 4265,
+                    "y1": 6650
+                },
+                {
+                    "x0": 3719,
+                    "y0": 6683,
+                    "x1": 4526,
+                    "y1": 7270
+                }
+            ],
+            "bbox": [
+                3719,
+                6463,
+                4526,
+                7270
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                25,
+                13
+            ],
+            "headline": "vonda Gets TV Spot",
+            "article": "Arizona's Miss America, Von-\nda Kay Van Dyke, and her dummy\nhurley Q, will make a guest ap-\npear ance on the Ed Sullivan Show\nSunday Sept. u. The Sunday\nevening national television show\nis carried locally by KOOL Tele-\nvision through the Chs Network.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 200,
+                    "y0": 6683,
+                    "x1": 937,
+                    "y1": 6800
+                },
+                {
+                    "x0": 171,
+                    "y0": 6822,
+                    "x1": 984,
+                    "y1": 7299
+                }
+            ],
+            "bbox": [
+                171,
+                6683,
+                984,
+                7299
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                30,
+                14
+            ],
+            "headline": "A new START",
+            "article": "The Phoenix Urban League has an excellent\nopportunity to alter its image and YeOanab ITS\norganization as a whole. with the announcement\nof the resignation of its present exc cuttUe d.\nrector, Charles HoYlius, the league has a U0-\nconcy at the top.\n\n\nDuring the years since its inception, the\nPhoenix Urban League has continued to DRIFT\nfarther auUay from the national program.\nhas progress siUely maintained an 0lO0tness\nfrom the majority Of the minority groups 1t\nProcesses TO be assisting.\n\n\nThe man ON the street, the Negro citizen,\nrarely has heard of the Phoenix Urban League,\nnor its programs. Through its consistent\nfailures to project its program and attract\nCHIC minded persons sOhO are not merely seek\ning status the Phoenix Urban League lacks the\nappeal or force 1T should haze in today's time\nof great social changes.\n\n\nFortunately there are a fen dedicated per-\nsons on the Urban League roster sOh0 haze\ngiven their time to helping to maintain a\nsemblamce Of a program but uithOut some\ncapable and dedicated persons TO head the\nboard and dire ct the programs the league\nloses its effectiveness.\n\n\nPerhaps, q ne1O exe C1tiUe dire CtOY WiH haze\nthe good fortune Of hoUixg a new board or at\nleast some different persons aobo can add\nsome aOOYthaObile personal or community in\nSbiYed contributions to the Phoenix Urban\nLeague operation.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 606,
+                    "y0": 1373,
+                    "x1": 1332,
+                    "y1": 1513
+                },
+                {
+                    "x0": 107,
+                    "y0": 1553,
+                    "x1": 1871,
+                    "y1": 4360
+                }
+            ],
+            "bbox": [
+                107,
+                1373,
+                1871,
+                4360
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "held Friday, Sept. 49, Wesley Methodist\nChurch. 1902 E. Washington ST. Plans made formulate\nstrategy the Methodist churches in the inner city\nRon Winsow pastor Wesley Church;\nRoscoe Sngs Sup of the Phoenix District Methodist churches\nof the Wesley Foundation Ari\nState University and Rev. William o. Smith, of Cross\nroads Methodist Church.\n\n\nvHeard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2844,
+                    "y0": 4515,
+                    "x1": 4531,
+                    "y1": 5032
+                }
+            ],
+            "bbox": [
+                2844,
+                4515,
+                4531,
+                5032
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-09-25_p1_sn84021918_0041421695A_1964092501_0559.json"
+        }
+    ]
+}

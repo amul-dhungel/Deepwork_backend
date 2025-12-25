@@ -1,0 +1,273 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964111301/0629.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4902
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1006,
+                "y0": 2495,
+                "x1": 1822,
+                "y1": 3414
+            },
+            "class": "article",
+            "raw_text": "Secretary (stenography Grade\nGS ~ vacancy is announced by\nthe US. Department of Agricul-\nture here.\n\n\nDuties take and transcribe\ndictation; type letter; compile\nroutine reports and statistical\ndata, and perform related secre-\ntarial work.\n\n\nApplicants may receive fur\nTheir information by telephoning\n26l-326l, or writing letter to\nthe State Executive Director\nACSA State Office, Room 60l6,\nFederal Building, Phoenix, Ari-\niona 85025.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1070,
+                "y0": 2310,
+                "x1": 1654,
+                "y1": 2473
+            },
+            "class": "headline",
+            "raw_text": "JOB NOTES",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1913,
+                "y0": 2068,
+                "x1": 2735,
+                "y1": 3241
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES : Negro Harry\nWinston, long time leading Com\nmunist Party figure, has been\npermitted to sue the US. govern\nment for negligence.\n\n\nHe seeks 81 million for the\nloss of his eyesight, during his\nprison confinement which ended\nin 1861 on an clemency order\nfrom the late Pre- sident Kennedy.\n\n\nWinston charged the prison Of.\nficials did not give him adequate\nphysical attention. but he did\nnot charge them with any abusive\nactions. He had complained of\nrecurring headaches.\n\n\nThe permission to sue the\nfederal government, markes the\nfirst time an individual has been\nallowed to file such action.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1902,
+                "y0": 1744,
+                "x1": 2706,
+                "y1": 2034
+            },
+            "class": "headline",
+            "raw_text": "Avowed Red To\n\n\nSue Covernm ent",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 111,
+                "y0": 2559,
+                "x1": 932,
+                "y1": 3490
+            },
+            "class": "article",
+            "raw_text": "ST. LOUIS Jackie Wilson,\npopular rock and roller, was ar\nrested last Saturday night and\nrelea sed on Monday on a default\n! of contract judgement.\n\n\nAfter his appearance at Kiel\nAuditorium, Wilson tried to avoid\nofficers by scaling a second story\nwall.\n\n\nThe 80 yr. old singer, wa held\nunder a SO, 900 bond. The judge\nment wa caused by default nearly\nfive years ago when dance spon-\nsors claimed he failed to appear\nfor his program. The judgement\nwas set at $3.50.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 134,
+                "y0": 2374,
+                "x1": 805,
+                "y1": 2531
+            },
+            "class": "headline",
+            "raw_text": "Singer jailed",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1913,
+                "y0": 554,
+                "x1": 2735,
+                "y1": 1612
+            },
+            "class": "article",
+            "raw_text": "Postma ster w. ]. Ma son urges\neveryone to mail early for\nChristmas. Gift parcels should\nbe placed in strong cardboard\nboxes, wrapped and tied securely,\nand addressed on one side only.\nZIP codes should be used.\n\n\nOnly Christmas cards bearing\nfirst class postage (5f or 81\nairmail) may include personal\nmessage. Signatures only can\nbe placed on cards mailed at third\nclass rates.\n\n\nCards and packages for dis\ntant points should be mailed be-\nfore Dec. 10, and within state\nmailings should be done before\nDec. Is.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1925,
+                "y0": 381,
+                "x1": 2538,
+                "y1": 520
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-11-13"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "JOB NOTES",
+            "article": "Secretary (stenography Grade\nGS ~ vacancy is announced by\nthe US. Department of Agricul-\nture here.\n\n\nDuties take and transcribe\ndictation; type letter; compile\nroutine reports and statistical\ndata, and perform related secre-\ntarial work.\n\n\nApplicants may receive fur\nTheir information by telephoning\n26l-326l, or writing letter to\nthe State Executive Director\nACSA State Office, Room 60l6,\nFederal Building, Phoenix, Ari-\niona 85025.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1070,
+                    "y0": 2310,
+                    "x1": 1654,
+                    "y1": 2473
+                },
+                {
+                    "x0": 1006,
+                    "y0": 2495,
+                    "x1": 1822,
+                    "y1": 3414
+                }
+            ],
+            "bbox": [
+                1006,
+                2310,
+                1822,
+                3414
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-13_p1_sn84021918_0041421695A_1964111301_0629.json"
+        },
+        {
+            "object_ids": [
+                10,
+                3
+            ],
+            "headline": "Avowed Red To\n\n\nSue Covernm ent",
+            "article": "LOS ANGELES : Negro Harry\nWinston, long time leading Com\nmunist Party figure, has been\npermitted to sue the US. govern\nment for negligence.\n\n\nHe seeks 81 million for the\nloss of his eyesight, during his\nprison confinement which ended\nin 1861 on an clemency order\nfrom the late Pre- sident Kennedy.\n\n\nWinston charged the prison Of.\nficials did not give him adequate\nphysical attention. but he did\nnot charge them with any abusive\nactions. He had complained of\nrecurring headaches.\n\n\nThe permission to sue the\nfederal government, markes the\nfirst time an individual has been\nallowed to file such action.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1902,
+                    "y0": 1744,
+                    "x1": 2706,
+                    "y1": 2034
+                },
+                {
+                    "x0": 1913,
+                    "y0": 2068,
+                    "x1": 2735,
+                    "y1": 3241
+                }
+            ],
+            "bbox": [
+                1902,
+                1744,
+                2735,
+                3241
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-13_p1_sn84021918_0041421695A_1964111301_0629.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "Singer jailed",
+            "article": "ST. LOUIS Jackie Wilson,\npopular rock and roller, was ar\nrested last Saturday night and\nrelea sed on Monday on a default\n! of contract judgement.\n\n\nAfter his appearance at Kiel\nAuditorium, Wilson tried to avoid\nofficers by scaling a second story\nwall.\n\n\nThe 80 yr. old singer, wa held\nunder a SO, 900 bond. The judge\nment wa caused by default nearly\nfive years ago when dance spon-\nsors claimed he failed to appear\nfor his program. The judgement\nwas set at $3.50.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 134,
+                    "y0": 2374,
+                    "x1": 805,
+                    "y1": 2531
+                },
+                {
+                    "x0": 111,
+                    "y0": 2559,
+                    "x1": 932,
+                    "y1": 3490
+                }
+            ],
+            "bbox": [
+                111,
+                2374,
+                932,
+                3490
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-11-13_p1_sn84021918_0041421695A_1964111301_0629.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "",
+            "article": "Postma ster w. ]. Ma son urges\neveryone to mail early for\nChristmas. Gift parcels should\nbe placed in strong cardboard\nboxes, wrapped and tied securely,\nand addressed on one side only.\nZIP codes should be used.\n\n\nOnly Christmas cards bearing\nfirst class postage (5f or 81\nairmail) may include personal\nmessage. Signatures only can\nbe placed on cards mailed at third\nclass rates.\n\n\nCards and packages for dis\ntant points should be mailed be-\nfore Dec. 10, and within state\nmailings should be done before\nDec. Is.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1925,
+                    "y0": 381,
+                    "x1": 2538,
+                    "y1": 520
+                },
+                {
+                    "x0": 1913,
+                    "y0": 554,
+                    "x1": 2735,
+                    "y1": 1612
+                }
+            ],
+            "bbox": [
+                1913,
+                381,
+                2735,
+                1612
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-13_p1_sn84021918_0041421695A_1964111301_0629.json"
+        }
+    ]
+}

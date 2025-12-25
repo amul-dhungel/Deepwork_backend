@@ -1,0 +1,609 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-16",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4876,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-16",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0585.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1892,
+                "y0": 1595,
+                "x1": 2705,
+                "y1": 2646
+            },
+            "class": "article",
+            "raw_text": "STOCKHOLM : DR.. Martin L.\nKing. Jr.. president of the\nSouthern Christian Leaders ship.\nConference and noted civil rights\nleader, was named as the 1864\nNobel Peace Prize winner.\n\n\nHe is the twelfth recipient\nfrom the United States to win the\naward as one who has contri-\nbuted more to peace in the year.\n\n\nFive awards are presented an\nnually consisting of gold medal\nand $33 900. The categories\nare physics, chemistry, medi-\ncine, peace and literature.\n\n\nDR.. King said most of the cash\nawards would be donated to civil\nrights funds.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1921,
+                "y0": 1305,
+                "x1": 2514,
+                "y1": 1567
+            },
+            "class": "headline",
+            "raw_text": "King Wins\n\n\nNobel Prize",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1892,
+                "y0": 5343,
+                "x1": 2705,
+                "y1": 6604
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Veteran in\nfielder Junior Gillian of the\nLos Angeles Dodgers was hired\nas the first Negro member of\nits ching staff.\n\n\nOne of dwindling number of\nNegro starts from the Robinson\nera, Gillian was one of three\nnew coaches named to replace a\ntrio, headed by former major\nleague manager Leo Durocher.\nWho asked to be relieved of his\nGoa ching duties so he could\naccept a major league managing\njob\" and the others also, were\nreleased last week.\n\n\nAlthough Gillian is the first\nNegro to coach with the Dodgers,\nhe is not the first in the ma iors.\nThat distinction goes to assistant\ncoach Buck o. Neil of the Chicago\nCIihc",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1892,
+                "y0": 5204,
+                "x1": 2694,
+                "y1": 5321
+            },
+            "class": "headline",
+            "raw_text": "Gillian Named Coach",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1886,
+                "y0": 3939,
+                "x1": 2700,
+                "y1": 5130
+            },
+            "class": "article",
+            "raw_text": "DALLAS A crowd of 4 900\npersons were turned into a\nriotous mob when internal\nrevenue agents seized the re-\nceipts at the beginning per-\nTorrance of Singer Ray Charles\nand his troupe.\n\n\nThe first song, \"Let the Good\nTimes Rolf had just started\nwhen the dance was halted at\nthe Municipal Stadium. Nearly\n20 policemen were called to the\nscene S the fans threw bottles\nand rushed to the ticket windows.\nDamages to windows and equip\nment were estimated at 81 900.\nFour persons were arrested.\n\n\nRay Charles and his group left\nby a rear exit and he refused\nto discuss his tax troubles.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1909,
+                "y0": 3725,
+                "x1": 2444,
+                "y1": 3911
+            },
+            "class": "headline",
+            "raw_text": "Dance H uIfed\nBy Tax Men",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2774,
+                "y0": 6295,
+                "x1": 3587,
+                "y1": 7219
+            },
+            "class": "article",
+            "raw_text": "Palmdale School Boy Scouts\nTroop 3l6 liked to Kyrene on\nOct. 2. Charles Lawrence,\nleader, welcomes boys l l-l8who\nlive in the area. Meetings are\nheld at the school 3l46 E. Wier\nevery Wednesday and Friday.\n$3.50 pm.\n\n\nAnnual Palmdale carnival is\nscheduled Oct. %, 1880 pm.\n\n\nJulian School carnival will be\nheld Oct. 80.\n\n\nDR.. Curtis o. Greenfield, prin-\nctpal Julian School attended the\nArizona Town Hall meeting held\nin Grand Canyon.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2826,
+                "y0": 6191,
+                "x1": 3315,
+                "y1": 6284
+            },
+            "class": "headline",
+            "raw_text": "School News",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1880,
+                "y0": 2819,
+                "x1": 2700,
+                "y1": 3708
+            },
+            "class": "article",
+            "raw_text": "LAGOS, Nigeria James Mer-\nedith, Negro, who became the\nfirst of his race to attend and\ngraduate from the University of\nMis- sissippi remains in this\nAfrican country awaiting fell\nlowship at the University of\nIbadan.\n\n\nMeredith charged he had been\nwaiting in Lagos for two months\nand no Nigerian official had even\ndiscussed the problem. He said\nthat he had not received any\nwritten communication about the\nscholarship since he had arrived.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1915,
+                "y0": 2680,
+                "x1": 2613,
+                "y1": 2797
+            },
+            "class": "headline",
+            "raw_text": "Meredith Ignored",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3650,
+                "y0": 6382,
+                "x1": 4458,
+                "y1": 7190
+            },
+            "class": "article",
+            "raw_text": "The first showing of \"The\nSickle Cell Story\" a slide pre-\nsentation of the strange blood\ndisease which affect mainly Ne\ngroes, will be shown Sunday, Oct.\nIs, at the Phoenix Public Library\nauditorium, 8 pm.\n\n\nSponsored by the Delta Beta\nOmega, Alpha Kappa Alpha Soro-\nrity, the program is free and open\nto the public.\n\n\nDR.. Clarence Laing, local\npediatrician, will appear as\nthe medical consultant.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 4126,
+                "y0": 3759,
+                "x1": 4446,
+                "y1": 3824
+            },
+            "class": "author",
+            "raw_text": "We'd, Oct. S",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3702,
+                "y0": 6167,
+                "x1": 4249,
+                "y1": 6366
+            },
+            "class": "headline",
+            "raw_text": "AKA Sorors\nPIun Progru m",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1892,
+                "y0": 6800,
+                "x1": 2700,
+                "y1": 7201
+            },
+            "class": "article",
+            "raw_text": "LONDON = Singer Lena Horne,\nAt, announced she is expecting to\nbecome a grandmother soon.\n\n\nHer daughter, Gail, wife of\nSidney Lumet, white film di-\nrector, told reporters they are\nexpecting a child in November.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1909,
+                "y0": 6626,
+                "x1": 2421,
+                "y1": 6783
+            },
+            "class": "headline",
+            "raw_text": "Lena To\nBe A Granny",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 82,
+                "y0": 1502,
+                "x1": 1771,
+                "y1": 4654
+            },
+            "class": "article",
+            "raw_text": "The contest betWeen the tho candidates\nJOT the Junior senatorial seat I'm Washing\ntom for Arizona is clearly defined. The Re-\npublican candidate, Paul Fonnin has bYoven\nhis merits here in OuY state for three terms\nas an able governor.\n\n\nHIS opponent can base his merits on seq\ne1ul years as secretary and an 0dnai,aiS-\ntyntiUe aide to our senior and venerable\nSenator Hayden.\n\n\nPrior to this political campaign the name\nOf F0'anin aOas uOeH knOsOa in business and\nCHIC affairs. Paul Fa,a,1in is no fguyehead\nand he has led the State of A yizona through\nhead exc CutiUe post\n\n\nWe do not need anyone sOh0 tells us that he\nknoaOs numerous political leaders in the ma\n5on's capital We need a man aOho knows\nthe problems Of the state and realizes the\nposition Of his constituents.\n\n\nraul F0'anin has UOiced his opinions\nclearly. He urges fair and equal obboY-\ntu'1itieS for all. He wants TO sOlve the\nproblems Of aOoteY on a sound and just basis.\nHe announces his deep regard for a people to\npeople program in increasing the United\nStates role in foreign affairs.\n\n\nOther points included in Fanain's state\nment are me0',ingtul. He advocates health\ncare for the aged and q sound social SecuY-\nity system.\n\n\nFan'1in is the better choice. He knows\nmore people IN Arizona and since he zUiu\nbe representing MS--thiS is more important\nthan knowing scores of others Who do not\nGUe here.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 372,
+                "y0": 1334,
+                "x1": 1528,
+                "y1": 1474
+            },
+            "class": "headline",
+            "raw_text": "FANNIN IS The CHOICE",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 128,
+                "y0": 6649,
+                "x1": 1806,
+                "y1": 7184
+            },
+            "class": "article",
+            "raw_text": "Discussing plans for the Community Action Assembly left\nright Cooper director of the Cleveland Urban\nLeague Mrs. sobe Chisholm Clark associate director of the\nNational Urban League and Arthur j. Edmunds, executive d.\nof the Pittsburgh Urban League\n\n\nNearly Negro leaders expected assemble Wash\nington December examination provisions\nunder the anpover bill and federal civil rights bill with\nlevel government officials.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2786,
+                "y0": 1798,
+                "x1": 4475,
+                "y1": 2171
+            },
+            "class": "article",
+            "raw_text": "Members and Antioch Baptist Church. Al No. 18th\nStreet, gathered Sunday anniversary\nof Rev. and Mrs. NJ E. Nicholson\n\n\nN. E. Nicholson, F. Smith,\nprogram chairman Mrs. Watson secretary\nceremonies. Photo B. Heard",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964101601_0585",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "King Wins\n\n\nNobel Prize",
+            "article": "STOCKHOLM : DR.. Martin L.\nKing. Jr.. president of the\nSouthern Christian Leaders ship.\nConference and noted civil rights\nleader, was named as the 1864\nNobel Peace Prize winner.\n\n\nHe is the twelfth recipient\nfrom the United States to win the\naward as one who has contri-\nbuted more to peace in the year.\n\n\nFive awards are presented an\nnually consisting of gold medal\nand $33 900. The categories\nare physics, chemistry, medi-\ncine, peace and literature.\n\n\nDR.. King said most of the cash\nawards would be donated to civil\nrights funds.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1921,
+                    "y0": 1305,
+                    "x1": 2514,
+                    "y1": 1567
+                },
+                {
+                    "x0": 1892,
+                    "y0": 1595,
+                    "x1": 2705,
+                    "y1": 2646
+                }
+            ],
+            "bbox": [
+                1892,
+                1305,
+                2705,
+                2646
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                21,
+                4
+            ],
+            "headline": "Gillian Named Coach",
+            "article": "LOS ANGELES Veteran in\nfielder Junior Gillian of the\nLos Angeles Dodgers was hired\nas the first Negro member of\nits ching staff.\n\n\nOne of dwindling number of\nNegro starts from the Robinson\nera, Gillian was one of three\nnew coaches named to replace a\ntrio, headed by former major\nleague manager Leo Durocher.\nWho asked to be relieved of his\nGoa ching duties so he could\naccept a major league managing\njob\" and the others also, were\nreleased last week.\n\n\nAlthough Gillian is the first\nNegro to coach with the Dodgers,\nhe is not the first in the ma iors.\nThat distinction goes to assistant\ncoach Buck o. Neil of the Chicago\nCIihc",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1892,
+                    "y0": 5204,
+                    "x1": 2694,
+                    "y1": 5321
+                },
+                {
+                    "x0": 1892,
+                    "y0": 5343,
+                    "x1": 2705,
+                    "y1": 6604
+                }
+            ],
+            "bbox": [
+                1892,
+                5204,
+                2705,
+                6604
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "Dance H uIfed\nBy Tax Men",
+            "article": "DALLAS A crowd of 4 900\npersons were turned into a\nriotous mob when internal\nrevenue agents seized the re-\nceipts at the beginning per-\nTorrance of Singer Ray Charles\nand his troupe.\n\n\nThe first song, \"Let the Good\nTimes Rolf had just started\nwhen the dance was halted at\nthe Municipal Stadium. Nearly\n20 policemen were called to the\nscene S the fans threw bottles\nand rushed to the ticket windows.\nDamages to windows and equip\nment were estimated at 81 900.\nFour persons were arrested.\n\n\nRay Charles and his group left\nby a rear exit and he refused\nto discuss his tax troubles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1909,
+                    "y0": 3725,
+                    "x1": 2444,
+                    "y1": 3911
+                },
+                {
+                    "x0": 1886,
+                    "y0": 3939,
+                    "x1": 2700,
+                    "y1": 5130
+                }
+            ],
+            "bbox": [
+                1886,
+                3725,
+                2700,
+                5130
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                23,
+                7
+            ],
+            "headline": "School News",
+            "article": "Palmdale School Boy Scouts\nTroop 3l6 liked to Kyrene on\nOct. 2. Charles Lawrence,\nleader, welcomes boys l l-l8who\nlive in the area. Meetings are\nheld at the school 3l46 E. Wier\nevery Wednesday and Friday.\n$3.50 pm.\n\n\nAnnual Palmdale carnival is\nscheduled Oct. %, 1880 pm.\n\n\nJulian School carnival will be\nheld Oct. 80.\n\n\nDR.. Curtis o. Greenfield, prin-\nctpal Julian School attended the\nArizona Town Hall meeting held\nin Grand Canyon.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2826,
+                    "y0": 6191,
+                    "x1": 3315,
+                    "y1": 6284
+                },
+                {
+                    "x0": 2774,
+                    "y0": 6295,
+                    "x1": 3587,
+                    "y1": 7219
+                }
+            ],
+            "bbox": [
+                2774,
+                6191,
+                3587,
+                7219
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                20,
+                8
+            ],
+            "headline": "Meredith Ignored",
+            "article": "LAGOS, Nigeria James Mer-\nedith, Negro, who became the\nfirst of his race to attend and\ngraduate from the University of\nMis- sissippi remains in this\nAfrican country awaiting fell\nlowship at the University of\nIbadan.\n\n\nMeredith charged he had been\nwaiting in Lagos for two months\nand no Nigerian official had even\ndiscussed the problem. He said\nthat he had not received any\nwritten communication about the\nscholarship since he had arrived.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 2680,
+                    "x1": 2613,
+                    "y1": 2797
+                },
+                {
+                    "x0": 1880,
+                    "y0": 2819,
+                    "x1": 2700,
+                    "y1": 3708
+                }
+            ],
+            "bbox": [
+                1880,
+                2680,
+                2700,
+                3708
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                28,
+                14,
+                9
+            ],
+            "headline": "AKA Sorors\nPIun Progru m",
+            "article": "The first showing of \"The\nSickle Cell Story\" a slide pre-\nsentation of the strange blood\ndisease which affect mainly Ne\ngroes, will be shown Sunday, Oct.\nIs, at the Phoenix Public Library\nauditorium, 8 pm.\n\n\nSponsored by the Delta Beta\nOmega, Alpha Kappa Alpha Soro-\nrity, the program is free and open\nto the public.\n\n\nDR.. Clarence Laing, local\npediatrician, will appear as\nthe medical consultant.",
+            "byline": "We'd, Oct. S",
+            "bbox_list": [
+                {
+                    "x0": 4126,
+                    "y0": 3759,
+                    "x1": 4446,
+                    "y1": 3824
+                },
+                {
+                    "x0": 3702,
+                    "y0": 6167,
+                    "x1": 4249,
+                    "y1": 6366
+                },
+                {
+                    "x0": 3650,
+                    "y0": 6382,
+                    "x1": 4458,
+                    "y1": 7190
+                }
+            ],
+            "bbox": [
+                3650,
+                3759,
+                4458,
+                7190
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                15,
+                10
+            ],
+            "headline": "Lena To\nBe A Granny",
+            "article": "LONDON = Singer Lena Horne,\nAt, announced she is expecting to\nbecome a grandmother soon.\n\n\nHer daughter, Gail, wife of\nSidney Lumet, white film di-\nrector, told reporters they are\nexpecting a child in November.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1909,
+                    "y0": 6626,
+                    "x1": 2421,
+                    "y1": 6783
+                },
+                {
+                    "x0": 1892,
+                    "y0": 6800,
+                    "x1": 2700,
+                    "y1": 7201
+                }
+            ],
+            "bbox": [
+                1892,
+                6626,
+                2700,
+                7201
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                22,
+                11
+            ],
+            "headline": "FANNIN IS The CHOICE",
+            "article": "The contest betWeen the tho candidates\nJOT the Junior senatorial seat I'm Washing\ntom for Arizona is clearly defined. The Re-\npublican candidate, Paul Fonnin has bYoven\nhis merits here in OuY state for three terms\nas an able governor.\n\n\nHIS opponent can base his merits on seq\ne1ul years as secretary and an 0dnai,aiS-\ntyntiUe aide to our senior and venerable\nSenator Hayden.\n\n\nPrior to this political campaign the name\nOf F0'anin aOas uOeH knOsOa in business and\nCHIC affairs. Paul Fa,a,1in is no fguyehead\nand he has led the State of A yizona through\nhead exc CutiUe post\n\n\nWe do not need anyone sOh0 tells us that he\nknoaOs numerous political leaders in the ma\n5on's capital We need a man aOho knows\nthe problems Of the state and realizes the\nposition Of his constituents.\n\n\nraul F0'anin has UOiced his opinions\nclearly. He urges fair and equal obboY-\ntu'1itieS for all. He wants TO sOlve the\nproblems Of aOoteY on a sound and just basis.\nHe announces his deep regard for a people to\npeople program in increasing the United\nStates role in foreign affairs.\n\n\nOther points included in Fanain's state\nment are me0',ingtul. He advocates health\ncare for the aged and q sound social SecuY-\nity system.\n\n\nFan'1in is the better choice. He knows\nmore people IN Arizona and since he zUiu\nbe representing MS--thiS is more important\nthan knowing scores of others Who do not\nGUe here.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 372,
+                    "y0": 1334,
+                    "x1": 1528,
+                    "y1": 1474
+                },
+                {
+                    "x0": 82,
+                    "y0": 1502,
+                    "x1": 1771,
+                    "y1": 4654
+                }
+            ],
+            "bbox": [
+                82,
+                1334,
+                1771,
+                4654
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "Discussing plans for the Community Action Assembly left\nright Cooper director of the Cleveland Urban\nLeague Mrs. sobe Chisholm Clark associate director of the\nNational Urban League and Arthur j. Edmunds, executive d.\nof the Pittsburgh Urban League\n\n\nNearly Negro leaders expected assemble Wash\nington December examination provisions\nunder the anpover bill and federal civil rights bill with\nlevel government officials.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 128,
+                    "y0": 6649,
+                    "x1": 1806,
+                    "y1": 7184
+                }
+            ],
+            "bbox": [
+                128,
+                6649,
+                1806,
+                7184
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "Members and Antioch Baptist Church. Al No. 18th\nStreet, gathered Sunday anniversary\nof Rev. and Mrs. NJ E. Nicholson\n\n\nN. E. Nicholson, F. Smith,\nprogram chairman Mrs. Watson secretary\nceremonies. Photo B. Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2786,
+                    "y0": 1798,
+                    "x1": 4475,
+                    "y1": 2171
+                }
+            ],
+            "bbox": [
+                2786,
+                1798,
+                4475,
+                2171
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-10-16_pna_sn84021918_0041421695A_1964101601_0585.json"
+        }
+    ]
+}

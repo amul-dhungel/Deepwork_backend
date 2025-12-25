@@ -1,0 +1,598 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964092501/0565.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7433,
+        "width": 4833
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3665,
+                "y0": 1817,
+                "x1": 4345,
+                "y1": 2079
+            },
+            "class": "article",
+            "raw_text": "LADY EBONEE BEAUTY\nCENTER\nOF w. Buckeye Rd.\nAL 2-2642",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1876,
+                "y0": 4599,
+                "x1": 2690,
+                "y1": 5401
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Federal gov\neminent plans for placing a job\ncorps conservation program in\nYork County, Virginia. we're\nhalted after residents protested.\n\n\nYork County citizens had\ncharged that \"Negro hoodlums\"\nfrom Harlem would be brought in.\n\n\nSargent Shriver, federal anti\npoverty program head, sent let\nter to county officials which\nstated that job corps groups would\nnot be placed where they we're\nnot wanted.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1893,
+                "y0": 4384,
+                "x1": 2504,
+                "y1": 4576
+            },
+            "class": "headline",
+            "raw_text": "YorkfoWners\nReject Job Corps",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1893,
+                "y0": 3490,
+                "x1": 2702,
+                "y1": 4367
+            },
+            "class": "article",
+            "raw_text": "DALLAS Clarence Laws,\nNAACP southwest regional d.\nrector. urges Negro students to\nwork toward quality education to\nimprove their future lives.\n\n\nHe said, \"sports and other\nextra curricular activities have\ntheir place, but this should never\nbe first\"\n\n\nEmphasizing the lower test\nscores of Negroes on College\nEntrance Examination Boards,\nMr.. Laws stated Negroes must\ndevote more time to the es-\nsentials of education.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1911,
+                "y0": 3280,
+                "x1": 2487,
+                "y1": 3467
+            },
+            "class": "headline",
+            "raw_text": "Students Urged\nTo Study",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3670,
+                "y0": 1289,
+                "x1": 4397,
+                "y1": 1487
+            },
+            "class": "article",
+            "raw_text": "LORETTA'S BEAUTY SHOP\n$50 w. Grant Street\n254-O706",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2770,
+                "y0": 3571,
+                "x1": 3578,
+                "y1": 3978
+            },
+            "class": "article",
+            "raw_text": "CANTON, Miss. Two more\nNegro churches we're burned last\nweek making a total of \"a\nchurches burned recently in the\nstate. The churches had been\nused during Negro voter regis\ntration drives.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2782,
+                "y0": 3350,
+                "x1": 3410,
+                "y1": 3537
+            },
+            "class": "headline",
+            "raw_text": "More\nChurches Burned",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3647,
+                "y0": 3803,
+                "x1": 4461,
+                "y1": 3990
+            },
+            "class": "article",
+            "raw_text": "Real intelligence is a creative\nuse of knowledge, not merely an\naccumulation Of facts.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3659,
+                "y0": 3089,
+                "x1": 4478,
+                "y1": 3328
+            },
+            "class": "article",
+            "raw_text": "Help Wanted Male. Various Jobs\nRegister Now South Phoenix\nEmployment Agency. 1912 E.\nSouthern Ave. - 276-5242",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3670,
+                "y0": 2979,
+                "x1": 4177,
+                "y1": 3072
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3659,
+                "y0": 3466,
+                "x1": 4473,
+                "y1": 3717
+            },
+            "class": "article",
+            "raw_text": "bedroom apis. Furn. or I'm\nfurn. 1907 S. 10th St. All\nelectric. $40 wk. See mgr.\nApt. S.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3670,
+                "y0": 3362,
+                "x1": 4002,
+                "y1": 3450
+            },
+            "class": "headline",
+            "raw_text": "FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3670,
+                "y0": 2113,
+                "x1": 4397,
+                "y1": 2323
+            },
+            "class": "article",
+            "raw_text": "SOUBLET'S BEAUTY SHOP\n2014 E. Broadway\nBR 6-3964",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3676,
+                "y0": 2775,
+                "x1": 4287,
+                "y1": 2910
+            },
+            "class": "article",
+            "raw_text": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3665,
+                "y0": 1527,
+                "x1": 4264,
+                "y1": 1777
+            },
+            "class": "article",
+            "raw_text": "HILLS PHOENICIAN\nBEAUTY SHOP\n2110 E. Jeffers son\nAL 3-9989",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3676,
+                "y0": 2589,
+                "x1": 4351,
+                "y1": 2736
+            },
+            "class": "article",
+            "raw_text": "j & M BARBER SHOP\n1905 W. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-09-25"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "LADY EBONEE BEAUTY\nCENTER\nOF w. Buckeye Rd.\nAL 2-2642",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3665,
+                    "y0": 1817,
+                    "x1": 4345,
+                    "y1": 2079
+                }
+            ],
+            "bbox": [
+                3665,
+                1817,
+                4345,
+                2079
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "YorkfoWners\nReject Job Corps",
+            "article": "WASHINGTON Federal gov\neminent plans for placing a job\ncorps conservation program in\nYork County, Virginia. we're\nhalted after residents protested.\n\n\nYork County citizens had\ncharged that \"Negro hoodlums\"\nfrom Harlem would be brought in.\n\n\nSargent Shriver, federal anti\npoverty program head, sent let\nter to county officials which\nstated that job corps groups would\nnot be placed where they we're\nnot wanted.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1893,
+                    "y0": 4384,
+                    "x1": 2504,
+                    "y1": 4576
+                },
+                {
+                    "x0": 1876,
+                    "y0": 4599,
+                    "x1": 2690,
+                    "y1": 5401
+                }
+            ],
+            "bbox": [
+                1876,
+                4384,
+                2690,
+                5401
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "Students Urged\nTo Study",
+            "article": "DALLAS Clarence Laws,\nNAACP southwest regional d.\nrector. urges Negro students to\nwork toward quality education to\nimprove their future lives.\n\n\nHe said, \"sports and other\nextra curricular activities have\ntheir place, but this should never\nbe first\"\n\n\nEmphasizing the lower test\nscores of Negroes on College\nEntrance Examination Boards,\nMr.. Laws stated Negroes must\ndevote more time to the es-\nsentials of education.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1911,
+                    "y0": 3280,
+                    "x1": 2487,
+                    "y1": 3467
+                },
+                {
+                    "x0": 1893,
+                    "y0": 3490,
+                    "x1": 2702,
+                    "y1": 4367
+                }
+            ],
+            "bbox": [
+                1893,
+                3280,
+                2702,
+                4367
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "LORETTA'S BEAUTY SHOP\n$50 w. Grant Street\n254-O706",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3670,
+                    "y0": 1289,
+                    "x1": 4397,
+                    "y1": 1487
+                }
+            ],
+            "bbox": [
+                3670,
+                1289,
+                4397,
+                1487
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                16,
+                7
+            ],
+            "headline": "More\nChurches Burned",
+            "article": "CANTON, Miss. Two more\nNegro churches we're burned last\nweek making a total of \"a\nchurches burned recently in the\nstate. The churches had been\nused during Negro voter regis\ntration drives.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2782,
+                    "y0": 3350,
+                    "x1": 3410,
+                    "y1": 3537
+                },
+                {
+                    "x0": 2770,
+                    "y0": 3571,
+                    "x1": 3578,
+                    "y1": 3978
+                }
+            ],
+            "bbox": [
+                2770,
+                3350,
+                3578,
+                3978
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Real intelligence is a creative\nuse of knowledge, not merely an\naccumulation Of facts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3647,
+                    "y0": 3803,
+                    "x1": 4461,
+                    "y1": 3990
+                }
+            ],
+            "bbox": [
+                3647,
+                3803,
+                4461,
+                3990
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                19,
+                14
+            ],
+            "headline": "",
+            "article": "Help Wanted Male. Various Jobs\nRegister Now South Phoenix\nEmployment Agency. 1912 E.\nSouthern Ave. - 276-5242",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3670,
+                    "y0": 2979,
+                    "x1": 4177,
+                    "y1": 3072
+                },
+                {
+                    "x0": 3659,
+                    "y0": 3089,
+                    "x1": 4478,
+                    "y1": 3328
+                }
+            ],
+            "bbox": [
+                3659,
+                2979,
+                4478,
+                3328
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                23,
+                17
+            ],
+            "headline": "FOR RENT",
+            "article": "bedroom apis. Furn. or I'm\nfurn. 1907 S. 10th St. All\nelectric. $40 wk. See mgr.\nApt. S.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3670,
+                    "y0": 3362,
+                    "x1": 4002,
+                    "y1": 3450
+                },
+                {
+                    "x0": 3659,
+                    "y0": 3466,
+                    "x1": 4473,
+                    "y1": 3717
+                }
+            ],
+            "bbox": [
+                3659,
+                3362,
+                4473,
+                3717
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "SOUBLET'S BEAUTY SHOP\n2014 E. Broadway\nBR 6-3964",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3670,
+                    "y0": 2113,
+                    "x1": 4397,
+                    "y1": 2323
+                }
+            ],
+            "bbox": [
+                3670,
+                2113,
+                4397,
+                2323
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3676,
+                    "y0": 2775,
+                    "x1": 4287,
+                    "y1": 2910
+                }
+            ],
+            "bbox": [
+                3676,
+                2775,
+                4287,
+                2910
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "HILLS PHOENICIAN\nBEAUTY SHOP\n2110 E. Jeffers son\nAL 3-9989",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3665,
+                    "y0": 1527,
+                    "x1": 4264,
+                    "y1": 1777
+                }
+            ],
+            "bbox": [
+                3665,
+                1527,
+                4264,
+                1777
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "j & M BARBER SHOP\n1905 W. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3676,
+                    "y0": 2589,
+                    "x1": 4351,
+                    "y1": 2736
+                }
+            ],
+            "bbox": [
+                3676,
+                2589,
+                4351,
+                2736
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-09-25_p1_sn84021918_0041421695A_1964092501_0565.json"
+        }
+    ]
+}

@@ -1,0 +1,463 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121801/0676.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7438,
+        "width": 4868
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 382,
+                "y0": 668,
+                "x1": 1203,
+                "y1": 1976
+            },
+            "class": "article",
+            "raw_text": "SHREVEPORT, La. Horace\nD. Barnett, Is, of Cullen, La,\nwas the last of 81 men arrested\nand freed in the uns olVed murder\nof three civil rights workers in\nMississippi last summer.\n\n\nBarnett is one of ten the FBl\naccused of actually plotting to\nintercept threaten. assault,\nshoot and kill, the two white and\none Negro civil rights workers.\n\n\nCharges against l9 of the Fl\nmen arrested, including the Ne\nshoba County sheriff and his dep\nuty, were dropped when Miss Es-\nTheir Carter, federal commits\nsioner refused to listen to the\ncase because of \"hearsay\" in\nformation.\n\n\nShe ordered bond money to be\nrefunded and the lo were freed\nafter six days of confinement.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 411,
+                "y0": 412,
+                "x1": 1203,
+                "y1": 640
+            },
+            "class": "headline",
+            "raw_text": "All Freed In Triple\nMurder Case",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 394,
+                "y0": 2237,
+                "x1": 1208,
+                "y1": 2999
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS : (ANPD :\nGrand Master John G. Lewis,\nIT., of the Prince Hall Masons,\nspeaking at district meeting\nhere of ma sons in the New Or\nleans and Plaquemines Parish\narea, declared that it is now in\ncumbent on Masonry to turn\naway for a few moments from\ntheir usual ritual and technical\nprocedures and turn to serving\nthe people and supplying them\nwith their needs.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 440,
+                "y0": 2010,
+                "x1": 1046,
+                "y1": 2214
+            },
+            "class": "headline",
+            "raw_text": "N usons Urged\nTO Help",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3968,
+                "y0": 2527,
+                "x1": 4788,
+                "y1": 3092
+            },
+            "class": "article",
+            "raw_text": "les of racial bombings was an\nexample of blind and Indifferent\nto violent acts.\n\n\nHe empha sized that the Amer\nlean civil rights movement was\nnot dominated by communists. =\nBut there was danger of insin-\ncere persons who could Use such\nmovements to advance their own\npower.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3090,
+                "y0": 2725,
+                "x1": 3899,
+                "y1": 3028
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-FBI Director I.\nEdgar Hoover said the MISSISSIPPI\npi court which gave suspended\nsentences to nine men who we're\nbrought to trial following a ser",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3113,
+                "y0": 2597,
+                "x1": 3777,
+                "y1": 2697
+            },
+            "class": "headline",
+            "raw_text": "Hoover Dissenfs",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3979,
+                "y0": 4788,
+                "x1": 4794,
+                "y1": 5451
+            },
+            "class": "article",
+            "raw_text": "If you're between rs and IS, steadily en-\npIoyed you can borrow up to $500 on YOUF\nSIGNATURE ALONE.\n\n\nOUR SERVICE is: FAST-We rush the money to\nyou when your application has been processed\nCONFIDENTIAL-We DO NOT notify employer.\nreferences or relatives.\n\n\nSIMPLE-No embarrassing interviews, no time\noff from work Fill out the application in the\nprivacy of your home. Drop it in the mail.\nGOVERNMENT REGULATED-We are licensed\nby the State, and operate under the Division OF\nFinance, Dept of Business Administration.\nlust circle the monthly payment you desire,\nfill in the application blank below and send\nit to us.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1306,
+                "y0": 2243,
+                "x1": 2998,
+                "y1": 2830
+            },
+            "class": "article",
+            "raw_text": "pre-Chrsmas sponsored by daughters VI\nTabor Rose 3d. held Friday at the Prince\nHall Masonic Temple\n\n\nShown above Hattie aggers 49, Henrietta Eog\nAnn White C M. Geneva Davis chap\nCatherine Nelson.\n\n\nattending the Taboran party we're Myrtle CoPan\nAlberta Perkins, CR Murray Sea Fish, hema and Mag\ngle Wilson, Legusta Lynch, Segdewick Allen ana Kut eh\n@ Photos-Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3235,
+                "y0": 1690,
+                "x1": 4184,
+                "y1": 2354
+            },
+            "class": "article",
+            "raw_text": "4-(Cuban) (BOlivian) army revolt\ntopples regime of Victor PaZ\nEstenssOrO, who fed to Peru.\n5-Mariner iii twas complete sue\ncess) failed in the first attempt\nto launch spacecraft to Mars.\n6-Pictured Baltimore 17-year-Old\n(Roberta RanchOc) Carolyn\nMigninD was selected as Miss\nTeen-age America for 1865.\n\n\nCount 10 for each correct choice.\nis excellent: so. good: 40, fair; less",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3642,
+                "y0": 842,
+                "x1": 4579,
+                "y1": 1279
+            },
+            "class": "article",
+            "raw_text": "To test your knowledge of re-\ncent events, complete the follow\ning six statements and check your\nanswers with those below.\n\n\nPictured heavyweight champ\n\n\nSonny Liston) (Cassius Clay\n\n\nwas unable to make his Sched-\n\n\nuled defense of the title be.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3195,
+                "y0": 453,
+                "x1": 4631,
+                "y1": 762
+            },
+            "class": "headline",
+            "raw_text": "PGeto4<aI\n\n\n- INTELLIGRAM",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3212,
+                "y0": 1290,
+                "x1": 4579,
+                "y1": 1674
+            },
+            "class": "article",
+            "raw_text": "cause of hernia operation.\ndemonstrations staged by leftists broke out in\nJapan when China set off its nuclear bomb 1.-THE\nUSS Sea Dragon, nuclear sub, harbored at\nSaSebO).\n\n\n3-National Baseball League ruled that the Milwau-\nkee Braves (may mott (may) move to Atlanta, Ca,",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                0
+            ],
+            "headline": "All Freed In Triple\nMurder Case",
+            "article": "SHREVEPORT, La. Horace\nD. Barnett, Is, of Cullen, La,\nwas the last of 81 men arrested\nand freed in the uns olVed murder\nof three civil rights workers in\nMississippi last summer.\n\n\nBarnett is one of ten the FBl\naccused of actually plotting to\nintercept threaten. assault,\nshoot and kill, the two white and\none Negro civil rights workers.\n\n\nCharges against l9 of the Fl\nmen arrested, including the Ne\nshoba County sheriff and his dep\nuty, were dropped when Miss Es-\nTheir Carter, federal commits\nsioner refused to listen to the\ncase because of \"hearsay\" in\nformation.\n\n\nShe ordered bond money to be\nrefunded and the lo were freed\nafter six days of confinement.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 411,
+                    "y0": 412,
+                    "x1": 1203,
+                    "y1": 640
+                },
+                {
+                    "x0": 382,
+                    "y0": 668,
+                    "x1": 1203,
+                    "y1": 1976
+                }
+            ],
+            "bbox": [
+                382,
+                412,
+                1203,
+                1976
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "N usons Urged\nTO Help",
+            "article": "NEW ORLEANS : (ANPD :\nGrand Master John G. Lewis,\nIT., of the Prince Hall Masons,\nspeaking at district meeting\nhere of ma sons in the New Or\nleans and Plaquemines Parish\narea, declared that it is now in\ncumbent on Masonry to turn\naway for a few moments from\ntheir usual ritual and technical\nprocedures and turn to serving\nthe people and supplying them\nwith their needs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 440,
+                    "y0": 2010,
+                    "x1": 1046,
+                    "y1": 2214
+                },
+                {
+                    "x0": 394,
+                    "y0": 2237,
+                    "x1": 1208,
+                    "y1": 2999
+                }
+            ],
+            "bbox": [
+                394,
+                2010,
+                1208,
+                2999
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "les of racial bombings was an\nexample of blind and Indifferent\nto violent acts.\n\n\nHe empha sized that the Amer\nlean civil rights movement was\nnot dominated by communists. =\nBut there was danger of insin-\ncere persons who could Use such\nmovements to advance their own\npower.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3968,
+                    "y0": 2527,
+                    "x1": 4788,
+                    "y1": 3092
+                }
+            ],
+            "bbox": [
+                3968,
+                2527,
+                4788,
+                3092
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "Hoover Dissenfs",
+            "article": "NEW YORK-FBI Director I.\nEdgar Hoover said the MISSISSIPPI\npi court which gave suspended\nsentences to nine men who we're\nbrought to trial following a ser",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3113,
+                    "y0": 2597,
+                    "x1": 3777,
+                    "y1": 2697
+                },
+                {
+                    "x0": 3090,
+                    "y0": 2725,
+                    "x1": 3899,
+                    "y1": 3028
+                }
+            ],
+            "bbox": [
+                3090,
+                2597,
+                3899,
+                3028
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "If you're between rs and IS, steadily en-\npIoyed you can borrow up to $500 on YOUF\nSIGNATURE ALONE.\n\n\nOUR SERVICE is: FAST-We rush the money to\nyou when your application has been processed\nCONFIDENTIAL-We DO NOT notify employer.\nreferences or relatives.\n\n\nSIMPLE-No embarrassing interviews, no time\noff from work Fill out the application in the\nprivacy of your home. Drop it in the mail.\nGOVERNMENT REGULATED-We are licensed\nby the State, and operate under the Division OF\nFinance, Dept of Business Administration.\nlust circle the monthly payment you desire,\nfill in the application blank below and send\nit to us.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3979,
+                    "y0": 4788,
+                    "x1": 4794,
+                    "y1": 5451
+                }
+            ],
+            "bbox": [
+                3979,
+                4788,
+                4794,
+                5451
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "pre-Chrsmas sponsored by daughters VI\nTabor Rose 3d. held Friday at the Prince\nHall Masonic Temple\n\n\nShown above Hattie aggers 49, Henrietta Eog\nAnn White C M. Geneva Davis chap\nCatherine Nelson.\n\n\nattending the Taboran party we're Myrtle CoPan\nAlberta Perkins, CR Murray Sea Fish, hema and Mag\ngle Wilson, Legusta Lynch, Segdewick Allen ana Kut eh\n@ Photos-Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1306,
+                    "y0": 2243,
+                    "x1": 2998,
+                    "y1": 2830
+                }
+            ],
+            "bbox": [
+                1306,
+                2243,
+                2998,
+                2830
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "4-(Cuban) (BOlivian) army revolt\ntopples regime of Victor PaZ\nEstenssOrO, who fed to Peru.\n5-Mariner iii twas complete sue\ncess) failed in the first attempt\nto launch spacecraft to Mars.\n6-Pictured Baltimore 17-year-Old\n(Roberta RanchOc) Carolyn\nMigninD was selected as Miss\nTeen-age America for 1865.\n\n\nCount 10 for each correct choice.\nis excellent: so. good: 40, fair; less",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3235,
+                    "y0": 1690,
+                    "x1": 4184,
+                    "y1": 2354
+                }
+            ],
+            "bbox": [
+                3235,
+                1690,
+                4184,
+                2354
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                21,
+                23
+            ],
+            "headline": "PGeto4<aI\n\n\n- INTELLIGRAM",
+            "article": "To test your knowledge of re-\ncent events, complete the follow\ning six statements and check your\nanswers with those below.\n\n\nPictured heavyweight champ\n\n\nSonny Liston) (Cassius Clay\n\n\nwas unable to make his Sched-\n\n\nuled defense of the title be.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3195,
+                    "y0": 453,
+                    "x1": 4631,
+                    "y1": 762
+                },
+                {
+                    "x0": 3642,
+                    "y0": 842,
+                    "x1": 4579,
+                    "y1": 1279
+                }
+            ],
+            "bbox": [
+                3195,
+                453,
+                4631,
+                1279
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "cause of hernia operation.\ndemonstrations staged by leftists broke out in\nJapan when China set off its nuclear bomb 1.-THE\nUSS Sea Dragon, nuclear sub, harbored at\nSaSebO).\n\n\n3-National Baseball League ruled that the Milwau-\nkee Braves (may mott (may) move to Atlanta, Ca,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3212,
+                    "y0": 1290,
+                    "x1": 4579,
+                    "y1": 1674
+                }
+            ],
+            "bbox": [
+                3212,
+                1290,
+                4579,
+                1674
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-12-18_p1_sn84021918_0041421695A_1964121801_0676.json"
+        }
+    ]
+}

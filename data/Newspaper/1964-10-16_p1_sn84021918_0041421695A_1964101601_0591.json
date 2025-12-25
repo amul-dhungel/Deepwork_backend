@@ -1,0 +1,78 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0591.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4847
+    },
+    "bboxes": [
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 4866,
+                "y0": 400,
+                "x1": 6143,
+                "y1": 5623
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 926,
+                "y0": 3551,
+                "x1": 1768,
+                "y1": 3905
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 589,
+                "y0": 3046,
+                "x1": 1548,
+                "y1": 3511
+            },
+            "class": "headline",
+            "raw_text": ">lVk\n,o~,.n \" ), w. ~.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-16"
+    },
+    "full articles": []
+}

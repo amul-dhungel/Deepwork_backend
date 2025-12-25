@@ -1,0 +1,514 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041001/0363.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4906
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 136,
+                "y0": 2021,
+                "x1": 948,
+                "y1": 2439
+            },
+            "class": "article",
+            "raw_text": "Further questioning of Carl\nWatson, u, in the death Of Mrs.\nTheresa Simmons. Is. of l445 E.\nMadison. is planned by police.\n\n\nThe woman's body was dis\ncovered March % in Watson's\napartment at oO3 E. Southern. A",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1010,
+                "y0": 2009,
+                "x1": 1822,
+                "y1": 2370
+            },
+            "class": "article",
+            "raw_text": "suicide note was found and the\nunlit gas oven was turned on.\nInvestigation has shown that\nthere apparently was insufficient\ngas in the apartment to cause\ndeath, police said.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 147,
+                "y0": 1923,
+                "x1": 1266,
+                "y1": 2005
+            },
+            "class": "headline",
+            "raw_text": "Police Plans Further Investig ution",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3680,
+                "y0": 3179,
+                "x1": 4498,
+                "y1": 3470
+            },
+            "class": "article",
+            "raw_text": "APIS. FOR RENT\n\n\nAPIS. Refrigerated New l bdrm.\nfurnished. $40 per wk. near\nBroadway on S.l6th St. 277-7669.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1479,
+                "y0": 6481,
+                "x1": 2367,
+                "y1": 7032
+            },
+            "class": "article",
+            "raw_text": "OVER 9 MILLION COPIES Of this volume\n\n\nIn the hands Of earnest Bible Students.\nJoin them In the topical study Of the Scrip.\nlures. Examine such subjects as: Why\nDoes God Permit Evil? . Our Lords Re.\nturn Day Of Judgment Ransom and\nRestitution . Kingdom Of God paY Of\nJehovuh. Send for your copy Of This at.\ntraetive 35o.Page. eloth-bound Bible Com\npanion. Also avoiIubIe in Paper cover.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3680,
+                "y0": 2508,
+                "x1": 4365,
+                "y1": 2688
+            },
+            "class": "article",
+            "raw_text": "GOLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3675,
+                "y0": 2930,
+                "x1": 4498,
+                "y1": 3128
+            },
+            "class": "article",
+            "raw_text": "CARPETS INSTALLED and re-\npaired Days, evenings, Sundays\nCall 275-3053.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3675,
+                "y0": 2276,
+                "x1": 4492,
+                "y1": 2474
+            },
+            "class": "article",
+            "raw_text": "IACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3680,
+                "y0": 2733,
+                "x1": 4255,
+                "y1": 2879
+            },
+            "class": "article",
+            "raw_text": "I& M BARBER SHOP\n1905 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3669,
+                "y0": 2044,
+                "x1": 4411,
+                "y1": 2248
+            },
+            "class": "article",
+            "raw_text": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 292,
+                "y0": 6440,
+                "x1": 1370,
+                "y1": 7131
+            },
+            "class": "article",
+            "raw_text": "n Mall 10;\n\n\nnDIvINE PLAN\nm. o. Box 1852, SunnysIops Station\nPhoenix, Arizona\nn \"Divine Plan Of the Ages\n\n\ncIesh Bound. soc q Pepper Bound. Use\nDAOORESS Il, AZ\nWCtTY\nA----~- ~ @- ~ ~ - - -",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3663,
+                "y0": 1210,
+                "x1": 4382,
+                "y1": 1396
+            },
+            "class": "article",
+            "raw_text": "LORETTA'S BEAUTY SHOP\n$50 w. Grant St.\n254-O7O6",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3663,
+                "y0": 729,
+                "x1": 4481,
+                "y1": 933
+            },
+            "class": "article",
+            "raw_text": "ALBRITTONS BEAUTY SHOP\n1916 E. Monroe\nAL 4-35o7",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-04-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Further questioning of Carl\nWatson, u, in the death Of Mrs.\nTheresa Simmons. Is. of l445 E.\nMadison. is planned by police.\n\n\nThe woman's body was dis\ncovered March % in Watson's\napartment at oO3 E. Southern. A",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 136,
+                    "y0": 2021,
+                    "x1": 948,
+                    "y1": 2439
+                }
+            ],
+            "bbox": [
+                136,
+                2021,
+                948,
+                2439
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                12,
+                6
+            ],
+            "headline": "Police Plans Further Investig ution",
+            "article": "suicide note was found and the\nunlit gas oven was turned on.\nInvestigation has shown that\nthere apparently was insufficient\ngas in the apartment to cause\ndeath, police said.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 147,
+                    "y0": 1923,
+                    "x1": 1266,
+                    "y1": 2005
+                },
+                {
+                    "x0": 1010,
+                    "y0": 2009,
+                    "x1": 1822,
+                    "y1": 2370
+                }
+            ],
+            "bbox": [
+                147,
+                1923,
+                1822,
+                2370
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "APIS. FOR RENT\n\n\nAPIS. Refrigerated New l bdrm.\nfurnished. $40 per wk. near\nBroadway on S.l6th St. 277-7669.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3680,
+                    "y0": 3179,
+                    "x1": 4498,
+                    "y1": 3470
+                }
+            ],
+            "bbox": [
+                3680,
+                3179,
+                4498,
+                3470
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "OVER 9 MILLION COPIES Of this volume\n\n\nIn the hands Of earnest Bible Students.\nJoin them In the topical study Of the Scrip.\nlures. Examine such subjects as: Why\nDoes God Permit Evil? . Our Lords Re.\nturn Day Of Judgment Ransom and\nRestitution . Kingdom Of God paY Of\nJehovuh. Send for your copy Of This at.\ntraetive 35o.Page. eloth-bound Bible Com\npanion. Also avoiIubIe in Paper cover.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1479,
+                    "y0": 6481,
+                    "x1": 2367,
+                    "y1": 7032
+                }
+            ],
+            "bbox": [
+                1479,
+                6481,
+                2367,
+                7032
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "GOLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3680,
+                    "y0": 2508,
+                    "x1": 4365,
+                    "y1": 2688
+                }
+            ],
+            "bbox": [
+                3680,
+                2508,
+                4365,
+                2688
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "CARPETS INSTALLED and re-\npaired Days, evenings, Sundays\nCall 275-3053.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3675,
+                    "y0": 2930,
+                    "x1": 4498,
+                    "y1": 3128
+                }
+            ],
+            "bbox": [
+                3675,
+                2930,
+                4498,
+                3128
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "IACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3675,
+                    "y0": 2276,
+                    "x1": 4492,
+                    "y1": 2474
+                }
+            ],
+            "bbox": [
+                3675,
+                2276,
+                4492,
+                2474
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "I& M BARBER SHOP\n1905 w. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3680,
+                    "y0": 2733,
+                    "x1": 4255,
+                    "y1": 2879
+                }
+            ],
+            "bbox": [
+                3680,
+                2733,
+                4255,
+                2879
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3669,
+                    "y0": 2044,
+                    "x1": 4411,
+                    "y1": 2248
+                }
+            ],
+            "bbox": [
+                3669,
+                2044,
+                4411,
+                2248
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "n Mall 10;\n\n\nnDIvINE PLAN\nm. o. Box 1852, SunnysIops Station\nPhoenix, Arizona\nn \"Divine Plan Of the Ages\n\n\ncIesh Bound. soc q Pepper Bound. Use\nDAOORESS Il, AZ\nWCtTY\nA----~- ~ @- ~ ~ - - -",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 292,
+                    "y0": 6440,
+                    "x1": 1370,
+                    "y1": 7131
+                }
+            ],
+            "bbox": [
+                292,
+                6440,
+                1370,
+                7131
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "LORETTA'S BEAUTY SHOP\n$50 w. Grant St.\n254-O7O6",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3663,
+                    "y0": 1210,
+                    "x1": 4382,
+                    "y1": 1396
+                }
+            ],
+            "bbox": [
+                3663,
+                1210,
+                4382,
+                1396
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "ALBRITTONS BEAUTY SHOP\n1916 E. Monroe\nAL 4-35o7",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3663,
+                    "y0": 729,
+                    "x1": 4481,
+                    "y1": 933
+                }
+            ],
+            "bbox": [
+                3663,
+                729,
+                4481,
+                933
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-04-10_p1_sn84021918_0041421695A_1964041001_0363.json"
+        }
+    ]
+}

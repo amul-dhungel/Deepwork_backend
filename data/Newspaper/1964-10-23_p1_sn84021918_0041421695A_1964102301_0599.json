@@ -1,0 +1,408 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964102301/0599.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4894
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 114,
+                "y0": 551,
+                "x1": 933,
+                "y1": 1590
+            },
+            "class": "article",
+            "raw_text": "they leave, the numbers race will\nbegin.\n\n\nSome mechanically minded\nmen have composed songs by\nn8mber. Some writer's are even\nwriting according to numerals.\n\n\nWe should abandon all class\ndistinctions and just obtain\nseries of numbers. This would\neliminate the need to learn\nnames, streets, cities, states or\neven kinds of food or products.\n\n\nWe could learn in a particular\nnumbered slot and take our tests\nand pass to the next higher step\nwithout ever knowing our names,\nthe teachers names or even the\nauthors of the books.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 683,
+                "y0": 458,
+                "x1": 1310,
+                "y1": 546
+            },
+            "class": "headline",
+            "raw_text": "Siqhts-confinUed",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1907,
+                "y0": 777,
+                "x1": 2714,
+                "y1": 1544
+            },
+            "class": "article",
+            "raw_text": "Harry Holland, social security\ndistrict manager, advises survi-\nvors of decea sed workers to in\nquire at the local office, 1880 N.\nCentral Ave. Social security\nbenefits maybe payable to widows\nor even young children.\n\n\nNearly four and half million\nsurvivors of deceased workers\nare receiving monthly benefits.\nThe average benefit paid to\nwidowed mother with two children\nis nearly 500 monthly.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1930,
+                "y0": 533,
+                "x1": 2680,
+                "y1": 749
+            },
+            "class": "headline",
+            "raw_text": "Check For\n\n\nSurvivors Benefits",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1019,
+                "y0": 562,
+                "x1": 1838,
+                "y1": 1544
+            },
+            "class": "article",
+            "raw_text": "Take a minute today and dis\ncuss with your husband, wife or\nfriend--which group should you\npay allegiance TOT\n\n\nwould be happy if we all could\nbe known as happy homosapiens\nGust some happy people).\n\n\nFor the record | am Eloise\nLoretta Hardison Banks, 2l37 E.\nBroadway Road, East Broadway\nAddition, Block 4, Lot E, Mari\ncopa County, Roosevelt District,\nJulian Precinct, Phoenix, Ari-\nIONA, 85O4O. My social security\nnumber is 3l7-24-0535. My\ndriver S license is------that' S\nenough for now.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2806,
+                "y0": 3278,
+                "x1": 3608,
+                "y1": 3627
+            },
+            "class": "article",
+            "raw_text": "SPECIAL ROESER ROAD\nLarge, clean, almost new 2 bed\nroom apis. Close to shopping =\njust decorated. Only $50 month.\nThese are nice Call 252-8Oll\nor evenings o45-O4lO.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2800,
+                "y0": 2947,
+                "x1": 3608,
+                "y1": 3227
+            },
+            "class": "article",
+            "raw_text": "Help Wanted Male and Female,\nVarious Jobs Register Now ..\nSouth Phoenix Employment\nAgency, 1912 E. Southern Ave.\n276-5242.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2812,
+                "y0": 2843,
+                "x1": 3318,
+                "y1": 2931
+            },
+            "class": "headline",
+            "raw_text": "HELP WANTED",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 456,
+                "y0": 3347,
+                "x1": 2413,
+                "y1": 6261
+            },
+            "class": "article",
+            "raw_text": "M Robert Wilson, professional railroad union lobbyist heads\nthe Arizona Citizens for Public Safety group of railroad union\nBosses which is sponsoring the irresponsible campaign of fear\nagainst Proposition 2OOYES.\n2o0Ys 1.-The Notwithstanding Law Of 1864 permits gradual\nremoval of the fireman who actually the third\nin the cab OF freight diesel locomotives The law does not affect\npassenger trains which have always had two the cab\nFIRST Mr. Wilson, the sense tragedy the Mesa\npeople into thinking that this new will cause accidents\nhere are some points you failed to mention:\n\n\nl. The accident occurred under the present law\n\n\nlashers familiar\nbut completely ignored the motod though\nother vehicles had stopped.\n\n\nYour Mr. witt the engineer the cab Of that\npairs Of could possibly stop careless moton from pulling\n\n\n\n\n\nNEXT advertising depicting\ngreedy Railroad Mog stfng profits into their pockets and\nvaults\n\n\nWhen gains eventually railroads begin\nefficiently and compehtvey with neghbonng states\nsavings will be passed on to the consumer\nTHEM Wilson, threatened\nmIan clothing with economic\n\n\n\n\n\nMr. Wilson!\n\n\nProposition 2ooYEs will result ayofs\nAll but handful Of employees will hold their jobs until they\n\n\n\nOnly parttm fremen with less than service\nwill affected the approved And they will\ngenerous severance pay\nWHAT'S YOUR NEXT STEP Wilson? you that the\nJohn Kennedy condonng slaughter nations\nrailways accepted the Presidential commissions report that\n1.-The remanS lookout function is not essential to the safe and\nefficient operation of road freight and yard deseIs.\nREALLY Mr. Wilson, you think stupid\ncommunity listed below urge the thoughtful citizens of\nArizona ignore the smoesceen the labor bosses and\nvote yes for law that in the best interests OF our state",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 775,
+                "y0": 2756,
+                "x1": 2552,
+                "y1": 3273
+            },
+            "class": "headline",
+            "raw_text": "HOW MUCH LOWER\n\n\nWILL YOU GO?",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 421,
+                "y0": 6666,
+                "x1": 2511,
+                "y1": 7230
+            },
+            "class": "article",
+            "raw_text": "TO eliminate CUSTLY FEATHERBEDDING SAFELY\n\n\n\nA.\nW. P,\n\n\n\n\n\n\nReed F. Welch 1886 Gale Gloieta, Member\n\n\n\nS.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1263,
+                "y0": 6632,
+                "x1": 2453,
+                "y1": 6743
+            },
+            "class": "headline",
+            "raw_text": "fly FEATHERBEDDING SAFELY",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-23"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "Siqhts-confinUed",
+            "article": "they leave, the numbers race will\nbegin.\n\n\nSome mechanically minded\nmen have composed songs by\nn8mber. Some writer's are even\nwriting according to numerals.\n\n\nWe should abandon all class\ndistinctions and just obtain\nseries of numbers. This would\neliminate the need to learn\nnames, streets, cities, states or\neven kinds of food or products.\n\n\nWe could learn in a particular\nnumbered slot and take our tests\nand pass to the next higher step\nwithout ever knowing our names,\nthe teachers names or even the\nauthors of the books.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 683,
+                    "y0": 458,
+                    "x1": 1310,
+                    "y1": 546
+                },
+                {
+                    "x0": 114,
+                    "y0": 551,
+                    "x1": 933,
+                    "y1": 1590
+                }
+            ],
+            "bbox": [
+                114,
+                458,
+                1310,
+                1590
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-23_p1_sn84021918_0041421695A_1964102301_0599.json"
+        },
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "Check For\n\n\nSurvivors Benefits",
+            "article": "Harry Holland, social security\ndistrict manager, advises survi-\nvors of decea sed workers to in\nquire at the local office, 1880 N.\nCentral Ave. Social security\nbenefits maybe payable to widows\nor even young children.\n\n\nNearly four and half million\nsurvivors of deceased workers\nare receiving monthly benefits.\nThe average benefit paid to\nwidowed mother with two children\nis nearly 500 monthly.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1930,
+                    "y0": 533,
+                    "x1": 2680,
+                    "y1": 749
+                },
+                {
+                    "x0": 1907,
+                    "y0": 777,
+                    "x1": 2714,
+                    "y1": 1544
+                }
+            ],
+            "bbox": [
+                1907,
+                533,
+                2714,
+                1544
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-23_p1_sn84021918_0041421695A_1964102301_0599.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Take a minute today and dis\ncuss with your husband, wife or\nfriend--which group should you\npay allegiance TOT\n\n\nwould be happy if we all could\nbe known as happy homosapiens\nGust some happy people).\n\n\nFor the record | am Eloise\nLoretta Hardison Banks, 2l37 E.\nBroadway Road, East Broadway\nAddition, Block 4, Lot E, Mari\ncopa County, Roosevelt District,\nJulian Precinct, Phoenix, Ari-\nIONA, 85O4O. My social security\nnumber is 3l7-24-0535. My\ndriver S license is------that' S\nenough for now.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1019,
+                    "y0": 562,
+                    "x1": 1838,
+                    "y1": 1544
+                }
+            ],
+            "bbox": [
+                1019,
+                562,
+                1838,
+                1544
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-23_p1_sn84021918_0041421695A_1964102301_0599.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "SPECIAL ROESER ROAD\nLarge, clean, almost new 2 bed\nroom apis. Close to shopping =\njust decorated. Only $50 month.\nThese are nice Call 252-8Oll\nor evenings o45-O4lO.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2806,
+                    "y0": 3278,
+                    "x1": 3608,
+                    "y1": 3627
+                }
+            ],
+            "bbox": [
+                2806,
+                3278,
+                3608,
+                3627
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-23_p1_sn84021918_0041421695A_1964102301_0599.json"
+        },
+        {
+            "object_ids": [
+                13,
+                7
+            ],
+            "headline": "HELP WANTED",
+            "article": "Help Wanted Male and Female,\nVarious Jobs Register Now ..\nSouth Phoenix Employment\nAgency, 1912 E. Southern Ave.\n276-5242.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2812,
+                    "y0": 2843,
+                    "x1": 3318,
+                    "y1": 2931
+                },
+                {
+                    "x0": 2800,
+                    "y0": 2947,
+                    "x1": 3608,
+                    "y1": 3227
+                }
+            ],
+            "bbox": [
+                2800,
+                2843,
+                3608,
+                3227
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-23_p1_sn84021918_0041421695A_1964102301_0599.json"
+        },
+        {
+            "object_ids": [
+                21,
+                14
+            ],
+            "headline": "HOW MUCH LOWER\n\n\nWILL YOU GO?",
+            "article": "M Robert Wilson, professional railroad union lobbyist heads\nthe Arizona Citizens for Public Safety group of railroad union\nBosses which is sponsoring the irresponsible campaign of fear\nagainst Proposition 2OOYES.\n2o0Ys 1.-The Notwithstanding Law Of 1864 permits gradual\nremoval of the fireman who actually the third\nin the cab OF freight diesel locomotives The law does not affect\npassenger trains which have always had two the cab\nFIRST Mr. Wilson, the sense tragedy the Mesa\npeople into thinking that this new will cause accidents\nhere are some points you failed to mention:\n\n\nl. The accident occurred under the present law\n\n\nlashers familiar\nbut completely ignored the motod though\nother vehicles had stopped.\n\n\nYour Mr. witt the engineer the cab Of that\npairs Of could possibly stop careless moton from pulling\n\n\n\n\n\nNEXT advertising depicting\ngreedy Railroad Mog stfng profits into their pockets and\nvaults\n\n\nWhen gains eventually railroads begin\nefficiently and compehtvey with neghbonng states\nsavings will be passed on to the consumer\nTHEM Wilson, threatened\nmIan clothing with economic\n\n\n\n\n\nMr. Wilson!\n\n\nProposition 2ooYEs will result ayofs\nAll but handful Of employees will hold their jobs until they\n\n\n\nOnly parttm fremen with less than service\nwill affected the approved And they will\ngenerous severance pay\nWHAT'S YOUR NEXT STEP Wilson? you that the\nJohn Kennedy condonng slaughter nations\nrailways accepted the Presidential commissions report that\n1.-The remanS lookout function is not essential to the safe and\nefficient operation of road freight and yard deseIs.\nREALLY Mr. Wilson, you think stupid\ncommunity listed below urge the thoughtful citizens of\nArizona ignore the smoesceen the labor bosses and\nvote yes for law that in the best interests OF our state",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 775,
+                    "y0": 2756,
+                    "x1": 2552,
+                    "y1": 3273
+                },
+                {
+                    "x0": 456,
+                    "y0": 3347,
+                    "x1": 2413,
+                    "y1": 6261
+                }
+            ],
+            "bbox": [
+                456,
+                2756,
+                2552,
+                6261
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-10-23_p1_sn84021918_0041421695A_1964102301_0599.json"
+        },
+        {
+            "object_ids": [
+                26,
+                16
+            ],
+            "headline": "fly FEATHERBEDDING SAFELY",
+            "article": "TO eliminate CUSTLY FEATHERBEDDING SAFELY\n\n\n\nA.\nW. P,\n\n\n\n\n\n\nReed F. Welch 1886 Gale Gloieta, Member\n\n\n\nS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1263,
+                    "y0": 6632,
+                    "x1": 2453,
+                    "y1": 6743
+                },
+                {
+                    "x0": 421,
+                    "y0": 6666,
+                    "x1": 2511,
+                    "y1": 7230
+                }
+            ],
+            "bbox": [
+                421,
+                6632,
+                2511,
+                7230
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-10-23_p1_sn84021918_0041421695A_1964102301_0599.json"
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7408,
+        "width": 4929,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0611.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1839,
+                "y0": 1979,
+                "x1": 2679,
+                "y1": 3641
+            },
+            "class": "article",
+            "raw_text": "PITTSBURGH Two annual\nmemorial awards honoring\nformer football players Willie\nCalimore and John Harrington,\nwere announced by the Pitts\nburgh Courier and Royal Crown\nCola, Co., Columbus, Ga.\n\n\nGalimore and Harrington, both\nmembers of the National League\nchampions Chicago Bears in\n1868, were killed in an auto\naccident during training sea son\nin Indiana.\n\n\nharrington was a graduate of\nPrairie View A&M College and\nGalimore led his team to honors\nat Florida A&M University.\n\n\nThe harrington awards will\nbe presented to the two outstand-\ning rockies in the National and\nAmerica football leagues who\nplayed at predominantly Negro\ncolleges. The galimore awards\nwill be given to two out standing\nleague players who competed at\nNegro colleges.\n\n\nThe wards banquet will be held\nin December.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1856,
+                "y0": 1678,
+                "x1": 2696,
+                "y1": 1945
+            },
+            "class": "headline",
+            "raw_text": "Memorial Awards\nSet For Players",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2742,
+                "y0": 451,
+                "x1": 3588,
+                "y1": 2570
+            },
+            "class": "article",
+            "raw_text": "Many Elk brothers and daugh-\ntiers turned out to honor Bro. Ben\nME Nicholson on his o5th birth\nday. AS he blew out his candle\nhe wished to be around on the\nTooth.\n\n\nHis surprise gift, a car coat\nwas greatly appreciated. We\nshould never forget our aged or\ninvalided members.\n\n\nWe are expecting big crowd\nat our annual Spookeroo Halo\nween Dance, Oct. 81. 1t Is the\nannual must affair sponsored by\nthe Grand Canyon Temple. Dona-\nton $l.25.\n\n\nSick List this week-Dt. Ruler\nRuby Blackshear, 1907 S. l 9th\nDrive; DIT. Katherine Ba IS, 1901\nw. Cocopah, and DIT. Lillian Flora\nHightower, 9O4 S. 9TH Ave.\n\n\nNOV. l4-lS = M1dW1nter Con-\nference of PISA will be held in Las\nVega S. A chartered bus will leave\nthe Elks Lodge at Midnight, FRI,\nNov. l3. Round trip fare is only\nSIS; for reservations contact T.\n]. Pratt or Charles Williams.\nMake your reservations early.\nJoin us and have fun.\n\n\nWatch for the November full\ncalendar next week. See you at\nthe Halloween Dance.\n\n\nCharlesetta McClammy\n\n\nElks Reporter",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2805,
+                "y0": 295,
+                "x1": 3345,
+                "y1": 417
+            },
+            "class": "headline",
+            "raw_text": "EIks Corner",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 953,
+                "y0": 2401,
+                "x1": 1782,
+                "y1": 2819
+            },
+            "class": "article",
+            "raw_text": "Sheriff deputies appeared to\nmaintain peece as a locksmith\ndrilled through changed lock and\nallowed the star centerfielder of\nthe St. Louis Cardinals and his\nwife entry to the home they signed\na lease for Ia st week.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 108,
+                "y0": 2228,
+                "x1": 1643,
+                "y1": 2373
+            },
+            "class": "headline",
+            "raw_text": "Baseball Star Move Causes Stir",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 51,
+                "y0": 1579,
+                "x1": 1770,
+                "y1": 2171
+            },
+            "class": "article",
+            "raw_text": "William p Mahoney who assigned Chana\nhonored reception held Sunday the home of Mr. and Mrs.\nWilliam warren, 5216 S. 10th Place.\n\n\nHe is shown talking with admirers Maria and Yvonne\nKing, who we're born in Liberia.\n\n\nThe third young adnrer is William Warren, Jr.\n\n\nDiscussing point of international problems with William P.\nMahoney u s. Ambassador Ghana are Mrs. D. Williams\nMr.. Mrs. Hadley Murrell. Photo B. Heard",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 56,
+                "y0": 2401,
+                "x1": 879,
+                "y1": 2715
+            },
+            "class": "article",
+            "raw_text": "MARTINEZ, Calf. Negro\nba seball star Curt Flood moved\nhis family into SIS 900 home\nTuesday despite threats of keep\ning him out.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 114,
+                "y0": 4317,
+                "x1": 4444,
+                "y1": 6077
+            },
+            "class": "article",
+            "raw_text": "drend@ and\nsk of\nelm electrical sirnsho\nTHnsu n\n\n\n\nyears school md least in\noil nunIsor\nOf at least\nuenIseh .",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964103001_0611",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                1
+            ],
+            "headline": "Memorial Awards\nSet For Players",
+            "article": "PITTSBURGH Two annual\nmemorial awards honoring\nformer football players Willie\nCalimore and John Harrington,\nwere announced by the Pitts\nburgh Courier and Royal Crown\nCola, Co., Columbus, Ga.\n\n\nGalimore and Harrington, both\nmembers of the National League\nchampions Chicago Bears in\n1868, were killed in an auto\naccident during training sea son\nin Indiana.\n\n\nharrington was a graduate of\nPrairie View A&M College and\nGalimore led his team to honors\nat Florida A&M University.\n\n\nThe harrington awards will\nbe presented to the two outstand-\ning rockies in the National and\nAmerica football leagues who\nplayed at predominantly Negro\ncolleges. The galimore awards\nwill be given to two out standing\nleague players who competed at\nNegro colleges.\n\n\nThe wards banquet will be held\nin December.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1856,
+                    "y0": 1678,
+                    "x1": 2696,
+                    "y1": 1945
+                },
+                {
+                    "x0": 1839,
+                    "y0": 1979,
+                    "x1": 2679,
+                    "y1": 3641
+                }
+            ],
+            "bbox": [
+                1839,
+                1678,
+                2696,
+                3641
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-30_pna_sn84021918_0041421695A_1964103001_0611.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "EIks Corner",
+            "article": "Many Elk brothers and daugh-\ntiers turned out to honor Bro. Ben\nME Nicholson on his o5th birth\nday. AS he blew out his candle\nhe wished to be around on the\nTooth.\n\n\nHis surprise gift, a car coat\nwas greatly appreciated. We\nshould never forget our aged or\ninvalided members.\n\n\nWe are expecting big crowd\nat our annual Spookeroo Halo\nween Dance, Oct. 81. 1t Is the\nannual must affair sponsored by\nthe Grand Canyon Temple. Dona-\nton $l.25.\n\n\nSick List this week-Dt. Ruler\nRuby Blackshear, 1907 S. l 9th\nDrive; DIT. Katherine Ba IS, 1901\nw. Cocopah, and DIT. Lillian Flora\nHightower, 9O4 S. 9TH Ave.\n\n\nNOV. l4-lS = M1dW1nter Con-\nference of PISA will be held in Las\nVega S. A chartered bus will leave\nthe Elks Lodge at Midnight, FRI,\nNov. l3. Round trip fare is only\nSIS; for reservations contact T.\n]. Pratt or Charles Williams.\nMake your reservations early.\nJoin us and have fun.\n\n\nWatch for the November full\ncalendar next week. See you at\nthe Halloween Dance.\n\n\nCharlesetta McClammy\n\n\nElks Reporter",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2805,
+                    "y0": 295,
+                    "x1": 3345,
+                    "y1": 417
+                },
+                {
+                    "x0": 2742,
+                    "y0": 451,
+                    "x1": 3588,
+                    "y1": 2570
+                }
+            ],
+            "bbox": [
+                2742,
+                295,
+                3588,
+                2570
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-30_pna_sn84021918_0041421695A_1964103001_0611.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "Baseball Star Move Causes Stir",
+            "article": "Sheriff deputies appeared to\nmaintain peece as a locksmith\ndrilled through changed lock and\nallowed the star centerfielder of\nthe St. Louis Cardinals and his\nwife entry to the home they signed\na lease for Ia st week.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 108,
+                    "y0": 2228,
+                    "x1": 1643,
+                    "y1": 2373
+                },
+                {
+                    "x0": 953,
+                    "y0": 2401,
+                    "x1": 1782,
+                    "y1": 2819
+                }
+            ],
+            "bbox": [
+                108,
+                2228,
+                1782,
+                2819
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-30_pna_sn84021918_0041421695A_1964103001_0611.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "William p Mahoney who assigned Chana\nhonored reception held Sunday the home of Mr. and Mrs.\nWilliam warren, 5216 S. 10th Place.\n\n\nHe is shown talking with admirers Maria and Yvonne\nKing, who we're born in Liberia.\n\n\nThe third young adnrer is William Warren, Jr.\n\n\nDiscussing point of international problems with William P.\nMahoney u s. Ambassador Ghana are Mrs. D. Williams\nMr.. Mrs. Hadley Murrell. Photo B. Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 51,
+                    "y0": 1579,
+                    "x1": 1770,
+                    "y1": 2171
+                }
+            ],
+            "bbox": [
+                51,
+                1579,
+                1770,
+                2171
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-30_pna_sn84021918_0041421695A_1964103001_0611.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "MARTINEZ, Calf. Negro\nba seball star Curt Flood moved\nhis family into SIS 900 home\nTuesday despite threats of keep\ning him out.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 56,
+                    "y0": 2401,
+                    "x1": 879,
+                    "y1": 2715
+                }
+            ],
+            "bbox": [
+                56,
+                2401,
+                879,
+                2715
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-30_pna_sn84021918_0041421695A_1964103001_0611.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "drend@ and\nsk of\nelm electrical sirnsho\nTHnsu n\n\n\n\nyears school md least in\noil nunIsor\nOf at least\nuenIseh .",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 114,
+                    "y0": 4317,
+                    "x1": 4444,
+                    "y1": 6077
+                }
+            ],
+            "bbox": [
+                114,
+                4317,
+                4444,
+                6077
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-10-30_pna_sn84021918_0041421695A_1964103001_0611.json"
+        }
+    ]
+}

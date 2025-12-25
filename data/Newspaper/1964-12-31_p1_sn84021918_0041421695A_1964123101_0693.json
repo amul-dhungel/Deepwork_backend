@@ -1,0 +1,484 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964123101/0693.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7528,
+        "width": 4849
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1871,
+                "y0": 3087,
+                "x1": 2701,
+                "y1": 5323
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Three Negro\nstars have been named to the\n1864 Look Magazine All America\nteam.\n\n\nThe 22-man All America\nsquad. picked by the Football\nWriter'S Association. was an\nnounced recently.\n\n\nThe three players are Gale\nSayers of Kansas, Clarence Will\nliams of Washington State and\nFloyd Little Of Syracuse.\n\n\nSayers has few peers in\n\"open-field speed and explosive\nness\"\n\n\nWilliams crates as the best\nrunner on the coast = from scrim-\nmage. after catching pass, or\nreturning punt or kickoff\" the\nMagazine declared, \"but he\nis even stronger, possibly, as a\ndefensive halfback against the run\nor the pass\"\n\n\nLittle, the only sophomore to\nwin All America honors this year,\nis a threat to go all the way\non any play\" Look said. and\nmay rate, before he Is through,\nwith such past Orange heroes\nas Jim Brown and the late Ernie\nDavis\"\n\n\nThe Football Writer'S As\nISOLATION, in picking the 1864\nLook All America, followed a\nprecedent set by the late Grant\nland Rice and selected a 22-man\nteam on which each player en-\njoys equal first-string status.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1906,
+                "y0": 2723,
+                "x1": 2684,
+                "y1": 3041
+            },
+            "class": "headline",
+            "raw_text": "3 Negroes Nam ed\nto All America\nTeam",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2753,
+                "y0": 2881,
+                "x1": 3607,
+                "y1": 4323
+            },
+            "class": "article",
+            "raw_text": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\nCREW CHEF\nqualified on the Mach q\n\n\nFl04\nor recent experience\non century series aircraft\nRequirements are:\n/. Engine run certiflcation\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nOf AIM COL\nLOCKHEEU AIRCRAFT\nSER VICE COMPANY\nLuke AFB\nOpen Mon Fri S-4:45 pm.\nAn equal opportunity employer\no35-o311 Elk. 2253",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2747,
+                "y0": 2881,
+                "x1": 3601,
+                "y1": 3023
+            },
+            "class": "headline",
+            "raw_text": "LOCKHEED AIRCRAFT\n\n\nSERVICE COMPANY",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2753,
+                "y0": 529,
+                "x1": 3578,
+                "y1": 2118
+            },
+            "class": "article",
+            "raw_text": "VIM H. Patterson Lodge Watt\nelected officers for 1865:\nExalted Ruler Rosie Truman\nEst. Leading Knight George\nCampbell\n\n\nEst. Loyal Knight = Calvin Will\nliams\n\n\nEst. Lect. Knight = Donald Low\ncry\n\n\nSecretary = Charles E. Williams\nUrea surer Vernon Reynolds\nEsquire Samuel Engram\nTiler David McClammy\nInner Guard = Homer Kennedy\nTrustees Roscoe Patterson,\nVirgil Berry, Arthur Black\nshear, Will Galloway. Ken\nmeth Grimes\n\n\nJan. s, 1865 = Joint Installa-\ntion of Officers Grand Canyon\nTemple #437 is host this year.\nVIM. H. Patterson Lodge Watt\nand Grand Canyon Temple #437\nextend to each and every one of\nyou HAPPY NEW YEAR.\n\n\nCharlesetta McClammy,\n\n\nElks Reporter",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2783,
+                "y0": 394,
+                "x1": 3295,
+                "y1": 506
+            },
+            "class": "headline",
+            "raw_text": "EIks Corner",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1883,
+                "y0": 5487,
+                "x1": 2707,
+                "y1": 7187
+            },
+            "class": "article",
+            "raw_text": "PHOENIX, Ariz. An ex-\npansion program doubling the\nsize of its present facility was\nannounced by Pepsi-Cola Metro\npolitan Bottling Co., Inc. of Phoe-\nnix, 1901 N. Black Canyon.\n\n\nFrank Peck, vice president and\ngeneral manger of the bottling\ncompany, said enlarged facilities\nare needed to keep up with de-\nmand for the firm products.\nConstruction will begin early in\n1865.\n\n\nAn estimated 81 million will\nbe inve sted in the expansion pro-\ngram, which includes renovation\nof existing office space, purcha Sc\nof equipment and additional land.\n\n\nPeck pointed out that the COM\npany S volume ha increa sed four\ntimes over what it was when the\npresent building was occupied in\n1856.\n\n\nWhen the present building was\nopened, Pepsi was the only\nproduct, but the firm now bottles\nin multiple size Pepsi-Cola, Diet\nPepsi Cola, Teen and Patio\nflavors.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1912,
+                "y0": 5351,
+                "x1": 2690,
+                "y1": 5464
+            },
+            "class": "headline",
+            "raw_text": "PEPSI COLA EXPANDS",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3683,
+                "y0": 3646,
+                "x1": 4425,
+                "y1": 4353
+            },
+            "class": "article",
+            "raw_text": "Persons with experience as\ncooks, walters, Waitress SEES,\ncheckers. cashiers, counter\nmen & women, cafeteria men\n& women, commissary work\ners, bus boys, porters, and\ncoffeemen may apply at the\nStevens Office, Phoenix Trot-\nting Park, Van Buren, & Cot\nton Lane, Goodyear, Arizona.\nPlease bring references and\nsocial security number.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3765,
+                "y0": 3516,
+                "x1": 4354,
+                "y1": 3623
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2777,
+                "y0": 2211,
+                "x1": 3584,
+                "y1": 2712
+            },
+            "class": "article",
+            "raw_text": "A slice of enriched white or\nwhole grain bread with each\nmeal helps the dieter feel \"full.\"\nYet, a slice of enriched white\nbread contains only IS appetite\nsatisfying calories and supplies\nmany of the essential nutrients\nneeded daily for maintenance\nof good health and sparkling vi\ntality.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3665,
+                "y0": 3222,
+                "x1": 4483,
+                "y1": 3447
+            },
+            "class": "article",
+            "raw_text": "FOR RENT Unfurnished 2\nBdrm. Apt.\n\n\n2343 E. Pueblo Call 276-9675",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3671,
+                "y0": 3017,
+                "x1": 4301,
+                "y1": 3165
+            },
+            "class": "article",
+            "raw_text": "EARES BARBER SHOP\nll52 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3665,
+                "y0": 2481,
+                "x1": 4478,
+                "y1": 2724
+            },
+            "class": "article",
+            "raw_text": "TACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "3 Negroes Nam ed\nto All America\nTeam",
+            "article": "NEW YORK Three Negro\nstars have been named to the\n1864 Look Magazine All America\nteam.\n\n\nThe 22-man All America\nsquad. picked by the Football\nWriter'S Association. was an\nnounced recently.\n\n\nThe three players are Gale\nSayers of Kansas, Clarence Will\nliams of Washington State and\nFloyd Little Of Syracuse.\n\n\nSayers has few peers in\n\"open-field speed and explosive\nness\"\n\n\nWilliams crates as the best\nrunner on the coast = from scrim-\nmage. after catching pass, or\nreturning punt or kickoff\" the\nMagazine declared, \"but he\nis even stronger, possibly, as a\ndefensive halfback against the run\nor the pass\"\n\n\nLittle, the only sophomore to\nwin All America honors this year,\nis a threat to go all the way\non any play\" Look said. and\nmay rate, before he Is through,\nwith such past Orange heroes\nas Jim Brown and the late Ernie\nDavis\"\n\n\nThe Football Writer'S As\nISOLATION, in picking the 1864\nLook All America, followed a\nprecedent set by the late Grant\nland Rice and selected a 22-man\nteam on which each player en-\njoys equal first-string status.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1906,
+                    "y0": 2723,
+                    "x1": 2684,
+                    "y1": 3041
+                },
+                {
+                    "x0": 1871,
+                    "y0": 3087,
+                    "x1": 2701,
+                    "y1": 5323
+                }
+            ],
+            "bbox": [
+                1871,
+                2723,
+                2701,
+                5323
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                21,
+                3
+            ],
+            "headline": "LOCKHEED AIRCRAFT\n\n\nSERVICE COMPANY",
+            "article": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\nCREW CHEF\nqualified on the Mach q\n\n\nFl04\nor recent experience\non century series aircraft\nRequirements are:\n/. Engine run certiflcation\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nOf AIM COL\nLOCKHEEU AIRCRAFT\nSER VICE COMPANY\nLuke AFB\nOpen Mon Fri S-4:45 pm.\nAn equal opportunity employer\no35-o311 Elk. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2747,
+                    "y0": 2881,
+                    "x1": 3601,
+                    "y1": 3023
+                },
+                {
+                    "x0": 2753,
+                    "y0": 2881,
+                    "x1": 3607,
+                    "y1": 4323
+                }
+            ],
+            "bbox": [
+                2747,
+                2881,
+                3607,
+                4323
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "EIks Corner",
+            "article": "VIM H. Patterson Lodge Watt\nelected officers for 1865:\nExalted Ruler Rosie Truman\nEst. Leading Knight George\nCampbell\n\n\nEst. Loyal Knight = Calvin Will\nliams\n\n\nEst. Lect. Knight = Donald Low\ncry\n\n\nSecretary = Charles E. Williams\nUrea surer Vernon Reynolds\nEsquire Samuel Engram\nTiler David McClammy\nInner Guard = Homer Kennedy\nTrustees Roscoe Patterson,\nVirgil Berry, Arthur Black\nshear, Will Galloway. Ken\nmeth Grimes\n\n\nJan. s, 1865 = Joint Installa-\ntion of Officers Grand Canyon\nTemple #437 is host this year.\nVIM. H. Patterson Lodge Watt\nand Grand Canyon Temple #437\nextend to each and every one of\nyou HAPPY NEW YEAR.\n\n\nCharlesetta McClammy,\n\n\nElks Reporter",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2783,
+                    "y0": 394,
+                    "x1": 3295,
+                    "y1": 506
+                },
+                {
+                    "x0": 2753,
+                    "y0": 529,
+                    "x1": 3578,
+                    "y1": 2118
+                }
+            ],
+            "bbox": [
+                2753,
+                394,
+                3578,
+                2118
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "PEPSI COLA EXPANDS",
+            "article": "PHOENIX, Ariz. An ex-\npansion program doubling the\nsize of its present facility was\nannounced by Pepsi-Cola Metro\npolitan Bottling Co., Inc. of Phoe-\nnix, 1901 N. Black Canyon.\n\n\nFrank Peck, vice president and\ngeneral manger of the bottling\ncompany, said enlarged facilities\nare needed to keep up with de-\nmand for the firm products.\nConstruction will begin early in\n1865.\n\n\nAn estimated 81 million will\nbe inve sted in the expansion pro-\ngram, which includes renovation\nof existing office space, purcha Sc\nof equipment and additional land.\n\n\nPeck pointed out that the COM\npany S volume ha increa sed four\ntimes over what it was when the\npresent building was occupied in\n1856.\n\n\nWhen the present building was\nopened, Pepsi was the only\nproduct, but the firm now bottles\nin multiple size Pepsi-Cola, Diet\nPepsi Cola, Teen and Patio\nflavors.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1912,
+                    "y0": 5351,
+                    "x1": 2690,
+                    "y1": 5464
+                },
+                {
+                    "x0": 1883,
+                    "y0": 5487,
+                    "x1": 2707,
+                    "y1": 7187
+                }
+            ],
+            "bbox": [
+                1883,
+                5351,
+                2707,
+                7187
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                14,
+                6
+            ],
+            "headline": "",
+            "article": "Persons with experience as\ncooks, walters, Waitress SEES,\ncheckers. cashiers, counter\nmen & women, cafeteria men\n& women, commissary work\ners, bus boys, porters, and\ncoffeemen may apply at the\nStevens Office, Phoenix Trot-\nting Park, Van Buren, & Cot\nton Lane, Goodyear, Arizona.\nPlease bring references and\nsocial security number.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3765,
+                    "y0": 3516,
+                    "x1": 4354,
+                    "y1": 3623
+                },
+                {
+                    "x0": 3683,
+                    "y0": 3646,
+                    "x1": 4425,
+                    "y1": 4353
+                }
+            ],
+            "bbox": [
+                3683,
+                3516,
+                4425,
+                4353
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "A slice of enriched white or\nwhole grain bread with each\nmeal helps the dieter feel \"full.\"\nYet, a slice of enriched white\nbread contains only IS appetite\nsatisfying calories and supplies\nmany of the essential nutrients\nneeded daily for maintenance\nof good health and sparkling vi\ntality.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2777,
+                    "y0": 2211,
+                    "x1": 3584,
+                    "y1": 2712
+                }
+            ],
+            "bbox": [
+                2777,
+                2211,
+                3584,
+                2712
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "FOR RENT Unfurnished 2\nBdrm. Apt.\n\n\n2343 E. Pueblo Call 276-9675",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3665,
+                    "y0": 3222,
+                    "x1": 4483,
+                    "y1": 3447
+                }
+            ],
+            "bbox": [
+                3665,
+                3222,
+                4483,
+                3447
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "EARES BARBER SHOP\nll52 E. Washington",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3671,
+                    "y0": 3017,
+                    "x1": 4301,
+                    "y1": 3165
+                }
+            ],
+            "bbox": [
+                3671,
+                3017,
+                4301,
+                3165
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "TACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3665,
+                    "y0": 2481,
+                    "x1": 4478,
+                    "y1": 2724
+                }
+            ],
+            "bbox": [
+                3665,
+                2481,
+                4478,
+                2724
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-12-31_p1_sn84021918_0041421695A_1964123101_0693.json"
+        }
+    ]
+}

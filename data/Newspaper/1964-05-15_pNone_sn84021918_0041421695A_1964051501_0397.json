@@ -1,0 +1,560 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-15",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7413,
+        "width": 4858,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-15",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964051501/0397.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1896,
+                "y0": 5878,
+                "x1": 2707,
+                "y1": 6823
+            },
+            "class": "article",
+            "raw_text": "ST. LOUIS = A lO6 yr. old man\nwas arrested Tuesday and held\non an assault charge after stab\nbling his housekeeper 20 times.\n\n\nJames Whittenburg and his\nhousekeeper. a 81 yr. old woman\nhave been arguing and fighting for\nseveral months.\n\n\nHe attacked her with a knife\nand she was in critical condition\nafter police found her lying in\na pool Of blood.\n\n\nWhittenburg said he was prize\nfighter in 1880 and he Is the\nOldest person ever jailed in the\ncity.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1913,
+                "y0": 5629,
+                "x1": 2516,
+                "y1": 5844
+            },
+            "class": "headline",
+            "raw_text": "Old N an\n\n\nStubs Wom an",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1884,
+                "y0": 2849,
+                "x1": 2707,
+                "y1": 5607
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The National\nAssociation for the Advancement\nof Colored People has published\na 44-page illustrated booklet con-\ntanning collection of biograph-\nical sketches of famous nine\nteenth century Negroes.\n\n\nThe Informative booklet is\nbased on weekly series of bio\ngraphical sketches which were\nprepared and distributed as part\nof the NAACPs regular press\nservice to some three hundred\ndaily and weekly papers. Mildred\nBond is author of the series.\n\n\nExpressions of appreciation\nand commentator were wide\nspread\" remarks Mr.. wilkins\nin the foreword, \"and a great\nmany persons urged that we COM\npile the series in a single vol\nume for more general distribu-\ntion. This we have DONE\"\n\n\nPrinted in three colors, the\ntext of the booklet is enriched\nby Is original drawings by James\nl. DeLoache. Mr.. DeLoache, who\nhas had a lifelong interest in\ntelling the Negroes story with\ncanvas and paints. is creator Of\nthe NAACPs massive mural\n\"Our New Day Begun\" The\nmurla. which is insured for\n$4,000, depicts Negro life in\nAmerica since slavery, and is\nnow on display in the Educational\nBuilding at the New York Worlds\nFair.\n\n\n\"Negro Heroes Of Emancipa-\nton is being sold at the NAACP\nNational Office in New York City\nas we'll as the groups l.725\nunits throughout the country. De-\npending upon the quantity or\ndered, prices range from $l.00\nfor one copy to so cents each for\nfifty or more copies.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1913,
+                "y0": 2571,
+                "x1": 2499,
+                "y1": 2821
+            },
+            "class": "headline",
+            "raw_text": "NAACP ISSUES\nNEGRO HISTORY\nBOOKLET",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 112,
+                "y0": 5096,
+                "x1": 930,
+                "y1": 6637
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = Chester C..\nCarter, 43-year-old Negro law\nyer and former Peace Corps Of\nfetal. was appointed as deputy\nchief of the State Department S\nprotocol office.\n\n\nThe first of his race to hold\ntop position in protocol, Carter\nwill move from the post of deputy\nassistant secretary for congress\nsional affairs. Before joining the\nState Department. he was direc-\ntor of Peace Corps activities\nin Tunisia and the Comeroons in\nAfrica.\n\n\nIn the protocol office, Carter\nwill specialize in the accredi-\ntation of ambassadors, in priv\nileges and immunities for dip\nlomats and in ceremonial affairs.\n\n\nThe protocol office decides\nsuch matters as who sits where\nat state dinners but it has been\nactive also in combating racial\ndiscrimination in Washington\nand neighboring states.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 118,
+                "y0": 4853,
+                "x1": 791,
+                "y1": 5080
+            },
+            "class": "headline",
+            "raw_text": "Negro Placed\n\n\nIn Protocol Job",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1015,
+                "y0": 5096,
+                "x1": 1833,
+                "y1": 6643
+            },
+            "class": "article",
+            "raw_text": "The Arizona Civil Liberties\nUnion, northern area, urge the\nPhoenix Union High School Sys-\ntenn to accept the offer of gift\nsubscriptions to Human Events.\n\n\nThe board of education has re-\nferred to a faculty committee the\noffer subscriptions to the conser-\nvative magazine. The Unions\nviews we're contained in a letter\nto Superintendent Seymour from\nTed Mote, State President of Ari-\niona Gu. The letter stated:\n\n\n1.-THE board of the Northern\nArea ACLU is in full support\nof academic freedom and OPP\nposed to censorship. 1t is our\nbelief that school libraries should\nmake available to students and\nfaculties the broadcast selection\npossible of journals of opinion,\nincluding such magazines as HUI\nman Events. Materials should not\nbe barred from Libraries Simply\nbecause they present controver-\nsial or unpopular points of view.\"",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1027,
+                "y0": 4824,
+                "x1": 1711,
+                "y1": 5085
+            },
+            "class": "headline",
+            "raw_text": "ACLU Urges\nHigh School\n\n\nTo Accept Magazine",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2776,
+                "y0": 2131,
+                "x1": 4456,
+                "y1": 3736
+            },
+            "class": "article",
+            "raw_text": "Mrs. Arthur Oe Mccoy Chapman was selected as The\nArizona Tribune \"Mother of the Year,\n\n\nresident of the for the years. spent same\nhouse Chapman Road Mrs. Mccoy many her\ntime to her family church. school and community.\n\n\nThe mother Of three children Willie Francsco\ndaughters Mrs. Dorothy Scott Phoenix\n\n\nThere are l3 grandchildren\n\n\nHer mother Mrs. Lester right lives next\ndoor to her.\n\n\nFrom left in the photograph Mrs. Mccoy CRYSTAL\nCynthia S. Constance and Mrs. Bessie Lester Byron\nmonths Standing Mrs. Wendell Dorothy Scott, Clifford,\nBURNS, IL, and Arthur Mccoy. 4He\nMrs. Mccoy has served president of Pamdae School\nyears week for the fifth\n\n\n\n\n\nFor II years she president Junior auxiliary\nWillow Grove Baptist Church.\n\n\nShe is president Junior\ndivision of SRVD of Baptist Churches.\nMrs. Mccoy is the grand Chapter\naffiliate Of NV St. Johns Grand Lodge.\n\n\nShe always many Health and\nMarch of Dimes campaigns.\n\n\nShe is Boy Scouts troop assistant.\nFor several years she Palmdae School bus,",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1021,
+                "y0": 6891,
+                "x1": 1827,
+                "y1": 7188
+            },
+            "class": "article",
+            "raw_text": "Booths will display sporting\ngoods. canned goods, household\narticles, and clothing.\n\n\nEdward Kuykendall is the car\nnival chairman.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 402,
+                "y0": 6741,
+                "x1": 1503,
+                "y1": 6869
+            },
+            "class": "headline",
+            "raw_text": "Church Sponsors Carnival",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2776,
+                "y0": 6822,
+                "x1": 3588,
+                "y1": 7193
+            },
+            "class": "article",
+            "raw_text": "NEW YORK : Rep. Adam C.\nPowell, D. New York, was grant\ned another delay in answering a\nsac, 500 judgment.\n\n\nThe judgment is held by Mrs.\nEsther James, Harlem widow,",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2788,
+                "y0": 6648,
+                "x1": 3594,
+                "y1": 6788
+            },
+            "class": "headline",
+            "raw_text": "Powell Wins Delay",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3650,
+                "y0": 6787,
+                "x1": 4456,
+                "y1": 7211
+            },
+            "class": "article",
+            "raw_text": "who was awarded $211,50O dam\nages against him because he\ncalled her \"bag woman (graft\ncollector for police).\n\n\nThe award was reduced but\nPowell has not paid nor sub\nmitted a report of his assets.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 135,
+                "y0": 6903,
+                "x1": 947,
+                "y1": 7205
+            },
+            "class": "article",
+            "raw_text": "Wesley Methodist Church, 1902\nE. Washington will hold its first\nannual Embarrassing carnival and\nbazaar at the church, May Is\nand 10, S pm. to midnight.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 124,
+                "y0": 2559,
+                "x1": 1810,
+                "y1": 2989
+            },
+            "class": "article",
+            "raw_text": "night held Friday the Elks Lodge.\n1907 South 9TH Mrs. Helen Walker cochairman\nwith Mrs. Charlesetta McClammy.\nFirst prize by The Varseles.\n\n\nParticipants included from left Phdela Gaines Marva Walter\nJackson Turner Deleanor Sutton\nand Sharon Jackson second place.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 4890,
+                "y0": 405,
+                "x1": 6142,
+                "y1": 5803
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964051501_0397",
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "Old N an\n\n\nStubs Wom an",
+            "article": "ST. LOUIS = A lO6 yr. old man\nwas arrested Tuesday and held\non an assault charge after stab\nbling his housekeeper 20 times.\n\n\nJames Whittenburg and his\nhousekeeper. a 81 yr. old woman\nhave been arguing and fighting for\nseveral months.\n\n\nHe attacked her with a knife\nand she was in critical condition\nafter police found her lying in\na pool Of blood.\n\n\nWhittenburg said he was prize\nfighter in 1880 and he Is the\nOldest person ever jailed in the\ncity.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1913,
+                    "y0": 5629,
+                    "x1": 2516,
+                    "y1": 5844
+                },
+                {
+                    "x0": 1896,
+                    "y0": 5878,
+                    "x1": 2707,
+                    "y1": 6823
+                }
+            ],
+            "bbox": [
+                1896,
+                5629,
+                2707,
+                6823
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                18,
+                4
+            ],
+            "headline": "NAACP ISSUES\nNEGRO HISTORY\nBOOKLET",
+            "article": "NEW YORK The National\nAssociation for the Advancement\nof Colored People has published\na 44-page illustrated booklet con-\ntanning collection of biograph-\nical sketches of famous nine\nteenth century Negroes.\n\n\nThe Informative booklet is\nbased on weekly series of bio\ngraphical sketches which were\nprepared and distributed as part\nof the NAACPs regular press\nservice to some three hundred\ndaily and weekly papers. Mildred\nBond is author of the series.\n\n\nExpressions of appreciation\nand commentator were wide\nspread\" remarks Mr.. wilkins\nin the foreword, \"and a great\nmany persons urged that we COM\npile the series in a single vol\nume for more general distribu-\ntion. This we have DONE\"\n\n\nPrinted in three colors, the\ntext of the booklet is enriched\nby Is original drawings by James\nl. DeLoache. Mr.. DeLoache, who\nhas had a lifelong interest in\ntelling the Negroes story with\ncanvas and paints. is creator Of\nthe NAACPs massive mural\n\"Our New Day Begun\" The\nmurla. which is insured for\n$4,000, depicts Negro life in\nAmerica since slavery, and is\nnow on display in the Educational\nBuilding at the New York Worlds\nFair.\n\n\n\"Negro Heroes Of Emancipa-\nton is being sold at the NAACP\nNational Office in New York City\nas we'll as the groups l.725\nunits throughout the country. De-\npending upon the quantity or\ndered, prices range from $l.00\nfor one copy to so cents each for\nfifty or more copies.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1913,
+                    "y0": 2571,
+                    "x1": 2499,
+                    "y1": 2821
+                },
+                {
+                    "x0": 1884,
+                    "y0": 2849,
+                    "x1": 2707,
+                    "y1": 5607
+                }
+            ],
+            "bbox": [
+                1884,
+                2571,
+                2707,
+                5607
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "Negro Placed\n\n\nIn Protocol Job",
+            "article": "WASHINGTON = Chester C..\nCarter, 43-year-old Negro law\nyer and former Peace Corps Of\nfetal. was appointed as deputy\nchief of the State Department S\nprotocol office.\n\n\nThe first of his race to hold\ntop position in protocol, Carter\nwill move from the post of deputy\nassistant secretary for congress\nsional affairs. Before joining the\nState Department. he was direc-\ntor of Peace Corps activities\nin Tunisia and the Comeroons in\nAfrica.\n\n\nIn the protocol office, Carter\nwill specialize in the accredi-\ntation of ambassadors, in priv\nileges and immunities for dip\nlomats and in ceremonial affairs.\n\n\nThe protocol office decides\nsuch matters as who sits where\nat state dinners but it has been\nactive also in combating racial\ndiscrimination in Washington\nand neighboring states.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 118,
+                    "y0": 4853,
+                    "x1": 791,
+                    "y1": 5080
+                },
+                {
+                    "x0": 112,
+                    "y0": 5096,
+                    "x1": 930,
+                    "y1": 6637
+                }
+            ],
+            "bbox": [
+                112,
+                4853,
+                930,
+                6637
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "ACLU Urges\nHigh School\n\n\nTo Accept Magazine",
+            "article": "The Arizona Civil Liberties\nUnion, northern area, urge the\nPhoenix Union High School Sys-\ntenn to accept the offer of gift\nsubscriptions to Human Events.\n\n\nThe board of education has re-\nferred to a faculty committee the\noffer subscriptions to the conser-\nvative magazine. The Unions\nviews we're contained in a letter\nto Superintendent Seymour from\nTed Mote, State President of Ari-\niona Gu. The letter stated:\n\n\n1.-THE board of the Northern\nArea ACLU is in full support\nof academic freedom and OPP\nposed to censorship. 1t is our\nbelief that school libraries should\nmake available to students and\nfaculties the broadcast selection\npossible of journals of opinion,\nincluding such magazines as HUI\nman Events. Materials should not\nbe barred from Libraries Simply\nbecause they present controver-\nsial or unpopular points of view.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1027,
+                    "y0": 4824,
+                    "x1": 1711,
+                    "y1": 5085
+                },
+                {
+                    "x0": 1015,
+                    "y0": 5096,
+                    "x1": 1833,
+                    "y1": 6643
+                }
+            ],
+            "bbox": [
+                1015,
+                4824,
+                1833,
+                6643
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Mrs. Arthur Oe Mccoy Chapman was selected as The\nArizona Tribune \"Mother of the Year,\n\n\nresident of the for the years. spent same\nhouse Chapman Road Mrs. Mccoy many her\ntime to her family church. school and community.\n\n\nThe mother Of three children Willie Francsco\ndaughters Mrs. Dorothy Scott Phoenix\n\n\nThere are l3 grandchildren\n\n\nHer mother Mrs. Lester right lives next\ndoor to her.\n\n\nFrom left in the photograph Mrs. Mccoy CRYSTAL\nCynthia S. Constance and Mrs. Bessie Lester Byron\nmonths Standing Mrs. Wendell Dorothy Scott, Clifford,\nBURNS, IL, and Arthur Mccoy. 4He\nMrs. Mccoy has served president of Pamdae School\nyears week for the fifth\n\n\n\n\n\nFor II years she president Junior auxiliary\nWillow Grove Baptist Church.\n\n\nShe is president Junior\ndivision of SRVD of Baptist Churches.\nMrs. Mccoy is the grand Chapter\naffiliate Of NV St. Johns Grand Lodge.\n\n\nShe always many Health and\nMarch of Dimes campaigns.\n\n\nShe is Boy Scouts troop assistant.\nFor several years she Palmdae School bus,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2776,
+                    "y0": 2131,
+                    "x1": 4456,
+                    "y1": 3736
+                }
+            ],
+            "bbox": [
+                2776,
+                2131,
+                4456,
+                3736
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                26,
+                10
+            ],
+            "headline": "Church Sponsors Carnival",
+            "article": "Booths will display sporting\ngoods. canned goods, household\narticles, and clothing.\n\n\nEdward Kuykendall is the car\nnival chairman.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 402,
+                    "y0": 6741,
+                    "x1": 1503,
+                    "y1": 6869
+                },
+                {
+                    "x0": 1021,
+                    "y0": 6891,
+                    "x1": 1827,
+                    "y1": 7188
+                }
+            ],
+            "bbox": [
+                402,
+                6741,
+                1827,
+                7188
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                22,
+                11
+            ],
+            "headline": "Powell Wins Delay",
+            "article": "NEW YORK : Rep. Adam C.\nPowell, D. New York, was grant\ned another delay in answering a\nsac, 500 judgment.\n\n\nThe judgment is held by Mrs.\nEsther James, Harlem widow,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2788,
+                    "y0": 6648,
+                    "x1": 3594,
+                    "y1": 6788
+                },
+                {
+                    "x0": 2776,
+                    "y0": 6822,
+                    "x1": 3588,
+                    "y1": 7193
+                }
+            ],
+            "bbox": [
+                2776,
+                6648,
+                3594,
+                7193
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "who was awarded $211,50O dam\nages against him because he\ncalled her \"bag woman (graft\ncollector for police).\n\n\nThe award was reduced but\nPowell has not paid nor sub\nmitted a report of his assets.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3650,
+                    "y0": 6787,
+                    "x1": 4456,
+                    "y1": 7211
+                }
+            ],
+            "bbox": [
+                3650,
+                6787,
+                4456,
+                7211
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Wesley Methodist Church, 1902\nE. Washington will hold its first\nannual Embarrassing carnival and\nbazaar at the church, May Is\nand 10, S pm. to midnight.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 135,
+                    "y0": 6903,
+                    "x1": 947,
+                    "y1": 7205
+                }
+            ],
+            "bbox": [
+                135,
+                6903,
+                947,
+                7205
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "night held Friday the Elks Lodge.\n1907 South 9TH Mrs. Helen Walker cochairman\nwith Mrs. Charlesetta McClammy.\nFirst prize by The Varseles.\n\n\nParticipants included from left Phdela Gaines Marva Walter\nJackson Turner Deleanor Sutton\nand Sharon Jackson second place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 124,
+                    "y0": 2559,
+                    "x1": 1810,
+                    "y1": 2989
+                }
+            ],
+            "bbox": [
+                124,
+                2559,
+                1810,
+                2989
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-05-15_pna_sn84021918_0041421695A_1964051501_0397.json"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091101/0545.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7463,
+        "width": 4956
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 186,
+                "y0": 3130,
+                "x1": 1878,
+                "y1": 3557
+            },
+            "class": "article",
+            "raw_text": "Mike Battle Chapman celebrated his fifth birthday with\na of friends. .\n\n\nMike can hardly his cake He fanked by David\nHolman and Calvin Holman.\n\n\nOthers attending Battles birthday party included Donna\nTanner Rodney jon, Janet and Lawrence Holman Cnery\nporr and Nina Groves photo-B. Heard",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1941,
+                "y0": 2594,
+                "x1": 2758,
+                "y1": 3580
+            },
+            "class": "article",
+            "raw_text": "To peel tomatoes quicker and\neasier try any one of these three\nmethods suggested by food\nspecialists of the Department\nof Agriculture.\n\n\n|, Stroke the skin with the dull\nedge of a knife blade until the\nskin is loosened, or\n\n\n2. Dip the tomato in boiling\nwater for l minute, then cool at\nonce in cold water, or\n\n\n8. Run fork into tomato and rotate\nit over heat of cooking unit until\nthe skin is tight and shiny. Cool\nat once in cold water.\n\n\nThe peel will come off easily\nafter any one of these treatments.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1970,
+                "y0": 2460,
+                "x1": 2595,
+                "y1": 2572
+            },
+            "class": "headline",
+            "raw_text": "Household Hints",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1924,
+                "y0": 571,
+                "x1": 2753,
+                "y1": 2408
+            },
+            "class": "article",
+            "raw_text": "ALBANY The NAACP has\nfiled a petition with the state\nCommissioner Of Education pro-\ntesting the attempts Of the Buffalo\nBoard Of Education to continue to\nmaintain and increase school\nsegregation in its school system\nand also protesting its discrim-\ninatory practices in hiring and\nplacing Of Negro teachers.\n\n\nThe NAACP has made several\nunsuccessful attempts to get the\nBuffalo Board of Education to\neradicate de facto segregation\nin the city. Sixteen of Buffalo's\n80 elementary schools are over\n70 percent Negro.\n\n\napproximately 90 percent of\nthe Negro elementary school\nchildren are attending segregated\nschools. A new junior high\nschool, scheduled to open this\nfall, has been zoned SO that its\nenrolment will be almost en-\ntirely Negro.\n\n\nIn addition, it is estimated that\nthere are less than 800 Negro\nteachers in the entire system Of\n5000 teachers. Only two adj\nministrative positins are held\nby Negroes out of a total of 266.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1964,
+                "y0": 326,
+                "x1": 2636,
+                "y1": 543
+            },
+            "class": "headline",
+            "raw_text": "Segregation Tests\nin Buffalo",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-09-11"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Mike Battle Chapman celebrated his fifth birthday with\na of friends. .\n\n\nMike can hardly his cake He fanked by David\nHolman and Calvin Holman.\n\n\nOthers attending Battles birthday party included Donna\nTanner Rodney jon, Janet and Lawrence Holman Cnery\nporr and Nina Groves photo-B. Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 186,
+                    "y0": 3130,
+                    "x1": 1878,
+                    "y1": 3557
+                }
+            ],
+            "bbox": [
+                186,
+                3130,
+                1878,
+                3557
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-11_p1_sn84021918_0041421695A_1964091101_0545.json"
+        },
+        {
+            "object_ids": [
+                9,
+                0
+            ],
+            "headline": "Household Hints",
+            "article": "To peel tomatoes quicker and\neasier try any one of these three\nmethods suggested by food\nspecialists of the Department\nof Agriculture.\n\n\n|, Stroke the skin with the dull\nedge of a knife blade until the\nskin is loosened, or\n\n\n2. Dip the tomato in boiling\nwater for l minute, then cool at\nonce in cold water, or\n\n\n8. Run fork into tomato and rotate\nit over heat of cooking unit until\nthe skin is tight and shiny. Cool\nat once in cold water.\n\n\nThe peel will come off easily\nafter any one of these treatments.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 2460,
+                    "x1": 2595,
+                    "y1": 2572
+                },
+                {
+                    "x0": 1941,
+                    "y0": 2594,
+                    "x1": 2758,
+                    "y1": 3580
+                }
+            ],
+            "bbox": [
+                1941,
+                2460,
+                2758,
+                3580
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-11_p1_sn84021918_0041421695A_1964091101_0545.json"
+        },
+        {
+            "object_ids": [
+                3,
+                1
+            ],
+            "headline": "Segregation Tests\nin Buffalo",
+            "article": "ALBANY The NAACP has\nfiled a petition with the state\nCommissioner Of Education pro-\ntesting the attempts Of the Buffalo\nBoard Of Education to continue to\nmaintain and increase school\nsegregation in its school system\nand also protesting its discrim-\ninatory practices in hiring and\nplacing Of Negro teachers.\n\n\nThe NAACP has made several\nunsuccessful attempts to get the\nBuffalo Board of Education to\neradicate de facto segregation\nin the city. Sixteen of Buffalo's\n80 elementary schools are over\n70 percent Negro.\n\n\napproximately 90 percent of\nthe Negro elementary school\nchildren are attending segregated\nschools. A new junior high\nschool, scheduled to open this\nfall, has been zoned SO that its\nenrolment will be almost en-\ntirely Negro.\n\n\nIn addition, it is estimated that\nthere are less than 800 Negro\nteachers in the entire system Of\n5000 teachers. Only two adj\nministrative positins are held\nby Negroes out of a total of 266.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1964,
+                    "y0": 326,
+                    "x1": 2636,
+                    "y1": 543
+                },
+                {
+                    "x0": 1924,
+                    "y0": 571,
+                    "x1": 2753,
+                    "y1": 2408
+                }
+            ],
+            "bbox": [
+                1924,
+                326,
+                2753,
+                2408
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-11_p1_sn84021918_0041421695A_1964091101_0545.json"
+        }
+    ]
+}

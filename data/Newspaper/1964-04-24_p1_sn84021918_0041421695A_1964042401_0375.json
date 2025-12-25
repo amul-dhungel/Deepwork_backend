@@ -1,0 +1,342 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964042401/0375.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7444,
+        "width": 4861
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1034,
+                "y0": 401,
+                "x1": 1849,
+                "y1": 1222
+            },
+            "class": "article",
+            "raw_text": "trials. He pointed out the \"a\nseason started with indoor meets\nin January and will conclude\nfor many athletes with the Olym-\npics in October. \"Thars a long\ntime to be in peak FORM\" he\nconcluded.\n\n\nThe 2l-year-old Detroiter has\nsome reason to have confidence\nin his 220 ability. Slightly over\na year ago the world record in\nthe 22O around curve was 2O.5\nseconds. On March 10, 1868, in\ndual meet against Utah he ran",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2802,
+                "y0": 418,
+                "x1": 3617,
+                "y1": 1193
+            },
+            "class": "article",
+            "raw_text": "Henry was asked about Bob\nHayes, whom he has met twice,\nonce in the 100 meters and again\nin the 22O, and has yet to beat.\n\n\n\"Bob's got to be the fastest\nthing going in the sprints. l lost\nto him by stride both times,\nbut | still think can beat him\nat anything over 100 yards\"\n\n\nHenry is the tenth of IL chill\ndren born to Mr.. and Mrs. Full\nTer Carr of Detroit. His father\n81 a foundry worker.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3692,
+                "y0": 5577,
+                "x1": 4513,
+                "y1": 7032
+            },
+            "class": "article",
+            "raw_text": "DETROIT The Automobile\nManufacturers Association re-\nported nearly 80 per cent Of\nUS. families own a car and\n1916 per cent own more than one.\n\n\nAccording to the 43rd annual\nedition of AMA's booklet, Auto\nmobile Facts and Figures\"\nshowed over o5 per cent of fam\nlilies with incomes over $4,000\nnow own one car and about 2.l\nper cent have three cars.\n\n\nThe automobile remains\nAmericas favorite method of\nvacation transportation with 81\nper cent using it.\n\n\nStates derive 70 per cent of\ntheir tax receipts from vehicles\nowners and operators. At the\nnational level, motorists paid al\nmost $l2 billion in taxes and tolls.\n\n\nTotal car registrations in 1868\nwere 63,384,OOO of which\n3,250,O0O we're owned by house\nholds.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3698,
+                "y0": 5327,
+                "x1": 4298,
+                "y1": 5549
+            },
+            "class": "headline",
+            "raw_text": "Auto Review\nOF 1868",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1918,
+                "y0": 441,
+                "x1": 2739,
+                "y1": 1222
+            },
+            "class": "article",
+            "raw_text": "20.4. Four nights later in dual\nmeet with the Southern Califor-\nmia Striders he ran 2O.3 And\nthis season, again agaist the\nStriders april ~, he ran 20.2.\n\n\n\"That's my favorite race\"\nCarr said. 81 enjoy running the\ncurve. something most sprinters\ndo not. and that's where | think\nl win, in the curve. You have to\nrun with power through the curve\nand then stride out when you hit\nthe straight-a-way.\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 139,
+                "y0": 645,
+                "x1": 960,
+                "y1": 1239
+            },
+            "class": "article",
+            "raw_text": "TEMPE-\"This will probably\nsound pretty cocky, but when\nPm right, | don't think anyone\ncan beat me in the 22O.\" said\nHenry Carr, 6-3, l87-pound jun\nior sprinter at Arizona State\nUniversity.\n\n\nCarr has had pulled leg mus\nGle, but feels all will be we'll\nduring the upcoming Olympic",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 139,
+                "y0": 401,
+                "x1": 680,
+                "y1": 623
+            },
+            "class": "headline",
+            "raw_text": "Hen ry Carr\nSpeaks Out",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3686,
+                "y0": 662,
+                "x1": 4513,
+                "y1": 5240
+            },
+            "class": "article",
+            "raw_text": "BOSTON Over fifty percent\nof the Negroes in the United\nStates who earned electorate de-\ngrees in religious fields during\nthe past decade received them\nat Boston University, reported\nDR.. Shelby Rocks of the Fund\nfor Theological Education at\nPrinceton, New Jersey.\n\n\nFourteen out of the rwenty-six\ndoctorates awarded to Negroes\nin this country from lo53-lo63\nwere given by the Universitys\nSchool Of Theology In conjunc-\ntion with the graduate school and\nsome Of the graduates have al\nready risen to prominent places\nin American society.\n\n\nThe remining degrees were\nawarded by the following col\nleges and universities: Divinity\nSchool at the University Of Chi\ncago, one degree: Hartford Theo-\nlogical Seminary, one: Harvard\nDivinity School, two: Southern\nCalifornia, one; the Theological\nSchool at Drew University, two:\nUnion College in New York, one;\nUnion College in Virginia. one:\nVanderbilt Divinity School. one;\nYale Divinity School, two.\n\n\nDR.. Martin Luther King, Jr..\nPresident of the Southern Chris\ntian Leadership Conference at\nAtlanta, Ca, best known Of the\ngroup, received a Ph.D. from\nBoston University in 1855 upon\ncompletion Of his thesis entitled:\nga Comparison of the Concep-\ntions Of God In the Thinking Of\nPaul Tillich and Henry Nelson\nWieman.\"\n\n\nOf eight doctorates that were\nearned nationally in the field Of\nsocial ethics, sevenwere attained\nat Boston University. Included\namong those who received doc\ntorates in this field are: Charles\nEric Lincoln, Ph.D. 1860. pro-\nfessor at Clark College in Geor-\ngia, who published his thesis\nentitled, \"The Black Muslims\nin the United States:\" Evans\nEdgar Crawford Jr., Ph.D. 1857.\nthe Dean of the Rankin Chapel\nat Howard University in Wash\nington, Dc, whose thesis topic\nwas, Leadership Roles Of the\nUrban Negro Minister;\" John\nHenry Satterwhite, Ph.D. 1887,\na Professor at the Wesley Theo-\nlogical Seminary in Washington.\nDC. who wrote his thesis on,\n\"An EValuation Of Hood lheo-\nlogical Seminary in the Light Of\nits History\" Joseph Reed Wash\nington Jr., Pho. 1861, the\nChaplain at the Dickinson Col\nlege in Gettysburg, Pa, whose\nthesis was, \"Lewis O. Hartman's\nSocial Ideals;\" and Daniel Web\nster Wynn, Phi. D. 1854, the Chap\nlain at the Tuskegee Institute.\nTuskegee Institute, Ala, who\nwrote on, \"The Nature and Eff\nfecdveness of Negro Protest\nLeadership in Securing Civil\nRights 80,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3704,
+                "y0": 401,
+                "x1": 4466,
+                "y1": 629
+            },
+            "class": "headline",
+            "raw_text": "Boston u. Is\nDoctorute Cen te r",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 4896,
+                "y0": 424,
+                "x1": 6159,
+                "y1": 5816
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-04-24"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "trials. He pointed out the \"a\nseason started with indoor meets\nin January and will conclude\nfor many athletes with the Olym-\npics in October. \"Thars a long\ntime to be in peak FORM\" he\nconcluded.\n\n\nThe 2l-year-old Detroiter has\nsome reason to have confidence\nin his 220 ability. Slightly over\na year ago the world record in\nthe 22O around curve was 2O.5\nseconds. On March 10, 1868, in\ndual meet against Utah he ran",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1034,
+                    "y0": 401,
+                    "x1": 1849,
+                    "y1": 1222
+                }
+            ],
+            "bbox": [
+                1034,
+                401,
+                1849,
+                1222
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-24_p1_sn84021918_0041421695A_1964042401_0375.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Henry was asked about Bob\nHayes, whom he has met twice,\nonce in the 100 meters and again\nin the 22O, and has yet to beat.\n\n\n\"Bob's got to be the fastest\nthing going in the sprints. l lost\nto him by stride both times,\nbut | still think can beat him\nat anything over 100 yards\"\n\n\nHenry is the tenth of IL chill\ndren born to Mr.. and Mrs. Full\nTer Carr of Detroit. His father\n81 a foundry worker.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2802,
+                    "y0": 418,
+                    "x1": 3617,
+                    "y1": 1193
+                }
+            ],
+            "bbox": [
+                2802,
+                418,
+                3617,
+                1193
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-24_p1_sn84021918_0041421695A_1964042401_0375.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "Auto Review\nOF 1868",
+            "article": "DETROIT The Automobile\nManufacturers Association re-\nported nearly 80 per cent Of\nUS. families own a car and\n1916 per cent own more than one.\n\n\nAccording to the 43rd annual\nedition of AMA's booklet, Auto\nmobile Facts and Figures\"\nshowed over o5 per cent of fam\nlilies with incomes over $4,000\nnow own one car and about 2.l\nper cent have three cars.\n\n\nThe automobile remains\nAmericas favorite method of\nvacation transportation with 81\nper cent using it.\n\n\nStates derive 70 per cent of\ntheir tax receipts from vehicles\nowners and operators. At the\nnational level, motorists paid al\nmost $l2 billion in taxes and tolls.\n\n\nTotal car registrations in 1868\nwere 63,384,OOO of which\n3,250,O0O we're owned by house\nholds.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3698,
+                    "y0": 5327,
+                    "x1": 4298,
+                    "y1": 5549
+                },
+                {
+                    "x0": 3692,
+                    "y0": 5577,
+                    "x1": 4513,
+                    "y1": 7032
+                }
+            ],
+            "bbox": [
+                3692,
+                5327,
+                4513,
+                7032
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-24_p1_sn84021918_0041421695A_1964042401_0375.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "20.4. Four nights later in dual\nmeet with the Southern Califor-\nmia Striders he ran 2O.3 And\nthis season, again agaist the\nStriders april ~, he ran 20.2.\n\n\n\"That's my favorite race\"\nCarr said. 81 enjoy running the\ncurve. something most sprinters\ndo not. and that's where | think\nl win, in the curve. You have to\nrun with power through the curve\nand then stride out when you hit\nthe straight-a-way.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1918,
+                    "y0": 441,
+                    "x1": 2739,
+                    "y1": 1222
+                }
+            ],
+            "bbox": [
+                1918,
+                441,
+                2739,
+                1222
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-24_p1_sn84021918_0041421695A_1964042401_0375.json"
+        },
+        {
+            "object_ids": [
+                7,
+                4
+            ],
+            "headline": "Hen ry Carr\nSpeaks Out",
+            "article": "TEMPE-\"This will probably\nsound pretty cocky, but when\nPm right, | don't think anyone\ncan beat me in the 22O.\" said\nHenry Carr, 6-3, l87-pound jun\nior sprinter at Arizona State\nUniversity.\n\n\nCarr has had pulled leg mus\nGle, but feels all will be we'll\nduring the upcoming Olympic",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 139,
+                    "y0": 401,
+                    "x1": 680,
+                    "y1": 623
+                },
+                {
+                    "x0": 139,
+                    "y0": 645,
+                    "x1": 960,
+                    "y1": 1239
+                }
+            ],
+            "bbox": [
+                139,
+                401,
+                960,
+                1239
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-24_p1_sn84021918_0041421695A_1964042401_0375.json"
+        },
+        {
+            "object_ids": [
+                6,
+                5
+            ],
+            "headline": "Boston u. Is\nDoctorute Cen te r",
+            "article": "BOSTON Over fifty percent\nof the Negroes in the United\nStates who earned electorate de-\ngrees in religious fields during\nthe past decade received them\nat Boston University, reported\nDR.. Shelby Rocks of the Fund\nfor Theological Education at\nPrinceton, New Jersey.\n\n\nFourteen out of the rwenty-six\ndoctorates awarded to Negroes\nin this country from lo53-lo63\nwere given by the Universitys\nSchool Of Theology In conjunc-\ntion with the graduate school and\nsome Of the graduates have al\nready risen to prominent places\nin American society.\n\n\nThe remining degrees were\nawarded by the following col\nleges and universities: Divinity\nSchool at the University Of Chi\ncago, one degree: Hartford Theo-\nlogical Seminary, one: Harvard\nDivinity School, two: Southern\nCalifornia, one; the Theological\nSchool at Drew University, two:\nUnion College in New York, one;\nUnion College in Virginia. one:\nVanderbilt Divinity School. one;\nYale Divinity School, two.\n\n\nDR.. Martin Luther King, Jr..\nPresident of the Southern Chris\ntian Leadership Conference at\nAtlanta, Ca, best known Of the\ngroup, received a Ph.D. from\nBoston University in 1855 upon\ncompletion Of his thesis entitled:\nga Comparison of the Concep-\ntions Of God In the Thinking Of\nPaul Tillich and Henry Nelson\nWieman.\"\n\n\nOf eight doctorates that were\nearned nationally in the field Of\nsocial ethics, sevenwere attained\nat Boston University. Included\namong those who received doc\ntorates in this field are: Charles\nEric Lincoln, Ph.D. 1860. pro-\nfessor at Clark College in Geor-\ngia, who published his thesis\nentitled, \"The Black Muslims\nin the United States:\" Evans\nEdgar Crawford Jr., Ph.D. 1857.\nthe Dean of the Rankin Chapel\nat Howard University in Wash\nington, Dc, whose thesis topic\nwas, Leadership Roles Of the\nUrban Negro Minister;\" John\nHenry Satterwhite, Ph.D. 1887,\na Professor at the Wesley Theo-\nlogical Seminary in Washington.\nDC. who wrote his thesis on,\n\"An EValuation Of Hood lheo-\nlogical Seminary in the Light Of\nits History\" Joseph Reed Wash\nington Jr., Pho. 1861, the\nChaplain at the Dickinson Col\nlege in Gettysburg, Pa, whose\nthesis was, \"Lewis O. Hartman's\nSocial Ideals;\" and Daniel Web\nster Wynn, Phi. D. 1854, the Chap\nlain at the Tuskegee Institute.\nTuskegee Institute, Ala, who\nwrote on, \"The Nature and Eff\nfecdveness of Negro Protest\nLeadership in Securing Civil\nRights 80,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3704,
+                    "y0": 401,
+                    "x1": 4466,
+                    "y1": 629
+                },
+                {
+                    "x0": 3686,
+                    "y0": 662,
+                    "x1": 4513,
+                    "y1": 5240
+                }
+            ],
+            "bbox": [
+                3686,
+                401,
+                4513,
+                5240
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-24_p1_sn84021918_0041421695A_1964042401_0375.json"
+        }
+    ]
+}

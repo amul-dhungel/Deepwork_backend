@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964122501/0682.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7378,
+        "width": 4888
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2190,
+                "y0": 3931,
+                "x1": 3009,
+                "y1": 5148
+            },
+            "class": "article",
+            "raw_text": "KAET Channel 8 will offer the\nfirst nationwide telecast of the\ncomplete messiah\" by Handel,\nThurs. Dec. \"a, 1870 pm.\n\n\nThe \"Messiah'' will be an\nappropriate program for Christ\nmas viewing and listening. Hailed\nfor more than two centuries as\nmasterpiece of religious art, the\noratorio tells the story of Jesus...\nfrom the coming of the Messiah,\nthrough the crucifixion, to the\npromise of life after death.\n\n\nThe work is a dramatic set\nting drawn from scripture. The\nstory is recounted with musical\nnarratives, solo arias, and choral\nanthems. ..the most famous of\nwhich is the celebrated \"Halle-\nlujah\" Chorus. ..all with orches-\ntrail accompa nimentS.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2224,
+                "y0": 3810,
+                "x1": 2940,
+                "y1": 3914
+            },
+            "class": "headline",
+            "raw_text": "Messiuh TV Show",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3971,
+                "y0": 513,
+                "x1": 4802,
+                "y1": 2917
+            },
+            "class": "article",
+            "raw_text": "More than 100000 auto tag\nrenewal notices are being mailed\nto car owners this month by the\ncounty auto license plate depart\nment.\n\n\nChief Clerk Bill Norris asks\nall vehicle owners to carefully\nexamine their notice to make sure\nit is accurate. =\n\n\nOnly mail applications will be\nprocessed in December.\n\n\nBeginning Jan. 4 applications\nwill be accepted over-the-coun-\nter at auto license headquarters,\n40O5 N. 5lst Ave., Phoenix, and\n1924 w. 4th ST., Mesa. Mail and\nover-the-counter applications\nwill continue to be accepted\nthrough Jan. 81 without a pen\natty charge.\n\n\nNorris pointed out that fees\non many older model vehicles\nwill be slightly higher this year\ndue to new state law that be-\ncame effective July 18th which\nraised registration fees from\n81 to $6.25 on all vehicles. This\nwill raise the penalty fee and\ncost of late registrations from\nSo to $3.50.\n\n\nWidows and veterans must sign\nfor and obtain their exemption\nslips from the county assessors\noffice after Jan. A before spply-\ning for exemptions on their auto\ntags.\n\n\nA single tab will be issued\nfor proof of 1865 registration.\nThis should be placed in the upper,\nright hand corner of the rear\nlicense plate.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3971,
+                "y0": 293,
+                "x1": 4525,
+                "y1": 490
+            },
+            "class": "headline",
+            "raw_text": "AUTO TAG\nTIME IS HERE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3988,
+                "y0": 3072,
+                "x1": 4802,
+                "y1": 3678
+            },
+            "class": "article",
+            "raw_text": "The public is invited to the\naffair, which will take place at\n8 IN. Unitarian Church of Phoe-\nnix, 4O27 East Lincoln Drive.\n\n\nThe Rev. L. J.. Smallsreed, <\npastor of the Scottsdale Con-\ngregational United Church of\nChrist, worked in Mississippi\nlast August in the project seek\ning to qualify Negroes to vote.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2224,
+                "y0": 5758,
+                "x1": 2992,
+                "y1": 6958
+            },
+            "class": "article",
+            "raw_text": "Well Folks,\n\n\nJust wish that | could visit\nall of you and personally ex-\ntend to you, \"a Merry Christ\nmas and a Happy New Year\"\nCant't possibly do that, so\nI'll extend this invitation to\nall COME BY REDDY'S\nCORNER = and INSPECT OUR\nVERY COMPLETE STOCKS.\nWe will do our best to help\nyou plan the best joyous Holt\nday seasonl\n\n\nCarolyn Jerry = Elnora\n\n\nMaso and\n\n\nAS Always,\n\n\nJust FREDDY\"",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2219,
+                "y0": 5204,
+                "x1": 3004,
+                "y1": 5649
+            },
+            "class": "headline",
+            "raw_text": "A STOP AT\nEg7z37E3;Rg51';zj|||5,i'}\nzS51 ll7ll22:l GRa",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2213,
+                "y0": 5112,
+                "x1": 2733,
+                "y1": 5154
+            },
+            "class": "article",
+            "raw_text": "raj accompa niments.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-25"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "Messiuh TV Show",
+            "article": "KAET Channel 8 will offer the\nfirst nationwide telecast of the\ncomplete messiah\" by Handel,\nThurs. Dec. \"a, 1870 pm.\n\n\nThe \"Messiah'' will be an\nappropriate program for Christ\nmas viewing and listening. Hailed\nfor more than two centuries as\nmasterpiece of religious art, the\noratorio tells the story of Jesus...\nfrom the coming of the Messiah,\nthrough the crucifixion, to the\npromise of life after death.\n\n\nThe work is a dramatic set\nting drawn from scripture. The\nstory is recounted with musical\nnarratives, solo arias, and choral\nanthems. ..the most famous of\nwhich is the celebrated \"Halle-\nlujah\" Chorus. ..all with orches-\ntrail accompa nimentS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2224,
+                    "y0": 3810,
+                    "x1": 2940,
+                    "y1": 3914
+                },
+                {
+                    "x0": 2190,
+                    "y0": 3931,
+                    "x1": 3009,
+                    "y1": 5148
+                }
+            ],
+            "bbox": [
+                2190,
+                3810,
+                3009,
+                5148
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-25_p1_sn84021918_0041421695A_1964122501_0682.json"
+        },
+        {
+            "object_ids": [
+                9,
+                5
+            ],
+            "headline": "AUTO TAG\nTIME IS HERE",
+            "article": "More than 100000 auto tag\nrenewal notices are being mailed\nto car owners this month by the\ncounty auto license plate depart\nment.\n\n\nChief Clerk Bill Norris asks\nall vehicle owners to carefully\nexamine their notice to make sure\nit is accurate. =\n\n\nOnly mail applications will be\nprocessed in December.\n\n\nBeginning Jan. 4 applications\nwill be accepted over-the-coun-\nter at auto license headquarters,\n40O5 N. 5lst Ave., Phoenix, and\n1924 w. 4th ST., Mesa. Mail and\nover-the-counter applications\nwill continue to be accepted\nthrough Jan. 81 without a pen\natty charge.\n\n\nNorris pointed out that fees\non many older model vehicles\nwill be slightly higher this year\ndue to new state law that be-\ncame effective July 18th which\nraised registration fees from\n81 to $6.25 on all vehicles. This\nwill raise the penalty fee and\ncost of late registrations from\nSo to $3.50.\n\n\nWidows and veterans must sign\nfor and obtain their exemption\nslips from the county assessors\noffice after Jan. A before spply-\ning for exemptions on their auto\ntags.\n\n\nA single tab will be issued\nfor proof of 1865 registration.\nThis should be placed in the upper,\nright hand corner of the rear\nlicense plate.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3971,
+                    "y0": 293,
+                    "x1": 4525,
+                    "y1": 490
+                },
+                {
+                    "x0": 3971,
+                    "y0": 513,
+                    "x1": 4802,
+                    "y1": 2917
+                }
+            ],
+            "bbox": [
+                3971,
+                293,
+                4802,
+                2917
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-25_p1_sn84021918_0041421695A_1964122501_0682.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "The public is invited to the\naffair, which will take place at\n8 IN. Unitarian Church of Phoe-\nnix, 4O27 East Lincoln Drive.\n\n\nThe Rev. L. J.. Smallsreed, <\npastor of the Scottsdale Con-\ngregational United Church of\nChrist, worked in Mississippi\nlast August in the project seek\ning to qualify Negroes to vote.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3988,
+                    "y0": 3072,
+                    "x1": 4802,
+                    "y1": 3678
+                }
+            ],
+            "bbox": [
+                3988,
+                3072,
+                4802,
+                3678
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-25_p1_sn84021918_0041421695A_1964122501_0682.json"
+        },
+        {
+            "object_ids": [
+                16,
+                10
+            ],
+            "headline": "A STOP AT\nEg7z37E3;Rg51';zj|||5,i'}\nzS51 ll7ll22:l GRa",
+            "article": "Well Folks,\n\n\nJust wish that | could visit\nall of you and personally ex-\ntend to you, \"a Merry Christ\nmas and a Happy New Year\"\nCant't possibly do that, so\nI'll extend this invitation to\nall COME BY REDDY'S\nCORNER = and INSPECT OUR\nVERY COMPLETE STOCKS.\nWe will do our best to help\nyou plan the best joyous Holt\nday seasonl\n\n\nCarolyn Jerry = Elnora\n\n\nMaso and\n\n\nAS Always,\n\n\nJust FREDDY\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2219,
+                    "y0": 5204,
+                    "x1": 3004,
+                    "y1": 5649
+                },
+                {
+                    "x0": 2224,
+                    "y0": 5758,
+                    "x1": 2992,
+                    "y1": 6958
+                }
+            ],
+            "bbox": [
+                2219,
+                5204,
+                3004,
+                6958
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-12-25_p1_sn84021918_0041421695A_1964122501_0682.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "raj accompa niments.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2213,
+                    "y0": 5112,
+                    "x1": 2733,
+                    "y1": 5154
+                }
+            ],
+            "bbox": [
+                2213,
+                5112,
+                2733,
+                5154
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-12-25_p1_sn84021918_0041421695A_1964122501_0682.json"
+        }
+    ]
+}

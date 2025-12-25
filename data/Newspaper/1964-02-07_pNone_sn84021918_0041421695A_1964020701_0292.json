@@ -1,0 +1,314 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4775,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964020701/0292.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1087,
+                "y0": 595,
+                "x1": 1920,
+                "y1": 2994
+            },
+            "class": "article",
+            "raw_text": "Construction of the dam was\nbegun in 1903 and completed in\n1911, at a cost of over 50 mil\nlion, to the United States. In\n1855, the original construction\ncost plus interest was completely\nrepaid by the Salt River VAL\nley Water Users Association,\nthe governing body of the Salt\nRiver Project.\n\n\nTheodore Roosevelt, chief\nsponsor of national reclamation\nlegislation and architect of the\n1902 act, pers onally dedicated the\ndam upon its completion on March\nIs, 1911.\n\n\nTheodore Roosevelt Dam Is\nthe world highest mas onry dam.\n1t is 280 feet high; 723 feet long;\nand 1874 feet thick at its base.\n\n\nThe lake behindthe dam covers\nnearly 10000 surface acres and\nhas water storage capacity of\n1881 $50 acre-feet.\n\n\nA hydro generating station,\nwhich has furnished electric pow\ner to the Valley of the Sun since\n1909, has installed capacity of\n10000 hlowatts.\n\n\nRegistered National Land\nmarks are not administered by\nthe National Park Service, but\nare recommended by the Advi-\nsorry Board on National Parks,\nHistoric Sites, Buildings, and\nMonuments from studies pre-\npared by the National Survey of\nHistoric Sites and Buildings. In\nall of the United States, there\nare only 452 such landmarks.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 514,
+                "y0": 387,
+                "x1": 1533,
+                "y1": 544
+            },
+            "class": "headline",
+            "raw_text": "ROOSEVELT DAM\n\n\nNOW NATIONAL MONUMENT",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2878,
+                "y0": 2479,
+                "x1": 3712,
+                "y1": 4694
+            },
+            "class": "article",
+            "raw_text": "ATLANTA = Warming against\nthe danger of trying to solve\nall civil rights problems by any\nsingle method, NAACP Execu-\ntive Secretary Roy Wilkins has\ncalled for greater flexibility in\nthe fight for freedom.\n\n\nNo single method, the NAACP\nleader said in an address here,\nJan. %, at the annual dinner of\nthe Southern Regional Council,\nprovides the answer to every\ncivil rights issue in all COM\nmun1ties.\n\n\nWe must be prepared to \"use\nevery technique, every tool avail\nable. We need to devise new\ntools. Our attack must be across\nthe board and must be leveled at\nall forms and degrees of second\nclass citizenship\" he said.\n\n\nI'VE are engaged in compre-\nhensive campaign for the civil\nrights of 100000 citizens\nscattered in so states, living\nunder varied economic, social\nand political conditions and func-\ntioning with variety of education\nand technical knowledge, training\nand skill.\n\n\n1.-THE $4,000, 900 are minority\nin l86.OOO,OOO citizens. Thus\neven elementary reas oning would\nseem to indicate that allies among\nthe majority must be won and held\nIf the minoritys efforts are not\nto end in Illustration and failure\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2884,
+                "y0": 2213,
+                "x1": 3544,
+                "y1": 2451
+            },
+            "class": "headline",
+            "raw_text": "WILKINS WARNS\nAGAINST SINGLE\nKIND OF METHOD",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1977,
+                "y0": 2467,
+                "x1": 2827,
+                "y1": 3226
+            },
+            "class": "article",
+            "raw_text": "Health authorities warn - over\nand over again! - that washing\nhands before meals is the Number\nOne Rule for protecting health.\nWhether meals are eaten at the\ntable or from a packed lunch box,\nhands should be as clean as soap\nand water can get them.\n\n\nTo make it easy for the lunch\nbox-toter, slip a damp, soaped\nwashcloth into a sandwich bag and\nlay it just inside the box lid. And\nadd an extra paper napkin as\n''towel.\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2011,
+                "y0": 2271,
+                "x1": 2793,
+                "y1": 2451
+            },
+            "class": "headline",
+            "raw_text": "Use SOap-Wdter as\nPre-MeaL 'Appetizer''",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 179,
+                "y0": 601,
+                "x1": 1012,
+                "y1": 3035
+            },
+            "class": "article",
+            "raw_text": "Theodore Roosevelt Dam was\nofficially recognized on Few. 8 as\na Registered National Historic\nLandmark in ceremonies held in\nthe Salt river Project Admins\ntration Building.\n\n\nThe citation was awarded by the\nUnited States Department of In\nterror. Registered National His\ntoric Landmarks are areas or\nsites which possess exceptional\nvalue and are of national his\ntorical significance.\n\n\nMr.. Aubrey F. Houston, Sup\nerintendent of Casa Grande Ma\ntional Monument, presented a\ncertificate and bronze plaque to\nmembers of the Boards Of Gov\nerrors and Directors of the Salt\nRiver Project. Houston s presen-\ntation was made in behalf Of the\nDepartment of Interior and Ma\ntional Park Service.\n\n\nVictor l. Corbell, President\nof the Salt River Project, re-\nceived the designation In behalf\nof the Project officials.\n\n\nClifford A. Pugh, Phoenix Area\nEngineer, was also on hand to\nrepresent the u. S. Bureau of\nReclamation.\n\n\nLocated at the juncture of Ton\nto Greek and the Salt River, 80\nmiles east of Phoenix, Theodore\nRoosevelt Dam was the keystone\nin the nation 8 first multi-pur-\npose reclamation project orga-\ndzed under the National Recla-\nnation Act of 1902. 1t is one of\nseven dams in the Salt River Pro-\nject system.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3768,
+                "y0": 2144,
+                "x1": 4602,
+                "y1": 4711
+            },
+            "class": "article",
+            "raw_text": "MANFIASSET, N. Y. The\nschool board of this suburban\nLong Island community an\nnounced 1t would abide by court\norder to desegregate the public\nschools and would not appeal the\ndecision.\n\n\nThe board agreed to submit\nplan for integration by April E\neffective inSeptember as ordered\nby Joseph C. Zavatt, chief Judge\nof the US District Court, who\nruled on the NAACP suit On Jan.\n\"a. ..-1 -s.,.\n\n\nIn what may prove to be landr\nmark decision, Judge Zavatt up\nheld the NAACP claim that de\nfacto school segregation in Man\nhasset is unc constitutional. School\nboards cannot use the excuse that\nsegregated schools are due to\nneighborhood housing patterns\nand are therefore, not theirrre\nsponsibility, he said.\n\n\nJudge Zavatts decision was\ncarefully spelled out in a 59-page\nstatement which probed deeply\ninto all the facts surrounding the\ncase. School boundary lines in\nManhasset have not been changed\nsince 1929 when the population\nwas predominantly white. Since\nthat time Negro migration into\nthe district had caused one of\nthe three elementary schools,\nthe Valley School, to become \"a\nper cent Negro with total atten-\ndance of l66 pupils.\n\n\nThe other two elementary\nschools, Plandome Road, which\nhas 900 pupils, and Munsey Park,\nwhich has 574, are completely\nwhite.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3780,
+                "y0": 1843,
+                "x1": 4515,
+                "y1": 2093
+            },
+            "class": "headline",
+            "raw_text": "NEW YORK SCHOOL\nDECISION UPHOLDS\nPUPIL MOVING",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964020701_0292",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                1
+            ],
+            "headline": "ROOSEVELT DAM\n\n\nNOW NATIONAL MONUMENT",
+            "article": "Construction of the dam was\nbegun in 1903 and completed in\n1911, at a cost of over 50 mil\nlion, to the United States. In\n1855, the original construction\ncost plus interest was completely\nrepaid by the Salt River VAL\nley Water Users Association,\nthe governing body of the Salt\nRiver Project.\n\n\nTheodore Roosevelt, chief\nsponsor of national reclamation\nlegislation and architect of the\n1902 act, pers onally dedicated the\ndam upon its completion on March\nIs, 1911.\n\n\nTheodore Roosevelt Dam Is\nthe world highest mas onry dam.\n1t is 280 feet high; 723 feet long;\nand 1874 feet thick at its base.\n\n\nThe lake behindthe dam covers\nnearly 10000 surface acres and\nhas water storage capacity of\n1881 $50 acre-feet.\n\n\nA hydro generating station,\nwhich has furnished electric pow\ner to the Valley of the Sun since\n1909, has installed capacity of\n10000 hlowatts.\n\n\nRegistered National Land\nmarks are not administered by\nthe National Park Service, but\nare recommended by the Advi-\nsorry Board on National Parks,\nHistoric Sites, Buildings, and\nMonuments from studies pre-\npared by the National Survey of\nHistoric Sites and Buildings. In\nall of the United States, there\nare only 452 such landmarks.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 514,
+                    "y0": 387,
+                    "x1": 1533,
+                    "y1": 544
+                },
+                {
+                    "x0": 1087,
+                    "y0": 595,
+                    "x1": 1920,
+                    "y1": 2994
+                }
+            ],
+            "bbox": [
+                514,
+                387,
+                1920,
+                2994
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-07_pna_sn84021918_0041421695A_1964020701_0292.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "WILKINS WARNS\nAGAINST SINGLE\nKIND OF METHOD",
+            "article": "ATLANTA = Warming against\nthe danger of trying to solve\nall civil rights problems by any\nsingle method, NAACP Execu-\ntive Secretary Roy Wilkins has\ncalled for greater flexibility in\nthe fight for freedom.\n\n\nNo single method, the NAACP\nleader said in an address here,\nJan. %, at the annual dinner of\nthe Southern Regional Council,\nprovides the answer to every\ncivil rights issue in all COM\nmun1ties.\n\n\nWe must be prepared to \"use\nevery technique, every tool avail\nable. We need to devise new\ntools. Our attack must be across\nthe board and must be leveled at\nall forms and degrees of second\nclass citizenship\" he said.\n\n\nI'VE are engaged in compre-\nhensive campaign for the civil\nrights of 100000 citizens\nscattered in so states, living\nunder varied economic, social\nand political conditions and func-\ntioning with variety of education\nand technical knowledge, training\nand skill.\n\n\n1.-THE $4,000, 900 are minority\nin l86.OOO,OOO citizens. Thus\neven elementary reas oning would\nseem to indicate that allies among\nthe majority must be won and held\nIf the minoritys efforts are not\nto end in Illustration and failure\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2884,
+                    "y0": 2213,
+                    "x1": 3544,
+                    "y1": 2451
+                },
+                {
+                    "x0": 2878,
+                    "y0": 2479,
+                    "x1": 3712,
+                    "y1": 4694
+                }
+            ],
+            "bbox": [
+                2878,
+                2213,
+                3712,
+                4694
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-07_pna_sn84021918_0041421695A_1964020701_0292.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Use SOap-Wdter as\nPre-MeaL 'Appetizer''",
+            "article": "Health authorities warn - over\nand over again! - that washing\nhands before meals is the Number\nOne Rule for protecting health.\nWhether meals are eaten at the\ntable or from a packed lunch box,\nhands should be as clean as soap\nand water can get them.\n\n\nTo make it easy for the lunch\nbox-toter, slip a damp, soaped\nwashcloth into a sandwich bag and\nlay it just inside the box lid. And\nadd an extra paper napkin as\n''towel.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2011,
+                    "y0": 2271,
+                    "x1": 2793,
+                    "y1": 2451
+                },
+                {
+                    "x0": 1977,
+                    "y0": 2467,
+                    "x1": 2827,
+                    "y1": 3226
+                }
+            ],
+            "bbox": [
+                1977,
+                2271,
+                2827,
+                3226
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-07_pna_sn84021918_0041421695A_1964020701_0292.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Theodore Roosevelt Dam was\nofficially recognized on Few. 8 as\na Registered National Historic\nLandmark in ceremonies held in\nthe Salt river Project Admins\ntration Building.\n\n\nThe citation was awarded by the\nUnited States Department of In\nterror. Registered National His\ntoric Landmarks are areas or\nsites which possess exceptional\nvalue and are of national his\ntorical significance.\n\n\nMr.. Aubrey F. Houston, Sup\nerintendent of Casa Grande Ma\ntional Monument, presented a\ncertificate and bronze plaque to\nmembers of the Boards Of Gov\nerrors and Directors of the Salt\nRiver Project. Houston s presen-\ntation was made in behalf Of the\nDepartment of Interior and Ma\ntional Park Service.\n\n\nVictor l. Corbell, President\nof the Salt River Project, re-\nceived the designation In behalf\nof the Project officials.\n\n\nClifford A. Pugh, Phoenix Area\nEngineer, was also on hand to\nrepresent the u. S. Bureau of\nReclamation.\n\n\nLocated at the juncture of Ton\nto Greek and the Salt River, 80\nmiles east of Phoenix, Theodore\nRoosevelt Dam was the keystone\nin the nation 8 first multi-pur-\npose reclamation project orga-\ndzed under the National Recla-\nnation Act of 1902. 1t is one of\nseven dams in the Salt River Pro-\nject system.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 179,
+                    "y0": 601,
+                    "x1": 1012,
+                    "y1": 3035
+                }
+            ],
+            "bbox": [
+                179,
+                601,
+                1012,
+                3035
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-07_pna_sn84021918_0041421695A_1964020701_0292.json"
+        },
+        {
+            "object_ids": [
+                15,
+                5
+            ],
+            "headline": "NEW YORK SCHOOL\nDECISION UPHOLDS\nPUPIL MOVING",
+            "article": "MANFIASSET, N. Y. The\nschool board of this suburban\nLong Island community an\nnounced 1t would abide by court\norder to desegregate the public\nschools and would not appeal the\ndecision.\n\n\nThe board agreed to submit\nplan for integration by April E\neffective inSeptember as ordered\nby Joseph C. Zavatt, chief Judge\nof the US District Court, who\nruled on the NAACP suit On Jan.\n\"a. ..-1 -s.,.\n\n\nIn what may prove to be landr\nmark decision, Judge Zavatt up\nheld the NAACP claim that de\nfacto school segregation in Man\nhasset is unc constitutional. School\nboards cannot use the excuse that\nsegregated schools are due to\nneighborhood housing patterns\nand are therefore, not theirrre\nsponsibility, he said.\n\n\nJudge Zavatts decision was\ncarefully spelled out in a 59-page\nstatement which probed deeply\ninto all the facts surrounding the\ncase. School boundary lines in\nManhasset have not been changed\nsince 1929 when the population\nwas predominantly white. Since\nthat time Negro migration into\nthe district had caused one of\nthe three elementary schools,\nthe Valley School, to become \"a\nper cent Negro with total atten-\ndance of l66 pupils.\n\n\nThe other two elementary\nschools, Plandome Road, which\nhas 900 pupils, and Munsey Park,\nwhich has 574, are completely\nwhite.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3780,
+                    "y0": 1843,
+                    "x1": 4515,
+                    "y1": 2093
+                },
+                {
+                    "x0": 3768,
+                    "y0": 2144,
+                    "x1": 4602,
+                    "y1": 4711
+                }
+            ],
+            "bbox": [
+                3768,
+                1843,
+                4602,
+                4711
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-02-07_pna_sn84021918_0041421695A_1964020701_0292.json"
+        }
+    ]
+}

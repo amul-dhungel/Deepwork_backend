@@ -1,0 +1,293 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7383,
+        "width": 4893,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112001/0637.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1835,
+                "y0": 582,
+                "x1": 2660,
+                "y1": 2931
+            },
+            "class": "article",
+            "raw_text": "The Maricopa County Health\nDepartment has begun mailing\n1865 dog license notices to over\n5000 owners of \"good dogs of\n1864\" Chose licensed here, hav-\ning first proved the validity of\ntheir current vaccination\nclaims). The notices are of two\ntypes. The smaller group, num-\nbering only $4,000 or so. will\ngo to persons whose dogs need\nboth vaccination and license this\nyear. More than 81 900 will be\nsent to owners whose dogs have\nrabies vaccinations valid for the\nentire year of 1865. but whose\nlicenses, like all the rest of\nMaricopa County s dogs, expire\non December 81. 1864.\n\n\nThe owner whose dog needs\nboth license and vaccination will\nreceive a two-ply IBM form when\nhe has the dog vaccinated either\nby his veterinarian or at one of\nthe annual rabies vaccination\nclinics.\n\n\nThis year S clinics are sched-\nuled by location, on Saturdays and\nSundays from November 81\nthrough December Is. The total\nfee for each dog vaccinated and\nlicensed at the clinics will be\n$500. This includes $500 for a\nrabies vaccination good for three\nyears. and $500 for the 1865\ndog license. Clinics are spon-\nsored by the Central Arizona\nVeterinary Medical Association\nand the Maricopa County Health\nDepartment.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1812,
+                "y0": 386,
+                "x1": 2666,
+                "y1": 537
+            },
+            "class": "headline",
+            "raw_text": "Dog License Time",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 58,
+                "y0": 2353,
+                "x1": 867,
+                "y1": 3069
+            },
+            "class": "article",
+            "raw_text": "TAMPA : The NAACP ha Wig\norously otested the segregated\npolicies of the Florida State Fair\nwhich maintains two separate\ndays for Negro and white youth\nfarm groups.\n\n\nIn a letter to Francis KEEP\npei, u S. Commissioner of Edu-\ncation, NAACP Florida Field Dr.\nrector Robert w. Saunders out\nlined the policy Of the Florida\nState Board of Education which",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 381,
+                "y0": 2105,
+                "x1": 1466,
+                "y1": 2331
+            },
+            "class": "headline",
+            "raw_text": "NAACP Protests\nSegregated Fair Units",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 952,
+                "y0": 2353,
+                "x1": 1772,
+                "y1": 3052
+            },
+            "class": "article",
+            "raw_text": "will have two days at the Fair.\n\n\nThe policy of the Board has\nbeen to use one of these days\nfor the all-white youth group,\nthe Future Farmers of Amer\nica.\"\n\n\nThe NAACP has reque sted\ndiscontinuance of this policy but\nthe Fair has made plans for its\ncontinuance again in 1865 when\nthe Florida Fair opens in Feb\nruary.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 75,
+                "y0": 1718,
+                "x1": 1749,
+                "y1": 2089
+            },
+            "class": "article",
+            "raw_text": "Making miniature hats which will be presented attending\nSorority Hat Breakfast scheduled\nSafar Hotel Scottsdale Saturday, Nov. %, 1890\n\n\nleft Mesdames rma Leos, Hazel Williams,\nDoris Moten, Ozela James and Clendolyn Corbin.\n\n\nMesdames Lois Brooks and M. Alice Marriott",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 341,
+                "y0": 5271,
+                "x1": 1490,
+                "y1": 5601
+            },
+            "class": "article",
+            "raw_text": "NoWS the time to install new heutlng plon'\nor heating and cooling system for your home\nSee YOUR Valley Banker today for low cos\nHOME MPROVEMENT LOAN!",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 335,
+                "y0": 4816,
+                "x1": 1466,
+                "y1": 5238
+            },
+            "class": "headline",
+            "raw_text": "We make hundreds\nof warm friends\n\n\nevery year at this time!",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112001_0637",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Dog License Time",
+            "article": "The Maricopa County Health\nDepartment has begun mailing\n1865 dog license notices to over\n5000 owners of \"good dogs of\n1864\" Chose licensed here, hav-\ning first proved the validity of\ntheir current vaccination\nclaims). The notices are of two\ntypes. The smaller group, num-\nbering only $4,000 or so. will\ngo to persons whose dogs need\nboth vaccination and license this\nyear. More than 81 900 will be\nsent to owners whose dogs have\nrabies vaccinations valid for the\nentire year of 1865. but whose\nlicenses, like all the rest of\nMaricopa County s dogs, expire\non December 81. 1864.\n\n\nThe owner whose dog needs\nboth license and vaccination will\nreceive a two-ply IBM form when\nhe has the dog vaccinated either\nby his veterinarian or at one of\nthe annual rabies vaccination\nclinics.\n\n\nThis year S clinics are sched-\nuled by location, on Saturdays and\nSundays from November 81\nthrough December Is. The total\nfee for each dog vaccinated and\nlicensed at the clinics will be\n$500. This includes $500 for a\nrabies vaccination good for three\nyears. and $500 for the 1865\ndog license. Clinics are spon-\nsored by the Central Arizona\nVeterinary Medical Association\nand the Maricopa County Health\nDepartment.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1812,
+                    "y0": 386,
+                    "x1": 2666,
+                    "y1": 537
+                },
+                {
+                    "x0": 1835,
+                    "y0": 582,
+                    "x1": 2660,
+                    "y1": 2931
+                }
+            ],
+            "bbox": [
+                1812,
+                386,
+                2666,
+                2931
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-20_pna_sn84021918_0041421695A_1964112001_0637.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "NAACP Protests\nSegregated Fair Units",
+            "article": "TAMPA : The NAACP ha Wig\norously otested the segregated\npolicies of the Florida State Fair\nwhich maintains two separate\ndays for Negro and white youth\nfarm groups.\n\n\nIn a letter to Francis KEEP\npei, u S. Commissioner of Edu-\ncation, NAACP Florida Field Dr.\nrector Robert w. Saunders out\nlined the policy Of the Florida\nState Board of Education which",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 381,
+                    "y0": 2105,
+                    "x1": 1466,
+                    "y1": 2331
+                },
+                {
+                    "x0": 58,
+                    "y0": 2353,
+                    "x1": 867,
+                    "y1": 3069
+                }
+            ],
+            "bbox": [
+                58,
+                2105,
+                1466,
+                3069
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-20_pna_sn84021918_0041421695A_1964112001_0637.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "will have two days at the Fair.\n\n\nThe policy of the Board has\nbeen to use one of these days\nfor the all-white youth group,\nthe Future Farmers of Amer\nica.\"\n\n\nThe NAACP has reque sted\ndiscontinuance of this policy but\nthe Fair has made plans for its\ncontinuance again in 1865 when\nthe Florida Fair opens in Feb\nruary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 952,
+                    "y0": 2353,
+                    "x1": 1772,
+                    "y1": 3052
+                }
+            ],
+            "bbox": [
+                952,
+                2353,
+                1772,
+                3052
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-20_pna_sn84021918_0041421695A_1964112001_0637.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Making miniature hats which will be presented attending\nSorority Hat Breakfast scheduled\nSafar Hotel Scottsdale Saturday, Nov. %, 1890\n\n\nleft Mesdames rma Leos, Hazel Williams,\nDoris Moten, Ozela James and Clendolyn Corbin.\n\n\nMesdames Lois Brooks and M. Alice Marriott",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 75,
+                    "y0": 1718,
+                    "x1": 1749,
+                    "y1": 2089
+                }
+            ],
+            "bbox": [
+                75,
+                1718,
+                1749,
+                2089
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-11-20_pna_sn84021918_0041421695A_1964112001_0637.json"
+        },
+        {
+            "object_ids": [
+                17,
+                21
+            ],
+            "headline": "We make hundreds\nof warm friends\n\n\nevery year at this time!",
+            "article": "NoWS the time to install new heutlng plon'\nor heating and cooling system for your home\nSee YOUR Valley Banker today for low cos\nHOME MPROVEMENT LOAN!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 335,
+                    "y0": 4816,
+                    "x1": 1466,
+                    "y1": 5238
+                },
+                {
+                    "x0": 341,
+                    "y0": 5271,
+                    "x1": 1490,
+                    "y1": 5601
+                }
+            ],
+            "bbox": [
+                335,
+                4816,
+                1490,
+                5601
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-11-20_pna_sn84021918_0041421695A_1964112001_0637.json"
+        }
+    ]
+}

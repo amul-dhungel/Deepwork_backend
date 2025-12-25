@@ -1,0 +1,269 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052201/0409.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7431,
+        "width": 4824
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3776,
+                "y0": 2339,
+                "x1": 4590,
+                "y1": 3461
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Eddie Perkins\nOf Chicago was named Fighter\nof the month\" by Ring Maya\nzine in retaining his world jun\nTor welterweight championship\nlast month against challenger\nBunny Grant of Kingston, Ia\nmaica.\n\n\nIn the Ring ratings. Fora Fol-\nley of Chandler is listed in third\nplace among heavyweight con-\ntenders.\n\n\nEddie Machen of Los Angeles,\nwho is scheduled to fight former\nchampion Floyd Patterson in July\nin Sweden. was moved up to fourth\nin the heavyweight class, Ernest\nTerrell Of Philadelphia was\ndropped to fifth.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3805,
+                "y0": 2060,
+                "x1": 4456,
+                "y1": 2282
+            },
+            "class": "headline",
+            "raw_text": "Foley Listed 3rd\n\n\nIn Ring Magazine",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3787,
+                "y0": 3640,
+                "x1": 4601,
+                "y1": 4082
+            },
+            "class": "article",
+            "raw_text": "ONLY $1,000 TOTAL PRICE NEW\n2 BEDROOM TILED - BATH\nELECTRIC KITCHEN CENTRAL\nHEAT COOLER AND HOT\nWATER TANK INCLUDED\nLIBERAL TERMS o3o-73O2\nAgent 939-l34O",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3857,
+                "y0": 3506,
+                "x1": 4479,
+                "y1": 3612
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 217,
+                "y0": 2612,
+                "x1": 1037,
+                "y1": 2921
+            },
+            "class": "article",
+            "raw_text": "The earliest known instance of\nmeals being served on a train\nwas in January. 1883, when the\nBaltimore & Ohio Railroad ran\ntwo special trains roundtrip be-",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1105,
+                "y0": 2600,
+                "x1": 1919,
+                "y1": 2897
+            },
+            "class": "article",
+            "raw_text": "tween Baltimore and Wheeling,\nWest Va, to mark completion\nof the road to Wheeling. A CATER\ner was engaged to provide food\nand refreshments.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1999,
+                "y0": 3901,
+                "x1": 3678,
+                "y1": 4331
+            },
+            "class": "article",
+            "raw_text": "1t was party time Sunday the home Joyce Jones'\n\n\nRelatives and friends gathered included Jones'\nDavis Margaret Robertson Thomas\nEpperson Mack MITCHELL Dom Digs James Walters\nJones, Samuel Stearns and Howard Pratt.\n\n\nOthers attending Loretta Blanks John Thompson\nbert, Bobby Johnson, Carl Williams and Joyce Jones.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-22"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Foley Listed 3rd\n\n\nIn Ring Magazine",
+            "article": "NEW YORK Eddie Perkins\nOf Chicago was named Fighter\nof the month\" by Ring Maya\nzine in retaining his world jun\nTor welterweight championship\nlast month against challenger\nBunny Grant of Kingston, Ia\nmaica.\n\n\nIn the Ring ratings. Fora Fol-\nley of Chandler is listed in third\nplace among heavyweight con-\ntenders.\n\n\nEddie Machen of Los Angeles,\nwho is scheduled to fight former\nchampion Floyd Patterson in July\nin Sweden. was moved up to fourth\nin the heavyweight class, Ernest\nTerrell Of Philadelphia was\ndropped to fifth.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3805,
+                    "y0": 2060,
+                    "x1": 4456,
+                    "y1": 2282
+                },
+                {
+                    "x0": 3776,
+                    "y0": 2339,
+                    "x1": 4590,
+                    "y1": 3461
+                }
+            ],
+            "bbox": [
+                3776,
+                2060,
+                4590,
+                3461
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-22_p1_sn84021918_0041421695A_1964052201_0409.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "",
+            "article": "ONLY $1,000 TOTAL PRICE NEW\n2 BEDROOM TILED - BATH\nELECTRIC KITCHEN CENTRAL\nHEAT COOLER AND HOT\nWATER TANK INCLUDED\nLIBERAL TERMS o3o-73O2\nAgent 939-l34O",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3857,
+                    "y0": 3506,
+                    "x1": 4479,
+                    "y1": 3612
+                },
+                {
+                    "x0": 3787,
+                    "y0": 3640,
+                    "x1": 4601,
+                    "y1": 4082
+                }
+            ],
+            "bbox": [
+                3787,
+                3506,
+                4601,
+                4082
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-22_p1_sn84021918_0041421695A_1964052201_0409.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "The earliest known instance of\nmeals being served on a train\nwas in January. 1883, when the\nBaltimore & Ohio Railroad ran\ntwo special trains roundtrip be-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 217,
+                    "y0": 2612,
+                    "x1": 1037,
+                    "y1": 2921
+                }
+            ],
+            "bbox": [
+                217,
+                2612,
+                1037,
+                2921
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-05-22_p1_sn84021918_0041421695A_1964052201_0409.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "tween Baltimore and Wheeling,\nWest Va, to mark completion\nof the road to Wheeling. A CATER\ner was engaged to provide food\nand refreshments.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1105,
+                    "y0": 2600,
+                    "x1": 1919,
+                    "y1": 2897
+                }
+            ],
+            "bbox": [
+                1105,
+                2600,
+                1919,
+                2897
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-05-22_p1_sn84021918_0041421695A_1964052201_0409.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "1t was party time Sunday the home Joyce Jones'\n\n\nRelatives and friends gathered included Jones'\nDavis Margaret Robertson Thomas\nEpperson Mack MITCHELL Dom Digs James Walters\nJones, Samuel Stearns and Howard Pratt.\n\n\nOthers attending Loretta Blanks John Thompson\nbert, Bobby Johnson, Carl Williams and Joyce Jones.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1999,
+                    "y0": 3901,
+                    "x1": 3678,
+                    "y1": 4331
+                }
+            ],
+            "bbox": [
+                1999,
+                3901,
+                3678,
+                4331
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-05-22_p1_sn84021918_0041421695A_1964052201_0409.json"
+        }
+    ]
+}

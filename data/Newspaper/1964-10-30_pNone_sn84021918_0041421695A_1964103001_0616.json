@@ -1,0 +1,255 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4888,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0616.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 596,
+                "y0": 3023,
+                "x1": 2838,
+                "y1": 5567
+            },
+            "class": "article",
+            "raw_text": "Hsw Of raised this logical question on oe\nsafely three eo he knows\nsafety\nvoy especially with diesel engines pulling longer\n\n\n\nOf more uin-eoreo collisions\n\n\nhe isl The Brotherhood Of oeom\nOf accidents\nin following May 1864 when reductions were\nsin without full their books\nThe injuries and II deaths\ntherefore described senseess slaughter\nby the Probers\n\n\nnofv the nations major\ncharged Southern Pacific\nwho Arizona voters to\napprove possoee Of Proposition 200 on Nov 3d\n\n\nwill be out SO\nparticularly ementhe crucial third man in\nfreiq eobs\n\n\nwill be able pocket another 1913 million profits\neordbog tou $l5 million net income\nadditional 1913 Million And ger\nthey've roised the fols Issues f Misunderstanding\"\n\n\nActually should be permitted TO Feather their\nfurther prins the soet Of the Arizona motor\npvbEe rally workers.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1337,
+                "y0": 2206,
+                "x1": 2844,
+                "y1": 2891
+            },
+            "class": "headline",
+            "raw_text": ".How can you improve\n\n\npublic sofety If\nYOU reduce creWs?\"",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2108,
+                "y0": 509,
+                "x1": 2948,
+                "y1": 2005
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON. DC. There\nis anurgent need for scholar ships\nin our country today\" said\nJimmy Hill of the St. Louis\nCardinals. a famous defensive\nhalfba OK addressing the Eta Delta\nNJ Sorority in Wa shington. DC.\n\n\nJimmy is asst sting the National\nCouncil of Negro Women in their\nrecently organized cholarship\ndrive.\n\n\nThe National Council of Negro\nWomen. Inc. has pledged to sell\n100000 \"Freedom\" Christmas\nCards by December S, 1864 ina\neffort to raise funds for scholar\nships which will be awarded to\nstudents throughout the United\nStates.\n\n\nAn original drawing of the card\nwas presented to Mrs. Hubert\nH. Humphrey. wife Of the Demo-\ncratic Vice Presidential can\ndidate during a dinner In her\nhonor.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2125,
+                "y0": 295,
+                "x1": 2792,
+                "y1": 493
+            },
+            "class": "headline",
+            "raw_text": "NCNW\nSells Xmas Cards",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1187,
+                "y0": 498,
+                "x1": 2022,
+                "y1": 1095
+            },
+            "class": "article",
+            "raw_text": "department. University of llli-\nnois, reported that the number\nof Negroes enrolled in the ma\nton S medical schools is very\nsmall.\n\n\nSince it's formation in 1916. the\nNational Medical Fellowships\ngroup has aw rded more than\nmillion dollars to assist 43l Ne\ngroes in medical education.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 474,
+                "y0": 324,
+                "x1": 1773,
+                "y1": 470
+            },
+            "class": "headline",
+            "raw_text": "43l Aided BY NMF Group",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 266,
+                "y0": 538,
+                "x1": 1101,
+                "y1": 1095
+            },
+            "class": "article",
+            "raw_text": "CHICAGO A total of Sc Ne\ngro physicians and medical\nstudents from the New York area,\nwho have received National\nMedical Fellowships awards\nwere honored at the 10th NMF\nannual meeting recently.\n\n\nDR.. Erica Oldberg, NMF presi-\ndent, and head of the neurology",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964103001_0616",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                9
+            ],
+            "headline": ".How can you improve\n\n\npublic sofety If\nYOU reduce creWs?\"",
+            "article": "Hsw Of raised this logical question on oe\nsafely three eo he knows\nsafety\nvoy especially with diesel engines pulling longer\n\n\n\nOf more uin-eoreo collisions\n\n\nhe isl The Brotherhood Of oeom\nOf accidents\nin following May 1864 when reductions were\nsin without full their books\nThe injuries and II deaths\ntherefore described senseess slaughter\nby the Probers\n\n\nnofv the nations major\ncharged Southern Pacific\nwho Arizona voters to\napprove possoee Of Proposition 200 on Nov 3d\n\n\nwill be out SO\nparticularly ementhe crucial third man in\nfreiq eobs\n\n\nwill be able pocket another 1913 million profits\neordbog tou $l5 million net income\nadditional 1913 Million And ger\nthey've roised the fols Issues f Misunderstanding\"\n\n\nActually should be permitted TO Feather their\nfurther prins the soet Of the Arizona motor\npvbEe rally workers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1337,
+                    "y0": 2206,
+                    "x1": 2844,
+                    "y1": 2891
+                },
+                {
+                    "x0": 596,
+                    "y0": 3023,
+                    "x1": 2838,
+                    "y1": 5567
+                }
+            ],
+            "bbox": [
+                596,
+                2206,
+                2844,
+                5567
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-30_pna_sn84021918_0041421695A_1964103001_0616.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "NCNW\nSells Xmas Cards",
+            "article": "WASHINGTON. DC. There\nis anurgent need for scholar ships\nin our country today\" said\nJimmy Hill of the St. Louis\nCardinals. a famous defensive\nhalfba OK addressing the Eta Delta\nNJ Sorority in Wa shington. DC.\n\n\nJimmy is asst sting the National\nCouncil of Negro Women in their\nrecently organized cholarship\ndrive.\n\n\nThe National Council of Negro\nWomen. Inc. has pledged to sell\n100000 \"Freedom\" Christmas\nCards by December S, 1864 ina\neffort to raise funds for scholar\nships which will be awarded to\nstudents throughout the United\nStates.\n\n\nAn original drawing of the card\nwas presented to Mrs. Hubert\nH. Humphrey. wife Of the Demo-\ncratic Vice Presidential can\ndidate during a dinner In her\nhonor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2125,
+                    "y0": 295,
+                    "x1": 2792,
+                    "y1": 493
+                },
+                {
+                    "x0": 2108,
+                    "y0": 509,
+                    "x1": 2948,
+                    "y1": 2005
+                }
+            ],
+            "bbox": [
+                2108,
+                295,
+                2948,
+                2005
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-30_pna_sn84021918_0041421695A_1964103001_0616.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "43l Aided BY NMF Group",
+            "article": "department. University of llli-\nnois, reported that the number\nof Negroes enrolled in the ma\nton S medical schools is very\nsmall.\n\n\nSince it's formation in 1916. the\nNational Medical Fellowships\ngroup has aw rded more than\nmillion dollars to assist 43l Ne\ngroes in medical education.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 474,
+                    "y0": 324,
+                    "x1": 1773,
+                    "y1": 470
+                },
+                {
+                    "x0": 1187,
+                    "y0": 498,
+                    "x1": 2022,
+                    "y1": 1095
+                }
+            ],
+            "bbox": [
+                474,
+                324,
+                2022,
+                1095
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-30_pna_sn84021918_0041421695A_1964103001_0616.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "CHICAGO A total of Sc Ne\ngro physicians and medical\nstudents from the New York area,\nwho have received National\nMedical Fellowships awards\nwere honored at the 10th NMF\nannual meeting recently.\n\n\nDR.. Erica Oldberg, NMF presi-\ndent, and head of the neurology",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 266,
+                    "y0": 538,
+                    "x1": 1101,
+                    "y1": 1095
+                }
+            ],
+            "bbox": [
+                266,
+                538,
+                1101,
+                1095
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-30_pna_sn84021918_0041421695A_1964103001_0616.json"
+        }
+    ]
+}

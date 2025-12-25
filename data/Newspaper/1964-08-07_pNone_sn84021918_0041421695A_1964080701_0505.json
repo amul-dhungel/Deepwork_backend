@@ -1,0 +1,626 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-07",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7431,
+        "width": 4887,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-07",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964080701/0505.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1961,
+                "y0": 4162,
+                "x1": 2781,
+                "y1": 5330
+            },
+            "class": "article",
+            "raw_text": "NASHVILLE = (NPD Charles\nc. Washburn. Jr., a 25-uear-old\ngraduate student at Syracuse Uni\nversity, from Memphis, has been\nappointed to the staff of the\nMethodist Television Radio and\nFilm Commission. He will be\nassistant director for the COM\nmission which is located in Nash\nVile.\n\n\nWashburn will work with\nNelson Price, depa rtment direc-\ntor and will train ministers and\nlaymen in the use of radio and\ntelevision. A graduate of Ken\nlucky State College, he produced\na special show in | 1868 for WNBQ-\nTV in connection with the Ameri-\ncan Negro Emancipation Gen.\ntennial Authority in Chicago.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1979,
+                "y0": 3790,
+                "x1": 2705,
+                "y1": 4140
+            },
+            "class": "headline",
+            "raw_text": "Negro Nam ed to\nTeIevision and\nRadio Sfuff",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 167,
+                "y0": 3372,
+                "x1": 993,
+                "y1": 5243
+            },
+            "class": "article",
+            "raw_text": "Charles A. Boyle. 1884 W.\nOregon, has been named ad-\nObservation-Disclosures of the Ari-\niona State Employment Service.\na division of the Employment\nSecurity Commission of Arizona.\n\n\nHe succeeds James A. Rork\nwho died recently.\n\n\nBoyle has been with the en-\nployment service since lo45.\nRecently as chief Of field opera\nlions and deputy director.\n\n\nA native of Pennsylvania, he\nis a graduate of the University\nof Pennsylvania.\n\n\nBoyle's activities as admins\ntrator-director will include his\nappointment to the State APP\npremiership Council, Governors\nCommittee on Employ-theHand-\nicapped, Arizona Development\nBoard, Arizona commission of\nIndian Affairs, and the Inter-\nstate Conference of Employment\nSecurity Administrators.\n\n\nHe also will serve as chair\nman of the Manpower Task\nGroup of the Arizona Emer-\ngency Resources Planning pro-\ngram and as director Of man\npower services for state civil\ndefense.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3732,
+                "y0": 1869,
+                "x1": 4540,
+                "y1": 2880
+            },
+            "class": "article",
+            "raw_text": "New York Atty. Don M. Thomas,\na former Cleveland school\nteacher. has been appointed to the\nlegal staff of American Airlines.\n\n\nThomas has been employed in\nthe American Airlines pers onnel\ndepartment since 1857. He re-\nturned to the firm after COM\npleting his degree in corporate\nlaw at Columbia University in\nNew York.\n\n\nHe is one of the first Negroes\nto have position of this kind in\nthe nation. He is a native of Ober-\nlin, Ohio and he received his\nbachelors degree from Hamilton\nCollege, Clinton, N. Y.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3749,
+                "y0": 1625,
+                "x1": 4453,
+                "y1": 1835
+            },
+            "class": "headline",
+            "raw_text": "Former Teacher Now\nAirIines Legal Stuffer",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1950,
+                "y0": 2409,
+                "x1": 2775,
+                "y1": 3716
+            },
+            "class": "article",
+            "raw_text": "LOUISVILLE (NPD = Spokes-\nmen for champion Cassius Clay\nand ex-heavyweight titlist Sonny\nListon have ignored the refusal\nof the World Boxing Association\nto sanction the rematch and said\nthey would 60 ahead with he\nfight.\n\n\nClay and Liston, signed con-\ntracts for the rematch in diff\nferent cities early last week.\nThe buout will be held between\nSept. Is and Oct. IL. Clay signed\nin Louisville, while Liston signed\nin Philadelphia.\n\n\nCities most pr ominently named\nas likely sites are Louisville,\nKy. and Las Vegas, Nevada. but\nthe chairman of the Las Vegas\nathletic commission said the\ngambling capital doesn't need\nthe fight.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1973,
+                "y0": 2136,
+                "x1": 2612,
+                "y1": 2358
+            },
+            "class": "headline",
+            "raw_text": "CIay-Liston Remuteh\nSet For Fall",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1067,
+                "y0": 2310,
+                "x1": 1892,
+                "y1": 4540
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Christopher\nC. Scott, 81, a post office en-\nploye since 1923. will retire after\nAZ years of service. Postmaster\nGeneral John A. Gronoush an\nnounced.\n\n\nScott has risen to the highest\nrank ever held in the postal SER\nvice by a Negro and will retire\nas a deputy assistant postmaster\ngeneral for transportation and\ninternationa service.\n\n\nA former superintendent Of\noutgoing mail at Los Angeles,\nhe has headed a staff of nearly\n1000 recently.\n\n\nThe postal careerist was born\nin Houston, Texas and educated\nin the elementary schools of\nPhoenix. He attended high school\nin Lawrence, Kansas and studied\nfor two years at the university\nof Southern California before\njoining the post office depart\nment in Los Angeles as sub\nstitute clerk.\n\n\nHe was promoted to his de-\npartmental post in 1861 and he\nis known as one of the few men\nwho knows all about the postal\nlaws and regulations book. He\nbecame a supervisor in 1896 and\nwas promoted in 1912 to postal\nstation superintendent.\n\n\nMr.. Scott said the postal ser\nvice provides a great opportunity\nfor advancement and public\nservice.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1090,
+                "y0": 1979,
+                "x1": 1643,
+                "y1": 2265
+            },
+            "class": "headline",
+            "raw_text": "Highest Rank ing\nNegro in Postal\nDept. to Retire",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3738,
+                "y0": 690,
+                "x1": 4546,
+                "y1": 1533
+            },
+            "class": "article",
+            "raw_text": "j. Michael (Mike) Morris. has\nannounced his campaign will be\nvigor GUS against all other Demo-\ncratic candidates seeking the\nparty nod for the governor s posi-\ntion on the ballot.\n\n\nMorris said his campaign will\ncontain emphasis on tax reforms,\nresource developments. water\nproblems, and lowered utility,\nwater and freight rates.\n\n\nHe said that IA campaign is\nmore than fancy billboards and\nhigh proceed advertising\"",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3767,
+                "y0": 441,
+                "x1": 4290,
+                "y1": 639
+            },
+            "class": "headline",
+            "raw_text": "Morris Vows A\nHot Campaign",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1079,
+                "y0": 4777,
+                "x1": 1887,
+                "y1": 5254
+            },
+            "class": "article",
+            "raw_text": "Mrs. Tommie Jewell has re-\nturned from attending the grand\nsession of the Knights and\nDaughters of Tabor held at Oak\nland, Calf.\n\n\nShe visited her son while there\nand spent some time in San Fran\ncisco and Berkeley.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1096,
+                "y0": 4568,
+                "x1": 1637,
+                "y1": 4755
+            },
+            "class": "headline",
+            "raw_text": "Mrs. Jewell\n\n\nvisits California",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2844,
+                "y0": 2182,
+                "x1": 3657,
+                "y1": 2474
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Joe Ayers have\nreturned from trip to Merlin,\nTexas. Mrs. Ayers drove her\nthree grands ons to Los Angeles\nthe next weekend.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2861,
+                "y0": 2055,
+                "x1": 3466,
+                "y1": 2154
+            },
+            "class": "headline",
+            "raw_text": "Coming and Going",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2855,
+                "y0": 2635,
+                "x1": 3663,
+                "y1": 2932
+            },
+            "class": "article",
+            "raw_text": "A lawn party will be held at the\nhome of Mr.. and Mrs. Thomas\nPratt, 1908 w. Mohave, Saturday,\nAug. 8. 1t is spoons ored by one of\nthe Elks auxiliaries.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2925,
+                "y0": 2507,
+                "x1": 3582,
+                "y1": 2607
+            },
+            "class": "headline",
+            "raw_text": "Party at the Profits",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1938,
+                "y0": 1555,
+                "x1": 3623,
+                "y1": 2032
+            },
+            "class": "article",
+            "raw_text": "Daddy Bear and Katy Cerabbe is Colby Locks\nolder with mechanical interests is the model\n\n\n\nDanny Verduzco Tommy Daley and Trinidad\nZamaripa.\n\n\ndirector Jeanette Smith the voln\nteer for creative dancing\n\n\nRichard Mnyard recreation leader l.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 190,
+                "y0": 1561,
+                "x1": 1887,
+                "y1": 1951
+            },
+            "class": "article",
+            "raw_text": "highgted Coffe Lamoureaux Tues\nGirls modern dance\nrhythmcs Standing Ellen arder seated Vangie Esqv\nSandra Daley. and Susie Hook.\n\n\nthree will DID,\nThomas Little Arnie",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964080701_0505",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "Negro Nam ed to\nTeIevision and\nRadio Sfuff",
+            "article": "NASHVILLE = (NPD Charles\nc. Washburn. Jr., a 25-uear-old\ngraduate student at Syracuse Uni\nversity, from Memphis, has been\nappointed to the staff of the\nMethodist Television Radio and\nFilm Commission. He will be\nassistant director for the COM\nmission which is located in Nash\nVile.\n\n\nWashburn will work with\nNelson Price, depa rtment direc-\ntor and will train ministers and\nlaymen in the use of radio and\ntelevision. A graduate of Ken\nlucky State College, he produced\na special show in | 1868 for WNBQ-\nTV in connection with the Ameri-\ncan Negro Emancipation Gen.\ntennial Authority in Chicago.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1979,
+                    "y0": 3790,
+                    "x1": 2705,
+                    "y1": 4140
+                },
+                {
+                    "x0": 1961,
+                    "y0": 4162,
+                    "x1": 2781,
+                    "y1": 5330
+                }
+            ],
+            "bbox": [
+                1961,
+                3790,
+                2781,
+                5330
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Charles A. Boyle. 1884 W.\nOregon, has been named ad-\nObservation-Disclosures of the Ari-\niona State Employment Service.\na division of the Employment\nSecurity Commission of Arizona.\n\n\nHe succeeds James A. Rork\nwho died recently.\n\n\nBoyle has been with the en-\nployment service since lo45.\nRecently as chief Of field opera\nlions and deputy director.\n\n\nA native of Pennsylvania, he\nis a graduate of the University\nof Pennsylvania.\n\n\nBoyle's activities as admins\ntrator-director will include his\nappointment to the State APP\npremiership Council, Governors\nCommittee on Employ-theHand-\nicapped, Arizona Development\nBoard, Arizona commission of\nIndian Affairs, and the Inter-\nstate Conference of Employment\nSecurity Administrators.\n\n\nHe also will serve as chair\nman of the Manpower Task\nGroup of the Arizona Emer-\ngency Resources Planning pro-\ngram and as director Of man\npower services for state civil\ndefense.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 167,
+                    "y0": 3372,
+                    "x1": 993,
+                    "y1": 5243
+                }
+            ],
+            "bbox": [
+                167,
+                3372,
+                993,
+                5243
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                19,
+                2
+            ],
+            "headline": "Former Teacher Now\nAirIines Legal Stuffer",
+            "article": "New York Atty. Don M. Thomas,\na former Cleveland school\nteacher. has been appointed to the\nlegal staff of American Airlines.\n\n\nThomas has been employed in\nthe American Airlines pers onnel\ndepartment since 1857. He re-\nturned to the firm after COM\npleting his degree in corporate\nlaw at Columbia University in\nNew York.\n\n\nHe is one of the first Negroes\nto have position of this kind in\nthe nation. He is a native of Ober-\nlin, Ohio and he received his\nbachelors degree from Hamilton\nCollege, Clinton, N. Y.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3749,
+                    "y0": 1625,
+                    "x1": 4453,
+                    "y1": 1835
+                },
+                {
+                    "x0": 3732,
+                    "y0": 1869,
+                    "x1": 4540,
+                    "y1": 2880
+                }
+            ],
+            "bbox": [
+                3732,
+                1625,
+                4540,
+                2880
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "CIay-Liston Remuteh\nSet For Fall",
+            "article": "LOUISVILLE (NPD = Spokes-\nmen for champion Cassius Clay\nand ex-heavyweight titlist Sonny\nListon have ignored the refusal\nof the World Boxing Association\nto sanction the rematch and said\nthey would 60 ahead with he\nfight.\n\n\nClay and Liston, signed con-\ntracts for the rematch in diff\nferent cities early last week.\nThe buout will be held between\nSept. Is and Oct. IL. Clay signed\nin Louisville, while Liston signed\nin Philadelphia.\n\n\nCities most pr ominently named\nas likely sites are Louisville,\nKy. and Las Vegas, Nevada. but\nthe chairman of the Las Vegas\nathletic commission said the\ngambling capital doesn't need\nthe fight.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1973,
+                    "y0": 2136,
+                    "x1": 2612,
+                    "y1": 2358
+                },
+                {
+                    "x0": 1950,
+                    "y0": 2409,
+                    "x1": 2775,
+                    "y1": 3716
+                }
+            ],
+            "bbox": [
+                1950,
+                2136,
+                2775,
+                3716
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                20,
+                6
+            ],
+            "headline": "Highest Rank ing\nNegro in Postal\nDept. to Retire",
+            "article": "WASHINGTON Christopher\nC. Scott, 81, a post office en-\nploye since 1923. will retire after\nAZ years of service. Postmaster\nGeneral John A. Gronoush an\nnounced.\n\n\nScott has risen to the highest\nrank ever held in the postal SER\nvice by a Negro and will retire\nas a deputy assistant postmaster\ngeneral for transportation and\ninternationa service.\n\n\nA former superintendent Of\noutgoing mail at Los Angeles,\nhe has headed a staff of nearly\n1000 recently.\n\n\nThe postal careerist was born\nin Houston, Texas and educated\nin the elementary schools of\nPhoenix. He attended high school\nin Lawrence, Kansas and studied\nfor two years at the university\nof Southern California before\njoining the post office depart\nment in Los Angeles as sub\nstitute clerk.\n\n\nHe was promoted to his de-\npartmental post in 1861 and he\nis known as one of the few men\nwho knows all about the postal\nlaws and regulations book. He\nbecame a supervisor in 1896 and\nwas promoted in 1912 to postal\nstation superintendent.\n\n\nMr.. Scott said the postal ser\nvice provides a great opportunity\nfor advancement and public\nservice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1090,
+                    "y0": 1979,
+                    "x1": 1643,
+                    "y1": 2265
+                },
+                {
+                    "x0": 1067,
+                    "y0": 2310,
+                    "x1": 1892,
+                    "y1": 4540
+                }
+            ],
+            "bbox": [
+                1067,
+                1979,
+                1892,
+                4540
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                15,
+                7
+            ],
+            "headline": "Morris Vows A\nHot Campaign",
+            "article": "j. Michael (Mike) Morris. has\nannounced his campaign will be\nvigor GUS against all other Demo-\ncratic candidates seeking the\nparty nod for the governor s posi-\ntion on the ballot.\n\n\nMorris said his campaign will\ncontain emphasis on tax reforms,\nresource developments. water\nproblems, and lowered utility,\nwater and freight rates.\n\n\nHe said that IA campaign is\nmore than fancy billboards and\nhigh proceed advertising\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3767,
+                    "y0": 441,
+                    "x1": 4290,
+                    "y1": 639
+                },
+                {
+                    "x0": 3738,
+                    "y0": 690,
+                    "x1": 4546,
+                    "y1": 1533
+                }
+            ],
+            "bbox": [
+                3738,
+                441,
+                4546,
+                1533
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                17,
+                8
+            ],
+            "headline": "Mrs. Jewell\n\n\nvisits California",
+            "article": "Mrs. Tommie Jewell has re-\nturned from attending the grand\nsession of the Knights and\nDaughters of Tabor held at Oak\nland, Calf.\n\n\nShe visited her son while there\nand spent some time in San Fran\ncisco and Berkeley.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1096,
+                    "y0": 4568,
+                    "x1": 1637,
+                    "y1": 4755
+                },
+                {
+                    "x0": 1079,
+                    "y0": 4777,
+                    "x1": 1887,
+                    "y1": 5254
+                }
+            ],
+            "bbox": [
+                1079,
+                4568,
+                1887,
+                5254
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                24,
+                10
+            ],
+            "headline": "Coming and Going",
+            "article": "Mr.. and Mrs. Joe Ayers have\nreturned from trip to Merlin,\nTexas. Mrs. Ayers drove her\nthree grands ons to Los Angeles\nthe next weekend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2861,
+                    "y0": 2055,
+                    "x1": 3466,
+                    "y1": 2154
+                },
+                {
+                    "x0": 2844,
+                    "y0": 2182,
+                    "x1": 3657,
+                    "y1": 2474
+                }
+            ],
+            "bbox": [
+                2844,
+                2055,
+                3657,
+                2474
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                23,
+                13
+            ],
+            "headline": "Party at the Profits",
+            "article": "A lawn party will be held at the\nhome of Mr.. and Mrs. Thomas\nPratt, 1908 w. Mohave, Saturday,\nAug. 8. 1t is spoons ored by one of\nthe Elks auxiliaries.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2925,
+                    "y0": 2507,
+                    "x1": 3582,
+                    "y1": 2607
+                },
+                {
+                    "x0": 2855,
+                    "y0": 2635,
+                    "x1": 3663,
+                    "y1": 2932
+                }
+            ],
+            "bbox": [
+                2855,
+                2507,
+                3663,
+                2932
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Daddy Bear and Katy Cerabbe is Colby Locks\nolder with mechanical interests is the model\n\n\n\nDanny Verduzco Tommy Daley and Trinidad\nZamaripa.\n\n\ndirector Jeanette Smith the voln\nteer for creative dancing\n\n\nRichard Mnyard recreation leader l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1938,
+                    "y0": 1555,
+                    "x1": 3623,
+                    "y1": 2032
+                }
+            ],
+            "bbox": [
+                1938,
+                1555,
+                3623,
+                2032
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "highgted Coffe Lamoureaux Tues\nGirls modern dance\nrhythmcs Standing Ellen arder seated Vangie Esqv\nSandra Daley. and Susie Hook.\n\n\nthree will DID,\nThomas Little Arnie",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 190,
+                    "y0": 1561,
+                    "x1": 1887,
+                    "y1": 1951
+                }
+            ],
+            "bbox": [
+                190,
+                1561,
+                1887,
+                1951
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-08-07_pna_sn84021918_0041421695A_1964080701_0505.json"
+        }
+    ]
+}

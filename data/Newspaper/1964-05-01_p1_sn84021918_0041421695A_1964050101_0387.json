@@ -1,0 +1,446 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050101/0387.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4835
+    },
+    "bboxes": [
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3737,
+                "y0": 2633,
+                "x1": 4542,
+                "y1": 3850
+            },
+            "class": "article",
+            "raw_text": "The second half of 1868 prop\nerty taxes become delinquent\nafter SPIN. May 4. County Treas\nurer John Foote warned. If\ntaxes are not paid by then, a ten\npercent interest penalty be levied\non the unpaid balance.\n\n\nPayment should be brought to\nthe Treasurer's Office, 1925 w.\nDurango, by S PM, or mailed no\nlater than IL pm. May 4 at the\nPhoenix main post office. Pay\nments bearing a postmark later\nthan May 4 \"p.m.\" will be de-\nclared delinquent. Mailing ad-\ndress is County Treasurer, P.O.\nBox 64l0, Phoenix, 85OO5. I\n\n\nReceipts from payment first\nhalf taxes including the attached\nstub should be returned with the\nsecond half PAYMENT.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3743,
+                "y0": 2419,
+                "x1": 4218,
+                "y1": 2605
+            },
+            "class": "headline",
+            "raw_text": "TAXES DUE\nON MAY 4th",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2845,
+                "y0": 2772,
+                "x1": 3674,
+                "y1": 4255
+            },
+            "class": "article",
+            "raw_text": "The Maricopa County Council\nfor Retarded Children will spon-\nsor an Interdenominational Va\ncation Bible School for Retarded\nChildren. 1t will be held at the\nFirst Methodist Church, Central\nat Missouri, June 8 through July\n8, Monday through Friday, from\n$50 to $3.50 pm. The theme,\nGoods World is aimed toward\ngiving these youth greater ap-\nprobation ofG od' love andGod's\nworld.\n\n\nRetarded children from the\nages of 6 through l6 are invited\nto participate in the program\nwhich will include crafts, relig-\nious music, Bible stories, re-\nfreshments and games.\n\n\nFor further information on this\nprogram or for registration\nforms, write or telephone the\nMaricopa County Council for Re-\ntarded Children, $50 w. Indian\nSchool Road, .277-7605.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2863,
+                "y0": 2535,
+                "x1": 3610,
+                "y1": 2738
+            },
+            "class": "headline",
+            "raw_text": "Retarded Children\nTo Have Bible School",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1086,
+                "y0": 2280,
+                "x1": 1903,
+                "y1": 2576
+            },
+            "class": "article",
+            "raw_text": "assisted by Evangelist Annie P.\nCarroll.\n\n\nHerman Hayes. blind gospel\nsinger and pianist, provides mu-\nsic.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 553,
+                "y0": 2153,
+                "x1": 1584,
+                "y1": 2264
+            },
+            "class": "headline",
+            "raw_text": "Revival Services Hell",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1954,
+                "y0": 405,
+                "x1": 2788,
+                "y1": 5308
+            },
+            "class": "article",
+            "raw_text": "\nM. Young, Jr.. executive direc-\ntor of the National Urban League\ncalled upon federal, state and\nlocal governmental groups to\nchannel their efforts in the war\nagainst poverty through the inter-\nracial League affiliates in IS\ncities across the nation. He dis\nclosed that League branches are\nin the process of being organized\nin ii additional cities and an\nnounced the establishment of reg\nional offices to serve the East,\nmideast and midwest.\n\n\n\"The Urban League has the\nexisting machinery to do the\njob\" he told press conference\nhere. We are going to zero in\non the problems Of training and\nretraining. dropouts. strengthen\nIng family life, motivation for\ngood citizenship. unemployment,\nilliteracy, and despair\" Young\nsaid. \"To delay this program is\nto invite chaos and unrest\n\n\nThe Urban League director\npainted a grim picture Of the\nproblems which confront Negroes\nand urged white Americans to\nreject the appeal of racists and\ndemagogues like Gov. George C.\nWallace. Young said.\n\n\nOf 100000 out-of-school and\nout-of-work young persons be-\ntween 10 and 81 years Of age,\nhalf are Negro.\n\n\nOf every four Negro workers,\none is unemployed.\n\n\nOf every four Negro families.\nthree have incomes of less than\n$4,000 and 90 percent have less\nthan $1,000.\n\n\nHe said that the new League\nregional offices would help speed\nthe formation of local branches\nin cities threatened by racial\ndiscord. \"While the Urban\nLeague applauds the dramatic\ntechniques which other civil\nrights agencies have used to call\nattention to the. plight Of Negroes.\nwe intend - with their approval\nand consent to go forward in\nal all-out effort to wipe out the\nconditions which feed the dis\ncontent of the demonstrators\"\n\n\nThe National Urban League will\nestablish on May headquarters\nin New York City to serve the\nNew England and Middle Atlantic\nStates: a headquarters in Akron,\no.. to serve a four-state mid\neast area: and headquarters in\nSt. Louis, to serve the midwest.\nRegional offices in Atlanta and\nLos Angeles will be strengthened.\n\n\nBranches Of the National Ur-\nban League are in various stages\nOf organization in l. cities and\ngroups in a score Of other cities\nhave indicated their interest in\nthe League 8 work Of creating new\nopportunities for Negroes. Or\nganizational efforts, he said, are\ngoing forward in Syracuse and\nRochester. in New York: Lans-\ning and Battle Greek. in Michi-\ngan: Peoria and Lake Bluff. in\nIllinois: Hartford, Conn.,: Erie,\nPa: Colorado Springs, Colo.:\nindianapolis. Ind: and Green's\nboro, NC.\n\n\nkkkkkkkkkkkkkkkkkkxkkkk%\n",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1994,
+                "y0": 196,
+                "x1": 2713,
+                "y1": 354
+            },
+            "class": "headline",
+            "raw_text": "I'll HEAD SUPPORTS\nPOVERTY PLANS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 200,
+                "y0": 2280,
+                "x1": 1006,
+                "y1": 2582
+            },
+            "class": "article",
+            "raw_text": "Revival services are being\nconducted nightly at Emmanuel\nChurch of God, l545 w. Buckeye\nRd.\n\n\nElder FELTON, King, pastor, is",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2874,
+                "y0": 1614,
+                "x1": 4548,
+                "y1": 2408
+            },
+            "class": "article",
+            "raw_text": "Boosters Club has been organized Easake Park promote\ncommunity park\nAdult we'll youth and sched\nule for the busy ahead.\n\n\nBooster Club meetings will be held each Thursday $40 pm.\nSquare dancing smnasics cooking and crafts will be taught\nAny adult interested should attend.\n\n\nClarence Jackson park director from eight\neighty the city parks and this\nEastlake Boosters include George Whitfield Shirley\nJohnson A. Walton. E. Wilson and Beatrice Jackson.\n\n\nOthers Messrs John Weber, H. Boyer Jackson\nLance.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 200,
+                "y0": 1695,
+                "x1": 1880,
+                "y1": 2125
+            },
+            "class": "article",
+            "raw_text": "His Imperial ghness Nerd Azatch Asia Wossen Crown Prince\nEthiopia welcomed by Greek Royal Guards Evzones\nhis arrival the Athens Ethiopian Arlines scheduled\nflight attend the funeral King Paul Greece The Eo\nPrince Her Royal Hghness Princess Irene Of\nGreece, who stands at his left.\n\n\nPrince Nerd is the of Emperor Halle Selassie.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3725,
+                "y0": 3976,
+                "x1": 4537,
+                "y1": 4272
+            },
+            "class": "article",
+            "raw_text": "Grady Hughes, real estate\nsalesman, has resigned from\nWebb, Williams and Berry. Inc.\nreal estate brokers and insurance\nagency. 2Ol7 E. Broadway Rd.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3731,
+                "y0": 3872,
+                "x1": 4322,
+                "y1": 3960
+            },
+            "class": "headline",
+            "raw_text": "HUGHES RESIGNS",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-05-01"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "TAXES DUE\nON MAY 4th",
+            "article": "The second half of 1868 prop\nerty taxes become delinquent\nafter SPIN. May 4. County Treas\nurer John Foote warned. If\ntaxes are not paid by then, a ten\npercent interest penalty be levied\non the unpaid balance.\n\n\nPayment should be brought to\nthe Treasurer's Office, 1925 w.\nDurango, by S PM, or mailed no\nlater than IL pm. May 4 at the\nPhoenix main post office. Pay\nments bearing a postmark later\nthan May 4 \"p.m.\" will be de-\nclared delinquent. Mailing ad-\ndress is County Treasurer, P.O.\nBox 64l0, Phoenix, 85OO5. I\n\n\nReceipts from payment first\nhalf taxes including the attached\nstub should be returned with the\nsecond half PAYMENT.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3743,
+                    "y0": 2419,
+                    "x1": 4218,
+                    "y1": 2605
+                },
+                {
+                    "x0": 3737,
+                    "y0": 2633,
+                    "x1": 4542,
+                    "y1": 3850
+                }
+            ],
+            "bbox": [
+                3737,
+                2419,
+                4542,
+                3850
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "Retarded Children\nTo Have Bible School",
+            "article": "The Maricopa County Council\nfor Retarded Children will spon-\nsor an Interdenominational Va\ncation Bible School for Retarded\nChildren. 1t will be held at the\nFirst Methodist Church, Central\nat Missouri, June 8 through July\n8, Monday through Friday, from\n$50 to $3.50 pm. The theme,\nGoods World is aimed toward\ngiving these youth greater ap-\nprobation ofG od' love andGod's\nworld.\n\n\nRetarded children from the\nages of 6 through l6 are invited\nto participate in the program\nwhich will include crafts, relig-\nious music, Bible stories, re-\nfreshments and games.\n\n\nFor further information on this\nprogram or for registration\nforms, write or telephone the\nMaricopa County Council for Re-\ntarded Children, $50 w. Indian\nSchool Road, .277-7605.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2863,
+                    "y0": 2535,
+                    "x1": 3610,
+                    "y1": 2738
+                },
+                {
+                    "x0": 2845,
+                    "y0": 2772,
+                    "x1": 3674,
+                    "y1": 4255
+                }
+            ],
+            "bbox": [
+                2845,
+                2535,
+                3674,
+                4255
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        },
+        {
+            "object_ids": [
+                20,
+                7
+            ],
+            "headline": "Revival Services Hell",
+            "article": "assisted by Evangelist Annie P.\nCarroll.\n\n\nHerman Hayes. blind gospel\nsinger and pianist, provides mu-\nsic.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 553,
+                    "y0": 2153,
+                    "x1": 1584,
+                    "y1": 2264
+                },
+                {
+                    "x0": 1086,
+                    "y0": 2280,
+                    "x1": 1903,
+                    "y1": 2576
+                }
+            ],
+            "bbox": [
+                553,
+                2153,
+                1903,
+                2576
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        },
+        {
+            "object_ids": [
+                9,
+                8
+            ],
+            "headline": "I'll HEAD SUPPORTS\nPOVERTY PLANS",
+            "article": "\nM. Young, Jr.. executive direc-\ntor of the National Urban League\ncalled upon federal, state and\nlocal governmental groups to\nchannel their efforts in the war\nagainst poverty through the inter-\nracial League affiliates in IS\ncities across the nation. He dis\nclosed that League branches are\nin the process of being organized\nin ii additional cities and an\nnounced the establishment of reg\nional offices to serve the East,\nmideast and midwest.\n\n\n\"The Urban League has the\nexisting machinery to do the\njob\" he told press conference\nhere. We are going to zero in\non the problems Of training and\nretraining. dropouts. strengthen\nIng family life, motivation for\ngood citizenship. unemployment,\nilliteracy, and despair\" Young\nsaid. \"To delay this program is\nto invite chaos and unrest\n\n\nThe Urban League director\npainted a grim picture Of the\nproblems which confront Negroes\nand urged white Americans to\nreject the appeal of racists and\ndemagogues like Gov. George C.\nWallace. Young said.\n\n\nOf 100000 out-of-school and\nout-of-work young persons be-\ntween 10 and 81 years Of age,\nhalf are Negro.\n\n\nOf every four Negro workers,\none is unemployed.\n\n\nOf every four Negro families.\nthree have incomes of less than\n$4,000 and 90 percent have less\nthan $1,000.\n\n\nHe said that the new League\nregional offices would help speed\nthe formation of local branches\nin cities threatened by racial\ndiscord. \"While the Urban\nLeague applauds the dramatic\ntechniques which other civil\nrights agencies have used to call\nattention to the. plight Of Negroes.\nwe intend - with their approval\nand consent to go forward in\nal all-out effort to wipe out the\nconditions which feed the dis\ncontent of the demonstrators\"\n\n\nThe National Urban League will\nestablish on May headquarters\nin New York City to serve the\nNew England and Middle Atlantic\nStates: a headquarters in Akron,\no.. to serve a four-state mid\neast area: and headquarters in\nSt. Louis, to serve the midwest.\nRegional offices in Atlanta and\nLos Angeles will be strengthened.\n\n\nBranches Of the National Ur-\nban League are in various stages\nOf organization in l. cities and\ngroups in a score Of other cities\nhave indicated their interest in\nthe League 8 work Of creating new\nopportunities for Negroes. Or\nganizational efforts, he said, are\ngoing forward in Syracuse and\nRochester. in New York: Lans-\ning and Battle Greek. in Michi-\ngan: Peoria and Lake Bluff. in\nIllinois: Hartford, Conn.,: Erie,\nPa: Colorado Springs, Colo.:\nindianapolis. Ind: and Green's\nboro, NC.\n\n\nkkkkkkkkkkkkkkkkkkxkkkk%\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1994,
+                    "y0": 196,
+                    "x1": 2713,
+                    "y1": 354
+                },
+                {
+                    "x0": 1954,
+                    "y0": 405,
+                    "x1": 2788,
+                    "y1": 5308
+                }
+            ],
+            "bbox": [
+                1954,
+                196,
+                2788,
+                5308
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Revival services are being\nconducted nightly at Emmanuel\nChurch of God, l545 w. Buckeye\nRd.\n\n\nElder FELTON, King, pastor, is",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 200,
+                    "y0": 2280,
+                    "x1": 1006,
+                    "y1": 2582
+                }
+            ],
+            "bbox": [
+                200,
+                2280,
+                1006,
+                2582
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Boosters Club has been organized Easake Park promote\ncommunity park\nAdult we'll youth and sched\nule for the busy ahead.\n\n\nBooster Club meetings will be held each Thursday $40 pm.\nSquare dancing smnasics cooking and crafts will be taught\nAny adult interested should attend.\n\n\nClarence Jackson park director from eight\neighty the city parks and this\nEastlake Boosters include George Whitfield Shirley\nJohnson A. Walton. E. Wilson and Beatrice Jackson.\n\n\nOthers Messrs John Weber, H. Boyer Jackson\nLance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2874,
+                    "y0": 1614,
+                    "x1": 4548,
+                    "y1": 2408
+                }
+            ],
+            "bbox": [
+                2874,
+                1614,
+                4548,
+                2408
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "His Imperial ghness Nerd Azatch Asia Wossen Crown Prince\nEthiopia welcomed by Greek Royal Guards Evzones\nhis arrival the Athens Ethiopian Arlines scheduled\nflight attend the funeral King Paul Greece The Eo\nPrince Her Royal Hghness Princess Irene Of\nGreece, who stands at his left.\n\n\nPrince Nerd is the of Emperor Halle Selassie.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 200,
+                    "y0": 1695,
+                    "x1": 1880,
+                    "y1": 2125
+                }
+            ],
+            "bbox": [
+                200,
+                1695,
+                1880,
+                2125
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        },
+        {
+            "object_ids": [
+                21,
+                19
+            ],
+            "headline": "HUGHES RESIGNS",
+            "article": "Grady Hughes, real estate\nsalesman, has resigned from\nWebb, Williams and Berry. Inc.\nreal estate brokers and insurance\nagency. 2Ol7 E. Broadway Rd.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3731,
+                    "y0": 3872,
+                    "x1": 4322,
+                    "y1": 3960
+                },
+                {
+                    "x0": 3725,
+                    "y0": 3976,
+                    "x1": 4537,
+                    "y1": 4272
+                }
+            ],
+            "bbox": [
+                3725,
+                3872,
+                4537,
+                4272
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-05-01_p1_sn84021918_0041421695A_1964050101_0387.json"
+        }
+    ]
+}

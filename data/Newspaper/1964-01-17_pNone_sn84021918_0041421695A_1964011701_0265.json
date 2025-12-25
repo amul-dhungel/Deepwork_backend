@@ -1,0 +1,445 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7496,
+        "width": 4983,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011701/0265.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2901,
+                "y0": 2828,
+                "x1": 4594,
+                "y1": 4522
+            },
+            "class": "article",
+            "raw_text": "James errck born in Clinton North Carolina September\nI of the important Of his time\nDuring early life Merrick was orck ldsoh' ae ~\n\n\ned e barbers trade barber went to work IN\nDurham Carolina he people VINO gave MIN IDEAS\nfor different kind of business Among the people lie met was\n\n\nDuke the great millionaire Of that state Duke en-\ncouraged him greatly In his hopes.\n\n\nlanes S. Merrck BARRIERS business great success\nand from enough money his dreamed\ncompany Durhamin 1877 he mao WIN nm\nin this undertaking faithful coworkers Dr. A. M More ana Mr.\nL A. Avery company started si-one years ago IS now\nknown as the Mutual Life Insurance Company\nIn 1900 it was called the Carolina Mutual and Provident\nAssociation company OF the most successu\nbusinesses controlled by Negroes Many thousands Of Negroes\nfound help saving money ana way OF Protec\nand their families The Negroes OF ne country\nare very proud started by on Nerr\n\n\nwork he did in the insurance errlck\nMechanics and Farmers BANK ana treasurer\nof fraterna group He also president OF the Lincoln 1opal\nNegroes and active member OF the ST. Joseph AM6'\nthings that ne did much TO\nage business social educational and religious progress \"\nNegroes. shines like light guide the steps OF many\nyoung people to better things",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2901,
+                "y0": 2606,
+                "x1": 3739,
+                "y1": 2741
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 189,
+                "y0": 2869,
+                "x1": 1016,
+                "y1": 3426
+            },
+            "class": "article",
+            "raw_text": "The Percy L. Julian Careers\nClub was represented at the Sec\nond students concerts sponsored\nby the Arizona State Music\nTeachers Assn, Central Dis\ntrict and Phoenix College, at PC,\non Jan. IL.\n\n\nMembers attending we're Augie\nSerpa, Mary Ellen Serpa. Deb",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2005,
+                "y0": 2811,
+                "x1": 2838,
+                "y1": 3350
+            },
+            "class": "article",
+            "raw_text": "Clerk |, $236-3O0 per month; 40\nhours weekly; age limits 17-55,\nor 90 for veterans with honorable\ndischarge from wartime service.\nHigh school graduation neces-\nsary. Applications accepted\nthrough Jan. d.\n\n\nApply at Municipal Bldg, Isl\nw. Washington.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1999,
+                "y0": 2629,
+                "x1": 2750,
+                "y1": 2794
+            },
+            "class": "headline",
+            "raw_text": "JOB OPPORTUNITIES\nCITY OF PHOENIX",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3768,
+                "y0": 4626,
+                "x1": 4606,
+                "y1": 4967
+            },
+            "class": "article",
+            "raw_text": "After sprinkling laundered\nclothes, store them in any large,\nclean container with a snug lid.\nResting\" for several hours or\novernight will make them evenly\ndamp and ready for ironing.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2907,
+                "y0": 4626,
+                "x1": 3716,
+                "y1": 4984
+            },
+            "class": "article",
+            "raw_text": "Largest flying creature ever\non the earth was the extinct wing\ned lizard, Pteranodon, which had\nan overall wingspan of 27 feet\nthough it probably weighed only\nabout Is pounds.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3750,
+                "y0": 1991,
+                "x1": 4589,
+                "y1": 2443
+            },
+            "class": "article",
+            "raw_text": "Dust tends to gather on kitchen\nshelves even in the best-run\nhouseholds. That's why it is neces-\nsary to wash seldom-used china\nand glassware in plenty Of hot\nsoap or detergent suds before\neach use. Nobody wants Sunday\ndinner seasoned with dust!",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1103,
+                "y0": 2857,
+                "x1": 1924,
+                "y1": 3344
+            },
+            "class": "article",
+            "raw_text": "orah Hardeman and Wayne War\nrem.\n\n\nRobert Brooks, guest, also\nattended.\n\n\nMrs. Margaret Cox, Roosevelt\nDistrict supervis or and Mr.. jim\nmic Brooks, club sponsor, chap\neroned the students.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 740,
+                "y0": 2682,
+                "x1": 1426,
+                "y1": 2841
+            },
+            "class": "headline",
+            "raw_text": "JULIAN CAREER\nCLUB HIGHLIGHTS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 207,
+                "y0": 1955,
+                "x1": 1906,
+                "y1": 2642
+            },
+            "class": "article",
+            "raw_text": "The third board meeting OF the franc\nChapter the Eastern STAR Arizona M\nAfiation Sunday JAM 9th Plans Tor the annual saio e\nwere discussed The session will be May o.\n\n\nGrand worthy Laura W. Franklin OF Bsbee\n\n\nOthers attending Jones GP; Beulah Sanders GP James\nRobertson GAM of Tucson; Pearl Ray Smith Mary jones' Po\"\nHazel S. Farmer PW Joanna Brown SCI Carrie Massngae\ncAcM Blanche Christopher Opheia Tapp CT Edna Bell GCH\nan CREIGHTON Irene Eppnger PRD: Ruth Franklin GIC: Cae\nCranberry Vrnea Bobo Elvira Swndal Jean Glynn Hattie NJ",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1982,
+                "y0": 1914,
+                "x1": 3704,
+                "y1": 2554
+            },
+            "class": "article",
+            "raw_text": "Scott Alberta Robertson Elizabeth Barnes Zenooa Ne Ceo\nHons and Virginia Rose Curry VIM . .\n\n\nThe third annual board of the Most Worship\nFIJI Prince Hall rand Lodge FANAM with the Sovereign Chapter\nOES ,. -,\n\n\nAttending we're Gray DGM c. Boyer MWGM Edward\nThomas PCM; James James Christopher P wallace\nFerre CT: Taylor Walter Rsby R. Jones Lawrence\nMinor CLYDE ckey Charles Connor Bur-\nton L. NJ Kelly and Robert Sublett",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964011701_0265",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                0
+            ],
+            "headline": "NEGRO HISTORY NOTES",
+            "article": "James errck born in Clinton North Carolina September\nI of the important Of his time\nDuring early life Merrick was orck ldsoh' ae ~\n\n\ned e barbers trade barber went to work IN\nDurham Carolina he people VINO gave MIN IDEAS\nfor different kind of business Among the people lie met was\n\n\nDuke the great millionaire Of that state Duke en-\ncouraged him greatly In his hopes.\n\n\nlanes S. Merrck BARRIERS business great success\nand from enough money his dreamed\ncompany Durhamin 1877 he mao WIN nm\nin this undertaking faithful coworkers Dr. A. M More ana Mr.\nL A. Avery company started si-one years ago IS now\nknown as the Mutual Life Insurance Company\nIn 1900 it was called the Carolina Mutual and Provident\nAssociation company OF the most successu\nbusinesses controlled by Negroes Many thousands Of Negroes\nfound help saving money ana way OF Protec\nand their families The Negroes OF ne country\nare very proud started by on Nerr\n\n\nwork he did in the insurance errlck\nMechanics and Farmers BANK ana treasurer\nof fraterna group He also president OF the Lincoln 1opal\nNegroes and active member OF the ST. Joseph AM6'\nthings that ne did much TO\nage business social educational and religious progress \"\nNegroes. shines like light guide the steps OF many\nyoung people to better things",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2901,
+                    "y0": 2606,
+                    "x1": 3739,
+                    "y1": 2741
+                },
+                {
+                    "x0": 2901,
+                    "y0": 2828,
+                    "x1": 4594,
+                    "y1": 4522
+                }
+            ],
+            "bbox": [
+                2901,
+                2606,
+                4594,
+                4522
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "The Percy L. Julian Careers\nClub was represented at the Sec\nond students concerts sponsored\nby the Arizona State Music\nTeachers Assn, Central Dis\ntrict and Phoenix College, at PC,\non Jan. IL.\n\n\nMembers attending we're Augie\nSerpa, Mary Ellen Serpa. Deb",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 189,
+                    "y0": 2869,
+                    "x1": 1016,
+                    "y1": 3426
+                }
+            ],
+            "bbox": [
+                189,
+                2869,
+                1016,
+                3426
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "JOB OPPORTUNITIES\nCITY OF PHOENIX",
+            "article": "Clerk |, $236-3O0 per month; 40\nhours weekly; age limits 17-55,\nor 90 for veterans with honorable\ndischarge from wartime service.\nHigh school graduation neces-\nsary. Applications accepted\nthrough Jan. d.\n\n\nApply at Municipal Bldg, Isl\nw. Washington.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1999,
+                    "y0": 2629,
+                    "x1": 2750,
+                    "y1": 2794
+                },
+                {
+                    "x0": 2005,
+                    "y0": 2811,
+                    "x1": 2838,
+                    "y1": 3350
+                }
+            ],
+            "bbox": [
+                1999,
+                2629,
+                2838,
+                3350
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "After sprinkling laundered\nclothes, store them in any large,\nclean container with a snug lid.\nResting\" for several hours or\novernight will make them evenly\ndamp and ready for ironing.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3768,
+                    "y0": 4626,
+                    "x1": 4606,
+                    "y1": 4967
+                }
+            ],
+            "bbox": [
+                3768,
+                4626,
+                4606,
+                4967
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Largest flying creature ever\non the earth was the extinct wing\ned lizard, Pteranodon, which had\nan overall wingspan of 27 feet\nthough it probably weighed only\nabout Is pounds.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2907,
+                    "y0": 4626,
+                    "x1": 3716,
+                    "y1": 4984
+                }
+            ],
+            "bbox": [
+                2907,
+                4626,
+                3716,
+                4984
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Dust tends to gather on kitchen\nshelves even in the best-run\nhouseholds. That's why it is neces-\nsary to wash seldom-used china\nand glassware in plenty Of hot\nsoap or detergent suds before\neach use. Nobody wants Sunday\ndinner seasoned with dust!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3750,
+                    "y0": 1991,
+                    "x1": 4589,
+                    "y1": 2443
+                }
+            ],
+            "bbox": [
+                3750,
+                1991,
+                4589,
+                2443
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                11,
+                8
+            ],
+            "headline": "JULIAN CAREER\nCLUB HIGHLIGHTS",
+            "article": "orah Hardeman and Wayne War\nrem.\n\n\nRobert Brooks, guest, also\nattended.\n\n\nMrs. Margaret Cox, Roosevelt\nDistrict supervis or and Mr.. jim\nmic Brooks, club sponsor, chap\neroned the students.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 740,
+                    "y0": 2682,
+                    "x1": 1426,
+                    "y1": 2841
+                },
+                {
+                    "x0": 1103,
+                    "y0": 2857,
+                    "x1": 1924,
+                    "y1": 3344
+                }
+            ],
+            "bbox": [
+                740,
+                2682,
+                1924,
+                3344
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "The third board meeting OF the franc\nChapter the Eastern STAR Arizona M\nAfiation Sunday JAM 9th Plans Tor the annual saio e\nwere discussed The session will be May o.\n\n\nGrand worthy Laura W. Franklin OF Bsbee\n\n\nOthers attending Jones GP; Beulah Sanders GP James\nRobertson GAM of Tucson; Pearl Ray Smith Mary jones' Po\"\nHazel S. Farmer PW Joanna Brown SCI Carrie Massngae\ncAcM Blanche Christopher Opheia Tapp CT Edna Bell GCH\nan CREIGHTON Irene Eppnger PRD: Ruth Franklin GIC: Cae\nCranberry Vrnea Bobo Elvira Swndal Jean Glynn Hattie NJ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 207,
+                    "y0": 1955,
+                    "x1": 1906,
+                    "y1": 2642
+                }
+            ],
+            "bbox": [
+                207,
+                1955,
+                1906,
+                2642
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Scott Alberta Robertson Elizabeth Barnes Zenooa Ne Ceo\nHons and Virginia Rose Curry VIM . .\n\n\nThe third annual board of the Most Worship\nFIJI Prince Hall rand Lodge FANAM with the Sovereign Chapter\nOES ,. -,\n\n\nAttending we're Gray DGM c. Boyer MWGM Edward\nThomas PCM; James James Christopher P wallace\nFerre CT: Taylor Walter Rsby R. Jones Lawrence\nMinor CLYDE ckey Charles Connor Bur-\nton L. NJ Kelly and Robert Sublett",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1982,
+                    "y0": 1914,
+                    "x1": 3704,
+                    "y1": 2554
+                }
+            ],
+            "bbox": [
+                1982,
+                1914,
+                3704,
+                2554
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-01-17_pna_sn84021918_0041421695A_1964011701_0265.json"
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964070301/0456.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 376,
+                "y0": 3394,
+                "x1": 2072,
+                "y1": 5304
+            },
+            "class": "article",
+            "raw_text": "north and south represented\nthe oath annual National Newspaper Publishers Association which\nin Millbrae, California. outside of San Francisco\n\n\nTop rgEnjoyng the first nights reception which was held\nThunderbrd Hotel from left Mesdames\nFrank MITCHELL publisher of ST. Louis Argus c. Summer Sone\nThe Chicago Defender Miss Judy Borman adver\nUsing staff member of the Sun-Reporer.\n\n\nTop Cooet publisher Of The San Fran\ncharman Mrs. Edward Banks\npublisher Of The Arizona Tribune and E. Washington\nRhodes NPA president publisher of The Philadelphia Tribune\n\n\nMiddle rgpausing between political dbts from left E.\nWashington Rhodes NNPA PRESIDENT Atty Grant Reynolds legal\nchairman Of the National Republican Party committee\nand Edward Banks pubisher-edtor of The Arizona Tribune\n\n\nBottom Joyce Finney convention registrar OF San\nFrancisco Mrs. Alice nngn member Of the Presidents Com\n\n\nEqual Employment Opportunity Charles Bynum member\nthe committee the March Of Dimes, and Mrs. nez\ncoumn and fashion editor author Of Fashonwse and\nOtherwise, of Kansas City.\n\n\nBottom eDk Gregory famous comedian and civil rights worker\nJohn oath NNPA\nvention\n\n\nJulius Carter publisher The Forward Times. Of Houston\nTexas, presented it.\n\n\nleft Thomas Fleming city editor Sun Reporter San\nFrancisco Carlton B. Goolet Nd publisher Sun Reporter\nGregory oe managing editor The Louisiana Weekly\nCarter; and Garth Reeves. r managing editor Miami Times\nMiami, Fla.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2158,
+                "y0": 3754,
+                "x1": 2983,
+                "y1": 5339
+            },
+            "class": "article",
+            "raw_text": "NEW YORK--Eartha Kit is\nappearing in the Persian Room\nOf the Plaza Hotel where she\nfirst was star attraction in\n1856.\n\n\nMiss Kilt. recently divorced.\npresents songs in nine languages\nincluding French and Arabian.\n\n\nCoerg Olden, vice president\nof McCann-Erick advertising a.\ngency was recently honored at a\ndinner held at the Commodore\nHotel.\n\n\nSince lo45, when he was \"a,\nOlden began his career as a\ndirector of graphic art for the\nColumbia Broadcasting SYSTEM\ntelevision division.\n\n\nAS a winner Of more than so\njor awards. including two gra-\nphic arts awards, he was chosen\nto design the special commem-\norative stamp for the Emanci-\npatton Proclamation Centennial.\n\n\nSUBSCRIBE TO THE\n\n\nARIZONA TRIBUNE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2210,
+                "y0": 3458,
+                "x1": 2901,
+                "y1": 3726
+            },
+            "class": "headline",
+            "raw_text": "CIobuI Portraits\nby |. Lutour",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964070301_0456",
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "north and south represented\nthe oath annual National Newspaper Publishers Association which\nin Millbrae, California. outside of San Francisco\n\n\nTop rgEnjoyng the first nights reception which was held\nThunderbrd Hotel from left Mesdames\nFrank MITCHELL publisher of ST. Louis Argus c. Summer Sone\nThe Chicago Defender Miss Judy Borman adver\nUsing staff member of the Sun-Reporer.\n\n\nTop Cooet publisher Of The San Fran\ncharman Mrs. Edward Banks\npublisher Of The Arizona Tribune and E. Washington\nRhodes NPA president publisher of The Philadelphia Tribune\n\n\nMiddle rgpausing between political dbts from left E.\nWashington Rhodes NNPA PRESIDENT Atty Grant Reynolds legal\nchairman Of the National Republican Party committee\nand Edward Banks pubisher-edtor of The Arizona Tribune\n\n\nBottom Joyce Finney convention registrar OF San\nFrancisco Mrs. Alice nngn member Of the Presidents Com\n\n\nEqual Employment Opportunity Charles Bynum member\nthe committee the March Of Dimes, and Mrs. nez\ncoumn and fashion editor author Of Fashonwse and\nOtherwise, of Kansas City.\n\n\nBottom eDk Gregory famous comedian and civil rights worker\nJohn oath NNPA\nvention\n\n\nJulius Carter publisher The Forward Times. Of Houston\nTexas, presented it.\n\n\nleft Thomas Fleming city editor Sun Reporter San\nFrancisco Carlton B. Goolet Nd publisher Sun Reporter\nGregory oe managing editor The Louisiana Weekly\nCarter; and Garth Reeves. r managing editor Miami Times\nMiami, Fla.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 376,
+                    "y0": 3394,
+                    "x1": 2072,
+                    "y1": 5304
+                }
+            ],
+            "bbox": [
+                376,
+                3394,
+                2072,
+                5304
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-03_pna_sn84021918_0041421695A_1964070301_0456.json"
+        },
+        {
+            "object_ids": [
+                5,
+                2
+            ],
+            "headline": "CIobuI Portraits\nby |. Lutour",
+            "article": "NEW YORK--Eartha Kit is\nappearing in the Persian Room\nOf the Plaza Hotel where she\nfirst was star attraction in\n1856.\n\n\nMiss Kilt. recently divorced.\npresents songs in nine languages\nincluding French and Arabian.\n\n\nCoerg Olden, vice president\nof McCann-Erick advertising a.\ngency was recently honored at a\ndinner held at the Commodore\nHotel.\n\n\nSince lo45, when he was \"a,\nOlden began his career as a\ndirector of graphic art for the\nColumbia Broadcasting SYSTEM\ntelevision division.\n\n\nAS a winner Of more than so\njor awards. including two gra-\nphic arts awards, he was chosen\nto design the special commem-\norative stamp for the Emanci-\npatton Proclamation Centennial.\n\n\nSUBSCRIBE TO THE\n\n\nARIZONA TRIBUNE",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2210,
+                    "y0": 3458,
+                    "x1": 2901,
+                    "y1": 3726
+                },
+                {
+                    "x0": 2158,
+                    "y0": 3754,
+                    "x1": 2983,
+                    "y1": 5339
+                }
+            ],
+            "bbox": [
+                2158,
+                3458,
+                2983,
+                5339
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-03_pna_sn84021918_0041421695A_1964070301_0456.json"
+        }
+    ]
+}

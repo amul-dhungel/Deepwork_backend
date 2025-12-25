@@ -1,0 +1,339 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7391,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100901/0576.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3048,
+                "y0": 1102,
+                "x1": 4730,
+                "y1": 2345
+            },
+            "class": "article",
+            "raw_text": "Anyone visiting the the city,\nthe hub of the city is usually found will be disappointed.\nUnless employees arriving going lunch\ning home downtown nearly deserted Those offices\nshops signify that decay will soon follow.\n\n\nPhoenix is comparatively city when like\nPhiladelphia Chicago The these\naway surrounded the stately buildings\nSomthing\n\n\nrevival Of the downtown each city and\nbuildings apartments SKYLINE\n\n\nWe should wait until the very of the city\nOne the the decline the shopping\nwhen\nshopping plazas.\n\n\ncould help city park showing\nplants would enhance the\n\n\nTraffic congestion could using\ntain artera walks could\nWe lag of city a\nfor derelicts and shanty buildings.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3574,
+                "y0": 456,
+                "x1": 4545,
+                "y1": 901
+            },
+            "class": "headline",
+            "raw_text": "VIEWS, pREvIEws\nAND REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3787,
+                "y0": 819,
+                "x1": 4308,
+                "y1": 896
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3089,
+                "y0": 993,
+                "x1": 3760,
+                "y1": 1080
+            },
+            "class": "headline",
+            "raw_text": "downtown DECAYS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2165,
+                "y0": 750,
+                "x1": 2997,
+                "y1": 5145
+            },
+            "class": "article",
+            "raw_text": "The residents OF the united\nStates are the most adver-\ntised at and sold to persons\non the face of the globe.\nEvery four minutes someone is\ntrying to sell you something or\nother. EV\n\n\nother. Every four minutes you\nare being bombarded to buy this\ntry this or do this.\n\n\nFrom infancy until senility we\nare subjected to the wiles and\nWills of the advertisers. No\nlonger do hawkers follow the will\nderness trails with wagon full\nof wares beseeching you to try\na sure cure. The hawkers per-\nwade your home in the guise of\nentertainment free or almost\nfree.\n\n\nHeadache potions, lumbago\nrubs. cold remedies and collie\nsoothers are dispersed with the\ncareful plans of analysts who\nknow how to reach you where it\nhurts the most = in the purse.\n\n\nNot only do these modern witch\ndoctors sell their pr oducts but the\nchurches and other social\nagencies have become adver-\ntising conscious. Slogans have\nbecome the way to all mems\nminds. \"The family that prays\ntogether, stays together\" is just\nas we'll planned as \"Not a hint\nof lint\n\n\nA breakfast cereal no longer\ncan serve your dietary needs with\nample vitamins, 1t must be the\nonly talking cereal in existence.\nDogs can not enjoy a regular\ncan of dog victuals unless you\nwant the NUTS to be happy. The\nlowly aspirin has been buffered\nand rebuffered until it has lost\nits sting. Smoking cigarette\ninvoloves clinical testing and\nporosity counting of the filters.\nAll in all they took the fun\nout of buying. You don't have a\nchance to question the brand any\nmore most articles have more\nseals of Apr oval than Audie\nMurphy has military medals.\n\n\nConsumer magazines test all\nkinds of appliances. women's\nmagazines present detailed re-\nports on foodstuffs, and sleekly\ndressed ladies with chic Golf\nfures demonstrate clothes dryers\nand cooking wares. Bottles Of\nmilk dance, packages Of cigars\nwink, automobiles talk and Aka\nSettlers fizzle.\n\n\nReassert your individuality =\nthe next time you 60 shopping buy\njust one product that has been\nrecommended by Goody Home\nwreckers or Miss Punkin Kinds.\nDon't smoke a filter tip, chew\na plug of tobacco. Don't go to\nChurch next Sunday, stay in\nbed. Gosh, | must stop = it's\nten o'clock = time for my Three\nA Day vitamin capsule gulp",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2165,
+                "y0": 386,
+                "x1": 2951,
+                "y1": 589
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOisE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2153,
+                "y0": 635,
+                "x1": 2512,
+                "y1": 717
+            },
+            "class": "headline",
+            "raw_text": "Be q Rebel",
+            "legibility": "Questionable",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 340,
+                "y0": 4665,
+                "x1": 2137,
+                "y1": 6260
+            },
+            "class": "article",
+            "raw_text": "In less than a month thousands of AY1zOn0ns\nwiu go to the vOting booths to select Me1T poHt-\nical choices. Regardless Of party sentiments ana\npersonal vieuOs, there are SIX referendum and\nInitiative measures to be considered\n\n\nFe1U persons haze taken time TO study the p~0-\nhcity pamphlet compiled and issued by the secre-\ntaYy of state, Wesley Bolin.\n\n\nThis 24 page booklet presents an easily\nprinted version of ach measure, Plus a1gw-\nnentS for and against them.\n\n\nThe League Of Women Voters has also pre-\npared an inclusive booklet Which mill be oU0aI-\nable to those WhO WiSh to R1OW the c0ndad0teS\nand issues.\n\n\n1t is a universal slogan which tells us to O0te.\nWe should read and think before ne UOte. An m\nfop1xed yOteY makes q better and wiser choice.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 623,
+                "y0": 4469,
+                "x1": 1860,
+                "y1": 4614
+            },
+            "class": "headline",
+            "raw_text": "BE INFORMED Then VOTE",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 306,
+                "y0": 2217,
+                "x1": 2154,
+                "y1": 4383
+            },
+            "class": "article",
+            "raw_text": "Action on the part Of John Duncan, state SUP\neY5ntendent of liquor control and his staff IS COM\nmendable. The closing of the Infamous Trot Inn,\nlocated near 24th and E. BYoad1Uuy Rd., ouS long\noverdue.\n\n\nRecords show that in the past tho years i'untm-\nenable persons haze been injured by knives, guns,\nbrass knuckles, bottles and fists.\n\n\nThree we're fatally 1Uounded there in the same\nperiod without any hating Of sales.\n\n\nour Negro communities must become more\nactive in assuring themselves that lam and order\nPREVAIL. We cannot tolerate places WaeYe Ines\nare constantly lost without even an 0utcry from\nthe local citizens.\n\n\nLet there be more closed doors Of taUeYns that\nare regular scenes Of byuVls and murders. Un-\nfortunately the TYOt Inn is not the only place OF\nits kind in the Valley Of the Sum- There are seq\neyul more that should be Investigated more care\nfully.\n\n\nThere is no need to blame others for conditions\nin our o1uu neighboYhOOdS. If ne do not protest\nand seek action, nothing Oiu be accomplished.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 796,
+                "y0": 2003,
+                "x1": 1571,
+                "y1": 2166
+            },
+            "class": "headline",
+            "raw_text": "DOORS CLOSED",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964100901_0576",
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                18,
+                15,
+                0
+            ],
+            "headline": "VIEWS, pREvIEws\nAND REVIEWS\n\n\nEdward Banks\n\ndowntown DECAYS",
+            "article": "Anyone visiting the the city,\nthe hub of the city is usually found will be disappointed.\nUnless employees arriving going lunch\ning home downtown nearly deserted Those offices\nshops signify that decay will soon follow.\n\n\nPhoenix is comparatively city when like\nPhiladelphia Chicago The these\naway surrounded the stately buildings\nSomthing\n\n\nrevival Of the downtown each city and\nbuildings apartments SKYLINE\n\n\nWe should wait until the very of the city\nOne the the decline the shopping\nwhen\nshopping plazas.\n\n\ncould help city park showing\nplants would enhance the\n\n\nTraffic congestion could using\ntain artera walks could\nWe lag of city a\nfor derelicts and shanty buildings.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3574,
+                    "y0": 456,
+                    "x1": 4545,
+                    "y1": 901
+                },
+                {
+                    "x0": 3787,
+                    "y0": 819,
+                    "x1": 4308,
+                    "y1": 896
+                },
+                {
+                    "x0": 3089,
+                    "y0": 993,
+                    "x1": 3760,
+                    "y1": 1080
+                },
+                {
+                    "x0": 3048,
+                    "y0": 1102,
+                    "x1": 4730,
+                    "y1": 2345
+                }
+            ],
+            "bbox": [
+                3048,
+                456,
+                4730,
+                2345
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-09_pna_sn84021918_0041421695A_1964100901_0576.json"
+        },
+        {
+            "object_ids": [
+                11,
+                17,
+                2
+            ],
+            "headline": "Sights and Sounds\nELOisE BANKS\n\nBe q Rebel",
+            "article": "The residents OF the united\nStates are the most adver-\ntised at and sold to persons\non the face of the globe.\nEvery four minutes someone is\ntrying to sell you something or\nother. EV\n\n\nother. Every four minutes you\nare being bombarded to buy this\ntry this or do this.\n\n\nFrom infancy until senility we\nare subjected to the wiles and\nWills of the advertisers. No\nlonger do hawkers follow the will\nderness trails with wagon full\nof wares beseeching you to try\na sure cure. The hawkers per-\nwade your home in the guise of\nentertainment free or almost\nfree.\n\n\nHeadache potions, lumbago\nrubs. cold remedies and collie\nsoothers are dispersed with the\ncareful plans of analysts who\nknow how to reach you where it\nhurts the most = in the purse.\n\n\nNot only do these modern witch\ndoctors sell their pr oducts but the\nchurches and other social\nagencies have become adver-\ntising conscious. Slogans have\nbecome the way to all mems\nminds. \"The family that prays\ntogether, stays together\" is just\nas we'll planned as \"Not a hint\nof lint\n\n\nA breakfast cereal no longer\ncan serve your dietary needs with\nample vitamins, 1t must be the\nonly talking cereal in existence.\nDogs can not enjoy a regular\ncan of dog victuals unless you\nwant the NUTS to be happy. The\nlowly aspirin has been buffered\nand rebuffered until it has lost\nits sting. Smoking cigarette\ninvoloves clinical testing and\nporosity counting of the filters.\nAll in all they took the fun\nout of buying. You don't have a\nchance to question the brand any\nmore most articles have more\nseals of Apr oval than Audie\nMurphy has military medals.\n\n\nConsumer magazines test all\nkinds of appliances. women's\nmagazines present detailed re-\nports on foodstuffs, and sleekly\ndressed ladies with chic Golf\nfures demonstrate clothes dryers\nand cooking wares. Bottles Of\nmilk dance, packages Of cigars\nwink, automobiles talk and Aka\nSettlers fizzle.\n\n\nReassert your individuality =\nthe next time you 60 shopping buy\njust one product that has been\nrecommended by Goody Home\nwreckers or Miss Punkin Kinds.\nDon't smoke a filter tip, chew\na plug of tobacco. Don't go to\nChurch next Sunday, stay in\nbed. Gosh, | must stop = it's\nten o'clock = time for my Three\nA Day vitamin capsule gulp",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2165,
+                    "y0": 386,
+                    "x1": 2951,
+                    "y1": 589
+                },
+                {
+                    "x0": 2153,
+                    "y0": 635,
+                    "x1": 2512,
+                    "y1": 717
+                },
+                {
+                    "x0": 2165,
+                    "y0": 750,
+                    "x1": 2997,
+                    "y1": 5145
+                }
+            ],
+            "bbox": [
+                2153,
+                386,
+                2997,
+                5145
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-09_pna_sn84021918_0041421695A_1964100901_0576.json"
+        },
+        {
+            "object_ids": [
+                14,
+                13
+            ],
+            "headline": "BE INFORMED Then VOTE",
+            "article": "In less than a month thousands of AY1zOn0ns\nwiu go to the vOting booths to select Me1T poHt-\nical choices. Regardless Of party sentiments ana\npersonal vieuOs, there are SIX referendum and\nInitiative measures to be considered\n\n\nFe1U persons haze taken time TO study the p~0-\nhcity pamphlet compiled and issued by the secre-\ntaYy of state, Wesley Bolin.\n\n\nThis 24 page booklet presents an easily\nprinted version of ach measure, Plus a1gw-\nnentS for and against them.\n\n\nThe League Of Women Voters has also pre-\npared an inclusive booklet Which mill be oU0aI-\nable to those WhO WiSh to R1OW the c0ndad0teS\nand issues.\n\n\n1t is a universal slogan which tells us to O0te.\nWe should read and think before ne UOte. An m\nfop1xed yOteY makes q better and wiser choice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 623,
+                    "y0": 4469,
+                    "x1": 1860,
+                    "y1": 4614
+                },
+                {
+                    "x0": 340,
+                    "y0": 4665,
+                    "x1": 2137,
+                    "y1": 6260
+                }
+            ],
+            "bbox": [
+                340,
+                4469,
+                2137,
+                6260
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-10-09_pna_sn84021918_0041421695A_1964100901_0576.json"
+        },
+        {
+            "object_ids": [
+                12,
+                6
+            ],
+            "headline": "DOORS CLOSED",
+            "article": "Action on the part Of John Duncan, state SUP\neY5ntendent of liquor control and his staff IS COM\nmendable. The closing of the Infamous Trot Inn,\nlocated near 24th and E. BYoad1Uuy Rd., ouS long\noverdue.\n\n\nRecords show that in the past tho years i'untm-\nenable persons haze been injured by knives, guns,\nbrass knuckles, bottles and fists.\n\n\nThree we're fatally 1Uounded there in the same\nperiod without any hating Of sales.\n\n\nour Negro communities must become more\nactive in assuring themselves that lam and order\nPREVAIL. We cannot tolerate places WaeYe Ines\nare constantly lost without even an 0utcry from\nthe local citizens.\n\n\nLet there be more closed doors Of taUeYns that\nare regular scenes Of byuVls and murders. Un-\nfortunately the TYOt Inn is not the only place OF\nits kind in the Valley Of the Sum- There are seq\neyul more that should be Investigated more care\nfully.\n\n\nThere is no need to blame others for conditions\nin our o1uu neighboYhOOdS. If ne do not protest\nand seek action, nothing Oiu be accomplished.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 796,
+                    "y0": 2003,
+                    "x1": 1571,
+                    "y1": 2166
+                },
+                {
+                    "x0": 306,
+                    "y0": 2217,
+                    "x1": 2154,
+                    "y1": 4383
+                }
+            ],
+            "bbox": [
+                306,
+                2003,
+                2154,
+                4383
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-09_pna_sn84021918_0041421695A_1964100901_0576.json"
+        }
+    ]
+}

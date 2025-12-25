@@ -1,0 +1,390 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4786,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964072401/0482.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2052,
+                "y0": 4062,
+                "x1": 2873,
+                "y1": 5392
+            },
+            "class": "article",
+            "raw_text": "Petitions containing 9011\nsignatures, over four times\nthe minimum required, we're sub\nmitted by Frank Mangin. Republi-\ncan primary candidate for Cor\nporadon Commission. Mangin,\nwho seeks the long term seat\nnow held by Democrat A. P.\nBuzzard. filed his petitions with\nSecretary of State Yves Bolin.\n\n\nVeteran capitol observers\ncommented that this was one of\nthe largest signature filings by\na Republican seeking statewide\noffice this year. \"The hard work\nof the Republican Committeeman\nand other volunteers in securing\nsignatures for all our candidates\nis significant indication of real\ngrass-root strength for our\nparty, and certainly points to\nfurther successes in September\nand November\" Mangin said.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2063,
+                "y0": 3825,
+                "x1": 2613,
+                "y1": 4040
+            },
+            "class": "headline",
+            "raw_text": "Mungin Has\nLarge Lists",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1144,
+                "y0": 2617,
+                "x1": 1977,
+                "y1": 5161
+            },
+            "class": "article",
+            "raw_text": "The Arizona Brewing Co. of\nPhoenix has announced modi-\nfication of name of its Lancer's\nBeer, to ]. F. Lanser's Beer.\n\n\nVice president ]. F. Lanser,\nJr., said the change on all labels,\ncartons, bottles and caps, cans\nand advertising will be COM\npleted by September /.\n\n\nLancer, Jr., explained that the\nreason for the name change is\nto perpetuate a memorial tri-\nbutte to the late ]. F. Lanser,\nSr. Mr.. Lanser died last Deem\nDer after q years Of leadership\non both local and national levels\nOf the brewing industry. He\nserved as president of the COM\npany from the time of purchase\nin 1912 until he became board\nchairman in 1862. He was a\npresident of Brewers Associa-\nton of America and a board\nmember of United States Brew\ners' Association.\n\n\nIn his early days with the COM\npany. the plant produced $4,000\nbarrels of beer known variously\nas Hopi. Dutch Treat. Apache,\nSunbru and Wonderland. Several\nyears later it became Al Prem\nium Beer and, most recently as\nLancer's, a spelling calculated\nto allow for correct pronuncia-\nton of the family name.\n\n\nToday, the plant has 100000\nbarrel capacity and Lanser's\nBeer is distributed in six states.\n\n\nAmong the firms other pro-\nducts are Lanser's Al Ale. Lam\nser's Book Beer, and prestige\npriced draught beer known as\nOberheit.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1144,
+                "y0": 2346,
+                "x1": 1781,
+                "y1": 2584
+            },
+            "class": "headline",
+            "raw_text": "Luncer's Beer\nNow Lunser's",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 249,
+                "y0": 2560,
+                "x1": 1076,
+                "y1": 4566
+            },
+            "class": "article",
+            "raw_text": "George Gavin, local insurance\nman has announced his candidacy\nfor the Democratic US. Senate\nnomination. He was concerned\nwith our need now for clean,\nbusinesslike government\" and to\nfight against \"eMl influences that\nhave corrupted governments and\nenslaved large areas of the\nwoodworking men and women Of\ntheir freedom and their right to\ngovern themselves\"\n\n\nGavin. 81, 5l1O E. Lincoln\nDrive, owns and manages the\nGeorge Gavin Company. ad down\ntown insurance agency.\n\n\nLong been active in civic and\ncommunity affairs in Arizona,\nis former board member of\nCatholic Social Service, direc-\ntor of the National Council Of\nChristians and Jews, and has\nheaded the Phoenix Knights Of\nColumbus. He is a former presi-\ndent of Phoenix Association Of\nInsurance Agents and was chair\nman of the City of Phoenix In\nsurance Committee.\n\n\nHe also served on the board\nof the Phoenix Community Coun-\nGil, was a director of the Mari\ncopa County Safety Council, and\nserved as director of the St.\nJoseph's Youth Camp.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 260,
+                "y0": 2340,
+                "x1": 1018,
+                "y1": 2543
+            },
+            "class": "headline",
+            "raw_text": "Gavin Announces\nHis Candidacy",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2052,
+                "y0": 502,
+                "x1": 2896,
+                "y1": 3809
+            },
+            "class": "article",
+            "raw_text": "Gerry, Larry and Robert\nOliver are attending Careers for\nYouth camp.\n\n\nMiss Alnetta Faye Hawkins and\nher parents. MIR. and Mrs. Al\nfoster Hawkins, Of Flagstaff are\nmotoring to Texas and Louisi-\nana.\n\n\nMrs. Lou Anderson, Miss\nGeneva Slade and Laura Ann\nCook, of Wichita Falls. Texas,\nare visiting with relatives, MIR.\nand Mrs. L. M. Murphy.\n\n\nMrs. Rena Muldrow Is visiting\nrelatives in Los Angeles.\n\n\nMr.. and Mrs. Levi Coleman\nare visiting her father in Denver.\n\n\nHappy learning to Mrs. Paul\nGriffin who is attending sum-\nmer school at the University\nof Oklahoma.\n\n\nMrs. Lorraine Parker's\nhouseguest is her mother, Mrs.\nLoretta Ruff, of Oklahoma City.\nThey we're guests at family\ndinner at the home of Mr.. and\nMrs. Earl Bibbs.\n\n\nMrs. Ruby Forge and Gwen\ndolyn Conner just returned from\na trip to Fresno, California.\n\n\nZion Rest Baptist B. T. u.\ndistrict congress is in session at\nSt. John Baptist Church. Rev.\nLarry is the president of the\ncongress. Re. L. ]. Dunbar\nis moderator.\n\n\nMr.. and Mrs. A. ]. Galbreath,\ntheir son, Ronnie. Mrs. Dave\nGray and Mrs. Lena Mae Car\nruthers have returned from Los\nAngeles.\n\n\nMrs. Charlesetta Coleman will\nattend the Camp of the Woods.\n\n\nMrs. Johnnie Faye Coleman\nis spending the summer with her\nfather in Los Angeles.\n\n\nMrs. Lille Belcher is letting\nto Los Angeles to see the Dod-\ngers weekend games.\n\n\nl am happy to know Mrs. De-\nmetria Vann has returned from\ntending her ailing father in\nArkansas.\n\n\nThought for the day = \"Set thine\nhouse in order.'' The Bible",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2052,
+                "y0": 283,
+                "x1": 2740,
+                "y1": 469
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1162,
+                "y0": 5212,
+                "x1": 1983,
+                "y1": 5392
+            },
+            "class": "article",
+            "raw_text": "William Blevins, singer, was\nthe South's first Negro radio an\nnouncer.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 231,
+                "y0": 1768,
+                "x1": 1949,
+                "y1": 2306
+            },
+            "class": "article",
+            "raw_text": "dinner party honorng Mrs. D. Reed. Mrs. Ihieo\nChurch. of Shawnee Oklahoma and Mrs. Bertha Carey Marlin\nTex was Sunday the home Of Rev. and Mrs. woodrow '\"\nReed, 4543 S. 10Th St.\n\n\nThe brothers and their sister MRS. Cessle\nSykes also present.\nOthers pictured Lewis Reed brother Rev. E. SYKES\nMrs. Bradford Mrs W. W. Reed and Zna Marie Onnngs\n",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2947,
+                "y0": 1901,
+                "x1": 4630,
+                "y1": 2451
+            },
+            "class": "article",
+            "raw_text": "Henry McNlon, 1l51/2 W. Buckeye Rd, manager of hes\nClub shown inviting of\nyoung friends sample delicious watermelon.\n\n\nDuring the year Mr.. McMllon is employment ser\naborers genial Santa provider school supplies\nwith big heart.\n\n\nlong the city he says he the\ntrying do his and help those less\nfortunate himself.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964072401_0482",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Mungin Has\nLarge Lists",
+            "article": "Petitions containing 9011\nsignatures, over four times\nthe minimum required, we're sub\nmitted by Frank Mangin. Republi-\ncan primary candidate for Cor\nporadon Commission. Mangin,\nwho seeks the long term seat\nnow held by Democrat A. P.\nBuzzard. filed his petitions with\nSecretary of State Yves Bolin.\n\n\nVeteran capitol observers\ncommented that this was one of\nthe largest signature filings by\na Republican seeking statewide\noffice this year. \"The hard work\nof the Republican Committeeman\nand other volunteers in securing\nsignatures for all our candidates\nis significant indication of real\ngrass-root strength for our\nparty, and certainly points to\nfurther successes in September\nand November\" Mangin said.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2063,
+                    "y0": 3825,
+                    "x1": 2613,
+                    "y1": 4040
+                },
+                {
+                    "x0": 2052,
+                    "y0": 4062,
+                    "x1": 2873,
+                    "y1": 5392
+                }
+            ],
+            "bbox": [
+                2052,
+                3825,
+                2873,
+                5392
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-24_pna_sn84021918_0041421695A_1964072401_0482.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Luncer's Beer\nNow Lunser's",
+            "article": "The Arizona Brewing Co. of\nPhoenix has announced modi-\nfication of name of its Lancer's\nBeer, to ]. F. Lanser's Beer.\n\n\nVice president ]. F. Lanser,\nJr., said the change on all labels,\ncartons, bottles and caps, cans\nand advertising will be COM\npleted by September /.\n\n\nLancer, Jr., explained that the\nreason for the name change is\nto perpetuate a memorial tri-\nbutte to the late ]. F. Lanser,\nSr. Mr.. Lanser died last Deem\nDer after q years Of leadership\non both local and national levels\nOf the brewing industry. He\nserved as president of the COM\npany from the time of purchase\nin 1912 until he became board\nchairman in 1862. He was a\npresident of Brewers Associa-\nton of America and a board\nmember of United States Brew\ners' Association.\n\n\nIn his early days with the COM\npany. the plant produced $4,000\nbarrels of beer known variously\nas Hopi. Dutch Treat. Apache,\nSunbru and Wonderland. Several\nyears later it became Al Prem\nium Beer and, most recently as\nLancer's, a spelling calculated\nto allow for correct pronuncia-\nton of the family name.\n\n\nToday, the plant has 100000\nbarrel capacity and Lanser's\nBeer is distributed in six states.\n\n\nAmong the firms other pro-\nducts are Lanser's Al Ale. Lam\nser's Book Beer, and prestige\npriced draught beer known as\nOberheit.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1144,
+                    "y0": 2346,
+                    "x1": 1781,
+                    "y1": 2584
+                },
+                {
+                    "x0": 1144,
+                    "y0": 2617,
+                    "x1": 1977,
+                    "y1": 5161
+                }
+            ],
+            "bbox": [
+                1144,
+                2346,
+                1977,
+                5161
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-24_pna_sn84021918_0041421695A_1964072401_0482.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "Gavin Announces\nHis Candidacy",
+            "article": "George Gavin, local insurance\nman has announced his candidacy\nfor the Democratic US. Senate\nnomination. He was concerned\nwith our need now for clean,\nbusinesslike government\" and to\nfight against \"eMl influences that\nhave corrupted governments and\nenslaved large areas of the\nwoodworking men and women Of\ntheir freedom and their right to\ngovern themselves\"\n\n\nGavin. 81, 5l1O E. Lincoln\nDrive, owns and manages the\nGeorge Gavin Company. ad down\ntown insurance agency.\n\n\nLong been active in civic and\ncommunity affairs in Arizona,\nis former board member of\nCatholic Social Service, direc-\ntor of the National Council Of\nChristians and Jews, and has\nheaded the Phoenix Knights Of\nColumbus. He is a former presi-\ndent of Phoenix Association Of\nInsurance Agents and was chair\nman of the City of Phoenix In\nsurance Committee.\n\n\nHe also served on the board\nof the Phoenix Community Coun-\nGil, was a director of the Mari\ncopa County Safety Council, and\nserved as director of the St.\nJoseph's Youth Camp.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 260,
+                    "y0": 2340,
+                    "x1": 1018,
+                    "y1": 2543
+                },
+                {
+                    "x0": 249,
+                    "y0": 2560,
+                    "x1": 1076,
+                    "y1": 4566
+                }
+            ],
+            "bbox": [
+                249,
+                2340,
+                1076,
+                4566
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-24_pna_sn84021918_0041421695A_1964072401_0482.json"
+        },
+        {
+            "object_ids": [
+                13,
+                9
+            ],
+            "headline": "All Around\n\n\nBY FLORA RUFFIN",
+            "article": "Gerry, Larry and Robert\nOliver are attending Careers for\nYouth camp.\n\n\nMiss Alnetta Faye Hawkins and\nher parents. MIR. and Mrs. Al\nfoster Hawkins, Of Flagstaff are\nmotoring to Texas and Louisi-\nana.\n\n\nMrs. Lou Anderson, Miss\nGeneva Slade and Laura Ann\nCook, of Wichita Falls. Texas,\nare visiting with relatives, MIR.\nand Mrs. L. M. Murphy.\n\n\nMrs. Rena Muldrow Is visiting\nrelatives in Los Angeles.\n\n\nMr.. and Mrs. Levi Coleman\nare visiting her father in Denver.\n\n\nHappy learning to Mrs. Paul\nGriffin who is attending sum-\nmer school at the University\nof Oklahoma.\n\n\nMrs. Lorraine Parker's\nhouseguest is her mother, Mrs.\nLoretta Ruff, of Oklahoma City.\nThey we're guests at family\ndinner at the home of Mr.. and\nMrs. Earl Bibbs.\n\n\nMrs. Ruby Forge and Gwen\ndolyn Conner just returned from\na trip to Fresno, California.\n\n\nZion Rest Baptist B. T. u.\ndistrict congress is in session at\nSt. John Baptist Church. Rev.\nLarry is the president of the\ncongress. Re. L. ]. Dunbar\nis moderator.\n\n\nMr.. and Mrs. A. ]. Galbreath,\ntheir son, Ronnie. Mrs. Dave\nGray and Mrs. Lena Mae Car\nruthers have returned from Los\nAngeles.\n\n\nMrs. Charlesetta Coleman will\nattend the Camp of the Woods.\n\n\nMrs. Johnnie Faye Coleman\nis spending the summer with her\nfather in Los Angeles.\n\n\nMrs. Lille Belcher is letting\nto Los Angeles to see the Dod-\ngers weekend games.\n\n\nl am happy to know Mrs. De-\nmetria Vann has returned from\ntending her ailing father in\nArkansas.\n\n\nThought for the day = \"Set thine\nhouse in order.'' The Bible",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2052,
+                    "y0": 283,
+                    "x1": 2740,
+                    "y1": 469
+                },
+                {
+                    "x0": 2052,
+                    "y0": 502,
+                    "x1": 2896,
+                    "y1": 3809
+                }
+            ],
+            "bbox": [
+                2052,
+                283,
+                2896,
+                3809
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-24_pna_sn84021918_0041421695A_1964072401_0482.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "William Blevins, singer, was\nthe South's first Negro radio an\nnouncer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1162,
+                    "y0": 5212,
+                    "x1": 1983,
+                    "y1": 5392
+                }
+            ],
+            "bbox": [
+                1162,
+                5212,
+                1983,
+                5392
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-07-24_pna_sn84021918_0041421695A_1964072401_0482.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "dinner party honorng Mrs. D. Reed. Mrs. Ihieo\nChurch. of Shawnee Oklahoma and Mrs. Bertha Carey Marlin\nTex was Sunday the home Of Rev. and Mrs. woodrow '\"\nReed, 4543 S. 10Th St.\n\n\nThe brothers and their sister MRS. Cessle\nSykes also present.\nOthers pictured Lewis Reed brother Rev. E. SYKES\nMrs. Bradford Mrs W. W. Reed and Zna Marie Onnngs\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 231,
+                    "y0": 1768,
+                    "x1": 1949,
+                    "y1": 2306
+                }
+            ],
+            "bbox": [
+                231,
+                1768,
+                1949,
+                2306
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-07-24_pna_sn84021918_0041421695A_1964072401_0482.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Henry McNlon, 1l51/2 W. Buckeye Rd, manager of hes\nClub shown inviting of\nyoung friends sample delicious watermelon.\n\n\nDuring the year Mr.. McMllon is employment ser\naborers genial Santa provider school supplies\nwith big heart.\n\n\nlong the city he says he the\ntrying do his and help those less\nfortunate himself.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2947,
+                    "y0": 1901,
+                    "x1": 4630,
+                    "y1": 2451
+                }
+            ],
+            "bbox": [
+                2947,
+                1901,
+                4630,
+                2451
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-07-24_pna_sn84021918_0041421695A_1964072401_0482.json"
+        }
+    ]
+}

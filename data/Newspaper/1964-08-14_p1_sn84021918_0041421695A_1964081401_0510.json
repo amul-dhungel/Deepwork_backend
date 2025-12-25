@@ -1,0 +1,437 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964081401/0510.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7424,
+        "width": 4937
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3071,
+                "y0": 1061,
+                "x1": 4766,
+                "y1": 2715
+            },
+            "class": "article",
+            "raw_text": "One of the waseu and which\nmany dollars goes foreign\naid. This week finished reading we'll by Andrew\nTuly and Milton Britten, 'Where Did Money\n\n\nEvery citizen should acquaint with our foreign aid\nprograms of tax dollars\nwhich being sponed\ncountries.\n\n\nThe authors state Since World War the u spent\nthan S00 billions Foreign Aid of kind another\"\n\n\n%. is than twice the evauaton and\notherwise properties the largest cities Of New\nYork, Chicago Los Angeles. Philadelphia Baltimore\nCleveland, ST. Louis Cleveland, Washington Louis\nMilwaukee, Boston and San Francisco\"\n\n\nhave read and researced the expenditures\nbut dreamed that the\nSome Of the foreign aid wasrel programs earhed by\nwriter's includes radio station Cabod nonworng\nton project in Peru without yachtfor the emperor Eo\na six lane is mile highway from Lisbon gambling\ntuition wealthy Iranans project\nKoreans how to grow rice\n\n\nWe halt these increasing foreign aid programs\nfor the entire aid program be revised and keep\ndollars here hoe Much unemployment\nin the United States could benefit from $OO billions spent\noutside boundaries.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3593,
+                "y0": 406,
+                "x1": 4574,
+                "y1": 841
+            },
+            "class": "headline",
+            "raw_text": "Views, PRevIEwS\nAND REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3819,
+                "y0": 765,
+                "x1": 4331,
+                "y1": 853
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3106,
+                "y0": 928,
+                "x1": 3693,
+                "y1": 1039
+            },
+            "class": "headline",
+            "raw_text": "Foreign Aid Z?",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3071,
+                "y0": 2981,
+                "x1": 4760,
+                "y1": 5180
+            },
+            "class": "article",
+            "raw_text": "In the 1871 British\nwallis increasing from the colonial sought\nhaven Virginia coastal under the his\nconsidered of the significant in the history of the world\n\n\nOne of the moving toward Yorktown James Robinson.\nof the Battle Brandne he later received gold medal\nfrom Lafayette for of military alor in the Battle Yorktown\n\n\nRobinson born slave Maryland March 2l 1883. Pro-\nmissed his freedom because his military service the death Of\nhis the heirs eneged the promise and dported Robinson\nlouisiana In the War of when General Andrew Jackson made\nappeal Lousanas of color take against the\nBritish defense the New Orleans Robinson first\nthe CALL after this effort remained\ncondemned labor plantation. until the Civil\nWar that Robinson gained his freedom Thereafter he migrated\nwhere he died in March, 1868 at the age of lis.\n\n\nITO his funeral which solemn contemporary newspaper\nreported 1.-THE population of Detroit nocked in\nbers such making reparaon for the injustice the\nmany battles had suffered in e This final tribute\nthe soldier Of the Revolutionary War who had fought Yorktown\nalong with many other Negroes.\n\n\nThe long and bloody road from Lexington\nYorktown had travelled had fought suffered\nand died all along this No better evidence demonstrates the\ntotal participation Negroes in their country struggle for freedom\npartial wounded: Prince Estabrook\nBunker Hills Cue nny died while plotting their ships in the\nJohn Francis shatteredby shot Bran\ndne Phillip Field the $500 Americans who died at\nValley Forge Austin Dabney crippled for life by wound In\n\n\nced Kettle Creek Jordan Freeman and Lambert Latham\n\n\nkilled the defense of Fort Griswo and Bristol Rhodes lost leg\nan rm",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3089,
+                "y0": 2772,
+                "x1": 4006,
+                "y1": 2895
+            },
+            "class": "headline",
+            "raw_text": "Negro History Notes",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3112,
+                "y0": 2905,
+                "x1": 3641,
+                "y1": 2976
+            },
+            "class": "headline",
+            "raw_text": "james Robinson",
+            "legibility": "Questionable",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 363,
+                "y0": 4727,
+                "x1": 2057,
+                "y1": 6340
+            },
+            "class": "article",
+            "raw_text": "/ The announcement by President Lyndon\nB. johnson that Anne Yicdn air strength would\nbe unleashed against the attackers in Viet,aam\nsOas made last neek. For the first time in a\nfen years since United States ''advisevs\" haze\nbeen assisting the Viehmmese, our country's\nmilitary might 1Oas called forth.\n/ SeUe2 ul hundred Anne Y1con men haze been\nFILLED or rounded in Vietnam, Wkile serving\nunder the guise of 'advisers.\" How much\n\n\nmore aOiu happen until our president wil\nSAY ne are merely having police action int\nJayuaOuy land?\n\n\n| Where are all our young men fought and\ntdied for in Korea? Did ne really achieve\npeace there ? Haze ne been able to queH\nthe influence of Communist China !? Are not\nthese. same doctrines noaV prevalent in\nVietn0na2",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 641,
+                "y0": 4529,
+                "x1": 1645,
+                "y1": 4687
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2143,
+                "y0": 730,
+                "x1": 2985,
+                "y1": 5342
+            },
+            "class": "article",
+            "raw_text": "How are you on dates? What\nhappened in that year which has\naffected this nation and in fact\nthe entire world7\n\n\nDon't be hasty, dear reader.\nNo doubt you Immediately thought\nof the beginning of World War\nOne in Europe. You are wrong.\nYou are right but the event which\nl believe had more influence on\nour lives today was the issuing Of\na patent for the first animated\nmotion pictures on August IL,\n1914\n\n\nA man mreme mbered and un-\nheralded by modern movie mo-\nguls was John Randolph Bray Of\nNew York. He gave movement\nto cartoons of dog, the first\nmovie was simply entitled, 1.-The\nDachshund'\n\n\nThere was no story and no\nhistoric action. 1t was simply\nfilm of Mr.. Bray sketching the\nwiener shaped canine.\n\n\nTuesday marked the fiftieth\nanniversary Of this new picture\ntechnique. There have been thou\nsands of films made since the\nfirst one, however, we have not\nproduced too much more as far\nas subject material.\n\n\nDogs, cats, bears, gorillas.\nand all kinds of animals have\nnear monopoly on the home and\ntheater screens. Animal car\ntoonists are todays nouveau rich\nin the realm of moneymakers\nfrom the reel and protector.\n\n\nEven the first maker Of the\nanimated cartoon had more AMI\nNAL attachments, his very name\nBRAY, denotes the sound Of\na donkey.\n\n\nFilmgoers and television view\ners have worried about the de-\nmise of Gable, Bogart, Monroe,\nHarlow, Greenstreet, w. c.\nFields, and LORE. We have\nbecome accustomed to new stars\nand starlets with humdrum names\nas Tippi, Tuesday, Rip, Nick,\njill and Susan Qet us not overlook\nHayley).\n\n\nStill holding on with tenacious\ngrip is Lassie, and Tarzan's\nchimpanzees. They have been\njoined by various Disney dogs\nand Mister Ed, the talking horse.\n\n\nA sure way to discover just\nhow great the impact of animals\nhas been--notice your next five\nteleWsion commercials. Two Of\nthem will surely be selling dog or\ncat chow. See how doggy or catty\nthe humans even act7\n\n\nTomorrow millionaire will\nnot be the person who makes the\nbetter mousetrap but 1t will be\nthe man who trains the swing\nINCEST mouse or develops the\nnext thriller starring a lovable\nskunk.\n\n\nThe country is no longer\nmerely going to the dogs. The\ndogs have won over and now we\nare being ruled by the animal\nkingdom from aardvark to ze-",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2172,
+                "y0": 324,
+                "x1": 2962,
+                "y1": 557
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELoise BANKS",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2161,
+                "y0": 585,
+                "x1": 2811,
+                "y1": 702
+            },
+            "class": "headline",
+            "raw_text": "A Doggy Start",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 328,
+                "y0": 2070,
+                "x1": 2069,
+                "y1": 4472
+            },
+            "class": "article",
+            "raw_text": "During the past several months numerous\ncharges Of child kidnapping and molestation\nhas been made in the Greater Phoenix area.\n\n\nYoung girls haze been Mved into cars and\nmOlested by adult men. These men are able\nto Avoid long jail stays and they just return to\ntheir old habits once released.\n\n\nMrs. Janice l1adde2n of IIO3 ~ 3Oth Avenue\nAND a GROUP of enpuged parents are to be COM\nmended on their action to get statewide support\ntot5H petitions asking for SITTER bae'aisknaents\nfor child molesteys and Rid,aabbers.\n\n\nTwo Of the major PROPOSALS contained in the\npetitions can for making kidnapping ''s0ith\nintent to do bodily harzn'' a capital ofense,\nand that child molestiMg econae a felony in\nstead OF a na5sdemeanoY\n\n\nThe other proposals include providing\nbsychiat11c treatment for mentally defective\noffenders = cond offenders to get life and\naccused offenders should be held after arrest\n1UithOut bond.\n\n\nVicious crimes against children must be\ndedliaDtlaout the&sOf abbyoa CHI. Mothers and\nfathers are urged to circulate petitions in\ntheir neighb0yh0ods. Let's he'll make the\nstreets safe for all children in the State of\nAy5soaa. 81 EE fa",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 989,
+                "y0": 783,
+                "x1": 1512,
+                "y1": 859
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. 5",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 461,
+                "y0": 1861,
+                "x1": 1906,
+                "y1": 2025
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-08-14"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                20,
+                12,
+                0
+            ],
+            "headline": "Views, PRevIEwS\nAND REVIEWS\n\n\nEdward Banks\n\nForeign Aid Z?",
+            "article": "One of the waseu and which\nmany dollars goes foreign\naid. This week finished reading we'll by Andrew\nTuly and Milton Britten, 'Where Did Money\n\n\nEvery citizen should acquaint with our foreign aid\nprograms of tax dollars\nwhich being sponed\ncountries.\n\n\nThe authors state Since World War the u spent\nthan S00 billions Foreign Aid of kind another\"\n\n\n%. is than twice the evauaton and\notherwise properties the largest cities Of New\nYork, Chicago Los Angeles. Philadelphia Baltimore\nCleveland, ST. Louis Cleveland, Washington Louis\nMilwaukee, Boston and San Francisco\"\n\n\nhave read and researced the expenditures\nbut dreamed that the\nSome Of the foreign aid wasrel programs earhed by\nwriter's includes radio station Cabod nonworng\nton project in Peru without yachtfor the emperor Eo\na six lane is mile highway from Lisbon gambling\ntuition wealthy Iranans project\nKoreans how to grow rice\n\n\nWe halt these increasing foreign aid programs\nfor the entire aid program be revised and keep\ndollars here hoe Much unemployment\nin the United States could benefit from $OO billions spent\noutside boundaries.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3593,
+                    "y0": 406,
+                    "x1": 4574,
+                    "y1": 841
+                },
+                {
+                    "x0": 3819,
+                    "y0": 765,
+                    "x1": 4331,
+                    "y1": 853
+                },
+                {
+                    "x0": 3106,
+                    "y0": 928,
+                    "x1": 3693,
+                    "y1": 1039
+                },
+                {
+                    "x0": 3071,
+                    "y0": 1061,
+                    "x1": 4766,
+                    "y1": 2715
+                }
+            ],
+            "bbox": [
+                3071,
+                406,
+                4766,
+                2715
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-14_p1_sn84021918_0041421695A_1964081401_0510.json"
+        },
+        {
+            "object_ids": [
+                18,
+                23,
+                1
+            ],
+            "headline": "Negro History Notes\n\njames Robinson",
+            "article": "In the 1871 British\nwallis increasing from the colonial sought\nhaven Virginia coastal under the his\nconsidered of the significant in the history of the world\n\n\nOne of the moving toward Yorktown James Robinson.\nof the Battle Brandne he later received gold medal\nfrom Lafayette for of military alor in the Battle Yorktown\n\n\nRobinson born slave Maryland March 2l 1883. Pro-\nmissed his freedom because his military service the death Of\nhis the heirs eneged the promise and dported Robinson\nlouisiana In the War of when General Andrew Jackson made\nappeal Lousanas of color take against the\nBritish defense the New Orleans Robinson first\nthe CALL after this effort remained\ncondemned labor plantation. until the Civil\nWar that Robinson gained his freedom Thereafter he migrated\nwhere he died in March, 1868 at the age of lis.\n\n\nITO his funeral which solemn contemporary newspaper\nreported 1.-THE population of Detroit nocked in\nbers such making reparaon for the injustice the\nmany battles had suffered in e This final tribute\nthe soldier Of the Revolutionary War who had fought Yorktown\nalong with many other Negroes.\n\n\nThe long and bloody road from Lexington\nYorktown had travelled had fought suffered\nand died all along this No better evidence demonstrates the\ntotal participation Negroes in their country struggle for freedom\npartial wounded: Prince Estabrook\nBunker Hills Cue nny died while plotting their ships in the\nJohn Francis shatteredby shot Bran\ndne Phillip Field the $500 Americans who died at\nValley Forge Austin Dabney crippled for life by wound In\n\n\nced Kettle Creek Jordan Freeman and Lambert Latham\n\n\nkilled the defense of Fort Griswo and Bristol Rhodes lost leg\nan rm",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3089,
+                    "y0": 2772,
+                    "x1": 4006,
+                    "y1": 2895
+                },
+                {
+                    "x0": 3112,
+                    "y0": 2905,
+                    "x1": 3641,
+                    "y1": 2976
+                },
+                {
+                    "x0": 3071,
+                    "y0": 2981,
+                    "x1": 4760,
+                    "y1": 5180
+                }
+            ],
+            "bbox": [
+                3071,
+                2772,
+                4760,
+                5180
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-14_p1_sn84021918_0041421695A_1964081401_0510.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "",
+            "article": "/ The announcement by President Lyndon\nB. johnson that Anne Yicdn air strength would\nbe unleashed against the attackers in Viet,aam\nsOas made last neek. For the first time in a\nfen years since United States ''advisevs\" haze\nbeen assisting the Viehmmese, our country's\nmilitary might 1Oas called forth.\n/ SeUe2 ul hundred Anne Y1con men haze been\nFILLED or rounded in Vietnam, Wkile serving\nunder the guise of 'advisers.\" How much\n\n\nmore aOiu happen until our president wil\nSAY ne are merely having police action int\nJayuaOuy land?\n\n\n| Where are all our young men fought and\ntdied for in Korea? Did ne really achieve\npeace there ? Haze ne been able to queH\nthe influence of Communist China !? Are not\nthese. same doctrines noaV prevalent in\nVietn0na2",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 641,
+                    "y0": 4529,
+                    "x1": 1645,
+                    "y1": 4687
+                },
+                {
+                    "x0": 363,
+                    "y0": 4727,
+                    "x1": 2057,
+                    "y1": 6340
+                }
+            ],
+            "bbox": [
+                363,
+                4529,
+                2057,
+                6340
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-14_p1_sn84021918_0041421695A_1964081401_0510.json"
+        },
+        {
+            "object_ids": [
+                17,
+                14,
+                9
+            ],
+            "headline": "Sights and Sounds\nELoise BANKS\n\nA Doggy Start",
+            "article": "How are you on dates? What\nhappened in that year which has\naffected this nation and in fact\nthe entire world7\n\n\nDon't be hasty, dear reader.\nNo doubt you Immediately thought\nof the beginning of World War\nOne in Europe. You are wrong.\nYou are right but the event which\nl believe had more influence on\nour lives today was the issuing Of\na patent for the first animated\nmotion pictures on August IL,\n1914\n\n\nA man mreme mbered and un-\nheralded by modern movie mo-\nguls was John Randolph Bray Of\nNew York. He gave movement\nto cartoons of dog, the first\nmovie was simply entitled, 1.-The\nDachshund'\n\n\nThere was no story and no\nhistoric action. 1t was simply\nfilm of Mr.. Bray sketching the\nwiener shaped canine.\n\n\nTuesday marked the fiftieth\nanniversary Of this new picture\ntechnique. There have been thou\nsands of films made since the\nfirst one, however, we have not\nproduced too much more as far\nas subject material.\n\n\nDogs, cats, bears, gorillas.\nand all kinds of animals have\nnear monopoly on the home and\ntheater screens. Animal car\ntoonists are todays nouveau rich\nin the realm of moneymakers\nfrom the reel and protector.\n\n\nEven the first maker Of the\nanimated cartoon had more AMI\nNAL attachments, his very name\nBRAY, denotes the sound Of\na donkey.\n\n\nFilmgoers and television view\ners have worried about the de-\nmise of Gable, Bogart, Monroe,\nHarlow, Greenstreet, w. c.\nFields, and LORE. We have\nbecome accustomed to new stars\nand starlets with humdrum names\nas Tippi, Tuesday, Rip, Nick,\njill and Susan Qet us not overlook\nHayley).\n\n\nStill holding on with tenacious\ngrip is Lassie, and Tarzan's\nchimpanzees. They have been\njoined by various Disney dogs\nand Mister Ed, the talking horse.\n\n\nA sure way to discover just\nhow great the impact of animals\nhas been--notice your next five\nteleWsion commercials. Two Of\nthem will surely be selling dog or\ncat chow. See how doggy or catty\nthe humans even act7\n\n\nTomorrow millionaire will\nnot be the person who makes the\nbetter mousetrap but 1t will be\nthe man who trains the swing\nINCEST mouse or develops the\nnext thriller starring a lovable\nskunk.\n\n\nThe country is no longer\nmerely going to the dogs. The\ndogs have won over and now we\nare being ruled by the animal\nkingdom from aardvark to ze-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2172,
+                    "y0": 324,
+                    "x1": 2962,
+                    "y1": 557
+                },
+                {
+                    "x0": 2161,
+                    "y0": 585,
+                    "x1": 2811,
+                    "y1": 702
+                },
+                {
+                    "x0": 2143,
+                    "y0": 730,
+                    "x1": 2985,
+                    "y1": 5342
+                }
+            ],
+            "bbox": [
+                2143,
+                324,
+                2985,
+                5342
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-08-14_p1_sn84021918_0041421695A_1964081401_0510.json"
+        },
+        {
+            "object_ids": [
+                22,
+                16,
+                11
+            ],
+            "headline": "",
+            "article": "During the past several months numerous\ncharges Of child kidnapping and molestation\nhas been made in the Greater Phoenix area.\n\n\nYoung girls haze been Mved into cars and\nmOlested by adult men. These men are able\nto Avoid long jail stays and they just return to\ntheir old habits once released.\n\n\nMrs. Janice l1adde2n of IIO3 ~ 3Oth Avenue\nAND a GROUP of enpuged parents are to be COM\nmended on their action to get statewide support\ntot5H petitions asking for SITTER bae'aisknaents\nfor child molesteys and Rid,aabbers.\n\n\nTwo Of the major PROPOSALS contained in the\npetitions can for making kidnapping ''s0ith\nintent to do bodily harzn'' a capital ofense,\nand that child molestiMg econae a felony in\nstead OF a na5sdemeanoY\n\n\nThe other proposals include providing\nbsychiat11c treatment for mentally defective\noffenders = cond offenders to get life and\naccused offenders should be held after arrest\n1UithOut bond.\n\n\nVicious crimes against children must be\ndedliaDtlaout the&sOf abbyoa CHI. Mothers and\nfathers are urged to circulate petitions in\ntheir neighb0yh0ods. Let's he'll make the\nstreets safe for all children in the State of\nAy5soaa. 81 EE fa",
+            "byline": "VOL. 7, NO. 5",
+            "bbox_list": [
+                {
+                    "x0": 989,
+                    "y0": 783,
+                    "x1": 1512,
+                    "y1": 859
+                },
+                {
+                    "x0": 461,
+                    "y0": 1861,
+                    "x1": 1906,
+                    "y1": 2025
+                },
+                {
+                    "x0": 328,
+                    "y0": 2070,
+                    "x1": 2069,
+                    "y1": 4472
+                }
+            ],
+            "bbox": [
+                328,
+                783,
+                2069,
+                4472
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-14_p1_sn84021918_0041421695A_1964081401_0510.json"
+        }
+    ]
+}

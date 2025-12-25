@@ -1,0 +1,175 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4880,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071701/0474.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3094,
+                "y0": 2703,
+                "x1": 4773,
+                "y1": 3306
+            },
+            "class": "article",
+            "raw_text": "heat winner last year. John Gaapher entering\nthe Soap Box title. The of Mr. and Mrs. John\nagher 5lO9 E. Avalon Drive John already has his\npainted polished and ready ROLL He is of 10 boys being\nsponsored this year by A. ]. Bayless Markets.\n\n\nThe Soap Box Derby will be held Sunday July 49, South\nMountain Park.\n\n\nWallace, Phoenix comedian will appear.\n\n\nThe by the Phoenix Chamber of Commerce\nand the Chevrolet Motor Corp",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2196,
+                "y0": 544,
+                "x1": 3042,
+                "y1": 4764
+            },
+            "class": "article",
+            "raw_text": "\n\n\ngranddaughters. Geneva Slade\nand Lora Cook, are visiting Mrs.\nCordelia Murphy.\n\n\nMrs. Ruby 10 Harris of Chi\ncago, is spending her vacation\nwith her aunt, Mrs. Mary Ellen\nBruce. Both will motor to Los\nAngeles this weekend.\n\n\nMrs. Lafayette Barr hosted\nbirthday party for her husband.\nLafayette, at their home 1914 E.\nChapman Rd. Guests included Mr..\nand Mrs. W. B. ARR, Mr.. and\nMrs. w. H. Cole, Mr.. and Mrs.\nA. Bragg. Mr.. and Mrs. R. O.\nJohnson, Mrs. Hector Mcclure,\nj. w. Walker, c. Morgan, and\nmany others.\n\n\nThe second annual Teen Pag-\ncant Mother-Daughter tea will be\nheld Sum-, July l9 at the home\nof MIR. and Mrs. Clarence Jack\nson. 1927 E. Coronado.\n\n\n1t is spoons ored by the East\nlake Teensville Council and the\nbrowning of one of the 20 con-\ntestants will be held in Oct.\nMrs. Hazel Berry Of Amarillo.\nTexas and Mrs. Ella Austin of\nWatonga. Okla. are visiting Mr..\nand Mrs. Edward Lewis.\n\n\nMIR. and Mrs. William STROBE,\nand Miss Rita Kay are house\nguests of the H. Ellises. They will\nall visit Mrs. Lynn Stafford in\nLos Angeles soon.\n\n\nMr.. and Mrs. Maurice Mitch\nell are the proud parents Of a\nbaby girl.\n\n\nMrs. Bonnie Hunter Watson\nand her daughter. Robin are re-\ncovering from injuries received\ntwo weeks ago. Her tire blew out\non the highway near Florence two\nweeks ago and Bonnie suffered\nbroken back. Robin has broken\nleg.\n\n\nMr.. and Mrs. Pleasant John\nson, hosted gala party at their\nloyelv home. 1925 E.. Coronado\nRd. for operators of the Ad-\nrianne Beauty Salon.\n\n\nGuests included Mr.. and Mrs.\nMelvin Gray, Mrs. Johnny Con-\nner, who was honored on her\nbirthday, too, Miss Alnetta Faye\nHawkins, MIR. and Mrs. Jessie\nRuffin. Mr.. and Mrs. Fred Oliver,\nMr.. and Mrs. W. T. Turner,\nMr.. and Mrs. James Reed, Mr..\nand Mrs. Lyle Allen. Mr.. Ron\nME Smart, Mrs. Katie Clark,\nMrs. Richie Mae Mark and Miss\nJoy Minnefield.\n\n\nThe delicious food was pre-\npared by Mrs. Bertha Rollins,\nMrs. Johns on's mother. She had\nsomething new to me monkey\nbread.\n\n\nThought of the week; Patience\nis the companion of wisdom.\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2208,
+                "y0": 272,
+                "x1": 2886,
+                "y1": 469
+            },
+            "class": "headline",
+            "raw_text": "All Around\nBY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 402,
+                "y0": 1458,
+                "x1": 2099,
+                "y1": 2003
+            },
+            "class": "article",
+            "raw_text": "Hot weather grand time for The ice and punch\nrefreshing and cooling\n\n\nFrom the looks the faces the honoree and guests\ngreat affair.\n\n\nJones' MIR. and Mrs Joel Shambra 1906 E.\nWood St., celebrated his thirteenth year.\n\n\nJoining Paul Anderson, Shirley McCun Areddie\nBrooks Ne Williams Jasper Hendrix Leonard Binyeard Or\nland Pete, Sheriff. Jones, and Patricia McCuin.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964071701_0474",
+    "full articles": [
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "heat winner last year. John Gaapher entering\nthe Soap Box title. The of Mr. and Mrs. John\nagher 5lO9 E. Avalon Drive John already has his\npainted polished and ready ROLL He is of 10 boys being\nsponsored this year by A. ]. Bayless Markets.\n\n\nThe Soap Box Derby will be held Sunday July 49, South\nMountain Park.\n\n\nWallace, Phoenix comedian will appear.\n\n\nThe by the Phoenix Chamber of Commerce\nand the Chevrolet Motor Corp",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3094,
+                    "y0": 2703,
+                    "x1": 4773,
+                    "y1": 3306
+                }
+            ],
+            "bbox": [
+                3094,
+                2703,
+                4773,
+                3306
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-07-17_pna_sn84021918_0041421695A_1964071701_0474.json"
+        },
+        {
+            "object_ids": [
+                8,
+                5
+            ],
+            "headline": "All Around\nBY FLORA RUFFIN",
+            "article": "\n\n\ngranddaughters. Geneva Slade\nand Lora Cook, are visiting Mrs.\nCordelia Murphy.\n\n\nMrs. Ruby 10 Harris of Chi\ncago, is spending her vacation\nwith her aunt, Mrs. Mary Ellen\nBruce. Both will motor to Los\nAngeles this weekend.\n\n\nMrs. Lafayette Barr hosted\nbirthday party for her husband.\nLafayette, at their home 1914 E.\nChapman Rd. Guests included Mr..\nand Mrs. W. B. ARR, Mr.. and\nMrs. w. H. Cole, Mr.. and Mrs.\nA. Bragg. Mr.. and Mrs. R. O.\nJohnson, Mrs. Hector Mcclure,\nj. w. Walker, c. Morgan, and\nmany others.\n\n\nThe second annual Teen Pag-\ncant Mother-Daughter tea will be\nheld Sum-, July l9 at the home\nof MIR. and Mrs. Clarence Jack\nson. 1927 E. Coronado.\n\n\n1t is spoons ored by the East\nlake Teensville Council and the\nbrowning of one of the 20 con-\ntestants will be held in Oct.\nMrs. Hazel Berry Of Amarillo.\nTexas and Mrs. Ella Austin of\nWatonga. Okla. are visiting Mr..\nand Mrs. Edward Lewis.\n\n\nMIR. and Mrs. William STROBE,\nand Miss Rita Kay are house\nguests of the H. Ellises. They will\nall visit Mrs. Lynn Stafford in\nLos Angeles soon.\n\n\nMr.. and Mrs. Maurice Mitch\nell are the proud parents Of a\nbaby girl.\n\n\nMrs. Bonnie Hunter Watson\nand her daughter. Robin are re-\ncovering from injuries received\ntwo weeks ago. Her tire blew out\non the highway near Florence two\nweeks ago and Bonnie suffered\nbroken back. Robin has broken\nleg.\n\n\nMr.. and Mrs. Pleasant John\nson, hosted gala party at their\nloyelv home. 1925 E.. Coronado\nRd. for operators of the Ad-\nrianne Beauty Salon.\n\n\nGuests included Mr.. and Mrs.\nMelvin Gray, Mrs. Johnny Con-\nner, who was honored on her\nbirthday, too, Miss Alnetta Faye\nHawkins, MIR. and Mrs. Jessie\nRuffin. Mr.. and Mrs. Fred Oliver,\nMr.. and Mrs. W. T. Turner,\nMr.. and Mrs. James Reed, Mr..\nand Mrs. Lyle Allen. Mr.. Ron\nME Smart, Mrs. Katie Clark,\nMrs. Richie Mae Mark and Miss\nJoy Minnefield.\n\n\nThe delicious food was pre-\npared by Mrs. Bertha Rollins,\nMrs. Johns on's mother. She had\nsomething new to me monkey\nbread.\n\n\nThought of the week; Patience\nis the companion of wisdom.\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2208,
+                    "y0": 272,
+                    "x1": 2886,
+                    "y1": 469
+                },
+                {
+                    "x0": 2196,
+                    "y0": 544,
+                    "x1": 3042,
+                    "y1": 4764
+                }
+            ],
+            "bbox": [
+                2196,
+                272,
+                3042,
+                4764
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-17_pna_sn84021918_0041421695A_1964071701_0474.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Hot weather grand time for The ice and punch\nrefreshing and cooling\n\n\nFrom the looks the faces the honoree and guests\ngreat affair.\n\n\nJones' MIR. and Mrs Joel Shambra 1906 E.\nWood St., celebrated his thirteenth year.\n\n\nJoining Paul Anderson, Shirley McCun Areddie\nBrooks Ne Williams Jasper Hendrix Leonard Binyeard Or\nland Pete, Sheriff. Jones, and Patricia McCuin.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 402,
+                    "y0": 1458,
+                    "x1": 2099,
+                    "y1": 2003
+                }
+            ],
+            "bbox": [
+                402,
+                1458,
+                2099,
+                2003
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-07-17_pna_sn84021918_0041421695A_1964071701_0474.json"
+        }
+    ]
+}

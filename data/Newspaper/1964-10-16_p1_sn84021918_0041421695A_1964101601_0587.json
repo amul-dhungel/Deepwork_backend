@@ -1,0 +1,252 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0587.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4876
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 70,
+                "y0": 1700,
+                "x1": 1760,
+                "y1": 2153
+            },
+            "class": "article",
+            "raw_text": "Monares Club Scosdale the of the regional\ndistrict Arizona Cosmeoogists ASSN meeting and installation\nbanquet.\n\n\nFlora Rufin, cocharman National Beauty\nSalon Week, affiliate TO- Mrs. June jensen NBSW chairman\nBemer president National airdressers and Cosmetic\nlogs and Mr. and MRS. L. Swarz Lancaster Calif",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1875,
+                "y0": 644,
+                "x1": 2688,
+                "y1": 1532
+            },
+            "class": "article",
+            "raw_text": "A charge Of murder was filed\nagainst Lucille Ann Williams,\nFL, in the court of Justice of the\nPeace AL ]. Flood Monday.\n\n\nPolice said Miss Williams,\n1901 S. Ninth Ave-, shot and\nkilled Asa Scott, Jr., IS, of $40\nW. Tonic. during an argument\nlate Sunday in Dixon's Buffet,\n1919 w. Buckeye Road. lnves-\ntigators said witness told them\nMiss Williams fired after Scott\nrepeatedly struck his common\nlaw wife, VIII is Miss Williams\nsister.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1915,
+                "y0": 400,
+                "x1": 2555,
+                "y1": 604
+            },
+            "class": "headline",
+            "raw_text": "Woman Charged\nWith Murder",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2084,
+                "y0": 6678,
+                "x1": 4179,
+                "y1": 7207
+            },
+            "class": "article",
+            "raw_text": "2ooYEs COMMITTEE\n59o1 w. 1000\nMember r.\n\n\n\nReed F. WEIGH, 1896 Gale Gonetta Member.\nWant nfomauo 2ooY\n1872 S. Central, Phoenix Or Phone 254458o",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2937,
+                "y0": 6603,
+                "x1": 4121,
+                "y1": 6714
+            },
+            "class": "headline",
+            "raw_text": "fly FEATHERBEDDING SAFELY",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2240,
+                "y0": 6017,
+                "x1": 4011,
+                "y1": 6192
+            },
+            "class": "article",
+            "raw_text": "is sae perfectly fair way to put Arizona in step with\nthe rest of the nation deserves your thoughtful support",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2333,
+                "y0": 5494,
+                "x1": 3965,
+                "y1": 5989
+            },
+            "class": "headline",
+            "raw_text": "PROPOSITION 2OO-YES\nWILL SAFELY eliminate COSTLY\nFEATHERBEDDING IN ARIZONA!",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-16"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Monares Club Scosdale the of the regional\ndistrict Arizona Cosmeoogists ASSN meeting and installation\nbanquet.\n\n\nFlora Rufin, cocharman National Beauty\nSalon Week, affiliate TO- Mrs. June jensen NBSW chairman\nBemer president National airdressers and Cosmetic\nlogs and Mr. and MRS. L. Swarz Lancaster Calif",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 70,
+                    "y0": 1700,
+                    "x1": 1760,
+                    "y1": 2153
+                }
+            ],
+            "bbox": [
+                70,
+                1700,
+                1760,
+                2153
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-16_p1_sn84021918_0041421695A_1964101601_0587.json"
+        },
+        {
+            "object_ids": [
+                4,
+                1
+            ],
+            "headline": "Woman Charged\nWith Murder",
+            "article": "A charge Of murder was filed\nagainst Lucille Ann Williams,\nFL, in the court of Justice of the\nPeace AL ]. Flood Monday.\n\n\nPolice said Miss Williams,\n1901 S. Ninth Ave-, shot and\nkilled Asa Scott, Jr., IS, of $40\nW. Tonic. during an argument\nlate Sunday in Dixon's Buffet,\n1919 w. Buckeye Road. lnves-\ntigators said witness told them\nMiss Williams fired after Scott\nrepeatedly struck his common\nlaw wife, VIII is Miss Williams\nsister.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 400,
+                    "x1": 2555,
+                    "y1": 604
+                },
+                {
+                    "x0": 1875,
+                    "y0": 644,
+                    "x1": 2688,
+                    "y1": 1532
+                }
+            ],
+            "bbox": [
+                1875,
+                400,
+                2688,
+                1532
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-16_p1_sn84021918_0041421695A_1964101601_0587.json"
+        },
+        {
+            "object_ids": [
+                15,
+                11
+            ],
+            "headline": "fly FEATHERBEDDING SAFELY",
+            "article": "2ooYEs COMMITTEE\n59o1 w. 1000\nMember r.\n\n\n\nReed F. WEIGH, 1896 Gale Gonetta Member.\nWant nfomauo 2ooY\n1872 S. Central, Phoenix Or Phone 254458o",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2937,
+                    "y0": 6603,
+                    "x1": 4121,
+                    "y1": 6714
+                },
+                {
+                    "x0": 2084,
+                    "y0": 6678,
+                    "x1": 4179,
+                    "y1": 7207
+                }
+            ],
+            "bbox": [
+                2084,
+                6603,
+                4179,
+                7207
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-10-16_p1_sn84021918_0041421695A_1964101601_0587.json"
+        },
+        {
+            "object_ids": [
+                18,
+                19
+            ],
+            "headline": "PROPOSITION 2OO-YES\nWILL SAFELY eliminate COSTLY\nFEATHERBEDDING IN ARIZONA!",
+            "article": "is sae perfectly fair way to put Arizona in step with\nthe rest of the nation deserves your thoughtful support",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2333,
+                    "y0": 5494,
+                    "x1": 3965,
+                    "y1": 5989
+                },
+                {
+                    "x0": 2240,
+                    "y0": 6017,
+                    "x1": 4011,
+                    "y1": 6192
+                }
+            ],
+            "bbox": [
+                2240,
+                5494,
+                4011,
+                6192
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-10-16_p1_sn84021918_0041421695A_1964101601_0587.json"
+        }
+    ]
+}

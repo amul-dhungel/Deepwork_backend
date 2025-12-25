@@ -1,0 +1,440 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-04",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4852,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-04",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964090401/0534.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3006,
+                "y0": 1003,
+                "x1": 4689,
+                "y1": 2211
+            },
+            "class": "article",
+            "raw_text": "Every Arizona this time political interest should\npeak however, much political interest\n\n\nWhat has caused the apathy Why there less political activity\nAre Arizona citizens firing polcs7 Do they realize that pr\nmaries important to the party and to the state7\n\n\nToo often refrain from casting their ballots the primary\nbecause they think that primaries worthwhile.\n\n\nThe caliber of the candidate the primary reflects\nfinally elected apathy rules many times the least\nqualified person wins Simply because the did exercise\ntheir voice at the polls.\n\n\nMaybe political\nspirit in the There which have four\ncounty officials This would money\nand might increase political interest here in\n\n\nRalph Stages. Maricopa County Republican\nchairman, \"lets sit apathy\n\n\nVote the primary election Tuesday Sept 8. Remember that\nthere millions persons living other lands who would gladly\nfor the right for their government officials",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3540,
+                "y0": 377,
+                "x1": 4510,
+                "y1": 824
+            },
+            "class": "headline",
+            "raw_text": "PREvIEws\nMD REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3754,
+                "y0": 731,
+                "x1": 4272,
+                "y1": 813
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3511,
+                "y0": 887,
+                "x1": 4225,
+                "y1": 975
+            },
+            "class": "author",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2106,
+                "y0": 4972,
+                "x1": 2926,
+                "y1": 7120
+            },
+            "class": "article",
+            "raw_text": "John Jacobs, chairman of the\nboard of Arizona Public Service\nCompany. in reply to Mike Nor\nris' statement concerning the\nfiling Of petitions with the Ari-\nIONA Corporation Commission,\nsaid:\n\n\n1.-TWO years ago when Mr.. Nor\nris was a candidate for COVER\nnor, he made serious charges\nInvolving the honesty, integrity\nand business judgment of Ari-\niona Public Service Company\nand its officers and directors.\nAfter his 1862 defeat, MIR. Norris\nlost interest in pressing those\ncharges to a hearing where he\nwould have been required to sub\nstantiate them. Now, in August\nof 1864, Mr.. Morris Is again a\ncandidate for governor and again\nhe attacks Arizona Public Service\nCompany and its officers and di-\nrectors.\n\n\n\"Arizona Public Service Com\npany will ask for an early public\nhearing at which MIR. Morris will\nfinally be required to come for\nward with evidence, If any he\nhas, to support these statements.\n\n\nOur company denies these\ncharges and states that they are\nwholly without foundation. On\nbehalf of our fine officers and\ndirectors and onally, re-\nsent the charges that have been\nmade\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2112,
+                "y0": 4804,
+                "x1": 2572,
+                "y1": 4956
+            },
+            "class": "headline",
+            "raw_text": "APPS RefUtes\nMorris Churqes",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2083,
+                "y0": 644,
+                "x1": 2920,
+                "y1": 4770
+            },
+            "class": "article",
+            "raw_text": "A favorite Gershwin song tells\nus of the easy living in the sum-\nmer. Nat Cole sings bouncy\nballad about the goodness of sum-\nmer. Even Chaucer penned some\nold English rhyme about summer\nis coming. But you had better\nstop and think. Summer IS going\nfast.\n\n\nThe calendar sheet was torn\naway too quickly this Monday.\n1t seems as though it was yes\nterday when had torn July off\nand tossed the useless sheet in the\nwastebasket.\n\n\nNow it's the first day of Sep\nTENDER and l can hardly recall\nsome of the plans had early\nin the spring, as | eagerly awaited\nthe summer.\n\n\nWhere did the hours go7 Why\n| forget to do some of the things\nwhich we're on my \"must do\nlist7 What happened to the great\nmoments ofadventure which we're\nto fill all of my spare time\nfrom June to August7\n\n\nThere Is nothing so refreshing\nas the minutes when we antici-\npate the coming Of summer. We\nwait with bated breath and re\nanxious for the hot, lazy days to\nappear. Sometimes the days be-\ncome too warm, too quickly here\non the desert.\n\n\nLooking backward l can\nenumerate more than a dozen\nprojects which should have been\ncompleted before today. My\nspouse and l did finish our largest\nproject the refurbishing, re-\nmodelling and renovating of our\nhome and we added office space.\n\n\nWe spent restful week in San\nFrancisco and Edward returned\nto the National Republican con-\nvention. He certainly did not\nplan to be robbed or hospitalized\nduring the month of July.\n\n\nMy Mothers visit brought us\nmuch JOY and some increase in\nour waistlines. Her delicious\nyellow cakes, coffee cakes,\ncream cheese cakes. egg custard\npies and other delights we're ir-\nresistible. We really had ad-\nventures in eating while she was\nhere.\n\n\nNow that summer Is waning\nstill plan to make three photo\ngraph albums, plant two palm\ntrees. plant a dozen oleanders,\nvisit the art museum, take book\nto the bindery. wax my car and\nrest daily for two hours.\n\n\nI'll bet you can guess when\nwill fulfill these plans How\ndid you figure it out7\n\n\nNext | am going too let's\nsee next summer.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2124,
+                "y0": 301,
+                "x1": 2914,
+                "y1": 523
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nELO,sE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2106,
+                "y0": 557,
+                "x1": 2502,
+                "y1": 633
+            },
+            "class": "headline",
+            "raw_text": "N ext SUNNI er",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 279,
+                "y0": 2025,
+                "x1": 2032,
+                "y1": 4851
+            },
+            "class": "article",
+            "raw_text": "Last week more police officers we're added\nto the city police department.. They are one of\nthe first classes which udll be graduated to\nbolster the hard pressed force aOho represent\nLAM and order in our evUiYOnS.\n\n\nOne of the daily newspapers glOes readers\nbox score of criminal activities day by day IN\nthe city. One can hardly point a finger at\nsome of the eastern urban centeYs for their\ncrime rates. Crime rates are increasing\nhere and 1T can not be cuytailed simply by\nadding more policemen.\n\n\nCounty and state court dOckets are over\nf1O1Oing. enforcement officers are Huu1ted\nby easy bail, often the person leaves the state\nLeaving the bondsn1an holding aOOythless PAPER.\n\n\nThe state, city and county haze poor jail\nfacilities. Hardened criminals are placed\nside by side with youthful offenders. There\nare no facilities for much bsychiaty1c aid or\nrehabilitation,\n\n\nWaves Of disYeSbect for property, lte and\nlam are sweeping the nation. A u communities\nshould be come a1OuYe of its problems and steps\nshould be taken to help de crease the crime\nrates.\n\n\nMore than additional policemen are needed.\nThe effective planning Of city, county and state\nofficials must initiate and promote a citizens\nmarch on crime.\n\n\nLittle is gained by crime committees Wh1ch\nfunction merely to give reports and make\nre commentators.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 493,
+                "y0": 1595,
+                "x1": 1104,
+                "y1": 1747
+            },
+            "class": "author",
+            "raw_text": "~ Thas Rswspspss 10 Q ws@esv ~\nz@1 NEWSPAPERS ASSOCIATION\n\n\nFss 6rssts. psblte Ssvvtes",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 331,
+                "y0": 1839,
+                "x1": 1208,
+                "y1": 1985
+            },
+            "class": "headline",
+            "raw_text": "More Than Officers",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 383,
+                "y0": 835,
+                "x1": 1991,
+                "y1": 1764
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, PUBL 'sHER-EoToR\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nESTABLISHED JULY 10, 1888\n\n\nTHURSDAY\n\n\nCOMPANY INC\n2ia7 e BROADWAY 27e-23ol 50 so YR.\nNAIL ADDRESS p. O. BOX szze, PHOENIX, ARiz' ssoAo\nPOSTAGE PAID AT PHOENIX, ARIZONA\nis NEE EVILS OF OUR\nTIMES IS TO DO JUSTICE FREEDOM.\n- smsmA~S RESEkTATtVE\nAez661 NFwspApfs ASSOCIATION AmALeAMATEo PUBLISHERS\nS1 '\" NEW YORK N.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 354,
+                "y0": 313,
+                "x1": 1951,
+                "y1": 737
+            },
+            "class": "headline",
+            "raw_text": "Manufacturing",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 952,
+                "y0": 765,
+                "x1": 1481,
+                "y1": 842
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. 8",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964090401_0534",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                17,
+                14,
+                0
+            ],
+            "headline": "PREvIEws\nMD REVIEWS\n\n\nEdward Banks",
+            "article": "Every Arizona this time political interest should\npeak however, much political interest\n\n\nWhat has caused the apathy Why there less political activity\nAre Arizona citizens firing polcs7 Do they realize that pr\nmaries important to the party and to the state7\n\n\nToo often refrain from casting their ballots the primary\nbecause they think that primaries worthwhile.\n\n\nThe caliber of the candidate the primary reflects\nfinally elected apathy rules many times the least\nqualified person wins Simply because the did exercise\ntheir voice at the polls.\n\n\nMaybe political\nspirit in the There which have four\ncounty officials This would money\nand might increase political interest here in\n\n\nRalph Stages. Maricopa County Republican\nchairman, \"lets sit apathy\n\n\nVote the primary election Tuesday Sept 8. Remember that\nthere millions persons living other lands who would gladly\nfor the right for their government officials",
+            "byline": "Edward Banks\n\n",
+            "bbox_list": [
+                {
+                    "x0": 3540,
+                    "y0": 377,
+                    "x1": 4510,
+                    "y1": 824
+                },
+                {
+                    "x0": 3754,
+                    "y0": 731,
+                    "x1": 4272,
+                    "y1": 813
+                },
+                {
+                    "x0": 3511,
+                    "y0": 887,
+                    "x1": 4225,
+                    "y1": 975
+                },
+                {
+                    "x0": 3006,
+                    "y0": 1003,
+                    "x1": 4689,
+                    "y1": 2211
+                }
+            ],
+            "bbox": [
+                3006,
+                377,
+                4689,
+                2211
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-04_pna_sn84021918_0041421695A_1964090401_0534.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "APPS RefUtes\nMorris Churqes",
+            "article": "John Jacobs, chairman of the\nboard of Arizona Public Service\nCompany. in reply to Mike Nor\nris' statement concerning the\nfiling Of petitions with the Ari-\nIONA Corporation Commission,\nsaid:\n\n\n1.-TWO years ago when Mr.. Nor\nris was a candidate for COVER\nnor, he made serious charges\nInvolving the honesty, integrity\nand business judgment of Ari-\niona Public Service Company\nand its officers and directors.\nAfter his 1862 defeat, MIR. Norris\nlost interest in pressing those\ncharges to a hearing where he\nwould have been required to sub\nstantiate them. Now, in August\nof 1864, Mr.. Morris Is again a\ncandidate for governor and again\nhe attacks Arizona Public Service\nCompany and its officers and di-\nrectors.\n\n\n\"Arizona Public Service Com\npany will ask for an early public\nhearing at which MIR. Morris will\nfinally be required to come for\nward with evidence, If any he\nhas, to support these statements.\n\n\nOur company denies these\ncharges and states that they are\nwholly without foundation. On\nbehalf of our fine officers and\ndirectors and onally, re-\nsent the charges that have been\nmade\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2112,
+                    "y0": 4804,
+                    "x1": 2572,
+                    "y1": 4956
+                },
+                {
+                    "x0": 2106,
+                    "y0": 4972,
+                    "x1": 2926,
+                    "y1": 7120
+                }
+            ],
+            "bbox": [
+                2106,
+                4804,
+                2926,
+                7120
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-04_pna_sn84021918_0041421695A_1964090401_0534.json"
+        },
+        {
+            "object_ids": [
+                9,
+                13,
+                3
+            ],
+            "headline": "Siqhts and Sounds\nELO,sE BANKS\n\nN ext SUNNI er",
+            "article": "A favorite Gershwin song tells\nus of the easy living in the sum-\nmer. Nat Cole sings bouncy\nballad about the goodness of sum-\nmer. Even Chaucer penned some\nold English rhyme about summer\nis coming. But you had better\nstop and think. Summer IS going\nfast.\n\n\nThe calendar sheet was torn\naway too quickly this Monday.\n1t seems as though it was yes\nterday when had torn July off\nand tossed the useless sheet in the\nwastebasket.\n\n\nNow it's the first day of Sep\nTENDER and l can hardly recall\nsome of the plans had early\nin the spring, as | eagerly awaited\nthe summer.\n\n\nWhere did the hours go7 Why\n| forget to do some of the things\nwhich we're on my \"must do\nlist7 What happened to the great\nmoments ofadventure which we're\nto fill all of my spare time\nfrom June to August7\n\n\nThere Is nothing so refreshing\nas the minutes when we antici-\npate the coming Of summer. We\nwait with bated breath and re\nanxious for the hot, lazy days to\nappear. Sometimes the days be-\ncome too warm, too quickly here\non the desert.\n\n\nLooking backward l can\nenumerate more than a dozen\nprojects which should have been\ncompleted before today. My\nspouse and l did finish our largest\nproject the refurbishing, re-\nmodelling and renovating of our\nhome and we added office space.\n\n\nWe spent restful week in San\nFrancisco and Edward returned\nto the National Republican con-\nvention. He certainly did not\nplan to be robbed or hospitalized\nduring the month of July.\n\n\nMy Mothers visit brought us\nmuch JOY and some increase in\nour waistlines. Her delicious\nyellow cakes, coffee cakes,\ncream cheese cakes. egg custard\npies and other delights we're ir-\nresistible. We really had ad-\nventures in eating while she was\nhere.\n\n\nNow that summer Is waning\nstill plan to make three photo\ngraph albums, plant two palm\ntrees. plant a dozen oleanders,\nvisit the art museum, take book\nto the bindery. wax my car and\nrest daily for two hours.\n\n\nI'll bet you can guess when\nwill fulfill these plans How\ndid you figure it out7\n\n\nNext | am going too let's\nsee next summer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2124,
+                    "y0": 301,
+                    "x1": 2914,
+                    "y1": 523
+                },
+                {
+                    "x0": 2106,
+                    "y0": 557,
+                    "x1": 2502,
+                    "y1": 633
+                },
+                {
+                    "x0": 2083,
+                    "y0": 644,
+                    "x1": 2920,
+                    "y1": 4770
+                }
+            ],
+            "bbox": [
+                2083,
+                301,
+                2920,
+                4770
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-04_pna_sn84021918_0041421695A_1964090401_0534.json"
+        },
+        {
+            "object_ids": [
+                20,
+                12,
+                5
+            ],
+            "headline": "More Than Officers",
+            "article": "Last week more police officers we're added\nto the city police department.. They are one of\nthe first classes which udll be graduated to\nbolster the hard pressed force aOho represent\nLAM and order in our evUiYOnS.\n\n\nOne of the daily newspapers glOes readers\nbox score of criminal activities day by day IN\nthe city. One can hardly point a finger at\nsome of the eastern urban centeYs for their\ncrime rates. Crime rates are increasing\nhere and 1T can not be cuytailed simply by\nadding more policemen.\n\n\nCounty and state court dOckets are over\nf1O1Oing. enforcement officers are Huu1ted\nby easy bail, often the person leaves the state\nLeaving the bondsn1an holding aOOythless PAPER.\n\n\nThe state, city and county haze poor jail\nfacilities. Hardened criminals are placed\nside by side with youthful offenders. There\nare no facilities for much bsychiaty1c aid or\nrehabilitation,\n\n\nWaves Of disYeSbect for property, lte and\nlam are sweeping the nation. A u communities\nshould be come a1OuYe of its problems and steps\nshould be taken to help de crease the crime\nrates.\n\n\nMore than additional policemen are needed.\nThe effective planning Of city, county and state\nofficials must initiate and promote a citizens\nmarch on crime.\n\n\nLittle is gained by crime committees Wh1ch\nfunction merely to give reports and make\nre commentators.",
+            "byline": "~ Thas Rswspspss 10 Q ws@esv ~\nz@1 NEWSPAPERS ASSOCIATION\n\n\nFss 6rssts. psblte Ssvvtes",
+            "bbox_list": [
+                {
+                    "x0": 493,
+                    "y0": 1595,
+                    "x1": 1104,
+                    "y1": 1747
+                },
+                {
+                    "x0": 331,
+                    "y0": 1839,
+                    "x1": 1208,
+                    "y1": 1985
+                },
+                {
+                    "x0": 279,
+                    "y0": 2025,
+                    "x1": 2032,
+                    "y1": 4851
+                }
+            ],
+            "bbox": [
+                279,
+                1595,
+                2032,
+                4851
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-04_pna_sn84021918_0041421695A_1964090401_0534.json"
+        },
+        {
+            "object_ids": [
+                16,
+                19,
+                15
+            ],
+            "headline": "Manufacturing",
+            "article": "EDWARD BANKS, PUBL 'sHER-EoToR\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nESTABLISHED JULY 10, 1888\n\n\nTHURSDAY\n\n\nCOMPANY INC\n2ia7 e BROADWAY 27e-23ol 50 so YR.\nNAIL ADDRESS p. O. BOX szze, PHOENIX, ARiz' ssoAo\nPOSTAGE PAID AT PHOENIX, ARIZONA\nis NEE EVILS OF OUR\nTIMES IS TO DO JUSTICE FREEDOM.\n- smsmA~S RESEkTATtVE\nAez661 NFwspApfs ASSOCIATION AmALeAMATEo PUBLISHERS\nS1 '\" NEW YORK N.",
+            "byline": "VOL. 7, NO. 8",
+            "bbox_list": [
+                {
+                    "x0": 354,
+                    "y0": 313,
+                    "x1": 1951,
+                    "y1": 737
+                },
+                {
+                    "x0": 952,
+                    "y0": 765,
+                    "x1": 1481,
+                    "y1": 842
+                },
+                {
+                    "x0": 383,
+                    "y0": 835,
+                    "x1": 1991,
+                    "y1": 1764
+                }
+            ],
+            "bbox": [
+                354,
+                313,
+                1991,
+                1764
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-09-04_pna_sn84021918_0041421695A_1964090401_0534.json"
+        }
+    ]
+}

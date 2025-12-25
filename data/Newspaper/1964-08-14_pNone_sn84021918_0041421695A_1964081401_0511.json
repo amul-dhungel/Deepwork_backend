@@ -1,0 +1,373 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-14",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7391,
+        "width": 4844,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-14",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964081401/0511.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 949,
+                "y0": 2384,
+                "x1": 1758,
+                "y1": 3326
+            },
+            "class": "article",
+            "raw_text": "rector of the contest and she\nshould be contacted for further\ninformation at 253-024o or 253-\n1881.\n\n\nThe first prize is ST, 900 cash\nand an all expense trip to ma\ntional tv program where the win\nner will make an appearance.\n\n\nSecond prize $3.50; third\nprize $500; fourth prize $3.50,\nand five fifth prizes = $lO0.\n\n\nContestants must have lived\nin the state for at least one year,\nmust be strictly amateur and\nthere are no age, race, creed or\nreligious restrictions.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 256,
+                "y0": 2124,
+                "x1": 1585,
+                "y1": 2362
+            },
+            "class": "headline",
+            "raw_text": "Amateur Talent Contest\nSponsored BY Fair Commission",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 43,
+                "y0": 2413,
+                "x1": 858,
+                "y1": 3321
+            },
+            "class": "article",
+            "raw_text": "The first statewide talent con-\ntest presented by the Arizona\nState Fair Commission will be\nheld Nov. lila. Amateur talent\nwill be featured and individuals\nand organizations are urged to\nenter.\n\n\nCounty wide contests arr\nscheduled during the next three\nmonths. Finals will be held at\nthe state fairgrounds on Nov. IA.\n\n\nPreliminary contests are\nscheduled Nov. IL and IL, with\nsemifinals planned for Nov. l3.\n\n\nMrs. Cecile Pursley is the d.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3605,
+                "y0": 606,
+                "x1": 4415,
+                "y1": 2449
+            },
+            "class": "article",
+            "raw_text": "Dt. Maple L. Pratt scored 2l0\nwhile bowling at Thunderbird\nLanes. She is now member Of\nthe select 200 Bowlers Club and\nshe is wearing her pin proudly.\n\n\nEveryone is invited to the\nTemples Luau Fri, Aug. IA.\ndonation 81. 1t Is a benefit\ndance.\n\n\nThe local bathing beauty and\ntalent contest will be bigger,\nbetter and a different type pro-\ngram. We need contestants and\nsponsors. Age limits 1925 and\nsingle are required. Committee\nmeets every Thursday at 6:30pm\nat the lodge.\n\n\nBro. Clarence Marsell is Ill In\nWashington, D. c.. at 5l4 9\nStreet, S. E. He was stricken\nwhile visiting relatives there.\n\n\nDIT. Elizabeth Turner remains\nin Memorial Hospital, JWest#26.\n\n\nBro. Granville McBroom's\nwife, Blanche is recovering from\nrecent surgery at home el5 S.\n9TH Ave.\n\n\nDIT. Gertrude Clements and her\nfamily have returned from a va\ncation to Oakland and the Bay\narea.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3605,
+                "y0": 346,
+                "x1": 4143,
+                "y1": 543
+            },
+            "class": "headline",
+            "raw_text": "EIks Corner\nC. McCLAMMY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1833,
+                "y0": 2321,
+                "x1": 2648,
+                "y1": 2853
+            },
+            "class": "article",
+            "raw_text": "Vice officers arrested Gwenn\nArmstrong, 26, zoos E. Washing\nton, and Ethel Mae Frenzy, 384l\nE. Illini, on prostitution charges.\n\n\nMISS Armstrong was booked\nfor prostitution and receiving\nearnings from prostitution. Miss\nFrenzy was booked for pro-\nstitution.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1861,
+                "y0": 2084,
+                "x1": 2492,
+                "y1": 2281
+            },
+            "class": "headline",
+            "raw_text": "WOMAN JAILED\nON VICE CHARGES",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1827,
+                "y0": 2979,
+                "x1": 2671,
+                "y1": 3280
+            },
+            "class": "article",
+            "raw_text": "CUSTOM CABINET Inns\n5 BAR TIES-FURNITUR\nESPECIALLY WOOD WORKING 5\nFREE ESTIMATES BR 6-3772\n1897 w. BROADWAY",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1873,
+                "y0": 2875,
+                "x1": 2630,
+                "y1": 2968
+            },
+            "class": "headline",
+            "raw_text": "LANDSON WOOD MFG.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2716,
+                "y0": 2194,
+                "x1": 3520,
+                "y1": 2501
+            },
+            "class": "article",
+            "raw_text": "Mrs. Daisy Caldwell has mo-\ntored to Lubbock, Texas, to VISIT\nrelatives. Her daughter, Pat\nricia, who has spent two months\nthere will return with her.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2733,
+                "y0": 2072,
+                "x1": 3341,
+                "y1": 2172
+            },
+            "class": "headline",
+            "raw_text": "Coming and Going",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964081401_0511",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "Amateur Talent Contest\nSponsored BY Fair Commission",
+            "article": "rector of the contest and she\nshould be contacted for further\ninformation at 253-024o or 253-\n1881.\n\n\nThe first prize is ST, 900 cash\nand an all expense trip to ma\ntional tv program where the win\nner will make an appearance.\n\n\nSecond prize $3.50; third\nprize $500; fourth prize $3.50,\nand five fifth prizes = $lO0.\n\n\nContestants must have lived\nin the state for at least one year,\nmust be strictly amateur and\nthere are no age, race, creed or\nreligious restrictions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 256,
+                    "y0": 2124,
+                    "x1": 1585,
+                    "y1": 2362
+                },
+                {
+                    "x0": 949,
+                    "y0": 2384,
+                    "x1": 1758,
+                    "y1": 3326
+                }
+            ],
+            "bbox": [
+                256,
+                2124,
+                1758,
+                3326
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-14_pna_sn84021918_0041421695A_1964081401_0511.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "The first statewide talent con-\ntest presented by the Arizona\nState Fair Commission will be\nheld Nov. lila. Amateur talent\nwill be featured and individuals\nand organizations are urged to\nenter.\n\n\nCounty wide contests arr\nscheduled during the next three\nmonths. Finals will be held at\nthe state fairgrounds on Nov. IA.\n\n\nPreliminary contests are\nscheduled Nov. IL and IL, with\nsemifinals planned for Nov. l3.\n\n\nMrs. Cecile Pursley is the d.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 43,
+                    "y0": 2413,
+                    "x1": 858,
+                    "y1": 3321
+                }
+            ],
+            "bbox": [
+                43,
+                2413,
+                858,
+                3321
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-14_pna_sn84021918_0041421695A_1964081401_0511.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "EIks Corner\nC. McCLAMMY",
+            "article": "Dt. Maple L. Pratt scored 2l0\nwhile bowling at Thunderbird\nLanes. She is now member Of\nthe select 200 Bowlers Club and\nshe is wearing her pin proudly.\n\n\nEveryone is invited to the\nTemples Luau Fri, Aug. IA.\ndonation 81. 1t Is a benefit\ndance.\n\n\nThe local bathing beauty and\ntalent contest will be bigger,\nbetter and a different type pro-\ngram. We need contestants and\nsponsors. Age limits 1925 and\nsingle are required. Committee\nmeets every Thursday at 6:30pm\nat the lodge.\n\n\nBro. Clarence Marsell is Ill In\nWashington, D. c.. at 5l4 9\nStreet, S. E. He was stricken\nwhile visiting relatives there.\n\n\nDIT. Elizabeth Turner remains\nin Memorial Hospital, JWest#26.\n\n\nBro. Granville McBroom's\nwife, Blanche is recovering from\nrecent surgery at home el5 S.\n9TH Ave.\n\n\nDIT. Gertrude Clements and her\nfamily have returned from a va\ncation to Oakland and the Bay\narea.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3605,
+                    "y0": 346,
+                    "x1": 4143,
+                    "y1": 543
+                },
+                {
+                    "x0": 3605,
+                    "y0": 606,
+                    "x1": 4415,
+                    "y1": 2449
+                }
+            ],
+            "bbox": [
+                3605,
+                346,
+                4415,
+                2449
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-14_pna_sn84021918_0041421695A_1964081401_0511.json"
+        },
+        {
+            "object_ids": [
+                9,
+                5
+            ],
+            "headline": "WOMAN JAILED\nON VICE CHARGES",
+            "article": "Vice officers arrested Gwenn\nArmstrong, 26, zoos E. Washing\nton, and Ethel Mae Frenzy, 384l\nE. Illini, on prostitution charges.\n\n\nMISS Armstrong was booked\nfor prostitution and receiving\nearnings from prostitution. Miss\nFrenzy was booked for pro-\nstitution.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1861,
+                    "y0": 2084,
+                    "x1": 2492,
+                    "y1": 2281
+                },
+                {
+                    "x0": 1833,
+                    "y0": 2321,
+                    "x1": 2648,
+                    "y1": 2853
+                }
+            ],
+            "bbox": [
+                1833,
+                2084,
+                2648,
+                2853
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-14_pna_sn84021918_0041421695A_1964081401_0511.json"
+        },
+        {
+            "object_ids": [
+                15,
+                7
+            ],
+            "headline": "LANDSON WOOD MFG.",
+            "article": "CUSTOM CABINET Inns\n5 BAR TIES-FURNITUR\nESPECIALLY WOOD WORKING 5\nFREE ESTIMATES BR 6-3772\n1897 w. BROADWAY",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1873,
+                    "y0": 2875,
+                    "x1": 2630,
+                    "y1": 2968
+                },
+                {
+                    "x0": 1827,
+                    "y0": 2979,
+                    "x1": 2671,
+                    "y1": 3280
+                }
+            ],
+            "bbox": [
+                1827,
+                2875,
+                2671,
+                3280
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-14_pna_sn84021918_0041421695A_1964081401_0511.json"
+        },
+        {
+            "object_ids": [
+                14,
+                8
+            ],
+            "headline": "Coming and Going",
+            "article": "Mrs. Daisy Caldwell has mo-\ntored to Lubbock, Texas, to VISIT\nrelatives. Her daughter, Pat\nricia, who has spent two months\nthere will return with her.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2733,
+                    "y0": 2072,
+                    "x1": 3341,
+                    "y1": 2172
+                },
+                {
+                    "x0": 2716,
+                    "y0": 2194,
+                    "x1": 3520,
+                    "y1": 2501
+                }
+            ],
+            "bbox": [
+                2716,
+                2072,
+                3520,
+                2501
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-14_pna_sn84021918_0041421695A_1964081401_0511.json"
+        }
+    ]
+}

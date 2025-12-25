@@ -1,0 +1,207 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964122501/0681.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7384,
+        "width": 4887
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2755,
+                "y0": 3011,
+                "x1": 3569,
+                "y1": 3346
+            },
+            "class": "article",
+            "raw_text": "from the intercollegiate Broad\ncasting System, Inc, for pro-\ngramming and station operation.\nThe award recognizes the out\nstanding college radio station in\nthe United States.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1953,
+                "y0": 2861,
+                "x1": 3407,
+                "y1": 2989
+            },
+            "class": "headline",
+            "raw_text": "NEWS CENTER WINS AWARD",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 228,
+                "y0": 3449,
+                "x1": 1850,
+                "y1": 3837
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3643,
+                "y0": 680,
+                "x1": 4469,
+                "y1": 2441
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-George D. Car\nroll took the advice Of Horace\nGreeley and a friend. He went\nwest and found bonanza.\n\n\nCarroll, a native of Brooklyn\nis now a resident of Richmond,\nCalf, and the towns first Ne\ngro mayor.\n\n\nCarroll Is the first lawyer to\nbecome mayor Of Richmond.\ntown of $4,000 persons, 81 per-\ncent of them Negroes.\n\n\nwith the continued rapid flow\nof whites into the suburbs\" says\nCarroll, -FOUR urban areas may\nwe'll become predominantly Ne\ngro and Spanish. And Negro\nmayor will not be rarity\"\n\n\nIf Washington were not fed\norally controlled, he is sure that\nit would have a Negro mayor.\n\n\nRichmond is currently in the\nthroes of downtown redevelop-\nment project. Commencing ofthe\nproject depends on interpreta-\nton of a federal assistance law.\nIf the law is decided in Rich\nmonds favor, then the project\nwill go ahead, \"and Richmond will\n60 ahead\" says Carroll.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3666,
+                "y0": 380,
+                "x1": 4250,
+                "y1": 647
+            },
+            "class": "headline",
+            "raw_text": "First Negro\nIs Mayor",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1889,
+                "y0": 3017,
+                "x1": 2704,
+                "y1": 3369
+            },
+            "class": "article",
+            "raw_text": "HAMPTON INST, Va (ANPD\nRadio station WHOV- FIN, the STU.\ndent radio station of Hampton In\nstitute in the schools new Com\nmunications Center, has been\nawarded the Pacemaker Award",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-25"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                7
+            ],
+            "headline": "NEWS CENTER WINS AWARD",
+            "article": "from the intercollegiate Broad\ncasting System, Inc, for pro-\ngramming and station operation.\nThe award recognizes the out\nstanding college radio station in\nthe United States.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1953,
+                    "y0": 2861,
+                    "x1": 3407,
+                    "y1": 2989
+                },
+                {
+                    "x0": 2755,
+                    "y0": 3011,
+                    "x1": 3569,
+                    "y1": 3346
+                }
+            ],
+            "bbox": [
+                1953,
+                2861,
+                3569,
+                3346
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-12-25_p1_sn84021918_0041421695A_1964122501_0681.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "First Negro\nIs Mayor",
+            "article": "NEW YORK-George D. Car\nroll took the advice Of Horace\nGreeley and a friend. He went\nwest and found bonanza.\n\n\nCarroll, a native of Brooklyn\nis now a resident of Richmond,\nCalf, and the towns first Ne\ngro mayor.\n\n\nCarroll Is the first lawyer to\nbecome mayor Of Richmond.\ntown of $4,000 persons, 81 per-\ncent of them Negroes.\n\n\nwith the continued rapid flow\nof whites into the suburbs\" says\nCarroll, -FOUR urban areas may\nwe'll become predominantly Ne\ngro and Spanish. And Negro\nmayor will not be rarity\"\n\n\nIf Washington were not fed\norally controlled, he is sure that\nit would have a Negro mayor.\n\n\nRichmond is currently in the\nthroes of downtown redevelop-\nment project. Commencing ofthe\nproject depends on interpreta-\nton of a federal assistance law.\nIf the law is decided in Rich\nmonds favor, then the project\nwill go ahead, \"and Richmond will\n60 ahead\" says Carroll.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3666,
+                    "y0": 380,
+                    "x1": 4250,
+                    "y1": 647
+                },
+                {
+                    "x0": 3643,
+                    "y0": 680,
+                    "x1": 4469,
+                    "y1": 2441
+                }
+            ],
+            "bbox": [
+                3643,
+                380,
+                4469,
+                2441
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-25_p1_sn84021918_0041421695A_1964122501_0681.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "HAMPTON INST, Va (ANPD\nRadio station WHOV- FIN, the STU.\ndent radio station of Hampton In\nstitute in the schools new Com\nmunications Center, has been\nawarded the Pacemaker Award",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1889,
+                    "y0": 3017,
+                    "x1": 2704,
+                    "y1": 3369
+                }
+            ],
+            "bbox": [
+                1889,
+                3017,
+                2704,
+                3369
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-25_p1_sn84021918_0041421695A_1964122501_0681.json"
+        }
+    ]
+}

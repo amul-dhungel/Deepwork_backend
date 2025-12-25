@@ -1,0 +1,193 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050101/0386.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4917
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3879,
+                "y0": 626,
+                "x1": 4703,
+                "y1": 3398
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON degrading of\nminority group employees in the\nfederal employment from rou-\ntine jobs requiring little skill to\nthose demanding technical and\nscientific training has been start\ned.\n\n\nThe recent job shift of Wash\nington civil servant to a prom\ninent position in large Chicago\ncorporation gives us dramatic\nevidence this new means Of open\ning employment opportunity to\nall.\n\n\nJohn E. Peele, Jr., a former\npatent examiner in the United\nStates Patent Office. Department\nOf Commerce, was recently en-\nployed as assistant patent counsel\nby Bell and Howell Company. one\nof the country s largest manufac-\nturers of Photographic equip\nment.\n\n\nThe selection Of Mr.. Peele for\nthis responsible position was\nbased directly upon his extensive\nbackground experience in pro-\ncessing applications for patents\nexperience provided by the Fed\neral Government. His Is a skill\nin great demand in private in\ndustry and business but one which\ncan be obtained only in the\nUnited States Patent Office.\n\n\nDespite this good example. the\ntype Of job in government which\nwould prepare individuals for\nemployment in private industry\nhave not always been open simple\nas a matter of course to Negroes.\n\n\nAn accepted policy of merit\nemployment has only become the\nenforced policy of the Federal\novernment since the inception\nof the President S Committee on\nEqual Employment Opportunity\nin 1861.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3890,
+                "y0": 330,
+                "x1": 4564,
+                "y1": 586
+            },
+            "class": "headline",
+            "raw_text": "PATENT WORKER\nLANDS JOB WITH\nBELL AND HOWELL",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2104,
+                "y0": 3797,
+                "x1": 2923,
+                "y1": 4865
+            },
+            "class": "article",
+            "raw_text": "MONTREAL, N. c. Southern\nPresbyterians have started a\nstronger civil rights policy by\nordering all white presbyteries\nin seven southern states to absorb\nthree all Negro presbyteries\n(presbyteries are districts).\n\n\nThe order affects North Caro-\nlima, South Carolina, Georgia,\nMississippi, Alabama, Florida\nand Louisiana. The area has 43\nNegro churches with a member\nship of 1850.\n\n\nTotal membership in the south\neast and southwest is 937 900.\n\n\nRev. John Miller of Mississippi\nsaid this type of force would affect\nthe churches adversely.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2116,
+                "y0": 3577,
+                "x1": 2911,
+                "y1": 3769
+            },
+            "class": "headline",
+            "raw_text": "Southern Presbyteriuns\nBegin lntegrution Plan",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 313,
+                "y0": 3281,
+                "x1": 2007,
+                "y1": 4419
+            },
+            "class": "article",
+            "raw_text": "Pacific States of Elks\nthe awards banquet held Sunday.\n\n\nSeated above Emmett HARRISON of Oakland Calf, and Mrs.\nBessie l. Smith of San Diego, Calf.\n\n\nincluded Mr. and Mrs. John Adams state secretaries\nOf Berkeley Ruby Backshea Robert Richards lsia Ward\nruler Howard Falangan of Flagstaff\nMcElroy loyal DIT. ruler and Mrs. l. j. Pratt\n\n\nThe PISA convention be held In Phoenix June 2428.\n\n\nwelcome dinner for the officers of the Pacific States Assoca\nthe Eks held Saturday the Bali Hi Motel restaurant\nPISA officers Secretary Dr. Ger\ntrude Bradley President Bessie Smith, President Emmett Hair\nChairman Esther McElroy and sh Ward exalted\nruler.\n\n\nStanding Convention cocharman E. E. Bobo Maj Gen.\nMatthew pscombe Thompson and James McElroy 3rd\npresident.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-01"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "PATENT WORKER\nLANDS JOB WITH\nBELL AND HOWELL",
+            "article": "WASHINGTON degrading of\nminority group employees in the\nfederal employment from rou-\ntine jobs requiring little skill to\nthose demanding technical and\nscientific training has been start\ned.\n\n\nThe recent job shift of Wash\nington civil servant to a prom\ninent position in large Chicago\ncorporation gives us dramatic\nevidence this new means Of open\ning employment opportunity to\nall.\n\n\nJohn E. Peele, Jr., a former\npatent examiner in the United\nStates Patent Office. Department\nOf Commerce, was recently en-\nployed as assistant patent counsel\nby Bell and Howell Company. one\nof the country s largest manufac-\nturers of Photographic equip\nment.\n\n\nThe selection Of Mr.. Peele for\nthis responsible position was\nbased directly upon his extensive\nbackground experience in pro-\ncessing applications for patents\nexperience provided by the Fed\neral Government. His Is a skill\nin great demand in private in\ndustry and business but one which\ncan be obtained only in the\nUnited States Patent Office.\n\n\nDespite this good example. the\ntype Of job in government which\nwould prepare individuals for\nemployment in private industry\nhave not always been open simple\nas a matter of course to Negroes.\n\n\nAn accepted policy of merit\nemployment has only become the\nenforced policy of the Federal\novernment since the inception\nof the President S Committee on\nEqual Employment Opportunity\nin 1861.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3890,
+                    "y0": 330,
+                    "x1": 4564,
+                    "y1": 586
+                },
+                {
+                    "x0": 3879,
+                    "y0": 626,
+                    "x1": 4703,
+                    "y1": 3398
+                }
+            ],
+            "bbox": [
+                3879,
+                330,
+                4703,
+                3398
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-01_p1_sn84021918_0041421695A_1964050101_0386.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Southern Presbyteriuns\nBegin lntegrution Plan",
+            "article": "MONTREAL, N. c. Southern\nPresbyterians have started a\nstronger civil rights policy by\nordering all white presbyteries\nin seven southern states to absorb\nthree all Negro presbyteries\n(presbyteries are districts).\n\n\nThe order affects North Caro-\nlima, South Carolina, Georgia,\nMississippi, Alabama, Florida\nand Louisiana. The area has 43\nNegro churches with a member\nship of 1850.\n\n\nTotal membership in the south\neast and southwest is 937 900.\n\n\nRev. John Miller of Mississippi\nsaid this type of force would affect\nthe churches adversely.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2116,
+                    "y0": 3577,
+                    "x1": 2911,
+                    "y1": 3769
+                },
+                {
+                    "x0": 2104,
+                    "y0": 3797,
+                    "x1": 2923,
+                    "y1": 4865
+                }
+            ],
+            "bbox": [
+                2104,
+                3577,
+                2923,
+                4865
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-01_p1_sn84021918_0041421695A_1964050101_0386.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Pacific States of Elks\nthe awards banquet held Sunday.\n\n\nSeated above Emmett HARRISON of Oakland Calf, and Mrs.\nBessie l. Smith of San Diego, Calf.\n\n\nincluded Mr. and Mrs. John Adams state secretaries\nOf Berkeley Ruby Backshea Robert Richards lsia Ward\nruler Howard Falangan of Flagstaff\nMcElroy loyal DIT. ruler and Mrs. l. j. Pratt\n\n\nThe PISA convention be held In Phoenix June 2428.\n\n\nwelcome dinner for the officers of the Pacific States Assoca\nthe Eks held Saturday the Bali Hi Motel restaurant\nPISA officers Secretary Dr. Ger\ntrude Bradley President Bessie Smith, President Emmett Hair\nChairman Esther McElroy and sh Ward exalted\nruler.\n\n\nStanding Convention cocharman E. E. Bobo Maj Gen.\nMatthew pscombe Thompson and James McElroy 3rd\npresident.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 313,
+                    "y0": 3281,
+                    "x1": 2007,
+                    "y1": 4419
+                }
+            ],
+            "bbox": [
+                313,
+                3281,
+                2007,
+                4419
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-01_p1_sn84021918_0041421695A_1964050101_0386.json"
+        }
+    ]
+}

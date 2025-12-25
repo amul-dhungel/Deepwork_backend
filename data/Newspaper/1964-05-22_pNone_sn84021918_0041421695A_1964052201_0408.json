@@ -1,0 +1,234 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-22",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4764,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-22",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052201/0408.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2075,
+                "y0": 532,
+                "x1": 2903,
+                "y1": 1724
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Researchers of\nthe Harlem Youth Opportunities\nUnlimited (HAYDEN). reports\nHarlem, where the Negroes live\ntest concentration of Negroes live\nis reaching ANAL time low in race\nrelations.\n\n\nThe slums breed crime and\nviolence and more blood will be\nshed unless something is done\nsoon.\n\n\nThe study contained 64l pages\nof material. 1t said there was\napathy and resentment in the\narea.\n\n\nThe report. entitled. \"Youth in\nthe Ghetto\" recommends re-\nforms in education, employment,\nfamily life and community i'm\nprovement.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2075,
+                "y0": 335,
+                "x1": 2753,
+                "y1": 509
+            },
+            "class": "headline",
+            "raw_text": "HARLEM STUDY\n\n\nSHOWS PROBLEMS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 277,
+                "y0": 1954,
+                "x1": 1966,
+                "y1": 2389
+            },
+            "class": "article",
+            "raw_text": "Principal actors Sweet the Roots modern\nexperiment technques recent\nrehearsal at Jewish Community 1913 W. Maryland\n\n\nShown are Burke Rhind Cenker, James Majors and\nAllen Robrecht.\n\n\nplay presented May 2l24 and 30-3l Reservations\nNAV be made at the office 264-ol5l.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2087,
+                "y0": 2029,
+                "x1": 2909,
+                "y1": 3701
+            },
+            "class": "article",
+            "raw_text": "lanes A.. Horton, graduate\nof Lincoln UniversiVs school\nof journalism and now assistant\neditor of the US. Department\nof Agriculture's publication\nAgricultural Marketing, has been\nawarded a certificate of merit\nfor superior performance.\n\n\n1t was presented in recognition\nof Horizons important contribu-\nton to the editorial work on a\nspecial edition of the publication\nfor the 5Oth anniversary ofUSDA\nmarketing work.\n\n\nHe joined the Department as\na writer-editor in 1862 and a year\nlater was promoted to assistant\neditor of the monthly publica-\nton.\n\n\nMr.. Horton. a native of More\nhead City, NC. became interest\ned in journalism while stationed\nin England during World War II\nand began studying it at Shriven-\nham University. After his dis\ncharge Horton entered Lincoln\nUniversity of Missouri where he\nearned degree in the field.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2087,
+                "y0": 1792,
+                "x1": 2660,
+                "y1": 1996
+            },
+            "class": "headline",
+            "raw_text": "Negro Journalist\nWins Citation",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2977,
+                "y0": 1596,
+                "x1": 4667,
+                "y1": 2545
+            },
+            "class": "article",
+            "raw_text": "Commentator congraates awardees Mrs. Reave\nBottoms and Mrs. and hat designer Linda Page\nNYC9\n\n\nNew Yors Mrs. Reeue Bottoms Rev. Fred Bottoms\nSunday from hat designer Linda\nPage as one of She\nexemplihes knowing when hat.\n\n\nreceived citations at Linda Pages annual Fasnon\nLuncheon with Lou LuTour Smith in\ncuded Mrs. Davis wife of DR.. F. E. Davis Of College,\nGreensboro c. Dolores Worthingon Mrs. Sylvia Al\nshuch Borough Library Councils Mrs. Mayme\nDixon Attorney Louise Frscia Mrs. Lille BuerQeens Beau\ntician Miss Alice Wanner Mrs. Cathy White Womens Editor\nNew York Amsterdam News; and Mrs. Robert Brakeman",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964052201_0408",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                1
+            ],
+            "headline": "HARLEM STUDY\n\n\nSHOWS PROBLEMS",
+            "article": "NEW YORK Researchers of\nthe Harlem Youth Opportunities\nUnlimited (HAYDEN). reports\nHarlem, where the Negroes live\ntest concentration of Negroes live\nis reaching ANAL time low in race\nrelations.\n\n\nThe slums breed crime and\nviolence and more blood will be\nshed unless something is done\nsoon.\n\n\nThe study contained 64l pages\nof material. 1t said there was\napathy and resentment in the\narea.\n\n\nThe report. entitled. \"Youth in\nthe Ghetto\" recommends re-\nforms in education, employment,\nfamily life and community i'm\nprovement.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2075,
+                    "y0": 335,
+                    "x1": 2753,
+                    "y1": 509
+                },
+                {
+                    "x0": 2075,
+                    "y0": 532,
+                    "x1": 2903,
+                    "y1": 1724
+                }
+            ],
+            "bbox": [
+                2075,
+                335,
+                2903,
+                1724
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-22_pna_sn84021918_0041421695A_1964052201_0408.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Commentator congraates awardees Mrs. Reave\nBottoms and Mrs. and hat designer Linda Page\nNYC9\n\n\nNew Yors Mrs. Reeue Bottoms Rev. Fred Bottoms\nSunday from hat designer Linda\nPage as one of She\nexemplihes knowing when hat.\n\n\nreceived citations at Linda Pages annual Fasnon\nLuncheon with Lou LuTour Smith in\ncuded Mrs. Davis wife of DR.. F. E. Davis Of College,\nGreensboro c. Dolores Worthingon Mrs. Sylvia Al\nshuch Borough Library Councils Mrs. Mayme\nDixon Attorney Louise Frscia Mrs. Lille BuerQeens Beau\ntician Miss Alice Wanner Mrs. Cathy White Womens Editor\nNew York Amsterdam News; and Mrs. Robert Brakeman",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2977,
+                    "y0": 1596,
+                    "x1": 4667,
+                    "y1": 2545
+                }
+            ],
+            "bbox": [
+                2977,
+                1596,
+                4667,
+                2545
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-22_pna_sn84021918_0041421695A_1964052201_0408.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Principal actors Sweet the Roots modern\nexperiment technques recent\nrehearsal at Jewish Community 1913 W. Maryland\n\n\nShown are Burke Rhind Cenker, James Majors and\nAllen Robrecht.\n\n\nplay presented May 2l24 and 30-3l Reservations\nNAV be made at the office 264-ol5l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 277,
+                    "y0": 1954,
+                    "x1": 1966,
+                    "y1": 2389
+                }
+            ],
+            "bbox": [
+                277,
+                1954,
+                1966,
+                2389
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-22_pna_sn84021918_0041421695A_1964052201_0408.json"
+        },
+        {
+            "object_ids": [
+                7,
+                3
+            ],
+            "headline": "Negro Journalist\nWins Citation",
+            "article": "lanes A.. Horton, graduate\nof Lincoln UniversiVs school\nof journalism and now assistant\neditor of the US. Department\nof Agriculture's publication\nAgricultural Marketing, has been\nawarded a certificate of merit\nfor superior performance.\n\n\n1t was presented in recognition\nof Horizons important contribu-\nton to the editorial work on a\nspecial edition of the publication\nfor the 5Oth anniversary ofUSDA\nmarketing work.\n\n\nHe joined the Department as\na writer-editor in 1862 and a year\nlater was promoted to assistant\neditor of the monthly publica-\nton.\n\n\nMr.. Horton. a native of More\nhead City, NC. became interest\ned in journalism while stationed\nin England during World War II\nand began studying it at Shriven-\nham University. After his dis\ncharge Horton entered Lincoln\nUniversity of Missouri where he\nearned degree in the field.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2087,
+                    "y0": 1792,
+                    "x1": 2660,
+                    "y1": 1996
+                },
+                {
+                    "x0": 2087,
+                    "y0": 2029,
+                    "x1": 2909,
+                    "y1": 3701
+                }
+            ],
+            "bbox": [
+                2087,
+                1792,
+                2909,
+                3701
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-22_pna_sn84021918_0041421695A_1964052201_0408.json"
+        }
+    ]
+}

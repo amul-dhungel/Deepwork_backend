@@ -1,0 +1,172 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121101/0664.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7373,
+        "width": 4906
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 333,
+                "y0": 2327,
+                "x1": 1152,
+                "y1": 2806
+            },
+            "class": "article",
+            "raw_text": "CHICAGO Ernie Banks of\nthe Chicago Cubs will be the first\nrecipient of the memorial\naward, the Chicago chapter of the\nBaseball Writer'S Association of\nAmerica announced.\n\n\nThe award honorS the second\nbaseman of the Cubs who was",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1249,
+                "y0": 2321,
+                "x1": 2073,
+                "y1": 2748
+            },
+            "class": "article",
+            "raw_text": "killed in a plane crash last\nFebruary. 1t is for \"excellence\nand exemplary conduct on and\noff the field\n\n\nPresentation will be at the\nwriter's annual diamond dinner\nJan. 10.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 713,
+                "y0": 2067,
+                "x1": 1728,
+                "y1": 2287
+            },
+            "class": "headline",
+            "raw_text": "ERNIE BANKS TO RECEIVE\n\n\nFIRST HUBS AWARD",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3933,
+                "y0": 4389,
+                "x1": 4735,
+                "y1": 4597
+            },
+            "class": "article",
+            "raw_text": "You can tie tighter packages\nif you wet the string first. The\nstring will shrink and tighten\nwhen it dries.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-11"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "CHICAGO Ernie Banks of\nthe Chicago Cubs will be the first\nrecipient of the memorial\naward, the Chicago chapter of the\nBaseball Writer'S Association of\nAmerica announced.\n\n\nThe award honorS the second\nbaseman of the Cubs who was",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 333,
+                    "y0": 2327,
+                    "x1": 1152,
+                    "y1": 2806
+                }
+            ],
+            "bbox": [
+                333,
+                2327,
+                1152,
+                2806
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-11_p1_sn84021918_0041421695A_1964121101_0664.json"
+        },
+        {
+            "object_ids": [
+                4,
+                3
+            ],
+            "headline": "ERNIE BANKS TO RECEIVE\n\n\nFIRST HUBS AWARD",
+            "article": "killed in a plane crash last\nFebruary. 1t is for \"excellence\nand exemplary conduct on and\noff the field\n\n\nPresentation will be at the\nwriter's annual diamond dinner\nJan. 10.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 713,
+                    "y0": 2067,
+                    "x1": 1728,
+                    "y1": 2287
+                },
+                {
+                    "x0": 1249,
+                    "y0": 2321,
+                    "x1": 2073,
+                    "y1": 2748
+                }
+            ],
+            "bbox": [
+                713,
+                2067,
+                2073,
+                2748
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-11_p1_sn84021918_0041421695A_1964121101_0664.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "You can tie tighter packages\nif you wet the string first. The\nstring will shrink and tighten\nwhen it dries.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3933,
+                    "y0": 4389,
+                    "x1": 4735,
+                    "y1": 4597
+                }
+            ],
+            "bbox": [
+                3933,
+                4389,
+                4735,
+                4597
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-12-11_p1_sn84021918_0041421695A_1964121101_0664.json"
+        }
+    ]
+}

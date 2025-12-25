@@ -1,0 +1,890 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071701/0469.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4880
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 159,
+                "y0": 6372,
+                "x1": 976,
+                "y1": 7201
+            },
+            "class": "article",
+            "raw_text": "SAN FRANCISCO A crowd\nestimated at 5000 of Negroes\nand whites marched down city\nstreets and expressed their dis\napproval of Republican Senator\nColdwater. Signs stressed their\nopposition to Barry Goldwater\nand the rally ended In a meeting\nin the park.\n\n\nJames Farmer, president of\nthe Congress of Racial Equality\nand several others denounced the\nGrand Old Party and the apparent\nnomination of GoldWater.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 170,
+                "y0": 6147,
+                "x1": 646,
+                "y1": 6344
+            },
+            "class": "headline",
+            "raw_text": "Huge March\n\n\nAgainst Barry",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 130,
+                "y0": 2969,
+                "x1": 947,
+                "y1": 3335
+            },
+            "class": "article",
+            "raw_text": "Senator Barry Goldwater, Re-\npublican from Arizona, easily\novercame all opposition and re-\nceived the partys presidential\nnomination We'd, July Is at the\nCow Palace.",
+            "legibility": "Legible",
+            "full_article_id": 35,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 142,
+                "y0": 3745,
+                "x1": 964,
+                "y1": 5065
+            },
+            "class": "article",
+            "raw_text": "COLBERT. Ga. Clarence Ell\nlington. 48, a Negro insurance\nagent of Fl. Pierce, Florida. re-\nported that he and his family were\nshot at just about 24hours before\nLemuel Penn was slain.\n\n\nPenn. 48, Negro. director OF\nvocational high schools in Wash\nington, Dc. was killed Saturday.\nwhen driving through the rural\ndistrict of north Georgia.\n\n\nPenn, a lieutenant colonelin the\narmy reserve. was returning with\ntwo companions, from duty. Gun\nmen in car drove past and fired\ninto Penn car ten miles north\neast of Colbert.\n\n\nThe FBI and local officers are\nmaking an intensive investiga-\ntion.\n\n\nEllington case may be related\nto the Penn murder.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 142,
+                "y0": 3397,
+                "x1": 733,
+                "y1": 3699
+            },
+            "class": "headline",
+            "raw_text": "SHOOTING MAY\nTIE IN WITH\n\n\nPENN'S MURDER",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3690,
+                "y0": 2714,
+                "x1": 4501,
+                "y1": 4539
+            },
+            "class": "article",
+            "raw_text": "number of Federal representa-\ntives-FBI agents. marshals and\nothers-to protect the safety and\nlives of potential victims of the\nstates racism.\n\n\nAlso announced at the news\nconference was the committees\nintention to seek conference\nwith President Lyndon B. john\nson and Attorney General Robert\nF. Kennedy to report its findings\nas we'll as to submit its recon-\nmendations for Federal action.\n\n\nDR.. H. Claude Hudson Of Los\nAngeles was chairman of the\ncommittee. Other members in\ncluded DR.. Eugene T. Reed. XII\nvie Kaplan, Alfred Baker Lewis.\nChester l. Lewis, l.. Joseph\nOverton and John F. Davis. Ac-\ncompanying the NAACP Board\nCommittee were Mrs. Alfred\nBaker Lewis. representing the\nConnecticut Council Of Churches\nand the following staff members:\nRobert l.. Carter, general coun-\nsci: Gloster B. Current. direc-\ntor of branches: Charles Evers.\nMississippi field secretary:and\nMaurice F. White, public rela-\nlions assistant.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 2856,
+                "y0": 2483,
+                "x1": 4073,
+                "y1": 2704
+            },
+            "class": "headline",
+            "raw_text": "NAACP Announces ReprisuIs\nAgainst Mississippi",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1936,
+                "y0": 6332,
+                "x1": 2753,
+                "y1": 7155
+            },
+            "class": "article",
+            "raw_text": "SAN FRANCISCO The hotel\nroom Of Edward Banks, publisher\nand editor of the Arizona Tribune,\nwas entered and looted early\nWednesday morning.\n\n\nHe reported a diamond ring.\ntwo pieces Of luggage. pair Of\nshoes, a wallet containing $lOO,\na travel clock and a, gold tie\nbar we're missing.\n\n\nMr.. Banks was attending the\nRepublican National Convention.\n\n\nHe estimated his total loss In\nexcess Of ST 200.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1959,
+                "y0": 6042,
+                "x1": 2539,
+                "y1": 6298
+            },
+            "class": "headline",
+            "raw_text": "Tribune\n\n\nPublisher Robbed\nIn San Francisco",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3696,
+                "y0": 4856,
+                "x1": 4513,
+                "y1": 6304
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Actor Jack Pal\nance reported that he is not as\ntough as the characters he por-\ntrays in the movies.\n\n\nPalance challenged three heck\nlers In an Alabama theater to go\noutside and fight one by one.\n\n\nWhen he left the Tuscaloosa\nmovie last Thursday night an\nangry mob was waiting. They\nthreatened him, his wife and\nchildren.\n\n\nHe said he was frightened and\nsaid the mob was excited about\nthe recent federal civil rights law\nwhich integrated the movie\nhouses. They we're also inflamed\nby a false story that Palance was\nattending the movie with a Negro\nwoman.\n\n\nPolice were summoned and\ntear gas and fire hoses were used\nto repel the crowd. The car Pal\nance had rented was damaged.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3696,
+                "y0": 4601,
+                "x1": 4466,
+                "y1": 4805
+            },
+            "class": "headline",
+            "raw_text": "Actor PuIance\nFIees Mob In Alabama",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2822,
+                "y0": 2732,
+                "x1": 3639,
+                "y1": 4562
+            },
+            "class": "article",
+            "raw_text": "MEMPHIS A five-point pro-\ngram of federal intervention in\nthe Mississippi crisis has been\nproposed by the Missippi investi-\ncation committee of the NAACP.\n\n\nThe group recommended to the\nPresident and the c congress of the\nUnited States.\n\n\nl. That the federal government\ntake over the administration of\nthe State of Mississippi under\nprovisions Of Article w, Section\n4, Of the US. Constitution;\n\n\n2. That the US. Commission\non Civil Rights Immediately start\nhearings in Mississippi on the\nbreakdown of law and order and\ndeprivation of the basic civil\nrights of Negro citizens;\n\n\n8. That the Department Of Jus\ntice act promptly on the many\ncomplaints of civil rights viola\nlions submitted to that Depart\nment;\n\n\n4. That Federal funds be i'm\nmediately withdrawn from all in\nsituations and agencies in Mis-\nstssippi which now receive such\nfunds; and\n\n\nS. That the government dis\npatch to Mississippi sufficient",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 147,
+                "y0": 5377,
+                "x1": 959,
+                "y1": 6096
+            },
+            "class": "article",
+            "raw_text": "CAMBRIDGE, Mass. = Twenty\nseven members of the Congress\nof Racial Equality were arrested\nSunday during racial demonstra-\nlions at a restaurant chain they\naccused of discriminatory hir-\ning practices.\n\n\nSimilar demonstrations forced\ntwo other stores in the Hayes\nBickford lunch system to close\ntemporarily in neighboring -Bos-\nton and Brookline.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 153,
+                "y0": 5145,
+                "x1": 866,
+                "y1": 5337
+            },
+            "class": "headline",
+            "raw_text": "~ JAILED\nIN DEMONSTRATIONS",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2833,
+                "y0": 4885,
+                "x1": 3650,
+                "y1": 6258
+            },
+            "class": "article",
+            "raw_text": "TUCSON = Organization of the\nTucson Committee for Constitu-\ntional Rights was announced to\nrepeal the citys new human re-\nlations ordinance.\n\n\nKen Winter, committee chair\nman, said the group will begin\ncirculating petitions aimed at\ngetting the issue on the munich\npal ballot In the fall of 1868.\n\n\nWinter said citizens should be\nallowed a voice In the local is\nsue of civil rights.\n\n\nClaiming that the council die\ntated to people under threats OF\nviolence. he said, \"These places\nof so-called public accommoda-\nton are owned by the residents\nof this city and not by the mayor\nand council\"\n\n\n\"This new city ordinance In\ntrudes far beyond the national\ncivil wrongs act\" he concluded.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2822,
+                "y0": 4584,
+                "x1": 3413,
+                "y1": 4868
+            },
+            "class": "headline",
+            "raw_text": "Petitions Out\nTo Repeal Tucson\nRights Law",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 4911,
+                "y0": 422,
+                "x1": 6151,
+                "y1": 5575
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 38,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1021,
+                "y0": 2581,
+                "x1": 1839,
+                "y1": 3514
+            },
+            "class": "article",
+            "raw_text": "Willie Lee Smith, 20. 1903\nw. Yuma, was shot twice in the\nchest by an irate husband who said\nhe found him with his wife. Smith\nwas dead on arrival at Memorial\nHospital.\n\n\nHeld in city jail is Robert\nFowler, 46, 1886 E. Jackson for\ninvestigation Of homicide.\n\n\nFowler told police he found\nSmith and his wife. Bea, At,\nin the bedroom at the home of\nGeorge Rankin, 1880 E. Jack\nson. Fowler Said he fired u\ncaliber revolver four times at\nSmith as he ran.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1045,
+                "y0": 2396,
+                "x1": 1642,
+                "y1": 2559
+            },
+            "class": "headline",
+            "raw_text": "Man Killed\n\n\nBy Angry Spouse",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2827,
+                "y0": 6471,
+                "x1": 3639,
+                "y1": 7161
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Two Negroes\nreceived the 1864 Medal Of Free\ndom, the highest honor of the land\nbestowed by President Johnson.\n\n\nMen and women who have made\noutstanding contributions to edu-\ncation, politics, business, jour\nnalism creative and performing\narts are selected annually.\n\n\nSelectees include two famous\nwomen:",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1930,
+                "y0": 2627,
+                "x1": 2741,
+                "y1": 3352
+            },
+            "class": "article",
+            "raw_text": "William H. Alexander. young\nAtlanta cooperating attorney OF\nthe NAACP Legal Defense Fund\nhas filed the first suit under the\nnew Civil Rights Act. Title Two.\nto compel Lester Maddox. an\nAtlanta restaurant owner. to open\nhis place to Negroes. Maddox\nhad threatened Negroes with a\ngun when he refused them en-\ntrance to his Pickrick Restaur-\nant on July 8.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1027,
+                "y0": 1562,
+                "x1": 1844,
+                "y1": 2385
+            },
+            "class": "article",
+            "raw_text": "On the first ballot the roll\ncall of | 1903 delegates gaveGold-\nwater a decisive 1888, Pennsyl-\nvania's Gov. Scranton gained only\n2l4, while others got a handful.\n\n\nThe entire convention roared\nwith acclaim for more than a\nhalf hour when Sen. Everett\nDirksen placed G oldwater' 8 name\nin nomination.\n\n\nHe promised a vigorous cam\npaign and thanked his supporters\nover nationwide television at\nll:4S pm.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 147,
+                "y0": 1250,
+                "x1": 1543,
+                "y1": 1540
+            },
+            "class": "headline",
+            "raw_text": "CoIdwuter Wins COP\n\n\nTop Spot On First Ballot",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3696,
+                "y0": 6453,
+                "x1": 4507,
+                "y1": 7166
+            },
+            "class": "article",
+            "raw_text": "DR.. Lena Edwards. SO. physi-\nclan and humanitarian. In 1868\nthe Chamber Of Commerce OF her\npresent home, Hereford, Texas,\nnamed the Negro woman citizen\nof the year.\n\n\nIn the arts:\n\n\nLeontyne Price. 81. American\nNegro concert and opera star,\nfirst of her race to sing lead\nroles at the Metropolitan Opera\nHouse.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 2903,
+                "y0": 6320,
+                "x1": 4449,
+                "y1": 6425
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1056,
+                "y0": 6228,
+                "x1": 1862,
+                "y1": 6865
+            },
+            "class": "article",
+            "raw_text": "GEORGETOWN British Guiana\nA Negro couple was shot to\ndeath during flight from their\nburning. fire-bombed house in\nPerth Manaicony, 80 miles from\nhere. Nine other Negro houses\nwe're burned.\n\n\nRacial clashes between Ne\ngroes and East Indians here have\nclaimed more than 90 lives in\nthe past five weeks.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1062,
+                "y0": 6008,
+                "x1": 1665,
+                "y1": 6200
+            },
+            "class": "headline",
+            "raw_text": "Race Strife\n\n\nKills 5 In Cvuinu",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2822,
+                "y0": 1921,
+                "x1": 4495,
+                "y1": 2455
+            },
+            "class": "article",
+            "raw_text": "Of the planning committee the annual summer picnic\nof Wesley Methodist Church. 1902 E. Washington met Sunday\nmorning.\n\n\nThe picnic will July Is Estrella Park Avon\ndale Park.\n\n\nSeated from Miss Shirley Hail. Mesdames William Lit\nTeton MYRTLE Whitmore, and Rollins Winsow\n\n\nStanding Naomi Toer Rev. Rollins W1nslow ana Ed\nward Kuykendall.",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-17"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                34
+            ],
+            "headline": "",
+            "article": "Senator Barry Goldwater, Re-\npublican from Arizona, easily\novercame all opposition and re-\nceived the partys presidential\nnomination We'd, July Is at the\nCow Palace.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 130,
+                    "y0": 2969,
+                    "x1": 947,
+                    "y1": 3335
+                }
+            ],
+            "bbox": [
+                130,
+                2969,
+                947,
+                3335
+            ],
+            "full_article_id": 35,
+            "id": "35_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                20,
+                2
+            ],
+            "headline": "Huge March\n\n\nAgainst Barry",
+            "article": "SAN FRANCISCO A crowd\nestimated at 5000 of Negroes\nand whites marched down city\nstreets and expressed their dis\napproval of Republican Senator\nColdwater. Signs stressed their\nopposition to Barry Goldwater\nand the rally ended In a meeting\nin the park.\n\n\nJames Farmer, president of\nthe Congress of Racial Equality\nand several others denounced the\nGrand Old Party and the apparent\nnomination of GoldWater.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 170,
+                    "y0": 6147,
+                    "x1": 646,
+                    "y1": 6344
+                },
+                {
+                    "x0": 159,
+                    "y0": 6372,
+                    "x1": 976,
+                    "y1": 7201
+                }
+            ],
+            "bbox": [
+                159,
+                6147,
+                976,
+                7201
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                18,
+                4
+            ],
+            "headline": "SHOOTING MAY\nTIE IN WITH\n\n\nPENN'S MURDER",
+            "article": "COLBERT. Ga. Clarence Ell\nlington. 48, a Negro insurance\nagent of Fl. Pierce, Florida. re-\nported that he and his family were\nshot at just about 24hours before\nLemuel Penn was slain.\n\n\nPenn. 48, Negro. director OF\nvocational high schools in Wash\nington, Dc. was killed Saturday.\nwhen driving through the rural\ndistrict of north Georgia.\n\n\nPenn, a lieutenant colonelin the\narmy reserve. was returning with\ntwo companions, from duty. Gun\nmen in car drove past and fired\ninto Penn car ten miles north\neast of Colbert.\n\n\nThe FBI and local officers are\nmaking an intensive investiga-\ntion.\n\n\nEllington case may be related\nto the Penn murder.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 142,
+                    "y0": 3397,
+                    "x1": 733,
+                    "y1": 3699
+                },
+                {
+                    "x0": 142,
+                    "y0": 3745,
+                    "x1": 964,
+                    "y1": 5065
+                }
+            ],
+            "bbox": [
+                142,
+                3397,
+                964,
+                5065
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                36,
+                5
+            ],
+            "headline": "NAACP Announces ReprisuIs\nAgainst Mississippi",
+            "article": "number of Federal representa-\ntives-FBI agents. marshals and\nothers-to protect the safety and\nlives of potential victims of the\nstates racism.\n\n\nAlso announced at the news\nconference was the committees\nintention to seek conference\nwith President Lyndon B. john\nson and Attorney General Robert\nF. Kennedy to report its findings\nas we'll as to submit its recon-\nmendations for Federal action.\n\n\nDR.. H. Claude Hudson Of Los\nAngeles was chairman of the\ncommittee. Other members in\ncluded DR.. Eugene T. Reed. XII\nvie Kaplan, Alfred Baker Lewis.\nChester l. Lewis, l.. Joseph\nOverton and John F. Davis. Ac-\ncompanying the NAACP Board\nCommittee were Mrs. Alfred\nBaker Lewis. representing the\nConnecticut Council Of Churches\nand the following staff members:\nRobert l.. Carter, general coun-\nsci: Gloster B. Current. direc-\ntor of branches: Charles Evers.\nMississippi field secretary:and\nMaurice F. White, public rela-\nlions assistant.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2856,
+                    "y0": 2483,
+                    "x1": 4073,
+                    "y1": 2704
+                },
+                {
+                    "x0": 3690,
+                    "y0": 2714,
+                    "x1": 4501,
+                    "y1": 4539
+                }
+            ],
+            "bbox": [
+                2856,
+                2483,
+                4501,
+                4539
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                23,
+                6
+            ],
+            "headline": "Tribune\n\n\nPublisher Robbed\nIn San Francisco",
+            "article": "SAN FRANCISCO The hotel\nroom Of Edward Banks, publisher\nand editor of the Arizona Tribune,\nwas entered and looted early\nWednesday morning.\n\n\nHe reported a diamond ring.\ntwo pieces Of luggage. pair Of\nshoes, a wallet containing $lOO,\na travel clock and a, gold tie\nbar we're missing.\n\n\nMr.. Banks was attending the\nRepublican National Convention.\n\n\nHe estimated his total loss In\nexcess Of ST 200.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1959,
+                    "y0": 6042,
+                    "x1": 2539,
+                    "y1": 6298
+                },
+                {
+                    "x0": 1936,
+                    "y0": 6332,
+                    "x1": 2753,
+                    "y1": 7155
+                }
+            ],
+            "bbox": [
+                1936,
+                6042,
+                2753,
+                7155
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                26,
+                7
+            ],
+            "headline": "Actor PuIance\nFIees Mob In Alabama",
+            "article": "NEW YORK Actor Jack Pal\nance reported that he is not as\ntough as the characters he por-\ntrays in the movies.\n\n\nPalance challenged three heck\nlers In an Alabama theater to go\noutside and fight one by one.\n\n\nWhen he left the Tuscaloosa\nmovie last Thursday night an\nangry mob was waiting. They\nthreatened him, his wife and\nchildren.\n\n\nHe said he was frightened and\nsaid the mob was excited about\nthe recent federal civil rights law\nwhich integrated the movie\nhouses. They we're also inflamed\nby a false story that Palance was\nattending the movie with a Negro\nwoman.\n\n\nPolice were summoned and\ntear gas and fire hoses were used\nto repel the crowd. The car Pal\nance had rented was damaged.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3696,
+                    "y0": 4601,
+                    "x1": 4466,
+                    "y1": 4805
+                },
+                {
+                    "x0": 3696,
+                    "y0": 4856,
+                    "x1": 4513,
+                    "y1": 6304
+                }
+            ],
+            "bbox": [
+                3696,
+                4601,
+                4513,
+                6304
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "MEMPHIS A five-point pro-\ngram of federal intervention in\nthe Mississippi crisis has been\nproposed by the Missippi investi-\ncation committee of the NAACP.\n\n\nThe group recommended to the\nPresident and the c congress of the\nUnited States.\n\n\nl. That the federal government\ntake over the administration of\nthe State of Mississippi under\nprovisions Of Article w, Section\n4, Of the US. Constitution;\n\n\n2. That the US. Commission\non Civil Rights Immediately start\nhearings in Mississippi on the\nbreakdown of law and order and\ndeprivation of the basic civil\nrights of Negro citizens;\n\n\n8. That the Department Of Jus\ntice act promptly on the many\ncomplaints of civil rights viola\nlions submitted to that Depart\nment;\n\n\n4. That Federal funds be i'm\nmediately withdrawn from all in\nsituations and agencies in Mis-\nstssippi which now receive such\nfunds; and\n\n\nS. That the government dis\npatch to Mississippi sufficient",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2822,
+                    "y0": 2732,
+                    "x1": 3639,
+                    "y1": 4562
+                }
+            ],
+            "bbox": [
+                2822,
+                2732,
+                3639,
+                4562
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                27,
+                9
+            ],
+            "headline": "~ JAILED\nIN DEMONSTRATIONS",
+            "article": "CAMBRIDGE, Mass. = Twenty\nseven members of the Congress\nof Racial Equality were arrested\nSunday during racial demonstra-\nlions at a restaurant chain they\naccused of discriminatory hir-\ning practices.\n\n\nSimilar demonstrations forced\ntwo other stores in the Hayes\nBickford lunch system to close\ntemporarily in neighboring -Bos-\nton and Brookline.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 153,
+                    "y0": 5145,
+                    "x1": 866,
+                    "y1": 5337
+                },
+                {
+                    "x0": 147,
+                    "y0": 5377,
+                    "x1": 959,
+                    "y1": 6096
+                }
+            ],
+            "bbox": [
+                147,
+                5145,
+                959,
+                6096
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                17,
+                10
+            ],
+            "headline": "Petitions Out\nTo Repeal Tucson\nRights Law",
+            "article": "TUCSON = Organization of the\nTucson Committee for Constitu-\ntional Rights was announced to\nrepeal the citys new human re-\nlations ordinance.\n\n\nKen Winter, committee chair\nman, said the group will begin\ncirculating petitions aimed at\ngetting the issue on the munich\npal ballot In the fall of 1868.\n\n\nWinter said citizens should be\nallowed a voice In the local is\nsue of civil rights.\n\n\nClaiming that the council die\ntated to people under threats OF\nviolence. he said, \"These places\nof so-called public accommoda-\nton are owned by the residents\nof this city and not by the mayor\nand council\"\n\n\n\"This new city ordinance In\ntrudes far beyond the national\ncivil wrongs act\" he concluded.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2822,
+                    "y0": 4584,
+                    "x1": 3413,
+                    "y1": 4868
+                },
+                {
+                    "x0": 2833,
+                    "y0": 4885,
+                    "x1": 3650,
+                    "y1": 6258
+                }
+            ],
+            "bbox": [
+                2822,
+                4584,
+                3650,
+                6258
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                28,
+                12
+            ],
+            "headline": "Man Killed\n\n\nBy Angry Spouse",
+            "article": "Willie Lee Smith, 20. 1903\nw. Yuma, was shot twice in the\nchest by an irate husband who said\nhe found him with his wife. Smith\nwas dead on arrival at Memorial\nHospital.\n\n\nHeld in city jail is Robert\nFowler, 46, 1886 E. Jackson for\ninvestigation Of homicide.\n\n\nFowler told police he found\nSmith and his wife. Bea, At,\nin the bedroom at the home of\nGeorge Rankin, 1880 E. Jack\nson. Fowler Said he fired u\ncaliber revolver four times at\nSmith as he ran.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1045,
+                    "y0": 2396,
+                    "x1": 1642,
+                    "y1": 2559
+                },
+                {
+                    "x0": 1021,
+                    "y0": 2581,
+                    "x1": 1839,
+                    "y1": 3514
+                }
+            ],
+            "bbox": [
+                1021,
+                2396,
+                1839,
+                3514
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "WASHINGTON Two Negroes\nreceived the 1864 Medal Of Free\ndom, the highest honor of the land\nbestowed by President Johnson.\n\n\nMen and women who have made\noutstanding contributions to edu-\ncation, politics, business, jour\nnalism creative and performing\narts are selected annually.\n\n\nSelectees include two famous\nwomen:",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2827,
+                    "y0": 6471,
+                    "x1": 3639,
+                    "y1": 7161
+                }
+            ],
+            "bbox": [
+                2827,
+                6471,
+                3639,
+                7161
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "William H. Alexander. young\nAtlanta cooperating attorney OF\nthe NAACP Legal Defense Fund\nhas filed the first suit under the\nnew Civil Rights Act. Title Two.\nto compel Lester Maddox. an\nAtlanta restaurant owner. to open\nhis place to Negroes. Maddox\nhad threatened Negroes with a\ngun when he refused them en-\ntrance to his Pickrick Restaur-\nant on July 8.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1930,
+                    "y0": 2627,
+                    "x1": 2741,
+                    "y1": 3352
+                }
+            ],
+            "bbox": [
+                1930,
+                2627,
+                2741,
+                3352
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                22,
+                15
+            ],
+            "headline": "CoIdwuter Wins COP\n\n\nTop Spot On First Ballot",
+            "article": "On the first ballot the roll\ncall of | 1903 delegates gaveGold-\nwater a decisive 1888, Pennsyl-\nvania's Gov. Scranton gained only\n2l4, while others got a handful.\n\n\nThe entire convention roared\nwith acclaim for more than a\nhalf hour when Sen. Everett\nDirksen placed G oldwater' 8 name\nin nomination.\n\n\nHe promised a vigorous cam\npaign and thanked his supporters\nover nationwide television at\nll:4S pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 147,
+                    "y0": 1250,
+                    "x1": 1543,
+                    "y1": 1540
+                },
+                {
+                    "x0": 1027,
+                    "y0": 1562,
+                    "x1": 1844,
+                    "y1": 2385
+                }
+            ],
+            "bbox": [
+                147,
+                1250,
+                1844,
+                2385
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                35,
+                16
+            ],
+            "headline": "",
+            "article": "DR.. Lena Edwards. SO. physi-\nclan and humanitarian. In 1868\nthe Chamber Of Commerce OF her\npresent home, Hereford, Texas,\nnamed the Negro woman citizen\nof the year.\n\n\nIn the arts:\n\n\nLeontyne Price. 81. American\nNegro concert and opera star,\nfirst of her race to sing lead\nroles at the Metropolitan Opera\nHouse.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2903,
+                    "y0": 6320,
+                    "x1": 4449,
+                    "y1": 6425
+                },
+                {
+                    "x0": 3696,
+                    "y0": 6453,
+                    "x1": 4507,
+                    "y1": 7166
+                }
+            ],
+            "bbox": [
+                2903,
+                6320,
+                4507,
+                7166
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                21,
+                25
+            ],
+            "headline": "Race Strife\n\n\nKills 5 In Cvuinu",
+            "article": "GEORGETOWN British Guiana\nA Negro couple was shot to\ndeath during flight from their\nburning. fire-bombed house in\nPerth Manaicony, 80 miles from\nhere. Nine other Negro houses\nwe're burned.\n\n\nRacial clashes between Ne\ngroes and East Indians here have\nclaimed more than 90 lives in\nthe past five weeks.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1062,
+                    "y0": 6008,
+                    "x1": 1665,
+                    "y1": 6200
+                },
+                {
+                    "x0": 1056,
+                    "y0": 6228,
+                    "x1": 1862,
+                    "y1": 6865
+                }
+            ],
+            "bbox": [
+                1056,
+                6008,
+                1862,
+                6865
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "Of the planning committee the annual summer picnic\nof Wesley Methodist Church. 1902 E. Washington met Sunday\nmorning.\n\n\nThe picnic will July Is Estrella Park Avon\ndale Park.\n\n\nSeated from Miss Shirley Hail. Mesdames William Lit\nTeton MYRTLE Whitmore, and Rollins Winsow\n\n\nStanding Naomi Toer Rev. Rollins W1nslow ana Ed\nward Kuykendall.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2822,
+                    "y0": 1921,
+                    "x1": 4495,
+                    "y1": 2455
+                }
+            ],
+            "bbox": [
+                2822,
+                1921,
+                4495,
+                2455
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-07-17_p1_sn84021918_0041421695A_1964071701_0469.json"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964102301/0605.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4855
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1998,
+                "y0": 626,
+                "x1": 2811,
+                "y1": 1793
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS Two pro-\nminent church and civic leaders\nwe're found dead in a motel room\noutside of the city limits. The\nbodies of Mrs. Elizabeth Harris\nJarvis and Solomon Borrikins\nwere discovered two days after\nthey had been reported missing.\n\n\nBorrikins, a postal employee,\nwas a officer of the First Metho-\ndist Church and an officer of the\nScottish Rite Freema sons.\n\n\nMrs. Jarvis was the sister of\nRev. T. B. Harris, pa stor of\nFirst St. Methodist Church.\n\n\nThey had registered as man\nand wife. Authorities are inves-\ntigating their deaths. Both bodies\nwere swollen twice their normal\nsize.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2009,
+                "y0": 371,
+                "x1": 2788,
+                "y1": 598
+            },
+            "class": "headline",
+            "raw_text": "Couple Found Dead\nIn Motel",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-23"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                3,
+                1
+            ],
+            "headline": "Couple Found Dead\nIn Motel",
+            "article": "NEW ORLEANS Two pro-\nminent church and civic leaders\nwe're found dead in a motel room\noutside of the city limits. The\nbodies of Mrs. Elizabeth Harris\nJarvis and Solomon Borrikins\nwere discovered two days after\nthey had been reported missing.\n\n\nBorrikins, a postal employee,\nwas a officer of the First Metho-\ndist Church and an officer of the\nScottish Rite Freema sons.\n\n\nMrs. Jarvis was the sister of\nRev. T. B. Harris, pa stor of\nFirst St. Methodist Church.\n\n\nThey had registered as man\nand wife. Authorities are inves-\ntigating their deaths. Both bodies\nwere swollen twice their normal\nsize.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2009,
+                    "y0": 371,
+                    "x1": 2788,
+                    "y1": 598
+                },
+                {
+                    "x0": 1998,
+                    "y0": 626,
+                    "x1": 2811,
+                    "y1": 1793
+                }
+            ],
+            "bbox": [
+                1998,
+                371,
+                2811,
+                1793
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-23_p1_sn84021918_0041421695A_1964102301_0605.json"
+        }
+    ]
+}

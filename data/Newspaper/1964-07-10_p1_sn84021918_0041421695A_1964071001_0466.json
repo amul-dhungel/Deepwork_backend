@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071001/0466.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4910
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2118,
+                "y0": 2220,
+                "x1": 2948,
+                "y1": 3340
+            },
+            "class": "article",
+            "raw_text": "LOUISVILLE Cassius Clay,\nworlds heavyweight champion,\nsaid he felt safer in Mississippi\nthan in New York.\n\n\nAfter his tour Of Africa, Clay\nsaid injustice to the Negroes Is\nnot limited to the South. He\nfelt that the demonstrations such\nas sit-ins and stand-ins we're\nsilly.\n\n\nClay continued that four or\nfive states should be given to\nthe Negroes for a nation Of their\nown. He felt that this would repay\nhis people for more than 1910\nyears of labor\"\n\n\nThe talkative heavyweight re-\naffirmed his affiliation with Eli\niah Muhammad.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2136,
+                "y0": 1983,
+                "x1": 2647,
+                "y1": 2187
+            },
+            "class": "headline",
+            "raw_text": "Clay Discusses\nRace Vie WIS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 292,
+                "y0": 533,
+                "x1": 1122,
+                "y1": 1369
+            },
+            "class": "article",
+            "raw_text": "Roy L. Elson, administrative\nassistant to Senator Carl Hayden,\nannounced he will seek the Sep\nTENDER Democratic nomination\nfor the United States Senate In\nthe primary election.\n\n\nElson said that he made his de-\ncision to run because Of a deep\nconcern over such Arizona prob\nlens as, \"the need for more IN\ndustry, the need for more jobs,\nand the very urgent need for\nColorado River water.\n\n\nThe SO year old Korean War",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1208,
+                "y0": 521,
+                "x1": 2038,
+                "y1": 1346
+            },
+            "class": "article",
+            "raw_text": "veteran, who has been Hayden's\nright hand man in Arizona S fight\nfor water, was educated in the\npublic schools of Tucson, and\ngraduated from the University of\nArizona. He is married to the\nformer Minor Boring, a North\nCarolina school teacher whom he\nmet while serving with the United\nStates Air Force in Europe. They\nhave two children, Lane, age five,\nand Jean, age three. They reside\nat 5000 North 9TH Street in Phoe-\nnix.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 547,
+                "y0": 365,
+                "x1": 1760,
+                "y1": 493
+            },
+            "class": "headline",
+            "raw_text": "Elson Announces Candidacy",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3011,
+                "y0": 2215,
+                "x1": 3830,
+                "y1": 3242
+            },
+            "class": "article",
+            "raw_text": "Starting July l, a new admis-\nsion rate for swimmers attend\ning after 7 pm. was effective\nat Phoenix City pools. The basic\nadmission of l5&, except at Al\nkire, Eastlake, Grant and Hair\nmon where the price will be l0&,\nwill apply to all persons from 7\npm. until closing time.\n\n\nThe change was approved on an\nexperimental basis by the Phoe-\nnix Parks, Fairgrounds and Rec\nreational Board at its meeting\nof June l8, 1864.\n\n\nMost pools are open until 9\npm. daily during June, July and\nAugust.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3011,
+                "y0": 1977,
+                "x1": 3505,
+                "y1": 2175
+            },
+            "class": "headline",
+            "raw_text": "Prices liked\nAt City Pools",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3916,
+                "y0": 3322,
+                "x1": 4728,
+                "y1": 3572
+            },
+            "class": "article",
+            "raw_text": "8 bedrooms. Partly furnished.\nLarge shady lot, ideal for child\nrem. Newly decorated. 46l8S. 9th\nPlace, 96o-03l8 by owner.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "Clay Discusses\nRace Vie WIS",
+            "article": "LOUISVILLE Cassius Clay,\nworlds heavyweight champion,\nsaid he felt safer in Mississippi\nthan in New York.\n\n\nAfter his tour Of Africa, Clay\nsaid injustice to the Negroes Is\nnot limited to the South. He\nfelt that the demonstrations such\nas sit-ins and stand-ins we're\nsilly.\n\n\nClay continued that four or\nfive states should be given to\nthe Negroes for a nation Of their\nown. He felt that this would repay\nhis people for more than 1910\nyears of labor\"\n\n\nThe talkative heavyweight re-\naffirmed his affiliation with Eli\niah Muhammad.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2136,
+                    "y0": 1983,
+                    "x1": 2647,
+                    "y1": 2187
+                },
+                {
+                    "x0": 2118,
+                    "y0": 2220,
+                    "x1": 2948,
+                    "y1": 3340
+                }
+            ],
+            "bbox": [
+                2118,
+                1983,
+                2948,
+                3340
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-10_p1_sn84021918_0041421695A_1964071001_0466.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Roy L. Elson, administrative\nassistant to Senator Carl Hayden,\nannounced he will seek the Sep\nTENDER Democratic nomination\nfor the United States Senate In\nthe primary election.\n\n\nElson said that he made his de-\ncision to run because Of a deep\nconcern over such Arizona prob\nlens as, \"the need for more IN\ndustry, the need for more jobs,\nand the very urgent need for\nColorado River water.\n\n\nThe SO year old Korean War",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 292,
+                    "y0": 533,
+                    "x1": 1122,
+                    "y1": 1369
+                }
+            ],
+            "bbox": [
+                292,
+                533,
+                1122,
+                1369
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-10_p1_sn84021918_0041421695A_1964071001_0466.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Elson Announces Candidacy",
+            "article": "veteran, who has been Hayden's\nright hand man in Arizona S fight\nfor water, was educated in the\npublic schools of Tucson, and\ngraduated from the University of\nArizona. He is married to the\nformer Minor Boring, a North\nCarolina school teacher whom he\nmet while serving with the United\nStates Air Force in Europe. They\nhave two children, Lane, age five,\nand Jean, age three. They reside\nat 5000 North 9TH Street in Phoe-\nnix.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 547,
+                    "y0": 365,
+                    "x1": 1760,
+                    "y1": 493
+                },
+                {
+                    "x0": 1208,
+                    "y0": 521,
+                    "x1": 2038,
+                    "y1": 1346
+                }
+            ],
+            "bbox": [
+                547,
+                365,
+                2038,
+                1346
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-10_p1_sn84021918_0041421695A_1964071001_0466.json"
+        },
+        {
+            "object_ids": [
+                6,
+                4
+            ],
+            "headline": "Prices liked\nAt City Pools",
+            "article": "Starting July l, a new admis-\nsion rate for swimmers attend\ning after 7 pm. was effective\nat Phoenix City pools. The basic\nadmission of l5&, except at Al\nkire, Eastlake, Grant and Hair\nmon where the price will be l0&,\nwill apply to all persons from 7\npm. until closing time.\n\n\nThe change was approved on an\nexperimental basis by the Phoe-\nnix Parks, Fairgrounds and Rec\nreational Board at its meeting\nof June l8, 1864.\n\n\nMost pools are open until 9\npm. daily during June, July and\nAugust.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3011,
+                    "y0": 1977,
+                    "x1": 3505,
+                    "y1": 2175
+                },
+                {
+                    "x0": 3011,
+                    "y0": 2215,
+                    "x1": 3830,
+                    "y1": 3242
+                }
+            ],
+            "bbox": [
+                3011,
+                1977,
+                3830,
+                3242
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-10_p1_sn84021918_0041421695A_1964071001_0466.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "8 bedrooms. Partly furnished.\nLarge shady lot, ideal for child\nrem. Newly decorated. 46l8S. 9th\nPlace, 96o-03l8 by owner.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3916,
+                    "y0": 3322,
+                    "x1": 4728,
+                    "y1": 3572
+                }
+            ],
+            "bbox": [
+                3916,
+                3322,
+                4728,
+                3572
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-07-10_p1_sn84021918_0041421695A_1964071001_0466.json"
+        }
+    ]
+}

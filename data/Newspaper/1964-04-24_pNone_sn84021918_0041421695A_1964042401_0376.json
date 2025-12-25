@@ -1,0 +1,373 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7391,
+        "width": 4857,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964042401/0376.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1267,
+                "y0": 2846,
+                "x1": 2088,
+                "y1": 3806
+            },
+            "class": "article",
+            "raw_text": "are given in an effort to assist\ninstitutions in meeting antici-\npated growth requirements, to\nreplace obsolete buildings and\nequipment, and to expand their\nservices.\n\n\nColleges and universities eli\ngible for capital grants are those\nwhich are privately operated and\ncontr oiled, and which obtain a\nma jor portion of their financial\nsupport from non-tax sources.\n\n\nThirty nine Negro colleges and\nuniversities awarded direct\ngrants under another section Of\nCuffs educational aid program.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 788,
+                "y0": 2679,
+                "x1": 1805,
+                "y1": 2818
+            },
+            "class": "headline",
+            "raw_text": "Gulf oil Gives Grant",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3057,
+                "y0": 2638,
+                "x1": 3873,
+                "y1": 3927
+            },
+            "class": "article",
+            "raw_text": "According to E. M. Carson,\nvice president and manager of\nFirst National Bank Of Arizona S\nmain office, the largest number\nOf our states new residents for\nthe first three months Of this\nyear came from California.\n\n\nTabulation showed newcomers\nare migrating in substantial num-\nbers from Illinois, Minnesota,\nIowa and New York.\n\n\nAlso heading west to Arizona\nare citizens of Canada, England,\nMexico, Norway, Nova Scotia and\nScotland.\n\n\nThe bank Newcomer Infor-\nnation Service provides new res\nidents with a complete package\nOf data including street atlas,\nsightseers guide and a helpful\nhints question and answer book\nlet.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3069,
+                "y0": 2430,
+                "x1": 3624,
+                "y1": 2616
+            },
+            "class": "headline",
+            "raw_text": "NeWC0m erS\n\n\nFrom California",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2162,
+                "y0": 2581,
+                "x1": 2983,
+                "y1": 3644
+            },
+            "class": "article",
+            "raw_text": "Most frozen meats may be\ncooked either with or without\nprevious thawing. But do allow\nextra cooking time for meats not\nthawed first, say food specialists\nof the u. S. Department of Agri-\nculture.\n\n\nLarge frozen roasts. for ex-\nample, may take as much as l\nIII times as long to cook as\nunfrozen cuts of the same weight\nand shape.\n\n\nSpecialists suggest placing\nmeat in the refrigerator to thaw.\nLeave the meat in its original\nwrapping while 1t thaws to pre-\nvent drying. F or best results cook\nthawed meat Immediately.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2197,
+                "y0": 2448,
+                "x1": 2972,
+                "y1": 2553
+            },
+            "class": "headline",
+            "raw_text": "MEAT COOKING HINTS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 378,
+                "y0": 2852,
+                "x1": 1199,
+                "y1": 3811
+            },
+            "class": "article",
+            "raw_text": "PITTSBURGH-Gulf Oil Corpo-\nration representatives have\nawarded two $4,000 grants to\nShaw University, Raleigh, NC,\nand Bethune-Cookman College,\nDaytona Beach, Florida, as part\nof the company's educational as\nsistance program.\n\n\nThe $1,000 checks we're pre-\nscented to Shaw University presi-\ndent DR.. James E. Cheek and\nBethune-Cookman president DR..\nRichard V. Moore.\n\n\nCapital grants represent one\nphase of Gulf comprehensive\neducational aid program. They",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3941,
+                "y0": 2165,
+                "x1": 4750,
+                "y1": 3009
+            },
+            "class": "article",
+            "raw_text": "Grand high priestess Luther\nmae E. Adams, of the Interna-\ntional Order of Twelve, Cali\nfornia-A Arizona Jurisdiction. paid\nher official visit here with the\nfive Tabernacles on April 8.\n\n\nRose of Arizona #32 was the\nhost tabernacle.\n\n\nShe was entertained by officers\nof the organization. Newford\nJones, chief grand mentor, DIT.\nLena Risby, gr. deputy and DR..\nMaude jewell, queen mother as\nsisted her during her visit.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3964,
+                "y0": 1922,
+                "x1": 4542,
+                "y1": 2137
+            },
+            "class": "headline",
+            "raw_text": "m uson ic\n\n\nHead visits",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3941,
+                "y0": 3314,
+                "x1": 4750,
+                "y1": 3910
+            },
+            "class": "article",
+            "raw_text": "Legend Citys new hours are\nf to ii pm. Fridays, noon to\nii pm. Saturdays and noon to\n10 pm. Sundays.\n\n\nOfficials at the amusement\npark, located between Phoenix\nand Tempe, said the new spring\nschedule will remain in effect\nuntil the daily summer schedule\nbegins in late May.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3947,
+                "y0": 3077,
+                "x1": 4531,
+                "y1": 3280
+            },
+            "class": "headline",
+            "raw_text": "NEW HOURS AT\nLEGEND CITY",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964042401_0376",
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                1
+            ],
+            "headline": "Gulf oil Gives Grant",
+            "article": "are given in an effort to assist\ninstitutions in meeting antici-\npated growth requirements, to\nreplace obsolete buildings and\nequipment, and to expand their\nservices.\n\n\nColleges and universities eli\ngible for capital grants are those\nwhich are privately operated and\ncontr oiled, and which obtain a\nma jor portion of their financial\nsupport from non-tax sources.\n\n\nThirty nine Negro colleges and\nuniversities awarded direct\ngrants under another section Of\nCuffs educational aid program.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 788,
+                    "y0": 2679,
+                    "x1": 1805,
+                    "y1": 2818
+                },
+                {
+                    "x0": 1267,
+                    "y0": 2846,
+                    "x1": 2088,
+                    "y1": 3806
+                }
+            ],
+            "bbox": [
+                788,
+                2679,
+                2088,
+                3806
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-24_pna_sn84021918_0041421695A_1964042401_0376.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "NeWC0m erS\n\n\nFrom California",
+            "article": "According to E. M. Carson,\nvice president and manager of\nFirst National Bank Of Arizona S\nmain office, the largest number\nOf our states new residents for\nthe first three months Of this\nyear came from California.\n\n\nTabulation showed newcomers\nare migrating in substantial num-\nbers from Illinois, Minnesota,\nIowa and New York.\n\n\nAlso heading west to Arizona\nare citizens of Canada, England,\nMexico, Norway, Nova Scotia and\nScotland.\n\n\nThe bank Newcomer Infor-\nnation Service provides new res\nidents with a complete package\nOf data including street atlas,\nsightseers guide and a helpful\nhints question and answer book\nlet.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3069,
+                    "y0": 2430,
+                    "x1": 3624,
+                    "y1": 2616
+                },
+                {
+                    "x0": 3057,
+                    "y0": 2638,
+                    "x1": 3873,
+                    "y1": 3927
+                }
+            ],
+            "bbox": [
+                3057,
+                2430,
+                3873,
+                3927
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-24_pna_sn84021918_0041421695A_1964042401_0376.json"
+        },
+        {
+            "object_ids": [
+                21,
+                3
+            ],
+            "headline": "MEAT COOKING HINTS",
+            "article": "Most frozen meats may be\ncooked either with or without\nprevious thawing. But do allow\nextra cooking time for meats not\nthawed first, say food specialists\nof the u. S. Department of Agri-\nculture.\n\n\nLarge frozen roasts. for ex-\nample, may take as much as l\nIII times as long to cook as\nunfrozen cuts of the same weight\nand shape.\n\n\nSpecialists suggest placing\nmeat in the refrigerator to thaw.\nLeave the meat in its original\nwrapping while 1t thaws to pre-\nvent drying. F or best results cook\nthawed meat Immediately.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2197,
+                    "y0": 2448,
+                    "x1": 2972,
+                    "y1": 2553
+                },
+                {
+                    "x0": 2162,
+                    "y0": 2581,
+                    "x1": 2983,
+                    "y1": 3644
+                }
+            ],
+            "bbox": [
+                2162,
+                2448,
+                2983,
+                3644
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-24_pna_sn84021918_0041421695A_1964042401_0376.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "PITTSBURGH-Gulf Oil Corpo-\nration representatives have\nawarded two $4,000 grants to\nShaw University, Raleigh, NC,\nand Bethune-Cookman College,\nDaytona Beach, Florida, as part\nof the company's educational as\nsistance program.\n\n\nThe $1,000 checks we're pre-\nscented to Shaw University presi-\ndent DR.. James E. Cheek and\nBethune-Cookman president DR..\nRichard V. Moore.\n\n\nCapital grants represent one\nphase of Gulf comprehensive\neducational aid program. They",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 378,
+                    "y0": 2852,
+                    "x1": 1199,
+                    "y1": 3811
+                }
+            ],
+            "bbox": [
+                378,
+                2852,
+                1199,
+                3811
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-24_pna_sn84021918_0041421695A_1964042401_0376.json"
+        },
+        {
+            "object_ids": [
+                16,
+                7
+            ],
+            "headline": "m uson ic\n\n\nHead visits",
+            "article": "Grand high priestess Luther\nmae E. Adams, of the Interna-\ntional Order of Twelve, Cali\nfornia-A Arizona Jurisdiction. paid\nher official visit here with the\nfive Tabernacles on April 8.\n\n\nRose of Arizona #32 was the\nhost tabernacle.\n\n\nShe was entertained by officers\nof the organization. Newford\nJones, chief grand mentor, DIT.\nLena Risby, gr. deputy and DR..\nMaude jewell, queen mother as\nsisted her during her visit.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3964,
+                    "y0": 1922,
+                    "x1": 4542,
+                    "y1": 2137
+                },
+                {
+                    "x0": 3941,
+                    "y0": 2165,
+                    "x1": 4750,
+                    "y1": 3009
+                }
+            ],
+            "bbox": [
+                3941,
+                1922,
+                4750,
+                3009
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-04-24_pna_sn84021918_0041421695A_1964042401_0376.json"
+        },
+        {
+            "object_ids": [
+                13,
+                9
+            ],
+            "headline": "NEW HOURS AT\nLEGEND CITY",
+            "article": "Legend Citys new hours are\nf to ii pm. Fridays, noon to\nii pm. Saturdays and noon to\n10 pm. Sundays.\n\n\nOfficials at the amusement\npark, located between Phoenix\nand Tempe, said the new spring\nschedule will remain in effect\nuntil the daily summer schedule\nbegins in late May.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3947,
+                    "y0": 3077,
+                    "x1": 4531,
+                    "y1": 3280
+                },
+                {
+                    "x0": 3941,
+                    "y0": 3314,
+                    "x1": 4750,
+                    "y1": 3910
+                }
+            ],
+            "bbox": [
+                3941,
+                3077,
+                4750,
+                3910
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-04-24_pna_sn84021918_0041421695A_1964042401_0376.json"
+        }
+    ]
+}

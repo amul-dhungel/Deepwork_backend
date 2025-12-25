@@ -1,0 +1,370 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0498.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4871
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2087,
+                "y0": 2387,
+                "x1": 2917,
+                "y1": 4102
+            },
+            "class": "article",
+            "raw_text": "The speech therapy department\nof Gompers Memorial Rehabili-\nration Center is the training\nground for university students\nthis summer.\n\n\nTwo students are working go\nhours each at Compers in clint\ncal practicum speech therapy,\nunder the direct supervision of\nDR.. Elizabeth Van Auven, direc-\ntor of speech and hearing. The\nwork serves as an intership in\nspeech therapy. as 200 hours of\nclinical practicum are required\nin order to practice profession\nally.\n\n\nStudents are Mrs. Claire Roth\nstein. who received her BIS degree\nin speech pathology from the Uni\nversity of Minnesot and is work\ning on her MS degree through the\nUniversity of Arizona: and Miss\nStephanie Greenhouse, formerly\nat the University of Arizona, will\nbe a senior at A .S.U.\n\n\nThe center has 100 patients in\nspeech therapy this summer, and\nis evaluating about 10 new people\nweekly.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2093,
+                "y0": 2097,
+                "x1": 2645,
+                "y1": 2364
+            },
+            "class": "headline",
+            "raw_text": "Compers Center\nAids University\n\n\nStudents Work",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2076,
+                "y0": 637,
+                "x1": 2905,
+                "y1": 2057
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON. DC. Pres.\nJohnson was told by DR.. Fred\nerick D. Patterson. president of\nthe United Negro College Fund,\nthat \"as barriers to equal oppor-\ntunity continue to fall, more young\npeople, saved from deprivation,\nindignity and despair, will be able\nto go on to higher education and\nprepare themselves for the\ngreater opportunities which will\nsurely come\n\n\nDR.. Patterson, who founded the\nFund, Americas first educa-\ntional community chest, in 1914;\nmet with President Johnson to\nreport on the first phase of the\nEmancipation Centennial Cam\npaign for $5O.oOO,0OO launched\nby the late President Kennedy\non September IL, 1868. DR.. Pat\nterson said that S33 100000 had\nbeen raised in cash and pledges\nto date.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2111,
+                "y0": 393,
+                "x1": 2807,
+                "y1": 609
+            },
+            "class": "headline",
+            "raw_text": "College Fund\n\n\nScholarships Granted",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2968,
+                "y0": 1894,
+                "x1": 3798,
+                "y1": 4578
+            },
+            "class": "article",
+            "raw_text": "The New Zion Baptist Church,\nNew Orleans, can be called the\nhome of the Southern Christian\nLeadership Conference. The ini-\ntial meeting of SCLC had\n\n\noccurred in Atlanta Jan. lO-1l,\n\n\n1857 under the leadership of DR..\nMartin Luther King, Jr., of Mont\ngomery: the Rev. Fred L. Shut\nEllsworth of Birmingham: the\nRev. C. K. Steele, of Tallahassee\nand the Rev. T. ]. Jemison of\nBaton Rouge, La. About 90 per-\nsons from % communities in 10\ndifferent states appeared. The\nidea born in New Orleans mater\nialized in the first meeting at\nEbenezer Baptist Church in At\nlanta.\n\n\nBayard Rustin attended and\nplans were drawn to fight bus\njim crow. DR.. King was forced\nto leave the meetings when bombs\nwe're thrown in Montgomery. His\nwife, Coretta is credited with\nhelping to hold the interest high\nand the formation of SCLC was\nsuccessfully made.\n\n\nDR.. Martin L. King, Jr., was\nelected president. He wrote in\nletter from an Atlanta jail on\nApril IL, 1868; eve have waited\nfor more than $40 years for our\nconstitutional and God-given\nrights. The nations of Asia and\nAfrica are moving with jetlike\nspeed toward the goal of political\nindependence, and we still creep\nat horse and buggy pace toward\nthe gaining of a cup of coffee at\na lunch counter We will win\nour freedom because the sacred\nheritage of our nation and the\nwill of God are embodied\nIN our echoing demands\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 262,
+                "y0": 469,
+                "x1": 1092,
+                "y1": 2469
+            },
+            "class": "article",
+            "raw_text": "BY FLORA RUFFIN\n\n\nMIR. and Mrs. Leon Kidd of\nGary. Ind. are houseguests Of\nthe Roosevelt Sims.\n\n\nMarlene Chambers has re-\nturned from Los Angeles visit.\n\n\nA closing fiscal year dinner\nwas held last Sunday at the Tay-\nlor Memorial Interracial Spiri-\ntual Church, l245 w. Watkins.\nRev. John Meeker was guest\nspeaker. His message was en-\ntitled, \"Moses the Leader\"\n\n\nMrs. H. Waggoner won the sun\nflower growing contest. Mem\nbers had planted seeds in Feb\nrurary. Hers was 2 #. IA ms.\n\n\nThe delayed visit of the year\nwas made when Mrs. Ethel East\nman was reunited with her niece,\nMrs. Fred (Florine) Oliver after\nmore than 20 years. She spent\nseveral days with MIR. and Mrs.\nFred Oliver, returning this week\nto San Jose, Calf, due to her\nhusbands Illness.\n\n\nMr.. and Mrs. Walter Brown,\n1920 S. FL ST., hosted lookout\nfor MIR. and Mrs. Fred Waters\nand Mrs. Virginia Scott. of Los\nAngeles. Other guests we're Hay\nwood Hundy Of San Diego, MIR. and\nMrs. William Hooks of Phoenix\nand Floyd Hooks of Kokomo, Ind.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 262,
+                "y0": 370,
+                "x1": 640,
+                "y1": 458
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 280,
+                "y0": 475,
+                "x1": 796,
+                "y1": 516
+            },
+            "class": "author",
+            "raw_text": "BY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1172,
+                "y0": 504,
+                "x1": 2001,
+                "y1": 1153
+            },
+            "class": "article",
+            "raw_text": "MEDFORD. Mass. A party\nended in a race riot when several\nhundred white and Negro teen\nayers fought. The trouble started\nafter Negro tried to skate with\na white girl.\n\n\nAbout ten persons we're In\njured. There we're no arrests.\nA police car was overturned and\nchartered bus was badly\ndamaged.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1189,
+                "y0": 365,
+                "x1": 1822,
+                "y1": 458
+            },
+            "class": "headline",
+            "raw_text": "Skating Purty Riot",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3889,
+                "y0": 1923,
+                "x1": 4719,
+                "y1": 4398
+            },
+            "class": "article",
+            "raw_text": "Roy Wilkins is Executive Sec\nrotary of the National ASS ociation\nfor the Advancement of Colored\nPeople, was unanimously named\nby the board of directors on April\nIL, 1855, to succeed Walter White\nwho died on March 81. He lives\nin New York City where the Asso-\ncitation has its national headquar-\ntiers at 20 West 10th Street, New\nYork, N. Y. lOOl8.\n\n\nHe joined the staff of the\nNAACP in 1881 as Assistant\nExecutive Secretary and while\nfilling that position was also\nQ934-49) Editor of The Crisis,\nthe monthly magazine that is the\nofficial organ Of the NAACP. Mr..\nWilkins was Acting Secretary of\nthe NAACP from June l. lo49,\nto May 81. 1850. during Walter\nWhites leave of absence. From\n1850 to his election as Executive\nSecretary, Mr.. Wilkins served as\nAdministrator.\n\n\nHe was born in St. Louis, Mis-\nsouri,, but grew up in St. Paul.\nMINES ota, where he finished the\npublic schools and was graduated\nfrom the University of Minnesota.\nFor eight years he worked on the\nstaff of The Kansas City Call, a\nweekly newspaper in Kansas City,\nMissouri.\n\n\nThe NAACP has had an inter-\nracial membership and corps Of\ndirectors and officers since its\nfounding in 1909. The 1868 paid\nmembership was SIS. 900. located\nin 1858 branches and youth\ngroups in 40 states and the Dis\ntrict of Columbia.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "Compers Center\nAids University\n\n\nStudents Work",
+            "article": "The speech therapy department\nof Gompers Memorial Rehabili-\nration Center is the training\nground for university students\nthis summer.\n\n\nTwo students are working go\nhours each at Compers in clint\ncal practicum speech therapy,\nunder the direct supervision of\nDR.. Elizabeth Van Auven, direc-\ntor of speech and hearing. The\nwork serves as an intership in\nspeech therapy. as 200 hours of\nclinical practicum are required\nin order to practice profession\nally.\n\n\nStudents are Mrs. Claire Roth\nstein. who received her BIS degree\nin speech pathology from the Uni\nversity of Minnesot and is work\ning on her MS degree through the\nUniversity of Arizona: and Miss\nStephanie Greenhouse, formerly\nat the University of Arizona, will\nbe a senior at A .S.U.\n\n\nThe center has 100 patients in\nspeech therapy this summer, and\nis evaluating about 10 new people\nweekly.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2093,
+                    "y0": 2097,
+                    "x1": 2645,
+                    "y1": 2364
+                },
+                {
+                    "x0": 2087,
+                    "y0": 2387,
+                    "x1": 2917,
+                    "y1": 4102
+                }
+            ],
+            "bbox": [
+                2087,
+                2097,
+                2917,
+                4102
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_p1_sn84021918_0041421695A_1964073101_0498.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "College Fund\n\n\nScholarships Granted",
+            "article": "WASHINGTON. DC. Pres.\nJohnson was told by DR.. Fred\nerick D. Patterson. president of\nthe United Negro College Fund,\nthat \"as barriers to equal oppor-\ntunity continue to fall, more young\npeople, saved from deprivation,\nindignity and despair, will be able\nto go on to higher education and\nprepare themselves for the\ngreater opportunities which will\nsurely come\n\n\nDR.. Patterson, who founded the\nFund, Americas first educa-\ntional community chest, in 1914;\nmet with President Johnson to\nreport on the first phase of the\nEmancipation Centennial Cam\npaign for $5O.oOO,0OO launched\nby the late President Kennedy\non September IL, 1868. DR.. Pat\nterson said that S33 100000 had\nbeen raised in cash and pledges\nto date.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2111,
+                    "y0": 393,
+                    "x1": 2807,
+                    "y1": 609
+                },
+                {
+                    "x0": 2076,
+                    "y0": 637,
+                    "x1": 2905,
+                    "y1": 2057
+                }
+            ],
+            "bbox": [
+                2076,
+                393,
+                2905,
+                2057
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_p1_sn84021918_0041421695A_1964073101_0498.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "The New Zion Baptist Church,\nNew Orleans, can be called the\nhome of the Southern Christian\nLeadership Conference. The ini-\ntial meeting of SCLC had\n\n\noccurred in Atlanta Jan. lO-1l,\n\n\n1857 under the leadership of DR..\nMartin Luther King, Jr., of Mont\ngomery: the Rev. Fred L. Shut\nEllsworth of Birmingham: the\nRev. C. K. Steele, of Tallahassee\nand the Rev. T. ]. Jemison of\nBaton Rouge, La. About 90 per-\nsons from % communities in 10\ndifferent states appeared. The\nidea born in New Orleans mater\nialized in the first meeting at\nEbenezer Baptist Church in At\nlanta.\n\n\nBayard Rustin attended and\nplans were drawn to fight bus\njim crow. DR.. King was forced\nto leave the meetings when bombs\nwe're thrown in Montgomery. His\nwife, Coretta is credited with\nhelping to hold the interest high\nand the formation of SCLC was\nsuccessfully made.\n\n\nDR.. Martin L. King, Jr., was\nelected president. He wrote in\nletter from an Atlanta jail on\nApril IL, 1868; eve have waited\nfor more than $40 years for our\nconstitutional and God-given\nrights. The nations of Asia and\nAfrica are moving with jetlike\nspeed toward the goal of political\nindependence, and we still creep\nat horse and buggy pace toward\nthe gaining of a cup of coffee at\na lunch counter We will win\nour freedom because the sacred\nheritage of our nation and the\nwill of God are embodied\nIN our echoing demands\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2968,
+                    "y0": 1894,
+                    "x1": 3798,
+                    "y1": 4578
+                }
+            ],
+            "bbox": [
+                2968,
+                1894,
+                3798,
+                4578
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-31_p1_sn84021918_0041421695A_1964073101_0498.json"
+        },
+        {
+            "object_ids": [
+                22,
+                26,
+                5
+            ],
+            "headline": "",
+            "article": "BY FLORA RUFFIN\n\n\nMIR. and Mrs. Leon Kidd of\nGary. Ind. are houseguests Of\nthe Roosevelt Sims.\n\n\nMarlene Chambers has re-\nturned from Los Angeles visit.\n\n\nA closing fiscal year dinner\nwas held last Sunday at the Tay-\nlor Memorial Interracial Spiri-\ntual Church, l245 w. Watkins.\nRev. John Meeker was guest\nspeaker. His message was en-\ntitled, \"Moses the Leader\"\n\n\nMrs. H. Waggoner won the sun\nflower growing contest. Mem\nbers had planted seeds in Feb\nrurary. Hers was 2 #. IA ms.\n\n\nThe delayed visit of the year\nwas made when Mrs. Ethel East\nman was reunited with her niece,\nMrs. Fred (Florine) Oliver after\nmore than 20 years. She spent\nseveral days with MIR. and Mrs.\nFred Oliver, returning this week\nto San Jose, Calf, due to her\nhusbands Illness.\n\n\nMr.. and Mrs. Walter Brown,\n1920 S. FL ST., hosted lookout\nfor MIR. and Mrs. Fred Waters\nand Mrs. Virginia Scott. of Los\nAngeles. Other guests we're Hay\nwood Hundy Of San Diego, MIR. and\nMrs. William Hooks of Phoenix\nand Floyd Hooks of Kokomo, Ind.",
+            "byline": "BY FLORA RUFFIN",
+            "bbox_list": [
+                {
+                    "x0": 262,
+                    "y0": 370,
+                    "x1": 640,
+                    "y1": 458
+                },
+                {
+                    "x0": 280,
+                    "y0": 475,
+                    "x1": 796,
+                    "y1": 516
+                },
+                {
+                    "x0": 262,
+                    "y0": 469,
+                    "x1": 1092,
+                    "y1": 2469
+                }
+            ],
+            "bbox": [
+                262,
+                370,
+                1092,
+                2469
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-31_p1_sn84021918_0041421695A_1964073101_0498.json"
+        },
+        {
+            "object_ids": [
+                20,
+                7
+            ],
+            "headline": "Skating Purty Riot",
+            "article": "MEDFORD. Mass. A party\nended in a race riot when several\nhundred white and Negro teen\nayers fought. The trouble started\nafter Negro tried to skate with\na white girl.\n\n\nAbout ten persons we're In\njured. There we're no arrests.\nA police car was overturned and\nchartered bus was badly\ndamaged.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1189,
+                    "y0": 365,
+                    "x1": 1822,
+                    "y1": 458
+                },
+                {
+                    "x0": 1172,
+                    "y0": 504,
+                    "x1": 2001,
+                    "y1": 1153
+                }
+            ],
+            "bbox": [
+                1172,
+                365,
+                2001,
+                1153
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-31_p1_sn84021918_0041421695A_1964073101_0498.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Roy Wilkins is Executive Sec\nrotary of the National ASS ociation\nfor the Advancement of Colored\nPeople, was unanimously named\nby the board of directors on April\nIL, 1855, to succeed Walter White\nwho died on March 81. He lives\nin New York City where the Asso-\ncitation has its national headquar-\ntiers at 20 West 10th Street, New\nYork, N. Y. lOOl8.\n\n\nHe joined the staff of the\nNAACP in 1881 as Assistant\nExecutive Secretary and while\nfilling that position was also\nQ934-49) Editor of The Crisis,\nthe monthly magazine that is the\nofficial organ Of the NAACP. Mr..\nWilkins was Acting Secretary of\nthe NAACP from June l. lo49,\nto May 81. 1850. during Walter\nWhites leave of absence. From\n1850 to his election as Executive\nSecretary, Mr.. Wilkins served as\nAdministrator.\n\n\nHe was born in St. Louis, Mis-\nsouri,, but grew up in St. Paul.\nMINES ota, where he finished the\npublic schools and was graduated\nfrom the University of Minnesota.\nFor eight years he worked on the\nstaff of The Kansas City Call, a\nweekly newspaper in Kansas City,\nMissouri.\n\n\nThe NAACP has had an inter-\nracial membership and corps Of\ndirectors and officers since its\nfounding in 1909. The 1868 paid\nmembership was SIS. 900. located\nin 1858 branches and youth\ngroups in 40 states and the Dis\ntrict of Columbia.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3889,
+                    "y0": 1923,
+                    "x1": 4719,
+                    "y1": 4398
+                }
+            ],
+            "bbox": [
+                3889,
+                1923,
+                4719,
+                4398
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-31_p1_sn84021918_0041421695A_1964073101_0498.json"
+        }
+    ]
+}

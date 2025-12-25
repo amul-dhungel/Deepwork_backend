@@ -1,0 +1,471 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011001/0254.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4798
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2029,
+                "y0": 4565,
+                "x1": 2845,
+                "y1": 7098
+            },
+            "class": "article",
+            "raw_text": "Each year, more people are\ndoing everything from refinish-\ning a chair to building complete\nhouse themselves. Unfortunate\nly, many enter a do-it-yourself\nproject with lot of enthusiasm\nbut not enough preparation. Re-\nsuit: injuries ranging from sliv-\ners to broken bones. In an effort\nto reduce causes of accidents,\nthe Sentry Safety Council Of\nHardware Mutuals-Sentry Life\ninsurance group has compiled\nthese do-it-yourself safety tips:\n. Never wear long -sleeved shirts,\n\n\ngloves, wrist watches or rings\n\n\nwhen operating power tools.\nBe sure hands are dry and you\n\n\nare standing on dry floor be-\n\n\nfore turning on power.\n\n\nElectrical circuit of shop\n\n\nshould be separate from house,\n\n\nadequate to carry volt-load.\n\n\nRubber floor mats reduce\n\n\nshock and slipping hazards.\n. When adjusting a machine,\n\n\nturn off power and wait until\n\n\nit has come to a standstill.\n\n\nNever use hands to slow down\n\n\na machine warns the Sentry\n\n\nSafety Council.\n\n\n. Wear safety glasses when US\n\n\ning lathe, similar machines.\n. Electric saws should have\n\n\nguards, feather boards and\n\n\nkick back pawls. Use a pusher\n\n\nstick when ripping short\n\n\nboards. Do not reach over\n\n\nblade while saw is in operation.\n. Keep tools sharp.\n\n\n. When using a screwdriver, do\n\n\nnot hold work in the palm of\n\n\nyour hand.\n\n\n. Point tools away from body;\n\n\nnever carry tools in pockets.\n. Do not smoke in a workshop;\n\n\nprovide a fireproof container\n\n\nfor saw dust; keep a fire ex-\n\n\ntinguisher nearby.\n\n\nFinally, the Sentry Safety\nCouncil says a little precaution\nahead Of time can make first aid\nmeasures unnecessary later.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2081,
+                "y0": 4092,
+                "x1": 2787,
+                "y1": 4462
+            },
+            "class": "headline",
+            "raw_text": "Sentry Sentry g.:\nSafety -\nCouncil TX",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2075,
+                "y0": 4485,
+                "x1": 2793,
+                "y1": 4555
+            },
+            "class": "author",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2005,
+                "y0": 676,
+                "x1": 2839,
+                "y1": 4000
+            },
+            "class": "article",
+            "raw_text": "Last spring my husband and |\ndecided we would refurnish the\nbedroom. We discussed new\ncolors and new types of mater\nials for draperies. We looked\nat many furniture advertisements\nand window arrangements.\n\n\nA week before Christmas we\ndecided to purchase a walnut\nbedroom set with a king size bed.\nThe next few days brought COM\nplete change of practically every\nthing. The king size bed was real\nly an oversize king size. The mat\ntress we had ordered was too\nsmall. 1t was several days before\nthe correct one was delivered.\n\n\nOn the first evening after the\nbedroom furniture was delivered\nIl received the shock of my life\n| found had forgotten to buy\nany king size bed linens. | dashed\nto the telephone and called sew\neral stores. Only one store had\nthe oversize king size sheets l\nwanted.\n\n\nA few minutes before closing\ntime rushed in the store and\nordered two sheets. While look\nIng around, remembered that |\nwould need a king size blanket,\ntoo.\n\n\nThe next day | returned and\npurchased three more sets of\nsheets, two sets of pillowcases,\ntwo large pillows and ordered\na king size mattress cover.\n\n\nThe king size bedspread my\nMother sent US last year came in\nhandy. We will have to find an\ndiversified one after our new drap-\ncries are finished and hung.\n\n\nYou can buy some new fur\nniture, but 1t will cause you to\nalways get something else new.\nA new broom may sweep clean\nlit will sweep a new rug even\ncleaner.\n\n\nThe new bed was the starting\npoint of decorating the entire\nbedroom and buying new linens,\ndraperies and throw rugs. This\nis not a bad investment how\never. since researchers say we\nspend approximately two thirds of\nour lives In bed.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2005,
+                "y0": 323,
+                "x1": 2804,
+                "y1": 642
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOISE BANKS\n\n\nTHE NEW BED",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2913,
+                "y0": 1092,
+                "x1": 4602,
+                "y1": 2341
+            },
+            "class": "article",
+            "raw_text": "During first month the should examine\nevalue the progress made during 1863 There much written\ncondition of the Negro the United\nfailures and faults facing the Negro population\nnumber of and progresses.\n\n\nWashington named of the outstanding\nof the but in reality the made before the\nTremendous strides in\ngrated housing employment and education preceded the march,\nBy little changed by the march,\nprogress through uneraded meetings and confer\nences n communities, cities neighborhoods\n\n\ncontinued for relations\nforget that Negroes the entire nation We\nshould not become overlook other problems\nfacing should be interest In budgets\nforeign aid for the mentally retarded social security and\ntional defense.\n\n\nNegroes truth become first class citizens This requires\nthan those dealing solely\nwith and color",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3433,
+                "y0": 410,
+                "x1": 4440,
+                "y1": 856
+            },
+            "class": "headline",
+            "raw_text": "Views, pReviews\nAMD REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3653,
+                "y0": 780,
+                "x1": 4203,
+                "y1": 867
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2936,
+                "y0": 982,
+                "x1": 3746,
+                "y1": 1070
+            },
+            "class": "headline",
+            "raw_text": "TIME TOLOOK AHEAD",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 266,
+                "y0": 5172,
+                "x1": 1931,
+                "y1": 7086
+            },
+            "class": "article",
+            "raw_text": "Time Magazine chose Dr.. Martin Luther\nKing, .JY., as the Man Of the Year. He uaS\nselected because Of his contributions t0aCoTd\nImproving and promoting the equal rights\nstruggle of the American Negro.\n\n\nDr.. King has inspired millions Of persons,\nthrough n0nviOlent methods. He SbeaYhe0ded\nthe Montgomery, Alabama, bus boycott and\nother similar mass demonstrations in the\nSouth.\n\n\nHe is magnetic speaker. He is able to\ninspire his followers and bring about con-\ntYolled mass reactions. Dr.. King, through\nthe Southern Christian Leadership Confer\nence, has stimulated more participation IN\nthe South for civil rights and ciuil liberties\nthan any person in the nation\n\n\nDr.. King becomes the first Negro to be\nplaced on the covey of this magazine as the\noutstanding personality Of the year. HIS &C.\nCOMP lishments are Nvi'ag symbols for all Of\nus today and in future years.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 318,
+                "y0": 4912,
+                "x1": 1798,
+                "y1": 5087
+            },
+            "class": "headline",
+            "raw_text": "DR.. KING ANOTHER FIRST",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2907,
+                "y0": 2912,
+                "x1": 4619,
+                "y1": 6884
+            },
+            "class": "article",
+            "raw_text": "Years resolution which the press caution Negro\nleadership should Resolve forget\nin 3Odays the 30year negative civil rights performance of the\nsitting the White Housed President Lyndon B. ohnons\nvoting member Congress and his ruling Pres\nSenate year is without\nbelieve that he will contribute\nthe civil rights revolution.\n\n\nThe Presidents plea need you now not be applicable\nof Americas minority population cried ut-as did time and time\nagain 1863 eve you now only fall deaf\nof the entire Democratic Southern bloc in the Congress which was\nby Lyndon Johnson If the bespeaks the future 1t tes-\nanything from\nHouse than the political tricks and gadgets\nwhich have contributed nothing the of civil rights\n\n\nSnce dark days November which moved this nations\nhave looked have countless Negro\nAmericans the Andrew Hatcher Associate White\nHouse Secretary Mr. Hahers face Is either\nTV In pictures and presents great challenge to this\n\n\nusrous group challenge which only be by the\nthe V Of the face Of the only black man IN\nthe White House, Mr. Hatcher is u.s. Of the\nfourth estate relinouh this symbol of progress\n\n\nonly that have been charmed by President Johnson 81\ntradition that deserve nothing better\nthan the fate which has bealen\n\n\nwithin my limited knowledge of Southern culture to\nforgive President when he did in the pictures with\nMartin Luther King Jr and the dedicated A. Phillip\nRandolph their fortnight leadership direct action\nrights of LBys Administration\nwhich is the or\nthe Associate White House Press Secretary\n\n\nConcern given Negro Federal employees\nthose GSl GS4s In view of the\nPresidents Christmas Day directive cut back federal\nemployment\n\n\nAugust with decrease of 3849 claim made by Joint Con-\ngressonal Committee Expenditures\nLB, Southern econom1Zer ratner the\ncalled still backs in Federal\nemployment the limits of this nations capital many Negro\npleasantly like tragic figures in maestrom\nThey and doubessly will agree, that the\nNegro public private employment is always\nbe fired.\n\n\nthe employee who thinks that for the first\nyear Negroes will be let only to see during\nyear their jobs given employees coming\nto Washington south the freedom border You\ndedicate yourselves the proposition\nto see spectacle the aspirations\nNegroes who believed their best job security was\nin the OF\n\n\nThe Presidents sound politically 1t calls for holding\nSouthern while Harvesting the Negro\nvote bv courtshps White House plus we'll appointed\nhigh sounding timely placed civil rights speeches by Democrat\nthe President party which has never in the\nhistory of this piece of civil rights legislation\n\n\nTribune Advertisers",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 196,
+                "y0": 2329,
+                "x1": 1920,
+                "y1": 4775
+            },
+            "class": "article",
+            "raw_text": "Last week the new mayor and city council\nmembers of Phoenix took office. Mayor MI\ntom Graham and council members, Mrs. K1ztg-\nlick, Dr.. Pisano, MessYs. Hyde, L0ney, Lind\nneY and Jarvis Will haze many old and neW\nproblems to solUe.\n\n\nMayor Graham presented his views Of the\nmost pressing problems in his initial speech.\nHe stated that the police department needs\nmore officers and a dog leash Ian sOas needed\n\n\nThese t1OO problems are very pressing and\naction should be taken at once. The city street\nprogram needs further consideration. Free\nnays are needed but main thOY0ughtayeS are\nalso COmgeSted.\n\n\nA new police chief has been selected. Chief\nPaul Bh4n1bouxu'S record in the city police\ndepartment assures us that he min be an\nable man and he Vil help Improve the\nentire department.\n\n\nAS the nesV city government and police\nad,,sinistyatto begins ne hope that Phoenix\nviii outdistance its oun re cord of growth\nin the next year. We can not leaUe everything\nub to the neV mayor, council members nor\nthe police chief, ne the citizens are Yesbon-\nSible, too.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 329,
+                "y0": 2092,
+                "x1": 1758,
+                "y1": 2278
+            },
+            "class": "headline",
+            "raw_text": "new CITY GOVERNMENT",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2936,
+                "y0": 2427,
+                "x1": 4376,
+                "y1": 2890
+            },
+            "class": "article",
+            "raw_text": "EXCERPTS FROM AN ADDRESS MADE\nBY CLAY J. CLAIBOURNE. SPECIAL\nASST. TO THE CHAIRMAN AND DIRECTOR OF\n\n\nMINoRIrIEs, REPUBLIC AN NATIONAL COMMITTEES\nPRESENTED TO THE PRESS CLUB,\nWASHINGTON, D. c., JAN. z, 1864",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-01-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                10,
+                0
+            ],
+            "headline": "Sentry Sentry g.:\nSafety -\nCouncil TX",
+            "article": "Each year, more people are\ndoing everything from refinish-\ning a chair to building complete\nhouse themselves. Unfortunate\nly, many enter a do-it-yourself\nproject with lot of enthusiasm\nbut not enough preparation. Re-\nsuit: injuries ranging from sliv-\ners to broken bones. In an effort\nto reduce causes of accidents,\nthe Sentry Safety Council Of\nHardware Mutuals-Sentry Life\ninsurance group has compiled\nthese do-it-yourself safety tips:\n. Never wear long -sleeved shirts,\n\n\ngloves, wrist watches or rings\n\n\nwhen operating power tools.\nBe sure hands are dry and you\n\n\nare standing on dry floor be-\n\n\nfore turning on power.\n\n\nElectrical circuit of shop\n\n\nshould be separate from house,\n\n\nadequate to carry volt-load.\n\n\nRubber floor mats reduce\n\n\nshock and slipping hazards.\n. When adjusting a machine,\n\n\nturn off power and wait until\n\n\nit has come to a standstill.\n\n\nNever use hands to slow down\n\n\na machine warns the Sentry\n\n\nSafety Council.\n\n\n. Wear safety glasses when US\n\n\ning lathe, similar machines.\n. Electric saws should have\n\n\nguards, feather boards and\n\n\nkick back pawls. Use a pusher\n\n\nstick when ripping short\n\n\nboards. Do not reach over\n\n\nblade while saw is in operation.\n. Keep tools sharp.\n\n\n. When using a screwdriver, do\n\n\nnot hold work in the palm of\n\n\nyour hand.\n\n\n. Point tools away from body;\n\n\nnever carry tools in pockets.\n. Do not smoke in a workshop;\n\n\nprovide a fireproof container\n\n\nfor saw dust; keep a fire ex-\n\n\ntinguisher nearby.\n\n\nFinally, the Sentry Safety\nCouncil says a little precaution\nahead Of time can make first aid\nmeasures unnecessary later.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2081,
+                    "y0": 4092,
+                    "x1": 2787,
+                    "y1": 4462
+                },
+                {
+                    "x0": 2075,
+                    "y0": 4485,
+                    "x1": 2793,
+                    "y1": 4555
+                },
+                {
+                    "x0": 2029,
+                    "y0": 4565,
+                    "x1": 2845,
+                    "y1": 7098
+                }
+            ],
+            "bbox": [
+                2029,
+                4092,
+                2845,
+                7098
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-10_p1_sn84021918_0041421695A_1964011001_0254.json"
+        },
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "Sights and Sounds\nELOISE BANKS\n\n\nTHE NEW BED",
+            "article": "Last spring my husband and |\ndecided we would refurnish the\nbedroom. We discussed new\ncolors and new types of mater\nials for draperies. We looked\nat many furniture advertisements\nand window arrangements.\n\n\nA week before Christmas we\ndecided to purchase a walnut\nbedroom set with a king size bed.\nThe next few days brought COM\nplete change of practically every\nthing. The king size bed was real\nly an oversize king size. The mat\ntress we had ordered was too\nsmall. 1t was several days before\nthe correct one was delivered.\n\n\nOn the first evening after the\nbedroom furniture was delivered\nIl received the shock of my life\n| found had forgotten to buy\nany king size bed linens. | dashed\nto the telephone and called sew\neral stores. Only one store had\nthe oversize king size sheets l\nwanted.\n\n\nA few minutes before closing\ntime rushed in the store and\nordered two sheets. While look\nIng around, remembered that |\nwould need a king size blanket,\ntoo.\n\n\nThe next day | returned and\npurchased three more sets of\nsheets, two sets of pillowcases,\ntwo large pillows and ordered\na king size mattress cover.\n\n\nThe king size bedspread my\nMother sent US last year came in\nhandy. We will have to find an\ndiversified one after our new drap-\ncries are finished and hung.\n\n\nYou can buy some new fur\nniture, but 1t will cause you to\nalways get something else new.\nA new broom may sweep clean\nlit will sweep a new rug even\ncleaner.\n\n\nThe new bed was the starting\npoint of decorating the entire\nbedroom and buying new linens,\ndraperies and throw rugs. This\nis not a bad investment how\never. since researchers say we\nspend approximately two thirds of\nour lives In bed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2005,
+                    "y0": 323,
+                    "x1": 2804,
+                    "y1": 642
+                },
+                {
+                    "x0": 2005,
+                    "y0": 676,
+                    "x1": 2839,
+                    "y1": 4000
+                }
+            ],
+            "bbox": [
+                2005,
+                323,
+                2839,
+                4000
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-10_p1_sn84021918_0041421695A_1964011001_0254.json"
+        },
+        {
+            "object_ids": [
+                6,
+                17,
+                11,
+                2
+            ],
+            "headline": "Views, pReviews\nAMD REVIEWS\n\n\nEdward Banks\n\nTIME TOLOOK AHEAD",
+            "article": "During first month the should examine\nevalue the progress made during 1863 There much written\ncondition of the Negro the United\nfailures and faults facing the Negro population\nnumber of and progresses.\n\n\nWashington named of the outstanding\nof the but in reality the made before the\nTremendous strides in\ngrated housing employment and education preceded the march,\nBy little changed by the march,\nprogress through uneraded meetings and confer\nences n communities, cities neighborhoods\n\n\ncontinued for relations\nforget that Negroes the entire nation We\nshould not become overlook other problems\nfacing should be interest In budgets\nforeign aid for the mentally retarded social security and\ntional defense.\n\n\nNegroes truth become first class citizens This requires\nthan those dealing solely\nwith and color",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3433,
+                    "y0": 410,
+                    "x1": 4440,
+                    "y1": 856
+                },
+                {
+                    "x0": 3653,
+                    "y0": 780,
+                    "x1": 4203,
+                    "y1": 867
+                },
+                {
+                    "x0": 2936,
+                    "y0": 982,
+                    "x1": 3746,
+                    "y1": 1070
+                },
+                {
+                    "x0": 2913,
+                    "y0": 1092,
+                    "x1": 4602,
+                    "y1": 2341
+                }
+            ],
+            "bbox": [
+                2913,
+                410,
+                4602,
+                2341
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-10_p1_sn84021918_0041421695A_1964011001_0254.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "DR.. KING ANOTHER FIRST",
+            "article": "Time Magazine chose Dr.. Martin Luther\nKing, .JY., as the Man Of the Year. He uaS\nselected because Of his contributions t0aCoTd\nImproving and promoting the equal rights\nstruggle of the American Negro.\n\n\nDr.. King has inspired millions Of persons,\nthrough n0nviOlent methods. He SbeaYhe0ded\nthe Montgomery, Alabama, bus boycott and\nother similar mass demonstrations in the\nSouth.\n\n\nHe is magnetic speaker. He is able to\ninspire his followers and bring about con-\ntYolled mass reactions. Dr.. King, through\nthe Southern Christian Leadership Confer\nence, has stimulated more participation IN\nthe South for civil rights and ciuil liberties\nthan any person in the nation\n\n\nDr.. King becomes the first Negro to be\nplaced on the covey of this magazine as the\noutstanding personality Of the year. HIS &C.\nCOMP lishments are Nvi'ag symbols for all Of\nus today and in future years.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 318,
+                    "y0": 4912,
+                    "x1": 1798,
+                    "y1": 5087
+                },
+                {
+                    "x0": 266,
+                    "y0": 5172,
+                    "x1": 1931,
+                    "y1": 7086
+                }
+            ],
+            "bbox": [
+                266,
+                4912,
+                1931,
+                7086
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-10_p1_sn84021918_0041421695A_1964011001_0254.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Years resolution which the press caution Negro\nleadership should Resolve forget\nin 3Odays the 30year negative civil rights performance of the\nsitting the White Housed President Lyndon B. ohnons\nvoting member Congress and his ruling Pres\nSenate year is without\nbelieve that he will contribute\nthe civil rights revolution.\n\n\nThe Presidents plea need you now not be applicable\nof Americas minority population cried ut-as did time and time\nagain 1863 eve you now only fall deaf\nof the entire Democratic Southern bloc in the Congress which was\nby Lyndon Johnson If the bespeaks the future 1t tes-\nanything from\nHouse than the political tricks and gadgets\nwhich have contributed nothing the of civil rights\n\n\nSnce dark days November which moved this nations\nhave looked have countless Negro\nAmericans the Andrew Hatcher Associate White\nHouse Secretary Mr. Hahers face Is either\nTV In pictures and presents great challenge to this\n\n\nusrous group challenge which only be by the\nthe V Of the face Of the only black man IN\nthe White House, Mr. Hatcher is u.s. Of the\nfourth estate relinouh this symbol of progress\n\n\nonly that have been charmed by President Johnson 81\ntradition that deserve nothing better\nthan the fate which has bealen\n\n\nwithin my limited knowledge of Southern culture to\nforgive President when he did in the pictures with\nMartin Luther King Jr and the dedicated A. Phillip\nRandolph their fortnight leadership direct action\nrights of LBys Administration\nwhich is the or\nthe Associate White House Press Secretary\n\n\nConcern given Negro Federal employees\nthose GSl GS4s In view of the\nPresidents Christmas Day directive cut back federal\nemployment\n\n\nAugust with decrease of 3849 claim made by Joint Con-\ngressonal Committee Expenditures\nLB, Southern econom1Zer ratner the\ncalled still backs in Federal\nemployment the limits of this nations capital many Negro\npleasantly like tragic figures in maestrom\nThey and doubessly will agree, that the\nNegro public private employment is always\nbe fired.\n\n\nthe employee who thinks that for the first\nyear Negroes will be let only to see during\nyear their jobs given employees coming\nto Washington south the freedom border You\ndedicate yourselves the proposition\nto see spectacle the aspirations\nNegroes who believed their best job security was\nin the OF\n\n\nThe Presidents sound politically 1t calls for holding\nSouthern while Harvesting the Negro\nvote bv courtshps White House plus we'll appointed\nhigh sounding timely placed civil rights speeches by Democrat\nthe President party which has never in the\nhistory of this piece of civil rights legislation\n\n\nTribune Advertisers",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2907,
+                    "y0": 2912,
+                    "x1": 4619,
+                    "y1": 6884
+                }
+            ],
+            "bbox": [
+                2907,
+                2912,
+                4619,
+                6884
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-10_p1_sn84021918_0041421695A_1964011001_0254.json"
+        },
+        {
+            "object_ids": [
+                12,
+                8
+            ],
+            "headline": "new CITY GOVERNMENT",
+            "article": "Last week the new mayor and city council\nmembers of Phoenix took office. Mayor MI\ntom Graham and council members, Mrs. K1ztg-\nlick, Dr.. Pisano, MessYs. Hyde, L0ney, Lind\nneY and Jarvis Will haze many old and neW\nproblems to solUe.\n\n\nMayor Graham presented his views Of the\nmost pressing problems in his initial speech.\nHe stated that the police department needs\nmore officers and a dog leash Ian sOas needed\n\n\nThese t1OO problems are very pressing and\naction should be taken at once. The city street\nprogram needs further consideration. Free\nnays are needed but main thOY0ughtayeS are\nalso COmgeSted.\n\n\nA new police chief has been selected. Chief\nPaul Bh4n1bouxu'S record in the city police\ndepartment assures us that he min be an\nable man and he Vil help Improve the\nentire department.\n\n\nAS the nesV city government and police\nad,,sinistyatto begins ne hope that Phoenix\nviii outdistance its oun re cord of growth\nin the next year. We can not leaUe everything\nub to the neV mayor, council members nor\nthe police chief, ne the citizens are Yesbon-\nSible, too.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 329,
+                    "y0": 2092,
+                    "x1": 1758,
+                    "y1": 2278
+                },
+                {
+                    "x0": 196,
+                    "y0": 2329,
+                    "x1": 1920,
+                    "y1": 4775
+                }
+            ],
+            "bbox": [
+                196,
+                2092,
+                1920,
+                4775
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-10_p1_sn84021918_0041421695A_1964011001_0254.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "EXCERPTS FROM AN ADDRESS MADE\nBY CLAY J. CLAIBOURNE. SPECIAL\nASST. TO THE CHAIRMAN AND DIRECTOR OF\n\n\nMINoRIrIEs, REPUBLIC AN NATIONAL COMMITTEES\nPRESENTED TO THE PRESS CLUB,\nWASHINGTON, D. c., JAN. z, 1864",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2936,
+                    "y0": 2427,
+                    "x1": 4376,
+                    "y1": 2890
+                }
+            ],
+            "bbox": [
+                2936,
+                2427,
+                4376,
+                2890
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-01-10_p1_sn84021918_0041421695A_1964011001_0254.json"
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964042401/0377.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7447,
+        "width": 4872
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1173,
+                "y0": 2257,
+                "x1": 1983,
+                "y1": 2619
+            },
+            "class": "article",
+            "raw_text": "glass in a walkway at the hotel\nwhere she was appearing at the\ntime. She said she suffered from\nshock and injury. requiring hos\npitalization and medical treat\nment.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 283,
+                "y0": 2007,
+                "x1": 1250,
+                "y1": 2240
+            },
+            "class": "headline",
+            "raw_text": "Pearl BuiIY\nSues Las Vegas Hotel",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2040,
+                "y0": 779,
+                "x1": 2850,
+                "y1": 2659
+            },
+            "class": "article",
+            "raw_text": "Arizona Public Service Com\npanys sergeant Safety traf-\nfic education program has been\nnamed by Public Relations News\nmagazine as one of the nations\n10 outstanding public relations\nprograms.\n\n\nThe presentation features Jack\nAshley, former Phoenix police\nofficer, as the star of a safety\neducation show brought to ele-\nmentary school children in the\ncompanys service area.\n\n\nAS Sergeant Safety he has\nvisited more than 200 schools\nwhile teaching traffic safety fun\ndamentals to more than 100000\nchildren, from kindergarten\nthrough third grade.\n\n\nOriginated by the utility in\n1862, the safety show has been\nacclaimed by school administra-\ntors and law enforcement Off\nGals as an effective tool for\nteaching the \"rules of the road\nto Arizona's young people.\n\n\nAmong other honors, Ashley\nhas been cited by Arizona Gov\nernor Paul Fannin for render\ning invaluable service to the\ncause of safety among young\nsters.'",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2069,
+                "y0": 494,
+                "x1": 2547,
+                "y1": 704
+            },
+            "class": "headline",
+            "raw_text": "SGT. SAFETY\nWINS AWARD",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3803,
+                "y0": 2716,
+                "x1": 4618,
+                "y1": 3765
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Elizabeth Taylor\nand Richard Burton will partic-\nipate in the NAACPs two-hour\nclosed = circuit television show\nThursday, May IA. Others con-\nsenting to appear are Della\nReese, Godfrey Cambridge and\nRobert Preston.\n\n\nThe program, to be viewed\nin theaters and movie houses,\nwill be an NAACP Embarrassing\neffort In observance of the 1854\nSupreme Court ruling on school\ndesegregation. Also the NAACP\nwill use the occasion to honor\nJudge Thurgood Marshall, of the\nu .S.Court of Appeals for the\nSecond Circuit.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3820,
+                "y0": 2408,
+                "x1": 4403,
+                "y1": 2694
+            },
+            "class": "headline",
+            "raw_text": "Liz And Dick To\nBe On NAACP\nShow May Ia",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 277,
+                "y0": 2269,
+                "x1": 1098,
+                "y1": 2636
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES : Singer Pearl\nBailey filed a Sl5O,OO0 personal\ninjury suit against the Flamingo\nHotel in Las Vegas, New.\n\n\nMiss Bailey claimed she cut\nher foot March 8 on some broken",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-04-24"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                8
+            ],
+            "headline": "Pearl BuiIY\nSues Las Vegas Hotel",
+            "article": "glass in a walkway at the hotel\nwhere she was appearing at the\ntime. She said she suffered from\nshock and injury. requiring hos\npitalization and medical treat\nment.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 283,
+                    "y0": 2007,
+                    "x1": 1250,
+                    "y1": 2240
+                },
+                {
+                    "x0": 1173,
+                    "y0": 2257,
+                    "x1": 1983,
+                    "y1": 2619
+                }
+            ],
+            "bbox": [
+                283,
+                2007,
+                1983,
+                2619
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-04-24_p1_sn84021918_0041421695A_1964042401_0377.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "SGT. SAFETY\nWINS AWARD",
+            "article": "Arizona Public Service Com\npanys sergeant Safety traf-\nfic education program has been\nnamed by Public Relations News\nmagazine as one of the nations\n10 outstanding public relations\nprograms.\n\n\nThe presentation features Jack\nAshley, former Phoenix police\nofficer, as the star of a safety\neducation show brought to ele-\nmentary school children in the\ncompanys service area.\n\n\nAS Sergeant Safety he has\nvisited more than 200 schools\nwhile teaching traffic safety fun\ndamentals to more than 100000\nchildren, from kindergarten\nthrough third grade.\n\n\nOriginated by the utility in\n1862, the safety show has been\nacclaimed by school administra-\ntors and law enforcement Off\nGals as an effective tool for\nteaching the \"rules of the road\nto Arizona's young people.\n\n\nAmong other honors, Ashley\nhas been cited by Arizona Gov\nernor Paul Fannin for render\ning invaluable service to the\ncause of safety among young\nsters.'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2069,
+                    "y0": 494,
+                    "x1": 2547,
+                    "y1": 704
+                },
+                {
+                    "x0": 2040,
+                    "y0": 779,
+                    "x1": 2850,
+                    "y1": 2659
+                }
+            ],
+            "bbox": [
+                2040,
+                494,
+                2850,
+                2659
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-24_p1_sn84021918_0041421695A_1964042401_0377.json"
+        },
+        {
+            "object_ids": [
+                4,
+                3
+            ],
+            "headline": "Liz And Dick To\nBe On NAACP\nShow May Ia",
+            "article": "NEW YORK = Elizabeth Taylor\nand Richard Burton will partic-\nipate in the NAACPs two-hour\nclosed = circuit television show\nThursday, May IA. Others con-\nsenting to appear are Della\nReese, Godfrey Cambridge and\nRobert Preston.\n\n\nThe program, to be viewed\nin theaters and movie houses,\nwill be an NAACP Embarrassing\neffort In observance of the 1854\nSupreme Court ruling on school\ndesegregation. Also the NAACP\nwill use the occasion to honor\nJudge Thurgood Marshall, of the\nu .S.Court of Appeals for the\nSecond Circuit.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3820,
+                    "y0": 2408,
+                    "x1": 4403,
+                    "y1": 2694
+                },
+                {
+                    "x0": 3803,
+                    "y0": 2716,
+                    "x1": 4618,
+                    "y1": 3765
+                }
+            ],
+            "bbox": [
+                3803,
+                2408,
+                4618,
+                3765
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-24_p1_sn84021918_0041421695A_1964042401_0377.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "LOS ANGELES : Singer Pearl\nBailey filed a Sl5O,OO0 personal\ninjury suit against the Flamingo\nHotel in Las Vegas, New.\n\n\nMiss Bailey claimed she cut\nher foot March 8 on some broken",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 277,
+                    "y0": 2269,
+                    "x1": 1098,
+                    "y1": 2636
+                }
+            ],
+            "bbox": [
+                277,
+                2269,
+                1098,
+                2636
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-24_p1_sn84021918_0041421695A_1964042401_0377.json"
+        }
+    ]
+}

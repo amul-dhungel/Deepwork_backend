@@ -1,0 +1,408 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052901/0415.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4781
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 193,
+                "y0": 4886,
+                "x1": 1006,
+                "y1": 5420
+            },
+            "class": "article",
+            "raw_text": "Lonnie Lee Landrum. 40, of\n722 S. Third Ave., was acquitted\nof murder in the fatal shooting\nOct. ii Of Albert Evans, 81.\n\n\nA Superior Court jury returned\nthe verdict to Judge W. E. Patter-\nson after celebrating six hours.\n\n\nThe shooting occurred in a\nvacant lot at 1909 w. Buckeye.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 187,
+                "y0": 4654,
+                "x1": 612,
+                "y1": 4863
+            },
+            "class": "headline",
+            "raw_text": "LundrUn1\n\n\nAcquitted",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3694,
+                "y0": 2573,
+                "x1": 4507,
+                "y1": 3675
+            },
+            "class": "article",
+            "raw_text": "lowed Powell to Puerto Rico,\nwhere he has a plush home, and\ncharged that he illegally trans\nferred his property to the name\nof his wife's uncle to escape\npayment. The charge resulted in\nthe warrant for his arrest &C\ncusing him of fraud.\n\n\nPowell said he surrendered\nhimself to Jose Perez Rodri-\nguez, Rio Piedras district Judge.\n\n\nThe congressman was cited for\ncontempt of court in New York\nbecause he refused to show up for\na hearing to have his records\nexamined. The Judge ordered his\narrest, but said the warrant would\nbe held up while Congress is in\nsession,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2865,
+                "y0": 2428,
+                "x1": 4153,
+                "y1": 2557
+            },
+            "class": "headline",
+            "raw_text": "Powell Arrested And Released",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2836,
+                "y0": 2596,
+                "x1": 3649,
+                "y1": 3611
+            },
+            "class": "article",
+            "raw_text": "SAN JAUN, PR. = Rep. Adam\nClayton Powell surrendered to\npolice in connection with a fraud\nwarrant and was released when\nhe promised he would appear for\ntrial.\n\n\nThe warrant for his arrest was\nobtained by Mrs. Esther James\nCt, a Harlem widow who won\n$46,5O0 libel judgment against the\nNew York Democratic congress-\nman when he accused her on a\ntelevision program of being a\n\"bag woman\" or graft-collector,\nfor the police department.\n\n\nMrs. James has been trying to\ncollect for nearly year. She fol-",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 147,
+                "y0": 434,
+                "x1": 1006,
+                "y1": 4568
+            },
+            "class": "article",
+            "raw_text": "l. How would you vote on Constitutional\namendment to permit voluntary prayer\nin public schools7\n2. How would you vote on the idea Of paying\nfor medical care of the aged through the\nSocial Security system7\n8. In the Civil Rights Bill. which passed\nthe House, there are ten titles considered\nto be controversial. Please check how\nyou would vote on each.\n\n\na. VOTING: strengthens previous laws;\ncalls for standardized literacy tests\nfor federal elections: sixth grade edu-\ncation is evidence of literacy.\nb. PUBLIC ACCOMMODATIONS: no dis\nelimination by any establishment or\nservice that has ANY contact with in\nterstate commerce.\n\n\nc. PUBLIC FACILITIES: permits the Gov\neminent to file suit and argue cases,\non complaint. Of discrimination in any\npublicly owned facilities.\nd. EDUCATION The Attorney General can\nfile suits to force desegregation: auth\norizes aid to communities that are try\ning to desegregate\n\n\ne. CIVIL RIGHTS COMMISSION: continues\nthe present Commission for four more\nyears: prohibits 1t from investigating\nthe policies Of private groups.\n+. FEDERAL AID: prohibits discrimina-\nton in distributing federal aid. Agen-\ncies may cut off aid only after hearings,\ncourt review, notifying Congress, and\nreceiving Presidential approval.\n6. EMPLOYMENT: prohibits discrimina-\ntion by PRIVATE employers and unions\non the basis of race or sex. Non-em-\nployment of atheists and Communists is\nnot considered discrimination.\nh. VOTING CENSUS: directs the Census\nBureau to take census of voters by\nrace in areas designated by the Civil\nRights Commission. This could lead to\nreducing representation In the House\nby invoking the 18th Amendment.\n1. REMAND: permits appeal, on Federal\nCourt order that refuses to take Civil\nRights case out of State Court even\nthough such appeals are not permitted\nIn other legal cases.\nJ. CANCELLATION: establishes commun-\nity relations and Cancellation service\nin the Commerce Department to con-\nciliate racial disputes.\nk. How would you vote on the whole bill7\n4. In regard to Cuba. would you:\na. Resume diplomatic relations to try to\nwin her over7\n\n\nb. Go on trying to persuade others not to\ntrade with herr\n\n\nc. Go on trying to persuade others not\nto trade with herr\nC. Put on a blockade against strategic\nmaterials only7\n\n\nd. Put on blocade against any COM\nmerce in any materials7\ne. Organize Cuban emigre army and\nsupport an invasion2\nI. Use all conventional sources neces-\nsary to GUST Castro7\nS. In regard to Panama, would you:\na. Insist on strict enforcement of the\n1908 Treay7\n\n\nb. Agree to renegotiate the entire Treaty.\nc.lAgree to renegotiate payments to Pan\nama7\n\n\nd. Agree to a partnership arrangement\nwith Panama.\n\n\ne. Have the u S. build new sea level canal7\n6. In respect to Wet Nam, do you believe\nwe should:\n\n\nA. Get out7\n\n\nb. Continue our support at the present rate7\nc. Increase our support\nd. Strike at the bases in North Wet Nam\nused to supply the Wet Cong7\n7. When a nation expropriates American\nproperty and holdings, should we:\n\n\nReturn completed questionnair\nBuilding, Phoenix Arizona $500!\nLII ...i-L ...a La",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1074,
+                "y0": 4833,
+                "x1": 1875,
+                "y1": 5426
+            },
+            "class": "article",
+            "raw_text": "When busting cake pans for\nchocolate cakes, use cocoa instead\nof flour. Result-no white parti-\ncles clinging to your finished\nmasterpiece.\n\n\n4 :: 4\n\n\nYou can remove the layer of\nstarch collected on the bottom of\nyour iron with baking soda. APP\nply the soda to your cold iron\nwith lightly dampened cloth or\nsponge.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1150,
+                "y0": 4694,
+                "x1": 1771,
+                "y1": 4800
+            },
+            "class": "headline",
+            "raw_text": "For Wo men Only",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1486,
+                "y0": 486,
+                "x1": 2333,
+                "y1": 3496
+            },
+            "class": "article",
+            "raw_text": "a. Intervene militarily to satisfy our\n\n\nclaims7\n\n\nb. Use all diplomatic channels to firml,\n\n\ninsist on payment\n\n\nc. Deny the nation all foreign aid until\n\n\npayment is nader\n8. In regard to the North Atlantic Treaty\nOrganization, do you think we should:\na. Abandon III\n\n\nb. Strengthen It by dealing with the Soviets\n\n\nonly after we have NATO approval\nc. Increase economic ties through NATO\n\n\nCommon Market7\n\n\nd. Continue our present policy7\n9. AS to trade with Communist nations,\nwould you believe:\n\n\na. 1t should be done only for dollars or\ngold7\n\n\nb. 1t should be done on the basis of loans\nand credits, as with our allies7\nc. Not at all7\n10. Since 1860. do you feel the US. pres\ntige in the world:\n\n\na. Has increased7\n\n\nb. Has decreased7\nc. Has not changed?\nIL. How do you feel in regard to disarm-\nament:\n\n\na. 1t would be a mistake to consider\ndisarmament at this time.\nb. Universal disarmament should begin\nbut be done in stages, with thorough\ninspection and control.\nC. The US. should begin disarming re-\nCARELESS Of others, as an example to\nto the rest of the world.\nIL. In regard to unemployment, do you be-\nheve the federal government should:\na. Assume full responsibility for solving\nthe problem7\nb. Share the responsibility with the states\nand free enterprise7\nC. Allow the states and free enterprise\nto solve the problem7\nIs. How would you vote on establishing\nJob corps with work-training camps\nthroughout the country\nIA. Should a domestic \"Peace Corps be\nestablished to provide training and SER\nvices upon local request7\nIs. How would you vote on federally sub\nsidized retraining program for people\nwhose skills have become or will be-\ncome outdated7\nl6. Generally speaking, would you consider\nyourself:\na.A Liberal\nb. A CONSERVATIVE\nc. An Independent\nII. To help analyze the results of this survey,\nplease check one:\nIL. In terms of age, are you:\na. Under 302\nb. From 80 457\nc. From As 607\nd. Over 607",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 159,
+                "y0": 4422,
+                "x1": 1852,
+                "y1": 4626
+            },
+            "class": "article",
+            "raw_text": "Return completed QUESTIONABLE District Office, 6O8l Federal\nBuilding Phoenix\nyou might wish make separate sheet of paper",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2344,
+                "y0": 3483,
+                "x1": 2739,
+                "y1": 4406
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2431,
+                "y0": 3153,
+                "x1": 2710,
+                "y1": 3206
+            },
+            "class": "headline",
+            "raw_text": "male female",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1926,
+                "y0": 3529,
+                "x1": 2333,
+                "y1": 4371
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-29"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "LundrUn1\n\n\nAcquitted",
+            "article": "Lonnie Lee Landrum. 40, of\n722 S. Third Ave., was acquitted\nof murder in the fatal shooting\nOct. ii Of Albert Evans, 81.\n\n\nA Superior Court jury returned\nthe verdict to Judge W. E. Patter-\nson after celebrating six hours.\n\n\nThe shooting occurred in a\nvacant lot at 1909 w. Buckeye.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 187,
+                    "y0": 4654,
+                    "x1": 612,
+                    "y1": 4863
+                },
+                {
+                    "x0": 193,
+                    "y0": 4886,
+                    "x1": 1006,
+                    "y1": 5420
+                }
+            ],
+            "bbox": [
+                187,
+                4654,
+                1006,
+                5420
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-29_p1_sn84021918_0041421695A_1964052901_0415.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "Powell Arrested And Released",
+            "article": "lowed Powell to Puerto Rico,\nwhere he has a plush home, and\ncharged that he illegally trans\nferred his property to the name\nof his wife's uncle to escape\npayment. The charge resulted in\nthe warrant for his arrest &C\ncusing him of fraud.\n\n\nPowell said he surrendered\nhimself to Jose Perez Rodri-\nguez, Rio Piedras district Judge.\n\n\nThe congressman was cited for\ncontempt of court in New York\nbecause he refused to show up for\na hearing to have his records\nexamined. The Judge ordered his\narrest, but said the warrant would\nbe held up while Congress is in\nsession,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2865,
+                    "y0": 2428,
+                    "x1": 4153,
+                    "y1": 2557
+                },
+                {
+                    "x0": 3694,
+                    "y0": 2573,
+                    "x1": 4507,
+                    "y1": 3675
+                }
+            ],
+            "bbox": [
+                2865,
+                2428,
+                4507,
+                3675
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-29_p1_sn84021918_0041421695A_1964052901_0415.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "SAN JAUN, PR. = Rep. Adam\nClayton Powell surrendered to\npolice in connection with a fraud\nwarrant and was released when\nhe promised he would appear for\ntrial.\n\n\nThe warrant for his arrest was\nobtained by Mrs. Esther James\nCt, a Harlem widow who won\n$46,5O0 libel judgment against the\nNew York Democratic congress-\nman when he accused her on a\ntelevision program of being a\n\"bag woman\" or graft-collector,\nfor the police department.\n\n\nMrs. James has been trying to\ncollect for nearly year. She fol-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2836,
+                    "y0": 2596,
+                    "x1": 3649,
+                    "y1": 3611
+                }
+            ],
+            "bbox": [
+                2836,
+                2596,
+                3649,
+                3611
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-29_p1_sn84021918_0041421695A_1964052901_0415.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "l. How would you vote on Constitutional\namendment to permit voluntary prayer\nin public schools7\n2. How would you vote on the idea Of paying\nfor medical care of the aged through the\nSocial Security system7\n8. In the Civil Rights Bill. which passed\nthe House, there are ten titles considered\nto be controversial. Please check how\nyou would vote on each.\n\n\na. VOTING: strengthens previous laws;\ncalls for standardized literacy tests\nfor federal elections: sixth grade edu-\ncation is evidence of literacy.\nb. PUBLIC ACCOMMODATIONS: no dis\nelimination by any establishment or\nservice that has ANY contact with in\nterstate commerce.\n\n\nc. PUBLIC FACILITIES: permits the Gov\neminent to file suit and argue cases,\non complaint. Of discrimination in any\npublicly owned facilities.\nd. EDUCATION The Attorney General can\nfile suits to force desegregation: auth\norizes aid to communities that are try\ning to desegregate\n\n\ne. CIVIL RIGHTS COMMISSION: continues\nthe present Commission for four more\nyears: prohibits 1t from investigating\nthe policies Of private groups.\n+. FEDERAL AID: prohibits discrimina-\nton in distributing federal aid. Agen-\ncies may cut off aid only after hearings,\ncourt review, notifying Congress, and\nreceiving Presidential approval.\n6. EMPLOYMENT: prohibits discrimina-\ntion by PRIVATE employers and unions\non the basis of race or sex. Non-em-\nployment of atheists and Communists is\nnot considered discrimination.\nh. VOTING CENSUS: directs the Census\nBureau to take census of voters by\nrace in areas designated by the Civil\nRights Commission. This could lead to\nreducing representation In the House\nby invoking the 18th Amendment.\n1. REMAND: permits appeal, on Federal\nCourt order that refuses to take Civil\nRights case out of State Court even\nthough such appeals are not permitted\nIn other legal cases.\nJ. CANCELLATION: establishes commun-\nity relations and Cancellation service\nin the Commerce Department to con-\nciliate racial disputes.\nk. How would you vote on the whole bill7\n4. In regard to Cuba. would you:\na. Resume diplomatic relations to try to\nwin her over7\n\n\nb. Go on trying to persuade others not to\ntrade with herr\n\n\nc. Go on trying to persuade others not\nto trade with herr\nC. Put on a blockade against strategic\nmaterials only7\n\n\nd. Put on blocade against any COM\nmerce in any materials7\ne. Organize Cuban emigre army and\nsupport an invasion2\nI. Use all conventional sources neces-\nsary to GUST Castro7\nS. In regard to Panama, would you:\na. Insist on strict enforcement of the\n1908 Treay7\n\n\nb. Agree to renegotiate the entire Treaty.\nc.lAgree to renegotiate payments to Pan\nama7\n\n\nd. Agree to a partnership arrangement\nwith Panama.\n\n\ne. Have the u S. build new sea level canal7\n6. In respect to Wet Nam, do you believe\nwe should:\n\n\nA. Get out7\n\n\nb. Continue our support at the present rate7\nc. Increase our support\nd. Strike at the bases in North Wet Nam\nused to supply the Wet Cong7\n7. When a nation expropriates American\nproperty and holdings, should we:\n\n\nReturn completed questionnair\nBuilding, Phoenix Arizona $500!\nLII ...i-L ...a La",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 147,
+                    "y0": 434,
+                    "x1": 1006,
+                    "y1": 4568
+                }
+            ],
+            "bbox": [
+                147,
+                434,
+                1006,
+                4568
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-05-29_p1_sn84021918_0041421695A_1964052901_0415.json"
+        },
+        {
+            "object_ids": [
+                14,
+                10
+            ],
+            "headline": "For Wo men Only",
+            "article": "When busting cake pans for\nchocolate cakes, use cocoa instead\nof flour. Result-no white parti-\ncles clinging to your finished\nmasterpiece.\n\n\n4 :: 4\n\n\nYou can remove the layer of\nstarch collected on the bottom of\nyour iron with baking soda. APP\nply the soda to your cold iron\nwith lightly dampened cloth or\nsponge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1150,
+                    "y0": 4694,
+                    "x1": 1771,
+                    "y1": 4800
+                },
+                {
+                    "x0": 1074,
+                    "y0": 4833,
+                    "x1": 1875,
+                    "y1": 5426
+                }
+            ],
+            "bbox": [
+                1074,
+                4694,
+                1875,
+                5426
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-05-29_p1_sn84021918_0041421695A_1964052901_0415.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "a. Intervene militarily to satisfy our\n\n\nclaims7\n\n\nb. Use all diplomatic channels to firml,\n\n\ninsist on payment\n\n\nc. Deny the nation all foreign aid until\n\n\npayment is nader\n8. In regard to the North Atlantic Treaty\nOrganization, do you think we should:\na. Abandon III\n\n\nb. Strengthen It by dealing with the Soviets\n\n\nonly after we have NATO approval\nc. Increase economic ties through NATO\n\n\nCommon Market7\n\n\nd. Continue our present policy7\n9. AS to trade with Communist nations,\nwould you believe:\n\n\na. 1t should be done only for dollars or\ngold7\n\n\nb. 1t should be done on the basis of loans\nand credits, as with our allies7\nc. Not at all7\n10. Since 1860. do you feel the US. pres\ntige in the world:\n\n\na. Has increased7\n\n\nb. Has decreased7\nc. Has not changed?\nIL. How do you feel in regard to disarm-\nament:\n\n\na. 1t would be a mistake to consider\ndisarmament at this time.\nb. Universal disarmament should begin\nbut be done in stages, with thorough\ninspection and control.\nC. The US. should begin disarming re-\nCARELESS Of others, as an example to\nto the rest of the world.\nIL. In regard to unemployment, do you be-\nheve the federal government should:\na. Assume full responsibility for solving\nthe problem7\nb. Share the responsibility with the states\nand free enterprise7\nC. Allow the states and free enterprise\nto solve the problem7\nIs. How would you vote on establishing\nJob corps with work-training camps\nthroughout the country\nIA. Should a domestic \"Peace Corps be\nestablished to provide training and SER\nvices upon local request7\nIs. How would you vote on federally sub\nsidized retraining program for people\nwhose skills have become or will be-\ncome outdated7\nl6. Generally speaking, would you consider\nyourself:\na.A Liberal\nb. A CONSERVATIVE\nc. An Independent\nII. To help analyze the results of this survey,\nplease check one:\nIL. In terms of age, are you:\na. Under 302\nb. From 80 457\nc. From As 607\nd. Over 607",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1486,
+                    "y0": 486,
+                    "x1": 2333,
+                    "y1": 3496
+                }
+            ],
+            "bbox": [
+                1486,
+                486,
+                2333,
+                3496
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-05-29_p1_sn84021918_0041421695A_1964052901_0415.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "Return completed QUESTIONABLE District Office, 6O8l Federal\nBuilding Phoenix\nyou might wish make separate sheet of paper",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 159,
+                    "y0": 4422,
+                    "x1": 1852,
+                    "y1": 4626
+                }
+            ],
+            "bbox": [
+                159,
+                4422,
+                1852,
+                4626
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-05-29_p1_sn84021918_0041421695A_1964052901_0415.json"
+        }
+    ]
+}

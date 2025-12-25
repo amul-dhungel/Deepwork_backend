@@ -1,0 +1,416 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0550.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7441,
+        "width": 4924
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2124,
+                "y0": 622,
+                "x1": 2962,
+                "y1": 3861
+            },
+            "class": "article",
+            "raw_text": "Few of us have ever been\ncaught without nap or two in\nour lives. A nap, rather a light\nsleep, is sometimes called cat\nnap. We have enjoyed a snooze\nor a doze at the most opportune\nor inopportune times.\n\n\nMapping by some is a practiced\nart. Some men and women, boys\nand girls. are endowed with spe-\ncial abilities to sneak maps In\nclass, at church, In the movies,\nand even on city buses.\n\n\nThe term nap, also means to\ntrim the wool or brush the hair.\nThe term nap was added to kid\nTO form a name of an act Of\nstealing a person. Kidnapping is\nnot a popular crime, especially\nsince federal authorities will be\ncalled.\n\n\nEarlier this year rare crime,\ncactus plant mapping, was re-\ncorded in the state. The cacti\nnappers we're apprehended and\nsent to Jail.\n\n\nStories of dognappers have\nbeen told and retold. Often the\nCANNES stolen are of registered\nbreed, however, a few Of ques-\ntionable ancestry have been stol-\nen-, too.\n\n\nAn article in a recent issue\nof a New York City paper re-\nvealed the most unusual type Of\nstealing. No, diamond thieves\nwere not baking giant pies to hide\ntheir loot. No, a safecracker did\nnot stay in bank vault over\nnight. No, guess again. Do you\ngive7\n\n\nNanny nappers are on the proWl\nin Central Park. Women watch\nnursemaids bring their charges\nin the park and after several\nDAYS the women offer the nannies\nhigher pay and fewer children.\n\n\nInstead of the employers warn\ning the nurses to watch the chill\ndren in the park--the children\nhad better watch their nannies.\n\n\nOnly in America would you\never hear about real live cact1-\nnappers. But, for our women to\nstoop to nanny mapping",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2142,
+                "y0": 249,
+                "x1": 2928,
+                "y1": 466
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nLOSE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2130,
+                "y0": 494,
+                "x1": 2742,
+                "y1": 593
+            },
+            "class": "headline",
+            "raw_text": "Caught Mapping",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 340,
+                "y0": 2046,
+                "x1": 2073,
+                "y1": 4756
+            },
+            "class": "article",
+            "raw_text": "For the past SIX years during different\nseasons, ne haze opposed the continued 0beT-\notions of several tovevns where numerous\npersons haze been aOoanded or killed.\n\n\nThe beverage dispensing licenses OF Jour\nor fine notorious places haze not been suS-\npended. In fact, it seems as If the Ines OF\nNegroes are naboytont, esbe ci0lly When\nanother Negro is the victina, or on the other\nhand, the attacke\n\n\nThe bast tsOo weeks haze brought reports OF\nseveral shootings and one death IN toUe17as\nlocated in bYedonainantly Negro inhabited COM\nn,u,aitieS.\n\n\nNo comments haze been heard from those\npersons whO are always ready to V0ace theaT\ndesires for equal rights. What about eq~onty\nwhen tavevn Owners blatantly keep open places\nwhere Negroes are manned, frightened or\nkilled?\n\n\nThe list of tave17as (Which should be aaOest'-\ngated where k,ait5ngs, shootings and Jzghts are\ncommon include the TY0t Inn, located at 24tN\nand E. broadway and Eddie's Place at 10Th\nand E. Washington\n\n\nThese taOo places are not the only ones\nwhich haze continued to operate inameda0teD\nafter an incident. All tavev7as or inns sho\"Id\nbe carefully studied and more stringent con-\ntrolls should be used by the state hQ~oT con-\ntroll agency.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 584,
+                "y0": 1563,
+                "x1": 1137,
+                "y1": 1715
+            },
+            "class": "author",
+            "raw_text": ".M,s sswspspss 10 . ms~s~ =\"\nNNewspApfRs ASSOCIATION\n\n\nees 6sssssv PvblIe Service",
+            "legibility": "Questionable",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 363,
+                "y0": 1831,
+                "x1": 1096,
+                "y1": 1989
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3025,
+                "y0": 965,
+                "x1": 4712,
+                "y1": 2337
+            },
+            "class": "article",
+            "raw_text": "of final for owned and operated\ncoliseum good indeed For many amount\nhave been lost in economic life because\nhall building afoding exhibition\nexpanses.\n\n\nGarland fair executive has spear\ncompletely renovated and rebuilt fairgrounds In his term\ngave credit his predecessors at the dinner En-\nnett Race manager He told audience Of over 400\nRoom Hotel Westward Ho that the coliseum\neam many fair commissioners eyes, long before\nhe assumed his position.\n\n\nThe coliseum Of the high points of Mr. Garland able\nadministration. enhance the and cultural\nbusiness center for the entire state\n\n\ncommissioners be congratulated for 1nsur\nburden 1t will be financed\nthrough state fair and coliseum receipts.\n\n\n1deoe are very, much like Democratic government II\nchildren vor oun arc very the political expression o\nwonderful. CnrlsuanlY'",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3566,
+                "y0": 319,
+                "x1": 4544,
+                "y1": 762
+            },
+            "class": "headline",
+            "raw_text": "PREvIEws\nAND REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -3
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3781,
+                "y0": 685,
+                "x1": 4299,
+                "y1": 762
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3060,
+                "y0": 848,
+                "x1": 4079,
+                "y1": 942
+            },
+            "class": "headline",
+            "raw_text": "STATE COLISEUM IS NEEDED",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 409,
+                "y0": 813,
+                "x1": 2021,
+                "y1": 1744
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, NEUTRALITY-SUSPICIOUS.\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nSHED JULY 10, 1858\n\n\nPUBLISHED THURSDAY\n\n\nING COMPANY INC\nals7 e BROADWAY ROAD 27e-23ot So so 1R.\nMAIL ADDRESS p O. BOX sz@s, PHOENIX, AR'z' ssoAo\nSECOND CLASS POSTAGE PAID AT PHOENIX, AF'%oN\nTHAT IS REMEDY THE EVILS OF Dun\nTINES e TO DO JUSTICE GIVE FREEDOM.\nREPRESENTATIVE\ne ~, AMALGAMATED PUBL sHERS\nALf0N1New\"Hr.N.\n~s\"\"\" '\"'~ '\"'\"' YORK ~, NJ Y.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 375,
+                "y0": 279,
+                "x1": 1974,
+                "y1": 716
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 13,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1002,
+                "y0": 732,
+                "x1": 1550,
+                "y1": 809
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. 10",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3037,
+                "y0": 2116,
+                "x1": 3840,
+                "y1": 2332
+            },
+            "class": "article",
+            "raw_text": "Ideas are very much like\nchildren your own are very\nwonderful.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-09-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                7,
+                0
+            ],
+            "headline": "Siqhts and Sounds\nLOSE BANKS\n\nCaught Mapping",
+            "article": "Few of us have ever been\ncaught without nap or two in\nour lives. A nap, rather a light\nsleep, is sometimes called cat\nnap. We have enjoyed a snooze\nor a doze at the most opportune\nor inopportune times.\n\n\nMapping by some is a practiced\nart. Some men and women, boys\nand girls. are endowed with spe-\ncial abilities to sneak maps In\nclass, at church, In the movies,\nand even on city buses.\n\n\nThe term nap, also means to\ntrim the wool or brush the hair.\nThe term nap was added to kid\nTO form a name of an act Of\nstealing a person. Kidnapping is\nnot a popular crime, especially\nsince federal authorities will be\ncalled.\n\n\nEarlier this year rare crime,\ncactus plant mapping, was re-\ncorded in the state. The cacti\nnappers we're apprehended and\nsent to Jail.\n\n\nStories of dognappers have\nbeen told and retold. Often the\nCANNES stolen are of registered\nbreed, however, a few Of ques-\ntionable ancestry have been stol-\nen-, too.\n\n\nAn article in a recent issue\nof a New York City paper re-\nvealed the most unusual type Of\nstealing. No, diamond thieves\nwere not baking giant pies to hide\ntheir loot. No, a safecracker did\nnot stay in bank vault over\nnight. No, guess again. Do you\ngive7\n\n\nNanny nappers are on the proWl\nin Central Park. Women watch\nnursemaids bring their charges\nin the park and after several\nDAYS the women offer the nannies\nhigher pay and fewer children.\n\n\nInstead of the employers warn\ning the nurses to watch the chill\ndren in the park--the children\nhad better watch their nannies.\n\n\nOnly in America would you\never hear about real live cact1-\nnappers. But, for our women to\nstoop to nanny mapping",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2142,
+                    "y0": 249,
+                    "x1": 2928,
+                    "y1": 466
+                },
+                {
+                    "x0": 2130,
+                    "y0": 494,
+                    "x1": 2742,
+                    "y1": 593
+                },
+                {
+                    "x0": 2124,
+                    "y0": 622,
+                    "x1": 2962,
+                    "y1": 3861
+                }
+            ],
+            "bbox": [
+                2124,
+                249,
+                2962,
+                3861
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-18_p1_sn84021918_0041421695A_1964091801_0550.json"
+        },
+        {
+            "object_ids": [
+                22,
+                8,
+                4
+            ],
+            "headline": "",
+            "article": "For the past SIX years during different\nseasons, ne haze opposed the continued 0beT-\notions of several tovevns where numerous\npersons haze been aOoanded or killed.\n\n\nThe beverage dispensing licenses OF Jour\nor fine notorious places haze not been suS-\npended. In fact, it seems as If the Ines OF\nNegroes are naboytont, esbe ci0lly When\nanother Negro is the victina, or on the other\nhand, the attacke\n\n\nThe bast tsOo weeks haze brought reports OF\nseveral shootings and one death IN toUe17as\nlocated in bYedonainantly Negro inhabited COM\nn,u,aitieS.\n\n\nNo comments haze been heard from those\npersons whO are always ready to V0ace theaT\ndesires for equal rights. What about eq~onty\nwhen tavevn Owners blatantly keep open places\nwhere Negroes are manned, frightened or\nkilled?\n\n\nThe list of tave17as (Which should be aaOest'-\ngated where k,ait5ngs, shootings and Jzghts are\ncommon include the TY0t Inn, located at 24tN\nand E. broadway and Eddie's Place at 10Th\nand E. Washington\n\n\nThese taOo places are not the only ones\nwhich haze continued to operate inameda0teD\nafter an incident. All tavev7as or inns sho\"Id\nbe carefully studied and more stringent con-\ntrolls should be used by the state hQ~oT con-\ntroll agency.",
+            "byline": ".M,s sswspspss 10 . ms~s~ =\"\nNNewspApfRs ASSOCIATION\n\n\nees 6sssssv PvblIe Service",
+            "bbox_list": [
+                {
+                    "x0": 584,
+                    "y0": 1563,
+                    "x1": 1137,
+                    "y1": 1715
+                },
+                {
+                    "x0": 363,
+                    "y0": 1831,
+                    "x1": 1096,
+                    "y1": 1989
+                },
+                {
+                    "x0": 340,
+                    "y0": 2046,
+                    "x1": 2073,
+                    "y1": 4756
+                }
+            ],
+            "bbox": [
+                340,
+                1563,
+                2073,
+                4756
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-18_p1_sn84021918_0041421695A_1964091801_0550.json"
+        },
+        {
+            "object_ids": [
+                3,
+                18,
+                9,
+                10
+            ],
+            "headline": "PREvIEws\nAND REVIEWS\n\n\nEdward Banks\n\nSTATE COLISEUM IS NEEDED",
+            "article": "of final for owned and operated\ncoliseum good indeed For many amount\nhave been lost in economic life because\nhall building afoding exhibition\nexpanses.\n\n\nGarland fair executive has spear\ncompletely renovated and rebuilt fairgrounds In his term\ngave credit his predecessors at the dinner En-\nnett Race manager He told audience Of over 400\nRoom Hotel Westward Ho that the coliseum\neam many fair commissioners eyes, long before\nhe assumed his position.\n\n\nThe coliseum Of the high points of Mr. Garland able\nadministration. enhance the and cultural\nbusiness center for the entire state\n\n\ncommissioners be congratulated for 1nsur\nburden 1t will be financed\nthrough state fair and coliseum receipts.\n\n\n1deoe are very, much like Democratic government II\nchildren vor oun arc very the political expression o\nwonderful. CnrlsuanlY'",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3566,
+                    "y0": 319,
+                    "x1": 4544,
+                    "y1": 762
+                },
+                {
+                    "x0": 3781,
+                    "y0": 685,
+                    "x1": 4299,
+                    "y1": 762
+                },
+                {
+                    "x0": 3060,
+                    "y0": 848,
+                    "x1": 4079,
+                    "y1": 942
+                },
+                {
+                    "x0": 3025,
+                    "y0": 965,
+                    "x1": 4712,
+                    "y1": 2337
+                }
+            ],
+            "bbox": [
+                3025,
+                319,
+                4712,
+                2337
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-18_p1_sn84021918_0041421695A_1964091801_0550.json"
+        },
+        {
+            "object_ids": [
+                13,
+                17,
+                12
+            ],
+            "headline": "",
+            "article": "EDWARD BANKS, NEUTRALITY-SUSPICIOUS.\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nSHED JULY 10, 1858\n\n\nPUBLISHED THURSDAY\n\n\nING COMPANY INC\nals7 e BROADWAY ROAD 27e-23ot So so 1R.\nMAIL ADDRESS p O. BOX sz@s, PHOENIX, AR'z' ssoAo\nSECOND CLASS POSTAGE PAID AT PHOENIX, AF'%oN\nTHAT IS REMEDY THE EVILS OF Dun\nTINES e TO DO JUSTICE GIVE FREEDOM.\nREPRESENTATIVE\ne ~, AMALGAMATED PUBL sHERS\nALf0N1New\"Hr.N.\n~s\"\"\" '\"'~ '\"'\"' YORK ~, NJ Y.",
+            "byline": "VOL. 7, NO. 10",
+            "bbox_list": [
+                {
+                    "x0": 375,
+                    "y0": 279,
+                    "x1": 1974,
+                    "y1": 716
+                },
+                {
+                    "x0": 1002,
+                    "y0": 732,
+                    "x1": 1550,
+                    "y1": 809
+                },
+                {
+                    "x0": 409,
+                    "y0": 813,
+                    "x1": 2021,
+                    "y1": 1744
+                }
+            ],
+            "bbox": [
+                375,
+                279,
+                2021,
+                1744
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-09-18_p1_sn84021918_0041421695A_1964091801_0550.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Ideas are very much like\nchildren your own are very\nwonderful.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3037,
+                    "y0": 2116,
+                    "x1": 3840,
+                    "y1": 2332
+                }
+            ],
+            "bbox": [
+                3037,
+                2116,
+                3840,
+                2332
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-09-18_p1_sn84021918_0041421695A_1964091801_0550.json"
+        }
+    ]
+}

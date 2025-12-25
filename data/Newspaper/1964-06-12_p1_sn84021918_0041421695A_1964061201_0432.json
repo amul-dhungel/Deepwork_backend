@@ -1,0 +1,425 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061201/0432.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4915
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3064,
+                "y0": 612,
+                "x1": 3880,
+                "y1": 1931
+            },
+            "class": "article",
+            "raw_text": "BOSTON - The Gillette Safety\nRazor Company has announced\nthe appointment of John R. Oxley\nas special repr\n\n\nOxley, who joined Gillette in\n1947, is graduate of Howard\nUniversity, Washington, DC.\n\n\nA former football star, he holds\nmembership in the Improved\nBenevolent Protective Order Of\nElks of the World; serves as\nvice chairman of the Somerville\nR ecr cation Commission; was\n1855 president of the New Eng\nland Bowling League Association;\nserved as chairman of the Mas.\nsachusetts NAACP Freedom\nFund Ball in 1858, and is an\nhonorary member of the Pigskin\nClub of Washington, Inc, Of\nwhich his uncle, Lawrence Oxley\nis President.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3070,
+                "y0": 381,
+                "x1": 3741,
+                "y1": 596
+            },
+            "class": "headline",
+            "raw_text": "Gillette Announces\nNegro Rsprsssn fufivs",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2197,
+                "y0": 572,
+                "x1": 3013,
+                "y1": 1948
+            },
+            "class": "article",
+            "raw_text": "BERKELEY, CALF - The\nNAACP announced its total OPP\nposition to an attempt by the\nParents Association for Neigh\nborhood Schools to recall the\nentire Berkeley School Board\nbecause of its plans to integrate\nthree junior high schools.\n\n\nIn statement released by the\nNAACP West Coast Regional Of\nflee, the School Board was\npraised for its action ain adopt\ning programs to improve school\nfacilities, teaching, curriculum\nand racial balance\"\n\n\nThe Berkeley Board sis merely\ndischarging the obligation inn\nposed upon 1t by the State Board\nof Education and the California\nSupreme Court, the NAACP\nstatement said. Accordingly, It\nobserves the support of the\nentire community\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2203,
+                "y0": 352,
+                "x1": 2863,
+                "y1": 555
+            },
+            "class": "headline",
+            "raw_text": "NAACP Opposes\nSchool Plan",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2197,
+                "y0": 2190,
+                "x1": 3007,
+                "y1": 2752
+            },
+            "class": "article",
+            "raw_text": "Rev. Rollins l.. Winslow, pas\ntor of Wesley Methodist Church,\nannounced avacationBible school\nwill be held June Is 26. The\nsessions will be held at the\nchurch which is located at 1902\nE. Washington. Hours are Mon.\nFri; $3.50 am. to noon.\n\n\nSchool coordinator is Mrs.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2185,
+                "y0": 2040,
+                "x1": 3839,
+                "y1": 2162
+            },
+            "class": "headline",
+            "raw_text": "voeuiion Bible School To Open At Wesley Methodist",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3070,
+                "y0": 2190,
+                "x1": 3886,
+                "y1": 2809
+            },
+            "class": "article",
+            "raw_text": "Arthur Patrick. Assisting her\nare Mesdames Betty Wilson,\nJimmie Davis, Mary Gilbert,\nShirley Hall, Lucy McCray, Olgia\nScott, Laura Laing and Miss\nGeralding Mcdonald.\n\n\nChildren ages 5 = Is years\nare welcomed.\n\n\nFor further information call\n276-7528 or 279-4582.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3960,
+                "y0": 1716,
+                "x1": 4764,
+                "y1": 2567
+            },
+            "class": "article",
+            "raw_text": "William (Junior) Mosley, II,\nleaves for Sky Y Camp at Pres\ncolt for the third consecutive\nyear.\n\n\nWilliam was elected president\nof the student body at Tempe\nHigh School.\n\n\nHe is a member of the Keys,\nKings and Lettermen' clubs.\nHe is a member of the Salt\nRiver Boy Scouts troop and is\nactive in youth programs of Will\nlow Grove Baptist Church.\n\n\nHe lives at 324o South 4oth St.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1301,
+                "y0": 2583,
+                "x1": 2117,
+                "y1": 2763
+            },
+            "class": "article",
+            "raw_text": "Paul. on May l at St. Joseph's\nHospital. He weighed 7 lbs. and\nIi oZs.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 405,
+                "y0": 2450,
+                "x1": 1475,
+                "y1": 2555
+            },
+            "class": "headline",
+            "raw_text": "Dr.. And Mrs. Fit Announce Birth",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 394,
+                "y0": 2583,
+                "x1": 1227,
+                "y1": 2781
+            },
+            "class": "article",
+            "raw_text": "DR.. and Mrs. John Fit, 1897\nNo. Seventeenth Lane, announce\nthe birth of their son, Arnold",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 394,
+                "y0": 1664,
+                "x1": 2042,
+                "y1": 2393
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Mary Davis, Negro at the Downtown\nBeekman Hospital New York. appearing the New\nWorlds Butterfly Girl Dancing\nPavilion in the Lake Amusement\n\n\nHer ambition and dancer graduate York.\nvile Vocational nursing\nthe Hill Hospital church scholarship\nstudied Berghoff Studios\nappeared performances Union\nElement House. She performed Fordham\nversiy Playhouse dancing Guys Dolls Pajama\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-12"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "Gillette Announces\nNegro Rsprsssn fufivs",
+            "article": "BOSTON - The Gillette Safety\nRazor Company has announced\nthe appointment of John R. Oxley\nas special repr\n\n\nOxley, who joined Gillette in\n1947, is graduate of Howard\nUniversity, Washington, DC.\n\n\nA former football star, he holds\nmembership in the Improved\nBenevolent Protective Order Of\nElks of the World; serves as\nvice chairman of the Somerville\nR ecr cation Commission; was\n1855 president of the New Eng\nland Bowling League Association;\nserved as chairman of the Mas.\nsachusetts NAACP Freedom\nFund Ball in 1858, and is an\nhonorary member of the Pigskin\nClub of Washington, Inc, Of\nwhich his uncle, Lawrence Oxley\nis President.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3070,
+                    "y0": 381,
+                    "x1": 3741,
+                    "y1": 596
+                },
+                {
+                    "x0": 3064,
+                    "y0": 612,
+                    "x1": 3880,
+                    "y1": 1931
+                }
+            ],
+            "bbox": [
+                3064,
+                381,
+                3880,
+                1931
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "NAACP Opposes\nSchool Plan",
+            "article": "BERKELEY, CALF - The\nNAACP announced its total OPP\nposition to an attempt by the\nParents Association for Neigh\nborhood Schools to recall the\nentire Berkeley School Board\nbecause of its plans to integrate\nthree junior high schools.\n\n\nIn statement released by the\nNAACP West Coast Regional Of\nflee, the School Board was\npraised for its action ain adopt\ning programs to improve school\nfacilities, teaching, curriculum\nand racial balance\"\n\n\nThe Berkeley Board sis merely\ndischarging the obligation inn\nposed upon 1t by the State Board\nof Education and the California\nSupreme Court, the NAACP\nstatement said. Accordingly, It\nobserves the support of the\nentire community\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2203,
+                    "y0": 352,
+                    "x1": 2863,
+                    "y1": 555
+                },
+                {
+                    "x0": 2197,
+                    "y0": 572,
+                    "x1": 3013,
+                    "y1": 1948
+                }
+            ],
+            "bbox": [
+                2197,
+                352,
+                3013,
+                1948
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        },
+        {
+            "object_ids": [
+                20,
+                6
+            ],
+            "headline": "voeuiion Bible School To Open At Wesley Methodist",
+            "article": "Rev. Rollins l.. Winslow, pas\ntor of Wesley Methodist Church,\nannounced avacationBible school\nwill be held June Is 26. The\nsessions will be held at the\nchurch which is located at 1902\nE. Washington. Hours are Mon.\nFri; $3.50 am. to noon.\n\n\nSchool coordinator is Mrs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2185,
+                    "y0": 2040,
+                    "x1": 3839,
+                    "y1": 2162
+                },
+                {
+                    "x0": 2197,
+                    "y0": 2190,
+                    "x1": 3007,
+                    "y1": 2752
+                }
+            ],
+            "bbox": [
+                2185,
+                2040,
+                3839,
+                2752
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Arthur Patrick. Assisting her\nare Mesdames Betty Wilson,\nJimmie Davis, Mary Gilbert,\nShirley Hall, Lucy McCray, Olgia\nScott, Laura Laing and Miss\nGeralding Mcdonald.\n\n\nChildren ages 5 = Is years\nare welcomed.\n\n\nFor further information call\n276-7528 or 279-4582.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3070,
+                    "y0": 2190,
+                    "x1": 3886,
+                    "y1": 2809
+                }
+            ],
+            "bbox": [
+                3070,
+                2190,
+                3886,
+                2809
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "William (Junior) Mosley, II,\nleaves for Sky Y Camp at Pres\ncolt for the third consecutive\nyear.\n\n\nWilliam was elected president\nof the student body at Tempe\nHigh School.\n\n\nHe is a member of the Keys,\nKings and Lettermen' clubs.\nHe is a member of the Salt\nRiver Boy Scouts troop and is\nactive in youth programs of Will\nlow Grove Baptist Church.\n\n\nHe lives at 324o South 4oth St.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3960,
+                    "y0": 1716,
+                    "x1": 4764,
+                    "y1": 2567
+                }
+            ],
+            "bbox": [
+                3960,
+                1716,
+                4764,
+                2567
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        },
+        {
+            "object_ids": [
+                21,
+                15
+            ],
+            "headline": "Dr.. And Mrs. Fit Announce Birth",
+            "article": "Paul. on May l at St. Joseph's\nHospital. He weighed 7 lbs. and\nIi oZs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 405,
+                    "y0": 2450,
+                    "x1": 1475,
+                    "y1": 2555
+                },
+                {
+                    "x0": 1301,
+                    "y0": 2583,
+                    "x1": 2117,
+                    "y1": 2763
+                }
+            ],
+            "bbox": [
+                405,
+                2450,
+                2117,
+                2763
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "DR.. and Mrs. John Fit, 1897\nNo. Seventeenth Lane, announce\nthe birth of their son, Arnold",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 394,
+                    "y0": 2583,
+                    "x1": 1227,
+                    "y1": 2781
+                }
+            ],
+            "bbox": [
+                394,
+                2583,
+                1227,
+                2781
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "NEW YORK Mary Davis, Negro at the Downtown\nBeekman Hospital New York. appearing the New\nWorlds Butterfly Girl Dancing\nPavilion in the Lake Amusement\n\n\nHer ambition and dancer graduate York.\nvile Vocational nursing\nthe Hill Hospital church scholarship\nstudied Berghoff Studios\nappeared performances Union\nElement House. She performed Fordham\nversiy Playhouse dancing Guys Dolls Pajama\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 394,
+                    "y0": 1664,
+                    "x1": 2042,
+                    "y1": 2393
+                }
+            ],
+            "bbox": [
+                394,
+                1664,
+                2042,
+                2393
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-06-12_p1_sn84021918_0041421695A_1964061201_0432.json"
+        }
+    ]
+}

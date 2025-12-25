@@ -1,0 +1,425 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964070301/0459.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7424,
+        "width": 4839
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1833,
+                "y0": 794,
+                "x1": 2658,
+                "y1": 2860
+            },
+            "class": "article",
+            "raw_text": "Stanley G. Feldman. an attor-\nney from Tucson, and DR.. Nor\nrison Warren, a school principal\nin Phoenix participated in ma\ntional conference of State Advis-\nDRY ommittee held at the Sher-\naton-Park Hotel June d and %.\nThe commission announced plans\nto proceed with implementation\nof the new clearing house func-\nton assigned to the Commission\nin the 1864 Civil Rights Bill.\nas soon as the bill is signed.\n\n\nOver $50 delegates from so\nstates and the District Of Col\numbia participated in the map\nping of plans for providing civil\nrights Information and assistance\nto Federal, State, and local Of\nficials and community groups en-\ngagged in carrying out the OBJ\njectives of the new legislation.\n\n\nJohn A. Hannah, chairman Of\nthe Commission, reminded the\ndelegates that the late President\nJohn F. Kennedy. in proposing the\nclearing house function, had\nstressed the value of the \"ex-\nperience and capability' Of the\nCivil Rights Commission in con-\ntributing to public knowledge and\ncreating 1.-THE atmosphere of un-\nderstanding which is indispen-\nsable to peaceful and permanent\nsolutions to racial problems\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1845,
+                "y0": 533,
+                "x1": 2536,
+                "y1": 731
+            },
+            "class": "headline",
+            "raw_text": "z krizonuns Attend\nRights Meet In DC.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2738,
+                "y0": 2494,
+                "x1": 3545,
+                "y1": 4443
+            },
+            "class": "article",
+            "raw_text": "SAN FRANC1SCO--Frank L.\nStanley, Sr., publisher Of the\nLouisville. (Ky.) Defender, was\nelected president Of the National\nNewspaper Publishers Associa-\nton at its annual 24th convention.\nHe previously served as presi-\ndent from l945-48.\n\n\nIn 1916 he was named as chair\nman of the first group Of Ameri-\ncan journalists commissioned to\nstudy race relations among US.\ntroops in Europe.\n\n\nIn 1855 and 1857 he served as\nnational president of the Alpha\nPhi Alpha fraternity.\n\n\nDuring 1862. Mr.. Stanley, was\none of a four man team who taught\njournalism for the state depart\nment in six African nations.\n\n\nSince completing his teaching\nabroad, he has been consultant\non state personnel, and serves as\na member Of the Kentucky COM\nmission on civil rights.\n\n\nHis newspaper Is rated as one\nOf the best Negro owned news\npapers and It has won 81 national\nhonors, including the Wilkie and\nRusswrm Awards.\n\n\nNNPA will hold its 18th annual\nconvention in Louisville, in June,\n1865.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2761,
+                "y0": 2273,
+                "x1": 3232,
+                "y1": 2454
+            },
+            "class": "headline",
+            "raw_text": "STANLEY\nHEADS NNPA",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2750,
+                "y0": 4489,
+                "x1": 3551,
+                "y1": 5081
+            },
+            "class": "article",
+            "raw_text": "AS the family moves outdoors\nwith the summer weather, you'll\nbe thinking of new treats to serve\nthem. For a tray of cold snacks,\nspread slices Of salami with pre-\npared roquefort-blue cheese\nspread. Add few sprigs of wa\ntercress. Roll jelly-roll fashion\nand chill. Just before you serve\nthem, cut in bite-size pieces and\nserve on toothpicks. They taste\ngood with crisp sesame crackers.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3608,
+                "y0": 2726,
+                "x1": 4392,
+                "y1": 2900
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-O511",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3649,
+                "y0": 2221,
+                "x1": 4404,
+                "y1": 2384
+            },
+            "class": "headline",
+            "raw_text": "BUY TODAY A\nu. s. SAVINGS BOND",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3625,
+                "y0": 2453,
+                "x1": 4351,
+                "y1": 2703
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 93,
+                "y0": 2610,
+                "x1": 1765,
+                "y1": 3040
+            },
+            "class": "article",
+            "raw_text": "fond farewell the home MIR. and\nBanks 237 E. Broadway Rd They babe farewell\nMrs. Robert Bowman, who left Williams Air Force\nCalf Dr. Bowman will intern\nat San Jose County Hospital.\n\n\nFrom Capt. Jenkins, USAF, Capt Bowman,\nMrs. Herbert Williams and Mrs. Bowman, seated.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3596,
+                "y0": 2946,
+                "x1": 4392,
+                "y1": 3138
+            },
+            "class": "article",
+            "raw_text": "ALBRITTON'S BEAUTY SHOP\n1246 E. Monroe\nAL 4-3597",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3602,
+                "y0": 4727,
+                "x1": 4218,
+                "y1": 4872
+            },
+            "class": "article",
+            "raw_text": "J g. M BARBER SHOP\n1905 W. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3591,
+                "y0": 4495,
+                "x1": 4398,
+                "y1": 4693
+            },
+            "class": "article",
+            "raw_text": "JACKSON'S BEAUTY SHOPpE\n1898 E. Madison\nAL 2-9541",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-03"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "z krizonuns Attend\nRights Meet In DC.",
+            "article": "Stanley G. Feldman. an attor-\nney from Tucson, and DR.. Nor\nrison Warren, a school principal\nin Phoenix participated in ma\ntional conference of State Advis-\nDRY ommittee held at the Sher-\naton-Park Hotel June d and %.\nThe commission announced plans\nto proceed with implementation\nof the new clearing house func-\nton assigned to the Commission\nin the 1864 Civil Rights Bill.\nas soon as the bill is signed.\n\n\nOver $50 delegates from so\nstates and the District Of Col\numbia participated in the map\nping of plans for providing civil\nrights Information and assistance\nto Federal, State, and local Of\nficials and community groups en-\ngagged in carrying out the OBJ\njectives of the new legislation.\n\n\nJohn A. Hannah, chairman Of\nthe Commission, reminded the\ndelegates that the late President\nJohn F. Kennedy. in proposing the\nclearing house function, had\nstressed the value of the \"ex-\nperience and capability' Of the\nCivil Rights Commission in con-\ntributing to public knowledge and\ncreating 1.-THE atmosphere of un-\nderstanding which is indispen-\nsable to peaceful and permanent\nsolutions to racial problems\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1845,
+                    "y0": 533,
+                    "x1": 2536,
+                    "y1": 731
+                },
+                {
+                    "x0": 1833,
+                    "y0": 794,
+                    "x1": 2658,
+                    "y1": 2860
+                }
+            ],
+            "bbox": [
+                1833,
+                533,
+                2658,
+                2860
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "STANLEY\nHEADS NNPA",
+            "article": "SAN FRANC1SCO--Frank L.\nStanley, Sr., publisher Of the\nLouisville. (Ky.) Defender, was\nelected president Of the National\nNewspaper Publishers Associa-\nton at its annual 24th convention.\nHe previously served as presi-\ndent from l945-48.\n\n\nIn 1916 he was named as chair\nman of the first group Of Ameri-\ncan journalists commissioned to\nstudy race relations among US.\ntroops in Europe.\n\n\nIn 1855 and 1857 he served as\nnational president of the Alpha\nPhi Alpha fraternity.\n\n\nDuring 1862. Mr.. Stanley, was\none of a four man team who taught\njournalism for the state depart\nment in six African nations.\n\n\nSince completing his teaching\nabroad, he has been consultant\non state personnel, and serves as\na member Of the Kentucky COM\nmission on civil rights.\n\n\nHis newspaper Is rated as one\nOf the best Negro owned news\npapers and It has won 81 national\nhonors, including the Wilkie and\nRusswrm Awards.\n\n\nNNPA will hold its 18th annual\nconvention in Louisville, in June,\n1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2761,
+                    "y0": 2273,
+                    "x1": 3232,
+                    "y1": 2454
+                },
+                {
+                    "x0": 2738,
+                    "y0": 2494,
+                    "x1": 3545,
+                    "y1": 4443
+                }
+            ],
+            "bbox": [
+                2738,
+                2273,
+                3545,
+                4443
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "AS the family moves outdoors\nwith the summer weather, you'll\nbe thinking of new treats to serve\nthem. For a tray of cold snacks,\nspread slices Of salami with pre-\npared roquefort-blue cheese\nspread. Add few sprigs of wa\ntercress. Roll jelly-roll fashion\nand chill. Just before you serve\nthem, cut in bite-size pieces and\nserve on toothpicks. They taste\ngood with crisp sesame crackers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2750,
+                    "y0": 4489,
+                    "x1": 3551,
+                    "y1": 5081
+                }
+            ],
+            "bbox": [
+                2750,
+                4489,
+                3551,
+                5081
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        },
+        {
+            "object_ids": [
+                18,
+                17,
+                13
+            ],
+            "headline": "BUY TODAY A\nu. s. SAVINGS BOND\n\nCLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-O511",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3649,
+                    "y0": 2221,
+                    "x1": 4404,
+                    "y1": 2384
+                },
+                {
+                    "x0": 3625,
+                    "y0": 2453,
+                    "x1": 4351,
+                    "y1": 2703
+                },
+                {
+                    "x0": 3608,
+                    "y0": 2726,
+                    "x1": 4392,
+                    "y1": 2900
+                }
+            ],
+            "bbox": [
+                3608,
+                2221,
+                4404,
+                2900
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "fond farewell the home MIR. and\nBanks 237 E. Broadway Rd They babe farewell\nMrs. Robert Bowman, who left Williams Air Force\nCalf Dr. Bowman will intern\nat San Jose County Hospital.\n\n\nFrom Capt. Jenkins, USAF, Capt Bowman,\nMrs. Herbert Williams and Mrs. Bowman, seated.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 93,
+                    "y0": 2610,
+                    "x1": 1765,
+                    "y1": 3040
+                }
+            ],
+            "bbox": [
+                93,
+                2610,
+                1765,
+                3040
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "ALBRITTON'S BEAUTY SHOP\n1246 E. Monroe\nAL 4-3597",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3596,
+                    "y0": 2946,
+                    "x1": 4392,
+                    "y1": 3138
+                }
+            ],
+            "bbox": [
+                3596,
+                2946,
+                4392,
+                3138
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "J g. M BARBER SHOP\n1905 W. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3602,
+                    "y0": 4727,
+                    "x1": 4218,
+                    "y1": 4872
+                }
+            ],
+            "bbox": [
+                3602,
+                4727,
+                4218,
+                4872
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "JACKSON'S BEAUTY SHOPpE\n1898 E. Madison\nAL 2-9541",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3591,
+                    "y0": 4495,
+                    "x1": 4398,
+                    "y1": 4693
+                }
+            ],
+            "bbox": [
+                3591,
+                4495,
+                4398,
+                4693
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-07-03_p1_sn84021918_0041421695A_1964070301_0459.json"
+        }
+    ]
+}

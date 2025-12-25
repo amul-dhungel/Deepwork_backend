@@ -1,0 +1,349 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964040301/0351.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7457,
+        "width": 4939
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1991,
+                "y0": 541,
+                "x1": 2808,
+                "y1": 1795
+            },
+            "class": "article",
+            "raw_text": "A widow has sued General Mo-\ntors Corporation, alleging her\nhusband died as a result of a\nfaulty mechanism in a vehicle\nhe was driving. She seeks $500,\n900 damages.\n\n\nMrs. Inez Rosser, 1853 E. Al\nmeria, said her husband, Arthur\nRosser, died Sept. 10 from In\njuries receive when the auto\nmobile he was driving Aug. IA,\n1868. went out of control and\nstruck a utility pole alongside\nUS. Highway 80 south of Chand-\nTer.\n\n\nRosser was an X-ray super\nvisor for the u. S. Public Health\nService, said Harold Goldman,\nplaintiff S counsel. The vehicle,\na 1861 Chevrolet, belonged to\nthe government motor poool here.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1997,
+                "y0": 413,
+                "x1": 2616,
+                "y1": 519
+            },
+            "class": "headline",
+            "raw_text": "WIDOW SUES GIN",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1991,
+                "y0": 2155,
+                "x1": 2808,
+                "y1": 3234
+            },
+            "class": "article",
+            "raw_text": "CHICAGO Mrs. Rose Kennedy\n68, who was arrested after the\ndeath of her common in law\nhusband, policymaker. Lawrence\nWakefield, was freed last week.\n\n\nJudge Ben Schwartz ruled to\nsuppress evidence secured by\npolicemen because they lacked\na warrant.\n\n\nGovernment agents have filed\na claim for $15O,OO0 of the\nS763 900 cash found in the apart\nment of Wakefield. Also found\nwere seven guns and ii policy\nprinting presses.\n\n\nMrs. Kennedy will attempt to\nrecover the money and other\narticles by filing in probate court.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2009,
+                "y0": 1875,
+                "x1": 2598,
+                "y1": 2109
+            },
+            "class": "headline",
+            "raw_text": "WON an May\nGet Money",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2883,
+                "y0": 600,
+                "x1": 4579,
+                "y1": 2896
+            },
+            "class": "article",
+            "raw_text": "Like newspaper columns. newspaper advertising\ncopyrighted.\n\n\nJustice Holmes declared that\ncould be owned copyrighted without having special\nliterary artistic merit.\n\n\nauthor business agency that work and skill into\nprotect rule with general notice of copyright\npublisher special maps advertiser\ncopyrighted: held that the advertiser couldn't\nsell these maps rival publisher.\n\n\nanother clever picture ad. The told\ncompetitor he couldn't the picture for his adj\n\n\nYou copyright things such list Of publicly\navailable ad so common it lacks unqueness.\n\n\n\"owned by the advertiser, the\nmagazine.\n\n\nwhich get business may also\ntrade of value business without\ncopyright.\n\n\nBesides, business product itself often be\nrghted Now and then, unfortunately become\nwe'll that without protection 1t can lapse into the\nlanguage and lose its character property.\n\n\nfrom elses ads we'll in\ntrouble\n\n\nfor anyone violate copyright purpose\nand he have damages covering all his profits\nAnd then\n\n\nmisleading suspension certain\nthe office sometimes rough someone\nmails advertise fraudulently.\n\n\nOf ads brag about ones product which Is well\nby public and therefore, within limits such putting\nthe Federal Trade Commission often stops\nthey false misleading especially\nfactual claims.\n\n\nhis legal is issued public service under\nBar of Arizona and written inform,\nadvisel",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2877,
+                "y0": 337,
+                "x1": 3909,
+                "y1": 571
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law\nClever Ads",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 226,
+                "y0": 2749,
+                "x1": 1905,
+                "y1": 3310
+            },
+            "class": "article",
+            "raw_text": "plays presented as part OF the tenh year\nfounding celebration Presbyterian Church.\n\n\nOf the members OF the casts OF sorry\nWrong Number and \"The Flattering Word\"\n\n\nBlanche Hooks E. E. Roberts, Misses Lynda HOOKS\nand Brooks pictured\n\n\nFord Smith, John Smith, George Greene participated\n\n\nPLAYS Mrs. Brenda Mecker, William Hooks\nand Nathaniel Robinson.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 820,
+                "y0": 6152,
+                "x1": 1520,
+                "y1": 6846
+            },
+            "class": "article",
+            "raw_text": "Unusual? Mo-\nIf your credit record is\neasily available, apply in\nthe morning-pick up your\ncheck in the afternoon!\n\n\nThousands of folks, with\ntheir credit already estab-\nlished at the Valley Bank,\ncan even beat that they\ncan walk in, sign a note,",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1566,
+                "y0": 6146,
+                "x1": 2266,
+                "y1": 6887
+            },
+            "class": "article",
+            "raw_text": "walk out with the cash\nthey need.\n\n\nIf we don't know you, or\nyou have credit problems,\nwestiH give the fastest serv-\nice in the state we do\neverything we can to make\nloans. (Proof? = over\n100000 instalment loans\nmade to date.)",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 820,
+                "y0": 5913,
+                "x1": 2266,
+                "y1": 6118
+            },
+            "class": "headline",
+            "raw_text": "vSAME DAY\" SERVICE\nON PERSONAL LOANS?",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-04-03"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "WIDOW SUES GIN",
+            "article": "A widow has sued General Mo-\ntors Corporation, alleging her\nhusband died as a result of a\nfaulty mechanism in a vehicle\nhe was driving. She seeks $500,\n900 damages.\n\n\nMrs. Inez Rosser, 1853 E. Al\nmeria, said her husband, Arthur\nRosser, died Sept. 10 from In\njuries receive when the auto\nmobile he was driving Aug. IA,\n1868. went out of control and\nstruck a utility pole alongside\nUS. Highway 80 south of Chand-\nTer.\n\n\nRosser was an X-ray super\nvisor for the u. S. Public Health\nService, said Harold Goldman,\nplaintiff S counsel. The vehicle,\na 1861 Chevrolet, belonged to\nthe government motor poool here.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1997,
+                    "y0": 413,
+                    "x1": 2616,
+                    "y1": 519
+                },
+                {
+                    "x0": 1991,
+                    "y0": 541,
+                    "x1": 2808,
+                    "y1": 1795
+                }
+            ],
+            "bbox": [
+                1991,
+                413,
+                2808,
+                1795
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-03_p1_sn84021918_0041421695A_1964040301_0351.json"
+        },
+        {
+            "object_ids": [
+                6,
+                2
+            ],
+            "headline": "WON an May\nGet Money",
+            "article": "CHICAGO Mrs. Rose Kennedy\n68, who was arrested after the\ndeath of her common in law\nhusband, policymaker. Lawrence\nWakefield, was freed last week.\n\n\nJudge Ben Schwartz ruled to\nsuppress evidence secured by\npolicemen because they lacked\na warrant.\n\n\nGovernment agents have filed\na claim for $15O,OO0 of the\nS763 900 cash found in the apart\nment of Wakefield. Also found\nwere seven guns and ii policy\nprinting presses.\n\n\nMrs. Kennedy will attempt to\nrecover the money and other\narticles by filing in probate court.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2009,
+                    "y0": 1875,
+                    "x1": 2598,
+                    "y1": 2109
+                },
+                {
+                    "x0": 1991,
+                    "y0": 2155,
+                    "x1": 2808,
+                    "y1": 3234
+                }
+            ],
+            "bbox": [
+                1991,
+                1875,
+                2808,
+                3234
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-03_p1_sn84021918_0041421695A_1964040301_0351.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "Discussing Arizona Law\nClever Ads",
+            "article": "Like newspaper columns. newspaper advertising\ncopyrighted.\n\n\nJustice Holmes declared that\ncould be owned copyrighted without having special\nliterary artistic merit.\n\n\nauthor business agency that work and skill into\nprotect rule with general notice of copyright\npublisher special maps advertiser\ncopyrighted: held that the advertiser couldn't\nsell these maps rival publisher.\n\n\nanother clever picture ad. The told\ncompetitor he couldn't the picture for his adj\n\n\nYou copyright things such list Of publicly\navailable ad so common it lacks unqueness.\n\n\n\"owned by the advertiser, the\nmagazine.\n\n\nwhich get business may also\ntrade of value business without\ncopyright.\n\n\nBesides, business product itself often be\nrghted Now and then, unfortunately become\nwe'll that without protection 1t can lapse into the\nlanguage and lose its character property.\n\n\nfrom elses ads we'll in\ntrouble\n\n\nfor anyone violate copyright purpose\nand he have damages covering all his profits\nAnd then\n\n\nmisleading suspension certain\nthe office sometimes rough someone\nmails advertise fraudulently.\n\n\nOf ads brag about ones product which Is well\nby public and therefore, within limits such putting\nthe Federal Trade Commission often stops\nthey false misleading especially\nfactual claims.\n\n\nhis legal is issued public service under\nBar of Arizona and written inform,\nadvisel",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2877,
+                    "y0": 337,
+                    "x1": 3909,
+                    "y1": 571
+                },
+                {
+                    "x0": 2883,
+                    "y0": 600,
+                    "x1": 4579,
+                    "y1": 2896
+                }
+            ],
+            "bbox": [
+                2877,
+                337,
+                4579,
+                2896
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-03_p1_sn84021918_0041421695A_1964040301_0351.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "plays presented as part OF the tenh year\nfounding celebration Presbyterian Church.\n\n\nOf the members OF the casts OF sorry\nWrong Number and \"The Flattering Word\"\n\n\nBlanche Hooks E. E. Roberts, Misses Lynda HOOKS\nand Brooks pictured\n\n\nFord Smith, John Smith, George Greene participated\n\n\nPLAYS Mrs. Brenda Mecker, William Hooks\nand Nathaniel Robinson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 226,
+                    "y0": 2749,
+                    "x1": 1905,
+                    "y1": 3310
+                }
+            ],
+            "bbox": [
+                226,
+                2749,
+                1905,
+                3310
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-04-03_p1_sn84021918_0041421695A_1964040301_0351.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Unusual? Mo-\nIf your credit record is\neasily available, apply in\nthe morning-pick up your\ncheck in the afternoon!\n\n\nThousands of folks, with\ntheir credit already estab-\nlished at the Valley Bank,\ncan even beat that they\ncan walk in, sign a note,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 820,
+                    "y0": 6152,
+                    "x1": 1520,
+                    "y1": 6846
+                }
+            ],
+            "bbox": [
+                820,
+                6152,
+                1520,
+                6846
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-04-03_p1_sn84021918_0041421695A_1964040301_0351.json"
+        },
+        {
+            "object_ids": [
+                15,
+                17
+            ],
+            "headline": "vSAME DAY\" SERVICE\nON PERSONAL LOANS?",
+            "article": "walk out with the cash\nthey need.\n\n\nIf we don't know you, or\nyou have credit problems,\nwestiH give the fastest serv-\nice in the state we do\neverything we can to make\nloans. (Proof? = over\n100000 instalment loans\nmade to date.)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 820,
+                    "y0": 5913,
+                    "x1": 2266,
+                    "y1": 6118
+                },
+                {
+                    "x0": 1566,
+                    "y0": 6146,
+                    "x1": 2266,
+                    "y1": 6887
+                }
+            ],
+            "bbox": [
+                820,
+                5913,
+                2266,
+                6887
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-04-03_p1_sn84021918_0041421695A_1964040301_0351.json"
+        }
+    ]
+}

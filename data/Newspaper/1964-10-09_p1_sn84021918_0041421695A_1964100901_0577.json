@@ -1,0 +1,269 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100901/0577.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4935
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2832,
+                "y0": 2927,
+                "x1": 3637,
+                "y1": 3229
+            },
+            "class": "article",
+            "raw_text": "Daley's neighborhood.\n\n\nThe white demonstrators threw\nbricks, bottles and rocks. The\nNegroes are students from the\nIllinois Institute of Technology",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1946,
+                "y0": 2892,
+                "x1": 2757,
+                "y1": 3246
+            },
+            "class": "article",
+            "raw_text": "CHICAGO Four policemen\nwere injured and five persons\nwere arrested Monday when a\ncrowd of 800 pers ons gathered in\nfront of an apartment rented to\nNegroes in Mayor Richard J.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2322,
+                "y0": 2771,
+                "x1": 3220,
+                "y1": 2865
+            },
+            "class": "headline",
+            "raw_text": "NEGRO RENTERS CAUSE RIOT",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1049,
+                "y0": 3072,
+                "x1": 1866,
+                "y1": 3362
+            },
+            "class": "article",
+            "raw_text": "comedian Shelley Berman.\n\n\nThe Mills Brothers said they\nmade the original rock and roll\nrecords in the thirties but no\none played them.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 436,
+                "y0": 2962,
+                "x1": 1490,
+                "y1": 3061
+            },
+            "class": "headline",
+            "raw_text": "MILLS BROTHERS OPEN IN VEGAS",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 153,
+                "y0": 3095,
+                "x1": 969,
+                "y1": 3351
+            },
+            "class": "article",
+            "raw_text": "The Mills Brothers will open in\nthe Congo Room at the Hotel\nSahara, Las Vegas on Oct. Is.\nThey will share billing with",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 158,
+                "y0": 2435,
+                "x1": 1837,
+                "y1": 2922
+            },
+            "class": "article",
+            "raw_text": "MISS LESLIE GAk Seated Lefty talented telev1sion supper\nclub singing registered her election Wednesday,\nSeptember 3d. the New York City Board of Elections offices.\nWatching Miss Uggms assisted by Stanley Ferris elections\nclerk Mrs. va Capel New York NAACP Branch regis\ntraon representative Miss Dorothy Height president National\nCouncil Of Negro Women Elections Commissioner Maurice\nj. ORourke. (BAGWELL PHOTO)",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-09"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Daley's neighborhood.\n\n\nThe white demonstrators threw\nbricks, bottles and rocks. The\nNegroes are students from the\nIllinois Institute of Technology",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2832,
+                    "y0": 2927,
+                    "x1": 3637,
+                    "y1": 3229
+                }
+            ],
+            "bbox": [
+                2832,
+                2927,
+                3637,
+                3229
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-09_p1_sn84021918_0041421695A_1964100901_0577.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "NEGRO RENTERS CAUSE RIOT",
+            "article": "CHICAGO Four policemen\nwere injured and five persons\nwere arrested Monday when a\ncrowd of 800 pers ons gathered in\nfront of an apartment rented to\nNegroes in Mayor Richard J.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2322,
+                    "y0": 2771,
+                    "x1": 3220,
+                    "y1": 2865
+                },
+                {
+                    "x0": 1946,
+                    "y0": 2892,
+                    "x1": 2757,
+                    "y1": 3246
+                }
+            ],
+            "bbox": [
+                1946,
+                2771,
+                3220,
+                3246
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-09_p1_sn84021918_0041421695A_1964100901_0577.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "MILLS BROTHERS OPEN IN VEGAS",
+            "article": "comedian Shelley Berman.\n\n\nThe Mills Brothers said they\nmade the original rock and roll\nrecords in the thirties but no\none played them.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 436,
+                    "y0": 2962,
+                    "x1": 1490,
+                    "y1": 3061
+                },
+                {
+                    "x0": 1049,
+                    "y0": 3072,
+                    "x1": 1866,
+                    "y1": 3362
+                }
+            ],
+            "bbox": [
+                436,
+                2962,
+                1866,
+                3362
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-09_p1_sn84021918_0041421695A_1964100901_0577.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "The Mills Brothers will open in\nthe Congo Room at the Hotel\nSahara, Las Vegas on Oct. Is.\nThey will share billing with",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 153,
+                    "y0": 3095,
+                    "x1": 969,
+                    "y1": 3351
+                }
+            ],
+            "bbox": [
+                153,
+                3095,
+                969,
+                3351
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-09_p1_sn84021918_0041421695A_1964100901_0577.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "MISS LESLIE GAk Seated Lefty talented telev1sion supper\nclub singing registered her election Wednesday,\nSeptember 3d. the New York City Board of Elections offices.\nWatching Miss Uggms assisted by Stanley Ferris elections\nclerk Mrs. va Capel New York NAACP Branch regis\ntraon representative Miss Dorothy Height president National\nCouncil Of Negro Women Elections Commissioner Maurice\nj. ORourke. (BAGWELL PHOTO)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 158,
+                    "y0": 2435,
+                    "x1": 1837,
+                    "y1": 2922
+                }
+            ],
+            "bbox": [
+                158,
+                2435,
+                1837,
+                2922
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-09_p1_sn84021918_0041421695A_1964100901_0577.json"
+        }
+    ]
+}

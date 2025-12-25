@@ -1,0 +1,394 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7424,
+        "width": 4877,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041701/0366.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2937,
+                "y0": 1131,
+                "x1": 4626,
+                "y1": 2964
+            },
+            "class": "article",
+            "raw_text": "days national coumnist article\nstating Negroes should business and financial\nworld.\nS. B. Fuller, Negro who parayed few\ndollars million dollar business enterprise in Chicago.\n\n\nThe writer More opportunities today\nAmerica than before in the business field There small\nbeing made by and who have the forewgh and\nwillingness strike their\n\n\ntravelled in of the the nation and have been\nlack of businesses owned organized by Negroes\nNegroes dry cleaning plants shoe repair\nshops bakeries There trend Negroes the\nsmall business beauty barber shops There\n\n\nother which have been tried by Negroes who\nmight be able find the door open.\n\n\nRecently Negroes entered the real and some have\nmade substantially good earnings. In most cities however sales\nreduced because Of all negbor\nhoods.\n\n\nBuilders have been vore for Negro\nfew have entered the financing end Of home\nbuying construction.\n\n\nMany civil rights organizations receive thousands OF dol\noften much Is spent by\nwho travel the length and bredh Of the nation\nmaking speeches.\n\n\nSome Of the Urban League NAACP. CORE and\nLeadership Conference could be invested\nby providing scholarships helping finance\nbusiness for American Negroes.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3476,
+                "y0": 452,
+                "x1": 4475,
+                "y1": 905
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIEws\nAND REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3702,
+                "y0": 812,
+                "x1": 4231,
+                "y1": 894
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2931,
+                "y0": 968,
+                "x1": 4463,
+                "y1": 1085
+            },
+            "class": "headline",
+            "raw_text": "Neq roes Need to Enter Bus inesses",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2966,
+                "y0": 3108,
+                "x1": 3790,
+                "y1": 3550
+            },
+            "class": "article",
+            "raw_text": "pre-scheduled tax bill when we\nare born. AS the wee babes leave\nthe hospitals their bax bills will\naccompany them. All they will\nhave to do is send in a check\nor money order out of coupon\nbook monthly until they depart",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3847,
+                "y0": 3103,
+                "x1": 4655,
+                "y1": 3573
+            },
+            "class": "article",
+            "raw_text": "from this we'll taxed earth.\n\n\nIf you have forgotten to doyour\ngood deed for the week. Call\nyour local income tax department\nand wish them a Merry Christ\nmas. Remind him it will take that\nlong for you to recoup from this\nyears tax bill.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3482,
+                "y0": 3021,
+                "x1": 4179,
+                "y1": 3092
+            },
+            "class": "headline",
+            "raw_text": "SIGHTS = CONTINUED",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2026,
+                "y0": 846,
+                "x1": 2862,
+                "y1": 6392
+            },
+            "class": "article",
+            "raw_text": "pain when ! mailed those long\nenvelopes addressed to the fed\neral and state income tax d.\nvisions. Enclosed In those folders\nwe're the accumulated hours Of\ngrinding my teeth, banging on the\nadding machine. figuring on var\nious pads and erasing errors.\n\n\nFor the past two years was\ncaught in the late minute mad\nness and rushed to the main post\noffice on the stroke Of midnight\nwith envelopes clutched in my\ntired fingers. My husband would\ndrive around the streets because\nno parking or alighting room was\nnearby either entrance to the post\noffice building.\n\n\nLast year automobiles we're\nlined two blocks from the nearest\nmailbox and hundreds of citizens\nraced to and fro in the down.\ntown streets trying to beat the\nmidnight deadline.\n\n\nThis year promised myself\nwould not be caught in the\nhectic rush. l prepared prelimi-\nnary forms and did stacks Of\nworksheets before | completed\nthe forms. Each year more and\nmore items are changed. added or\ndeleted.\n\n\nWeary taxpayers who are ma\nturally tired from their jobs\nmust find energy to wrestle with\nincome tax forms. Many take\ntheir woes to others who prepare\nthem. But l prefer to do ours.\n\n\nAfter all you work SO hard to\nearn your wages--why not work\nharder to figure out ways Of pay\ning taxes. am sure you have\nhad some unkind words for the\ntax collectors. There is only\none bit of cons olation | can offer.\nRemember, tax collectors must\nalso meet the tax collectors.\n\n\nNo one is positive when and\nhow the scourge Of manhnd--\ntaxes began. Some alert ruler fig\nured a way to keep his Golfers\nfull by simply assessing one\npiece Of gold. one ounce of salt\nor one blanket of fur from his\nsubjects.\n\n\nEmpires rose and fell but taxes\nhave remained. Caesars. tsars,\ncars, despots. dictators, bene-\nVIOLENT monarchs. queens, kings\nand all kinds Of rulers have\nmanaged to exercise a common\nstranglehold on the people-taxes.\n\n\nIn our modern world the word\ntax Is heard so often that small\nchildren accept 1t as a part OF\ntheir vocabulary. We pay gaso-\nline, whiskey, cigarette, sales,\ncosmetic. excise. gross income,\nproperty. water use, entertain\nment, inventory and telephone\ntaxes.\n\n\nWomen suffer the worst type of\nridiculous taxation. We must pay\ntaxes called luxury taxes on items\nof keeping our faces lovely. We\nmust pay luxury taxes on hand\nbags. How could the taxmen think\nwe could exist without handbag7\nThey are necessities not notions.\n\n\nWe have taxes surrounding us\non every side. There are national\ntaxes, state taxes, county taxes,\nand city taxes. l am sure some\nshrewd government official is de-\nvising ways Of trapping US in\nsmaller street bounds and charge\nus neighborhood or block taxes.\n\n\nIn this move toward mass auto\nnation l believe the federal gov\neminent is pulling our legs by\nsaying only portion Of our tax\nreturns will be scrutinized. With\ncomputers and cooling devices |\nam sure every man. woman and",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2049,
+                "y0": 382,
+                "x1": 2851,
+                "y1": 743
+            },
+            "class": "headline",
+            "raw_text": "Siuhts and Sounds\nELolse BANKS\nTaxes Are Taxing",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1139,
+                "y0": 5985,
+                "x1": 1795,
+                "y1": 7047
+            },
+            "class": "article",
+            "raw_text": "Dying for refrigeration?\nLocate the dealer tUIO\nhas the style and model\nYOU Uant. Reach an\nagreement on the price,\nthen tell him: 81 IOant\nValley Bank financing!\"\nThe rest is usually rOu-\ntine, for all OUer Ari'\niona, dealers knOlU they\ncan get fast credit APP\npr0Ua1s from any OF\nthe 81 VNB offices. Incl\ndentalIy, this also works\nfor nelU or used cars,\npianos, refrigeratOrs,\nsUashers, boats, etc. -.\nJust ask your dealer for\nValley Bank financing!\n\n\nuutv 81 ANA .t.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 234,
+                "y0": 2122,
+                "x1": 1963,
+                "y1": 6183
+            },
+            "class": "article",
+            "raw_text": "U VV6Nu . NVVNN\" NVb N6 w\nPresident Lyndon johnson has appointed\nSargent ShYiUeY, the former head Of the Peace\nCorps, as the head Of the newly formed fed\neYal anti poverty bureau.\n\n\nr For many years U0TiOuS types of programs\naimed at hating poverty among the urlf0Ttu-\nnate people in the United States haze been\noperating. Perhaps, the administration would\nprefer that ne overlook the fact that millions\nof citizens are receiving educational training,\nwelfare assistance, food Yati0ns and other\nkinds Of aid as part Of an overall program\ndesigned to help those WhO can not help them\nselves.\n\n\nWe should not believe that q separate diUi-\nsion of the federal government OiU end the\nareas where poverty occurs. Poverty is an\neconomic condition caused by unequal edu-\ncation and job opportunities.\n\n\nSurveys prove that Negroes comprise\ngreat percent of those wh0 are classified as\npoverty stricken. Their color of skin has\ncaused them to remain in the lowest S0ciO-\neconomic conditions.\n\n\nAlso in the large group Of poverty stricken\nbeoble are those whites Who hve in the hin\nand mountain areas Of the Abba la chan and\nOzark Mountains. Their color Of skin can\nnot be blamed rather their inability to find\njobs near their homes caused their plight.\nEfforts to organize another program to\nhe lp the poverty stricken areas and citizens\nmust begin first with the people. Instead Of\nluagi,lg the uUay on poverty with endless de-\nbaytments and htleS-H might be WeH to b0l-\nstey the federal and state naanb0wer train\ning programs and housing facilities.\n\n\nPerhaps Mn. ShyiUeY can see the talMcy IN\nsending so many dedicated people to help\nraise the standards of hvirlg in foreign co1n-\ntries when there is such a great need here\nin our OuVn land.\n\n\n@@m~m 49, If m~@ @~@ 49, 49, 49, - $500\n!\" 0\nIL Dying for refrigeration: @|\n\n\ndealer tUIi0 ~\n\n\nhas style and model ~",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 240,
+                "y0": 2012,
+                "x1": 1992,
+                "y1": 2187
+            },
+            "class": "headline",
+            "raw_text": "POVERTY PROGRAM NOT new",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041701_0366",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                17,
+                11,
+                0
+            ],
+            "headline": "Views, pRevIEws\nAND REVIEWS\n\n\nEdward Banks\n\nNeq roes Need to Enter Bus inesses",
+            "article": "days national coumnist article\nstating Negroes should business and financial\nworld.\nS. B. Fuller, Negro who parayed few\ndollars million dollar business enterprise in Chicago.\n\n\nThe writer More opportunities today\nAmerica than before in the business field There small\nbeing made by and who have the forewgh and\nwillingness strike their\n\n\ntravelled in of the the nation and have been\nlack of businesses owned organized by Negroes\nNegroes dry cleaning plants shoe repair\nshops bakeries There trend Negroes the\nsmall business beauty barber shops There\n\n\nother which have been tried by Negroes who\nmight be able find the door open.\n\n\nRecently Negroes entered the real and some have\nmade substantially good earnings. In most cities however sales\nreduced because Of all negbor\nhoods.\n\n\nBuilders have been vore for Negro\nfew have entered the financing end Of home\nbuying construction.\n\n\nMany civil rights organizations receive thousands OF dol\noften much Is spent by\nwho travel the length and bredh Of the nation\nmaking speeches.\n\n\nSome Of the Urban League NAACP. CORE and\nLeadership Conference could be invested\nby providing scholarships helping finance\nbusiness for American Negroes.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3476,
+                    "y0": 452,
+                    "x1": 4475,
+                    "y1": 905
+                },
+                {
+                    "x0": 3702,
+                    "y0": 812,
+                    "x1": 4231,
+                    "y1": 894
+                },
+                {
+                    "x0": 2931,
+                    "y0": 968,
+                    "x1": 4463,
+                    "y1": 1085
+                },
+                {
+                    "x0": 2937,
+                    "y0": 1131,
+                    "x1": 4626,
+                    "y1": 2964
+                }
+            ],
+            "bbox": [
+                2931,
+                452,
+                4626,
+                2964
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-17_pna_sn84021918_0041421695A_1964041701_0366.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "pre-scheduled tax bill when we\nare born. AS the wee babes leave\nthe hospitals their bax bills will\naccompany them. All they will\nhave to do is send in a check\nor money order out of coupon\nbook monthly until they depart",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2966,
+                    "y0": 3108,
+                    "x1": 3790,
+                    "y1": 3550
+                }
+            ],
+            "bbox": [
+                2966,
+                3108,
+                3790,
+                3550
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-17_pna_sn84021918_0041421695A_1964041701_0366.json"
+        },
+        {
+            "object_ids": [
+                10,
+                3
+            ],
+            "headline": "SIGHTS = CONTINUED",
+            "article": "from this we'll taxed earth.\n\n\nIf you have forgotten to doyour\ngood deed for the week. Call\nyour local income tax department\nand wish them a Merry Christ\nmas. Remind him it will take that\nlong for you to recoup from this\nyears tax bill.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3482,
+                    "y0": 3021,
+                    "x1": 4179,
+                    "y1": 3092
+                },
+                {
+                    "x0": 3847,
+                    "y0": 3103,
+                    "x1": 4655,
+                    "y1": 3573
+                }
+            ],
+            "bbox": [
+                3482,
+                3021,
+                4655,
+                3573
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-17_pna_sn84021918_0041421695A_1964041701_0366.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "Siuhts and Sounds\nELolse BANKS\nTaxes Are Taxing",
+            "article": "pain when ! mailed those long\nenvelopes addressed to the fed\neral and state income tax d.\nvisions. Enclosed In those folders\nwe're the accumulated hours Of\ngrinding my teeth, banging on the\nadding machine. figuring on var\nious pads and erasing errors.\n\n\nFor the past two years was\ncaught in the late minute mad\nness and rushed to the main post\noffice on the stroke Of midnight\nwith envelopes clutched in my\ntired fingers. My husband would\ndrive around the streets because\nno parking or alighting room was\nnearby either entrance to the post\noffice building.\n\n\nLast year automobiles we're\nlined two blocks from the nearest\nmailbox and hundreds of citizens\nraced to and fro in the down.\ntown streets trying to beat the\nmidnight deadline.\n\n\nThis year promised myself\nwould not be caught in the\nhectic rush. l prepared prelimi-\nnary forms and did stacks Of\nworksheets before | completed\nthe forms. Each year more and\nmore items are changed. added or\ndeleted.\n\n\nWeary taxpayers who are ma\nturally tired from their jobs\nmust find energy to wrestle with\nincome tax forms. Many take\ntheir woes to others who prepare\nthem. But l prefer to do ours.\n\n\nAfter all you work SO hard to\nearn your wages--why not work\nharder to figure out ways Of pay\ning taxes. am sure you have\nhad some unkind words for the\ntax collectors. There is only\none bit of cons olation | can offer.\nRemember, tax collectors must\nalso meet the tax collectors.\n\n\nNo one is positive when and\nhow the scourge Of manhnd--\ntaxes began. Some alert ruler fig\nured a way to keep his Golfers\nfull by simply assessing one\npiece Of gold. one ounce of salt\nor one blanket of fur from his\nsubjects.\n\n\nEmpires rose and fell but taxes\nhave remained. Caesars. tsars,\ncars, despots. dictators, bene-\nVIOLENT monarchs. queens, kings\nand all kinds Of rulers have\nmanaged to exercise a common\nstranglehold on the people-taxes.\n\n\nIn our modern world the word\ntax Is heard so often that small\nchildren accept 1t as a part OF\ntheir vocabulary. We pay gaso-\nline, whiskey, cigarette, sales,\ncosmetic. excise. gross income,\nproperty. water use, entertain\nment, inventory and telephone\ntaxes.\n\n\nWomen suffer the worst type of\nridiculous taxation. We must pay\ntaxes called luxury taxes on items\nof keeping our faces lovely. We\nmust pay luxury taxes on hand\nbags. How could the taxmen think\nwe could exist without handbag7\nThey are necessities not notions.\n\n\nWe have taxes surrounding us\non every side. There are national\ntaxes, state taxes, county taxes,\nand city taxes. l am sure some\nshrewd government official is de-\nvising ways Of trapping US in\nsmaller street bounds and charge\nus neighborhood or block taxes.\n\n\nIn this move toward mass auto\nnation l believe the federal gov\neminent is pulling our legs by\nsaying only portion Of our tax\nreturns will be scrutinized. With\ncomputers and cooling devices |\nam sure every man. woman and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2049,
+                    "y0": 382,
+                    "x1": 2851,
+                    "y1": 743
+                },
+                {
+                    "x0": 2026,
+                    "y0": 846,
+                    "x1": 2862,
+                    "y1": 6392
+                }
+            ],
+            "bbox": [
+                2026,
+                382,
+                2862,
+                6392
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-17_pna_sn84021918_0041421695A_1964041701_0366.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Dying for refrigeration?\nLocate the dealer tUIO\nhas the style and model\nYOU Uant. Reach an\nagreement on the price,\nthen tell him: 81 IOant\nValley Bank financing!\"\nThe rest is usually rOu-\ntine, for all OUer Ari'\niona, dealers knOlU they\ncan get fast credit APP\npr0Ua1s from any OF\nthe 81 VNB offices. Incl\ndentalIy, this also works\nfor nelU or used cars,\npianos, refrigeratOrs,\nsUashers, boats, etc. -.\nJust ask your dealer for\nValley Bank financing!\n\n\nuutv 81 ANA .t.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1139,
+                    "y0": 5985,
+                    "x1": 1795,
+                    "y1": 7047
+                }
+            ],
+            "bbox": [
+                1139,
+                5985,
+                1795,
+                7047
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-04-17_pna_sn84021918_0041421695A_1964041701_0366.json"
+        },
+        {
+            "object_ids": [
+                13,
+                12
+            ],
+            "headline": "POVERTY PROGRAM NOT new",
+            "article": "U VV6Nu . NVVNN\" NVb N6 w\nPresident Lyndon johnson has appointed\nSargent ShYiUeY, the former head Of the Peace\nCorps, as the head Of the newly formed fed\neYal anti poverty bureau.\n\n\nr For many years U0TiOuS types of programs\naimed at hating poverty among the urlf0Ttu-\nnate people in the United States haze been\noperating. Perhaps, the administration would\nprefer that ne overlook the fact that millions\nof citizens are receiving educational training,\nwelfare assistance, food Yati0ns and other\nkinds Of aid as part Of an overall program\ndesigned to help those WhO can not help them\nselves.\n\n\nWe should not believe that q separate diUi-\nsion of the federal government OiU end the\nareas where poverty occurs. Poverty is an\neconomic condition caused by unequal edu-\ncation and job opportunities.\n\n\nSurveys prove that Negroes comprise\ngreat percent of those wh0 are classified as\npoverty stricken. Their color of skin has\ncaused them to remain in the lowest S0ciO-\neconomic conditions.\n\n\nAlso in the large group Of poverty stricken\nbeoble are those whites Who hve in the hin\nand mountain areas Of the Abba la chan and\nOzark Mountains. Their color Of skin can\nnot be blamed rather their inability to find\njobs near their homes caused their plight.\nEfforts to organize another program to\nhe lp the poverty stricken areas and citizens\nmust begin first with the people. Instead Of\nluagi,lg the uUay on poverty with endless de-\nbaytments and htleS-H might be WeH to b0l-\nstey the federal and state naanb0wer train\ning programs and housing facilities.\n\n\nPerhaps Mn. ShyiUeY can see the talMcy IN\nsending so many dedicated people to help\nraise the standards of hvirlg in foreign co1n-\ntries when there is such a great need here\nin our OuVn land.\n\n\n@@m~m 49, If m~@ @~@ 49, 49, 49, - $500\n!\" 0\nIL Dying for refrigeration: @|\n\n\ndealer tUIi0 ~\n\n\nhas style and model ~",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 240,
+                    "y0": 2012,
+                    "x1": 1992,
+                    "y1": 2187
+                },
+                {
+                    "x0": 234,
+                    "y0": 2122,
+                    "x1": 1963,
+                    "y1": 6183
+                }
+            ],
+            "bbox": [
+                234,
+                2012,
+                1992,
+                6183
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-04-17_pna_sn84021918_0041421695A_1964041701_0366.json"
+        }
+    ]
+}

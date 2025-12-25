@@ -1,0 +1,488 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964040301/0352.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4874
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2965,
+                "y0": 2912,
+                "x1": 3789,
+                "y1": 4625
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = The National As\nsociation for the Advancement of\nColored People inspires the\nconfidence of better than nine out\nof every 10 Negroes in Ameri-\nca\" the newly published book.\n\"The Negro Revolution in Amer\nica,\" asserts on the basis of ma\ntionwide poll.\n\n\nThe writer's point out, \"wheth-\ner they are slum dwellers In\nthe North, sharecroppers in the\nSouth, or belong to the rarefied\nstrata of the leadership itself.\n\n\nWilliam Brink and Louis Har-\nris are authors of the volume\npublished last month by Simon and\nSchuster. The book Is based pri-\nmarily upon study made last\nSummer by Louis Harris and\nAssociates, famed for their pub\nlie opinion polls and analyses.\n1t is an expansion of two maya\nzine articles originally published\nlast year in Newsweek magazine.\n\n\nThe survey revealed that Negro\ncitizens rate the NAACP as the\ntop civil rights organization in\nthe country.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2976,
+                "y0": 2669,
+                "x1": 3418,
+                "y1": 2867
+            },
+            "class": "headline",
+            "raw_text": "NAACP IS\n\n\nTOP GROUP",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3858,
+                "y0": 2901,
+                "x1": 4677,
+                "y1": 3853
+            },
+            "class": "article",
+            "raw_text": "Junior high school and high\nschoolers are invited to attend\nfree tap dancing classes at East\nlake Park center starting April\n6 at 7 pm. Instructor will be\nMr.. Budd.\n\n\nEarl Turner will instruct box.\ning starting April E at S pm.\nBoys in grade 5-l2 are eligible.\n\n\nMale volunteer leaders are\nneeded for coaching and manag-\ning baseball and softball teams.\nCall Clarence Jackson. director\n262-6759. |.s\"''2'< -\n\n\nMen are invited to jointhe team\nfor the summer softball league",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3852,
+                "y0": 2680,
+                "x1": 4300,
+                "y1": 2861
+            },
+            "class": "headline",
+            "raw_text": "EASTLAKE\n\n\nPARK NEWS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3846,
+                "y0": 4079,
+                "x1": 4660,
+                "y1": 4550
+            },
+            "class": "article",
+            "raw_text": "LONDON : The British Safety\nCouncil is urging Industrial\nworkers who adopt the Beatles'\nshaggy hair style to wear hair\nnets at work. The council has\nput up $4,000 posters in factory\nlocker rooms showing boy who\nlost his Beatle cut in a machine.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3864,
+                "y0": 3881,
+                "x1": 4288,
+                "y1": 4051
+            },
+            "class": "headline",
+            "raw_text": "Wear Wig\n\n\nNets Please",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3846,
+                "y0": 4746,
+                "x1": 4660,
+                "y1": 5211
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The Pentagon\ncivil rights chief said Tuesday\nthere are only 81 Negro cadets\namong the 1000 men at the Army.\nNavy and Air Force academies\nbecause \"lots of Negro young\nsters just don't dream they have\na chance\"",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3858,
+                "y0": 4560,
+                "x1": 4323,
+                "y1": 4724
+            },
+            "class": "headline",
+            "raw_text": "Negro Cadets\nAre Need ed",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 284,
+                "y0": 4856,
+                "x1": 1115,
+                "y1": 5043
+            },
+            "class": "article",
+            "raw_text": "Sammy Davis, Jr., regarded\nas one of the worlds great per-\nfromers, returned to the Sands",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2088,
+                "y0": 4618,
+                "x1": 2907,
+                "y1": 5838
+            },
+            "class": "article",
+            "raw_text": "CHICACO-The family Of Ralph\nBush, a Negro, who died after\nhis arrest by city policemen in\nOct. 1862, received an out OF\ncourt settlement of $4,000.\n\n\nBush's family filed suit\nagainst six Chicago policemen\nand the City of Chicago for\n100000 alleging brutal beatings\ncaused his death.\n\n\nThe victim arrested on COM\nplant of a drug store manager\nwho reported the disappearance\nof a bottle of whiskey. Bush and\na companion we're identified as\nhaving been In the store at the\ntime.\n\n\nBush was admitted to Cook\nCounty Hospital with a head\nwound. He died shortly afterward.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2083,
+                "y0": 4415,
+                "x1": 2855,
+                "y1": 4631
+            },
+            "class": "headline",
+            "raw_text": "Family Wins $4,000\nIn Death",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2976,
+                "y0": 4955,
+                "x1": 3789,
+                "y1": 5165
+            },
+            "class": "article",
+            "raw_text": "The average house in this coun-\ntry is bombarded with 100000\npounds of rain and snow year.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2976,
+                "y0": 4734,
+                "x1": 3441,
+                "y1": 4927
+            },
+            "class": "headline",
+            "raw_text": "This Doesn't\nH open Here",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1189,
+                "y0": 4833,
+                "x1": 2002,
+                "y1": 5031
+            },
+            "class": "article",
+            "raw_text": "Hotel in Las Vegas.\nHe has appeared in the Copa\nRoom there for % times.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 295,
+                "y0": 4699,
+                "x1": 1242,
+                "y1": 4834
+            },
+            "class": "headline",
+            "raw_text": "Sammy Is Well Liked",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-04-03"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "NAACP IS\n\n\nTOP GROUP",
+            "article": "NEW YORK = The National As\nsociation for the Advancement of\nColored People inspires the\nconfidence of better than nine out\nof every 10 Negroes in Ameri-\nca\" the newly published book.\n\"The Negro Revolution in Amer\nica,\" asserts on the basis of ma\ntionwide poll.\n\n\nThe writer's point out, \"wheth-\ner they are slum dwellers In\nthe North, sharecroppers in the\nSouth, or belong to the rarefied\nstrata of the leadership itself.\n\n\nWilliam Brink and Louis Har-\nris are authors of the volume\npublished last month by Simon and\nSchuster. The book Is based pri-\nmarily upon study made last\nSummer by Louis Harris and\nAssociates, famed for their pub\nlie opinion polls and analyses.\n1t is an expansion of two maya\nzine articles originally published\nlast year in Newsweek magazine.\n\n\nThe survey revealed that Negro\ncitizens rate the NAACP as the\ntop civil rights organization in\nthe country.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2976,
+                    "y0": 2669,
+                    "x1": 3418,
+                    "y1": 2867
+                },
+                {
+                    "x0": 2965,
+                    "y0": 2912,
+                    "x1": 3789,
+                    "y1": 4625
+                }
+            ],
+            "bbox": [
+                2965,
+                2669,
+                3789,
+                4625
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "EASTLAKE\n\n\nPARK NEWS",
+            "article": "Junior high school and high\nschoolers are invited to attend\nfree tap dancing classes at East\nlake Park center starting April\n6 at 7 pm. Instructor will be\nMr.. Budd.\n\n\nEarl Turner will instruct box.\ning starting April E at S pm.\nBoys in grade 5-l2 are eligible.\n\n\nMale volunteer leaders are\nneeded for coaching and manag-\ning baseball and softball teams.\nCall Clarence Jackson. director\n262-6759. |.s\"''2'< -\n\n\nMen are invited to jointhe team\nfor the summer softball league",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3852,
+                    "y0": 2680,
+                    "x1": 4300,
+                    "y1": 2861
+                },
+                {
+                    "x0": 3858,
+                    "y0": 2901,
+                    "x1": 4677,
+                    "y1": 3853
+                }
+            ],
+            "bbox": [
+                3852,
+                2680,
+                4677,
+                3853
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        },
+        {
+            "object_ids": [
+                7,
+                5
+            ],
+            "headline": "Wear Wig\n\n\nNets Please",
+            "article": "LONDON : The British Safety\nCouncil is urging Industrial\nworkers who adopt the Beatles'\nshaggy hair style to wear hair\nnets at work. The council has\nput up $4,000 posters in factory\nlocker rooms showing boy who\nlost his Beatle cut in a machine.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3864,
+                    "y0": 3881,
+                    "x1": 4288,
+                    "y1": 4051
+                },
+                {
+                    "x0": 3846,
+                    "y0": 4079,
+                    "x1": 4660,
+                    "y1": 4550
+                }
+            ],
+            "bbox": [
+                3846,
+                3881,
+                4660,
+                4550
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        },
+        {
+            "object_ids": [
+                8,
+                6
+            ],
+            "headline": "Negro Cadets\nAre Need ed",
+            "article": "WASHINGTON The Pentagon\ncivil rights chief said Tuesday\nthere are only 81 Negro cadets\namong the 1000 men at the Army.\nNavy and Air Force academies\nbecause \"lots of Negro young\nsters just don't dream they have\na chance\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3858,
+                    "y0": 4560,
+                    "x1": 4323,
+                    "y1": 4724
+                },
+                {
+                    "x0": 3846,
+                    "y0": 4746,
+                    "x1": 4660,
+                    "y1": 5211
+                }
+            ],
+            "bbox": [
+                3846,
+                4560,
+                4660,
+                5211
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Sammy Davis, Jr., regarded\nas one of the worlds great per-\nfromers, returned to the Sands",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 284,
+                    "y0": 4856,
+                    "x1": 1115,
+                    "y1": 5043
+                }
+            ],
+            "bbox": [
+                284,
+                4856,
+                1115,
+                5043
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        },
+        {
+            "object_ids": [
+                25,
+                15
+            ],
+            "headline": "Family Wins $4,000\nIn Death",
+            "article": "CHICACO-The family Of Ralph\nBush, a Negro, who died after\nhis arrest by city policemen in\nOct. 1862, received an out OF\ncourt settlement of $4,000.\n\n\nBush's family filed suit\nagainst six Chicago policemen\nand the City of Chicago for\n100000 alleging brutal beatings\ncaused his death.\n\n\nThe victim arrested on COM\nplant of a drug store manager\nwho reported the disappearance\nof a bottle of whiskey. Bush and\na companion we're identified as\nhaving been In the store at the\ntime.\n\n\nBush was admitted to Cook\nCounty Hospital with a head\nwound. He died shortly afterward.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2083,
+                    "y0": 4415,
+                    "x1": 2855,
+                    "y1": 4631
+                },
+                {
+                    "x0": 2088,
+                    "y0": 4618,
+                    "x1": 2907,
+                    "y1": 5838
+                }
+            ],
+            "bbox": [
+                2083,
+                4415,
+                2907,
+                5838
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        },
+        {
+            "object_ids": [
+                12,
+                17
+            ],
+            "headline": "This Doesn't\nH open Here",
+            "article": "The average house in this coun-\ntry is bombarded with 100000\npounds of rain and snow year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2976,
+                    "y0": 4734,
+                    "x1": 3441,
+                    "y1": 4927
+                },
+                {
+                    "x0": 2976,
+                    "y0": 4955,
+                    "x1": 3789,
+                    "y1": 5165
+                }
+            ],
+            "bbox": [
+                2976,
+                4734,
+                3789,
+                5165
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        },
+        {
+            "object_ids": [
+                20,
+                18
+            ],
+            "headline": "Sammy Is Well Liked",
+            "article": "Hotel in Las Vegas.\nHe has appeared in the Copa\nRoom there for % times.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 295,
+                    "y0": 4699,
+                    "x1": 1242,
+                    "y1": 4834
+                },
+                {
+                    "x0": 1189,
+                    "y0": 4833,
+                    "x1": 2002,
+                    "y1": 5031
+                }
+            ],
+            "bbox": [
+                295,
+                4699,
+                2002,
+                5031
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-04-03_p1_sn84021918_0041421695A_1964040301_0352.json"
+        }
+    ]
+}

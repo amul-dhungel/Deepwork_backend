@@ -1,0 +1,311 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0551.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7457,
+        "width": 4890
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2695,
+                "y0": 512,
+                "x1": 3517,
+                "y1": 1999
+            },
+            "class": "article",
+            "raw_text": "Charles F. Harlins, executive\ndirector of the Phoenix Urban\nLeague. has resigned to join\nBay Area Urban League. Oak\nland, Calf.\n\n\nHe will assume his new posi-\ntion as an associate director\non Nov. L.\n\n\nMr.. HarlinS has served for the\npast three and half years as\nexecutive director of the league.\n\n\nHe was the pastor of Wesley\nMethodist Church prior to join\ning the Urban League.\n\n\nHis civic activities include\nserving as a board member of\nthe county chapter of the Amer\nlean Red Cross, Cook Christian\nTraining School, Manpower De-\nvelopment and employment SER\nvice of state peace corps COM\nmittee.\n\n\nHe was recently named vice\nchairman of the Phoenix Housing\nAuthority.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2742,
+                "y0": 308,
+                "x1": 3325,
+                "y1": 490
+            },
+            "class": "headline",
+            "raw_text": "H urIins Resigns\nLeague Post",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2707,
+                "y0": 2202,
+                "x1": 3517,
+                "y1": 2849
+            },
+            "class": "article",
+            "raw_text": "A woman accused of killing a\nPhoenix man by beating him with\na wine bottle, piece of bicycle\ntubing, some Small stones and a\nrubber handle must stand trial in\nSuperior Court Oct. 10 on\ncharge of manslaughter.\n\n\nLoretta Laray Serafacio, %,\nis accused in the fatal beating\nJuly 20 of ]. C. Easley, So, at\nol5 E. Jackson.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2724,
+                "y0": 2050,
+                "x1": 3383,
+                "y1": 2174
+            },
+            "class": "headline",
+            "raw_text": "TRIAL SCHEDULED",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 50,
+                "y0": 2190,
+                "x1": 1735,
+                "y1": 2855
+            },
+            "class": "article",
+            "raw_text": "photohe Es championship for this receives\nPictured Mrs. Clark Mrs. Esther McEroy\nSecond photo right Rnnerup\nincluded Mrs. Louise Becon, Mrs. Maple Pratt, capt. Clavn\nWilliams James McEoy left third place the league\nby Mines Shirley Bops Ruby Backshear and Mr.\nThomas ]. Pratt.\n\n\nght-Recevng BOBBY prizes Mrs. Goldine Pat\nDavid McClammy\n\n\npresident, Carr,\nvice president Mrs. othy Clark, secretary.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1809,
+                "y0": 2382,
+                "x1": 2632,
+                "y1": 2855
+            },
+            "class": "article",
+            "raw_text": "Rev. and Mrs. Clinton H. Royal\nand family, of Philadelphia. spent\ntwo weeks in Florida. They\nWitnessed the hurricane which\nstruck the region.\n\n\nMrs. Royal is the daughter of\nMr.. and Mrs. James L. Davis,\n1910 E. Madison.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1815,
+                "y0": 2225,
+                "x1": 2638,
+                "y1": 2360
+            },
+            "class": "headline",
+            "raw_text": "Coming and Going",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3569,
+                "y0": 576,
+                "x1": 4461,
+                "y1": 3065
+            },
+            "class": "article",
+            "raw_text": "Delegates to the annual Colo\nRADIO conference, Fifth Episco-\npal District, African Methodist\nEpiscopal Church. opposed the\nelection of Sen. Barry G oldwater\nbecause of \"his failure to sup\nport the recently enacted federal\ncivil rights BILL\n\n\nAbout 800 members of the con-\nference from Is states met at\nTanner Chapel, AME Church,\nSept. 8-l3.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHEF\nqualified on the Mach = 2\n\n\nFlO4\n\n\nor recent experience\nvi CSIIIuIy SERIES AIRCRAFT\nRequirements are:\n\n\n/. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n3. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3627,
+                "y0": 343,
+                "x1": 4234,
+                "y1": 548
+            },
+            "class": "headline",
+            "raw_text": "anne Conference\nOpposes Barry",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-09-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                0
+            ],
+            "headline": "H urIins Resigns\nLeague Post",
+            "article": "Charles F. Harlins, executive\ndirector of the Phoenix Urban\nLeague. has resigned to join\nBay Area Urban League. Oak\nland, Calf.\n\n\nHe will assume his new posi-\ntion as an associate director\non Nov. L.\n\n\nMr.. HarlinS has served for the\npast three and half years as\nexecutive director of the league.\n\n\nHe was the pastor of Wesley\nMethodist Church prior to join\ning the Urban League.\n\n\nHis civic activities include\nserving as a board member of\nthe county chapter of the Amer\nlean Red Cross, Cook Christian\nTraining School, Manpower De-\nvelopment and employment SER\nvice of state peace corps COM\nmittee.\n\n\nHe was recently named vice\nchairman of the Phoenix Housing\nAuthority.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2742,
+                    "y0": 308,
+                    "x1": 3325,
+                    "y1": 490
+                },
+                {
+                    "x0": 2695,
+                    "y0": 512,
+                    "x1": 3517,
+                    "y1": 1999
+                }
+            ],
+            "bbox": [
+                2695,
+                308,
+                3517,
+                1999
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-18_p1_sn84021918_0041421695A_1964091801_0551.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "TRIAL SCHEDULED",
+            "article": "A woman accused of killing a\nPhoenix man by beating him with\na wine bottle, piece of bicycle\ntubing, some Small stones and a\nrubber handle must stand trial in\nSuperior Court Oct. 10 on\ncharge of manslaughter.\n\n\nLoretta Laray Serafacio, %,\nis accused in the fatal beating\nJuly 20 of ]. C. Easley, So, at\nol5 E. Jackson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2724,
+                    "y0": 2050,
+                    "x1": 3383,
+                    "y1": 2174
+                },
+                {
+                    "x0": 2707,
+                    "y0": 2202,
+                    "x1": 3517,
+                    "y1": 2849
+                }
+            ],
+            "bbox": [
+                2707,
+                2050,
+                3517,
+                2849
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-18_p1_sn84021918_0041421695A_1964091801_0551.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "photohe Es championship for this receives\nPictured Mrs. Clark Mrs. Esther McEroy\nSecond photo right Rnnerup\nincluded Mrs. Louise Becon, Mrs. Maple Pratt, capt. Clavn\nWilliams James McEoy left third place the league\nby Mines Shirley Bops Ruby Backshear and Mr.\nThomas ]. Pratt.\n\n\nght-Recevng BOBBY prizes Mrs. Goldine Pat\nDavid McClammy\n\n\npresident, Carr,\nvice president Mrs. othy Clark, secretary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 50,
+                    "y0": 2190,
+                    "x1": 1735,
+                    "y1": 2855
+                }
+            ],
+            "bbox": [
+                50,
+                2190,
+                1735,
+                2855
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-18_p1_sn84021918_0041421695A_1964091801_0551.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "Coming and Going",
+            "article": "Rev. and Mrs. Clinton H. Royal\nand family, of Philadelphia. spent\ntwo weeks in Florida. They\nWitnessed the hurricane which\nstruck the region.\n\n\nMrs. Royal is the daughter of\nMr.. and Mrs. James L. Davis,\n1910 E. Madison.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1815,
+                    "y0": 2225,
+                    "x1": 2638,
+                    "y1": 2360
+                },
+                {
+                    "x0": 1809,
+                    "y0": 2382,
+                    "x1": 2632,
+                    "y1": 2855
+                }
+            ],
+            "bbox": [
+                1809,
+                2225,
+                2638,
+                2855
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-18_p1_sn84021918_0041421695A_1964091801_0551.json"
+        },
+        {
+            "object_ids": [
+                4,
+                10
+            ],
+            "headline": "anne Conference\nOpposes Barry",
+            "article": "Delegates to the annual Colo\nRADIO conference, Fifth Episco-\npal District, African Methodist\nEpiscopal Church. opposed the\nelection of Sen. Barry G oldwater\nbecause of \"his failure to sup\nport the recently enacted federal\ncivil rights BILL\n\n\nAbout 800 members of the con-\nference from Is states met at\nTanner Chapel, AME Church,\nSept. 8-l3.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHEF\nqualified on the Mach = 2\n\n\nFlO4\n\n\nor recent experience\nvi CSIIIuIy SERIES AIRCRAFT\nRequirements are:\n\n\n/. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n3. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3627,
+                    "y0": 343,
+                    "x1": 4234,
+                    "y1": 548
+                },
+                {
+                    "x0": 3569,
+                    "y0": 576,
+                    "x1": 4461,
+                    "y1": 3065
+                }
+            ],
+            "bbox": [
+                3569,
+                343,
+                4461,
+                3065
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-18_p1_sn84021918_0041421695A_1964091801_0551.json"
+        }
+    ]
+}

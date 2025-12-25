@@ -1,0 +1,501 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-07",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7430,
+        "width": 4869,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-07",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964080701/0507.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1076,
+                "y0": 516,
+                "x1": 1907,
+                "y1": 2566
+            },
+            "class": "article",
+            "raw_text": "ATLANTA = (NPD At least\na half-million Negroes have been\nadded to voter registration rolls\nin the South this year = but white\nvoters in Dixie still outnumber\nNegroes about E to l..\n\n\nHowever, a steady increase In\nthe number of Negroes regis\ntering in the South is expected\nup until the November elections,\nthe Southern Regional council\nreported last week.\n\n\nThe council reported that as\nof April l, some l,937,982\nNegroes were registered to vote\nin III Southern states.\n\n\n\"This exceeded expectations\"\nsaid Wiley A. Branton, director\nof the councils non-partisan\nMISREPRESENTATION program.\n\n\neff the Presidential election\nis a close one within the South\nern states, the increased Negro\nvote could have great signi-\nficance,\" Branton predicted.\n\n\nThe council report points out\nthat more than 90 per cent or\nmore than three million of the\nNegroes eligible to vote in the\nSouth have not registered.\n\n\nThe Negro registration in\ncreases ranged from $500 in\nMississippi, where the council\nsaid pressure had been heavy,\nto 375, ZOO in Texas.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1105,
+                "y0": 330,
+                "x1": 1593,
+                "y1": 500
+            },
+            "class": "headline",
+            "raw_text": "Negro Voter\n\n\nRolls Increased",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1087,
+                "y0": 2710,
+                "x1": 1901,
+                "y1": 3704
+            },
+            "class": "article",
+            "raw_text": "Huey Johnson. Democrat can\ndidate for legislature in District\n6. said his platform includes\npoints that will improve the south\nside of town which Is the \"Back\ndoor\" Of Phoenix.\n\n\nHe urges a full tax equaliza-\nton program, minimum wage\nlaw for $l.25 per hour, extended\nunemployment compensation for\none year. increased teachers pay\nin the Roosevelt Dist, an urban\nrenewal program and increased\nhealth and recreation facilities.\n\n\nMr.. Johns on, an employee at\nthe General Electric plant lives\nat 6424 S. 23rd Place.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1082,
+                "y0": 2588,
+                "x1": 1709,
+                "y1": 2682
+            },
+            "class": "headline",
+            "raw_text": "Johnson's Platform",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 159,
+                "y0": 499,
+                "x1": 990,
+                "y1": 1550
+            },
+            "class": "article",
+            "raw_text": "NEW YORK : IN Ply : A bust\nof internationally famous concert\nsinger Marian Anderson. which\nhas been exhibited at maj or\nmuseums in the United States\nand Europe, will be presented to\nthe Metr opolitan Opera Associa-\nton at a reception in honor of\nMiss Anderson soon.\n\n\nThe bust, created by sculptor\nNicholaus Koni in 1885 before\nMiss Anderson became world re-\nnowned is being donated by for\nmer ballerina and radio per-\nsonality, Mrs. Herman Muei-\nstein.\n\n\nMiss Anderson was the first\nNegro to sing at the Met.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 176,
+                "y0": 319,
+                "x1": 728,
+                "y1": 476
+            },
+            "class": "headline",
+            "raw_text": "Marian Anderson\nTo Be Honored",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3728,
+                "y0": 1625,
+                "x1": 4542,
+                "y1": 5062
+            },
+            "class": "article",
+            "raw_text": "SNCC Executive Secretary\nJames Forman was raised in\nrural Marshall County. Missis-\nsippi Summer Project.\n\n\nForman was born in chicago in\n1928 and moved back there from\nMississippi. He attended public\nand private schools there and\nspent one semester at Wilson\nJunior College before joining the\nUnited States Air Force. He\nwas honorably discharged in Sep\nTENDER 1851.\n\n\nHe then entered Roosevelt Uni\nversity in Chicago. and was\ngraduated with degree in public\nadministration in 1857. He at\ntended Boston University on a\ngrant from that schools African\nStudies Program. He studied\nthere one year while also serving\nas an assistant in the Govern\nment Department. He has done\npostgraduate study in French and\neducation at Middlebury College\nin Vermont.\n\n\nIn the fall Of 1860, Forman\ntook leave from his school\nteaching job in Chicago to or\nganize the Fayette County CTen-\nnessee) Relief Program and\nhelped set up Tent City, stop\ngap effort to house sharecroppers\nevicted because they tried to\nregister to vote.\n\n\nAt that time, Forman says,\nhe became concerned that young\nNegroes must return to the\nSouth.\n\n\nIn the fall Of 1861 he joined\nthe small staff Of the infant SNCC\noperation. agreeing to serve as\nexecutive secretary. He has\nserved in that post since, and has\ndirected SNCC's growth from a\nIs man, one room organization to\na Southwide group with over $50\nstaff in seven states.\n\n\n\"Those of us in the Student\nCoordinating Com\nmittee have made our CHOICE\"\nForman says. 1--WE prefer to\nwork not for money but for the\nemancipation Of our society. We\nprefer quick death from positive\naction rather than the slow death\nthat one begins to feel when he\nlearns that he is a Negro In\n",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1946,
+                "y0": 4208,
+                "x1": 2760,
+                "y1": 4685
+            },
+            "class": "article",
+            "raw_text": "SAN DIEGO Three Black\nMuslims we're convicted of a\nmeat cleaver attack on a police\nman by an all-white jury.\n\n\nThe eight woman, four man\npanel, which began deliberations\nshortly after noon Friday, found\nDavid Greenwade, \"a; Ebert",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2190,
+                "y0": 4086,
+                "x1": 3184,
+                "y1": 4180
+            },
+            "class": "headline",
+            "raw_text": "3 Convicted IN Police Assuu \\",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2840,
+                "y0": 4208,
+                "x1": 3660,
+                "y1": 4940
+            },
+            "class": "article",
+            "raw_text": "Newborn, 26, and John Percy\nMoore, %, all Of Los Angeles.\nguilty of attempted murder, may\nhem, assault with deadly weapon\nand grand theft.\n\n\nThe charges we're lodged\nagainst the five after rookie\npatrolman Albert ]. Gilman, FL,\nOceanside, Calf, was attacked\nand left for dead beside high\nway early on the morning OF\nApril 22nd.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1964,
+                "y0": 3006,
+                "x1": 3648,
+                "y1": 4081
+            },
+            "class": "article",
+            "raw_text": "Following the Of the baseball major sports\ntopic Julian School playground this week pracced for\nleague games\n\n\nTop photo Class Julian Giants sponsored Rainbow\nMarket and Westward o Investment Co.. training\npose for the\n\n\nFirst from left Calvin Johnson, Rcde Boyd, Victor\nFierros, McEroy, Luther Billy Mcconnell.\n\n\nBack Herbert Jones' BURNS Stars Wayne Warren Joyce\nEvans Albert Engram Chester Marks Bill Staten FELTON,\nCOACH\n\n\nSecond photo pictured Class Julian Dodgers by\nMaurice Cotton\n\n\nFront kneeng Anthony Davis Rcy Owens and Allen uch\nElton Archer White\nford Dixon, James Lee Milton Davis Edward Mr. Cot\n\n\n\nThe team is sponsored by Harley Davis Motorcycles.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 188,
+                "y0": 1816,
+                "x1": 1007,
+                "y1": 1997
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-0511",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 217,
+                "y0": 1561,
+                "x1": 949,
+                "y1": 1800
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 164,
+                "y0": 4190,
+                "x1": 990,
+                "y1": 4551
+            },
+            "class": "article",
+            "raw_text": "FOR RENT\n\n\n2 bedrm.,. new apts.. coolers built\nin range /oven. See resident mgr.\n1892 S. 22nd St. & Vineyard\nApt. 4; $3.50 including free\nwater, 276-825O.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 4936,
+                "y0": 429,
+                "x1": 6156,
+                "y1": 5776
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964080701_0507",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                0
+            ],
+            "headline": "Negro Voter\n\n\nRolls Increased",
+            "article": "ATLANTA = (NPD At least\na half-million Negroes have been\nadded to voter registration rolls\nin the South this year = but white\nvoters in Dixie still outnumber\nNegroes about E to l..\n\n\nHowever, a steady increase In\nthe number of Negroes regis\ntering in the South is expected\nup until the November elections,\nthe Southern Regional council\nreported last week.\n\n\nThe council reported that as\nof April l, some l,937,982\nNegroes were registered to vote\nin III Southern states.\n\n\n\"This exceeded expectations\"\nsaid Wiley A. Branton, director\nof the councils non-partisan\nMISREPRESENTATION program.\n\n\neff the Presidential election\nis a close one within the South\nern states, the increased Negro\nvote could have great signi-\nficance,\" Branton predicted.\n\n\nThe council report points out\nthat more than 90 per cent or\nmore than three million of the\nNegroes eligible to vote in the\nSouth have not registered.\n\n\nThe Negro registration in\ncreases ranged from $500 in\nMississippi, where the council\nsaid pressure had been heavy,\nto 375, ZOO in Texas.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1105,
+                    "y0": 330,
+                    "x1": 1593,
+                    "y1": 500
+                },
+                {
+                    "x0": 1076,
+                    "y0": 516,
+                    "x1": 1907,
+                    "y1": 2566
+                }
+            ],
+            "bbox": [
+                1076,
+                330,
+                1907,
+                2566
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                17,
+                1
+            ],
+            "headline": "Johnson's Platform",
+            "article": "Huey Johnson. Democrat can\ndidate for legislature in District\n6. said his platform includes\npoints that will improve the south\nside of town which Is the \"Back\ndoor\" Of Phoenix.\n\n\nHe urges a full tax equaliza-\nton program, minimum wage\nlaw for $l.25 per hour, extended\nunemployment compensation for\none year. increased teachers pay\nin the Roosevelt Dist, an urban\nrenewal program and increased\nhealth and recreation facilities.\n\n\nMr.. Johns on, an employee at\nthe General Electric plant lives\nat 6424 S. 23rd Place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1082,
+                    "y0": 2588,
+                    "x1": 1709,
+                    "y1": 2682
+                },
+                {
+                    "x0": 1087,
+                    "y0": 2710,
+                    "x1": 1901,
+                    "y1": 3704
+                }
+            ],
+            "bbox": [
+                1082,
+                2588,
+                1901,
+                3704
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "Marian Anderson\nTo Be Honored",
+            "article": "NEW YORK : IN Ply : A bust\nof internationally famous concert\nsinger Marian Anderson. which\nhas been exhibited at maj or\nmuseums in the United States\nand Europe, will be presented to\nthe Metr opolitan Opera Associa-\nton at a reception in honor of\nMiss Anderson soon.\n\n\nThe bust, created by sculptor\nNicholaus Koni in 1885 before\nMiss Anderson became world re-\nnowned is being donated by for\nmer ballerina and radio per-\nsonality, Mrs. Herman Muei-\nstein.\n\n\nMiss Anderson was the first\nNegro to sing at the Met.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 176,
+                    "y0": 319,
+                    "x1": 728,
+                    "y1": 476
+                },
+                {
+                    "x0": 159,
+                    "y0": 499,
+                    "x1": 990,
+                    "y1": 1550
+                }
+            ],
+            "bbox": [
+                159,
+                319,
+                990,
+                1550
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "SNCC Executive Secretary\nJames Forman was raised in\nrural Marshall County. Missis-\nsippi Summer Project.\n\n\nForman was born in chicago in\n1928 and moved back there from\nMississippi. He attended public\nand private schools there and\nspent one semester at Wilson\nJunior College before joining the\nUnited States Air Force. He\nwas honorably discharged in Sep\nTENDER 1851.\n\n\nHe then entered Roosevelt Uni\nversity in Chicago. and was\ngraduated with degree in public\nadministration in 1857. He at\ntended Boston University on a\ngrant from that schools African\nStudies Program. He studied\nthere one year while also serving\nas an assistant in the Govern\nment Department. He has done\npostgraduate study in French and\neducation at Middlebury College\nin Vermont.\n\n\nIn the fall Of 1860, Forman\ntook leave from his school\nteaching job in Chicago to or\nganize the Fayette County CTen-\nnessee) Relief Program and\nhelped set up Tent City, stop\ngap effort to house sharecroppers\nevicted because they tried to\nregister to vote.\n\n\nAt that time, Forman says,\nhe became concerned that young\nNegroes must return to the\nSouth.\n\n\nIn the fall Of 1861 he joined\nthe small staff Of the infant SNCC\noperation. agreeing to serve as\nexecutive secretary. He has\nserved in that post since, and has\ndirected SNCC's growth from a\nIs man, one room organization to\na Southwide group with over $50\nstaff in seven states.\n\n\n\"Those of us in the Student\nCoordinating Com\nmittee have made our CHOICE\"\nForman says. 1--WE prefer to\nwork not for money but for the\nemancipation Of our society. We\nprefer quick death from positive\naction rather than the slow death\nthat one begins to feel when he\nlearns that he is a Negro In\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3728,
+                    "y0": 1625,
+                    "x1": 4542,
+                    "y1": 5062
+                }
+            ],
+            "bbox": [
+                3728,
+                1625,
+                4542,
+                5062
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                21,
+                6
+            ],
+            "headline": "3 Convicted IN Police Assuu \\",
+            "article": "SAN DIEGO Three Black\nMuslims we're convicted of a\nmeat cleaver attack on a police\nman by an all-white jury.\n\n\nThe eight woman, four man\npanel, which began deliberations\nshortly after noon Friday, found\nDavid Greenwade, \"a; Ebert",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2190,
+                    "y0": 4086,
+                    "x1": 3184,
+                    "y1": 4180
+                },
+                {
+                    "x0": 1946,
+                    "y0": 4208,
+                    "x1": 2760,
+                    "y1": 4685
+                }
+            ],
+            "bbox": [
+                1946,
+                4086,
+                3184,
+                4685
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Newborn, 26, and John Percy\nMoore, %, all Of Los Angeles.\nguilty of attempted murder, may\nhem, assault with deadly weapon\nand grand theft.\n\n\nThe charges we're lodged\nagainst the five after rookie\npatrolman Albert ]. Gilman, FL,\nOceanside, Calf, was attacked\nand left for dead beside high\nway early on the morning OF\nApril 22nd.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2840,
+                    "y0": 4208,
+                    "x1": 3660,
+                    "y1": 4940
+                }
+            ],
+            "bbox": [
+                2840,
+                4208,
+                3660,
+                4940
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Following the Of the baseball major sports\ntopic Julian School playground this week pracced for\nleague games\n\n\nTop photo Class Julian Giants sponsored Rainbow\nMarket and Westward o Investment Co.. training\npose for the\n\n\nFirst from left Calvin Johnson, Rcde Boyd, Victor\nFierros, McEroy, Luther Billy Mcconnell.\n\n\nBack Herbert Jones' BURNS Stars Wayne Warren Joyce\nEvans Albert Engram Chester Marks Bill Staten FELTON,\nCOACH\n\n\nSecond photo pictured Class Julian Dodgers by\nMaurice Cotton\n\n\nFront kneeng Anthony Davis Rcy Owens and Allen uch\nElton Archer White\nford Dixon, James Lee Milton Davis Edward Mr. Cot\n\n\n\nThe team is sponsored by Harley Davis Motorcycles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1964,
+                    "y0": 3006,
+                    "x1": 3648,
+                    "y1": 4081
+                }
+            ],
+            "bbox": [
+                1964,
+                3006,
+                3648,
+                4081
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                28,
+                25
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-0511",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 217,
+                    "y0": 1561,
+                    "x1": 949,
+                    "y1": 1800
+                },
+                {
+                    "x0": 188,
+                    "y0": 1816,
+                    "x1": 1007,
+                    "y1": 1997
+                }
+            ],
+            "bbox": [
+                188,
+                1561,
+                1007,
+                1997
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "FOR RENT\n\n\n2 bedrm.,. new apts.. coolers built\nin range /oven. See resident mgr.\n1892 S. 22nd St. & Vineyard\nApt. 4; $3.50 including free\nwater, 276-825O.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 164,
+                    "y0": 4190,
+                    "x1": 990,
+                    "y1": 4551
+                }
+            ],
+            "bbox": [
+                164,
+                4190,
+                990,
+                4551
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-08-07_pna_sn84021918_0041421695A_1964080701_0507.json"
+        }
+    ]
+}

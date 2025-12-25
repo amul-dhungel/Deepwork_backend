@@ -1,0 +1,575 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-13",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7441,
+        "width": 4942,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-13",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964111301/0628.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 366,
+                "y0": 4551,
+                "x1": 2059,
+                "y1": 6430
+            },
+            "class": "article",
+            "raw_text": "safe from liability exercise reasonable\nthough be injured result OF our acts\n\n\nHowever, may ourselves \"strcy liable for the in\nsuffered by others how careful when we\nengage maintain fundamentally which is\ngenerally regarded highly dangerous The OF animal\nvicious class\nSpecies lions bears general rule liable\nfor injuries done by Them This rule\nstrc liability predicated the wrongful and unusti-\nthw keeping animal of Vicious and,\ntherefore, dangerous and is that\nknowledge vicious of wild animal causing\nconcusivey have had such knowledge\n\n\nthe threatened of dangerous\nthe responsibility of the\n\n\noyg them becomes scter; and who has in his possession\nhis control fundamentally exceptionally dangerous\ncharacter nitrogycerne other highly volatile sub\nstances exceptional precautions injury\nbeing done\n\n\nliability for dangerous substances and\ncomparatively development the law 1t\napplicable things such dynamite electricity and\nactivities, such blasting which involve risk of\nserious spite of all possible The however,\nof these taken into consideration\ncustom of the community.\n\n\nTT legal column public super\nof Arizona and is written to inform\nadvise.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 436,
+                "y0": 4307,
+                "x1": 1646,
+                "y1": 4506
+            },
+            "class": "headline",
+            "raw_text": "DISCUSSING ARIZONA LAW\n! I:.kIn n Ma",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 453,
+                "y0": 4464,
+                "x1": 948,
+                "y1": 4535
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3912,
+                "y0": 1098,
+                "x1": 4733,
+                "y1": 2279
+            },
+            "class": "article",
+            "raw_text": "brace hundreds of Negroes who\ncould benefit from it.\n\n\nDuring the pa st years, two ma\ntional Urban League programs\nwere widely utilized In other\ncities. namely, the voters regis\ntration drive and the vocational\nskills training program.\n\n\nHere in Phoenix little was\nheard of these programs or any\nothers. Urban League activities\nshould be made known in order to\nwin support financially as we'll\nis participation.\n\n\nThere are more of the \"have\nnots'' in Phoenix who should\nbe aware of the services offered\nby the Urban League. 1t is time\nfor the Phoenix Urban League to\nhave some new directions.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3575,
+                "y0": 459,
+                "x1": 4570,
+                "y1": 907
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIEws\nAMO REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -3
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3720,
+                "y0": 819,
+                "x1": 4256,
+                "y1": 896
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3174,
+                "y0": 959,
+                "x1": 4622,
+                "y1": 1064
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3017,
+                "y0": 1098,
+                "x1": 3838,
+                "y1": 2279
+            },
+            "class": "article",
+            "raw_text": "Tunius Bowman, the new exc\ncutive director of the Phoenix\nUrban League, has assumed his\nduties. He has great oppor-\ntunity to review the policies ofthe\nleague and set up a more in\nelusive program.\n\n\n1t is hoped that MIR. Bowman\nwill strive to make the Phoenix\nUrban League, which is United\nFund agency, more meaningful\namong more than a handful of\nNegroes.\n\n\nThe Urban League should not\nbecome a center of activities\nfor group who wish to use it\nmrely as a social outlet. The\nleague should aim to present the\nnational program and institute\nlocal programs which will en-",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3023,
+                "y0": 2522,
+                "x1": 3861,
+                "y1": 5064
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Negroes scored\nthe most spectacular political ad-\nvance since Reconstruction in the\nnational elections, Tuesday, No\nvember 8. Negro office seekers,\nfor the first time, won seats\nin four state legislatures and\ngained additional spots in other\nstate houses where they had pre-\nviously served, while winning to\nseveral state judgeships, county\nand city posts.\n\n\nThe top Negro officeholder,\nMa ssachusetts Attorney General\nEdward w. Brooke (Republican),\nwas reelected by 81 margin.\n\n\nDetroit voters sent the sixth\nNegro congressman to Wash\nington and the second from that\ncity when they elected John !.\nConyers Democrat) to the U.s..\nHouse of Repre- sentatives.\n\n\nMIR. Conyers will join the other\nfive whom voters reelected, in\nGuiding Charles c. Diggs, Jr.,\nof Detroit; Adam Clayton Powell\nof New York City; William L.\nDawson of Chicago; Robert c.\nNix of Philadelphia; and Augustus\nF. Hawkins of Los Angeles. All\nare Democrats.\n\n\nStates sending Negroes to their\nlegislatures for the first time\nincluded Iowa, 2; Oklahoma, 8;\nDelaware, Kansas and Tennessee\none each.\n\n\nNew York and New Jersey\nvoters picked additional Negroes\nto repre- sent them. In New York\nArthur Hardwicke, Jr., of Buff\nfalo; Kenneth N. Browne of\nQueens; and William Thompson\nof Brooklyn we're the three Sc",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3180,
+                "y0": 2366,
+                "x1": 4663,
+                "y1": 2500
+            },
+            "class": "headline",
+            "raw_text": "MORE OFFICES WON BY NEGROES",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3918,
+                "y0": 2522,
+                "x1": 4750,
+                "y1": 5006
+            },
+            "class": "article",
+            "raw_text": "lected. A total of nine Negroes\nwere among those elected to the\nNew York State Legislature. This\nincluded the reelection of Mrs.\nConstance Baker Motley to the\nState Senate.\n\n\nGeorgia voters not only sent\nLeroy Johnson back to the State\nSenate but elected another\nNegro : Horace Ward = to that\nbody also. Other states reflect\ning Negro incumbents included\nWa shington, Ohio, Arizona and\nNebra ska.\n\n\nNegroes also picked up more\nseats in the Legislatures of In\ndiana, California and Ma ssa-\nchusetts.\n\n\nFirst we're scored when a\nNegro was picked for a district\nJudge in Colorado and when two\nNegroes gained seats on the New\nYork State Supreme Court bench.\nThe New Workers we're Edward\nR. Dudley, former Manhattan\nBorough President, and Darwin\nw. Telesford.\n\n\nIn Illinois, Theodore A. Jones\n\n\n\nwas elected University of\nIllinois trustee by more than\n100000 votes.\n\n\nFour Negroes won offices in\nMacon County (Birmingham) Ala\nbama. Elected we're Rev. V. A.\nEdwards, Board of Revenue;\nCharles c. Condition, School\nBoard; William c. Allen and\nWilliam ]. Childs, Justices of\nthe Peace.\n\n\nSavannah, Ca, gained it first\nNegro city councilman in recent\nhistory.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 331,
+                "y0": 2156,
+                "x1": 2030,
+                "y1": 4215
+            },
+            "class": "article",
+            "raw_text": "The first Negro to serve as the attorney\ngeneral of MasSa chusettS, EdsOaYd Brooke,\nNON his second term ON the Republican ticket.\nHe had refused to support Barry G0ld,OuteY\nand he re ceived an oUe1z0lae inning victoyy\nfrom many Democrats aO)ao split their UOtes.\n\n\nHIS U5ctoYy can not be labeled as racial\nbe cause Negroes COMPRISE only small bOY-\nton Of the population in Massa cKusetts.\nBroOke's Uicto1y can be attributed to his\nability and personality. He has been a ded-\nicated Republican Party yorker for many\nyears and said he could not support the\nbaaty's presidential nominee be cause he\nfelt their PHILOSOPHERS weYe too different.\n\n\nIn a nationwide telec0St last Sunday, Mr.:\nBrooke, the highest elected official Of his\nrace, Teaft597ned his belief in the Rebubh-\ncan Party, but felt that party leaders should\nbegin to rebuild the party SO that minority\ngroups aOill be reached.\n\n\nEduuYd ByoOke's de- isive victory clearly\nShows that the color Of skin is becoming less\na factor in politics as in other areas.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 849,
+                "y0": 1982,
+                "x1": 1588,
+                "y1": 2122
+            },
+            "class": "headline",
+            "raw_text": "BROOKE WINS",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2128,
+                "y0": 1023,
+                "x1": 2977,
+                "y1": 6599
+            },
+            "class": "article",
+            "raw_text": "have been plagued by drippy\nspouts in the bathroom and kit\nchen.\n\n\nAnother source of irritation is\nthe malfunction In the water\ncloset fthe lavatory. Sometimes\nthe ball refuses to perform as\n1t should and the sound of water\ncontinues until the repairs are\nmade.\n\n\nHave you ever been forced to\ntelephone the plumber after tin\nkering for hours on the faucet\nor water closet7 Did he arrive\nand ca silly make the repair then\npresent you staggering blow\nthe bill for eight or ten dollars7\n\n\nWhen he left your domicile have\nyou wished that you had a wee\npart of his trade secrets7 Have\nyou thought of enrolling in a\nplumbing urse7 Have you hoped\nthat some inventor would make\nleakless faucet or a waterless\nlavatory7\n\n\nNo earth shaking inventions\nhave been patented yet which\nwould keep our plumbing woes\naway. However, the u. S. De-\npartment ofAgriculture ha S come\nto the aid of us who are subject\nto leaky faucets or other plumbing\ntroubles.\n\n\nPrepared by the agricultural\nengineering research division of\nthe Agricultural Research Ser\nvice, a bulletin, Farmers Bull\nletin No. 22O2, \"Simple Plumbing\nRepairs for the Home and Farm\nstead\" was recently issued.\n\n\nFor a dime, ten cents or ten\npennies. you can\" save money and\navoid delays by making minor\nplumbing repairs\" The table of\ncontents reveals intere sting\ntopics including repairing water\nfaucets, pipes, and closets: frost\nproofing MIGRANTS: thawing frozen\nwater pipes: and clearing clogged\nfixture and floor drains.\n\n\nTwo pages in the sixteen page\nbulletin are devoted to listing\ntools and parts required for re-\npair work and what to do in\nca ses of emergency.\n\n\nAfter reading the booklet and\nattempting to stop water closet\n| decided it is ca sier though\ncostlier to call your friend, the\nplumber.\n\n\nThe basic tools required to\nhave for simple home repairs\ninclude all types and sizes of\nwrenches, screwdrivers to fit\nall pipes, fixtures and fittings,\na ball peen hammer. rubber\nforce cup plunger. cold chisel,\na center punch, cleanout auger,\nfriction tape and pair of ad-\nUnstable pliers.\n\n\nA dozen more additional tools\nare listed for more extensive re-\npair work. Spare parts which\nalso may be needed are listed in\nanother column.\n\n\nThe most intriguing portion of\nthe booklet Is the first paragraph\nwritten under the subtitle\n\"Emergencies.\" 1t instructs\nreaders to keep the name,\nadore IS, and phone number of\nplumber offering \"a hour service\nposted in a ca sy to reach place.\n\n\nPerhaps the vacant space on\nthe last page is provided for\nnames and other pertinent in\nformation needed by those per-\nsons who start their simple re-\npair jobs.\n\n\nOne would need the names and\nphone numbers of the water COM\npany, the electric company. the\nnearest plumber (who will charge\nthe lea st amount), and the plum\nha- ,,,ho will Copoo froCo Y.dlocc",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2145,
+                "y0": 412,
+                "x1": 2931,
+                "y1": 634
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELotse BANKS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2151,
+                "y0": 668,
+                "x1": 2687,
+                "y1": 779
+            },
+            "class": "headline",
+            "raw_text": "Sim pie Drip",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 401,
+                "y0": 965,
+                "x1": 2018,
+                "y1": 1907
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, PUBL 'sHER-Eo'ToR\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nEsTAeL SHED JULY 10, 1888\n\n\nPUBLISHED\n\n\nCOMPANY\n27e-23oI\nADDRESS O. szAe, PHOENIX, ARiZ. s5oAo\nT PHOENIX, ARIZONA\nALL S EVILS OF OUR\nTIMES IS TO 90 JUSTICE FREEDOM.\n~\nAnzo61 NwspAptRs ASSOCIATION AMAIeAMATEo PUBL 'sHERs\nt\n- NEW YORK",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 384,
+                "y0": 435,
+                "x1": 1983,
+                "y1": 867
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 19,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 942,
+                "y0": 895,
+                "x1": 1495,
+                "y1": 966
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964111301_0628",
+    "full articles": [
+        {
+            "object_ids": [
+                16,
+                22,
+                0
+            ],
+            "headline": "DISCUSSING ARIZONA LAW\n! I:.kIn n Ma\n\n",
+            "article": "safe from liability exercise reasonable\nthough be injured result OF our acts\n\n\nHowever, may ourselves \"strcy liable for the in\nsuffered by others how careful when we\nengage maintain fundamentally which is\ngenerally regarded highly dangerous The OF animal\nvicious class\nSpecies lions bears general rule liable\nfor injuries done by Them This rule\nstrc liability predicated the wrongful and unusti-\nthw keeping animal of Vicious and,\ntherefore, dangerous and is that\nknowledge vicious of wild animal causing\nconcusivey have had such knowledge\n\n\nthe threatened of dangerous\nthe responsibility of the\n\n\noyg them becomes scter; and who has in his possession\nhis control fundamentally exceptionally dangerous\ncharacter nitrogycerne other highly volatile sub\nstances exceptional precautions injury\nbeing done\n\n\nliability for dangerous substances and\ncomparatively development the law 1t\napplicable things such dynamite electricity and\nactivities, such blasting which involve risk of\nserious spite of all possible The however,\nof these taken into consideration\ncustom of the community.\n\n\nTT legal column public super\nof Arizona and is written to inform\nadvise.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 436,
+                    "y0": 4307,
+                    "x1": 1646,
+                    "y1": 4506
+                },
+                {
+                    "x0": 453,
+                    "y0": 4464,
+                    "x1": 948,
+                    "y1": 4535
+                },
+                {
+                    "x0": 366,
+                    "y0": 4551,
+                    "x1": 2059,
+                    "y1": 6430
+                }
+            ],
+            "bbox": [
+                366,
+                4307,
+                2059,
+                6430
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        },
+        {
+            "object_ids": [
+                9,
+                23,
+                15,
+                1
+            ],
+            "headline": "Views, pRevIEws\nAMO REVIEWS\n\n\nEdward Banks\n\n",
+            "article": "brace hundreds of Negroes who\ncould benefit from it.\n\n\nDuring the pa st years, two ma\ntional Urban League programs\nwere widely utilized In other\ncities. namely, the voters regis\ntration drive and the vocational\nskills training program.\n\n\nHere in Phoenix little was\nheard of these programs or any\nothers. Urban League activities\nshould be made known in order to\nwin support financially as we'll\nis participation.\n\n\nThere are more of the \"have\nnots'' in Phoenix who should\nbe aware of the services offered\nby the Urban League. 1t is time\nfor the Phoenix Urban League to\nhave some new directions.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3575,
+                    "y0": 459,
+                    "x1": 4570,
+                    "y1": 907
+                },
+                {
+                    "x0": 3720,
+                    "y0": 819,
+                    "x1": 4256,
+                    "y1": 896
+                },
+                {
+                    "x0": 3174,
+                    "y0": 959,
+                    "x1": 4622,
+                    "y1": 1064
+                },
+                {
+                    "x0": 3912,
+                    "y0": 1098,
+                    "x1": 4733,
+                    "y1": 2279
+                }
+            ],
+            "bbox": [
+                3174,
+                459,
+                4733,
+                2279
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Tunius Bowman, the new exc\ncutive director of the Phoenix\nUrban League, has assumed his\nduties. He has great oppor-\ntunity to review the policies ofthe\nleague and set up a more in\nelusive program.\n\n\n1t is hoped that MIR. Bowman\nwill strive to make the Phoenix\nUrban League, which is United\nFund agency, more meaningful\namong more than a handful of\nNegroes.\n\n\nThe Urban League should not\nbecome a center of activities\nfor group who wish to use it\nmrely as a social outlet. The\nleague should aim to present the\nnational program and institute\nlocal programs which will en-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3017,
+                    "y0": 1098,
+                    "x1": 3838,
+                    "y1": 2279
+                }
+            ],
+            "bbox": [
+                3017,
+                1098,
+                3838,
+                2279
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "MORE OFFICES WON BY NEGROES",
+            "article": "NEW YORK = Negroes scored\nthe most spectacular political ad-\nvance since Reconstruction in the\nnational elections, Tuesday, No\nvember 8. Negro office seekers,\nfor the first time, won seats\nin four state legislatures and\ngained additional spots in other\nstate houses where they had pre-\nviously served, while winning to\nseveral state judgeships, county\nand city posts.\n\n\nThe top Negro officeholder,\nMa ssachusetts Attorney General\nEdward w. Brooke (Republican),\nwas reelected by 81 margin.\n\n\nDetroit voters sent the sixth\nNegro congressman to Wash\nington and the second from that\ncity when they elected John !.\nConyers Democrat) to the U.s..\nHouse of Repre- sentatives.\n\n\nMIR. Conyers will join the other\nfive whom voters reelected, in\nGuiding Charles c. Diggs, Jr.,\nof Detroit; Adam Clayton Powell\nof New York City; William L.\nDawson of Chicago; Robert c.\nNix of Philadelphia; and Augustus\nF. Hawkins of Los Angeles. All\nare Democrats.\n\n\nStates sending Negroes to their\nlegislatures for the first time\nincluded Iowa, 2; Oklahoma, 8;\nDelaware, Kansas and Tennessee\none each.\n\n\nNew York and New Jersey\nvoters picked additional Negroes\nto repre- sent them. In New York\nArthur Hardwicke, Jr., of Buff\nfalo; Kenneth N. Browne of\nQueens; and William Thompson\nof Brooklyn we're the three Sc",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3180,
+                    "y0": 2366,
+                    "x1": 4663,
+                    "y1": 2500
+                },
+                {
+                    "x0": 3023,
+                    "y0": 2522,
+                    "x1": 3861,
+                    "y1": 5064
+                }
+            ],
+            "bbox": [
+                3023,
+                2366,
+                4663,
+                5064
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "lected. A total of nine Negroes\nwere among those elected to the\nNew York State Legislature. This\nincluded the reelection of Mrs.\nConstance Baker Motley to the\nState Senate.\n\n\nGeorgia voters not only sent\nLeroy Johnson back to the State\nSenate but elected another\nNegro : Horace Ward = to that\nbody also. Other states reflect\ning Negro incumbents included\nWa shington, Ohio, Arizona and\nNebra ska.\n\n\nNegroes also picked up more\nseats in the Legislatures of In\ndiana, California and Ma ssa-\nchusetts.\n\n\nFirst we're scored when a\nNegro was picked for a district\nJudge in Colorado and when two\nNegroes gained seats on the New\nYork State Supreme Court bench.\nThe New Workers we're Edward\nR. Dudley, former Manhattan\nBorough President, and Darwin\nw. Telesford.\n\n\nIn Illinois, Theodore A. Jones\n\n\n\nwas elected University of\nIllinois trustee by more than\n100000 votes.\n\n\nFour Negroes won offices in\nMacon County (Birmingham) Ala\nbama. Elected we're Rev. V. A.\nEdwards, Board of Revenue;\nCharles c. Condition, School\nBoard; William c. Allen and\nWilliam ]. Childs, Justices of\nthe Peace.\n\n\nSavannah, Ca, gained it first\nNegro city councilman in recent\nhistory.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3918,
+                    "y0": 2522,
+                    "x1": 4750,
+                    "y1": 5006
+                }
+            ],
+            "bbox": [
+                3918,
+                2522,
+                4750,
+                5006
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        },
+        {
+            "object_ids": [
+                14,
+                6
+            ],
+            "headline": "BROOKE WINS",
+            "article": "The first Negro to serve as the attorney\ngeneral of MasSa chusettS, EdsOaYd Brooke,\nNON his second term ON the Republican ticket.\nHe had refused to support Barry G0ld,OuteY\nand he re ceived an oUe1z0lae inning victoyy\nfrom many Democrats aO)ao split their UOtes.\n\n\nHIS U5ctoYy can not be labeled as racial\nbe cause Negroes COMPRISE only small bOY-\nton Of the population in Massa cKusetts.\nBroOke's Uicto1y can be attributed to his\nability and personality. He has been a ded-\nicated Republican Party yorker for many\nyears and said he could not support the\nbaaty's presidential nominee be cause he\nfelt their PHILOSOPHERS weYe too different.\n\n\nIn a nationwide telec0St last Sunday, Mr.:\nBrooke, the highest elected official Of his\nrace, Teaft597ned his belief in the Rebubh-\ncan Party, but felt that party leaders should\nbegin to rebuild the party SO that minority\ngroups aOill be reached.\n\n\nEduuYd ByoOke's de- isive victory clearly\nShows that the color Of skin is becoming less\na factor in politics as in other areas.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 849,
+                    "y0": 1982,
+                    "x1": 1588,
+                    "y1": 2122
+                },
+                {
+                    "x0": 331,
+                    "y0": 2156,
+                    "x1": 2030,
+                    "y1": 4215
+                }
+            ],
+            "bbox": [
+                331,
+                1982,
+                2030,
+                4215
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        },
+        {
+            "object_ids": [
+                17,
+                12,
+                10
+            ],
+            "headline": "Sights and Sounds\nELotse BANKS\n\nSim pie Drip",
+            "article": "have been plagued by drippy\nspouts in the bathroom and kit\nchen.\n\n\nAnother source of irritation is\nthe malfunction In the water\ncloset fthe lavatory. Sometimes\nthe ball refuses to perform as\n1t should and the sound of water\ncontinues until the repairs are\nmade.\n\n\nHave you ever been forced to\ntelephone the plumber after tin\nkering for hours on the faucet\nor water closet7 Did he arrive\nand ca silly make the repair then\npresent you staggering blow\nthe bill for eight or ten dollars7\n\n\nWhen he left your domicile have\nyou wished that you had a wee\npart of his trade secrets7 Have\nyou thought of enrolling in a\nplumbing urse7 Have you hoped\nthat some inventor would make\nleakless faucet or a waterless\nlavatory7\n\n\nNo earth shaking inventions\nhave been patented yet which\nwould keep our plumbing woes\naway. However, the u. S. De-\npartment ofAgriculture ha S come\nto the aid of us who are subject\nto leaky faucets or other plumbing\ntroubles.\n\n\nPrepared by the agricultural\nengineering research division of\nthe Agricultural Research Ser\nvice, a bulletin, Farmers Bull\nletin No. 22O2, \"Simple Plumbing\nRepairs for the Home and Farm\nstead\" was recently issued.\n\n\nFor a dime, ten cents or ten\npennies. you can\" save money and\navoid delays by making minor\nplumbing repairs\" The table of\ncontents reveals intere sting\ntopics including repairing water\nfaucets, pipes, and closets: frost\nproofing MIGRANTS: thawing frozen\nwater pipes: and clearing clogged\nfixture and floor drains.\n\n\nTwo pages in the sixteen page\nbulletin are devoted to listing\ntools and parts required for re-\npair work and what to do in\nca ses of emergency.\n\n\nAfter reading the booklet and\nattempting to stop water closet\n| decided it is ca sier though\ncostlier to call your friend, the\nplumber.\n\n\nThe basic tools required to\nhave for simple home repairs\ninclude all types and sizes of\nwrenches, screwdrivers to fit\nall pipes, fixtures and fittings,\na ball peen hammer. rubber\nforce cup plunger. cold chisel,\na center punch, cleanout auger,\nfriction tape and pair of ad-\nUnstable pliers.\n\n\nA dozen more additional tools\nare listed for more extensive re-\npair work. Spare parts which\nalso may be needed are listed in\nanother column.\n\n\nThe most intriguing portion of\nthe booklet Is the first paragraph\nwritten under the subtitle\n\"Emergencies.\" 1t instructs\nreaders to keep the name,\nadore IS, and phone number of\nplumber offering \"a hour service\nposted in a ca sy to reach place.\n\n\nPerhaps the vacant space on\nthe last page is provided for\nnames and other pertinent in\nformation needed by those per-\nsons who start their simple re-\npair jobs.\n\n\nOne would need the names and\nphone numbers of the water COM\npany, the electric company. the\nnearest plumber (who will charge\nthe lea st amount), and the plum\nha- ,,,ho will Copoo froCo Y.dlocc",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2145,
+                    "y0": 412,
+                    "x1": 2931,
+                    "y1": 634
+                },
+                {
+                    "x0": 2151,
+                    "y0": 668,
+                    "x1": 2687,
+                    "y1": 779
+                },
+                {
+                    "x0": 2128,
+                    "y0": 1023,
+                    "x1": 2977,
+                    "y1": 6599
+                }
+            ],
+            "bbox": [
+                2128,
+                412,
+                2977,
+                6599
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        },
+        {
+            "object_ids": [
+                19,
+                21,
+                18
+            ],
+            "headline": "\n\n",
+            "article": "EDWARD BANKS, PUBL 'sHER-Eo'ToR\n\n\nELOlSE BANKS, ASSISTANT EDITOR\n\n\nEsTAeL SHED JULY 10, 1888\n\n\nPUBLISHED\n\n\nCOMPANY\n27e-23oI\nADDRESS O. szAe, PHOENIX, ARiZ. s5oAo\nT PHOENIX, ARIZONA\nALL S EVILS OF OUR\nTIMES IS TO 90 JUSTICE FREEDOM.\n~\nAnzo61 NwspAptRs ASSOCIATION AMAIeAMATEo PUBL 'sHERs\nt\n- NEW YORK",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 384,
+                    "y0": 435,
+                    "x1": 1983,
+                    "y1": 867
+                },
+                {
+                    "x0": 942,
+                    "y0": 895,
+                    "x1": 1495,
+                    "y1": 966
+                },
+                {
+                    "x0": 401,
+                    "y0": 965,
+                    "x1": 2018,
+                    "y1": 1907
+                }
+            ],
+            "bbox": [
+                384,
+                435,
+                2018,
+                1907
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-11-13_pna_sn84021918_0041421695A_1964111301_0628.json"
+        }
+    ]
+}

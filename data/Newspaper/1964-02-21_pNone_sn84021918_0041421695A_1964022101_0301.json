@@ -1,0 +1,622 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-21",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4761,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-21",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022101/0301.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3753,
+                "y0": 6973,
+                "x1": 4553,
+                "y1": 7096
+            },
+            "class": "article",
+            "raw_text": "for his wife, Sum-, Feb. Is. Many\nrelatives and friends attended.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3150,
+                "y0": 6857,
+                "x1": 4234,
+                "y1": 6957
+            },
+            "class": "headline",
+            "raw_text": "Mrs. Davis Feted On Birthday",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 2901,
+                "y0": 2565,
+                "x1": 4570,
+                "y1": 3059
+            },
+            "class": "article",
+            "raw_text": "Minnie Lou Guyton discusses her promotion witt\ndirector Casey Kozo Motoroas Semconducto\nProducts Division.\n\n\nMrs. Guyon recepions the division building She\nemployed Motorola May 1862, key punch\noperator the IBM Data Processing Dept.\n\n\nsupervisor Mrs. Guyon qualified and we'll liked\nfellow workers. (Photo-Motorola Public Relations)",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1969,
+                "y0": 1488,
+                "x1": 2798,
+                "y1": 3250
+            },
+            "class": "article",
+            "raw_text": "Suspended from classes 3days\nare the seven Carl Hayden High\nSchool students who were found\nresponsible for distribution on\ncampus of an unauthorized school\nnewspaper.\n\n\nHarry E. White, principal, said\nthat on return to school the\nstudents also will be required to\napologize to the student body in\nan assembly.\n\n\nThe youths had written and\nmimeographed a 23-page news\npaper, ''Hayden Headlights\"\nwhich in satirical style was ctit-\nical of some student organiza-\ntons. school administrators,\nfaculty, and policies.\n\n\nMost offensive in the literary\neffort, White said, was a poem\nadvising the Negro to \"show the\nbully (white many you too can\nfight\" The poem referred to the\nNegro as \"niggar.\"\n\n\nWhite said the youths involved\nwe're ACCIDENTALLY good students,\ntalented and not discipline prob\nlens. Their efforts at free ex-\nPRESTON\" he said. we're in poor\ntaste.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1986,
+                "y0": 1227,
+                "x1": 2694,
+                "y1": 1466
+            },
+            "class": "headline",
+            "raw_text": "Unauthorized Editors\n0usted From\nHAYDEN High",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1986,
+                "y0": 4969,
+                "x1": 2810,
+                "y1": 6134
+            },
+            "class": "article",
+            "raw_text": "Ruby Lee Bates, AZ, was found\nnot guilty in Superior Court Of the\nAug. l6 gunshot Staying Of her\nformer boy friend. Josh Myles\nJr., As.\n\n\nProsecutor Robert Corcoran\nargued during her trial on a\ncharge of murder undesignated,\nthat she hurled a bottle contain\ning hydrochloric acid at Myles\nand then shot him when the pair\nhad a lovers quarrel in her\napartment at OLA w. Grant.\n\n\nDefense attorney V. L. Hash\nmaintained Miss Bates shot\nMyles in self-defense after the\nvictim violated the legal sane\ntity of her home and threatened\nher if she did not submit to his\nadvances.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1986,
+                "y0": 4691,
+                "x1": 2624,
+                "y1": 4953
+            },
+            "class": "headline",
+            "raw_text": "Ruby Bates Freed\nIn Staying Trial\nOf Boyfriend",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1975,
+                "y0": 3515,
+                "x1": 2804,
+                "y1": 4681
+            },
+            "class": "article",
+            "raw_text": "PINE BLUFF. ARK. = Negro\ncomedian Dick Gregory and a\nwhite civil rights organizer were\narrested when they refused to\nleave a segregated restaurant.\n\n\nThe sheriff s office said they\nwere held in the county Jail.\n\"They could have made bond If\nthey had wanted to-\" a deputy\nsaid.\n\n\nHe said bond would be $500.\n\n\nGregory. whose home is in\nChicago, became widely known\nfor the barbs he hurled at seq\nregaion In television and night\nclub appearances.\n\n\nArrested with him was VIII\nliam Hansen, a field secretary\nfor the Student Nonviolent Co\nordinating Committee.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1986,
+                "y0": 3307,
+                "x1": 2590,
+                "y1": 3493
+            },
+            "class": "headline",
+            "raw_text": "Dick Gregory\n\n\njailed For Sit In",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1969,
+                "y0": 6359,
+                "x1": 2786,
+                "y1": 7119
+            },
+            "class": "article",
+            "raw_text": "TUCSON The Tucson Com\nmission on Human Relations said\n1t would ask more than 500, 900\nTucson families to sign voluntary\npledges of nondiscrimination In\nhousing.\n\n\nThe commi ssion siad the drive\nhas been approved by Catholic,\nProtestant and Jewish leaders.\n\n\nUnder the pledge, families\nwould voluntarily welcome new\nneighbors regardless Of race or\ncreed.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1992,
+                "y0": 6157,
+                "x1": 2653,
+                "y1": 6337
+            },
+            "class": "headline",
+            "raw_text": "Anti-Bius Petitions\nIssued In Tucson",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2884,
+                "y0": 4477,
+                "x1": 4576,
+                "y1": 4970
+            },
+            "class": "article",
+            "raw_text": "The Junior and Senior Missionary Circles of Union Baptist Church\nhosted bridal shower for Miss Dolores Gordon.\n\n\nFront includes Mrs. Opal Griffin Miss Ruby Brown, Miss\nLenora Gipson and Miss Daisy Demery.\n\n\nSecond Estalla Black Pee\nhonoree, and Mrs. Dolie Heard.\n\n\nThird row-mes Lorena Minis Dorothy McCun Beverly Furch\nCarolyn Carr, Christine Day and Rose Jackson.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 220,
+                "y0": 6881,
+                "x1": 1031,
+                "y1": 7125
+            },
+            "class": "article",
+            "raw_text": "Shiloh Baptist Church. 90l w.\nBuckeye, Rev.S.T Miller. pastor.\nChurch groups will observe the\n10th anniversary of founding Feb.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 416,
+                "y0": 6736,
+                "x1": 1703,
+                "y1": 6853
+            },
+            "class": "headline",
+            "raw_text": "SHILOH CHURCH 40th YEAR BEGINS",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1112,
+                "y0": 6886,
+                "x1": 1923,
+                "y1": 7084
+            },
+            "class": "article",
+            "raw_text": "20-23. Rev. w. M. Harrison,\nof Willow Grove Baptist Church,\nwill be speaker, Feb. %, 8 pm.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2867,
+                "y0": 6979,
+                "x1": 3684,
+                "y1": 7113
+            },
+            "class": "article",
+            "raw_text": "James l.. Davis, 1910 E. Mad\nison, hosted a birthday dinner",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2884,
+                "y0": 6481,
+                "x1": 4559,
+                "y1": 6829
+            },
+            "class": "article",
+            "raw_text": "Sir Alexander Bustamane Prime Minister of jamaica displays\nthe Life Membership National Association for the Ad\nCoored People, presented to him recently\nby Field Secretary Colin Cromwell (second from righ\nMrs. Cromwell",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 196,
+                "y0": 2681,
+                "x1": 1889,
+                "y1": 3233
+            },
+            "class": "article",
+            "raw_text": "Alpha Epsilon Sigma Chapter Phi Beta Sigma fraternity pre-\nscented its Sweetheart Ball. Sat- Feb. 5 at Round\nUp Room, Hotel Adams.\n\n\nPresident the winner Miss Janee Smith,\nPhoenix College who the daughter of Mr. and Mrs. Her\nSmith.\n\n\nShe received scholarship and US. savings bond.\n\n\nleft Misses Wilma Ecces Roberta\nWard.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964022101_0301",
+    "full articles": [
+        {
+            "object_ids": [
+                29,
+                31
+            ],
+            "headline": "Mrs. Davis Feted On Birthday",
+            "article": "for his wife, Sum-, Feb. Is. Many\nrelatives and friends attended.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3150,
+                    "y0": 6857,
+                    "x1": 4234,
+                    "y1": 6957
+                },
+                {
+                    "x0": 3753,
+                    "y0": 6973,
+                    "x1": 4553,
+                    "y1": 7096
+                }
+            ],
+            "bbox": [
+                3150,
+                6857,
+                4553,
+                7096
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "Minnie Lou Guyton discusses her promotion witt\ndirector Casey Kozo Motoroas Semconducto\nProducts Division.\n\n\nMrs. Guyon recepions the division building She\nemployed Motorola May 1862, key punch\noperator the IBM Data Processing Dept.\n\n\nsupervisor Mrs. Guyon qualified and we'll liked\nfellow workers. (Photo-Motorola Public Relations)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2901,
+                    "y0": 2565,
+                    "x1": 4570,
+                    "y1": 3059
+                }
+            ],
+            "bbox": [
+                2901,
+                2565,
+                4570,
+                3059
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Unauthorized Editors\n0usted From\nHAYDEN High",
+            "article": "Suspended from classes 3days\nare the seven Carl Hayden High\nSchool students who were found\nresponsible for distribution on\ncampus of an unauthorized school\nnewspaper.\n\n\nHarry E. White, principal, said\nthat on return to school the\nstudents also will be required to\napologize to the student body in\nan assembly.\n\n\nThe youths had written and\nmimeographed a 23-page news\npaper, ''Hayden Headlights\"\nwhich in satirical style was ctit-\nical of some student organiza-\ntons. school administrators,\nfaculty, and policies.\n\n\nMost offensive in the literary\neffort, White said, was a poem\nadvising the Negro to \"show the\nbully (white many you too can\nfight\" The poem referred to the\nNegro as \"niggar.\"\n\n\nWhite said the youths involved\nwe're ACCIDENTALLY good students,\ntalented and not discipline prob\nlens. Their efforts at free ex-\nPRESTON\" he said. we're in poor\ntaste.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1986,
+                    "y0": 1227,
+                    "x1": 2694,
+                    "y1": 1466
+                },
+                {
+                    "x0": 1969,
+                    "y0": 1488,
+                    "x1": 2798,
+                    "y1": 3250
+                }
+            ],
+            "bbox": [
+                1969,
+                1227,
+                2798,
+                3250
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "Ruby Bates Freed\nIn Staying Trial\nOf Boyfriend",
+            "article": "Ruby Lee Bates, AZ, was found\nnot guilty in Superior Court Of the\nAug. l6 gunshot Staying Of her\nformer boy friend. Josh Myles\nJr., As.\n\n\nProsecutor Robert Corcoran\nargued during her trial on a\ncharge of murder undesignated,\nthat she hurled a bottle contain\ning hydrochloric acid at Myles\nand then shot him when the pair\nhad a lovers quarrel in her\napartment at OLA w. Grant.\n\n\nDefense attorney V. L. Hash\nmaintained Miss Bates shot\nMyles in self-defense after the\nvictim violated the legal sane\ntity of her home and threatened\nher if she did not submit to his\nadvances.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1986,
+                    "y0": 4691,
+                    "x1": 2624,
+                    "y1": 4953
+                },
+                {
+                    "x0": 1986,
+                    "y0": 4969,
+                    "x1": 2810,
+                    "y1": 6134
+                }
+            ],
+            "bbox": [
+                1986,
+                4691,
+                2810,
+                6134
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                13,
+                6
+            ],
+            "headline": "Dick Gregory\n\n\njailed For Sit In",
+            "article": "PINE BLUFF. ARK. = Negro\ncomedian Dick Gregory and a\nwhite civil rights organizer were\narrested when they refused to\nleave a segregated restaurant.\n\n\nThe sheriff s office said they\nwere held in the county Jail.\n\"They could have made bond If\nthey had wanted to-\" a deputy\nsaid.\n\n\nHe said bond would be $500.\n\n\nGregory. whose home is in\nChicago, became widely known\nfor the barbs he hurled at seq\nregaion In television and night\nclub appearances.\n\n\nArrested with him was VIII\nliam Hansen, a field secretary\nfor the Student Nonviolent Co\nordinating Committee.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1986,
+                    "y0": 3307,
+                    "x1": 2590,
+                    "y1": 3493
+                },
+                {
+                    "x0": 1975,
+                    "y0": 3515,
+                    "x1": 2804,
+                    "y1": 4681
+                }
+            ],
+            "bbox": [
+                1975,
+                3307,
+                2804,
+                4681
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "Anti-Bius Petitions\nIssued In Tucson",
+            "article": "TUCSON The Tucson Com\nmission on Human Relations said\n1t would ask more than 500, 900\nTucson families to sign voluntary\npledges of nondiscrimination In\nhousing.\n\n\nThe commi ssion siad the drive\nhas been approved by Catholic,\nProtestant and Jewish leaders.\n\n\nUnder the pledge, families\nwould voluntarily welcome new\nneighbors regardless Of race or\ncreed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1992,
+                    "y0": 6157,
+                    "x1": 2653,
+                    "y1": 6337
+                },
+                {
+                    "x0": 1969,
+                    "y0": 6359,
+                    "x1": 2786,
+                    "y1": 7119
+                }
+            ],
+            "bbox": [
+                1969,
+                6157,
+                2786,
+                7119
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "The Junior and Senior Missionary Circles of Union Baptist Church\nhosted bridal shower for Miss Dolores Gordon.\n\n\nFront includes Mrs. Opal Griffin Miss Ruby Brown, Miss\nLenora Gipson and Miss Daisy Demery.\n\n\nSecond Estalla Black Pee\nhonoree, and Mrs. Dolie Heard.\n\n\nThird row-mes Lorena Minis Dorothy McCun Beverly Furch\nCarolyn Carr, Christine Day and Rose Jackson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2884,
+                    "y0": 4477,
+                    "x1": 4576,
+                    "y1": 4970
+                }
+            ],
+            "bbox": [
+                2884,
+                4477,
+                4576,
+                4970
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                23,
+                14
+            ],
+            "headline": "SHILOH CHURCH 40th YEAR BEGINS",
+            "article": "Shiloh Baptist Church. 90l w.\nBuckeye, Rev.S.T Miller. pastor.\nChurch groups will observe the\n10th anniversary of founding Feb.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 416,
+                    "y0": 6736,
+                    "x1": 1703,
+                    "y1": 6853
+                },
+                {
+                    "x0": 220,
+                    "y0": 6881,
+                    "x1": 1031,
+                    "y1": 7125
+                }
+            ],
+            "bbox": [
+                220,
+                6736,
+                1703,
+                7125
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "20-23. Rev. w. M. Harrison,\nof Willow Grove Baptist Church,\nwill be speaker, Feb. %, 8 pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1112,
+                    "y0": 6886,
+                    "x1": 1923,
+                    "y1": 7084
+                }
+            ],
+            "bbox": [
+                1112,
+                6886,
+                1923,
+                7084
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "James l.. Davis, 1910 E. Mad\nison, hosted a birthday dinner",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2867,
+                    "y0": 6979,
+                    "x1": 3684,
+                    "y1": 7113
+                }
+            ],
+            "bbox": [
+                2867,
+                6979,
+                3684,
+                7113
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Sir Alexander Bustamane Prime Minister of jamaica displays\nthe Life Membership National Association for the Ad\nCoored People, presented to him recently\nby Field Secretary Colin Cromwell (second from righ\nMrs. Cromwell",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2884,
+                    "y0": 6481,
+                    "x1": 4559,
+                    "y1": 6829
+                }
+            ],
+            "bbox": [
+                2884,
+                6481,
+                4559,
+                6829
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "Alpha Epsilon Sigma Chapter Phi Beta Sigma fraternity pre-\nscented its Sweetheart Ball. Sat- Feb. 5 at Round\nUp Room, Hotel Adams.\n\n\nPresident the winner Miss Janee Smith,\nPhoenix College who the daughter of Mr. and Mrs. Her\nSmith.\n\n\nShe received scholarship and US. savings bond.\n\n\nleft Misses Wilma Ecces Roberta\nWard.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 196,
+                    "y0": 2681,
+                    "x1": 1889,
+                    "y1": 3233
+                }
+            ],
+            "bbox": [
+                196,
+                2681,
+                1889,
+                3233
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-02-21_pna_sn84021918_0041421695A_1964022101_0301.json"
+        }
+    ]
+}

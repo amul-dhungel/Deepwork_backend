@@ -1,0 +1,997 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-21",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4917,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-21",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082101/0519.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3346,
+                "y0": 5296,
+                "x1": 3898,
+                "y1": 5691
+            },
+            "class": "article",
+            "raw_text": "That the time Of the Com\nmeneement Of this Corporation\nshall be the date these Articles\nare filed In the office Of the Ari-\niona Corporation Commission Of\nthe State Of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter. with\nthe privilege Of renewal. as\nprovided by law.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3357,
+                "y0": 5214,
+                "x1": 3573,
+                "y1": 5262
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE w",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1901,
+                "y0": 614,
+                "x1": 2720,
+                "y1": 2141
+            },
+            "class": "article",
+            "raw_text": "A Housewives For Jake Hig-\ngins committee has been formed\nto aid the election of State Rep.\nF. A. \"Jake\" Higgins to the\nArizona Corporation Commits\nsion announced Mrs. Fred Wendell\nof Phoenix.\n\n\nMrs. Herbert Angel, founder\nand president of the Sun City Re-\npublican Club, is honorary chair\nman Of the group.\n\n\nOther charter members of the\ncommittee include Miss Juanita\nAmes, Mesdames Edward Banks,\nRobert Brewer, Gerry Eliot,\nRobert Fisher, Charles Garland,\nEd Janney, Frank Kelley, Edwin\nc. Lynch, Betty Rockwell, Lou\nSilverstein, Randolph E. Soran-\nson, Grace Webb and Stanley\nWomer, all of Phoenix. Others\nare Mesdames Augusta Larson,\nLakeside: Kenneth H. Benson,\nSedona; and Charles Reisher,\nWilliam F. Higgins and Eldon\nH. Pickett, all of Tucson.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1919,
+                "y0": 406,
+                "x1": 2453,
+                "y1": 592
+            },
+            "class": "headline",
+            "raw_text": "Higgins Booster\nGroup Formed",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1019,
+                "y0": 2732,
+                "x1": 1833,
+                "y1": 3377
+            },
+            "class": "article",
+            "raw_text": "waived preliminary hearings be-\nfore a US. commissioner\nbecause their attorneys said\nconfession by the fourth would be\nintroduced as evidence.\n\n\nThe confession duplicates the\nother three in the Staying of Penn,\na lieutenant colonel in the Army\nreserve, as he and two Negro\nreservists we're driving along\nGeorgia road July IL.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 376,
+                "y0": 2621,
+                "x1": 1461,
+                "y1": 2715
+            },
+            "class": "headline",
+            "raw_text": "KIunsmen To Have Jury Hearing",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1907,
+                "y0": 2871,
+                "x1": 2720,
+                "y1": 3348
+            },
+            "class": "article",
+            "raw_text": "FORT MADISON, Iowa The\ncity Chamber of Commerce can\nceled the appearance of Quaker\nOats Aunt Jemima at a rodeo\nhere. Leonard H. Carter NAACP\nregional secretary, said this was\nanother stereotype that needs to\ngo to sleep forever.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1977,
+                "y0": 2749,
+                "x1": 2569,
+                "y1": 2849
+            },
+            "class": "headline",
+            "raw_text": "No Aunt Jemima",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 120,
+                "y0": 2749,
+                "x1": 939,
+                "y1": 3400
+            },
+            "class": "article",
+            "raw_text": "ATHENS. Ga. The Federal\nBureau of Investigation has\nagreed to permit the state of\nGeorgia to try four Ku Klux\nKlansmen on murder charges if\nthey are indicted by a grand jury\nfor the shotgun Staying of Wash\nington educator Lemuel Penn, a\nNegro.\n\n\nThe grand jury will convene\nAug. \"a. Three of the men",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1901,
+                "y0": 2302,
+                "x1": 2714,
+                "y1": 2727
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Cassius M.\nClay, u, worlds heavyweight\nboxing champion, was married\nrecently to Sonj Roi, \"a. Chi\ncago model.\n\n\nClays mother said she didn't\nknow of the marriage.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1982,
+                "y0": 2175,
+                "x1": 2592,
+                "y1": 2274
+            },
+            "class": "headline",
+            "raw_text": "Clay Weds Mode !",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 36,
+            "bbox": {
+                "x0": 3949,
+                "y0": 4687,
+                "x1": 4495,
+                "y1": 4937
+            },
+            "class": "article",
+            "raw_text": "expulsion. and their rights.\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "legibility": "Legible",
+            "full_article_id": 37,
+            "reading_order_id": 0
+        },
+        {
+            "id": 37,
+            "bbox": {
+                "x0": 2748,
+                "y0": 4785,
+                "x1": 3306,
+                "y1": 5737
+            },
+            "class": "article",
+            "raw_text": "OF\nDEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\nThat we, the undersigned, the\nduly elected. qualified and Act\nIng Board Of Directors Of the\nDebonairs Social and Art Club,\ndo hereby ass ociate ourselves for\nthe purpose Of forming a non\nprofit Club, and to that end do\nadopt the following Articles Of\nincorporation:\n\n\nART1cLEI\n\n\nThe name Of the Corporation\nwill be Debonairs Social and\nArt Club, and the principal place\nOf business will be in Phoenix,\nArizona.",
+            "legibility": "Legible",
+            "full_article_id": 38,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2754,
+                "y0": 4710,
+                "x1": 3294,
+                "y1": 4769
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE OF INCORPORATION",
+            "legibility": "Legible",
+            "full_article_id": 38,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3351,
+                "y0": 4710,
+                "x1": 3898,
+                "y1": 5192
+            },
+            "class": "article",
+            "raw_text": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix, Arizona\n\n\nMrs. Ardella Galbreath = 1926\nE. Adams Phoenix, Arizona\nMrs. Alvin Vera Richie 1889\nW. Monroe Phoenix, Arizona\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. = Phoenix, Arizona\nMrs. Flora Ruffin 1919 E.\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher 1893 E.\nMaids on Phoenix, Arizona",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 132,
+                "y0": 2117,
+                "x1": 1809,
+                "y1": 2599
+            },
+            "class": "article",
+            "raw_text": "the African Pavilion the Worlds Fair\nJoined representatives the Miller Brewing Co. OF Milwaukee,\nOf the pavilion at the Tree House Bar and\nRestaurant, which opened recently in the African building\n\n\nright Tom Knppee and Len odstein both\nrepresenting Allan Vaters director of the Tree House and\nEd Harding popular places Maite d. Harding also\na we'll known stage, and TV personality.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2771,
+                "y0": 6757,
+                "x1": 3312,
+                "y1": 7147
+            },
+            "class": "article",
+            "raw_text": "All Of the following named per-\nsons, acting as incorporators\nherein. we're duly elected Direc-\ntors Of the Debonairs. Social and\nArt Club. and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit, on June\n\"a, 1864, at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2777,
+                "y0": 6676,
+                "x1": 2998,
+                "y1": 6729
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE III",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2765,
+                "y0": 5841,
+                "x1": 3306,
+                "y1": 6654
+            },
+            "class": "article",
+            "raw_text": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nto solicit funds and enter toCon-\ntracts for the solicitation offunds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose Of the Corpora\nton and In accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall IN addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable In con-\nnection herewith.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 2765,
+                "y0": 5452,
+                "x1": 2958,
+                "y1": 5505
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE I",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2771,
+                "y0": 5765,
+                "x1": 2981,
+                "y1": 5819
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE II",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3351,
+                "y0": 6920,
+                "x1": 3892,
+                "y1": 7130
+            },
+            "class": "article",
+            "raw_text": "The Debonairs may organize\nas provided by laws. The\nqualifications Of members and\nofficers and the conditions Of\ntheir election. suspension and",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 3363,
+                "y0": 6839,
+                "x1": 3579,
+                "y1": 6892
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE vi",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 329,
+                "y0": 3625,
+                "x1": 2285,
+                "y1": 7095
+            },
+            "class": "article",
+            "raw_text": "Are yOes Interested\nire ore insured,\nbsOse\"f1ssctusati1,g,\n40 Investment?\nFor guaranteed security, there is\nnothing better tEs0n a Valley Bank\nsavings account!\n\n\nAfter your deposits bank for full\nthey earn fall, ak interest compoMmdsd quarterly\ndeposits of less tham a years. daily\ninterest also compounded guareerIy)\nYour money by Deposit\nCorporation sap BY sham 5000 million In\nresources By gears of so~nd, conservative\nnremt ar.Oays readily it,\nOpen yOMr savings account, today\n\n\n., ~\nLARGEST BANK =\" ROC\" ''''''\" STATES ()Il sEaI\nsasedo ntre -\nIndividual accounts to $40 900; husband.\n\n\ninsured $4,000",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3937,
+                "y0": 4681,
+                "x1": 4501,
+                "y1": 7124
+            },
+            "class": "article",
+            "raw_text": "expulsion, and their rights.\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.\nARTICLE VII\n\n\nAll Of the following named\nperson acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected az\nAdvisory Members Of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMIR. jim Titus\n\n\nMrs. Clarence Jackson\nMr.. George Barnes\n\n\nMr.. Virgil J. Berry\n\n\nMrs. Clarence r. Laing\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\nMr.. Ted Cianas\n\n\nStatutory Agent:\n\n\nMr.. J. D. Holmes, l4s9 East\nMonroe, Phoenix. Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nis appointed Statutory Agent.\nARTICLES VIII\n\n\nThe private and individual pro-\nperty Of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson, a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec,\nis, 1865.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3972,
+                "y0": 5835,
+                "x1": 4495,
+                "y1": 6051
+            },
+            "class": "article",
+            "raw_text": "Mr.. J. D. Holmes, 1859 East\n\n\nMonroe. Phoenix. Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\n\n\nis appointed Statutory Agent.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3972,
+                "y0": 5777,
+                "x1": 4246,
+                "y1": 5819
+            },
+            "class": "headline",
+            "raw_text": "Statutory Agent:",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3351,
+                "y0": 5806,
+                "x1": 3898,
+                "y1": 6816
+            },
+            "class": "article",
+            "raw_text": "The affairs Of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist Of less than five (5) or more\ntan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday In January Of each year.\nThe members Of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore,\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies In the Board Of d.\nrectors and Advisory Board &C.\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nto serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3363,
+                "y0": 5731,
+                "x1": 3573,
+                "y1": 5784
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE V",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3949,
+                "y0": 7030,
+                "x1": 4489,
+                "y1": 7118
+            },
+            "class": "article",
+            "raw_text": "My Commission expires Dec,\n10, 1865.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 39,
+            "bbox": {
+                "x0": 4053,
+                "y0": 6920,
+                "x1": 4315,
+                "y1": 7002
+            },
+            "class": "headline",
+            "raw_text": "Rose Anderson\nNotary Public",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964082101_0519",
+    "full articles": [
+        {
+            "object_ids": [
+                28,
+                31
+            ],
+            "headline": "ARTICLE w",
+            "article": "That the time Of the Com\nmeneement Of this Corporation\nshall be the date these Articles\nare filed In the office Of the Ari-\niona Corporation Commission Of\nthe State Of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter. with\nthe privilege Of renewal. as\nprovided by law.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3357,
+                    "y0": 5214,
+                    "x1": 3573,
+                    "y1": 5262
+                },
+                {
+                    "x0": 3346,
+                    "y0": 5296,
+                    "x1": 3898,
+                    "y1": 5691
+                }
+            ],
+            "bbox": [
+                3346,
+                5214,
+                3898,
+                5691
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "Higgins Booster\nGroup Formed",
+            "article": "A Housewives For Jake Hig-\ngins committee has been formed\nto aid the election of State Rep.\nF. A. \"Jake\" Higgins to the\nArizona Corporation Commits\nsion announced Mrs. Fred Wendell\nof Phoenix.\n\n\nMrs. Herbert Angel, founder\nand president of the Sun City Re-\npublican Club, is honorary chair\nman Of the group.\n\n\nOther charter members of the\ncommittee include Miss Juanita\nAmes, Mesdames Edward Banks,\nRobert Brewer, Gerry Eliot,\nRobert Fisher, Charles Garland,\nEd Janney, Frank Kelley, Edwin\nc. Lynch, Betty Rockwell, Lou\nSilverstein, Randolph E. Soran-\nson, Grace Webb and Stanley\nWomer, all of Phoenix. Others\nare Mesdames Augusta Larson,\nLakeside: Kenneth H. Benson,\nSedona; and Charles Reisher,\nWilliam F. Higgins and Eldon\nH. Pickett, all of Tucson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1919,
+                    "y0": 406,
+                    "x1": 2453,
+                    "y1": 592
+                },
+                {
+                    "x0": 1901,
+                    "y0": 614,
+                    "x1": 2720,
+                    "y1": 2141
+                }
+            ],
+            "bbox": [
+                1901,
+                406,
+                2720,
+                2141
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "KIunsmen To Have Jury Hearing",
+            "article": "waived preliminary hearings be-\nfore a US. commissioner\nbecause their attorneys said\nconfession by the fourth would be\nintroduced as evidence.\n\n\nThe confession duplicates the\nother three in the Staying of Penn,\na lieutenant colonel in the Army\nreserve, as he and two Negro\nreservists we're driving along\nGeorgia road July IL.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 376,
+                    "y0": 2621,
+                    "x1": 1461,
+                    "y1": 2715
+                },
+                {
+                    "x0": 1019,
+                    "y0": 2732,
+                    "x1": 1833,
+                    "y1": 3377
+                }
+            ],
+            "bbox": [
+                376,
+                2621,
+                1833,
+                3377
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "No Aunt Jemima",
+            "article": "FORT MADISON, Iowa The\ncity Chamber of Commerce can\nceled the appearance of Quaker\nOats Aunt Jemima at a rodeo\nhere. Leonard H. Carter NAACP\nregional secretary, said this was\nanother stereotype that needs to\ngo to sleep forever.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1977,
+                    "y0": 2749,
+                    "x1": 2569,
+                    "y1": 2849
+                },
+                {
+                    "x0": 1907,
+                    "y0": 2871,
+                    "x1": 2720,
+                    "y1": 3348
+                }
+            ],
+            "bbox": [
+                1907,
+                2749,
+                2720,
+                3348
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "ATHENS. Ga. The Federal\nBureau of Investigation has\nagreed to permit the state of\nGeorgia to try four Ku Klux\nKlansmen on murder charges if\nthey are indicted by a grand jury\nfor the shotgun Staying of Wash\nington educator Lemuel Penn, a\nNegro.\n\n\nThe grand jury will convene\nAug. \"a. Three of the men",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 120,
+                    "y0": 2749,
+                    "x1": 939,
+                    "y1": 3400
+                }
+            ],
+            "bbox": [
+                120,
+                2749,
+                939,
+                3400
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "Clay Weds Mode !",
+            "article": "LOS ANGELES Cassius M.\nClay, u, worlds heavyweight\nboxing champion, was married\nrecently to Sonj Roi, \"a. Chi\ncago model.\n\n\nClays mother said she didn't\nknow of the marriage.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1982,
+                    "y0": 2175,
+                    "x1": 2592,
+                    "y1": 2274
+                },
+                {
+                    "x0": 1901,
+                    "y0": 2302,
+                    "x1": 2714,
+                    "y1": 2727
+                }
+            ],
+            "bbox": [
+                1901,
+                2175,
+                2714,
+                2727
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                36
+            ],
+            "headline": "",
+            "article": "expulsion. and their rights.\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3949,
+                    "y0": 4687,
+                    "x1": 4495,
+                    "y1": 4937
+                }
+            ],
+            "bbox": [
+                3949,
+                4687,
+                4495,
+                4937
+            ],
+            "full_article_id": 37,
+            "id": "37_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                30,
+                37
+            ],
+            "headline": "ARTICLE OF INCORPORATION",
+            "article": "OF\nDEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\nThat we, the undersigned, the\nduly elected. qualified and Act\nIng Board Of Directors Of the\nDebonairs Social and Art Club,\ndo hereby ass ociate ourselves for\nthe purpose Of forming a non\nprofit Club, and to that end do\nadopt the following Articles Of\nincorporation:\n\n\nART1cLEI\n\n\nThe name Of the Corporation\nwill be Debonairs Social and\nArt Club, and the principal place\nOf business will be in Phoenix,\nArizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2754,
+                    "y0": 4710,
+                    "x1": 3294,
+                    "y1": 4769
+                },
+                {
+                    "x0": 2748,
+                    "y0": 4785,
+                    "x1": 3306,
+                    "y1": 5737
+                }
+            ],
+            "bbox": [
+                2748,
+                4710,
+                3306,
+                5737
+            ],
+            "full_article_id": 38,
+            "id": "38_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix, Arizona\n\n\nMrs. Ardella Galbreath = 1926\nE. Adams Phoenix, Arizona\nMrs. Alvin Vera Richie 1889\nW. Monroe Phoenix, Arizona\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. = Phoenix, Arizona\nMrs. Flora Ruffin 1919 E.\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher 1893 E.\nMaids on Phoenix, Arizona",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3351,
+                    "y0": 4710,
+                    "x1": 3898,
+                    "y1": 5192
+                }
+            ],
+            "bbox": [
+                3351,
+                4710,
+                3898,
+                5192
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "the African Pavilion the Worlds Fair\nJoined representatives the Miller Brewing Co. OF Milwaukee,\nOf the pavilion at the Tree House Bar and\nRestaurant, which opened recently in the African building\n\n\nright Tom Knppee and Len odstein both\nrepresenting Allan Vaters director of the Tree House and\nEd Harding popular places Maite d. Harding also\na we'll known stage, and TV personality.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 132,
+                    "y0": 2117,
+                    "x1": 1809,
+                    "y1": 2599
+                }
+            ],
+            "bbox": [
+                132,
+                2117,
+                1809,
+                2599
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                18,
+                16
+            ],
+            "headline": "ARTICLE III",
+            "article": "All Of the following named per-\nsons, acting as incorporators\nherein. we're duly elected Direc-\ntors Of the Debonairs. Social and\nArt Club. and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit, on June\n\"a, 1864, at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2777,
+                    "y0": 6676,
+                    "x1": 2998,
+                    "y1": 6729
+                },
+                {
+                    "x0": 2771,
+                    "y0": 6757,
+                    "x1": 3312,
+                    "y1": 7147
+                }
+            ],
+            "bbox": [
+                2771,
+                6676,
+                3312,
+                7147
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                40,
+                26,
+                19
+            ],
+            "headline": "ARTICLE I\n\nARTICLE II",
+            "article": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nto solicit funds and enter toCon-\ntracts for the solicitation offunds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose Of the Corpora\nton and In accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall IN addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable In con-\nnection herewith.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2765,
+                    "y0": 5452,
+                    "x1": 2958,
+                    "y1": 5505
+                },
+                {
+                    "x0": 2771,
+                    "y0": 5765,
+                    "x1": 2981,
+                    "y1": 5819
+                },
+                {
+                    "x0": 2765,
+                    "y0": 5841,
+                    "x1": 3306,
+                    "y1": 6654
+                }
+            ],
+            "bbox": [
+                2765,
+                5452,
+                3306,
+                6654
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                33,
+                21
+            ],
+            "headline": "ARTICLE vi",
+            "article": "The Debonairs may organize\nas provided by laws. The\nqualifications Of members and\nofficers and the conditions Of\ntheir election. suspension and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3363,
+                    "y0": 6839,
+                    "x1": 3579,
+                    "y1": 6892
+                },
+                {
+                    "x0": 3351,
+                    "y0": 6920,
+                    "x1": 3892,
+                    "y1": 7130
+                }
+            ],
+            "bbox": [
+                3351,
+                6839,
+                3892,
+                7130
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Are yOes Interested\nire ore insured,\nbsOse\"f1ssctusati1,g,\n40 Investment?\nFor guaranteed security, there is\nnothing better tEs0n a Valley Bank\nsavings account!\n\n\nAfter your deposits bank for full\nthey earn fall, ak interest compoMmdsd quarterly\ndeposits of less tham a years. daily\ninterest also compounded guareerIy)\nYour money by Deposit\nCorporation sap BY sham 5000 million In\nresources By gears of so~nd, conservative\nnremt ar.Oays readily it,\nOpen yOMr savings account, today\n\n\n., ~\nLARGEST BANK =\" ROC\" ''''''\" STATES ()Il sEaI\nsasedo ntre -\nIndividual accounts to $40 900; husband.\n\n\ninsured $4,000",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 329,
+                    "y0": 3625,
+                    "x1": 2285,
+                    "y1": 7095
+                }
+            ],
+            "bbox": [
+                329,
+                3625,
+                2285,
+                7095
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "expulsion, and their rights.\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided.\nARTICLE VII\n\n\nAll Of the following named\nperson acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected az\nAdvisory Members Of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMIR. jim Titus\n\n\nMrs. Clarence Jackson\nMr.. George Barnes\n\n\nMr.. Virgil J. Berry\n\n\nMrs. Clarence r. Laing\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\nMr.. Ted Cianas\n\n\nStatutory Agent:\n\n\nMr.. J. D. Holmes, l4s9 East\nMonroe, Phoenix. Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nis appointed Statutory Agent.\nARTICLES VIII\n\n\nThe private and individual pro-\nperty Of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson, a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec,\nis, 1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3937,
+                    "y0": 4681,
+                    "x1": 4501,
+                    "y1": 7124
+                }
+            ],
+            "bbox": [
+                3937,
+                4681,
+                4501,
+                7124
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                29,
+                24
+            ],
+            "headline": "Statutory Agent:",
+            "article": "Mr.. J. D. Holmes, 1859 East\n\n\nMonroe. Phoenix. Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\n\n\nis appointed Statutory Agent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3972,
+                    "y0": 5777,
+                    "x1": 4246,
+                    "y1": 5819
+                },
+                {
+                    "x0": 3972,
+                    "y0": 5835,
+                    "x1": 4495,
+                    "y1": 6051
+                }
+            ],
+            "bbox": [
+                3972,
+                5777,
+                4495,
+                6051
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                17,
+                25
+            ],
+            "headline": "ARTICLE V",
+            "article": "The affairs Of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist Of less than five (5) or more\ntan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday In January Of each year.\nThe members Of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore,\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies In the Board Of d.\nrectors and Advisory Board &C.\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nto serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3363,
+                    "y0": 5731,
+                    "x1": 3573,
+                    "y1": 5784
+                },
+                {
+                    "x0": 3351,
+                    "y0": 5806,
+                    "x1": 3898,
+                    "y1": 6816
+                }
+            ],
+            "bbox": [
+                3351,
+                5731,
+                3898,
+                6816
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        },
+        {
+            "object_ids": [
+                39,
+                27
+            ],
+            "headline": "Rose Anderson\nNotary Public",
+            "article": "My Commission expires Dec,\n10, 1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4053,
+                    "y0": 6920,
+                    "x1": 4315,
+                    "y1": 7002
+                },
+                {
+                    "x0": 3949,
+                    "y0": 7030,
+                    "x1": 4489,
+                    "y1": 7118
+                }
+            ],
+            "bbox": [
+                3949,
+                6920,
+                4489,
+                7118
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-08-21_pna_sn84021918_0041421695A_1964082101_0519.json"
+        }
+    ]
+}

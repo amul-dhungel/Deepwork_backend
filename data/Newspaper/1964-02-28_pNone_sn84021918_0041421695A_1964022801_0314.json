@@ -1,0 +1,577 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-28",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7392,
+        "width": 4813,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-28",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022801/0314.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 2036,
+                "y0": 3303,
+                "x1": 2857,
+                "y1": 3500
+            },
+            "class": "article",
+            "raw_text": "ALBRITTONS BEAUTY SHOP\n1916 E. Monroe\nAL 4-35o7",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 2042,
+                "y0": 2841,
+                "x1": 2863,
+                "y1": 3015
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED ADS\nBUSINESS DIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2943,
+                "y0": 2483,
+                "x1": 3770,
+                "y1": 4742
+            },
+            "class": "article",
+            "raw_text": "Three appointments affecting\nthe Arizona organization of\nMountain States Telephone we're\nannounced by Lawson V. Smith,\nvice president and general man\nager.\n\n\nL. B. Jolly becomes assist\nant vice president Of the utility,\nC.M. Walker Is state marketing\nmanager and H. T. ORourke is\nArizona chief engineer.\n\n\nJolly has been with the tele-\nphone company since 1925, when\nhe became a clerk at Salt Lake\nCity. He first came to Arizona\nin 1854 as division directory\nmanager, and served as state\nmarketing manager from 1860\nuntil his new appointment, which\nfills the vacancy created by the\nrecent death of Sherman A. Watt.\n\n\nWalker, who was chief engineer\nuntil his new appointment, is\nnative of Phoenix. He began his\nphone career as a lineman in\n1910, and served as a major\nwith the Army Signal Corps in\nthe South Pacific during World\nWar II.\n\n\nO'Rourke moves up to chief\nengineer from state equipment\nand building engineer, post he\nhas held since 1855. He joined the\nphone company at Denver as a\nframeman in 1927. During World\nWar II he was Western Electric\ntechnical observer with the Army\nSignal Corps in Germany.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3012,
+                "y0": 2292,
+                "x1": 3695,
+                "y1": 2426
+            },
+            "class": "headline",
+            "raw_text": "INST PROMOTES 3",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3827,
+                "y0": 2477,
+                "x1": 4659,
+                "y1": 4505
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - A record\n$2,67l,723 was raised by the\nUnited Negro College Fund In\n1868. Lawrence ]. MacGregor,\nnational campaign chairman, an\nnounced. Mr.. MacGregor, retired\nboard chairman of the Summit\nTrust Co., Summit, N. j., head\ned the nationwide UNCF appeal\nfor the second consecutive year.\n\n\n\"The 1868 total tops the\n$2.30O.o03 raised in 1862 by l6\npercent\" Mr.. MacGregor said.\n\"This Is the largest percentage\nTO increase achieved since the\nCollege Fund pioneered coopera-\ntive fund raising for higher edu-\ncation in 1914. That first year,\n$765 1868 was raised to bolster the\noperating budgets of the member\ninstitutions.\n\n\nCorporation giving climbed\nthe highest last year. amounting\nto ST. ,440,6l0. Foundations and\nfamily funds accounted for\n$458,652. Individuals and groups\ncontributed STU, 4o1 to the 1868\ncampaign\n\n\nThe 80 institutions benefiting\nthrough the appeal are all indie\npendent. privately supported. &C\ncredited colleges and UNIVERSE\nties. They are located in the IL\nsouthern states.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3856,
+                "y0": 2298,
+                "x1": 4630,
+                "y1": 2432
+            },
+            "class": "headline",
+            "raw_text": "UNc Fund Sets Record",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3821,
+                "y0": 4637,
+                "x1": 4665,
+                "y1": 5244
+            },
+            "class": "article",
+            "raw_text": "Did yoW kmoaO that most plastics\nbecome \"electrostatic\" in molding?\nIn plain English, that means they\nattract dust magnetically.\n\n\nTherefore, busting with cloth\nor buster is ineffective, because the\nstirred-up dust simply resettles on\nthe plastic. The best way to keep\nplastic-from housewares to hand\nbags = clean is to wash often with\nsoap or detergent suds.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 246,
+                "y0": 3499,
+                "x1": 1073,
+                "y1": 4297
+            },
+            "class": "article",
+            "raw_text": "The Antler Guard Tea In Los\nAngeles was great success\nand we'll attended.\n\n\nOur PERC and PDRC meeting\nat Yuma was excellent. Grand\ndistrict deputy Maple Lee Pratt\nconducted a workshop after the\nsessions.\n\n\nEveryone Is invited to attend\nthe Coronation Ball. Fri, Feb.\n%, OIL. donation 81 so.\n\n\nDon't forget the annual Leap\nYear Dance, Sat-. Feb. 10Th.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 281,
+                "y0": 3234,
+                "x1": 911,
+                "y1": 3465
+            },
+            "class": "headline",
+            "raw_text": "ELKS CORNER\nC. MCCLAMMY",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3001,
+                "y0": 4816,
+                "x1": 3683,
+                "y1": 5215
+            },
+            "class": "article",
+            "raw_text": "Electric lighting was lovishIy\nused for the first time at the\n1898 Chicago Exposition.\nTwo out of every three Amer\nicons still lived on farms.\nThere we're ~ states with the\ntotal population of 81 million.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1141,
+                "y0": 3378,
+                "x1": 1962,
+                "y1": 4303
+            },
+            "class": "article",
+            "raw_text": "James L. Davis\n\n\nOlive Court No. IL, Heroines\nof Jericho, Prince Hall Grand\nHigh Court. California-Arizona\nJurisdiction met Friday. Feb. 81\nat the Masonic Temple.\n\n\nPlans for special Palm Sunday\nservices we're completed. A visit\nfrom grand lecturer and most\nancient grand matron are ex-\npected on that day.\n\n\nMrs. John D. Washington, 924\nS. Third Ave-, has been Ill for\nseveral months.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1211,
+                "y0": 3268,
+                "x1": 1928,
+                "y1": 3448
+            },
+            "class": "headline",
+            "raw_text": "AROUND THE TOWN\nJames L. Davis",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2060,
+                "y0": 5803,
+                "x1": 2886,
+                "y1": 6006
+            },
+            "class": "article",
+            "raw_text": "CARPETS INSTALLED and re-\npaired Days, evenings, Sundays\nCall 275-3O53.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2065,
+                "y0": 5486,
+                "x1": 2875,
+                "y1": 5741
+            },
+            "class": "article",
+            "raw_text": "HOUSE FOR SALE\nVery Nice Home, 5O24 S. 10th\nPlace. Low Down, $6,95O-$74\nmonth includes all.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2054,
+                "y0": 5070,
+                "x1": 2736,
+                "y1": 5250
+            },
+            "class": "article",
+            "raw_text": "GOLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2054,
+                "y0": 5295,
+                "x1": 2661,
+                "y1": 5441
+            },
+            "class": "article",
+            "raw_text": "! & M BARBER SHOP\n1905 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 4826,
+                "y0": 438,
+                "x1": 6091,
+                "y1": 5758
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964022801_0314",
+    "full articles": [
+        {
+            "object_ids": [
+                27,
+                31
+            ],
+            "headline": "CLASSIFIED ADS\nBUSINESS DIRECTORY",
+            "article": "ALBRITTONS BEAUTY SHOP\n1916 E. Monroe\nAL 4-35o7",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2042,
+                    "y0": 2841,
+                    "x1": 2863,
+                    "y1": 3015
+                },
+                {
+                    "x0": 2036,
+                    "y0": 3303,
+                    "x1": 2857,
+                    "y1": 3500
+                }
+            ],
+            "bbox": [
+                2036,
+                2841,
+                2863,
+                3500
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                17,
+                1
+            ],
+            "headline": "INST PROMOTES 3",
+            "article": "Three appointments affecting\nthe Arizona organization of\nMountain States Telephone we're\nannounced by Lawson V. Smith,\nvice president and general man\nager.\n\n\nL. B. Jolly becomes assist\nant vice president Of the utility,\nC.M. Walker Is state marketing\nmanager and H. T. ORourke is\nArizona chief engineer.\n\n\nJolly has been with the tele-\nphone company since 1925, when\nhe became a clerk at Salt Lake\nCity. He first came to Arizona\nin 1854 as division directory\nmanager, and served as state\nmarketing manager from 1860\nuntil his new appointment, which\nfills the vacancy created by the\nrecent death of Sherman A. Watt.\n\n\nWalker, who was chief engineer\nuntil his new appointment, is\nnative of Phoenix. He began his\nphone career as a lineman in\n1910, and served as a major\nwith the Army Signal Corps in\nthe South Pacific during World\nWar II.\n\n\nO'Rourke moves up to chief\nengineer from state equipment\nand building engineer, post he\nhas held since 1855. He joined the\nphone company at Denver as a\nframeman in 1927. During World\nWar II he was Western Electric\ntechnical observer with the Army\nSignal Corps in Germany.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3012,
+                    "y0": 2292,
+                    "x1": 3695,
+                    "y1": 2426
+                },
+                {
+                    "x0": 2943,
+                    "y0": 2483,
+                    "x1": 3770,
+                    "y1": 4742
+                }
+            ],
+            "bbox": [
+                2943,
+                2292,
+                3770,
+                4742
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                19,
+                2
+            ],
+            "headline": "UNc Fund Sets Record",
+            "article": "NEW YORK - A record\n$2,67l,723 was raised by the\nUnited Negro College Fund In\n1868. Lawrence ]. MacGregor,\nnational campaign chairman, an\nnounced. Mr.. MacGregor, retired\nboard chairman of the Summit\nTrust Co., Summit, N. j., head\ned the nationwide UNCF appeal\nfor the second consecutive year.\n\n\n\"The 1868 total tops the\n$2.30O.o03 raised in 1862 by l6\npercent\" Mr.. MacGregor said.\n\"This Is the largest percentage\nTO increase achieved since the\nCollege Fund pioneered coopera-\ntive fund raising for higher edu-\ncation in 1914. That first year,\n$765 1868 was raised to bolster the\noperating budgets of the member\ninstitutions.\n\n\nCorporation giving climbed\nthe highest last year. amounting\nto ST. ,440,6l0. Foundations and\nfamily funds accounted for\n$458,652. Individuals and groups\ncontributed STU, 4o1 to the 1868\ncampaign\n\n\nThe 80 institutions benefiting\nthrough the appeal are all indie\npendent. privately supported. &C\ncredited colleges and UNIVERSE\nties. They are located in the IL\nsouthern states.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3856,
+                    "y0": 2298,
+                    "x1": 4630,
+                    "y1": 2432
+                },
+                {
+                    "x0": 3827,
+                    "y0": 2477,
+                    "x1": 4659,
+                    "y1": 4505
+                }
+            ],
+            "bbox": [
+                3827,
+                2298,
+                4659,
+                4505
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Did yoW kmoaO that most plastics\nbecome \"electrostatic\" in molding?\nIn plain English, that means they\nattract dust magnetically.\n\n\nTherefore, busting with cloth\nor buster is ineffective, because the\nstirred-up dust simply resettles on\nthe plastic. The best way to keep\nplastic-from housewares to hand\nbags = clean is to wash often with\nsoap or detergent suds.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3821,
+                    "y0": 4637,
+                    "x1": 4665,
+                    "y1": 5244
+                }
+            ],
+            "bbox": [
+                3821,
+                4637,
+                4665,
+                5244
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "ELKS CORNER\nC. MCCLAMMY",
+            "article": "The Antler Guard Tea In Los\nAngeles was great success\nand we'll attended.\n\n\nOur PERC and PDRC meeting\nat Yuma was excellent. Grand\ndistrict deputy Maple Lee Pratt\nconducted a workshop after the\nsessions.\n\n\nEveryone Is invited to attend\nthe Coronation Ball. Fri, Feb.\n%, OIL. donation 81 so.\n\n\nDon't forget the annual Leap\nYear Dance, Sat-. Feb. 10Th.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 281,
+                    "y0": 3234,
+                    "x1": 911,
+                    "y1": 3465
+                },
+                {
+                    "x0": 246,
+                    "y0": 3499,
+                    "x1": 1073,
+                    "y1": 4297
+                }
+            ],
+            "bbox": [
+                246,
+                3234,
+                1073,
+                4297
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Electric lighting was lovishIy\nused for the first time at the\n1898 Chicago Exposition.\nTwo out of every three Amer\nicons still lived on farms.\nThere we're ~ states with the\ntotal population of 81 million.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3001,
+                    "y0": 4816,
+                    "x1": 3683,
+                    "y1": 5215
+                }
+            ],
+            "bbox": [
+                3001,
+                4816,
+                3683,
+                5215
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                21,
+                14
+            ],
+            "headline": "AROUND THE TOWN\nJames L. Davis",
+            "article": "James L. Davis\n\n\nOlive Court No. IL, Heroines\nof Jericho, Prince Hall Grand\nHigh Court. California-Arizona\nJurisdiction met Friday. Feb. 81\nat the Masonic Temple.\n\n\nPlans for special Palm Sunday\nservices we're completed. A visit\nfrom grand lecturer and most\nancient grand matron are ex-\npected on that day.\n\n\nMrs. John D. Washington, 924\nS. Third Ave-, has been Ill for\nseveral months.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1211,
+                    "y0": 3268,
+                    "x1": 1928,
+                    "y1": 3448
+                },
+                {
+                    "x0": 1141,
+                    "y0": 3378,
+                    "x1": 1962,
+                    "y1": 4303
+                }
+            ],
+            "bbox": [
+                1141,
+                3268,
+                1962,
+                4303
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "CARPETS INSTALLED and re-\npaired Days, evenings, Sundays\nCall 275-3O53.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2060,
+                    "y0": 5803,
+                    "x1": 2886,
+                    "y1": 6006
+                }
+            ],
+            "bbox": [
+                2060,
+                5803,
+                2886,
+                6006
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "HOUSE FOR SALE\nVery Nice Home, 5O24 S. 10th\nPlace. Low Down, $6,95O-$74\nmonth includes all.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2065,
+                    "y0": 5486,
+                    "x1": 2875,
+                    "y1": 5741
+                }
+            ],
+            "bbox": [
+                2065,
+                5486,
+                2875,
+                5741
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "GOLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2054,
+                    "y0": 5070,
+                    "x1": 2736,
+                    "y1": 5250
+                }
+            ],
+            "bbox": [
+                2054,
+                5070,
+                2736,
+                5250
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "! & M BARBER SHOP\n1905 w. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2054,
+                    "y0": 5295,
+                    "x1": 2661,
+                    "y1": 5441
+                }
+            ],
+            "bbox": [
+                2054,
+                5295,
+                2661,
+                5441
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-02-28_pna_sn84021918_0041421695A_1964022801_0314.json"
+        }
+    ]
+}

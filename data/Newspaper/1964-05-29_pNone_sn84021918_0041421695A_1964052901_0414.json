@@ -1,0 +1,512 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-29",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4894,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-29",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052901/0414.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2904,
+                "y0": 1657,
+                "x1": 3717,
+                "y1": 2603
+            },
+            "class": "article",
+            "raw_text": "The exterior will be sunlight\nyellow again after all we live in\nthe Valley Of the Sun.\n\n\nNext time you are in other\nabout choosing colors--use my\nmethod. | call 1t the \"What the\nheck--I give up, or \"Take\nchip from one to ten.\n\n\nWe never figured how we ended\nup with a shocking and do mean\nshocking pink bathroom last\nspring. must have been feeling\nblue because 1t really gives out a\npink feeling.\n\n\nCaution--Let yourself go--try\nsome living in color.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2945,
+                "y0": 1530,
+                "x1": 3618,
+                "y1": 1635
+            },
+            "class": "headline",
+            "raw_text": "Sights And Sounds",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3791,
+                "y0": 1791,
+                "x1": 4610,
+                "y1": 2522
+            },
+            "class": "article",
+            "raw_text": "Sales Of electronic manufac-\nturers in Arizona totaled SEQ\nmillion in 1868, 1873 percent\ngain over 1862. For the US.\nthe gain in sales was ll.8 per-\ncent. Employment in the states\nelectronics industry increased\nfrom 1880 in 1862 to 1900\nin 1868. This represents a gain\nOf 20.S percent compared with\nthe US. gain Of 8 percent for\nthe same period.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 226,
+                "y0": 3634,
+                "x1": 1932,
+                "y1": 6348
+            },
+            "class": "article",
+            "raw_text": "the life below\nsurface Of the He born in Charleston South Carolina\n1883. public schools\n\n\nthe school Oragebug He left there however and\nKmba Union Academy Merden New Hampshire where\nhe prepared Dartmouth College, In college he distinguished\nhimself in scholarship and developed interest in the\nstudy biology Howard\nUniversity during his and periods Of leave absence\nhe advanced in his study biology the University Chicago\nIn 1916 he received the degree Doctor Of Philosophy from that\ninstitution.\n\n\nDuring years Just had spent of his time\nWoods Hole Massachusetts There since 1888 students Of marine\nbiology have maintained lodge facilitate the study of the animals\nOf the His and application his work shown\nby the fact that he twenty this There he\nmet the distinguished marine biologists Of the world and de-\nOf the inner circle The world finally found what\ndoing acclaimed him great scientists the He\nreceived the Spingrn Medal in 1915 being the first have that\nhonor.\n\n\nWith much upon him Just found easy carry\nhis work gransin-ad. Julius Rosenwad large fund by\n\n\nwhich he enabled Europe study marine biology\nthe best in Paris Geneva Berlin Rome Scen-\nlists Of both sought with him. he honored\nby them in He Fellow of the American As\nISOLATION for the Advancement Sence member Of the American\nSociety Of Z\n\n\nmember Society Naturaists\npresident $780, member Of the Washington Academy Sciences\nmember Of the Societe des Sciences Narees Mathemaoues\nde Cherbourg.\n\n\nIn the development of his work Just published valuable contri\nFrom his articles contributed sen\ntc journals physiology Of development including results\nresearch fertilization, artificial parthenogenesis cell di\nlike He coauhor Of General Cytology which\nappeared in 1924. brought embracing Of\nhis findings entitled The Biology Of the Cell Surface, which\npeared 1885, Basic Methods for Experiments Eggs Marine\nAnimals, 1889.\n\n\nEverett Just died October IT, 94l Washington Dc",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 267,
+                "y0": 3344,
+                "x1": 1323,
+                "y1": 3595
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nEdward Just",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 255,
+                "y0": 6625,
+                "x1": 1079,
+                "y1": 6997
+            },
+            "class": "article",
+            "raw_text": "BALTIMORE--Mrs. Julia B.\nPurnell, national president Of\nthe Alpha Kappa Alpha sorority.\nsaid more than 800 sorors an\nswered her call to write letters\nto Congress supporting the civil",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 568,
+                "y0": 6451,
+                "x1": 1607,
+                "y1": 6586
+            },
+            "class": "headline",
+            "raw_text": "AKA SORORS RESPOND",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1160,
+                "y0": 6631,
+                "x1": 1972,
+                "y1": 6986
+            },
+            "class": "article",
+            "raw_text": "rights and poverty bills.\n\n\nMrs. Thomasina Norford. an\nassistant in Mayor Wagner New\nYork office and director of social\naction for AKA, was chairman\nof the AKA Day.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2922,
+                "y0": 956,
+                "x1": 4621,
+                "y1": 1508
+            },
+            "class": "article",
+            "raw_text": "Rep John Rhodes Republican First District has thousands\nquestonnares Arzonans during his the House Of\nRepresentatives.\n\n\nThe printed page Of the important and far\nreaching have read Each whether registered\nshould take this opportunity let Congressman\nRhodes know views\n\n\nFill the QUESTIONABLE and John 6OSl\nFederal Building. Phoenix, Arizona 85025.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3467,
+                "y0": 307,
+                "x1": 4459,
+                "y1": 754
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIewS\nAND REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -3
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3693,
+                "y0": 672,
+                "x1": 4221,
+                "y1": 754
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2933,
+                "y0": 817,
+                "x1": 4158,
+                "y1": 922
+            },
+            "class": "headline",
+            "raw_text": "Answer Rhodes Que tionnuire",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2035,
+                "y0": 527,
+                "x1": 2871,
+                "y1": 6012
+            },
+            "class": "article",
+            "raw_text": "UuWMsWS SWUWSVS\n\n\nHold It'll Stop the WHEEL Close\nthe folder. I've had It'll No, don't\nthink | am suffering from too\nmuch work or play. am weary\nof choosing paints, floor cover\nings, wall coverings, and exter-\nTor paints.\n\n\nMy spouse and | are renova-\nting our home. We have added\na combination family room and\noffice. plus a darkroom and a\nlaundry room. We had planned\nlong hours for this time and early\nin May we started.\n\n\nWorkmen came innocently with\nhammer. nails, cement, pliers,\nwood. paper, rulers and pipes.\nFirst. the existing back porch\nwas torn up a bit. Not all was\ndestroyed. just enough to give the\nhouse that \"could be a small\nearthquake Look.\n\n\nNext, some trenches we're dug.\nThey looked too small for what\nwe planned. Then, cement was\npoured and the floors we're\nsmoothed.\n\n\nA man came one bright day and\nplaced the doors and entrances\nmarkers. Within a week some\nthing resembling our planned ad-\ndition was Undertaking.\n\n\nAfter four weeks Of breathing\nwood shavings and battling flies\nand other insects let in with the\ndoors opening SO often. have\nhad enough.\n\n\nSince May 2lst the heat pump\nhas helped me maintain some\ncomposure. We rid ourselves of\nthe evaporative cooler and two\nseparate air conditioning units.\nThe last two summers we're spent\nin the bedroom and the den where\nthe units whizzed all day and\nnight. We felt like clustered\nmonks from May until October.\n\n\nNow we can move about from\nroom to room and feel grand with\na constant cool temperature.\n\n\nEven the comfort of the heat\npump vanishes when look at the\npiles of color charts. Samples of\nfloor and wall coverings, swat\nches of drapery materials and\nother various decorating objects.\nIl forgot to mention the home\ndecorating maya zines).\n\n\nWhat woman has enough dec\nGrating knowledge to cope with\nthe myriads Of color charts7\nDo you prefer frost green, spring\ngreen, pebble beige, sand mint.\npool green, arctic blue, cham\npayne or cloud grey7-\n\n\nThere are light colors, bright\ncolors. tints. subtints, shades,\nand hues of every description.\nWho could honestly recall what\ncolor you liked last week while\nyou we're browsing in the paint\ndepartment.\n\n\nurge all ladies to save their\ncoins--do not buy a thick, fat\nhome decorating magazine. No\nmatter how inviting the front\ncover photograph may be. No\none but a non-working, non-think-\nIng and non-decorating woman\ncould want a home like the one\nusually featured.\n\n\n| have looked at pictures and\nstudied color charts until my\neyes will be permanently tinted\nfor the next decade.\n\n\nMy husband and have always\nliked the blues and greens. We\nchose a lighter blue for the living\nroom and dining room. finally\ndecided on colors using the bunch\nmethod--similar when visited\na race track. Seldom when max",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2035,
+                "y0": 231,
+                "x1": 2836,
+                "y1": 563
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOisE BANKS\nMaking Changes",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 215,
+                "y0": 2017,
+                "x1": 1955,
+                "y1": 3316
+            },
+            "class": "article",
+            "raw_text": "On saturday, May 3Oth, millions Of Amer\nleans viii begin the outdoor season enjoying\nbtcnScS, SsVim and baYbe cue parties and CAMP\ning. Many will go boating or just arriving on the\nroad. The day viii be great day.\n\n\nLest ne forget Memorial Day has special\nsignificance for all Of us. LOVed ones aOh0 died\nshould be remembered. FLOWERS on graves are\nnot necessary, If you can haze a thought for\nmoment or tho about the ones you miss.\n\n\nFlags should pOaUe from every home or\nbusiness establishment on this day color\nfxl tribute to all Americans sObO haze made\nthis country just a little bit better by their\nlives and works before haUing their final rest.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 580,
+                "y0": 1814,
+                "x1": 1508,
+                "y1": 1966
+            },
+            "class": "headline",
+            "raw_text": "MEMORIAL DAY",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964052901_0414",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "Sights And Sounds",
+            "article": "The exterior will be sunlight\nyellow again after all we live in\nthe Valley Of the Sun.\n\n\nNext time you are in other\nabout choosing colors--use my\nmethod. | call 1t the \"What the\nheck--I give up, or \"Take\nchip from one to ten.\n\n\nWe never figured how we ended\nup with a shocking and do mean\nshocking pink bathroom last\nspring. must have been feeling\nblue because 1t really gives out a\npink feeling.\n\n\nCaution--Let yourself go--try\nsome living in color.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2945,
+                    "y0": 1530,
+                    "x1": 3618,
+                    "y1": 1635
+                },
+                {
+                    "x0": 2904,
+                    "y0": 1657,
+                    "x1": 3717,
+                    "y1": 2603
+                }
+            ],
+            "bbox": [
+                2904,
+                1530,
+                3717,
+                2603
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Sales Of electronic manufac-\nturers in Arizona totaled SEQ\nmillion in 1868, 1873 percent\ngain over 1862. For the US.\nthe gain in sales was ll.8 per-\ncent. Employment in the states\nelectronics industry increased\nfrom 1880 in 1862 to 1900\nin 1868. This represents a gain\nOf 20.S percent compared with\nthe US. gain Of 8 percent for\nthe same period.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3791,
+                    "y0": 1791,
+                    "x1": 4610,
+                    "y1": 2522
+                }
+            ],
+            "bbox": [
+                3791,
+                1791,
+                4610,
+                2522
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        },
+        {
+            "object_ids": [
+                18,
+                3
+            ],
+            "headline": "NEGRO HISTORY NOTES\nEdward Just",
+            "article": "the life below\nsurface Of the He born in Charleston South Carolina\n1883. public schools\n\n\nthe school Oragebug He left there however and\nKmba Union Academy Merden New Hampshire where\nhe prepared Dartmouth College, In college he distinguished\nhimself in scholarship and developed interest in the\nstudy biology Howard\nUniversity during his and periods Of leave absence\nhe advanced in his study biology the University Chicago\nIn 1916 he received the degree Doctor Of Philosophy from that\ninstitution.\n\n\nDuring years Just had spent of his time\nWoods Hole Massachusetts There since 1888 students Of marine\nbiology have maintained lodge facilitate the study of the animals\nOf the His and application his work shown\nby the fact that he twenty this There he\nmet the distinguished marine biologists Of the world and de-\nOf the inner circle The world finally found what\ndoing acclaimed him great scientists the He\nreceived the Spingrn Medal in 1915 being the first have that\nhonor.\n\n\nWith much upon him Just found easy carry\nhis work gransin-ad. Julius Rosenwad large fund by\n\n\nwhich he enabled Europe study marine biology\nthe best in Paris Geneva Berlin Rome Scen-\nlists Of both sought with him. he honored\nby them in He Fellow of the American As\nISOLATION for the Advancement Sence member Of the American\nSociety Of Z\n\n\nmember Society Naturaists\npresident $780, member Of the Washington Academy Sciences\nmember Of the Societe des Sciences Narees Mathemaoues\nde Cherbourg.\n\n\nIn the development of his work Just published valuable contri\nFrom his articles contributed sen\ntc journals physiology Of development including results\nresearch fertilization, artificial parthenogenesis cell di\nlike He coauhor Of General Cytology which\nappeared in 1924. brought embracing Of\nhis findings entitled The Biology Of the Cell Surface, which\npeared 1885, Basic Methods for Experiments Eggs Marine\nAnimals, 1889.\n\n\nEverett Just died October IT, 94l Washington Dc",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 267,
+                    "y0": 3344,
+                    "x1": 1323,
+                    "y1": 3595
+                },
+                {
+                    "x0": 226,
+                    "y0": 3634,
+                    "x1": 1932,
+                    "y1": 6348
+                }
+            ],
+            "bbox": [
+                226,
+                3344,
+                1932,
+                6348
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "AKA SORORS RESPOND",
+            "article": "BALTIMORE--Mrs. Julia B.\nPurnell, national president Of\nthe Alpha Kappa Alpha sorority.\nsaid more than 800 sorors an\nswered her call to write letters\nto Congress supporting the civil",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 568,
+                    "y0": 6451,
+                    "x1": 1607,
+                    "y1": 6586
+                },
+                {
+                    "x0": 255,
+                    "y0": 6625,
+                    "x1": 1079,
+                    "y1": 6997
+                }
+            ],
+            "bbox": [
+                255,
+                6451,
+                1607,
+                6997
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "rights and poverty bills.\n\n\nMrs. Thomasina Norford. an\nassistant in Mayor Wagner New\nYork office and director of social\naction for AKA, was chairman\nof the AKA Day.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1160,
+                    "y0": 6631,
+                    "x1": 1972,
+                    "y1": 6986
+                }
+            ],
+            "bbox": [
+                1160,
+                6631,
+                1972,
+                6986
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        },
+        {
+            "object_ids": [
+                12,
+                23,
+                16,
+                8
+            ],
+            "headline": "Views, pRevIewS\nAND REVIEWS\n\n\nEdward Banks\n\nAnswer Rhodes Que tionnuire",
+            "article": "Rep John Rhodes Republican First District has thousands\nquestonnares Arzonans during his the House Of\nRepresentatives.\n\n\nThe printed page Of the important and far\nreaching have read Each whether registered\nshould take this opportunity let Congressman\nRhodes know views\n\n\nFill the QUESTIONABLE and John 6OSl\nFederal Building. Phoenix, Arizona 85025.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3467,
+                    "y0": 307,
+                    "x1": 4459,
+                    "y1": 754
+                },
+                {
+                    "x0": 3693,
+                    "y0": 672,
+                    "x1": 4221,
+                    "y1": 754
+                },
+                {
+                    "x0": 2933,
+                    "y0": 817,
+                    "x1": 4158,
+                    "y1": 922
+                },
+                {
+                    "x0": 2922,
+                    "y0": 956,
+                    "x1": 4621,
+                    "y1": 1508
+                }
+            ],
+            "bbox": [
+                2922,
+                307,
+                4621,
+                1508
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        },
+        {
+            "object_ids": [
+                9,
+                11
+            ],
+            "headline": "Sights and Sounds\nELOisE BANKS\nMaking Changes",
+            "article": "UuWMsWS SWUWSVS\n\n\nHold It'll Stop the WHEEL Close\nthe folder. I've had It'll No, don't\nthink | am suffering from too\nmuch work or play. am weary\nof choosing paints, floor cover\nings, wall coverings, and exter-\nTor paints.\n\n\nMy spouse and | are renova-\nting our home. We have added\na combination family room and\noffice. plus a darkroom and a\nlaundry room. We had planned\nlong hours for this time and early\nin May we started.\n\n\nWorkmen came innocently with\nhammer. nails, cement, pliers,\nwood. paper, rulers and pipes.\nFirst. the existing back porch\nwas torn up a bit. Not all was\ndestroyed. just enough to give the\nhouse that \"could be a small\nearthquake Look.\n\n\nNext, some trenches we're dug.\nThey looked too small for what\nwe planned. Then, cement was\npoured and the floors we're\nsmoothed.\n\n\nA man came one bright day and\nplaced the doors and entrances\nmarkers. Within a week some\nthing resembling our planned ad-\ndition was Undertaking.\n\n\nAfter four weeks Of breathing\nwood shavings and battling flies\nand other insects let in with the\ndoors opening SO often. have\nhad enough.\n\n\nSince May 2lst the heat pump\nhas helped me maintain some\ncomposure. We rid ourselves of\nthe evaporative cooler and two\nseparate air conditioning units.\nThe last two summers we're spent\nin the bedroom and the den where\nthe units whizzed all day and\nnight. We felt like clustered\nmonks from May until October.\n\n\nNow we can move about from\nroom to room and feel grand with\na constant cool temperature.\n\n\nEven the comfort of the heat\npump vanishes when look at the\npiles of color charts. Samples of\nfloor and wall coverings, swat\nches of drapery materials and\nother various decorating objects.\nIl forgot to mention the home\ndecorating maya zines).\n\n\nWhat woman has enough dec\nGrating knowledge to cope with\nthe myriads Of color charts7\nDo you prefer frost green, spring\ngreen, pebble beige, sand mint.\npool green, arctic blue, cham\npayne or cloud grey7-\n\n\nThere are light colors, bright\ncolors. tints. subtints, shades,\nand hues of every description.\nWho could honestly recall what\ncolor you liked last week while\nyou we're browsing in the paint\ndepartment.\n\n\nurge all ladies to save their\ncoins--do not buy a thick, fat\nhome decorating magazine. No\nmatter how inviting the front\ncover photograph may be. No\none but a non-working, non-think-\nIng and non-decorating woman\ncould want a home like the one\nusually featured.\n\n\n| have looked at pictures and\nstudied color charts until my\neyes will be permanently tinted\nfor the next decade.\n\n\nMy husband and have always\nliked the blues and greens. We\nchose a lighter blue for the living\nroom and dining room. finally\ndecided on colors using the bunch\nmethod--similar when visited\na race track. Seldom when max",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2035,
+                    "y0": 231,
+                    "x1": 2836,
+                    "y1": 563
+                },
+                {
+                    "x0": 2035,
+                    "y0": 527,
+                    "x1": 2871,
+                    "y1": 6012
+                }
+            ],
+            "bbox": [
+                2035,
+                231,
+                2871,
+                6012
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        },
+        {
+            "object_ids": [
+                15,
+                17
+            ],
+            "headline": "MEMORIAL DAY",
+            "article": "On saturday, May 3Oth, millions Of Amer\nleans viii begin the outdoor season enjoying\nbtcnScS, SsVim and baYbe cue parties and CAMP\ning. Many will go boating or just arriving on the\nroad. The day viii be great day.\n\n\nLest ne forget Memorial Day has special\nsignificance for all Of us. LOVed ones aOh0 died\nshould be remembered. FLOWERS on graves are\nnot necessary, If you can haze a thought for\nmoment or tho about the ones you miss.\n\n\nFlags should pOaUe from every home or\nbusiness establishment on this day color\nfxl tribute to all Americans sObO haze made\nthis country just a little bit better by their\nlives and works before haUing their final rest.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 580,
+                    "y0": 1814,
+                    "x1": 1508,
+                    "y1": 1966
+                },
+                {
+                    "x0": 215,
+                    "y0": 2017,
+                    "x1": 1955,
+                    "y1": 3316
+                }
+            ],
+            "bbox": [
+                215,
+                1814,
+                1955,
+                3316
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-05-29_pna_sn84021918_0041421695A_1964052901_0414.json"
+        }
+    ]
+}

@@ -1,0 +1,546 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4800,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964013101/0282.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1051,
+                "y0": 4709,
+                "x1": 1880,
+                "y1": 6087
+            },
+            "class": "article",
+            "raw_text": "Dry beans - and their cousins,\ndry peas and lentils - can be\nused in a variety Of warming\nwinter dishes that are nutritious\nand easy on the budget, says AIRS\nnutrition experts.\n\n\nThese foods that grandma used\nto simmer in an iron pot for half\na day can be stand-outs in the\nmodern HOUSEWIFE menu, with\ncooking shortcuts and variations\nranging from the old Southern\nfavorite \"hopping john\" to a\ncompany fare baked dish of cur\nried lima beans and pork chops.\n\n\nThey are real budget buy - a\npound of dry beans will make 7\nto 9 3/4 cup servings land all\nare substantial foods, good for\nenergy.\n\n\nDry beans, peas and lentils con-\ntain calcium and B vitamins, es-\npecially thiamine, and are a rich",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1289,
+                "y0": 4501,
+                "x1": 2499,
+                "y1": 4681
+            },
+            "class": "headline",
+            "raw_text": "DRY BEANS, PEAS AND LENTlLS\nTASTY FOR WINTER MEALS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2833,
+                "y0": 4073,
+                "x1": 3656,
+                "y1": 5271
+            },
+            "class": "article",
+            "raw_text": "PHOENIX, AriZ. The third\nannual barbecue benefit for Sam\nuel Gompers Memorial Rehabili-\ntation Center. 72ll N. 9TH ST.,\nwill be held on April 10.\n\n\nRepeat chairman of the event\nthat last year served more than\n5000 people Is Mrs. Wanda Bick-\nford, Mountain States Telephone\nand Telegraph engineering de-\npartment employee.\n\n\nCo-chairman Is Connie Wo,\nGompers board member and ow-\nner of the Bi-Lo Market. In\ncharge of barbecue pits again\nwill be Joe Donofrio, with Wood\nrow Johnson assisting.\n\n\nEdward Sporleder, Maricopa\nCounty chairman for the annual\nfund raising campaign held by",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3059,
+                "y0": 3882,
+                "x1": 4252,
+                "y1": 4033
+            },
+            "class": "headline",
+            "raw_text": "BIRD ANNUAL GOMPERS\n\n\nBENEFIT BARBECUE APRIL 18TH",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3730,
+                "y0": 4079,
+                "x1": 4553,
+                "y1": 5324
+            },
+            "class": "article",
+            "raw_text": "the Center, will be chairman of\ntickets and community resour-\nces.\n\n\nLast year more than $4,000\nwas raised to help finance SER\nvices at the Center which include\ntherapy for both children and\nadults afflicted with cerebral pal\n~, muscular dystrophy, polio,\narthritis, deafness, stroke, hear\nIng ailments. and asthma, among\nothers.\n\n\nRehabilitation program pro-\nddes statewide help in physical,\nspeech, occupational therapy,\npsychological testing, audiology,\npre-school orthopedic, and pre-\nvocational evaluation. >r\n\n\nThe Center also conducts ac-\ncommodation classes for the\nstates handicapped children.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 149,
+                "y0": 676,
+                "x1": 977,
+                "y1": 2217
+            },
+            "class": "article",
+            "raw_text": "The Phoenix police department\nneeds policewomen.\n\n\nPolice Chief Paul Blubaum said\nhe wanted high-caliber persons\nwho are interested in making\npolice work career.\n\n\nPolicewoman's jobs pay $3.50\nto $3.50 a month.\n\n\nApplicants must be a high\nschool graduate and 1t is pre-\nferred that they have supplement\ntai courses in psychology, socio-\nlogy or related fields. They must\nbe FL to IS years old. S feet\n4 inches to S feet, 10 inches,\n100 to Us pounds.\n\n\nWomen will work in crime pre-\nvention and deal mainly with\nwomen and children. Marital\nstatus Is not a factor.\n\n\nThere are now five women\nin the Phoenix Police Depart\nment, two of whom have been pro-\nNOTED to the rank Of sergeant.\n\n\nDeadline for application is\nFeb. 8.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 166,
+                "y0": 462,
+                "x1": 925,
+                "y1": 625
+            },
+            "class": "headline",
+            "raw_text": "CITY POLICEWOMEN\nARE NEEDED HERE",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1942,
+                "y0": 4709,
+                "x1": 2771,
+                "y1": 6035
+            },
+            "class": "article",
+            "raw_text": "source of iron - a cupful pro-\nvides almpsrhalf of a day s needs.\nThey also supply protein, which Is\nmost useful when convinced with\nthe types of protein in meat,\ncheese, or eggs.\n\n\nUSDA Leaflet No. 1916, \"Dry\nBeans, Peas, Lentils. ..Modern\nCookery\" gives tips on soaking\nand cooking and contains recipes\nfor casseroles, soups, stews and\nsalads, as we'll as a bean PURGE\nthat can be canned or frozen for\nlater hurry-up use as a base for\nsauces and soups or as a meat\nstretcher. Single copies of\nLeaflet 326 may be obtained from\nthe Office of Information, US.\nDepartment of Agriculture,\nWashington, DC. 2O25O. Send a\npostcard with your name and ad-\ndress and the words Leaflet 1926.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 137,
+                "y0": 2464,
+                "x1": 971,
+                "y1": 6163
+            },
+            "class": "article",
+            "raw_text": "MIR. Harold T. Schnurer, Phoe-\nnix Branch Manager, Small Bush\nness Administration, announced\nSBA and the Phoenix Public Ii\nsbrary will cosponsor a one-day\nwork shop for persons planning\nto open business or have re-\nGently opened some. The session\nis free. The meeting will be held\nin the auditorium of the Phoenix\nPublic Library. Mcdowell and\nCentral Avenues from am. TO\n4 p.m,, on Tues, Feb. 4.\n\n\nThe purpose of this all day\nworkshop is to better prepare\nindividuals who never before\nowned or operated business of\ntheir own. Many dos and\n\"don' IS\" will be brought to their\nattention throughout the proceed\nings. Schnurer said, \"SBA' s aim\nIS to inform the potential BUSH\nnessman Of the advantages in be-\ncoming his own boss while at the\nsame time pointing out the pit\nfalls in owning and operating a\nbusiness\"\n\n\nInteresting and important dis\ncussions will be held on such sub\njects as financing a business.\nrecord keeping, site location,\nmarketing, legal aspects of busi-\nness organization, regulations.\nand. general administrative man\nagement. Enrollees will be adj\nWsed of the need for seeking as\nmuch outside assistance as pos\nsible from such sources as ac-\ncountants, attorneys, bankers. IL\nbraries and Government.\n\n\nAnyone interested in attending\nwrite or telephone the Small\nBusiness Administration at 2727\nN. Central Ave., Phoenix, or\ntelephone 2ol-36ll.\n\n\nSTATE NAACP MEETS\n\n\nRev. l.. j. Harper, state\nNAACP president reported that\na campaign to obtain passage of\nthe public accommodations bill\nwill be started by the states\nNAACP branches.\n\n\nHe said, \"In Arizona humilia-\nton stalks thousands Of Negro\nresident and travellers moving\nthroughout the state when they\nare denied a place to eat, or\nSleep\"\n\n\nHe continued that public offic-\nials who refuse to support the\nbill will be remembered on cleo\ntion day.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 149,
+                "y0": 2279,
+                "x1": 867,
+                "y1": 2442
+            },
+            "class": "headline",
+            "raw_text": "SMALL BUSHES\n\n\nSESSION FEB. 4TH",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3730,
+                "y0": 3402,
+                "x1": 4547,
+                "y1": 3866
+            },
+            "class": "article",
+            "raw_text": "Ideal for fund raising groups.\nNew Vending Machine Franchise.\nExclusive perfume dispenser\nvends 25f tubes. This Is also a\ngood husband and wife business.\n$4,000 $4,000 investment\ncovered by inventory. Phone\n264-4oO6 ext. 8.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3736,
+                "y0": 3095,
+                "x1": 4316,
+                "y1": 3241
+            },
+            "class": "headline",
+            "raw_text": "] & M BARBER SHOP\n1205 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3875,
+                "y0": 3292,
+                "x1": 4397,
+                "y1": 3374
+            },
+            "class": "headline",
+            "raw_text": "INVES TMENT",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3765,
+                "y0": 2106,
+                "x1": 4593,
+                "y1": 2332
+            },
+            "class": "article",
+            "raw_text": "LADY EBONEE BEAUTY\nCENTER. el7 w. Buckeye Rd.\nALI -2642",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3748,
+                "y0": 2794,
+                "x1": 4576,
+                "y1": 3021
+            },
+            "class": "article",
+            "raw_text": "JACKSONS BEAUTY SHOPPE\n1888 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3765,
+                "y0": 1324,
+                "x1": 4536,
+                "y1": 1464
+            },
+            "class": "article",
+            "raw_text": "LORETTA'S BEAUTY SHOP\n930'W. Grant St. 254-O7O6",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964013101_0282",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                0
+            ],
+            "headline": "DRY BEANS, PEAS AND LENTlLS\nTASTY FOR WINTER MEALS",
+            "article": "Dry beans - and their cousins,\ndry peas and lentils - can be\nused in a variety Of warming\nwinter dishes that are nutritious\nand easy on the budget, says AIRS\nnutrition experts.\n\n\nThese foods that grandma used\nto simmer in an iron pot for half\na day can be stand-outs in the\nmodern HOUSEWIFE menu, with\ncooking shortcuts and variations\nranging from the old Southern\nfavorite \"hopping john\" to a\ncompany fare baked dish of cur\nried lima beans and pork chops.\n\n\nThey are real budget buy - a\npound of dry beans will make 7\nto 9 3/4 cup servings land all\nare substantial foods, good for\nenergy.\n\n\nDry beans, peas and lentils con-\ntain calcium and B vitamins, es-\npecially thiamine, and are a rich",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1289,
+                    "y0": 4501,
+                    "x1": 2499,
+                    "y1": 4681
+                },
+                {
+                    "x0": 1051,
+                    "y0": 4709,
+                    "x1": 1880,
+                    "y1": 6087
+                }
+            ],
+            "bbox": [
+                1051,
+                4501,
+                2499,
+                6087
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                16,
+                1
+            ],
+            "headline": "BIRD ANNUAL GOMPERS\n\n\nBENEFIT BARBECUE APRIL 18TH",
+            "article": "PHOENIX, AriZ. The third\nannual barbecue benefit for Sam\nuel Gompers Memorial Rehabili-\ntation Center. 72ll N. 9TH ST.,\nwill be held on April 10.\n\n\nRepeat chairman of the event\nthat last year served more than\n5000 people Is Mrs. Wanda Bick-\nford, Mountain States Telephone\nand Telegraph engineering de-\npartment employee.\n\n\nCo-chairman Is Connie Wo,\nGompers board member and ow-\nner of the Bi-Lo Market. In\ncharge of barbecue pits again\nwill be Joe Donofrio, with Wood\nrow Johnson assisting.\n\n\nEdward Sporleder, Maricopa\nCounty chairman for the annual\nfund raising campaign held by",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3059,
+                    "y0": 3882,
+                    "x1": 4252,
+                    "y1": 4033
+                },
+                {
+                    "x0": 2833,
+                    "y0": 4073,
+                    "x1": 3656,
+                    "y1": 5271
+                }
+            ],
+            "bbox": [
+                2833,
+                3882,
+                4252,
+                5271
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "the Center, will be chairman of\ntickets and community resour-\nces.\n\n\nLast year more than $4,000\nwas raised to help finance SER\nvices at the Center which include\ntherapy for both children and\nadults afflicted with cerebral pal\n~, muscular dystrophy, polio,\narthritis, deafness, stroke, hear\nIng ailments. and asthma, among\nothers.\n\n\nRehabilitation program pro-\nddes statewide help in physical,\nspeech, occupational therapy,\npsychological testing, audiology,\npre-school orthopedic, and pre-\nvocational evaluation. >r\n\n\nThe Center also conducts ac-\ncommodation classes for the\nstates handicapped children.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3730,
+                    "y0": 4079,
+                    "x1": 4553,
+                    "y1": 5324
+                }
+            ],
+            "bbox": [
+                3730,
+                4079,
+                4553,
+                5324
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "CITY POLICEWOMEN\nARE NEEDED HERE",
+            "article": "The Phoenix police department\nneeds policewomen.\n\n\nPolice Chief Paul Blubaum said\nhe wanted high-caliber persons\nwho are interested in making\npolice work career.\n\n\nPolicewoman's jobs pay $3.50\nto $3.50 a month.\n\n\nApplicants must be a high\nschool graduate and 1t is pre-\nferred that they have supplement\ntai courses in psychology, socio-\nlogy or related fields. They must\nbe FL to IS years old. S feet\n4 inches to S feet, 10 inches,\n100 to Us pounds.\n\n\nWomen will work in crime pre-\nvention and deal mainly with\nwomen and children. Marital\nstatus Is not a factor.\n\n\nThere are now five women\nin the Phoenix Police Depart\nment, two of whom have been pro-\nNOTED to the rank Of sergeant.\n\n\nDeadline for application is\nFeb. 8.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 166,
+                    "y0": 462,
+                    "x1": 925,
+                    "y1": 625
+                },
+                {
+                    "x0": 149,
+                    "y0": 676,
+                    "x1": 977,
+                    "y1": 2217
+                }
+            ],
+            "bbox": [
+                149,
+                462,
+                977,
+                2217
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "source of iron - a cupful pro-\nvides almpsrhalf of a day s needs.\nThey also supply protein, which Is\nmost useful when convinced with\nthe types of protein in meat,\ncheese, or eggs.\n\n\nUSDA Leaflet No. 1916, \"Dry\nBeans, Peas, Lentils. ..Modern\nCookery\" gives tips on soaking\nand cooking and contains recipes\nfor casseroles, soups, stews and\nsalads, as we'll as a bean PURGE\nthat can be canned or frozen for\nlater hurry-up use as a base for\nsauces and soups or as a meat\nstretcher. Single copies of\nLeaflet 326 may be obtained from\nthe Office of Information, US.\nDepartment of Agriculture,\nWashington, DC. 2O25O. Send a\npostcard with your name and ad-\ndress and the words Leaflet 1926.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1942,
+                    "y0": 4709,
+                    "x1": 2771,
+                    "y1": 6035
+                }
+            ],
+            "bbox": [
+                1942,
+                4709,
+                2771,
+                6035
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "SMALL BUSHES\n\n\nSESSION FEB. 4TH",
+            "article": "MIR. Harold T. Schnurer, Phoe-\nnix Branch Manager, Small Bush\nness Administration, announced\nSBA and the Phoenix Public Ii\nsbrary will cosponsor a one-day\nwork shop for persons planning\nto open business or have re-\nGently opened some. The session\nis free. The meeting will be held\nin the auditorium of the Phoenix\nPublic Library. Mcdowell and\nCentral Avenues from am. TO\n4 p.m,, on Tues, Feb. 4.\n\n\nThe purpose of this all day\nworkshop is to better prepare\nindividuals who never before\nowned or operated business of\ntheir own. Many dos and\n\"don' IS\" will be brought to their\nattention throughout the proceed\nings. Schnurer said, \"SBA' s aim\nIS to inform the potential BUSH\nnessman Of the advantages in be-\ncoming his own boss while at the\nsame time pointing out the pit\nfalls in owning and operating a\nbusiness\"\n\n\nInteresting and important dis\ncussions will be held on such sub\njects as financing a business.\nrecord keeping, site location,\nmarketing, legal aspects of busi-\nness organization, regulations.\nand. general administrative man\nagement. Enrollees will be adj\nWsed of the need for seeking as\nmuch outside assistance as pos\nsible from such sources as ac-\ncountants, attorneys, bankers. IL\nbraries and Government.\n\n\nAnyone interested in attending\nwrite or telephone the Small\nBusiness Administration at 2727\nN. Central Ave., Phoenix, or\ntelephone 2ol-36ll.\n\n\nSTATE NAACP MEETS\n\n\nRev. l.. j. Harper, state\nNAACP president reported that\na campaign to obtain passage of\nthe public accommodations bill\nwill be started by the states\nNAACP branches.\n\n\nHe said, \"In Arizona humilia-\nton stalks thousands Of Negro\nresident and travellers moving\nthroughout the state when they\nare denied a place to eat, or\nSleep\"\n\n\nHe continued that public offic-\nials who refuse to support the\nbill will be remembered on cleo\ntion day.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 149,
+                    "y0": 2279,
+                    "x1": 867,
+                    "y1": 2442
+                },
+                {
+                    "x0": 137,
+                    "y0": 2464,
+                    "x1": 971,
+                    "y1": 6163
+                }
+            ],
+            "bbox": [
+                137,
+                2279,
+                971,
+                6163
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                20,
+                18,
+                10
+            ],
+            "headline": "] & M BARBER SHOP\n1205 w. Buckeye\n\nINVES TMENT",
+            "article": "Ideal for fund raising groups.\nNew Vending Machine Franchise.\nExclusive perfume dispenser\nvends 25f tubes. This Is also a\ngood husband and wife business.\n$4,000 $4,000 investment\ncovered by inventory. Phone\n264-4oO6 ext. 8.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3736,
+                    "y0": 3095,
+                    "x1": 4316,
+                    "y1": 3241
+                },
+                {
+                    "x0": 3875,
+                    "y0": 3292,
+                    "x1": 4397,
+                    "y1": 3374
+                },
+                {
+                    "x0": 3730,
+                    "y0": 3402,
+                    "x1": 4547,
+                    "y1": 3866
+                }
+            ],
+            "bbox": [
+                3730,
+                3095,
+                4547,
+                3866
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "LADY EBONEE BEAUTY\nCENTER. el7 w. Buckeye Rd.\nALI -2642",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3765,
+                    "y0": 2106,
+                    "x1": 4593,
+                    "y1": 2332
+                }
+            ],
+            "bbox": [
+                3765,
+                2106,
+                4593,
+                2332
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "JACKSONS BEAUTY SHOPPE\n1888 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3748,
+                    "y0": 2794,
+                    "x1": 4576,
+                    "y1": 3021
+                }
+            ],
+            "bbox": [
+                3748,
+                2794,
+                4576,
+                3021
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "LORETTA'S BEAUTY SHOP\n930'W. Grant St. 254-O7O6",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3765,
+                    "y0": 1324,
+                    "x1": 4536,
+                    "y1": 1464
+                }
+            ],
+            "bbox": [
+                3765,
+                1324,
+                4536,
+                1464
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-01-31_pna_sn84021918_0041421695A_1964013101_0282.json"
+        }
+    ]
+}

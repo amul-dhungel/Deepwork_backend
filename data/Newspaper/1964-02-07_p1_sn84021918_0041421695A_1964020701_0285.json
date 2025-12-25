@@ -1,0 +1,560 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964020701/0285.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4816
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 107,
+                "y0": 4455,
+                "x1": 935,
+                "y1": 5999
+            },
+            "class": "article",
+            "raw_text": "PRINCETON, NJ. The son\nof a slain African political lead\nerr has appealed for an official\ninquiry to determine who killed\nhis father and why.\n\n\nHe is Fernando E. Olympic,\na 23-year-old Princeton junior,\nson of President Sylvanus Olym-\npto of Togo, who was shot and\nkilled in a military coup d. etat\nin Lone. Togo's capital, on Jan.\nIs, 1868.\n\n\nIn a letter to The New York\nTimes dated on the first ami\nversary of his father death the\nyounger Olympic recalled that\nthe crime had gone unpublished.\n\n\n\"Not only as a son of the\nlate President Olympic, but also\nas an individual believing that\nevery citizen has a right to pro-\nlection under the law of his\ncountry, find 1t most disturb\ning that, up to now. no com\nmission of inquiry has been set\nup to investigate such an I'M",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3644,
+                "y0": 4848,
+                "x1": 4477,
+                "y1": 7137
+            },
+            "class": "article",
+            "raw_text": "The second annual spring\n\"Companys Coming Cleanup\nWeek will be Feb. 7 - Is by the\nIdentification Committee Of the\nRoosevelt Central Council, an\nnounced Mrs. Irwin McGrew,\ncommittee chairman.\n\n\nLast year the group sponsored\nCleanup Week to include Arbor\nDay in order to promote the plant\ning of trees, shrubs and summer\nflowers.\n\n\n\"Companys Coming the slo-\ngan is reminder that # is time\nto clean, paint, repair and plant\nbefore thousands of winter visi-\ntors drive through our community\nto enjoy some of our most scenic\ncharlottesville Japanese flower\ngardens on East Baseline Road,\nSouth Mountain Park, the resi-\nDental and commercial citrus\ngroves and St. John s Indian Mis-\nsion south of Laveen.\n\n\nThe councils committee CO.\nchairman, Mr.. Gordon Barr, sup\nerintendent of the Roosevelt\nSchool District, announced ele-\nmentary schools will participate\nin an Arbor Day activity on\nFebruary 7.\n\n\nOther plans made by the COM\nmittee include letters to be sent\nto the representatives of all or\nCARNATIONS for a community\nmeeting to be held in the Neigh\nborhood House, Seventh Street\nand Southern Avenue, at 7:3O\npm. Tuesday. February IL.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3685,
+                "y0": 4675,
+                "x1": 4460,
+                "y1": 4826
+            },
+            "class": "headline",
+            "raw_text": "2ND ANNUAL\nCLEAN UP CAMPAIGN",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2760,
+                "y0": 4836,
+                "x1": 3582,
+                "y1": 6143
+            },
+            "class": "article",
+            "raw_text": "Mems Day will be observed at\nTanner Chapel A.M.C. Church,\nNinth Street and Jefferson, Feb.\n9, with services conducted by\nlay members.\n\n\nThe day is observed annually\nby the African Methodist Epis-\ncopal churches. Offerings Wllg 60\nto the A.M.E.\n\n\nGeorge F. Miller, executive\nof the Theodore Roosevelt Coun-\nGil, Boy Scouts of America, will\nspeak on \"You Make the Diff\nference at the 10:45 ann. SER\nvice.\n\n\nCalvin Goode, school business\nmanager and owner of a tax\nservice, will speak on 1.-The\nWhole Man. at the 4 pm. SER\nvice.\n\n\nThe Rev. l.. K. Williams is\npastor of Tanner Chapel.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2777,
+                "y0": 4646,
+                "x1": 3582,
+                "y1": 4809
+            },
+            "class": "headline",
+            "raw_text": "MEMS DAY PROGRAM\nAT TANNER CHAPEL",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1003,
+                "y0": 4449,
+                "x1": 1825,
+                "y1": 5982
+            },
+            "class": "article",
+            "raw_text": "worthy act\" he wrote.\n\n\ncit is year since my father\nwas killed, and | don't want it\nto be forgotten\" he said. 81\nhope world opinion can encour-\nage someone perhaps the At\nrican states to set up a COM\nmission of inquiry to get the\nTRUTH\n\n\nHe recalled that shortly after\nthe Staying Nigeria took the in\nitiative in proposing to send an\ninvestigating team from various\nAfrican states to Lone. How\never, the Provisional Govern\nment set up by the military jun\nia whose members had killed the\nPresident refused to admit such\na party.\n\n\nLater President Sekou Koure\nOf Guinea cabled a request to\nu Thant. Secretary General of\nthe United Nations, asking him\nto send observers to Togo, but\nnothing came of the proposal,\naccording to the young man.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 113,
+                "y0": 4264,
+                "x1": 1386,
+                "y1": 4421
+            },
+            "class": "headline",
+            "raw_text": "OLYMPIC WANTS FATHERS DEATH\nINVESTIGATED THOROUGHLY",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2772,
+                "y0": 6431,
+                "x1": 3582,
+                "y1": 7091
+            },
+            "class": "article",
+            "raw_text": "A home occupied by mother\nand her nine children was swept\nby fire.\n\n\nEight of Mrs. Omega Chap\npelle's children we're at school\nwhen she and her youngest son\nwe're awakened by smoke in their\nhome at 3135 E. Belleview, fire\nmen were told.\n\n\nAn investigation indicated the\nfire started in a rollaway bed.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2789,
+                "y0": 6177,
+                "x1": 3252,
+                "y1": 6404
+            },
+            "class": "headline",
+            "raw_text": "HOME OF 10\nDESTROYED\nBY FLAMES",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1899,
+                "y0": 4784,
+                "x1": 2726,
+                "y1": 7166
+            },
+            "class": "article",
+            "raw_text": "Herbert Neal, formerly direc-\ntor of marketing research for\nChock Full ONuts, has been ap-\npointed to the Household Products\nDivision of Lever Brothers Com\npany as an assistant roduct man\nager, according to an announce\nment by c. E. Palmer, a mer-\nchandising manager for the d.\nvision, which markets the COM\npany's soaps, detergents and\nother household products.\n\n\nNeal joined Lever Brothers\nlast October, and had been tenn\nporarily assigned to the field\nsales force. Before serving two\nyears with Chock Full o. Nuts,\nhe had been associated with two\nNew York advertising agencies\nYoung & Rubicam and Batten,\nBarton, Durstine & Osborne--in\nvarious marketing research ca\npacities.\n\n\nA graduate of both Harvard\nCollege and the Harvard Grad\nuate Business School with an\nALB. degree in economics and an\nM.B.A. in business administra-\ntion, he lectured on marketing for\ntwo years at Rutgers Universitys\nGraduate School of Business.\n\n\nMr.. Neal served with the US.\nArmy during World War II, seeing\naction in India and Burma. He\nresides with his wife and two\nchildren in New Jersey, where he\nis a member of the Pequannock\nTownship School Board.\n\n\nNOW, LET'S CONQUER\nMENTAL ILLNE 9 8",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 136,
+                "y0": 6275,
+                "x1": 952,
+                "y1": 6976
+            },
+            "class": "article",
+            "raw_text": "District director of Internal\nRevenue, George D. Patterson,\nsaid that the percentage of cor\nrectly prepared returns has in\ncreased sharply In the past few\nyears, but numerous simple mis-\ntakes continue to show up.\n\n\nMr.. Patterson said: 1.-THE best\nadvice we can give on filing a\nreturn is when you complete it,\nresist the temptation to put it in\nthe mail right away. Set it aside",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 593,
+                "y0": 6027,
+                "x1": 1334,
+                "y1": 6247
+            },
+            "class": "headline",
+            "raw_text": "INTERNAL REVENUE\nHEAD GIVES TAX\nHINTS FOR 1864",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1032,
+                "y0": 6275,
+                "x1": 1842,
+                "y1": 6935
+            },
+            "class": "article",
+            "raw_text": "for a day or two, then give it a\nthor ough review for omitted in\ncome or deductions. errors in\narithmetic, printed name and\ncurrent address, social security\nnumber, correct copies ofW-2\nsignatures\"\n\n\nHe pointed out, the taxpayer\nwill find that a review of his\nreturn will turn up mistakes\nwhich we're unnoticed previously.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 107,
+                "y0": 3513,
+                "x1": 1790,
+                "y1": 4236
+            },
+            "class": "article",
+            "raw_text": "delegates National Publishers Associa\nand workshop selected have\nspecial meeting President Lyndon B. Johnson Thurs JAM 3d.\n\n\nheld the Cabinet Room the White House.\nleft Edward Banks publisher Of The\nTribune He members chosen\nthe the White House meeting.\n\n\nWashington Rhodes NA president publisher of The Pla\ndephia Tribune seated the left of Pres. Johnson\n\n\nattending the meeting John Murphy Harry Alex\nStanley Carlton Goode John Sengsacke several\nother publishers from various",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2795,
+                "y0": 4074,
+                "x1": 4472,
+                "y1": 4577
+            },
+            "class": "article",
+            "raw_text": "the ties which the family OF Medgar\nEvers gift of NAACP life memberships\nfor each of the three children The life member\nships given by DR. P T. Robinson OF Richmond Calf\nmember the National Life Membership Committee VINO mas\nalso for Mrs. Daisy Bates and Lauran\nCardinal Rugambwa of Tanganka Pictured here are DARRELL\nMrs. Evers James Van Dyke and Reena Denise",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1922,
+                "y0": 7032,
+                "x1": 2726,
+                "y1": 7184
+            },
+            "class": "article",
+            "raw_text": "NOW, LET'S CONQUER\nMENTAL ILLNE s",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-02-07"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "PRINCETON, NJ. The son\nof a slain African political lead\nerr has appealed for an official\ninquiry to determine who killed\nhis father and why.\n\n\nHe is Fernando E. Olympic,\na 23-year-old Princeton junior,\nson of President Sylvanus Olym-\npto of Togo, who was shot and\nkilled in a military coup d. etat\nin Lone. Togo's capital, on Jan.\nIs, 1868.\n\n\nIn a letter to The New York\nTimes dated on the first ami\nversary of his father death the\nyounger Olympic recalled that\nthe crime had gone unpublished.\n\n\n\"Not only as a son of the\nlate President Olympic, but also\nas an individual believing that\nevery citizen has a right to pro-\nlection under the law of his\ncountry, find 1t most disturb\ning that, up to now. no com\nmission of inquiry has been set\nup to investigate such an I'M",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 107,
+                    "y0": 4455,
+                    "x1": 935,
+                    "y1": 5999
+                }
+            ],
+            "bbox": [
+                107,
+                4455,
+                935,
+                5999
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                18,
+                3
+            ],
+            "headline": "2ND ANNUAL\nCLEAN UP CAMPAIGN",
+            "article": "The second annual spring\n\"Companys Coming Cleanup\nWeek will be Feb. 7 - Is by the\nIdentification Committee Of the\nRoosevelt Central Council, an\nnounced Mrs. Irwin McGrew,\ncommittee chairman.\n\n\nLast year the group sponsored\nCleanup Week to include Arbor\nDay in order to promote the plant\ning of trees, shrubs and summer\nflowers.\n\n\n\"Companys Coming the slo-\ngan is reminder that # is time\nto clean, paint, repair and plant\nbefore thousands of winter visi-\ntors drive through our community\nto enjoy some of our most scenic\ncharlottesville Japanese flower\ngardens on East Baseline Road,\nSouth Mountain Park, the resi-\nDental and commercial citrus\ngroves and St. John s Indian Mis-\nsion south of Laveen.\n\n\nThe councils committee CO.\nchairman, Mr.. Gordon Barr, sup\nerintendent of the Roosevelt\nSchool District, announced ele-\nmentary schools will participate\nin an Arbor Day activity on\nFebruary 7.\n\n\nOther plans made by the COM\nmittee include letters to be sent\nto the representatives of all or\nCARNATIONS for a community\nmeeting to be held in the Neigh\nborhood House, Seventh Street\nand Southern Avenue, at 7:3O\npm. Tuesday. February IL.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3685,
+                    "y0": 4675,
+                    "x1": 4460,
+                    "y1": 4826
+                },
+                {
+                    "x0": 3644,
+                    "y0": 4848,
+                    "x1": 4477,
+                    "y1": 7137
+                }
+            ],
+            "bbox": [
+                3644,
+                4675,
+                4477,
+                7137
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "MEMS DAY PROGRAM\nAT TANNER CHAPEL",
+            "article": "Mems Day will be observed at\nTanner Chapel A.M.C. Church,\nNinth Street and Jefferson, Feb.\n9, with services conducted by\nlay members.\n\n\nThe day is observed annually\nby the African Methodist Epis-\ncopal churches. Offerings Wllg 60\nto the A.M.E.\n\n\nGeorge F. Miller, executive\nof the Theodore Roosevelt Coun-\nGil, Boy Scouts of America, will\nspeak on \"You Make the Diff\nference at the 10:45 ann. SER\nvice.\n\n\nCalvin Goode, school business\nmanager and owner of a tax\nservice, will speak on 1.-The\nWhole Man. at the 4 pm. SER\nvice.\n\n\nThe Rev. l.. K. Williams is\npastor of Tanner Chapel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2777,
+                    "y0": 4646,
+                    "x1": 3582,
+                    "y1": 4809
+                },
+                {
+                    "x0": 2760,
+                    "y0": 4836,
+                    "x1": 3582,
+                    "y1": 6143
+                }
+            ],
+            "bbox": [
+                2760,
+                4646,
+                3582,
+                6143
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "OLYMPIC WANTS FATHERS DEATH\nINVESTIGATED THOROUGHLY",
+            "article": "worthy act\" he wrote.\n\n\ncit is year since my father\nwas killed, and | don't want it\nto be forgotten\" he said. 81\nhope world opinion can encour-\nage someone perhaps the At\nrican states to set up a COM\nmission of inquiry to get the\nTRUTH\n\n\nHe recalled that shortly after\nthe Staying Nigeria took the in\nitiative in proposing to send an\ninvestigating team from various\nAfrican states to Lone. How\never, the Provisional Govern\nment set up by the military jun\nia whose members had killed the\nPresident refused to admit such\na party.\n\n\nLater President Sekou Koure\nOf Guinea cabled a request to\nu Thant. Secretary General of\nthe United Nations, asking him\nto send observers to Togo, but\nnothing came of the proposal,\naccording to the young man.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 113,
+                    "y0": 4264,
+                    "x1": 1386,
+                    "y1": 4421
+                },
+                {
+                    "x0": 1003,
+                    "y0": 4449,
+                    "x1": 1825,
+                    "y1": 5982
+                }
+            ],
+            "bbox": [
+                113,
+                4264,
+                1825,
+                5982
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                9,
+                7
+            ],
+            "headline": "HOME OF 10\nDESTROYED\nBY FLAMES",
+            "article": "A home occupied by mother\nand her nine children was swept\nby fire.\n\n\nEight of Mrs. Omega Chap\npelle's children we're at school\nwhen she and her youngest son\nwe're awakened by smoke in their\nhome at 3135 E. Belleview, fire\nmen were told.\n\n\nAn investigation indicated the\nfire started in a rollaway bed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2789,
+                    "y0": 6177,
+                    "x1": 3252,
+                    "y1": 6404
+                },
+                {
+                    "x0": 2772,
+                    "y0": 6431,
+                    "x1": 3582,
+                    "y1": 7091
+                }
+            ],
+            "bbox": [
+                2772,
+                6177,
+                3582,
+                7091
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Herbert Neal, formerly direc-\ntor of marketing research for\nChock Full ONuts, has been ap-\npointed to the Household Products\nDivision of Lever Brothers Com\npany as an assistant roduct man\nager, according to an announce\nment by c. E. Palmer, a mer-\nchandising manager for the d.\nvision, which markets the COM\npany's soaps, detergents and\nother household products.\n\n\nNeal joined Lever Brothers\nlast October, and had been tenn\nporarily assigned to the field\nsales force. Before serving two\nyears with Chock Full o. Nuts,\nhe had been associated with two\nNew York advertising agencies\nYoung & Rubicam and Batten,\nBarton, Durstine & Osborne--in\nvarious marketing research ca\npacities.\n\n\nA graduate of both Harvard\nCollege and the Harvard Grad\nuate Business School with an\nALB. degree in economics and an\nM.B.A. in business administra-\ntion, he lectured on marketing for\ntwo years at Rutgers Universitys\nGraduate School of Business.\n\n\nMr.. Neal served with the US.\nArmy during World War II, seeing\naction in India and Burma. He\nresides with his wife and two\nchildren in New Jersey, where he\nis a member of the Pequannock\nTownship School Board.\n\n\nNOW, LET'S CONQUER\nMENTAL ILLNE 9 8",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1899,
+                    "y0": 4784,
+                    "x1": 2726,
+                    "y1": 7166
+                }
+            ],
+            "bbox": [
+                1899,
+                4784,
+                2726,
+                7166
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                12,
+                11
+            ],
+            "headline": "INTERNAL REVENUE\nHEAD GIVES TAX\nHINTS FOR 1864",
+            "article": "District director of Internal\nRevenue, George D. Patterson,\nsaid that the percentage of cor\nrectly prepared returns has in\ncreased sharply In the past few\nyears, but numerous simple mis-\ntakes continue to show up.\n\n\nMr.. Patterson said: 1.-THE best\nadvice we can give on filing a\nreturn is when you complete it,\nresist the temptation to put it in\nthe mail right away. Set it aside",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 593,
+                    "y0": 6027,
+                    "x1": 1334,
+                    "y1": 6247
+                },
+                {
+                    "x0": 136,
+                    "y0": 6275,
+                    "x1": 952,
+                    "y1": 6976
+                }
+            ],
+            "bbox": [
+                136,
+                6027,
+                1334,
+                6976
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "for a day or two, then give it a\nthor ough review for omitted in\ncome or deductions. errors in\narithmetic, printed name and\ncurrent address, social security\nnumber, correct copies ofW-2\nsignatures\"\n\n\nHe pointed out, the taxpayer\nwill find that a review of his\nreturn will turn up mistakes\nwhich we're unnoticed previously.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1032,
+                    "y0": 6275,
+                    "x1": 1842,
+                    "y1": 6935
+                }
+            ],
+            "bbox": [
+                1032,
+                6275,
+                1842,
+                6935
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "delegates National Publishers Associa\nand workshop selected have\nspecial meeting President Lyndon B. Johnson Thurs JAM 3d.\n\n\nheld the Cabinet Room the White House.\nleft Edward Banks publisher Of The\nTribune He members chosen\nthe the White House meeting.\n\n\nWashington Rhodes NA president publisher of The Pla\ndephia Tribune seated the left of Pres. Johnson\n\n\nattending the meeting John Murphy Harry Alex\nStanley Carlton Goode John Sengsacke several\nother publishers from various",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 107,
+                    "y0": 3513,
+                    "x1": 1790,
+                    "y1": 4236
+                }
+            ],
+            "bbox": [
+                107,
+                3513,
+                1790,
+                4236
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "the ties which the family OF Medgar\nEvers gift of NAACP life memberships\nfor each of the three children The life member\nships given by DR. P T. Robinson OF Richmond Calf\nmember the National Life Membership Committee VINO mas\nalso for Mrs. Daisy Bates and Lauran\nCardinal Rugambwa of Tanganka Pictured here are DARRELL\nMrs. Evers James Van Dyke and Reena Denise",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2795,
+                    "y0": 4074,
+                    "x1": 4472,
+                    "y1": 4577
+                }
+            ],
+            "bbox": [
+                2795,
+                4074,
+                4472,
+                4577
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "NOW, LET'S CONQUER\nMENTAL ILLNE s",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1922,
+                    "y0": 7032,
+                    "x1": 2726,
+                    "y1": 7184
+                }
+            ],
+            "bbox": [
+                1922,
+                7032,
+                2726,
+                7184
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-02-07_p1_sn84021918_0041421695A_1964020701_0285.json"
+        }
+    ]
+}

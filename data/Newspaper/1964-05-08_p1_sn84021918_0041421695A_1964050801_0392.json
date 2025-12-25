@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050801/0392.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7431,
+        "width": 4828
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3853,
+                "y0": 539,
+                "x1": 4679,
+                "y1": 2526
+            },
+            "class": "article",
+            "raw_text": "who is George LeMs7\" a\nnew-printed booklet is being dis\ntributed by the Republican Ma\ntional Committee. 1t calls atten-\ntion to the key roles played by\nNegro personnel in the pary's\nnational headquarters.\n\n\nThe George Lewis in ques-\nton is the chief librarian. He\nhas been in the employ of the\nRepublican National Committee\nsince l948. Other personalities\nfeatured in the booklet include\nClay ]. Claiborne. Special As\nsistant to the National Chairman\nand head of the Committee Min\ncritics Division: Miss Albertine\n(\"Tina\") Bowie. Special assist\nant to Assistant National Chair\nman ELY Peterson; Edward Peete\nin charge of mailing and shipping\nactivities, and attorney Grant\nReynolds, who holds the title of\nSpecial Counsel to the Chair\nman.\n\n\nThe booklet shows graphically\nthat Negroes hold highly respon-\nsible positions within the COP\nnerve center and they are vet\nGrams Of many past campaigns.\n\n\nTo obtain copies send request\nto Republican National Commit\ntee.. 1925 Eye St. NV. Wash\nington DC.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3882,
+                "y0": 354,
+                "x1": 4516,
+                "y1": 523
+            },
+            "class": "headline",
+            "raw_text": "Negroes Hold Key\nCOP Posts",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3871,
+                "y0": 2693,
+                "x1": 4696,
+                "y1": 3513
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Arnold Coldwag,\na leader of the Brooklyn CORE\nchapter, was sentenced to Is\nmonths In jail.\n\n\nGoldwag has continued disor-\nderby civil rights demonstrations\nwhile on probation.\n\n\nAS soon as his sentence was\nannounced, Goldwag fell to the\nfloor shouting, \"Ku Klux Nan.\"\n\n\nThe 26 yr. old son of Jewish\ngarment maker and the brother\nof a rabbi, Goldwag helped plan\nthe worlds fair stall in.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3876,
+                "y0": 2560,
+                "x1": 4557,
+                "y1": 2665
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1177,
+                "y0": 626,
+                "x1": 2002,
+                "y1": 1051
+            },
+            "class": "article",
+            "raw_text": "Whitfield, treasurer and Warren\nMason. United Fund coordinator.\n\n\nCharles Harlins is executive\ndirector; William Bell, Jr.. is\nassociate director and Mrs. Al\ncardio Douglass. Jr.. is secre-\ntary.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 260,
+                "y0": 464,
+                "x1": 1938,
+                "y1": 598
+            },
+            "class": "headline",
+            "raw_text": "New Officers Named By Urbun League",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 254,
+                "y0": 638,
+                "x1": 1079,
+                "y1": 1063
+            },
+            "class": "article",
+            "raw_text": "New officers of the Phoenix Ur-\nban League have been announced.\nThey are Edward Peplow; Jr.,\npresident; DR.. David Wormley,\nLIST vice president; Budd Peabody.\nEnd vice president; Mrs. Clar-\nence Laing, secretary: STROLLER",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2100,
+                "y0": 1788,
+                "x1": 3796,
+                "y1": 2474
+            },
+            "class": "article",
+            "raw_text": "The combined groups of New Home Baptist\nChurch, sponsored a dinner program Friday\n\n\nj. D. Holmes, speaker; Rev. Hunter,\nWilliams, Tonme Williams. ST., Iomme Crawford\nM H. Crawford j. Cozza Dan Cozza Rev. A. Smith and Lloyd\nspecial held Friday Mes\nEppnger Ruby Rebecca\nSpell.\n\n\nthe members of the food committee in\nGuiding Lewis Beatrice Yancey Catherine\nJones' Ree. Lucille Sson Beatrice Jones' Mary Martin",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-08"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "Negroes Hold Key\nCOP Posts",
+            "article": "who is George LeMs7\" a\nnew-printed booklet is being dis\ntributed by the Republican Ma\ntional Committee. 1t calls atten-\ntion to the key roles played by\nNegro personnel in the pary's\nnational headquarters.\n\n\nThe George Lewis in ques-\nton is the chief librarian. He\nhas been in the employ of the\nRepublican National Committee\nsince l948. Other personalities\nfeatured in the booklet include\nClay ]. Claiborne. Special As\nsistant to the National Chairman\nand head of the Committee Min\ncritics Division: Miss Albertine\n(\"Tina\") Bowie. Special assist\nant to Assistant National Chair\nman ELY Peterson; Edward Peete\nin charge of mailing and shipping\nactivities, and attorney Grant\nReynolds, who holds the title of\nSpecial Counsel to the Chair\nman.\n\n\nThe booklet shows graphically\nthat Negroes hold highly respon-\nsible positions within the COP\nnerve center and they are vet\nGrams Of many past campaigns.\n\n\nTo obtain copies send request\nto Republican National Commit\ntee.. 1925 Eye St. NV. Wash\nington DC.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3882,
+                    "y0": 354,
+                    "x1": 4516,
+                    "y1": 523
+                },
+                {
+                    "x0": 3853,
+                    "y0": 539,
+                    "x1": 4679,
+                    "y1": 2526
+                }
+            ],
+            "bbox": [
+                3853,
+                354,
+                4679,
+                2526
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-08_p1_sn84021918_0041421695A_1964050801_0392.json"
+        },
+        {
+            "object_ids": [
+                11,
+                2
+            ],
+            "headline": "",
+            "article": "NEW YORK = Arnold Coldwag,\na leader of the Brooklyn CORE\nchapter, was sentenced to Is\nmonths In jail.\n\n\nGoldwag has continued disor-\nderby civil rights demonstrations\nwhile on probation.\n\n\nAS soon as his sentence was\nannounced, Goldwag fell to the\nfloor shouting, \"Ku Klux Nan.\"\n\n\nThe 26 yr. old son of Jewish\ngarment maker and the brother\nof a rabbi, Goldwag helped plan\nthe worlds fair stall in.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3876,
+                    "y0": 2560,
+                    "x1": 4557,
+                    "y1": 2665
+                },
+                {
+                    "x0": 3871,
+                    "y0": 2693,
+                    "x1": 4696,
+                    "y1": 3513
+                }
+            ],
+            "bbox": [
+                3871,
+                2560,
+                4696,
+                3513
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-08_p1_sn84021918_0041421695A_1964050801_0392.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "New Officers Named By Urbun League",
+            "article": "Whitfield, treasurer and Warren\nMason. United Fund coordinator.\n\n\nCharles Harlins is executive\ndirector; William Bell, Jr.. is\nassociate director and Mrs. Al\ncardio Douglass. Jr.. is secre-\ntary.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 260,
+                    "y0": 464,
+                    "x1": 1938,
+                    "y1": 598
+                },
+                {
+                    "x0": 1177,
+                    "y0": 626,
+                    "x1": 2002,
+                    "y1": 1051
+                }
+            ],
+            "bbox": [
+                260,
+                464,
+                2002,
+                1051
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-08_p1_sn84021918_0041421695A_1964050801_0392.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "New officers of the Phoenix Ur-\nban League have been announced.\nThey are Edward Peplow; Jr.,\npresident; DR.. David Wormley,\nLIST vice president; Budd Peabody.\nEnd vice president; Mrs. Clar-\nence Laing, secretary: STROLLER",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 254,
+                    "y0": 638,
+                    "x1": 1079,
+                    "y1": 1063
+                }
+            ],
+            "bbox": [
+                254,
+                638,
+                1079,
+                1063
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-08_p1_sn84021918_0041421695A_1964050801_0392.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "The combined groups of New Home Baptist\nChurch, sponsored a dinner program Friday\n\n\nj. D. Holmes, speaker; Rev. Hunter,\nWilliams, Tonme Williams. ST., Iomme Crawford\nM H. Crawford j. Cozza Dan Cozza Rev. A. Smith and Lloyd\nspecial held Friday Mes\nEppnger Ruby Rebecca\nSpell.\n\n\nthe members of the food committee in\nGuiding Lewis Beatrice Yancey Catherine\nJones' Ree. Lucille Sson Beatrice Jones' Mary Martin",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2100,
+                    "y0": 1788,
+                    "x1": 3796,
+                    "y1": 2474
+                }
+            ],
+            "bbox": [
+                2100,
+                1788,
+                3796,
+                2474
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-05-08_p1_sn84021918_0041421695A_1964050801_0392.json"
+        }
+    ]
+}

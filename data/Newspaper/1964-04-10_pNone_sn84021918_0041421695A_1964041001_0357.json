@@ -1,0 +1,588 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4863,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041001/0357.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2842,
+                "y0": 5120,
+                "x1": 3659,
+                "y1": 6348
+            },
+            "class": "article",
+            "raw_text": "The Phoenix Urban League\nGuild will present tea based on\nthe theme, IL Am an American\n1t will present dances and songs\nof different ethnic groups in\nAmerican culture.\n\n\nJewish, African, Mexican and\nChinese plus other types of mu-\nsic will be featured.\n\n\nMiss Arlena Seneca. guild\npresident, said the annual\nFriendship Tea will be held Sum-.\nApril 81, 8 pm. at Kendall Hall.\nCentral Methodist Church, 1875\nN. Central. ,',,\n\n\nCommittee members include\nMesdames Rosalie Magee, Frank\nMcKibben. Charles Harlins. Nc\nFraddie Martin, Thomas Gilbert,\nF. Luther, Lee DiCerbo, and Hugh\nMorrison.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2853,
+                "y0": 4912,
+                "x1": 3358,
+                "y1": 5098
+            },
+            "class": "headline",
+            "raw_text": "Guild Tea Set\nSUnd uy Here",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1957,
+                "y0": 5762,
+                "x1": 2773,
+                "y1": 7111
+            },
+            "class": "article",
+            "raw_text": "ST. LOUIS DR.. Martin Luther\nKing predicts increased civil\nrights movements this summer\nthroughout the nation. More than\n900 persons heard the head of the\nSouthern Christian Leadership\nConference. An estimated 500\nwaited to get in but we're unable\nto enter.\n\n\nHe vowed activity will concen-\ntrate on voters registration this\nsummer. He said demonstrations\nto increase the opening Of public\naccommodations will be stepped\nup, too.\n\n\nDR.. King said the churches are\ntagging In their part and they\nshould be integrated.\n\n\nThe civil rights leader urged\nNegroes to use their vast pur-\nchasing power as an effective\nweapon in the civil rights cam\npaign.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1968,
+                "y0": 5479,
+                "x1": 2565,
+                "y1": 5729
+            },
+            "class": "headline",
+            "raw_text": "DR.. KING SEES\nCIVIL RIGHTS\n\n\nPROGRAM MOVE",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3710,
+                "y0": 5114,
+                "x1": 4527,
+                "y1": 6417
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Bayard Rustin,\nintegrationist leader, attacked\nthe violent policies of Malcolm\nK. =\n\n\nHe told 500 members of the\nAmerican Jewish Congress ma\ntional women's division that the\nNegro struggle could be won with\nthe combined efforts of Protes-\ntants, Catholics. Jews and organ\nlied labor. '>'f.e\n\n\nHe continued \"The history and\nspirit of the American Negro re-\niect the idea Of rifles, bullets and\ngun clubs.\n\n\nHe accepted the Wise Distin-\nguished Service Award for Ma\nhalia Jackson, gospel singer who\nwas unable to attend.\n\n\nThe award cited Miss Jackson\nfor service in the cause of civil\nrights.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3727,
+                "y0": 4900,
+                "x1": 4330,
+                "y1": 5092
+            },
+            "class": "headline",
+            "raw_text": "RUsTIN ATTACKS\nMALCOLM X",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1077,
+                "y0": 5560,
+                "x1": 1894,
+                "y1": 7088
+            },
+            "class": "article",
+            "raw_text": "CLEVELAND = Rev. Bruce w.\nKlunder, IT, white Presbyter-\nian minister and civil rights par\nticipant, was crushed to death\nTuesday during a demonstration\nat a school construction site.\n\n\nHe was behind the bulldozer\nwhen the operator, John White.\n%, backed the machine in an\neffort to avoid demonstrators in\nfront of him.\n\n\nWitnesses said Klunder threw\nhimself on the ground. Three\nother persons had thrown them\nselves in front of the tractor.\nyer and only police intervention\nsaved his life.\n\n\nAngry crowds milled about and\nfighting between them and police\nofficers lasted for severalhours.\n\n\nTwo policemen we're injured\nand FL persons were arrested.\n\n\nAn expectant mother was hos\npitalized after she had jumped\ninto a four foot ditch at the build\ning site.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1089,
+                "y0": 5288,
+                "x1": 1680,
+                "y1": 5549
+            },
+            "class": "headline",
+            "raw_text": "Minister Crushed\nTo Death A.\n\n\nDemonstration",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 186,
+                "y0": 5502,
+                "x1": 997,
+                "y1": 6429
+            },
+            "class": "article",
+            "raw_text": "KANSAS CITY, Mo. - The city\nordinance forbidding racial dis\nelimination In most business\nplaces narrowly passed by l.743\nvotes in referendum.\n\n\nLast September the city council\nadopted an amendment to In\nclude tavernS, amuSementS,\nsports and recreation places,\nstores, auditoriums, public\ntransportation, trade and COM\nmercial schools.\n\n\nBarber and beauty shops,\nrooming and boarding houses and\nrented apartments were ex-\ncluded.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 203,
+                "y0": 5265,
+                "x1": 922,
+                "y1": 5480
+            },
+            "class": "headline",
+            "raw_text": "ACCOMMODATIONS\nBILL BARELY PASSES\nIN &c.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1962,
+                "y0": 4466,
+                "x1": 2779,
+                "y1": 5457
+            },
+            "class": "article",
+            "raw_text": "David Banks, IS, son of MIR.\nand Mrs. Fred Banks, 1885 East\nWier, is the Arizona Tribune\nTeen of the Week.\n\n\nA freshman at South Mountain\nHigh, David won the city ora\ntorical contest spoons ored by the\nOptimist Clubs.\n\n\nHe is a member of the Careers\nfor Youth, Latin and Jack and\nJill clubs.\n\n\nHe likes to play the guitar,\ndraw and read.\n\n\nMiss Lucille Hicks is his\nspeech coach.\n\n\nDavid will compete for the state\ntitle at Tucson later this month.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 203,
+                "y0": 6648,
+                "x1": 1014,
+                "y1": 7123
+            },
+            "class": "article",
+            "raw_text": "CHICAGO MIR. and Mrs. Dick\nGregory named their twin girls\nin tribute of the civil rights pro-\ngram.\n\n\nThe girls will be known are\nPaula Int and Pamela Grafton.\nTheir middle names form the\nword migration.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 203,
+                "y0": 6439,
+                "x1": 922,
+                "y1": 6625
+            },
+            "class": "headline",
+            "raw_text": "COMICS TWINS\n\n\nNAMED IMMIGRATION",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3721,
+                "y0": 6630,
+                "x1": 4532,
+                "y1": 7106
+            },
+            "class": "article",
+            "raw_text": "fist and local civil rights leader,\nreported 20 persons at least\nwould be in tutoring groups this\nsummer.\n\n\nThe tutors would live with the\nNegro families and try to help\nprepare them for college en-\ntrance.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2853,
+                "y0": 6486,
+                "x1": 3861,
+                "y1": 6625
+            },
+            "class": "headline",
+            "raw_text": "Tutoring Plan Reported",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2842,
+                "y0": 572,
+                "x1": 4532,
+                "y1": 3217
+            },
+            "class": "article",
+            "raw_text": "Mayor Milton Graham announced re Gently\nthe city council had agreed to bolster activ-\ntiles of the Phoenix Commission on Human\nRelations by hiring an eve cs4tiUe diYectOr.\n\n\nDuring its first term of activity the city'S\nhuman re loti0ns commission has proved\nworthwhile and it has been responsible for\ncreating better understanding in the city.\naoas dire city responsible for he ping to\nsettle seveYal problems which arose.\n\n\nA paid executive dire ctOY IS needed.\nbut an experienced person is a must. There\nIS little Uahue to employ someone Who has\nneveY dealt with group relations nor city\nprograms Of this nature.\n\n\nFunds eaYmoYked for this commits sion in\ndictate that the city Of Phoenix is mootsag in\na definite and positive channel to Improve\nminority groups Hte. @\n\n\n1t is a0ell for Negroes to realize that Negro\nproblems are by no means the only minority\nGROUP problems in this area. There are many\nproblems caused be cause Individuals speak a\ndifferent language, haze a different religious\nbelief or haze different coloYs Of skin.\n\n\nAn exc c14tive dire ctoY Of the Phoenix Human\nRelations Commission must be wisely select\ned and he must quality for the position. Senti-\nnaenta hty nor favoYitism must not enter in the\nselection If ne aOish the commission to be\nmore naeaning1ul and progressive.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3160,
+                "y0": 358,
+                "x1": 4098,
+                "y1": 527
+            },
+            "class": "headline",
+            "raw_text": "A GOOD MOVE",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2848,
+                "y0": 6665,
+                "x1": 3659,
+                "y1": 7100
+            },
+            "class": "article",
+            "raw_text": "ST. AUGUSTINE, FLA.--White\ncollege students and teachers\nplan to teach and live in Negro\nneighborhoods this summer.\n\n\nWalton Senterfitt. a Yale STU\ndent who is a special assistant to\nDR.. R. B. Hayling. Negro dem",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041001_0357",
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "Guild Tea Set\nSUnd uy Here",
+            "article": "The Phoenix Urban League\nGuild will present tea based on\nthe theme, IL Am an American\n1t will present dances and songs\nof different ethnic groups in\nAmerican culture.\n\n\nJewish, African, Mexican and\nChinese plus other types of mu-\nsic will be featured.\n\n\nMiss Arlena Seneca. guild\npresident, said the annual\nFriendship Tea will be held Sum-.\nApril 81, 8 pm. at Kendall Hall.\nCentral Methodist Church, 1875\nN. Central. ,',,\n\n\nCommittee members include\nMesdames Rosalie Magee, Frank\nMcKibben. Charles Harlins. Nc\nFraddie Martin, Thomas Gilbert,\nF. Luther, Lee DiCerbo, and Hugh\nMorrison.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2853,
+                    "y0": 4912,
+                    "x1": 3358,
+                    "y1": 5098
+                },
+                {
+                    "x0": 2842,
+                    "y0": 5120,
+                    "x1": 3659,
+                    "y1": 6348
+                }
+            ],
+            "bbox": [
+                2842,
+                4912,
+                3659,
+                6348
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "DR.. KING SEES\nCIVIL RIGHTS\n\n\nPROGRAM MOVE",
+            "article": "ST. LOUIS DR.. Martin Luther\nKing predicts increased civil\nrights movements this summer\nthroughout the nation. More than\n900 persons heard the head of the\nSouthern Christian Leadership\nConference. An estimated 500\nwaited to get in but we're unable\nto enter.\n\n\nHe vowed activity will concen-\ntrate on voters registration this\nsummer. He said demonstrations\nto increase the opening Of public\naccommodations will be stepped\nup, too.\n\n\nDR.. King said the churches are\ntagging In their part and they\nshould be integrated.\n\n\nThe civil rights leader urged\nNegroes to use their vast pur-\nchasing power as an effective\nweapon in the civil rights cam\npaign.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1968,
+                    "y0": 5479,
+                    "x1": 2565,
+                    "y1": 5729
+                },
+                {
+                    "x0": 1957,
+                    "y0": 5762,
+                    "x1": 2773,
+                    "y1": 7111
+                }
+            ],
+            "bbox": [
+                1957,
+                5479,
+                2773,
+                7111
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                20,
+                5
+            ],
+            "headline": "RUsTIN ATTACKS\nMALCOLM X",
+            "article": "NEW YORK = Bayard Rustin,\nintegrationist leader, attacked\nthe violent policies of Malcolm\nK. =\n\n\nHe told 500 members of the\nAmerican Jewish Congress ma\ntional women's division that the\nNegro struggle could be won with\nthe combined efforts of Protes-\ntants, Catholics. Jews and organ\nlied labor. '>'f.e\n\n\nHe continued \"The history and\nspirit of the American Negro re-\niect the idea Of rifles, bullets and\ngun clubs.\n\n\nHe accepted the Wise Distin-\nguished Service Award for Ma\nhalia Jackson, gospel singer who\nwas unable to attend.\n\n\nThe award cited Miss Jackson\nfor service in the cause of civil\nrights.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3727,
+                    "y0": 4900,
+                    "x1": 4330,
+                    "y1": 5092
+                },
+                {
+                    "x0": 3710,
+                    "y0": 5114,
+                    "x1": 4527,
+                    "y1": 6417
+                }
+            ],
+            "bbox": [
+                3710,
+                4900,
+                4527,
+                6417
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "Minister Crushed\nTo Death A.\n\n\nDemonstration",
+            "article": "CLEVELAND = Rev. Bruce w.\nKlunder, IT, white Presbyter-\nian minister and civil rights par\nticipant, was crushed to death\nTuesday during a demonstration\nat a school construction site.\n\n\nHe was behind the bulldozer\nwhen the operator, John White.\n%, backed the machine in an\neffort to avoid demonstrators in\nfront of him.\n\n\nWitnesses said Klunder threw\nhimself on the ground. Three\nother persons had thrown them\nselves in front of the tractor.\nyer and only police intervention\nsaved his life.\n\n\nAngry crowds milled about and\nfighting between them and police\nofficers lasted for severalhours.\n\n\nTwo policemen we're injured\nand FL persons were arrested.\n\n\nAn expectant mother was hos\npitalized after she had jumped\ninto a four foot ditch at the build\ning site.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1089,
+                    "y0": 5288,
+                    "x1": 1680,
+                    "y1": 5549
+                },
+                {
+                    "x0": 1077,
+                    "y0": 5560,
+                    "x1": 1894,
+                    "y1": 7088
+                }
+            ],
+            "bbox": [
+                1077,
+                5288,
+                1894,
+                7088
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "ACCOMMODATIONS\nBILL BARELY PASSES\nIN &c.",
+            "article": "KANSAS CITY, Mo. - The city\nordinance forbidding racial dis\nelimination In most business\nplaces narrowly passed by l.743\nvotes in referendum.\n\n\nLast September the city council\nadopted an amendment to In\nclude tavernS, amuSementS,\nsports and recreation places,\nstores, auditoriums, public\ntransportation, trade and COM\nmercial schools.\n\n\nBarber and beauty shops,\nrooming and boarding houses and\nrented apartments were ex-\ncluded.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 203,
+                    "y0": 5265,
+                    "x1": 922,
+                    "y1": 5480
+                },
+                {
+                    "x0": 186,
+                    "y0": 5502,
+                    "x1": 997,
+                    "y1": 6429
+                }
+            ],
+            "bbox": [
+                186,
+                5265,
+                997,
+                6429
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "David Banks, IS, son of MIR.\nand Mrs. Fred Banks, 1885 East\nWier, is the Arizona Tribune\nTeen of the Week.\n\n\nA freshman at South Mountain\nHigh, David won the city ora\ntorical contest spoons ored by the\nOptimist Clubs.\n\n\nHe is a member of the Careers\nfor Youth, Latin and Jack and\nJill clubs.\n\n\nHe likes to play the guitar,\ndraw and read.\n\n\nMiss Lucille Hicks is his\nspeech coach.\n\n\nDavid will compete for the state\ntitle at Tucson later this month.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1962,
+                    "y0": 4466,
+                    "x1": 2779,
+                    "y1": 5457
+                }
+            ],
+            "bbox": [
+                1962,
+                4466,
+                2779,
+                5457
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                16,
+                10
+            ],
+            "headline": "COMICS TWINS\n\n\nNAMED IMMIGRATION",
+            "article": "CHICAGO MIR. and Mrs. Dick\nGregory named their twin girls\nin tribute of the civil rights pro-\ngram.\n\n\nThe girls will be known are\nPaula Int and Pamela Grafton.\nTheir middle names form the\nword migration.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 203,
+                    "y0": 6439,
+                    "x1": 922,
+                    "y1": 6625
+                },
+                {
+                    "x0": 203,
+                    "y0": 6648,
+                    "x1": 1014,
+                    "y1": 7123
+                }
+            ],
+            "bbox": [
+                203,
+                6439,
+                1014,
+                7123
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                25,
+                11
+            ],
+            "headline": "Tutoring Plan Reported",
+            "article": "fist and local civil rights leader,\nreported 20 persons at least\nwould be in tutoring groups this\nsummer.\n\n\nThe tutors would live with the\nNegro families and try to help\nprepare them for college en-\ntrance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2853,
+                    "y0": 6486,
+                    "x1": 3861,
+                    "y1": 6625
+                },
+                {
+                    "x0": 3721,
+                    "y0": 6630,
+                    "x1": 4532,
+                    "y1": 7106
+                }
+            ],
+            "bbox": [
+                2853,
+                6486,
+                4532,
+                7106
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                28,
+                12
+            ],
+            "headline": "A GOOD MOVE",
+            "article": "Mayor Milton Graham announced re Gently\nthe city council had agreed to bolster activ-\ntiles of the Phoenix Commission on Human\nRelations by hiring an eve cs4tiUe diYectOr.\n\n\nDuring its first term of activity the city'S\nhuman re loti0ns commission has proved\nworthwhile and it has been responsible for\ncreating better understanding in the city.\naoas dire city responsible for he ping to\nsettle seveYal problems which arose.\n\n\nA paid executive dire ctOY IS needed.\nbut an experienced person is a must. There\nIS little Uahue to employ someone Who has\nneveY dealt with group relations nor city\nprograms Of this nature.\n\n\nFunds eaYmoYked for this commits sion in\ndictate that the city Of Phoenix is mootsag in\na definite and positive channel to Improve\nminority groups Hte. @\n\n\n1t is a0ell for Negroes to realize that Negro\nproblems are by no means the only minority\nGROUP problems in this area. There are many\nproblems caused be cause Individuals speak a\ndifferent language, haze a different religious\nbelief or haze different coloYs Of skin.\n\n\nAn exc c14tive dire ctoY Of the Phoenix Human\nRelations Commission must be wisely select\ned and he must quality for the position. Senti-\nnaenta hty nor favoYitism must not enter in the\nselection If ne aOish the commission to be\nmore naeaning1ul and progressive.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3160,
+                    "y0": 358,
+                    "x1": 4098,
+                    "y1": 527
+                },
+                {
+                    "x0": 2842,
+                    "y0": 572,
+                    "x1": 4532,
+                    "y1": 3217
+                }
+            ],
+            "bbox": [
+                2842,
+                358,
+                4532,
+                3217
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "ST. AUGUSTINE, FLA.--White\ncollege students and teachers\nplan to teach and live in Negro\nneighborhoods this summer.\n\n\nWalton Senterfitt. a Yale STU\ndent who is a special assistant to\nDR.. R. B. Hayling. Negro dem",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2848,
+                    "y0": 6665,
+                    "x1": 3659,
+                    "y1": 7100
+                }
+            ],
+            "bbox": [
+                2848,
+                6665,
+                3659,
+                7100
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-10_pna_sn84021918_0041421695A_1964041001_0357.json"
+        }
+    ]
+}

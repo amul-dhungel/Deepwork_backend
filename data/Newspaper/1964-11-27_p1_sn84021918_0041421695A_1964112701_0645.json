@@ -1,0 +1,539 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112701/0645.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7400,
+        "width": 4866
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2756,
+                "y0": 595,
+                "x1": 3578,
+                "y1": 2232
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The need for\nbetter In school guidance of min\nGRITTY youth will be the subject\nof Delta Sigma Theta's fifth\nConference of Counselors,\" to\nbe held on Dec. 4 and S at the\nUniversity of North Carolina at\nGreensboro, NC.\n\n\n1.-The aspirational levels of\nNegro youth can be raised by\nbetter guidance and counselling.\"\nsaid DR.. Geraldine P. Woods\nof Los Angeles, national pres\nident of the women S public SER\nvice organization, in announcing\nplans for the regional meeting\nof school administrators, guild\nance counselors, homeroom\nteachers and social workers.\nResults of the latest research\nwill be pre- ented to the partic\nipants. she said, \"to acquaint\nthem with the background infor-\nnation, the skills practices and\ntechniques necessary for the sue\ncessful counseling of minority\nyouth in a locale affected by\nchanging social patterns\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2808,
+                "y0": 468,
+                "x1": 3376,
+                "y1": 567
+            },
+            "class": "headline",
+            "raw_text": "pELrAs TO MEET",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 987,
+                "y0": 4231,
+                "x1": 1798,
+                "y1": 5209
+            },
+            "class": "article",
+            "raw_text": "with ma ster of ceremonies of\nthe evening disk jockey Jim\nSpero.\n\n\nFrom 500 to 100 experts in the\nfield from rehabilitation facili-\nties throughout the United States\nand Canada are expected.\n\n\nChairmen and keynoters for\nthe three general sessions Of the\nworkshop are: Mary Switzer,\nCommit ssioner of Vocational Re-\nMobilization Association, Depart\nment of Health, Education and\nWelfare, Wa shington. DC: DR..\nFrank H. Krusen, Temple Uni\nversity Hospital and Jack Taylor\nof the New York Times.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 351,
+                "y0": 3971,
+                "x1": 1740,
+                "y1": 4209
+            },
+            "class": "headline",
+            "raw_text": "CARTOONIsT DITzEN TO APPEAR\n\n\nAT REHABILITATION CONFAB",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 85,
+                "y0": 4237,
+                "x1": 907,
+                "y1": 5186
+            },
+            "class": "article",
+            "raw_text": "Walt Ditzen, the dean of Amer\nlea s sports cartoonists, will ap-\npear S the keynote speaker at the\nAssociation of Rehabilitation\nCenter annual banquet on the\ntevening of December 2 at the\nWestward Ho Hotel.\n\n\nDitzen' s appearance was an\nnounced by Mrs. Monica Baird,\nhospitality hostess for the asso-\nciation' s 5-day workshop to be\nheld at the Hiway House Novem-\nDer %.\n\n\nThe cartoonist will augment his\npre- sentation with one Of his fam\nGus chalk talks. Ditzen will team",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3294,
+                "y0": 5365,
+                "x1": 4312,
+                "y1": 6314
+            },
+            "class": "article",
+            "raw_text": "disappointment for the very ones\nyou seek to protect.\n\n\nSo, at your earliest convenience, get\ntogether with an Arizona attorney\nand the Trust Officers of the Valley\nBank to review your Will and to\nrevise it. Make certain you are\ngiving your family complete protec-\nton, taking advantage of worth\nwhile tax savings and insuring the\ndistribution of your estate exactly\nas you wish. Call any Valley Banker\nfor an appointment.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2317,
+                "y0": 4873,
+                "x1": 4191,
+                "y1": 5308
+            },
+            "class": "headline",
+            "raw_text": "Wills that won't accomplish\ntheir original purpose.\n\n\naren't worth the paper they are written on!",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2195,
+                "y0": 5365,
+                "x1": 3220,
+                "y1": 6319
+            },
+            "class": "article",
+            "raw_text": "The old saw goes; Nothing is Ger\ntain but death and taxes!\" But\ntimes change, too; that's for certain!\nSo it stands to reason that a Will\nwritten years ago, perhaps in\nanother state, tailored to different\nlaws and tax regulations may have\nreflected your desires for your\nfamily at that time but is totally\ninadequate nowl\nInadequate is a polite word for it.\nThe hard fact is that an out-of-date\nWill can mean heartache and bitter",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 993,
+                "y0": 3382,
+                "x1": 1809,
+                "y1": 3955
+            },
+            "class": "article",
+            "raw_text": "10th Avenue. Police said six\nshots were fired.\n\n\nBrown was ARE sted at 10th\nAvenue and Buckeye Road by Pa\ntrolman Ralph Giordano 80\nminutes after the shooting. Of\nficers said Brown told them he\nhad argued with Clinton earlier,\nand that Clinton had threatened\nhim.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 450,
+                "y0": 3162,
+                "x1": 1503,
+                "y1": 3359
+            },
+            "class": "headline",
+            "raw_text": "MURDER CHARGED\nAGAINST WILLIE BROWN",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 91,
+                "y0": 3382,
+                "x1": 907,
+                "y1": 3966
+            },
+            "class": "article",
+            "raw_text": "A charge of murder was filed\nyesterday against a man accused\nOf the gunshot Staying Of Willie\nClinton, 40, of 1913 w. Papago.\n\n\nPolice said Wilbert Brown, So,\nof 1920 w. Yuma, admitted\nshooting Clinton once 1.-THE chest\nwith a .38 caliber revolver when\nClinton stepped from a car in\nin the 1900 block of S.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1883,
+                "y0": 3029,
+                "x1": 2728,
+                "y1": 3255
+            },
+            "class": "article",
+            "raw_text": "Experts state that it is safe to\nwash vanished surfaces repeat\neddy, using soap or detergent suds\nfollowed by rinse-wiping.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3641,
+                "y0": 2855,
+                "x1": 4451,
+                "y1": 3319
+            },
+            "class": "article",
+            "raw_text": "There are hundreds of ways\nof making money!\" remarked a\nfriend to the financier,\" But only\none honest one.''\n\n\n'And what is thatT' jeeredt the\nfinancier.\n\n\n\"Ah, hal\" rejoined the first.\n81 thought you wouldn't nowl\"",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3658,
+                "y0": 2289,
+                "x1": 4469,
+                "y1": 2828
+            },
+            "class": "article",
+            "raw_text": "Denzil Solomon, IL, seventh\ngrader at Booker T. Wa shingron\nSchool, carefully removes his\nwooden mobile creation which\nwas exhibited at the Phoenix\nArt Museum.\n\n\nHe is the son of MIR. and\nMrs. Sam Solomon, 2438 W. JEFF\nferSon. Photo Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2826,
+                "y0": 3127,
+                "x1": 3526,
+                "y1": 3313
+            },
+            "class": "article",
+            "raw_text": "Invest in FREEDOM this Christmas.\nBuy and use NAACP FREEDOM SEALS.\nOn sale through your local NAACP.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-11-27"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                2
+            ],
+            "headline": "pELrAs TO MEET",
+            "article": "WASHINGTON The need for\nbetter In school guidance of min\nGRITTY youth will be the subject\nof Delta Sigma Theta's fifth\nConference of Counselors,\" to\nbe held on Dec. 4 and S at the\nUniversity of North Carolina at\nGreensboro, NC.\n\n\n1.-The aspirational levels of\nNegro youth can be raised by\nbetter guidance and counselling.\"\nsaid DR.. Geraldine P. Woods\nof Los Angeles, national pres\nident of the women S public SER\nvice organization, in announcing\nplans for the regional meeting\nof school administrators, guild\nance counselors, homeroom\nteachers and social workers.\nResults of the latest research\nwill be pre- ented to the partic\nipants. she said, \"to acquaint\nthem with the background infor-\nnation, the skills practices and\ntechniques necessary for the sue\ncessful counseling of minority\nyouth in a locale affected by\nchanging social patterns\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2808,
+                    "y0": 468,
+                    "x1": 3376,
+                    "y1": 567
+                },
+                {
+                    "x0": 2756,
+                    "y0": 595,
+                    "x1": 3578,
+                    "y1": 2232
+                }
+            ],
+            "bbox": [
+                2756,
+                468,
+                3578,
+                2232
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "CARTOONIsT DITzEN TO APPEAR\n\n\nAT REHABILITATION CONFAB",
+            "article": "with ma ster of ceremonies of\nthe evening disk jockey Jim\nSpero.\n\n\nFrom 500 to 100 experts in the\nfield from rehabilitation facili-\nties throughout the United States\nand Canada are expected.\n\n\nChairmen and keynoters for\nthe three general sessions Of the\nworkshop are: Mary Switzer,\nCommit ssioner of Vocational Re-\nMobilization Association, Depart\nment of Health, Education and\nWelfare, Wa shington. DC: DR..\nFrank H. Krusen, Temple Uni\nversity Hospital and Jack Taylor\nof the New York Times.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 351,
+                    "y0": 3971,
+                    "x1": 1740,
+                    "y1": 4209
+                },
+                {
+                    "x0": 987,
+                    "y0": 4231,
+                    "x1": 1798,
+                    "y1": 5209
+                }
+            ],
+            "bbox": [
+                351,
+                3971,
+                1798,
+                5209
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Walt Ditzen, the dean of Amer\nlea s sports cartoonists, will ap-\npear S the keynote speaker at the\nAssociation of Rehabilitation\nCenter annual banquet on the\ntevening of December 2 at the\nWestward Ho Hotel.\n\n\nDitzen' s appearance was an\nnounced by Mrs. Monica Baird,\nhospitality hostess for the asso-\nciation' s 5-day workshop to be\nheld at the Hiway House Novem-\nDer %.\n\n\nThe cartoonist will augment his\npre- sentation with one Of his fam\nGus chalk talks. Ditzen will team",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 85,
+                    "y0": 4237,
+                    "x1": 907,
+                    "y1": 5186
+                }
+            ],
+            "bbox": [
+                85,
+                4237,
+                907,
+                5186
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                15,
+                5
+            ],
+            "headline": "Wills that won't accomplish\ntheir original purpose.\n\n\naren't worth the paper they are written on!",
+            "article": "disappointment for the very ones\nyou seek to protect.\n\n\nSo, at your earliest convenience, get\ntogether with an Arizona attorney\nand the Trust Officers of the Valley\nBank to review your Will and to\nrevise it. Make certain you are\ngiving your family complete protec-\nton, taking advantage of worth\nwhile tax savings and insuring the\ndistribution of your estate exactly\nas you wish. Call any Valley Banker\nfor an appointment.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2317,
+                    "y0": 4873,
+                    "x1": 4191,
+                    "y1": 5308
+                },
+                {
+                    "x0": 3294,
+                    "y0": 5365,
+                    "x1": 4312,
+                    "y1": 6314
+                }
+            ],
+            "bbox": [
+                2317,
+                4873,
+                4312,
+                6314
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "The old saw goes; Nothing is Ger\ntain but death and taxes!\" But\ntimes change, too; that's for certain!\nSo it stands to reason that a Will\nwritten years ago, perhaps in\nanother state, tailored to different\nlaws and tax regulations may have\nreflected your desires for your\nfamily at that time but is totally\ninadequate nowl\nInadequate is a polite word for it.\nThe hard fact is that an out-of-date\nWill can mean heartache and bitter",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2195,
+                    "y0": 5365,
+                    "x1": 3220,
+                    "y1": 6319
+                }
+            ],
+            "bbox": [
+                2195,
+                5365,
+                3220,
+                6319
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                17,
+                8
+            ],
+            "headline": "MURDER CHARGED\nAGAINST WILLIE BROWN",
+            "article": "10th Avenue. Police said six\nshots were fired.\n\n\nBrown was ARE sted at 10th\nAvenue and Buckeye Road by Pa\ntrolman Ralph Giordano 80\nminutes after the shooting. Of\nficers said Brown told them he\nhad argued with Clinton earlier,\nand that Clinton had threatened\nhim.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 450,
+                    "y0": 3162,
+                    "x1": 1503,
+                    "y1": 3359
+                },
+                {
+                    "x0": 993,
+                    "y0": 3382,
+                    "x1": 1809,
+                    "y1": 3955
+                }
+            ],
+            "bbox": [
+                450,
+                3162,
+                1809,
+                3955
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "A charge of murder was filed\nyesterday against a man accused\nOf the gunshot Staying Of Willie\nClinton, 40, of 1913 w. Papago.\n\n\nPolice said Wilbert Brown, So,\nof 1920 w. Yuma, admitted\nshooting Clinton once 1.-THE chest\nwith a .38 caliber revolver when\nClinton stepped from a car in\nin the 1900 block of S.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 91,
+                    "y0": 3382,
+                    "x1": 907,
+                    "y1": 3966
+                }
+            ],
+            "bbox": [
+                91,
+                3382,
+                907,
+                3966
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Experts state that it is safe to\nwash vanished surfaces repeat\neddy, using soap or detergent suds\nfollowed by rinse-wiping.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1883,
+                    "y0": 3029,
+                    "x1": 2728,
+                    "y1": 3255
+                }
+            ],
+            "bbox": [
+                1883,
+                3029,
+                2728,
+                3255
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "There are hundreds of ways\nof making money!\" remarked a\nfriend to the financier,\" But only\none honest one.''\n\n\n'And what is thatT' jeeredt the\nfinancier.\n\n\n\"Ah, hal\" rejoined the first.\n81 thought you wouldn't nowl\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3641,
+                    "y0": 2855,
+                    "x1": 4451,
+                    "y1": 3319
+                }
+            ],
+            "bbox": [
+                3641,
+                2855,
+                4451,
+                3319
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "Denzil Solomon, IL, seventh\ngrader at Booker T. Wa shingron\nSchool, carefully removes his\nwooden mobile creation which\nwas exhibited at the Phoenix\nArt Museum.\n\n\nHe is the son of MIR. and\nMrs. Sam Solomon, 2438 W. JEFF\nferSon. Photo Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3658,
+                    "y0": 2289,
+                    "x1": 4469,
+                    "y1": 2828
+                }
+            ],
+            "bbox": [
+                3658,
+                2289,
+                4469,
+                2828
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "Invest in FREEDOM this Christmas.\nBuy and use NAACP FREEDOM SEALS.\nOn sale through your local NAACP.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2826,
+                    "y0": 3127,
+                    "x1": 3526,
+                    "y1": 3313
+                }
+            ],
+            "bbox": [
+                2826,
+                3127,
+                3526,
+                3313
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-11-27_p1_sn84021918_0041421695A_1964112701_0645.json"
+        }
+    ]
+}

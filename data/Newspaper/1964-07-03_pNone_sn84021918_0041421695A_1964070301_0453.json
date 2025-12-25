@@ -1,0 +1,407 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4934,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964070301/0453.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 267,
+                "y0": 5180,
+                "x1": 1090,
+                "y1": 7178
+            },
+            "class": "article",
+            "raw_text": "In announcing his candidacy for\nGovernor of Arizona, Phoenix at\ntorney. Richard G. Kleindienst,\nsaid that pressing need exists\nto continue the kind of progress\nsive leadership Arizona has been\ngiven in the past six years.\n\n\n81 humbly believe\" he con-\ntinued, \"that, because of my\ntraining and background and be-\ncause of my knowledge and love\nof Arizona, | can provide that\nleadership.\n\n\nGAS a member of a pioneer\nArizona family, it has been my\nprivilege to have been reared in\nour State during a very exciting\nperiod of time. l have had the\nopportunity to both observe and\nparticipate in the dynamic growth\nof our States wealth, population\nand resources. This growth\nwould not have been possible\nwithout the dedicated efforts of\npersons from all walks of life.\nThe continuation of this growth\nrequires the constant best eff\nforts of us all. We must be able\nto meet the new problems which\nbeset us with sound, positive\nprograms. We must also main\ntain an environment which will\nattract jobs and opportunities for\nall our citizens.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3798,
+                "y0": 6355,
+                "x1": 4603,
+                "y1": 7172
+            },
+            "class": "article",
+            "raw_text": "chapter of the National Associa-\nton for the Advancement Of Col\nored People; attorney Reid Car\nlock, and Eugene Marin, teacher\nat Lowell School. All are mem\nbers Of the Phoenix Human Re-\nlations Commission.\n\n\nThe accommodations Commit\ntee will investigate charges of\nviolations of the accommoda-\nlions ordinance filed with the\ncity clerk. 1t is directed to re-\nport its findings in writing to\nthe clerks office within 80 days.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2941,
+                "y0": 6135,
+                "x1": 4082,
+                "y1": 6362
+            },
+            "class": "headline",
+            "raw_text": "Accomm ODD ton Committee\nChosen BY City Council",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1141,
+                "y0": 3907,
+                "x1": 1970,
+                "y1": 6188
+            },
+            "class": "article",
+            "raw_text": "Congressman John ]. Rhodes\nannounced his candidacy for re-\nelection to the United States\nHouse of Representatives from\nDistrict L.\n\n\nRhodes, Republican, is seek\ning his seventh straight term in\nCongress. The announcement\ncame at news conference held\nthis afternoon in the Phoenix\nPress Club.\n\n\nCongressman Rhodes was re-\nGently named spokesman for the\nplatform committee at the Repub-\nlican National Convention next\nmonth. He Is member Of the\npowerful House appropriations\nCommittee, and serves on the\nPublic Works and the Foreign\nOperations subcommittee.\n\n\nBorn in Council Grove, Kansas, .\nRhodes was a 1893 graduate of\nKansas State College, and OBJ\ntanned his law degree from Har-\nward Law School in lo4l. He is\na member of the bar in Kansas,\nArizona and the District of Col\numbia.\n\n\n\n\n\nDuring World War II. Rhodes\nserved nearly five years in the\nAir Force.\n\n\nA resident of Mesa, the Con-\ngresham is past president of that\nCitys Chamber of Commerce,\nand the past senior vice COM\nmander of the Mesa Post of the\nAmerican Legion. Rhodes is a\nformer vice chairman of the Ari-\niona Board of Public Welfare.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1158,
+                "y0": 3646,
+                "x1": 1819,
+                "y1": 3867
+            },
+            "class": "headline",
+            "raw_text": "John Rhodes Seeks\nHis Seventh Term",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2044,
+                "y0": 4358,
+                "x1": 2861,
+                "y1": 5476
+            },
+            "class": "article",
+            "raw_text": "Benjamin Steele, a resident Of\nPhoenix less than two years, an\nnounces the opening of Steele's\nTailor Shop. 1854 E. Washington.\n\n\nHe operated tailor and de-\nsigning shop in Chicago 7 years\nbefore moving west because ofhis\ndaughters health.\n\n\nHe studied tailoring at Tuske-\ngee Institute, Tuskegee, Alabama\nand graduated from Masters\nCollege of Fashion Designing in\nChicago.\n\n\nMr.. Steele. his wife, Billie,\nand four children reside at l402\nE. Coronado.\n\n\nHe also opened an import and\nexport company and janitorial\nservice.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2924,
+                "y0": 6396,
+                "x1": 3735,
+                "y1": 7161
+            },
+            "class": "article",
+            "raw_text": "The Phoenix City Council has\nappointed a five-member citizens\ncommittee to administer the pub\nlie accommodations ordinance\nthat becomes law July %.\n\n\nThe public accommodations\ncommittee includes Attorney\nJarril F. Kaplan, chairman. who\nplayed a key role in drafting the\nnew ordinance: Episcopal Bishop\nJoseph M. Harte, the Rev. Luth-\nerr ]. Harper, Methodist minis\nter and past president Of the state",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2044,
+                "y0": 5886,
+                "x1": 2861,
+                "y1": 7080
+            },
+            "class": "article",
+            "raw_text": "JACKSON, Miss. - Following\nNAACP requests to the US. De-\npartment of Justice, James MID\ndleton was appointed the first\nNegro u. S. Deputy Marshal in\nthe State of Mississippi this week.\nNo Negro has ever held this po-\nsition here before.\n\n\nLast June at the time Of Med\nger Evers' funeral, his brother,\nCharles Evers. now NAACP Mis-\nsissippi field secretary. con-\nsuited with Attorney General\nRobert F. Kennedy concerning the\nappointment Of a Negro as US.\nMarshal.\n\n\nFurther NAACP correspond\nence with officials in the Depart\nment of Justice resulted in the\nappointment Of MIR. Middleton.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2067,
+                "y0": 5574,
+                "x1": 2768,
+                "y1": 5806
+            },
+            "class": "headline",
+            "raw_text": "lst Negro Marshal\nNamed In Mississippi",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 267,
+                "y0": 2859,
+                "x1": 1958,
+                "y1": 3578
+            },
+            "class": "article",
+            "raw_text": "Meeting the Grand Exaer Ruler Hobson Reynolds national\nthe Improved Benevolent and Protective Order of Eks\nof the World, several Elk dignitares.\n\n\nGreeting him Sky Harbor Airport June % from left\nFranklin California: CDD Kermit Cage of Arzona\nGELK l. Smith, GER Reynolds of Philadelphia Gr CT Secre-\ntary Buen \" Kelly Norfolk Va E. E. Bobo PISA convention\nchairman l. Smith, PISA president of the womens\ndivision.\n\n\nThe Pacific States Association held in Phoenix\n1927. cohosed by the W. H. Patterson Lodge AT\nand the Grand Canyon Temple 437.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2941,
+                "y0": 2697,
+                "x1": 4603,
+                "y1": 3531
+            },
+            "class": "article",
+            "raw_text": "Delegates National Newspaper Publishers Associa-\nthe Napa Valley\nWinery Saturday. June IT.\ntion and luncheon.\n\n\npanel election of officers also\nheld publisher Arizona Tribune presided\nluncheon meeting Among those who enjoyed the day were\nE. Washington Rhodes publisher of the Philadelphia Tribune\nretiring Association president; Brother Gregory, winery\nident Louis E. Martini Deputy of the Democratic Ma\npary L. Stanley Sr publisher the Louisville\nDefender newly elected president and Joe Make assistant sales\nSiche nc distributors The Christian\nBrothers products, who arranged the affair.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964070301_0453",
+    "full articles": [
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "In announcing his candidacy for\nGovernor of Arizona, Phoenix at\ntorney. Richard G. Kleindienst,\nsaid that pressing need exists\nto continue the kind of progress\nsive leadership Arizona has been\ngiven in the past six years.\n\n\n81 humbly believe\" he con-\ntinued, \"that, because of my\ntraining and background and be-\ncause of my knowledge and love\nof Arizona, | can provide that\nleadership.\n\n\nGAS a member of a pioneer\nArizona family, it has been my\nprivilege to have been reared in\nour State during a very exciting\nperiod of time. l have had the\nopportunity to both observe and\nparticipate in the dynamic growth\nof our States wealth, population\nand resources. This growth\nwould not have been possible\nwithout the dedicated efforts of\npersons from all walks of life.\nThe continuation of this growth\nrequires the constant best eff\nforts of us all. We must be able\nto meet the new problems which\nbeset us with sound, positive\nprograms. We must also main\ntain an environment which will\nattract jobs and opportunities for\nall our citizens.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 267,
+                    "y0": 5180,
+                    "x1": 1090,
+                    "y1": 7178
+                }
+            ],
+            "bbox": [
+                267,
+                5180,
+                1090,
+                7178
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "Accomm ODD ton Committee\nChosen BY City Council",
+            "article": "chapter of the National Associa-\nton for the Advancement Of Col\nored People; attorney Reid Car\nlock, and Eugene Marin, teacher\nat Lowell School. All are mem\nbers Of the Phoenix Human Re-\nlations Commission.\n\n\nThe accommodations Commit\ntee will investigate charges of\nviolations of the accommoda-\nlions ordinance filed with the\ncity clerk. 1t is directed to re-\nport its findings in writing to\nthe clerks office within 80 days.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2941,
+                    "y0": 6135,
+                    "x1": 4082,
+                    "y1": 6362
+                },
+                {
+                    "x0": 3798,
+                    "y0": 6355,
+                    "x1": 4603,
+                    "y1": 7172
+                }
+            ],
+            "bbox": [
+                2941,
+                6135,
+                4603,
+                7172
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "John Rhodes Seeks\nHis Seventh Term",
+            "article": "Congressman John ]. Rhodes\nannounced his candidacy for re-\nelection to the United States\nHouse of Representatives from\nDistrict L.\n\n\nRhodes, Republican, is seek\ning his seventh straight term in\nCongress. The announcement\ncame at news conference held\nthis afternoon in the Phoenix\nPress Club.\n\n\nCongressman Rhodes was re-\nGently named spokesman for the\nplatform committee at the Repub-\nlican National Convention next\nmonth. He Is member Of the\npowerful House appropriations\nCommittee, and serves on the\nPublic Works and the Foreign\nOperations subcommittee.\n\n\nBorn in Council Grove, Kansas, .\nRhodes was a 1893 graduate of\nKansas State College, and OBJ\ntanned his law degree from Har-\nward Law School in lo4l. He is\na member of the bar in Kansas,\nArizona and the District of Col\numbia.\n\n\n\n\n\nDuring World War II. Rhodes\nserved nearly five years in the\nAir Force.\n\n\nA resident of Mesa, the Con-\ngresham is past president of that\nCitys Chamber of Commerce,\nand the past senior vice COM\nmander of the Mesa Post of the\nAmerican Legion. Rhodes is a\nformer vice chairman of the Ari-\niona Board of Public Welfare.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1158,
+                    "y0": 3646,
+                    "x1": 1819,
+                    "y1": 3867
+                },
+                {
+                    "x0": 1141,
+                    "y0": 3907,
+                    "x1": 1970,
+                    "y1": 6188
+                }
+            ],
+            "bbox": [
+                1141,
+                3646,
+                1970,
+                6188
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Benjamin Steele, a resident Of\nPhoenix less than two years, an\nnounces the opening of Steele's\nTailor Shop. 1854 E. Washington.\n\n\nHe operated tailor and de-\nsigning shop in Chicago 7 years\nbefore moving west because ofhis\ndaughters health.\n\n\nHe studied tailoring at Tuske-\ngee Institute, Tuskegee, Alabama\nand graduated from Masters\nCollege of Fashion Designing in\nChicago.\n\n\nMr.. Steele. his wife, Billie,\nand four children reside at l402\nE. Coronado.\n\n\nHe also opened an import and\nexport company and janitorial\nservice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2044,
+                    "y0": 4358,
+                    "x1": 2861,
+                    "y1": 5476
+                }
+            ],
+            "bbox": [
+                2044,
+                4358,
+                2861,
+                5476
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "The Phoenix City Council has\nappointed a five-member citizens\ncommittee to administer the pub\nlie accommodations ordinance\nthat becomes law July %.\n\n\nThe public accommodations\ncommittee includes Attorney\nJarril F. Kaplan, chairman. who\nplayed a key role in drafting the\nnew ordinance: Episcopal Bishop\nJoseph M. Harte, the Rev. Luth-\nerr ]. Harper, Methodist minis\nter and past president Of the state",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2924,
+                    "y0": 6396,
+                    "x1": 3735,
+                    "y1": 7161
+                }
+            ],
+            "bbox": [
+                2924,
+                6396,
+                3735,
+                7161
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        },
+        {
+            "object_ids": [
+                16,
+                9
+            ],
+            "headline": "lst Negro Marshal\nNamed In Mississippi",
+            "article": "JACKSON, Miss. - Following\nNAACP requests to the US. De-\npartment of Justice, James MID\ndleton was appointed the first\nNegro u. S. Deputy Marshal in\nthe State of Mississippi this week.\nNo Negro has ever held this po-\nsition here before.\n\n\nLast June at the time Of Med\nger Evers' funeral, his brother,\nCharles Evers. now NAACP Mis-\nsissippi field secretary. con-\nsuited with Attorney General\nRobert F. Kennedy concerning the\nappointment Of a Negro as US.\nMarshal.\n\n\nFurther NAACP correspond\nence with officials in the Depart\nment of Justice resulted in the\nappointment Of MIR. Middleton.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2067,
+                    "y0": 5574,
+                    "x1": 2768,
+                    "y1": 5806
+                },
+                {
+                    "x0": 2044,
+                    "y0": 5886,
+                    "x1": 2861,
+                    "y1": 7080
+                }
+            ],
+            "bbox": [
+                2044,
+                5574,
+                2861,
+                7080
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Meeting the Grand Exaer Ruler Hobson Reynolds national\nthe Improved Benevolent and Protective Order of Eks\nof the World, several Elk dignitares.\n\n\nGreeting him Sky Harbor Airport June % from left\nFranklin California: CDD Kermit Cage of Arzona\nGELK l. Smith, GER Reynolds of Philadelphia Gr CT Secre-\ntary Buen \" Kelly Norfolk Va E. E. Bobo PISA convention\nchairman l. Smith, PISA president of the womens\ndivision.\n\n\nThe Pacific States Association held in Phoenix\n1927. cohosed by the W. H. Patterson Lodge AT\nand the Grand Canyon Temple 437.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 267,
+                    "y0": 2859,
+                    "x1": 1958,
+                    "y1": 3578
+                }
+            ],
+            "bbox": [
+                267,
+                2859,
+                1958,
+                3578
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Delegates National Newspaper Publishers Associa-\nthe Napa Valley\nWinery Saturday. June IT.\ntion and luncheon.\n\n\npanel election of officers also\nheld publisher Arizona Tribune presided\nluncheon meeting Among those who enjoyed the day were\nE. Washington Rhodes publisher of the Philadelphia Tribune\nretiring Association president; Brother Gregory, winery\nident Louis E. Martini Deputy of the Democratic Ma\npary L. Stanley Sr publisher the Louisville\nDefender newly elected president and Joe Make assistant sales\nSiche nc distributors The Christian\nBrothers products, who arranged the affair.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2941,
+                    "y0": 2697,
+                    "x1": 4603,
+                    "y1": 3531
+                }
+            ],
+            "bbox": [
+                2941,
+                2697,
+                4603,
+                3531
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-07-03_pna_sn84021918_0041421695A_1964070301_0453.json"
+        }
+    ]
+}

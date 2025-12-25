@@ -1,0 +1,488 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964031301/0325.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4754
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 184,
+                "y0": 5487,
+                "x1": 1009,
+                "y1": 6497
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Cassius Clay, the\ntalkative heavyweight boxing\nchampion. is scheduled to reap\npear before the Army induction\ninspectors. He repeatedly failed\nthe mental portion of previous\nexamination.\n\n\nClay saidhe had taken the Army\ntest at Coral Gables. Florida,\nian. \"a, but would offer no fur\nTheir statements.\n\n\nHe said he plans a world trip\nand he intends to spend time in\nNigeria and other African coun-\ntries.\n\n\nClay added he plans to buy a\n100000 home in New York.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 178,
+                "y0": 5249,
+                "x1": 800,
+                "y1": 5459
+            },
+            "class": "headline",
+            "raw_text": "Clay to Face\n\n\nMore Druft Tests",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1941,
+                "y0": 5145,
+                "x1": 2766,
+                "y1": 7257
+            },
+            "class": "article",
+            "raw_text": "COLUMBUS, O. - The NAACP\nhas recently started an intensive\nprogram to ban discrimination\nin housing as part Of its 10\nyear effort to end de facto seq\nregation in the public schools.\n\n\nIn addition to working for a\ncity ordinance in this area and\na state law on open occupancy,\nthe Association has strongly\nurged the Community Relations\nCommission to recommend to the\nMayor that he issue an executive\norder banning discrimination In\nhousing.\n\n\nIn a summary statement on\nbranch efforts to desegregate the\ncity schools, Rev. Phale D.Hale,\npresident Of the branch, reviewed\nthe steps taken by the NAACP\nover the past ten years.\n\n\nCiting the problem of the lack\nof communications between pu-\npills, teachers and parents, Mr..\nHale praised the program\nlaunched by the School Board and\nAdministration last year for an\nin-service training institute for\nhuman relations.\n\n\nIn addition to this, however,\nhe urged a strong look at the\ncounseling program in the\nschools to bring the service cup\nto date in terms Of present day\nopportunities opening up to Ne\ngroes.\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1947,
+                "y0": 4924,
+                "x1": 2633,
+                "y1": 5123
+            },
+            "class": "headline",
+            "raw_text": "NAACP PRESSES\nSCHOOL PROGRAM",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2835,
+                "y0": 5203,
+                "x1": 3648,
+                "y1": 6144
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Three Negro\nreal estate brokers have filed suit\nagainst the Southwest Realty\nBoard, charging the board acted\nmaliciously and arbitrarily in ex-\nGuiding them from membership.\n\n\nThe brokers', Robert Spivey,\nJr., Bill Turner and rryCrane.\nhave attempted to join the South\nwest Board which is comprised\nof 700 white brokers. Within the\nSouthwest's area are nearly 500\nNegro brokers who have never\nbeen able to join or participate\nin the lucrative southwest null\ntiple listing system.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2852,
+                "y0": 4982,
+                "x1": 3613,
+                "y1": 5186
+            },
+            "class": "headline",
+            "raw_text": "3 FILE SUITS AGAINST\nREALTY BOARD",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1077,
+                "y0": 5481,
+                "x1": 1896,
+                "y1": 7124
+            },
+            "class": "article",
+            "raw_text": "NEW YORK > Herman Mccoy,\n81, estranged husband Of actress\nClaudia Mcneil. claims he did\nnot beat her or misuse her\n$4,000 worth of savings.\n\n\nMiss Mcneil, veteran actress\nof Broadway and movies, said he\nhad beaten her, caused her to be\npenniless and he had locked her\nout of the house when she was\nclad only In nightgown.\n\n\nMccoy said he was the injured\nparty because Miss Mcneil al\nways struck him first. He said\nshe had cut his lip and he had\nsuffered black eyes.\n\n\nHe is a waiter and owns a\nbeauty shop where Miss Mcneil\nsaid he spent most other SIS. 900.\n\n\nMccoy countered saying she\nwas broke when he married her\nand that she had less than l S cents\nand owed two months rent when\nthey we're married.\n\n\nMiss Mcneil was the mother\nin \"a Raisin in the Sum-, an\naward winning Broadway play by\nLorraine Hansberry.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1060,
+                "y0": 5238,
+                "x1": 1739,
+                "y1": 5459
+            },
+            "class": "headline",
+            "raw_text": "ACTRESS BEAT HIM\nSAYS HUSBAND",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2841,
+                "y0": 6496,
+                "x1": 3654,
+                "y1": 7199
+            },
+            "class": "article",
+            "raw_text": "EAST ORANGE. NJ. Will\nliam Stubs, a Negro was chosen\nby an Essex County Republican\nscreening committee to run for\nCongress in New Jerseys 18th\ndistrict.\n\n\nAndrew C. Axtell, county Re-\npublican chairman, said that if\nStubbs wins the April primary\nhe will be the first Negro con-\ngressional candidate of a ma ior\nparty in New Jersey.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2835,
+                "y0": 6195,
+                "x1": 3410,
+                "y1": 6474
+            },
+            "class": "headline",
+            "raw_text": "Negro May Run\nFor Congress\n\n\nIn New Jersey",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1936,
+                "y0": 2824,
+                "x1": 2772,
+                "y1": 4885
+            },
+            "class": "article",
+            "raw_text": "Sandra Hollins, II, senior at\nYuma High School, lives at Isl\nN. 18th Ave., in Yuma, Arizona.\n\n\nA member of YHS Varsity band\nfor four years, she is section\nleader in band. Her grade aver\nage is IL.\n\n\nShe is a member ofLatin Club,\nTyres Club, Future Business\nLeaders of America, Anchor Club\nWarden's Club, National Honor\nSociety, Student Council, Girls\nLeague and Senior Class Play.\n\"a.\n\n\nShe was sophomore class\ntreasurer, junior class secre-\ntary, Past treasurer of FBLA,\nYuma High School Chapter, I'm\nmediate State Secretary of Ari-\nIONA FBLA Future BUSINESS\nLeaders of America), immediate\nstudent body secretary. Yuma\nHigh School, Zonta Club Girl of\nthe Month for March, 1864.\n\n\nShe was a delegate to Girls\nState. 1868; appointed city man\nager at Girls State yucca City,.\nand elected as Outstanding Citi-\nzen of the City.\n\n\nSandra was elected Miss Per-\nsonality, l963-64 and nominated\nfor Homecoming Queen.\n\n\nShe serves as secretary to Ari-\nzona's Republican National Com\nmitteewoman, Mrs. F C. Braden.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 201,
+                "y0": 6769,
+                "x1": 1014,
+                "y1": 7234
+            },
+            "class": "article",
+            "raw_text": "COMPTON. Calf. = Compton\nCity Council voted to change the\nname of Alabama Avenue to Evers\nAvenue last week.\n\n\nCeremonies were held as Mrs.\nMedgar Evers, widow Of the slain\nNAACP leaders helped place the\nnew street sign in place.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 184,
+                "y0": 6549,
+                "x1": 805,
+                "y1": 6747
+            },
+            "class": "headline",
+            "raw_text": "Street Named For\nMedgur Evars",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3716,
+                "y0": 5243,
+                "x1": 4535,
+                "y1": 7025
+            },
+            "class": "article",
+            "raw_text": "Judge Irwin Cantor, Maricopa\nCounty Superior Court, has re-\nceived a fellowship from the\nW. K. Kellogg Foundation to at\ntend the National College of State\nTrial Judges this summer in\nBoulder. Colorado. The only state\nJudge selected. Judge Cantor will\njoin fellow trial judges from\nall over the United States in\na four-week seminar July 6-3l\nat the University Of Colorado\nSchool Of Law. The seminar will\nbe the inaugural session of an\nannual study conference at the\nUniversity under the auspices\nof the American Bar Associa-\ntion.\n\n\nJudge Cantor was appointed a\nJudge of the Superior Court in\nJanuary, 1868, by Governor Paul\nFannin. Admitted to the Arizona\nBar in l949, Judge Cantor has\nalso served as assistant attorney\ngeneral, assistant city attorney\nand city prosecutor for the City\nof Phoenix, and was In private\npractice as a partner in the law\nfirm of Cantor and Ely prior to\ntaking the bench.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3722,
+                "y0": 4977,
+                "x1": 4501,
+                "y1": 5215
+            },
+            "class": "headline",
+            "raw_text": "JUDGE CANTOR\nGETS KELLOGG GRANT",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-03-13"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "Clay to Face\n\n\nMore Druft Tests",
+            "article": "NEW YORK-Cassius Clay, the\ntalkative heavyweight boxing\nchampion. is scheduled to reap\npear before the Army induction\ninspectors. He repeatedly failed\nthe mental portion of previous\nexamination.\n\n\nClay saidhe had taken the Army\ntest at Coral Gables. Florida,\nian. \"a, but would offer no fur\nTheir statements.\n\n\nHe said he plans a world trip\nand he intends to spend time in\nNigeria and other African coun-\ntries.\n\n\nClay added he plans to buy a\n100000 home in New York.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 178,
+                    "y0": 5249,
+                    "x1": 800,
+                    "y1": 5459
+                },
+                {
+                    "x0": 184,
+                    "y0": 5487,
+                    "x1": 1009,
+                    "y1": 6497
+                }
+            ],
+            "bbox": [
+                178,
+                5249,
+                1009,
+                6497
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        },
+        {
+            "object_ids": [
+                18,
+                3
+            ],
+            "headline": "NAACP PRESSES\nSCHOOL PROGRAM",
+            "article": "COLUMBUS, O. - The NAACP\nhas recently started an intensive\nprogram to ban discrimination\nin housing as part Of its 10\nyear effort to end de facto seq\nregation in the public schools.\n\n\nIn addition to working for a\ncity ordinance in this area and\na state law on open occupancy,\nthe Association has strongly\nurged the Community Relations\nCommission to recommend to the\nMayor that he issue an executive\norder banning discrimination In\nhousing.\n\n\nIn a summary statement on\nbranch efforts to desegregate the\ncity schools, Rev. Phale D.Hale,\npresident Of the branch, reviewed\nthe steps taken by the NAACP\nover the past ten years.\n\n\nCiting the problem of the lack\nof communications between pu-\npills, teachers and parents, Mr..\nHale praised the program\nlaunched by the School Board and\nAdministration last year for an\nin-service training institute for\nhuman relations.\n\n\nIn addition to this, however,\nhe urged a strong look at the\ncounseling program in the\nschools to bring the service cup\nto date in terms Of present day\nopportunities opening up to Ne\ngroes.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1947,
+                    "y0": 4924,
+                    "x1": 2633,
+                    "y1": 5123
+                },
+                {
+                    "x0": 1941,
+                    "y0": 5145,
+                    "x1": 2766,
+                    "y1": 7257
+                }
+            ],
+            "bbox": [
+                1941,
+                4924,
+                2766,
+                7257
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        },
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "3 FILE SUITS AGAINST\nREALTY BOARD",
+            "article": "LOS ANGELES Three Negro\nreal estate brokers have filed suit\nagainst the Southwest Realty\nBoard, charging the board acted\nmaliciously and arbitrarily in ex-\nGuiding them from membership.\n\n\nThe brokers', Robert Spivey,\nJr., Bill Turner and rryCrane.\nhave attempted to join the South\nwest Board which is comprised\nof 700 white brokers. Within the\nSouthwest's area are nearly 500\nNegro brokers who have never\nbeen able to join or participate\nin the lucrative southwest null\ntiple listing system.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2852,
+                    "y0": 4982,
+                    "x1": 3613,
+                    "y1": 5186
+                },
+                {
+                    "x0": 2835,
+                    "y0": 5203,
+                    "x1": 3648,
+                    "y1": 6144
+                }
+            ],
+            "bbox": [
+                2835,
+                4982,
+                3648,
+                6144
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "ACTRESS BEAT HIM\nSAYS HUSBAND",
+            "article": "NEW YORK > Herman Mccoy,\n81, estranged husband Of actress\nClaudia Mcneil. claims he did\nnot beat her or misuse her\n$4,000 worth of savings.\n\n\nMiss Mcneil, veteran actress\nof Broadway and movies, said he\nhad beaten her, caused her to be\npenniless and he had locked her\nout of the house when she was\nclad only In nightgown.\n\n\nMccoy said he was the injured\nparty because Miss Mcneil al\nways struck him first. He said\nshe had cut his lip and he had\nsuffered black eyes.\n\n\nHe is a waiter and owns a\nbeauty shop where Miss Mcneil\nsaid he spent most other SIS. 900.\n\n\nMccoy countered saying she\nwas broke when he married her\nand that she had less than l S cents\nand owed two months rent when\nthey we're married.\n\n\nMiss Mcneil was the mother\nin \"a Raisin in the Sum-, an\naward winning Broadway play by\nLorraine Hansberry.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1060,
+                    "y0": 5238,
+                    "x1": 1739,
+                    "y1": 5459
+                },
+                {
+                    "x0": 1077,
+                    "y0": 5481,
+                    "x1": 1896,
+                    "y1": 7124
+                }
+            ],
+            "bbox": [
+                1060,
+                5238,
+                1896,
+                7124
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        },
+        {
+            "object_ids": [
+                12,
+                7
+            ],
+            "headline": "Negro May Run\nFor Congress\n\n\nIn New Jersey",
+            "article": "EAST ORANGE. NJ. Will\nliam Stubs, a Negro was chosen\nby an Essex County Republican\nscreening committee to run for\nCongress in New Jerseys 18th\ndistrict.\n\n\nAndrew C. Axtell, county Re-\npublican chairman, said that if\nStubbs wins the April primary\nhe will be the first Negro con-\ngressional candidate of a ma ior\nparty in New Jersey.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2835,
+                    "y0": 6195,
+                    "x1": 3410,
+                    "y1": 6474
+                },
+                {
+                    "x0": 2841,
+                    "y0": 6496,
+                    "x1": 3654,
+                    "y1": 7199
+                }
+            ],
+            "bbox": [
+                2835,
+                6195,
+                3654,
+                7199
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Sandra Hollins, II, senior at\nYuma High School, lives at Isl\nN. 18th Ave., in Yuma, Arizona.\n\n\nA member of YHS Varsity band\nfor four years, she is section\nleader in band. Her grade aver\nage is IL.\n\n\nShe is a member ofLatin Club,\nTyres Club, Future Business\nLeaders of America, Anchor Club\nWarden's Club, National Honor\nSociety, Student Council, Girls\nLeague and Senior Class Play.\n\"a.\n\n\nShe was sophomore class\ntreasurer, junior class secre-\ntary, Past treasurer of FBLA,\nYuma High School Chapter, I'm\nmediate State Secretary of Ari-\nIONA FBLA Future BUSINESS\nLeaders of America), immediate\nstudent body secretary. Yuma\nHigh School, Zonta Club Girl of\nthe Month for March, 1864.\n\n\nShe was a delegate to Girls\nState. 1868; appointed city man\nager at Girls State yucca City,.\nand elected as Outstanding Citi-\nzen of the City.\n\n\nSandra was elected Miss Per-\nsonality, l963-64 and nominated\nfor Homecoming Queen.\n\n\nShe serves as secretary to Ari-\nzona's Republican National Com\nmitteewoman, Mrs. F C. Braden.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1936,
+                    "y0": 2824,
+                    "x1": 2772,
+                    "y1": 4885
+                }
+            ],
+            "bbox": [
+                1936,
+                2824,
+                2772,
+                4885
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        },
+        {
+            "object_ids": [
+                14,
+                11
+            ],
+            "headline": "Street Named For\nMedgur Evars",
+            "article": "COMPTON. Calf. = Compton\nCity Council voted to change the\nname of Alabama Avenue to Evers\nAvenue last week.\n\n\nCeremonies were held as Mrs.\nMedgar Evers, widow Of the slain\nNAACP leaders helped place the\nnew street sign in place.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 184,
+                    "y0": 6549,
+                    "x1": 805,
+                    "y1": 6747
+                },
+                {
+                    "x0": 201,
+                    "y0": 6769,
+                    "x1": 1014,
+                    "y1": 7234
+                }
+            ],
+            "bbox": [
+                184,
+                6549,
+                1014,
+                7234
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        },
+        {
+            "object_ids": [
+                16,
+                15
+            ],
+            "headline": "JUDGE CANTOR\nGETS KELLOGG GRANT",
+            "article": "Judge Irwin Cantor, Maricopa\nCounty Superior Court, has re-\nceived a fellowship from the\nW. K. Kellogg Foundation to at\ntend the National College of State\nTrial Judges this summer in\nBoulder. Colorado. The only state\nJudge selected. Judge Cantor will\njoin fellow trial judges from\nall over the United States in\na four-week seminar July 6-3l\nat the University Of Colorado\nSchool Of Law. The seminar will\nbe the inaugural session of an\nannual study conference at the\nUniversity under the auspices\nof the American Bar Associa-\ntion.\n\n\nJudge Cantor was appointed a\nJudge of the Superior Court in\nJanuary, 1868, by Governor Paul\nFannin. Admitted to the Arizona\nBar in l949, Judge Cantor has\nalso served as assistant attorney\ngeneral, assistant city attorney\nand city prosecutor for the City\nof Phoenix, and was In private\npractice as a partner in the law\nfirm of Cantor and Ely prior to\ntaking the bench.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3722,
+                    "y0": 4977,
+                    "x1": 4501,
+                    "y1": 5215
+                },
+                {
+                    "x0": 3716,
+                    "y0": 5243,
+                    "x1": 4535,
+                    "y1": 7025
+                }
+            ],
+            "bbox": [
+                3716,
+                4977,
+                4535,
+                7025
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-03-13_p1_sn84021918_0041421695A_1964031301_0325.json"
+        }
+    ]
+}

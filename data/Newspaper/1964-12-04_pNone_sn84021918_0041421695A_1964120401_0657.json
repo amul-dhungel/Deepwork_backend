@@ -1,0 +1,584 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7468,
+        "width": 4942,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964120401/0657.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3777,
+                "y0": 1021,
+                "x1": 4578,
+                "y1": 1879
+            },
+            "class": "article",
+            "raw_text": "Give your furniture a brilliant\nlook for the holidays. Even pre-\ncious antiques can be given high\ngloss safely and easily with this\nmethod.\n\n\nLiquid furniture wax can be APP\npiled to the most delicate finish with\na soft pad made of Klcenex dinner\nnapkins. When one portion of the\nabsorbent pad is soiled, fold it over\nto expose the clean side. Buff with\na clean napkin.\n\n\nYou'll have no unpleasant SMELL\ning Aammable rags lying about to\nstart potential FIRE. You toss that\nworry away with the napkin.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3783,
+                "y0": 834,
+                "x1": 4409,
+                "y1": 1004
+            },
+            "class": "headline",
+            "raw_text": "Furniture Needs\n\n\nPre-H oIiduy Care",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2027,
+                "y0": 2467,
+                "x1": 2839,
+                "y1": 3309
+            },
+            "class": "article",
+            "raw_text": "cup uncooked oatmeal\n\" cup flour\n\n\nl cup brown sugar\n\n\n~ cup butter\n\n\nfl can cranberry sauce\n\n\nMix oatmeal, flour and sugar\ntogether and cut In butter until\ncrumbly. Place half of recipe in\n8X8\" pan, creased and cover with\nIII can cranberry sauce. Spread\nremaining mixture over top. Bake\nat $50 degrees for As minutes.\nCut in squares and serve with\nvanilla ice cream. Serves twelve.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2027,
+                "y0": 2252,
+                "x1": 2629,
+                "y1": 2451
+            },
+            "class": "headline",
+            "raw_text": "RECIPE FILE\nCranberry Crunch",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2891,
+                "y0": 2514,
+                "x1": 3714,
+                "y1": 4901
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = Secretary of\nLabor w. Willard Wirtz has an\nnounced approval of a $99,552\non-the-job training contract with\nthe Urban League of Pitt sburgh\nto train the first group of 100\nunemployed or underskilled\nNegroes.\n\n\nUnder provisions of the Man\npower Development and Training\nAct, the Urban League will es-\ntablish training programs with\nthe assistance of the bureau of\napprentice ship and aiming. En-\nployers will be selected who are\nexperiencing worker shortages,\nand federal funds will be allocated\nfor the training.\n\n\nThe training program resulted\nfrom an Urban League census of\nskills among Negroes in the\ngreater Pittsburgh area. A\n\"skills bank\" was formed with\nmore than 800 Negroes reg\nistered in the \"bank.\" 1t was\nfound that about 400 registrants\nlack skills of the type needed\nin ittsburgh and the on-the-j job\ntraining program was devised.\n\n\nThe Urban League will be re-\nsponsible for supervision of the\non-the-job training programs,\ncounseling of trainees, and fol-\nlow-up activities for both\ntrainees, and employers.\n\n\nThis project will demonstrate\nto other communities ways COM\nmunity resources can provide\nbasic skills for helping secure\nJobs not additionally held by\nNegroes.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2885,
+                "y0": 2281,
+                "x1": 3563,
+                "y1": 2498
+            },
+            "class": "headline",
+            "raw_text": "JOB PROGRAM\nAPPROVED",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3783,
+                "y0": 396,
+                "x1": 4584,
+                "y1": 806
+            },
+            "class": "article",
+            "raw_text": "NEW YORK : Singer frankie\nLymon, u, was acquitted Of\ndope possession charge last\nweek.\n\n\nHe had been arrested on Oct.\n| at his home and charged with\npossessing narcotics.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3783,
+                "y0": 303,
+                "x1": 4385,
+                "y1": 386
+            },
+            "class": "headline",
+            "raw_text": "Singer Acquitted",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3801,
+                "y0": 2176,
+                "x1": 4607,
+                "y1": 2363
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-0511",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3807,
+                "y0": 1896,
+                "x1": 4514,
+                "y1": 2130
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1140,
+                "y0": 3372,
+                "x1": 1946,
+                "y1": 3559
+            },
+            "class": "article",
+            "raw_text": "job, would you say it was from\nstork ssity7\" asked Por-\nphyry Pete:",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 207,
+                "y0": 3028,
+                "x1": 1917,
+                "y1": 3285
+            },
+            "class": "article",
+            "raw_text": "the Medaons Social and Charity Club special\nguests weekly session held the Masonic Club\n\n\nPhotographed sessions club members and\nother guests Photo Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3795,
+                "y0": 2403,
+                "x1": 4607,
+                "y1": 2603
+            },
+            "class": "article",
+            "raw_text": "ALBRITTON'S BEAUTY SHOP\n1246 E. Monroe\nAL 4-3597",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 230,
+                "y0": 3436,
+                "x1": 1048,
+                "y1": 3571
+            },
+            "class": "article",
+            "raw_text": "''When a man with an extra\nlarge family takes on a second",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 218,
+                "y0": 3308,
+                "x1": 768,
+                "y1": 3414
+            },
+            "class": "headline",
+            "raw_text": "CHUCKLE TIME",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3783,
+                "y0": 4562,
+                "x1": 4601,
+                "y1": 4785
+            },
+            "class": "article",
+            "raw_text": "LOTS FOR SALE\nResidential 53xll7, near Long\nview School. 27o-3377.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3795,
+                "y0": 2642,
+                "x1": 4479,
+                "y1": 2836
+            },
+            "class": "article",
+            "raw_text": "DELOIS' BEAUTY SHOP\n1113 w. Grant\nAL 4-056O",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964120401_0657",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "Furniture Needs\n\n\nPre-H oIiduy Care",
+            "article": "Give your furniture a brilliant\nlook for the holidays. Even pre-\ncious antiques can be given high\ngloss safely and easily with this\nmethod.\n\n\nLiquid furniture wax can be APP\npiled to the most delicate finish with\na soft pad made of Klcenex dinner\nnapkins. When one portion of the\nabsorbent pad is soiled, fold it over\nto expose the clean side. Buff with\na clean napkin.\n\n\nYou'll have no unpleasant SMELL\ning Aammable rags lying about to\nstart potential FIRE. You toss that\nworry away with the napkin.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3783,
+                    "y0": 834,
+                    "x1": 4409,
+                    "y1": 1004
+                },
+                {
+                    "x0": 3777,
+                    "y0": 1021,
+                    "x1": 4578,
+                    "y1": 1879
+                }
+            ],
+            "bbox": [
+                3777,
+                834,
+                4578,
+                1879
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "RECIPE FILE\nCranberry Crunch",
+            "article": "cup uncooked oatmeal\n\" cup flour\n\n\nl cup brown sugar\n\n\n~ cup butter\n\n\nfl can cranberry sauce\n\n\nMix oatmeal, flour and sugar\ntogether and cut In butter until\ncrumbly. Place half of recipe in\n8X8\" pan, creased and cover with\nIII can cranberry sauce. Spread\nremaining mixture over top. Bake\nat $50 degrees for As minutes.\nCut in squares and serve with\nvanilla ice cream. Serves twelve.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2027,
+                    "y0": 2252,
+                    "x1": 2629,
+                    "y1": 2451
+                },
+                {
+                    "x0": 2027,
+                    "y0": 2467,
+                    "x1": 2839,
+                    "y1": 3309
+                }
+            ],
+            "bbox": [
+                2027,
+                2252,
+                2839,
+                3309
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "JOB PROGRAM\nAPPROVED",
+            "article": "WASHINGTON = Secretary of\nLabor w. Willard Wirtz has an\nnounced approval of a $99,552\non-the-job training contract with\nthe Urban League of Pitt sburgh\nto train the first group of 100\nunemployed or underskilled\nNegroes.\n\n\nUnder provisions of the Man\npower Development and Training\nAct, the Urban League will es-\ntablish training programs with\nthe assistance of the bureau of\napprentice ship and aiming. En-\nployers will be selected who are\nexperiencing worker shortages,\nand federal funds will be allocated\nfor the training.\n\n\nThe training program resulted\nfrom an Urban League census of\nskills among Negroes in the\ngreater Pittsburgh area. A\n\"skills bank\" was formed with\nmore than 800 Negroes reg\nistered in the \"bank.\" 1t was\nfound that about 400 registrants\nlack skills of the type needed\nin ittsburgh and the on-the-j job\ntraining program was devised.\n\n\nThe Urban League will be re-\nsponsible for supervision of the\non-the-job training programs,\ncounseling of trainees, and fol-\nlow-up activities for both\ntrainees, and employers.\n\n\nThis project will demonstrate\nto other communities ways COM\nmunity resources can provide\nbasic skills for helping secure\nJobs not additionally held by\nNegroes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2885,
+                    "y0": 2281,
+                    "x1": 3563,
+                    "y1": 2498
+                },
+                {
+                    "x0": 2891,
+                    "y0": 2514,
+                    "x1": 3714,
+                    "y1": 4901
+                }
+            ],
+            "bbox": [
+                2885,
+                2281,
+                3714,
+                4901
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                18,
+                5
+            ],
+            "headline": "Singer Acquitted",
+            "article": "NEW YORK : Singer frankie\nLymon, u, was acquitted Of\ndope possession charge last\nweek.\n\n\nHe had been arrested on Oct.\n| at his home and charged with\npossessing narcotics.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3783,
+                    "y0": 303,
+                    "x1": 4385,
+                    "y1": 386
+                },
+                {
+                    "x0": 3783,
+                    "y0": 396,
+                    "x1": 4584,
+                    "y1": 806
+                }
+            ],
+            "bbox": [
+                3783,
+                303,
+                4584,
+                806
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                9,
+                16
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-0511",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3807,
+                    "y0": 1896,
+                    "x1": 4514,
+                    "y1": 2130
+                },
+                {
+                    "x0": 3801,
+                    "y0": 2176,
+                    "x1": 4607,
+                    "y1": 2363
+                }
+            ],
+            "bbox": [
+                3801,
+                1896,
+                4607,
+                2363
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "job, would you say it was from\nstork ssity7\" asked Por-\nphyry Pete:",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1140,
+                    "y0": 3372,
+                    "x1": 1946,
+                    "y1": 3559
+                }
+            ],
+            "bbox": [
+                1140,
+                3372,
+                1946,
+                3559
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "the Medaons Social and Charity Club special\nguests weekly session held the Masonic Club\n\n\nPhotographed sessions club members and\nother guests Photo Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 207,
+                    "y0": 3028,
+                    "x1": 1917,
+                    "y1": 3285
+                }
+            ],
+            "bbox": [
+                207,
+                3028,
+                1917,
+                3285
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "ALBRITTON'S BEAUTY SHOP\n1246 E. Monroe\nAL 4-3597",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3795,
+                    "y0": 2403,
+                    "x1": 4607,
+                    "y1": 2603
+                }
+            ],
+            "bbox": [
+                3795,
+                2403,
+                4607,
+                2603
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                25,
+                26
+            ],
+            "headline": "CHUCKLE TIME",
+            "article": "''When a man with an extra\nlarge family takes on a second",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 218,
+                    "y0": 3308,
+                    "x1": 768,
+                    "y1": 3414
+                },
+                {
+                    "x0": 230,
+                    "y0": 3436,
+                    "x1": 1048,
+                    "y1": 3571
+                }
+            ],
+            "bbox": [
+                218,
+                3308,
+                1048,
+                3571
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "LOTS FOR SALE\nResidential 53xll7, near Long\nview School. 27o-3377.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3783,
+                    "y0": 4562,
+                    "x1": 4601,
+                    "y1": 4785
+                }
+            ],
+            "bbox": [
+                3783,
+                4562,
+                4601,
+                4785
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "DELOIS' BEAUTY SHOP\n1113 w. Grant\nAL 4-056O",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3795,
+                    "y0": 2642,
+                    "x1": 4479,
+                    "y1": 2836
+                }
+            ],
+            "bbox": [
+                3795,
+                2642,
+                4479,
+                2836
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-12-04_pna_sn84021918_0041421695A_1964120401_0657.json"
+        }
+    ]
+}

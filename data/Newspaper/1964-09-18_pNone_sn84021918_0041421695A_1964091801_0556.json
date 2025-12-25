@@ -1,0 +1,411 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7389,
+        "width": 4816,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0556.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2979,
+                "y0": 421,
+                "x1": 3800,
+                "y1": 1946
+            },
+            "class": "article",
+            "raw_text": "officers of the Committee on\nPolitical Education of the AFL-\nCLIO.\n\n\nAnswering the charge that\nwhite workers would be dis\ncharged to make jobs for Ne\ngroes, Mr.. Wilkins read to the\ngroup Sec. 703(j) of the law as\nfollows: Nothing contained in\nthis title shall be Interpreted to\nrequire any employer. employ\nment agency, labor organization.\nor joint labor management COM\nmittee subject to this title to\ngrant preferential treatment to\nany individual or to any group\nbecause of race, color, religion,\nsex, or national origin of such\nindividual or group on account\nof an imbalance which may exist\nwith respect to the total number\nor percentage of perso ns of any\nrace, color, religion, sex, or\nnational origin employed by any\nemployer -. in any community.\nstate, section or other area\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2298,
+                "y0": 277,
+                "x1": 3621,
+                "y1": 387
+            },
+            "class": "headline",
+            "raw_text": "NAACP Head Says Read Rights Law",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 289,
+                "y0": 2574,
+                "x1": 1110,
+                "y1": 3637
+            },
+            "class": "article",
+            "raw_text": "& BUCKEYE-A group ofNegroes\nfrom Allenville, one mile south\nof the city, met with the Cham\nDer ofCommerce. They pr otested\ncontaminated water, poor police\nprotection and inadequate bus\nservice for school children.\n\n\nAbraham Harris, chairman of\nthe group, said some CORE mem\nbers from Phoenix had been in\nvited to the meeting. The pres\nence of the CORE representa-\ntives was Objectionable to Bill\nFlower, president of the Cham\nDer of commerce.\n\n\nMrs. Brady McG owan, pastor\nof Allensville Mount Zion Baptist\nChurch, testified at the meeting.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 289,
+                "y0": 2239,
+                "x1": 902,
+                "y1": 2558
+            },
+            "class": "headline",
+            "raw_text": "Negroes Protest\nConditions Near\nBuckeye",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2084,
+                "y0": 421,
+                "x1": 2905,
+                "y1": 1865
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = In view of the\nmany distortions Of the provi-\nsions of the Civil Rights Act of\n1864 being circulated by anti\nNegro groups, \"voters hould read\nthe text of the law for themselves\nto see what it is and what 1t is\nnot\" NAACP Executive Secre-\ntary Roy Wilkins told AFL-CIO\nleaders here at a conference,\nSept. 3.\n\n\nThe conference, called by the\nlabor organization to map plans\nfor involving its members in\nactive support of enforcement\nof the new law, was attended by\nESQ national, state and local trade\nunion leaders who heard ad-\ndresses also by former Florida\nGov. Leroy Collins. director of\nthe Community Relations Service\nestablished by the new law;\nGeorge Meany. AFL-CIO presi-\ndent; Roy Reuther and Al Barkin,",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1201,
+                "y0": 2609,
+                "x1": 2022,
+                "y1": 3608
+            },
+            "class": "article",
+            "raw_text": "Raymond Huffstater, former\ncity magistrate, denied that he\nhad fixed his own parking tic\nkets.\n\n\nHe was fired by acting City\nManager Charles Esser following\nthe recommendation of Chief\nMagistrate Eugene Mangum.\n\n\nThe fired city magistrate was\naccused of reducing fines on his\nown unpaid parking tickets and\ninfluencing another magistrate\nto reduce other tickets for him.\n\n\nHuffstater. an attorney, denied\ncharges and said he would re-\nquest a hearing by an impartial\ngroup.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1201,
+                "y0": 2239,
+                "x1": 1831,
+                "y1": 2581
+            },
+            "class": "headline",
+            "raw_text": "City Magistrate\nFired for Fixing\nHis Own Tickets",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3885,
+                "y0": 2996,
+                "x1": 4677,
+                "y1": 3279
+            },
+            "class": "article",
+            "raw_text": "2 bsdrm.. new apes. coolers. built\nin range /ovsn. See resident mgr.\n6632 S. 22nd St. 4 Vineyard\nApt. 4 $3.50 including free\nwater, 276-H2SO.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3874,
+                "y0": 2707,
+                "x1": 4469,
+                "y1": 2829
+            },
+            "class": "headline",
+            "raw_text": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3914,
+                "y0": 2909,
+                "x1": 4290,
+                "y1": 2985
+            },
+            "class": "headline",
+            "raw_text": "FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3897,
+                "y0": 3319,
+                "x1": 4694,
+                "y1": 3510
+            },
+            "class": "article",
+            "raw_text": "CEMENT WORK\n\n\nLICENSED CONTRACTOR\n276-Ol3O At pm.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3874,
+                "y0": 2043,
+                "x1": 4596,
+                "y1": 2246
+            },
+            "class": "article",
+            "raw_text": "SOUBLET'S BEAUTY SHOP\n2014 E. Broadway\nBR 6-3964",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091801_0556",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "NAACP Head Says Read Rights Law",
+            "article": "officers of the Committee on\nPolitical Education of the AFL-\nCLIO.\n\n\nAnswering the charge that\nwhite workers would be dis\ncharged to make jobs for Ne\ngroes, Mr.. Wilkins read to the\ngroup Sec. 703(j) of the law as\nfollows: Nothing contained in\nthis title shall be Interpreted to\nrequire any employer. employ\nment agency, labor organization.\nor joint labor management COM\nmittee subject to this title to\ngrant preferential treatment to\nany individual or to any group\nbecause of race, color, religion,\nsex, or national origin of such\nindividual or group on account\nof an imbalance which may exist\nwith respect to the total number\nor percentage of perso ns of any\nrace, color, religion, sex, or\nnational origin employed by any\nemployer -. in any community.\nstate, section or other area\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2298,
+                    "y0": 277,
+                    "x1": 3621,
+                    "y1": 387
+                },
+                {
+                    "x0": 2979,
+                    "y0": 421,
+                    "x1": 3800,
+                    "y1": 1946
+                }
+            ],
+            "bbox": [
+                2298,
+                277,
+                3800,
+                1946
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-18_pna_sn84021918_0041421695A_1964091801_0556.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "Negroes Protest\nConditions Near\nBuckeye",
+            "article": "& BUCKEYE-A group ofNegroes\nfrom Allenville, one mile south\nof the city, met with the Cham\nDer ofCommerce. They pr otested\ncontaminated water, poor police\nprotection and inadequate bus\nservice for school children.\n\n\nAbraham Harris, chairman of\nthe group, said some CORE mem\nbers from Phoenix had been in\nvited to the meeting. The pres\nence of the CORE representa-\ntives was Objectionable to Bill\nFlower, president of the Cham\nDer of commerce.\n\n\nMrs. Brady McG owan, pastor\nof Allensville Mount Zion Baptist\nChurch, testified at the meeting.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 289,
+                    "y0": 2239,
+                    "x1": 902,
+                    "y1": 2558
+                },
+                {
+                    "x0": 289,
+                    "y0": 2574,
+                    "x1": 1110,
+                    "y1": 3637
+                }
+            ],
+            "bbox": [
+                289,
+                2239,
+                1110,
+                3637
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-18_pna_sn84021918_0041421695A_1964091801_0556.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "WASHINGTON = In view of the\nmany distortions Of the provi-\nsions of the Civil Rights Act of\n1864 being circulated by anti\nNegro groups, \"voters hould read\nthe text of the law for themselves\nto see what it is and what 1t is\nnot\" NAACP Executive Secre-\ntary Roy Wilkins told AFL-CIO\nleaders here at a conference,\nSept. 3.\n\n\nThe conference, called by the\nlabor organization to map plans\nfor involving its members in\nactive support of enforcement\nof the new law, was attended by\nESQ national, state and local trade\nunion leaders who heard ad-\ndresses also by former Florida\nGov. Leroy Collins. director of\nthe Community Relations Service\nestablished by the new law;\nGeorge Meany. AFL-CIO presi-\ndent; Roy Reuther and Al Barkin,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2084,
+                    "y0": 421,
+                    "x1": 2905,
+                    "y1": 1865
+                }
+            ],
+            "bbox": [
+                2084,
+                421,
+                2905,
+                1865
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-18_pna_sn84021918_0041421695A_1964091801_0556.json"
+        },
+        {
+            "object_ids": [
+                6,
+                4
+            ],
+            "headline": "City Magistrate\nFired for Fixing\nHis Own Tickets",
+            "article": "Raymond Huffstater, former\ncity magistrate, denied that he\nhad fixed his own parking tic\nkets.\n\n\nHe was fired by acting City\nManager Charles Esser following\nthe recommendation of Chief\nMagistrate Eugene Mangum.\n\n\nThe fired city magistrate was\naccused of reducing fines on his\nown unpaid parking tickets and\ninfluencing another magistrate\nto reduce other tickets for him.\n\n\nHuffstater. an attorney, denied\ncharges and said he would re-\nquest a hearing by an impartial\ngroup.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1201,
+                    "y0": 2239,
+                    "x1": 1831,
+                    "y1": 2581
+                },
+                {
+                    "x0": 1201,
+                    "y0": 2609,
+                    "x1": 2022,
+                    "y1": 3608
+                }
+            ],
+            "bbox": [
+                1201,
+                2239,
+                2022,
+                3608
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-18_pna_sn84021918_0041421695A_1964091801_0556.json"
+        },
+        {
+            "object_ids": [
+                12,
+                13,
+                7
+            ],
+            "headline": "EARL'S BARBER SHOP\n1852 E. Washington\n\nFOR RENT",
+            "article": "2 bsdrm.. new apes. coolers. built\nin range /ovsn. See resident mgr.\n6632 S. 22nd St. 4 Vineyard\nApt. 4 $3.50 including free\nwater, 276-H2SO.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3874,
+                    "y0": 2707,
+                    "x1": 4469,
+                    "y1": 2829
+                },
+                {
+                    "x0": 3914,
+                    "y0": 2909,
+                    "x1": 4290,
+                    "y1": 2985
+                },
+                {
+                    "x0": 3885,
+                    "y0": 2996,
+                    "x1": 4677,
+                    "y1": 3279
+                }
+            ],
+            "bbox": [
+                3874,
+                2707,
+                4677,
+                3279
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-18_pna_sn84021918_0041421695A_1964091801_0556.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "CEMENT WORK\n\n\nLICENSED CONTRACTOR\n276-Ol3O At pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3897,
+                    "y0": 3319,
+                    "x1": 4694,
+                    "y1": 3510
+                }
+            ],
+            "bbox": [
+                3897,
+                3319,
+                4694,
+                3510
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-18_pna_sn84021918_0041421695A_1964091801_0556.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "SOUBLET'S BEAUTY SHOP\n2014 E. Broadway\nBR 6-3964",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3874,
+                    "y0": 2043,
+                    "x1": 4596,
+                    "y1": 2246
+                }
+            ],
+            "bbox": [
+                3874,
+                2043,
+                4596,
+                2246
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-09-18_pna_sn84021918_0041421695A_1964091801_0556.json"
+        }
+    ]
+}

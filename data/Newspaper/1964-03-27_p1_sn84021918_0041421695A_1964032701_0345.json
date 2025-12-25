@@ -1,0 +1,214 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032701/0345.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7439,
+        "width": 4876
+    },
+    "bboxes": [
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1880,
+                "y0": 2946,
+                "x1": 2700,
+                "y1": 3772
+            },
+            "class": "article",
+            "raw_text": "A baby shower honoring Mrs.\nRuby Walker, Of Compton, Cali\nifornia, was held Sunday at the\nhome Of Mrs. Jean Jackson, 2234\nE. Wier.\n\n\nMrs. Walker was unable to\nattend but gifts we're given to\nher mother, Mrs. Henrietta\nHudspeth.\n\n\nOthers attending the shower\nwe're Mrs. Matte Green, Mrs.\nJudy Luekey, Mrs. Betty Dock\ncry, Miss Nellie Davis and Miss\nAnnita Gilbert.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1885,
+                "y0": 2807,
+                "x1": 2555,
+                "y1": 2930
+            },
+            "class": "headline",
+            "raw_text": "D aby Shower Held",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2757,
+                "y0": 2458,
+                "x1": 3566,
+                "y1": 3139
+            },
+            "class": "article",
+            "raw_text": "Mar. ~ The jewish Passover\nbegins with family dinner SER\nvice at home.\n\n\nMar. 80, 1870: The Fifteenth\nAmendment to the Constitution,\ndeclaring the right Of u. s. cit\nliens to vote regardless Of 4\" race,\ncolor or previous condition Of\nservitude,\" was declared ratified\nIn a proclamation by the secre-\ntary Of State.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2769,
+                "y0": 2249,
+                "x1": 3258,
+                "y1": 2430
+            },
+            "class": "headline",
+            "raw_text": "Dates\nTO Rene ber",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3635,
+                "y0": 2440,
+                "x1": 4444,
+                "y1": 2970
+            },
+            "class": "article",
+            "raw_text": "A songfest was held at Mace\ndonia Baptist Church, TAG W.\nGrant, Sum, Mar. ~.\n\n\nThe Velvetenes Singers and the\nAll Star Singers participated.\n\n\nMrs. Charlene White was d.\nrector and Mrs. Bertha Davis\nwas the arranger. Rev. ]. ..\nDaniels ID the pastor.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3641,
+                "y0": 2231,
+                "x1": 4188,
+                "y1": 2418
+            },
+            "class": "headline",
+            "raw_text": "Sonefssf\nHeld Az chvreh",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-03-27"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "Sonefssf\nHeld Az chvreh",
+            "article": "A songfest was held at Mace\ndonia Baptist Church, TAG W.\nGrant, Sum, Mar. ~.\n\n\nThe Velvetenes Singers and the\nAll Star Singers participated.\n\n\nMrs. Charlene White was d.\nrector and Mrs. Bertha Davis\nwas the arranger. Rev. ]. ..\nDaniels ID the pastor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3641,
+                    "y0": 2231,
+                    "x1": 4188,
+                    "y1": 2418
+                },
+                {
+                    "x0": 3635,
+                    "y0": 2440,
+                    "x1": 4444,
+                    "y1": 2970
+                }
+            ],
+            "bbox": [
+                3635,
+                2231,
+                4444,
+                2970
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-27_p1_sn84021918_0041421695A_1964032701_0345.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "Dates\nTO Rene ber",
+            "article": "Mar. ~ The jewish Passover\nbegins with family dinner SER\nvice at home.\n\n\nMar. 80, 1870: The Fifteenth\nAmendment to the Constitution,\ndeclaring the right Of u. s. cit\nliens to vote regardless Of 4\" race,\ncolor or previous condition Of\nservitude,\" was declared ratified\nIn a proclamation by the secre-\ntary Of State.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2769,
+                    "y0": 2249,
+                    "x1": 3258,
+                    "y1": 2430
+                },
+                {
+                    "x0": 2757,
+                    "y0": 2458,
+                    "x1": 3566,
+                    "y1": 3139
+                }
+            ],
+            "bbox": [
+                2757,
+                2249,
+                3566,
+                3139
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-27_p1_sn84021918_0041421695A_1964032701_0345.json"
+        },
+        {
+            "object_ids": [
+                17,
+                12
+            ],
+            "headline": "D aby Shower Held",
+            "article": "A baby shower honoring Mrs.\nRuby Walker, Of Compton, Cali\nifornia, was held Sunday at the\nhome Of Mrs. Jean Jackson, 2234\nE. Wier.\n\n\nMrs. Walker was unable to\nattend but gifts we're given to\nher mother, Mrs. Henrietta\nHudspeth.\n\n\nOthers attending the shower\nwe're Mrs. Matte Green, Mrs.\nJudy Luekey, Mrs. Betty Dock\ncry, Miss Nellie Davis and Miss\nAnnita Gilbert.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1885,
+                    "y0": 2807,
+                    "x1": 2555,
+                    "y1": 2930
+                },
+                {
+                    "x0": 1880,
+                    "y0": 2946,
+                    "x1": 2700,
+                    "y1": 3772
+                }
+            ],
+            "bbox": [
+                1880,
+                2807,
+                2700,
+                3772
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-03-27_p1_sn84021918_0041421695A_1964032701_0345.json"
+        }
+    ]
+}

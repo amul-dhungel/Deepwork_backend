@@ -1,0 +1,605 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4906,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0485.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2754,
+                "y0": 6210,
+                "x1": 3572,
+                "y1": 7150
+            },
+            "class": "article",
+            "raw_text": "A warrant has been issued in\nWednesdays shooting of Colin\nBeals, IS, of Laveen.\n\n\nThe warrant charging assault\nwith a deadly weapon was is\nsued for the arrest of George\nWillie Davis, %, in the court\nof Justice of the Peace AL ].\nFlood.\n\n\nOfficers said Davis shot Colin\nBeals of Laveen outside a tavern\nat 1919 W. Buckeye Road with\nout cause.\n\n\nBeals, a contractor, was talk\ning to an employe when he was\nshot, Witnesses told police.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2800,
+                "y0": 5973,
+                "x1": 3230,
+                "y1": 6171
+            },
+            "class": "headline",
+            "raw_text": "Man Sought\nIn Shooting",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2765,
+                "y0": 5069,
+                "x1": 3583,
+                "y1": 5922
+            },
+            "class": "article",
+            "raw_text": "DENVER-C ontinental Airlines\nmust hire Marion D. Green, a\nNegro, as a pilot, Denver Dis\ntrict Judge Neil Koran has ruled.\n\n\nGreen's employment had been\nordered in January 1859 by the\nColorado Anti-Discrimination\nCommission. The u. S. Supreme\nCourt affirmed the decision last\nyear.\n\n\nGreen had claimed that the air\nline refused to hire him because\nof his race. He is a former\nAir Force captain.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2789,
+                "y0": 4849,
+                "x1": 3485,
+                "y1": 5041
+            },
+            "class": "headline",
+            "raw_text": "Continental AirIines\n\n\nTo Hire Negro Pilot",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1879,
+                "y0": 5289,
+                "x1": 2697,
+                "y1": 7167
+            },
+            "class": "article",
+            "raw_text": "Seven is considered a lucky\nnumber and Mrs. Katherine Hick-\nman of Flagstaff is one of the\nluckiest persons in the state.\n\n\nOn the seventh day of the\nseventh month at 7 pm. she\ndelivered fraternal twins, her\nseventh boy weighing seven\npounds. and her seventh girl,\nalso a seven FOUNDER. That's\nIT sevens.\n\n\nMrs. Hickman and her husband,\nSanders. started their family %\nyears ago when Bobbie was born.\nBobbie is employed by\nMotor ola's Semiconductor Prod\nucts Division.\n\n\nThe Hickman family includes;\nPat 20. Addie = Is. Cissy and\nTim 10 0he first set of twins\nand the first in a series of boys).\nSanders is, Roy l3. James\nIL, Donnie 10, Robby 7,\nCathy S, Sandra 2-l/2.\nand the lucky \"sevens\" Daryl\nand Carol Lynn.\n\n\nAS if those odds aren't enough,\nhere's the clincher Bobbie\nHickman Hannah has daughter\nof her own, Tracy. who at the\nage of 8 is older than two aunts\nand an uncle.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1891,
+                "y0": 5098,
+                "x1": 2378,
+                "y1": 5267
+            },
+            "class": "headline",
+            "raw_text": "The Kick mons\nAnd Sevens",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3658,
+                "y0": 5133,
+                "x1": 4464,
+                "y1": 6032
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA Six white\nboys we're charged in the fatal\nbeating of Steven Gaines, l5year\nold Negro lad.\n\n\nGaines died two days after he\nand two companions we're at\ntackled by the white youths be-\nhind the Museum of Art. His\ndeath was attributed to\nfractured skull.\n\n\nOne youth charged in the death,\nJames Williams, l6, was caught\nImmediately after the beating.\nHe named his other friends who\nrange from ages IA to 10.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3687,
+                "y0": 4837,
+                "x1": 4319,
+                "y1": 5111
+            },
+            "class": "headline",
+            "raw_text": "6 White Boys\nCharged In\nNegro Lads Death",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 100,
+                "y0": 5463,
+                "x1": 1787,
+                "y1": 6426
+            },
+            "class": "article",
+            "raw_text": "Secretary Interior Stewart L. Uda End from right\npauses folwng address In which Mr. Udal dedicated the\nWashington of Frederick Douglass pre-Cil War\nabolitonist, national shrine.\n\n\nU.s. Government by the national\nAssociation Clubs nc whose National Pesi\ndent Dr. L. Cragg Detroit Michigan seen at LETT Mrs.\nhistoric which\nColumbia The Interior Secretary NCWC\nCzen- the principal speaker at the awards\nconvention Denver\nJuly August l.\n\n\nfrom left received Y\naward the Hendrix Of the Washing\nPRman, junior associate in The Moss H. HENDRIX\nOrganization handling CocaCoa",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1867,
+                "y0": 2676,
+                "x1": 2691,
+                "y1": 5087
+            },
+            "class": "article",
+            "raw_text": "Charles T. Chuck Williams.\nSchenley's new Negro vice presi-\ndent, served with distinction as a\nfighter pilot in World War II\nin the famed cred Tail\" squadron\nin Europe and won many medals.\nIn his student days. an outstand-\ning athlete and was the first\nNegro elected to the student coun-\nell of his school.\n\n\nHe was born in Nogales, Ari-\niona and educated at the Univer-\nsity of Southern California at\nLos Angeles. When war was de-\nclared, Williams volunteered for\nthe Air Force. He was the only\nNegro in a large class to take\nthe qualifying examination for the\nAir Force. Hf-~-\n\n\nRecently appointed vice pres\nident of Schenley Distillers Co.,\nWilliams is known among his as\nsociates as ga nice guy who gets\nthings DONE\"\n\n\nJoining Schenley in 1851 as\nsalesman and advanced to special\nsales representative, brand de-\nvelopment manager, assistant di-\nvision manager and assistant ma\ntional sales manager worked his\nway to a vice presidency.\n\n\nMIR. Williams zeal for his job\nwas never diminished, according\nto his associates. He is just\nanother example of Negro who\nhas opened the door of success\nSO that Negro youth will know\nwhen you are prepared color is\nno barrier in attaining the highest\npositions in the world of work.\"\n\n\nGLOBAL PORTRAITS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1016,
+                "y0": 6685,
+                "x1": 1828,
+                "y1": 7202
+            },
+            "class": "article",
+            "raw_text": "last year.\n\n\nFour complains charged prices\nwere increased and two were\nlodged because of refusal of SER\nvice.\n\n\nMrs. F. Peralta, cafe CO. owner\ndenied the charges and said they\nwe're trying to make trouble for\nher again.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 355,
+                "y0": 6436,
+                "x1": 1573,
+                "y1": 6663
+            },
+            "class": "headline",
+            "raw_text": "CORE Charges FL Rey Cate\nOwner With Discrimination",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3669,
+                "y0": 6355,
+                "x1": 4481,
+                "y1": 7121
+            },
+            "class": "article",
+            "raw_text": "Trial for Mrs. Ramona Tapia\nMoreno, %, has been reset for\nAug. 3. She is accused of first\ndegree murder in the knitting\ndeath of Grady Holly, rs, last\nSept. l6, at drive-in market at\n94o W. Buckeye.\n\n\nMrs. Moreno, of 800 w. Grant,\nhas been undergoing mental OBJ\nservation at Arizona State\nHospital, and Charles B. Tanner,\ndefense counsel, asked for the\ndelay.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3687,
+                "y0": 6118,
+                "x1": 4279,
+                "y1": 6321
+            },
+            "class": "headline",
+            "raw_text": "WOMAN'S TRIAL\nIS POSTPONED",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 106,
+                "y0": 6697,
+                "x1": 930,
+                "y1": 7173
+            },
+            "class": "article",
+            "raw_text": "The Congress of Racial\nEquality filed the first complaint\ncovered by the citys new public\naccommodations ordinance.\n\n\nSix charges of discrimination\nwere filed against the Ell Rey\nCafe, o22 S. Central, the site\nof the city s first demonstrations",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2777,
+                "y0": 1854,
+                "x1": 4476,
+                "y1": 2527
+            },
+            "class": "article",
+            "raw_text": "Making plans for future activities of the Girl Scouts in the\nChapel AE Church members the conference\nthe church last week.\n\n\nincludes Mrs. L. K. Williams Roy Nixon, Mrs. Betty\nColbert and Mrs. Ocie Boysaw.\n\n\ngroup Crystal Townsend conference director\nMesdames Leatha Campbell Delphi McBrayer\nleader Leanna Tucker leader Rev. L. Williams Tanner\nChapel and Stenkamp Girl Scouts Council\nrepresentative.\n\n\nInvesttuture also held.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 42,
+                "y0": 1494,
+                "x1": 1799,
+                "y1": 4010
+            },
+            "class": "article",
+            "raw_text": "ON July %, 1862, a lean and byoodi'g faced\nman sat doaOn at his desk and completed the\nfirst draft of a document which Mould innaed-\nlately affect millions of Negroes ensL0Ued IN\nnation beset by great ciUil war: 1t wos not\nuutil January of the following year that Pres\nident Lincoln formally announced the Enamel\npatton Proclamation Which freed more than 20\nmillion men, women and children of African\ndescent.\n\n\nLast year throughout the country hundreds OF\nObsey FRANCES we're held cOmanaemaOYuting the\npassing of the century after this document had\nbeen signed. Too often our efforts are pm\npointed tOwaYd one program or one ceIe6Tu-\ntion with this in nind the editors OF this\nnewspaper present this special edition to\nobserve the first year Of the second century\nafter the Emancipation Proclamation.\n\n\nWe feel that the progress Of the American\nNegro should be he1ulded throughout the year.\nshould be included in the textbooks and each\nchild should be aWoYe Of the past, present and\nfuture of those 20 millions whose toYetatheTs\nonce wore chains.\n\n\nRather than lament the past ne must look to\nthe wears ahead. Let us hope that this lOlst\nyear oUilI provide greater goals and achseUe-\n,uents than ne haze ever dreamed OF.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 48,
+                "y0": 1187,
+                "x1": 1781,
+                "y1": 1466
+            },
+            "class": "headline",
+            "raw_text": "lot YEARS AFTER THE\nEMANCIPATION PROCLAMATION",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964073101_0485",
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "Man Sought\nIn Shooting",
+            "article": "A warrant has been issued in\nWednesdays shooting of Colin\nBeals, IS, of Laveen.\n\n\nThe warrant charging assault\nwith a deadly weapon was is\nsued for the arrest of George\nWillie Davis, %, in the court\nof Justice of the Peace AL ].\nFlood.\n\n\nOfficers said Davis shot Colin\nBeals of Laveen outside a tavern\nat 1919 W. Buckeye Road with\nout cause.\n\n\nBeals, a contractor, was talk\ning to an employe when he was\nshot, Witnesses told police.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2800,
+                    "y0": 5973,
+                    "x1": 3230,
+                    "y1": 6171
+                },
+                {
+                    "x0": 2754,
+                    "y0": 6210,
+                    "x1": 3572,
+                    "y1": 7150
+                }
+            ],
+            "bbox": [
+                2754,
+                5973,
+                3572,
+                7150
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "Continental AirIines\n\n\nTo Hire Negro Pilot",
+            "article": "DENVER-C ontinental Airlines\nmust hire Marion D. Green, a\nNegro, as a pilot, Denver Dis\ntrict Judge Neil Koran has ruled.\n\n\nGreen's employment had been\nordered in January 1859 by the\nColorado Anti-Discrimination\nCommission. The u. S. Supreme\nCourt affirmed the decision last\nyear.\n\n\nGreen had claimed that the air\nline refused to hire him because\nof his race. He is a former\nAir Force captain.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2789,
+                    "y0": 4849,
+                    "x1": 3485,
+                    "y1": 5041
+                },
+                {
+                    "x0": 2765,
+                    "y0": 5069,
+                    "x1": 3583,
+                    "y1": 5922
+                }
+            ],
+            "bbox": [
+                2765,
+                4849,
+                3583,
+                5922
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                20,
+                4
+            ],
+            "headline": "The Kick mons\nAnd Sevens",
+            "article": "Seven is considered a lucky\nnumber and Mrs. Katherine Hick-\nman of Flagstaff is one of the\nluckiest persons in the state.\n\n\nOn the seventh day of the\nseventh month at 7 pm. she\ndelivered fraternal twins, her\nseventh boy weighing seven\npounds. and her seventh girl,\nalso a seven FOUNDER. That's\nIT sevens.\n\n\nMrs. Hickman and her husband,\nSanders. started their family %\nyears ago when Bobbie was born.\nBobbie is employed by\nMotor ola's Semiconductor Prod\nucts Division.\n\n\nThe Hickman family includes;\nPat 20. Addie = Is. Cissy and\nTim 10 0he first set of twins\nand the first in a series of boys).\nSanders is, Roy l3. James\nIL, Donnie 10, Robby 7,\nCathy S, Sandra 2-l/2.\nand the lucky \"sevens\" Daryl\nand Carol Lynn.\n\n\nAS if those odds aren't enough,\nhere's the clincher Bobbie\nHickman Hannah has daughter\nof her own, Tracy. who at the\nage of 8 is older than two aunts\nand an uncle.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1891,
+                    "y0": 5098,
+                    "x1": 2378,
+                    "y1": 5267
+                },
+                {
+                    "x0": 1879,
+                    "y0": 5289,
+                    "x1": 2697,
+                    "y1": 7167
+                }
+            ],
+            "bbox": [
+                1879,
+                5098,
+                2697,
+                7167
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                15,
+                5
+            ],
+            "headline": "6 White Boys\nCharged In\nNegro Lads Death",
+            "article": "PHILADELPHIA Six white\nboys we're charged in the fatal\nbeating of Steven Gaines, l5year\nold Negro lad.\n\n\nGaines died two days after he\nand two companions we're at\ntackled by the white youths be-\nhind the Museum of Art. His\ndeath was attributed to\nfractured skull.\n\n\nOne youth charged in the death,\nJames Williams, l6, was caught\nImmediately after the beating.\nHe named his other friends who\nrange from ages IA to 10.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3687,
+                    "y0": 4837,
+                    "x1": 4319,
+                    "y1": 5111
+                },
+                {
+                    "x0": 3658,
+                    "y0": 5133,
+                    "x1": 4464,
+                    "y1": 6032
+                }
+            ],
+            "bbox": [
+                3658,
+                4837,
+                4464,
+                6032
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Secretary Interior Stewart L. Uda End from right\npauses folwng address In which Mr. Udal dedicated the\nWashington of Frederick Douglass pre-Cil War\nabolitonist, national shrine.\n\n\nU.s. Government by the national\nAssociation Clubs nc whose National Pesi\ndent Dr. L. Cragg Detroit Michigan seen at LETT Mrs.\nhistoric which\nColumbia The Interior Secretary NCWC\nCzen- the principal speaker at the awards\nconvention Denver\nJuly August l.\n\n\nfrom left received Y\naward the Hendrix Of the Washing\nPRman, junior associate in The Moss H. HENDRIX\nOrganization handling CocaCoa",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 100,
+                    "y0": 5463,
+                    "x1": 1787,
+                    "y1": 6426
+                }
+            ],
+            "bbox": [
+                100,
+                5463,
+                1787,
+                6426
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Charles T. Chuck Williams.\nSchenley's new Negro vice presi-\ndent, served with distinction as a\nfighter pilot in World War II\nin the famed cred Tail\" squadron\nin Europe and won many medals.\nIn his student days. an outstand-\ning athlete and was the first\nNegro elected to the student coun-\nell of his school.\n\n\nHe was born in Nogales, Ari-\niona and educated at the Univer-\nsity of Southern California at\nLos Angeles. When war was de-\nclared, Williams volunteered for\nthe Air Force. He was the only\nNegro in a large class to take\nthe qualifying examination for the\nAir Force. Hf-~-\n\n\nRecently appointed vice pres\nident of Schenley Distillers Co.,\nWilliams is known among his as\nsociates as ga nice guy who gets\nthings DONE\"\n\n\nJoining Schenley in 1851 as\nsalesman and advanced to special\nsales representative, brand de-\nvelopment manager, assistant di-\nvision manager and assistant ma\ntional sales manager worked his\nway to a vice presidency.\n\n\nMIR. Williams zeal for his job\nwas never diminished, according\nto his associates. He is just\nanother example of Negro who\nhas opened the door of success\nSO that Negro youth will know\nwhen you are prepared color is\nno barrier in attaining the highest\npositions in the world of work.\"\n\n\nGLOBAL PORTRAITS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1867,
+                    "y0": 2676,
+                    "x1": 2691,
+                    "y1": 5087
+                }
+            ],
+            "bbox": [
+                1867,
+                2676,
+                2691,
+                5087
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                19,
+                9
+            ],
+            "headline": "CORE Charges FL Rey Cate\nOwner With Discrimination",
+            "article": "last year.\n\n\nFour complains charged prices\nwere increased and two were\nlodged because of refusal of SER\nvice.\n\n\nMrs. F. Peralta, cafe CO. owner\ndenied the charges and said they\nwe're trying to make trouble for\nher again.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 355,
+                    "y0": 6436,
+                    "x1": 1573,
+                    "y1": 6663
+                },
+                {
+                    "x0": 1016,
+                    "y0": 6685,
+                    "x1": 1828,
+                    "y1": 7202
+                }
+            ],
+            "bbox": [
+                355,
+                6436,
+                1828,
+                7202
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                17,
+                10
+            ],
+            "headline": "WOMAN'S TRIAL\nIS POSTPONED",
+            "article": "Trial for Mrs. Ramona Tapia\nMoreno, %, has been reset for\nAug. 3. She is accused of first\ndegree murder in the knitting\ndeath of Grady Holly, rs, last\nSept. l6, at drive-in market at\n94o W. Buckeye.\n\n\nMrs. Moreno, of 800 w. Grant,\nhas been undergoing mental OBJ\nservation at Arizona State\nHospital, and Charles B. Tanner,\ndefense counsel, asked for the\ndelay.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3687,
+                    "y0": 6118,
+                    "x1": 4279,
+                    "y1": 6321
+                },
+                {
+                    "x0": 3669,
+                    "y0": 6355,
+                    "x1": 4481,
+                    "y1": 7121
+                }
+            ],
+            "bbox": [
+                3669,
+                6118,
+                4481,
+                7121
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "The Congress of Racial\nEquality filed the first complaint\ncovered by the citys new public\naccommodations ordinance.\n\n\nSix charges of discrimination\nwere filed against the Ell Rey\nCafe, o22 S. Central, the site\nof the city s first demonstrations",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 106,
+                    "y0": 6697,
+                    "x1": 930,
+                    "y1": 7173
+                }
+            ],
+            "bbox": [
+                106,
+                6697,
+                930,
+                7173
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Making plans for future activities of the Girl Scouts in the\nChapel AE Church members the conference\nthe church last week.\n\n\nincludes Mrs. L. K. Williams Roy Nixon, Mrs. Betty\nColbert and Mrs. Ocie Boysaw.\n\n\ngroup Crystal Townsend conference director\nMesdames Leatha Campbell Delphi McBrayer\nleader Leanna Tucker leader Rev. L. Williams Tanner\nChapel and Stenkamp Girl Scouts Council\nrepresentative.\n\n\nInvesttuture also held.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2777,
+                    "y0": 1854,
+                    "x1": 4476,
+                    "y1": 2527
+                }
+            ],
+            "bbox": [
+                2777,
+                1854,
+                4476,
+                2527
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        },
+        {
+            "object_ids": [
+                23,
+                14
+            ],
+            "headline": "lot YEARS AFTER THE\nEMANCIPATION PROCLAMATION",
+            "article": "ON July %, 1862, a lean and byoodi'g faced\nman sat doaOn at his desk and completed the\nfirst draft of a document which Mould innaed-\nlately affect millions of Negroes ensL0Ued IN\nnation beset by great ciUil war: 1t wos not\nuutil January of the following year that Pres\nident Lincoln formally announced the Enamel\npatton Proclamation Which freed more than 20\nmillion men, women and children of African\ndescent.\n\n\nLast year throughout the country hundreds OF\nObsey FRANCES we're held cOmanaemaOYuting the\npassing of the century after this document had\nbeen signed. Too often our efforts are pm\npointed tOwaYd one program or one ceIe6Tu-\ntion with this in nind the editors OF this\nnewspaper present this special edition to\nobserve the first year Of the second century\nafter the Emancipation Proclamation.\n\n\nWe feel that the progress Of the American\nNegro should be he1ulded throughout the year.\nshould be included in the textbooks and each\nchild should be aWoYe Of the past, present and\nfuture of those 20 millions whose toYetatheTs\nonce wore chains.\n\n\nRather than lament the past ne must look to\nthe wears ahead. Let us hope that this lOlst\nyear oUilI provide greater goals and achseUe-\n,uents than ne haze ever dreamed OF.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 48,
+                    "y0": 1187,
+                    "x1": 1781,
+                    "y1": 1466
+                },
+                {
+                    "x0": 42,
+                    "y0": 1494,
+                    "x1": 1799,
+                    "y1": 4010
+                }
+            ],
+            "bbox": [
+                42,
+                1187,
+                1799,
+                4010
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-07-31_pna_sn84021918_0041421695A_1964073101_0485.json"
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7436,
+        "width": 4769,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0554.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 194,
+                "y0": 1556,
+                "x1": 1891,
+                "y1": 2045
+            },
+            "class": "article",
+            "raw_text": "school bells has at Sheraton Park Primary\nSchool, So. 22nd ST. For the first time since the school was\nopened library is ready for operation\n\n\nBallon left librarian exhibits some new volumes\nto Mrs. Irna Saunders, first grade teacher.\n\n\nOther faculty and staff members Mrs. Betty wilson,\nnurse JONES' grade and Miss Ann Holland first\ngrade.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1972,
+                "y0": 673,
+                "x1": 2803,
+                "y1": 1918
+            },
+            "class": "article",
+            "raw_text": "\"New members have been\nadded to the staff to make this\nfall and winter program start\nwith a new approach. Come and\nmeet the staff and get the ball\nrolling\" urged director Clar-\nence Jackson.\n\n\nSunday night dances have been\neliminated to provide more\npleasure and enjoyment for per-\nsons of all ages, every Sunday\nwill be time for learning new\ngames, teen tournaments, vol\nley ball and badminton.\n\n\nSchedule-Mon. Fri. 2 PM\n10 p.m.; Sat. l pm. p.m.;\nThurs .-Slimnastics, young wom-\nen- 7-lO p.m.; Fri.-College\nnight 8-midnight.\n\n\nFor further information call\n262-6759.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1983,
+                "y0": 418,
+                "x1": 2774,
+                "y1": 634
+            },
+            "class": "headline",
+            "raw_text": "new STAFF BOOSTERS\nEASTLAKE PARK",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2866,
+                "y0": 557,
+                "x1": 3686,
+                "y1": 860
+            },
+            "class": "article",
+            "raw_text": "BALTIMORE A rookie Of\nficer, who had been on the force\nonly five days, was killed with his\nown gun. A Negro. who has\nroamed the streets of Baltimore",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3162,
+                "y0": 418,
+                "x1": 4308,
+                "y1": 529
+            },
+            "class": "headline",
+            "raw_text": "Rookie officer Killed by Negro",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3761,
+                "y0": 569,
+                "x1": 4575,
+                "y1": 802
+            },
+            "class": "article",
+            "raw_text": "for over a decade wearing\ncrown, calling himself \"king.\"\napparently went beserk and shot\nthe policeman.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091801_0554",
+    "full articles": [
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "school bells has at Sheraton Park Primary\nSchool, So. 22nd ST. For the first time since the school was\nopened library is ready for operation\n\n\nBallon left librarian exhibits some new volumes\nto Mrs. Irna Saunders, first grade teacher.\n\n\nOther faculty and staff members Mrs. Betty wilson,\nnurse JONES' grade and Miss Ann Holland first\ngrade.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 194,
+                    "y0": 1556,
+                    "x1": 1891,
+                    "y1": 2045
+                }
+            ],
+            "bbox": [
+                194,
+                1556,
+                1891,
+                2045
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-18_pna_sn84021918_0041421695A_1964091801_0554.json"
+        },
+        {
+            "object_ids": [
+                4,
+                2
+            ],
+            "headline": "new STAFF BOOSTERS\nEASTLAKE PARK",
+            "article": "\"New members have been\nadded to the staff to make this\nfall and winter program start\nwith a new approach. Come and\nmeet the staff and get the ball\nrolling\" urged director Clar-\nence Jackson.\n\n\nSunday night dances have been\neliminated to provide more\npleasure and enjoyment for per-\nsons of all ages, every Sunday\nwill be time for learning new\ngames, teen tournaments, vol\nley ball and badminton.\n\n\nSchedule-Mon. Fri. 2 PM\n10 p.m.; Sat. l pm. p.m.;\nThurs .-Slimnastics, young wom-\nen- 7-lO p.m.; Fri.-College\nnight 8-midnight.\n\n\nFor further information call\n262-6759.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1983,
+                    "y0": 418,
+                    "x1": 2774,
+                    "y1": 634
+                },
+                {
+                    "x0": 1972,
+                    "y0": 673,
+                    "x1": 2803,
+                    "y1": 1918
+                }
+            ],
+            "bbox": [
+                1972,
+                418,
+                2803,
+                1918
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-18_pna_sn84021918_0041421695A_1964091801_0554.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "Rookie officer Killed by Negro",
+            "article": "BALTIMORE A rookie Of\nficer, who had been on the force\nonly five days, was killed with his\nown gun. A Negro. who has\nroamed the streets of Baltimore",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3162,
+                    "y0": 418,
+                    "x1": 4308,
+                    "y1": 529
+                },
+                {
+                    "x0": 2866,
+                    "y0": 557,
+                    "x1": 3686,
+                    "y1": 860
+                }
+            ],
+            "bbox": [
+                2866,
+                418,
+                4308,
+                860
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-18_pna_sn84021918_0041421695A_1964091801_0554.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "for over a decade wearing\ncrown, calling himself \"king.\"\napparently went beserk and shot\nthe policeman.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3761,
+                    "y0": 569,
+                    "x1": 4575,
+                    "y1": 802
+                }
+            ],
+            "bbox": [
+                3761,
+                569,
+                4575,
+                802
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-18_pna_sn84021918_0041421695A_1964091801_0554.json"
+        }
+    ]
+}

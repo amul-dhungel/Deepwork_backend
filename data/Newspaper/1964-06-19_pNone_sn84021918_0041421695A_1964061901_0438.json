@@ -1,0 +1,398 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-19",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7375,
+        "width": 4902,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-19",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061901/0438.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3004,
+                "y0": 1060,
+                "x1": 4681,
+                "y1": 1856
+            },
+            "class": "article",
+            "raw_text": "prdes the sunshine and the grand the\nwhich surround all four Sides We write about\nfresh air and the wide however, ignore some\nof the msighty pictures which daily.\n\n\nLiving the known the Timer city am faced each day\npiles of DEBRIS unkemp lawns trash piles front Of buildings\nneglected fields and cluttered and roadways.\n\n\nThe Valley Beautiful Council is attempting inspire citizens\nkeep valley beauty We need more emphasis on\nnehborhod beauty when the mayors inner city committee meet\n\n\ncommunities beautiful and enhance\nlet's wait for council to inspire u.s. We can\nimprove homes and yards without much effort",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3528,
+                "y0": 380,
+                "x1": 4508,
+                "y1": 830
+            },
+            "class": "headline",
+            "raw_text": "Views, PREvIEws\nAMD REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3753,
+                "y0": 743,
+                "x1": 4278,
+                "y1": 824
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3413,
+                "y0": 898,
+                "x1": 4347,
+                "y1": 1020
+            },
+            "class": "headline",
+            "raw_text": "Keep Valley Beautiful",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2099,
+                "y0": 708,
+                "x1": 2935,
+                "y1": 5434
+            },
+            "class": "article",
+            "raw_text": "My spouse. Edward and | we're\njust preparing to settle down,\nrelax and enjoy our refurbished\nand remodeled home, when 1t\nhappened.\n\n\nThere 1t was sure sign Of\ntrouble--a spiral of water was\ncoming from under the retrig-\norator. I placed some old towels\ndown on the area and we went\nto bed. The next morning, there\nwas more water coming from the\nside of the refrigerator.\n\n\nWe sighed and looked around\nand decided we would go out and\npurchase new refrigerator. My\nhusband and l had figured we\nwould revamp the kitchen around\nChristmas. But. here we we're\non the prowl for a new refrig-\norator. We looked at several\nmakes and models and finally\nchose a frost clear model with\na large freezer section.\n\n\nWhile we we're out we decided\nto purchase a new dinette set\nbecause the new appliance would\ncertainly show Its drabness.\n\n\nThe new refrigerator and the\ndinette set have been delivered.\nThe sink and cabinets now look\na bit out of place, but the htch-\nen- will hold its own.\n\n\nLittle odds and ends of the\nhouse are falling into place. We\nhave had the old bathroom remod-\neled and 1t looks like one out of\nthe decorator guide. All white\nand gold. 1t CLEANS and since\nit was strictly my husbands\nidea--it is his room.\n\n\nHe has given me the new bath\nroom--now we are not only two\ncar family, but a two bathroom\nfamily, as we'll. Where else but\nin the good old United States Of\nAmerica could you expect such.\n\n\nl predict that in the future\neach house or apartment will\nbe erected with one bath and one\ncarport or garage per inhabitant.\n\n\nInstead Of having population\nboom-the economists and soli-\nologists could go quite mad wond-\nering how to manage the bath\nbulge or the automobile boom.\n\n\nAS soon as the outer planets\nare contacted we will make the\nfirst ascent and discover how they\nmanage without one or none,\n(baths or cars).\n\n\nThe house we live In Is now\ncomplete and we have gotten most\nOf our paraphenalia transferred\nfrom place to place.\n\n\nThe windows need a bit of\nwashing on the outside and there\nare a few extra rocks in the\nyard-but-the job is done.\n\n\n| knew we we're through when\nmy husband took his ceramic\nplanter to the nursery and got\na new plant. He has been saying\nthat he would try another living\nplant when we got air condi-\ntioning--now we have 1t and he has\nhis green thing.\n\n\nIn the words of famous writer\n\"All's we'll that ends WE'LL",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2105,
+                "y0": 316,
+                "x1": 2912,
+                "y1": 686
+            },
+            "class": "headline",
+            "raw_text": "Siuhts and Sounds\nELoIsE BANKS\nLast Chapter",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 290,
+                "y0": 2085,
+                "x1": 2054,
+                "y1": 4921
+            },
+            "class": "article",
+            "raw_text": "Recommendations of the first conference\nsponsored by the city's human relations COM\nmission Included several basis proposals\nwhich are para mount in handling the teTTaoR\nblight of many Americans.\n\n\nIn our city not only are pubic occomnao-\ndati0ns to be opened, but employment obp0T-\ntuuities and housing, should be likewise open\nto 0n\n\n\nFor many years there haze been programs\nlaunched to inspire young students to stay in\nschool and prepare for better jobs. There has\nbeen a halheayted attempt on the part Of many\nhigh school cOunse l0ys to ten pupils of MIN\nGRITTY groups TO take more training. Nothing\nhelps it seems unless job opportunities are\nopened and students can see for themselves\nthat Negroes are actually hired in certain\npositions.\n\n\nIn the Valley several glayinag problems\nweYe studied by the conference and Mayor Gya-\nham summed the meeting UP by asking for\nlocal churches to support the program to inn\nprone race relations.\n\n\nOne Of the 0utgYOaOthS Of the conference mas\nthe co'nmiss ion's request for support for\nhousing code. This wiu take a great deal Of\nwork. Let's not forget employment as ne stTive\nto improve the conditions of the nainoyities.\nThe ability to pay for housing and public &C.\ncOnamOd0tiOns is more important than any\nother facet Improving the conditions of man.\nkind.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 710,
+                "y0": 1878,
+                "x1": 1576,
+                "y1": 2034
+            },
+            "class": "headline",
+            "raw_text": "A Step IN TIME",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 353,
+                "y0": 5271,
+                "x1": 2054,
+                "y1": 7105
+            },
+            "class": "article",
+            "raw_text": "The Arizona Committee for the John F.\nKennedy Memorial Library lacks Negro\nmember. In UieU of the fact that so many\nNegroes felt deeply inspired because Of the\nlate presidents chill rights stand, 1T seems\na bit iYOniC.\n\n\nCertainly, the naming Of one Negro Mould\ngiUe recognition to the race. President Ken\nnedy's memorial drive should haze greater\nimpact in the everyday lives Of more citi-\nzens and Negro on the committee would be\nbeneficial.\n\n\nSeveral Negro organizations including the\nElks, the National A ociatiOn for the Advance\nmemt Of Coloyed People and the Alpha Phi\nA. bh0 fraternity haze dedicated their pro-\ngrams to President Kennedy.\n\n\n1t is an atfyont to the thousands of Negroes\nwho hOe in the state a0aen no Negro was ab-\npointed to serve on the Kennedy Memorial\nLibrary Committee.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 693,
+                "y0": 5041,
+                "x1": 1737,
+                "y1": 5221
+            },
+            "class": "headline",
+            "raw_text": "NO NEGRO NAMED",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 324,
+                "y0": 870,
+                "x1": 1996,
+                "y1": 1810
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, PUBL 's1ER-E0IToR\nELOlSE BANKS, ASSISTANT EDITOR\n10,\n\n\n\n\n\nCOMPANY\nE. BROADWAY 27e-z3oI\nADDRESS O. BOX $3.50, PHOENIX, A7'z. s5oAo\nPHOENIX, ARIZONA\nIALL THAT\nTIMES is TO DO JUSTICE AND GIVE FREEDOM\ntYn* % ~s~s~\" NATIONAL REPRESENTATIVE\nAsb664NewsAptes ASSOCIATION AMALeAMATEo PUBL sHERs\n\n\n\nNEW YORK ~, N.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 336,
+                "y0": 322,
+                "x1": 1968,
+                "y1": 750
+            },
+            "class": "headline",
+            "raw_text": "Artzutmfs4t6r thut,e\n\n\n- llll1s ~ 3 i.,,,r, -",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 929,
+                "y0": 777,
+                "x1": 1489,
+                "y1": 853
+            },
+            "class": "author",
+            "raw_text": "VOL. 6, NO. AZ",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964061901_0438",
+    "full articles": [
+        {
+            "object_ids": [
+                2,
+                18,
+                6,
+                0
+            ],
+            "headline": "Views, PREvIEws\nAMD REVIEWS\n\n\nEdward Banks\n\nKeep Valley Beautiful",
+            "article": "prdes the sunshine and the grand the\nwhich surround all four Sides We write about\nfresh air and the wide however, ignore some\nof the msighty pictures which daily.\n\n\nLiving the known the Timer city am faced each day\npiles of DEBRIS unkemp lawns trash piles front Of buildings\nneglected fields and cluttered and roadways.\n\n\nThe Valley Beautiful Council is attempting inspire citizens\nkeep valley beauty We need more emphasis on\nnehborhod beauty when the mayors inner city committee meet\n\n\ncommunities beautiful and enhance\nlet's wait for council to inspire u.s. We can\nimprove homes and yards without much effort",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3528,
+                    "y0": 380,
+                    "x1": 4508,
+                    "y1": 830
+                },
+                {
+                    "x0": 3753,
+                    "y0": 743,
+                    "x1": 4278,
+                    "y1": 824
+                },
+                {
+                    "x0": 3413,
+                    "y0": 898,
+                    "x1": 4347,
+                    "y1": 1020
+                },
+                {
+                    "x0": 3004,
+                    "y0": 1060,
+                    "x1": 4681,
+                    "y1": 1856
+                }
+            ],
+            "bbox": [
+                3004,
+                380,
+                4681,
+                1856
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-19_pna_sn84021918_0041421695A_1964061901_0438.json"
+        },
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "Siuhts and Sounds\nELoIsE BANKS\nLast Chapter",
+            "article": "My spouse. Edward and | we're\njust preparing to settle down,\nrelax and enjoy our refurbished\nand remodeled home, when 1t\nhappened.\n\n\nThere 1t was sure sign Of\ntrouble--a spiral of water was\ncoming from under the retrig-\norator. I placed some old towels\ndown on the area and we went\nto bed. The next morning, there\nwas more water coming from the\nside of the refrigerator.\n\n\nWe sighed and looked around\nand decided we would go out and\npurchase new refrigerator. My\nhusband and l had figured we\nwould revamp the kitchen around\nChristmas. But. here we we're\non the prowl for a new refrig-\norator. We looked at several\nmakes and models and finally\nchose a frost clear model with\na large freezer section.\n\n\nWhile we we're out we decided\nto purchase a new dinette set\nbecause the new appliance would\ncertainly show Its drabness.\n\n\nThe new refrigerator and the\ndinette set have been delivered.\nThe sink and cabinets now look\na bit out of place, but the htch-\nen- will hold its own.\n\n\nLittle odds and ends of the\nhouse are falling into place. We\nhave had the old bathroom remod-\neled and 1t looks like one out of\nthe decorator guide. All white\nand gold. 1t CLEANS and since\nit was strictly my husbands\nidea--it is his room.\n\n\nHe has given me the new bath\nroom--now we are not only two\ncar family, but a two bathroom\nfamily, as we'll. Where else but\nin the good old United States Of\nAmerica could you expect such.\n\n\nl predict that in the future\neach house or apartment will\nbe erected with one bath and one\ncarport or garage per inhabitant.\n\n\nInstead Of having population\nboom-the economists and soli-\nologists could go quite mad wond-\nering how to manage the bath\nbulge or the automobile boom.\n\n\nAS soon as the outer planets\nare contacted we will make the\nfirst ascent and discover how they\nmanage without one or none,\n(baths or cars).\n\n\nThe house we live In Is now\ncomplete and we have gotten most\nOf our paraphenalia transferred\nfrom place to place.\n\n\nThe windows need a bit of\nwashing on the outside and there\nare a few extra rocks in the\nyard-but-the job is done.\n\n\n| knew we we're through when\nmy husband took his ceramic\nplanter to the nursery and got\na new plant. He has been saying\nthat he would try another living\nplant when we got air condi-\ntioning--now we have 1t and he has\nhis green thing.\n\n\nIn the words of famous writer\n\"All's we'll that ends WE'LL",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2105,
+                    "y0": 316,
+                    "x1": 2912,
+                    "y1": 686
+                },
+                {
+                    "x0": 2099,
+                    "y0": 708,
+                    "x1": 2935,
+                    "y1": 5434
+                }
+            ],
+            "bbox": [
+                2099,
+                316,
+                2935,
+                5434
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-19_pna_sn84021918_0041421695A_1964061901_0438.json"
+        },
+        {
+            "object_ids": [
+                7,
+                5
+            ],
+            "headline": "A Step IN TIME",
+            "article": "Recommendations of the first conference\nsponsored by the city's human relations COM\nmission Included several basis proposals\nwhich are para mount in handling the teTTaoR\nblight of many Americans.\n\n\nIn our city not only are pubic occomnao-\ndati0ns to be opened, but employment obp0T-\ntuuities and housing, should be likewise open\nto 0n\n\n\nFor many years there haze been programs\nlaunched to inspire young students to stay in\nschool and prepare for better jobs. There has\nbeen a halheayted attempt on the part Of many\nhigh school cOunse l0ys to ten pupils of MIN\nGRITTY groups TO take more training. Nothing\nhelps it seems unless job opportunities are\nopened and students can see for themselves\nthat Negroes are actually hired in certain\npositions.\n\n\nIn the Valley several glayinag problems\nweYe studied by the conference and Mayor Gya-\nham summed the meeting UP by asking for\nlocal churches to support the program to inn\nprone race relations.\n\n\nOne Of the 0utgYOaOthS Of the conference mas\nthe co'nmiss ion's request for support for\nhousing code. This wiu take a great deal Of\nwork. Let's not forget employment as ne stTive\nto improve the conditions of the nainoyities.\nThe ability to pay for housing and public &C.\ncOnamOd0tiOns is more important than any\nother facet Improving the conditions of man.\nkind.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 710,
+                    "y0": 1878,
+                    "x1": 1576,
+                    "y1": 2034
+                },
+                {
+                    "x0": 290,
+                    "y0": 2085,
+                    "x1": 2054,
+                    "y1": 4921
+                }
+            ],
+            "bbox": [
+                290,
+                1878,
+                2054,
+                4921
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-06-19_pna_sn84021918_0041421695A_1964061901_0438.json"
+        },
+        {
+            "object_ids": [
+                8,
+                9
+            ],
+            "headline": "NO NEGRO NAMED",
+            "article": "The Arizona Committee for the John F.\nKennedy Memorial Library lacks Negro\nmember. In UieU of the fact that so many\nNegroes felt deeply inspired because Of the\nlate presidents chill rights stand, 1T seems\na bit iYOniC.\n\n\nCertainly, the naming Of one Negro Mould\ngiUe recognition to the race. President Ken\nnedy's memorial drive should haze greater\nimpact in the everyday lives Of more citi-\nzens and Negro on the committee would be\nbeneficial.\n\n\nSeveral Negro organizations including the\nElks, the National A ociatiOn for the Advance\nmemt Of Coloyed People and the Alpha Phi\nA. bh0 fraternity haze dedicated their pro-\ngrams to President Kennedy.\n\n\n1t is an atfyont to the thousands of Negroes\nwho hOe in the state a0aen no Negro was ab-\npointed to serve on the Kennedy Memorial\nLibrary Committee.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 693,
+                    "y0": 5041,
+                    "x1": 1737,
+                    "y1": 5221
+                },
+                {
+                    "x0": 353,
+                    "y0": 5271,
+                    "x1": 2054,
+                    "y1": 7105
+                }
+            ],
+            "bbox": [
+                353,
+                5041,
+                2054,
+                7105
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-19_pna_sn84021918_0041421695A_1964061901_0438.json"
+        },
+        {
+            "object_ids": [
+                14,
+                15,
+                16
+            ],
+            "headline": "Artzutmfs4t6r thut,e\n\n\n- llll1s ~ 3 i.,,,r, -",
+            "article": "EDWARD BANKS, PUBL 's1ER-E0IToR\nELOlSE BANKS, ASSISTANT EDITOR\n10,\n\n\n\n\n\nCOMPANY\nE. BROADWAY 27e-z3oI\nADDRESS O. BOX $3.50, PHOENIX, A7'z. s5oAo\nPHOENIX, ARIZONA\nIALL THAT\nTIMES is TO DO JUSTICE AND GIVE FREEDOM\ntYn* % ~s~s~\" NATIONAL REPRESENTATIVE\nAsb664NewsAptes ASSOCIATION AMALeAMATEo PUBL sHERs\n\n\n\nNEW YORK ~, N.",
+            "byline": "VOL. 6, NO. AZ",
+            "bbox_list": [
+                {
+                    "x0": 336,
+                    "y0": 322,
+                    "x1": 1968,
+                    "y1": 750
+                },
+                {
+                    "x0": 929,
+                    "y0": 777,
+                    "x1": 1489,
+                    "y1": 853
+                },
+                {
+                    "x0": 324,
+                    "y0": 870,
+                    "x1": 1996,
+                    "y1": 1810
+                }
+            ],
+            "bbox": [
+                324,
+                322,
+                1996,
+                1810
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-06-19_pna_sn84021918_0041421695A_1964061901_0438.json"
+        }
+    ]
+}

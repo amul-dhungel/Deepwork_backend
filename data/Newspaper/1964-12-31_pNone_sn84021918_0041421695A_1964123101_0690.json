@@ -1,0 +1,81 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7378,
+        "width": 4866,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964123101/0690.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3701,
+                "y0": 645,
+                "x1": 4157,
+                "y1": 2969
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2905,
+                "y0": 2818,
+                "x1": 3287,
+                "y1": 3251
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 4167,
+                "y0": 2928,
+                "x1": 4532,
+                "y1": 3344
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964123101_0690",
+    "full articles": []
+}

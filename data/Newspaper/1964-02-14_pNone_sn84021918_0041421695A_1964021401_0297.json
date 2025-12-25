@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-14",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7403,
+        "width": 4808,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-14",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964021401/0297.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1889,
+                "y0": 589,
+                "x1": 2711,
+                "y1": 2077
+            },
+            "class": "article",
+            "raw_text": "CLARKSDALE. Miss. = \"Our\ntask in the National Association\nfor the Advancement of Colored\nPeople is to focus Americas\nattention on the plight of the\nNegro unemployed in a more\ndramatic fashion in 1864\" said\nGloster B. Current, national\nNAACP director of branches, in\nan address at an Emancipation\nProclamation observance.\n\n\nDemonstrations, marches on\nCity Halls, and demands on gov\nerrors for jobs by unemployed\nNegroes, organized by the\nNAACP, will be the order Of the\nday this year. said Mr.. Current.\n\n\nThe NAACP will sponsor pro-\ntests for jobs, Mr.. Current said,\nbecause the rate Of Negro unem-\nployment is three times higher\nthan that for all Americans. In\nClarksdale alone, he observed,\nsix out Of every seven unem-\nployed persons are Negroes.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1860,
+                "y0": 318,
+                "x1": 2717,
+                "y1": 567
+            },
+            "class": "headline",
+            "raw_text": "Current Speaks\n\n\nAt Emancipation\n\n\nProcIum alton Observance",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2791,
+                "y0": 2469,
+                "x1": 3602,
+                "y1": 3320
+            },
+            "class": "article",
+            "raw_text": "Mayor Milt Graham has an\nnounced the start Of a new pro-\ngram designed to help keep citi-\nzens better informed about mu-\nnicipal operations and encourage\nmore active citizen interest and\nparticipation in government.\n\n\nLetters pf invitation are being\nmailed to presidents Of % Phoe-\nnix service clubs asking them to\ninvite their memberships. and\ntheir families, to attend the Mon\nday night informal meetings Of\nthe City Council as invited guests.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3664,
+                "y0": 2423,
+                "x1": 4481,
+                "y1": 3309
+            },
+            "class": "article",
+            "raw_text": "A different organization will be\ncontacted each week.\n\n\n\"This will be a continuing\nprogram\" said Graham, \"and\nwhen the first % clubs have Ns-\ntied US, we will invite others. In\nthis way. citizens will be better\nable to help us cope with the\nproblems Of today and the chal-\nlenges Of tomorrow\"\n\n\nThe first letter went to the Ex-\nchange Club Of Phoenix inviting\nmembers to attend the February\nII Informal Meeting Of the Coun-\nGil, starting at 1880 pm. b",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3080,
+                "y0": 2244,
+                "x1": 4180,
+                "y1": 2401
+            },
+            "class": "headline",
+            "raw_text": "MAYOR GRAHAM SETS FIRST\n\n\nINFORMAL COUNCIL MEETING",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1889,
+                "y0": 2325,
+                "x1": 2694,
+                "y1": 2748
+            },
+            "class": "article",
+            "raw_text": "You can expect lots Of exciting\nnew hobby kits to show up in the\nstores this spring and summer.\nMore than 200 manufacturers\npreviewed their new ideas at the\n9th annual trade show of the\nHobby Industry Association of\nAmerica, Inc, early in February.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1970,
+                "y0": 2145,
+                "x1": 2601,
+                "y1": 2285
+            },
+            "class": "headline",
+            "raw_text": "HOBBY NEWS",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2785,
+                "y0": 1700,
+                "x1": 4458,
+                "y1": 2221
+            },
+            "class": "article",
+            "raw_text": "Members Of the Purple Cross Nurses and First Aid Unit Of the\nCanyon Temple 49, BPOEW auxiliary Friday, Feb\n7 the Elks Lodge.\n\n\nOfficers include Mesdames Mary Thompson president Ruth\nCurry PRESIDENT Ardeaa Wilson, Myrtle Jack\nCora Jackson and Lois Mitchell grand\norganizer.\n\n\nOther members Mines Lille Mae Hall, Bezora Holmes\nLacv tones. .",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 107,
+                "y0": 1706,
+                "x1": 1803,
+                "y1": 2129
+            },
+            "class": "article",
+            "raw_text": "Members Alpha Kappa Alpha Sorority met Sunday afternoon\nat the home Moen. 1910 E. Cambridge prepare\nthe yearly calendar Of events\n\n\nPictured Mesdames Ruth Wheeler, Doris Motem\nClara Venerable Crowley Matte Moore Goldye Hart\nLote WYATT McFradde Martin, Ann Taylor Azea James and\nLois Brooks, baseus.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964021401_0297",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "Current Speaks\n\n\nAt Emancipation\n\n\nProcIum alton Observance",
+            "article": "CLARKSDALE. Miss. = \"Our\ntask in the National Association\nfor the Advancement of Colored\nPeople is to focus Americas\nattention on the plight of the\nNegro unemployed in a more\ndramatic fashion in 1864\" said\nGloster B. Current, national\nNAACP director of branches, in\nan address at an Emancipation\nProclamation observance.\n\n\nDemonstrations, marches on\nCity Halls, and demands on gov\nerrors for jobs by unemployed\nNegroes, organized by the\nNAACP, will be the order Of the\nday this year. said Mr.. Current.\n\n\nThe NAACP will sponsor pro-\ntests for jobs, Mr.. Current said,\nbecause the rate Of Negro unem-\nployment is three times higher\nthan that for all Americans. In\nClarksdale alone, he observed,\nsix out Of every seven unem-\nployed persons are Negroes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1860,
+                    "y0": 318,
+                    "x1": 2717,
+                    "y1": 567
+                },
+                {
+                    "x0": 1889,
+                    "y0": 589,
+                    "x1": 2711,
+                    "y1": 2077
+                }
+            ],
+            "bbox": [
+                1860,
+                318,
+                2717,
+                2077
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-14_pna_sn84021918_0041421695A_1964021401_0297.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Mayor Milt Graham has an\nnounced the start Of a new pro-\ngram designed to help keep citi-\nzens better informed about mu-\nnicipal operations and encourage\nmore active citizen interest and\nparticipation in government.\n\n\nLetters pf invitation are being\nmailed to presidents Of % Phoe-\nnix service clubs asking them to\ninvite their memberships. and\ntheir families, to attend the Mon\nday night informal meetings Of\nthe City Council as invited guests.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2791,
+                    "y0": 2469,
+                    "x1": 3602,
+                    "y1": 3320
+                }
+            ],
+            "bbox": [
+                2791,
+                2469,
+                3602,
+                3320
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-14_pna_sn84021918_0041421695A_1964021401_0297.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "MAYOR GRAHAM SETS FIRST\n\n\nINFORMAL COUNCIL MEETING",
+            "article": "A different organization will be\ncontacted each week.\n\n\n\"This will be a continuing\nprogram\" said Graham, \"and\nwhen the first % clubs have Ns-\ntied US, we will invite others. In\nthis way. citizens will be better\nable to help us cope with the\nproblems Of today and the chal-\nlenges Of tomorrow\"\n\n\nThe first letter went to the Ex-\nchange Club Of Phoenix inviting\nmembers to attend the February\nII Informal Meeting Of the Coun-\nGil, starting at 1880 pm. b",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3080,
+                    "y0": 2244,
+                    "x1": 4180,
+                    "y1": 2401
+                },
+                {
+                    "x0": 3664,
+                    "y0": 2423,
+                    "x1": 4481,
+                    "y1": 3309
+                }
+            ],
+            "bbox": [
+                3080,
+                2244,
+                4481,
+                3309
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-14_pna_sn84021918_0041421695A_1964021401_0297.json"
+        },
+        {
+            "object_ids": [
+                12,
+                7
+            ],
+            "headline": "HOBBY NEWS",
+            "article": "You can expect lots Of exciting\nnew hobby kits to show up in the\nstores this spring and summer.\nMore than 200 manufacturers\npreviewed their new ideas at the\n9th annual trade show of the\nHobby Industry Association of\nAmerica, Inc, early in February.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 2145,
+                    "x1": 2601,
+                    "y1": 2285
+                },
+                {
+                    "x0": 1889,
+                    "y0": 2325,
+                    "x1": 2694,
+                    "y1": 2748
+                }
+            ],
+            "bbox": [
+                1889,
+                2145,
+                2694,
+                2748
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-02-14_pna_sn84021918_0041421695A_1964021401_0297.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Members Of the Purple Cross Nurses and First Aid Unit Of the\nCanyon Temple 49, BPOEW auxiliary Friday, Feb\n7 the Elks Lodge.\n\n\nOfficers include Mesdames Mary Thompson president Ruth\nCurry PRESIDENT Ardeaa Wilson, Myrtle Jack\nCora Jackson and Lois Mitchell grand\norganizer.\n\n\nOther members Mines Lille Mae Hall, Bezora Holmes\nLacv tones. .",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2785,
+                    "y0": 1700,
+                    "x1": 4458,
+                    "y1": 2221
+                }
+            ],
+            "bbox": [
+                2785,
+                1700,
+                4458,
+                2221
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-02-14_pna_sn84021918_0041421695A_1964021401_0297.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Members Alpha Kappa Alpha Sorority met Sunday afternoon\nat the home Moen. 1910 E. Cambridge prepare\nthe yearly calendar Of events\n\n\nPictured Mesdames Ruth Wheeler, Doris Motem\nClara Venerable Crowley Matte Moore Goldye Hart\nLote WYATT McFradde Martin, Ann Taylor Azea James and\nLois Brooks, baseus.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 107,
+                    "y0": 1706,
+                    "x1": 1803,
+                    "y1": 2129
+                }
+            ],
+            "bbox": [
+                107,
+                1706,
+                1803,
+                2129
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-02-14_pna_sn84021918_0041421695A_1964021401_0297.json"
+        }
+    ]
+}

@@ -1,0 +1,866 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7392,
+        "width": 4894,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091101/0543.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 85,
+                "y0": 4816,
+                "x1": 628,
+                "y1": 5215
+            },
+            "class": "article",
+            "raw_text": "All of the following named per-\nsons, acting as incorporates\nherein, we're duly elected Direc-\ntors of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors of\nsaid Corporation to wit, on June\n\"a. 1864, at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 96,
+                "y0": 4735,
+                "x1": 305,
+                "y1": 4782
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE III",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": -1
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 1309,
+                "y0": 3898,
+                "x1": 1824,
+                "y1": 4112
+            },
+            "class": "article",
+            "raw_text": "Mr.. J. D. Holmes, l45e East\nMonroe. Phoenix. Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\n\n\nis appointed Statutory Agent.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 1303,
+                "y0": 3834,
+                "x1": 1581,
+                "y1": 3881
+            },
+            "class": "headline",
+            "raw_text": "Statutory Agent:",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 674,
+                "y0": 3857,
+                "x1": 1223,
+                "y1": 5210
+            },
+            "class": "article",
+            "raw_text": "The affairs Of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist Of less than five (5) or more\ntan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday in January of each year.\nThe members of the Board of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms of office. Therefore,\nat each annual meeting of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board of Dr.\nrectors and Advisory Board oc-\ncuring before the expiration of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nTO serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.\n\n\nARTICLE vi\n\n\nThe Debonairs may organize\nas provided by laws. The\nqualifications of members and\nofficers and the conditions of\ntheir election. suspension and",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 34,
+            "bbox": {
+                "x0": 702,
+                "y0": 3251,
+                "x1": 917,
+                "y1": 3298
+            },
+            "class": "headline",
+            "raw_text": "ARTICLEI w",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 691,
+                "y0": 3776,
+                "x1": 900,
+                "y1": 3829
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE v",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 131,
+                "y0": 2281,
+                "x1": 940,
+                "y1": 2640
+            },
+            "class": "article",
+            "raw_text": "New fall hours take effect\nthis week at Legend City.\n\n\nThe amusement park will be\nopen from 6 pm. to midnight on\nFridays. 4 pm. to midnight on\nSaturdays and 4 Ito l pm. on Sun",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1014,
+                "y0": 2275,
+                "x1": 1830,
+                "y1": 2634
+            },
+            "class": "article",
+            "raw_text": "days. The park will be closed\nMonday through Thursday.\n\n\nThe schedule will remain In\neffect until colder weather re-\nquires earlier opening and\nclosing hours.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 512,
+                "y0": 2142,
+                "x1": 1495,
+                "y1": 2247
+            },
+            "class": "headline",
+            "raw_text": "New Hours at Legend City",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1898,
+                "y0": 537,
+                "x1": 2730,
+                "y1": 2617
+            },
+            "class": "article",
+            "raw_text": "Welcome to our city to Mrs.\nOlive r. Moss and her children\nfrom San Diego. Calf.\n\n\nMrs. and Mrs. Steve Lockett\nOf Los Angeles were in the city\nfor the weekend.\n\n\nMr.. and Mrs. Alden Henry are\nvacationing in Kansas City and\nChicago.\n\n\nSgt. and Mrs. LID. Irely have\ngone to Hawaii. She is the daugh-\nter Of Mrs. Alice Gray.\n\n\nMrs. Plummer Hill and her\ndaughter. Jacqueline Arnold en-\ntertained Pfc. John Medane who\nwas en- route to Korea.\n\n\nD. l.. Dillsworth visited his\nson T.B. ellsworth at Fit. Ord,\nCalf. His son and wife spent\na few days here, too.\n\n\nDorothy Patterson of Alzente.\nCalf. and Mrs. Lille Mayfield\nOf Los Angeles spent the weekend\nhere.\n\n\nMIR. and Mrs. Henry Mahan re-\nturned from their enjoyable trip\nin Texas. He said he missed\nthe sleeping bug.\n\n\nYour reporter will attend the\nAGA state convention in Prescott\nthis week.\n\n\nKeep this column in mind for\nyour happenings. Thought Of the\nday Time Is the best adviser.\nPericles.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1944,
+                "y0": 306,
+                "x1": 2632,
+                "y1": 509
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBY FLORA RUFFlN",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 96,
+                "y0": 3568,
+                "x1": 640,
+                "y1": 3766
+            },
+            "class": "article",
+            "raw_text": "The name Of the Corporation\nwill be Debonairs Social and\nArt Club. and the principal place\nOf business will be In Phoenix,\nArizona.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 102,
+                "y0": 3482,
+                "x1": 299,
+                "y1": 3535
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 96,
+                "y0": 2997,
+                "x1": 646,
+                "y1": 3454
+            },
+            "class": "article",
+            "raw_text": "Know all Men BY These Presents:\n\n\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors of the\nDebonairs Social and Art Club,\ndo hereby associate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 119,
+                "y0": 2743,
+                "x1": 640,
+                "y1": 2796
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE OF INCORPORATION",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -3
+        },
+        {
+            "id": 38,
+            "bbox": {
+                "x0": 258,
+                "y0": 2864,
+                "x1": 640,
+                "y1": 2963
+            },
+            "class": "headline",
+            "raw_text": "IRIS SOCIAL AND",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 102,
+                "y0": 2904,
+                "x1": 311,
+                "y1": 2992
+            },
+            "class": "headline",
+            "raw_text": "DEBONAIRS\nART CLUB",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1297,
+                "y0": 2737,
+                "x1": 1841,
+                "y1": 2975
+            },
+            "class": "article",
+            "raw_text": "expulsion. and their rights,\npowers and authority shall be\nset out in the Bylaws of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1904,
+                "y0": 2708,
+                "x1": 2713,
+                "y1": 3090
+            },
+            "class": "article",
+            "raw_text": "There's a decided public taste\nfor sour cream. A survey of 76\nOf the nations major markets\n\n\nindicates that average daily sales\nOf sour cream increased 8\npercent between 1862 and 1868.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 40,
+            "bbox": {
+                "x0": 2216,
+                "y0": 2668,
+                "x1": 2367,
+                "y1": 2721
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 691,
+                "y0": 2754,
+                "x1": 1235,
+                "y1": 3737
+            },
+            "class": "article",
+            "raw_text": "Mrs. Amanda Gray l4l5 E.\nJefferson = Phoenix, Arizona\n\n\nMrs. Ardella Calbreath 1926\nE. Adams Phoenix, Arizona\n\n\nMrs. Alvin Vera Richie 1899\nW. Monroe Phoenix, Arizona\n\n\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. = Phoenix, Arizona\n\n\nMrs. Flora Ruffin l7lo E,\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher = 1888 E.\nMadison Phoenix, Arizona\nARTICLE w\n\n\nThat the time of the Com\nmencement Of this Corporation\nshall be the date these Articles\nare filed In the office of the Ari-\niona Corporation Commission Of\nche State Of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter, with\nthe privilege Of renewal, as\nprovided by law.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 85,
+                "y0": 3880,
+                "x1": 634,
+                "y1": 4730
+            },
+            "class": "article",
+            "raw_text": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nto solicit funds and enter toCon-\ntracts for the solicitation funds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose of the Corpora\ntion and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable in con-\nnection herewith.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 96,
+                "y0": 3794,
+                "x1": 311,
+                "y1": 3852
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE II",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1263,
+                "y0": 4181,
+                "x1": 1824,
+                "y1": 5204
+            },
+            "class": "article",
+            "raw_text": "The private and individual pro-\nperty Of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Galbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme. Rose Anderson, a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\nIs. 1865.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 1286,
+                "y0": 4129,
+                "x1": 1547,
+                "y1": 4182
+            },
+            "class": "headline",
+            "raw_text": "ARTICLES VIII",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1286,
+                "y0": 3078,
+                "x1": 1830,
+                "y1": 3795
+            },
+            "class": "article",
+            "raw_text": "All of the following named\npersons, acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub were duly elected as\nAdvisory Members of the\nDebonairs Social and Art Club.\nand are duly elected, qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\n\n\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\n\n\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\n\n\nMr.. Ted Gianas",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1297,
+                "y0": 3003,
+                "x1": 1535,
+                "y1": 3055
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE VII",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091101_0543",
+    "full articles": [
+        {
+            "object_ids": [
+                25,
+                31
+            ],
+            "headline": "ARTICLE III",
+            "article": "All of the following named per-\nsons, acting as incorporates\nherein, we're duly elected Direc-\ntors of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors of\nsaid Corporation to wit, on June\n\"a. 1864, at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 96,
+                    "y0": 4735,
+                    "x1": 305,
+                    "y1": 4782
+                },
+                {
+                    "x0": 85,
+                    "y0": 4816,
+                    "x1": 628,
+                    "y1": 5215
+                }
+            ],
+            "bbox": [
+                85,
+                4735,
+                628,
+                5215
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                33,
+                32
+            ],
+            "headline": "Statutory Agent:",
+            "article": "Mr.. J. D. Holmes, l45e East\nMonroe. Phoenix. Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\n\n\nis appointed Statutory Agent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1303,
+                    "y0": 3834,
+                    "x1": 1581,
+                    "y1": 3881
+                },
+                {
+                    "x0": 1309,
+                    "y0": 3898,
+                    "x1": 1824,
+                    "y1": 4112
+                }
+            ],
+            "bbox": [
+                1303,
+                3834,
+                1824,
+                4112
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                34,
+                13,
+                2
+            ],
+            "headline": "ARTICLEI w\n\nARTICLE v",
+            "article": "The affairs Of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist Of less than five (5) or more\ntan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday in January of each year.\nThe members of the Board of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms of office. Therefore,\nat each annual meeting of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board of Dr.\nrectors and Advisory Board oc-\ncuring before the expiration of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nTO serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.\n\n\nARTICLE vi\n\n\nThe Debonairs may organize\nas provided by laws. The\nqualifications of members and\nofficers and the conditions of\ntheir election. suspension and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 702,
+                    "y0": 3251,
+                    "x1": 917,
+                    "y1": 3298
+                },
+                {
+                    "x0": 691,
+                    "y0": 3776,
+                    "x1": 900,
+                    "y1": 3829
+                },
+                {
+                    "x0": 674,
+                    "y0": 3857,
+                    "x1": 1223,
+                    "y1": 5210
+                }
+            ],
+            "bbox": [
+                674,
+                3251,
+                1223,
+                5210
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "New fall hours take effect\nthis week at Legend City.\n\n\nThe amusement park will be\nopen from 6 pm. to midnight on\nFridays. 4 pm. to midnight on\nSaturdays and 4 Ito l pm. on Sun",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 131,
+                    "y0": 2281,
+                    "x1": 940,
+                    "y1": 2640
+                }
+            ],
+            "bbox": [
+                131,
+                2281,
+                940,
+                2640
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "New Hours at Legend City",
+            "article": "days. The park will be closed\nMonday through Thursday.\n\n\nThe schedule will remain In\neffect until colder weather re-\nquires earlier opening and\nclosing hours.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 512,
+                    "y0": 2142,
+                    "x1": 1495,
+                    "y1": 2247
+                },
+                {
+                    "x0": 1014,
+                    "y0": 2275,
+                    "x1": 1830,
+                    "y1": 2634
+                }
+            ],
+            "bbox": [
+                512,
+                2142,
+                1830,
+                2634
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                6,
+                5
+            ],
+            "headline": "All Around\n\n\nBY FLORA RUFFlN",
+            "article": "Welcome to our city to Mrs.\nOlive r. Moss and her children\nfrom San Diego. Calf.\n\n\nMrs. and Mrs. Steve Lockett\nOf Los Angeles were in the city\nfor the weekend.\n\n\nMr.. and Mrs. Alden Henry are\nvacationing in Kansas City and\nChicago.\n\n\nSgt. and Mrs. LID. Irely have\ngone to Hawaii. She is the daugh-\nter Of Mrs. Alice Gray.\n\n\nMrs. Plummer Hill and her\ndaughter. Jacqueline Arnold en-\ntertained Pfc. John Medane who\nwas en- route to Korea.\n\n\nD. l.. Dillsworth visited his\nson T.B. ellsworth at Fit. Ord,\nCalf. His son and wife spent\na few days here, too.\n\n\nDorothy Patterson of Alzente.\nCalf. and Mrs. Lille Mayfield\nOf Los Angeles spent the weekend\nhere.\n\n\nMIR. and Mrs. Henry Mahan re-\nturned from their enjoyable trip\nin Texas. He said he missed\nthe sleeping bug.\n\n\nYour reporter will attend the\nAGA state convention in Prescott\nthis week.\n\n\nKeep this column in mind for\nyour happenings. Thought Of the\nday Time Is the best adviser.\nPericles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1944,
+                    "y0": 306,
+                    "x1": 2632,
+                    "y1": 509
+                },
+                {
+                    "x0": 1898,
+                    "y0": 537,
+                    "x1": 2730,
+                    "y1": 2617
+                }
+            ],
+            "bbox": [
+                1898,
+                306,
+                2730,
+                2617
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "ARTICLE",
+            "article": "The name Of the Corporation\nwill be Debonairs Social and\nArt Club. and the principal place\nOf business will be In Phoenix,\nArizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 102,
+                    "y0": 3482,
+                    "x1": 299,
+                    "y1": 3535
+                },
+                {
+                    "x0": 96,
+                    "y0": 3568,
+                    "x1": 640,
+                    "y1": 3766
+                }
+            ],
+            "bbox": [
+                96,
+                3482,
+                640,
+                3766
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                21,
+                38,
+                30,
+                16
+            ],
+            "headline": "ARTICLE OF INCORPORATION\n\nIRIS SOCIAL AND\n\nDEBONAIRS\nART CLUB",
+            "article": "Know all Men BY These Presents:\n\n\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors of the\nDebonairs Social and Art Club,\ndo hereby associate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 119,
+                    "y0": 2743,
+                    "x1": 640,
+                    "y1": 2796
+                },
+                {
+                    "x0": 258,
+                    "y0": 2864,
+                    "x1": 640,
+                    "y1": 2963
+                },
+                {
+                    "x0": 102,
+                    "y0": 2904,
+                    "x1": 311,
+                    "y1": 2992
+                },
+                {
+                    "x0": 96,
+                    "y0": 2997,
+                    "x1": 646,
+                    "y1": 3454
+                }
+            ],
+            "bbox": [
+                96,
+                2743,
+                646,
+                3454
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "expulsion. and their rights,\npowers and authority shall be\nset out in the Bylaws of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1297,
+                    "y0": 2737,
+                    "x1": 1841,
+                    "y1": 2975
+                }
+            ],
+            "bbox": [
+                1297,
+                2737,
+                1841,
+                2975
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                40,
+                20
+            ],
+            "headline": "",
+            "article": "There's a decided public taste\nfor sour cream. A survey of 76\nOf the nations major markets\n\n\nindicates that average daily sales\nOf sour cream increased 8\npercent between 1862 and 1868.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2216,
+                    "y0": 2668,
+                    "x1": 2367,
+                    "y1": 2721
+                },
+                {
+                    "x0": 1904,
+                    "y0": 2708,
+                    "x1": 2713,
+                    "y1": 3090
+                }
+            ],
+            "bbox": [
+                1904,
+                2668,
+                2713,
+                3090
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Mrs. Amanda Gray l4l5 E.\nJefferson = Phoenix, Arizona\n\n\nMrs. Ardella Calbreath 1926\nE. Adams Phoenix, Arizona\n\n\nMrs. Alvin Vera Richie 1899\nW. Monroe Phoenix, Arizona\n\n\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. = Phoenix, Arizona\n\n\nMrs. Flora Ruffin l7lo E,\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher = 1888 E.\nMadison Phoenix, Arizona\nARTICLE w\n\n\nThat the time of the Com\nmencement Of this Corporation\nshall be the date these Articles\nare filed In the office of the Ari-\niona Corporation Commission Of\nche State Of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter, with\nthe privilege Of renewal, as\nprovided by law.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 691,
+                    "y0": 2754,
+                    "x1": 1235,
+                    "y1": 3737
+                }
+            ],
+            "bbox": [
+                691,
+                2754,
+                1235,
+                3737
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                17,
+                24
+            ],
+            "headline": "ARTICLE II",
+            "article": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nto solicit funds and enter toCon-\ntracts for the solicitation funds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose of the Corpora\ntion and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable in con-\nnection herewith.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 96,
+                    "y0": 3794,
+                    "x1": 311,
+                    "y1": 3852
+                },
+                {
+                    "x0": 85,
+                    "y0": 3880,
+                    "x1": 634,
+                    "y1": 4730
+                }
+            ],
+            "bbox": [
+                85,
+                3794,
+                634,
+                4730
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                35,
+                27
+            ],
+            "headline": "ARTICLES VIII",
+            "article": "The private and individual pro-\nperty Of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Galbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme. Rose Anderson, a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\nIs. 1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1286,
+                    "y0": 4129,
+                    "x1": 1547,
+                    "y1": 4182
+                },
+                {
+                    "x0": 1263,
+                    "y0": 4181,
+                    "x1": 1824,
+                    "y1": 5204
+                }
+            ],
+            "bbox": [
+                1263,
+                4129,
+                1824,
+                5204
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        },
+        {
+            "object_ids": [
+                26,
+                28
+            ],
+            "headline": "ARTICLE VII",
+            "article": "All of the following named\npersons, acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub were duly elected as\nAdvisory Members of the\nDebonairs Social and Art Club.\nand are duly elected, qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\n\n\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\n\n\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\n\n\nMr.. Ted Gianas",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1297,
+                    "y0": 3003,
+                    "x1": 1535,
+                    "y1": 3055
+                },
+                {
+                    "x0": 1286,
+                    "y0": 3078,
+                    "x1": 1830,
+                    "y1": 3795
+                }
+            ],
+            "bbox": [
+                1286,
+                3003,
+                1830,
+                3795
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-09-11_pna_sn84021918_0041421695A_1964091101_0543.json"
+        }
+    ]
+}

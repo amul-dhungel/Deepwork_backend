@@ -1,0 +1,491 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7417,
+        "width": 4822,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964010301/0252.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3002,
+                "y0": 4763,
+                "x1": 3820,
+                "y1": 6212
+            },
+            "class": "article",
+            "raw_text": "Tie up rainy days with ribbons\nto keep the children entranced\nfor hours. Just tuck away color\nfull ribbons of various widths;\nkeep a package of paper plates\non hand, and save gift wrapping\npapers decorated with child\npleaser designs like planes, boats\nor flowers. With these supplies\nyou can turn the youngsters into\npirates, fashion models or their\nhearts desire within minutes.\nPirates, for instance, can stomp\nthe deck in boards of curling rib\nbons, a black paper eye patch\nand seaman's hat of decorated\npaper adorned with skull and\ncrossbones. Junior fashion mod\nels can parade in spring bonnets\nmade by covering paper plates\nwith spring gift papers and ty-\ning them on under the chin with\nribbon.\n\n\nX X\n\n\nAccording to The Lindsay\nCompany, the largest manufac-\nturer of automatic soft water\nequipment for the home, there\nare five steps to natural love-\nillness of hands and face. Battle",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3019,
+                "y0": 4479,
+                "x1": 3605,
+                "y1": 4549
+            },
+            "class": "author",
+            "raw_text": "LINDA SCOTT writes",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3042,
+                "y0": 4600,
+                "x1": 3802,
+                "y1": 4711
+            },
+            "class": "headline",
+            "raw_text": "FOrWOmem Only",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 284,
+                "y0": 2126,
+                "x1": 1108,
+                "y1": 3263
+            },
+            "class": "article",
+            "raw_text": "PRINCETON, M. ]. Mrs.\nJacqueline Kennedy, the widow of\nthe slain president, is the choice\nof the American public as the\nwoman they admire most in the\nworld today.\n\n\nThis marks the second conse-\ncutive year that Mrs. Kennedy\nhas won top honors in this an\nnual Gallup Poll popularity con-\ntest. In 1861, Mrs. Kennedy\nplaced second on the list, be-\nhind Mrs. Eleanor Roosevelt.\n\n\nNamed next most often In to-\ndays survey, and making her\nfirst appearance among the top\nrankings, is Mrs. Lyndon B.\nLADY Bird) Johnson, wife of the\nnew chief executive.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1182,
+                "y0": 2097,
+                "x1": 2000,
+                "y1": 3274
+            },
+            "class": "article",
+            "raw_text": "Queen Elizabeth received the\nthird greatest number of men\ntons, having placed high on the\nlist of the top ten most admired\nwomen since her coronation in\n1852.\n\n\nThe top ten in 1868, ranked\nby order of mentions:\n\n\nMOST ADMIRED WOMEN\n\n\n1868\nl. Mrs. Jacqueline Kennedy\n2. Mrs. Lyndon B. Johnson\n8. Queen Elizabeth II\n4. Sen. Margaret Chase Smith\nS. Mrs. Mamie Eisenhower\n6. Mrs. Clare Boothe Luce\n7. Miss Helen Keller\n8. Princess Grace\ng. Nine. Ngo Diem Nhu\n10. Miss Marian Anderson",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 585,
+                "y0": 1935,
+                "x1": 1647,
+                "y1": 2087
+            },
+            "class": "headline",
+            "raw_text": "MRS. KENNEDY TOPS MOST\nADMIRED WOMEN'S LISTING",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2080,
+                "y0": 2601,
+                "x1": 2892,
+                "y1": 3199
+            },
+            "class": "article",
+            "raw_text": "ATLANTA = Dick Gregory,\nnationally known Negro comedian\nled an antidiscrimination demon\nstration which forced five res\ntaurants to close temporarily.\n\n\nGregory had led similar sitins\non the preceding day. All res\ntaurants where demonstrators\nappeared are owned by the Dobbs-\nToddle House chain.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2092,
+                "y0": 2416,
+                "x1": 2759,
+                "y1": 2579
+            },
+            "class": "headline",
+            "raw_text": "GREGORY LEADS\nATLANTA SIT-INS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2978,
+                "y0": 1668,
+                "x1": 4683,
+                "y1": 4514
+            },
+            "class": "article",
+            "raw_text": "Trinidad and brought this country\nquickly climbed the academic ladder (she\nhonor student in both Hunter High School and Colleg\nwe'll her becoming medical doctor when the\ndesire her professional\ngagemn she immediate and outstanding success AT this\ndecision had be made and Miss Prmus felt that\npeople roughher dancing than she could\nthrough medicine From this point she switched her major from\nPhilosophy Antropoogy Columbia Throughout\nPearl Pimus has had thirst for knowledge desire\ndiscover the of her prople rQy\nheight her Broadway she stopped performing\nstudy, with people, pick\nbe grandfather had been the OF rim\nlearned Of the significant\nWhen she returned Oscar starred her\nshe granted leave absence\nTbbe in the Chicago Opera production\nof Emperor Jones.\n\n\nshe performing Nashville annual Fisk University Fes\nEmbree President Julius Rosenwald Foundation\nher that he back\ninquire when she had been Africa When he found\nthat she has been there he decided that something should\nbe had closed its books after twenty\noperation but frantic phone calls were made\nPearl Prms given the spend year OF study and\nAfrica This the last and largest grant\nof the Rosenwald Foundation s.sgyy\n\n\nPearl Pris was completely accepted Africa. She felt\nwith the rhythms the PHILOSOPHERS ana\nthe beauty record the Dances she first\nparticipated their presentation and whenever possible received\n\n\nShe used record\ning both still and movie to preserve her\nstudies.\n\n\nMiss Prmus was Medal Honor by\nHis Excellence Tban of the Republic OF Liberia\nthe equivalent of Congressional Meoa\nof Honor the Woman the Year by the\nCouncil of Negro Women in America for her superb\ncreative achievements in the art of dancing\n\n\nThe Liberia has appointed her Director e\nfirst Performing Center She went to Africa In 1857\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3054,
+                "y0": 1350,
+                "x1": 3982,
+                "y1": 1495
+            },
+            "class": "headline",
+            "raw_text": "Negro History Notes",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2996,
+                "y0": 1558,
+                "x1": 4248,
+                "y1": 1652
+            },
+            "class": "headline",
+            "raw_text": "PEARL PRIMUS, A GREAT DANCER",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3888,
+                "y0": 4496,
+                "x1": 4706,
+                "y1": 6201
+            },
+            "class": "article",
+            "raw_text": "only in fully softened water.\nRemove odor and skin secretion\nby using a pure soap that fathers\nfreely. Thoroughly rinse soap\nresidues from your skin. Use soft\nwater generously to flood away\nsoap film. And put nothing on\nyour skin that leaves irritating\nresidues- always treat it gently.\n\n\nDust and dirt in the air and\non the soles of your shoes con-\nstantly menace your precious\ncarpeting that costs so much!\nSurveys show that the average\nsix-room house collects 1O8\npounds of dirt a year. Much OF\nit falls to the carpet. To keep\nloose soil from being embedded\nin your carpets, vacuum them\ntwice a week and daily in en-\ntrance ways and traffic areas.\nConcentrate on one small area,\nvacuum back and forth over 1t\nseveral times and then move on\nto another area. Your home Will\nbe brighter\n\n\nThe 10th centurys smallest\nwaist on a normal woman was\nthe l3-inch circumference of the\nFrench actress, Mile Polaire who\nlived from 1881 to 1899.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2074,
+                "y0": 1605,
+                "x1": 2892,
+                "y1": 2324
+            },
+            "class": "article",
+            "raw_text": "TEMPE Twenty Congolese\nstudents have spent the Christ\nmas holiday time in sessions at\nArizona State University. They\nare on a six months tour of the\nUnited States under the SPONSOR\nship of the agency for interna-\ntional development.\n\n\nThe group studied American\nPolitical Institutions at ASU and\nwill continue their tour to Cali\nfornia.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2080,
+                "y0": 1396,
+                "x1": 2800,
+                "y1": 1559
+            },
+            "class": "headline",
+            "raw_text": "20 CONGO\nSTUDENTS AT ASH",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 290,
+                "y0": 1315,
+                "x1": 2012,
+                "y1": 1924
+            },
+            "class": "article",
+            "raw_text": "The teenage America held its annual Christ\nmas party the YN1CA last Saturday night.\n\n\nPearl Chidress Linda Boydns Janet Smith, Lille\nones Beverly Robert Subett Carol Chester\nWright Annette Smith, Aethea Chester Jeanne Sube\nGarland Chester Griffin Mams Harriet Johnson and\nBetty Miller.\n\n\nOthers Lynda Brown Pat Brown June Hamilton Jerry\nOliver Newman Anthony Wesson, Earl\nManns Shea Hill and Mary Perry",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964010301_0252",
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                10,
+                0
+            ],
+            "headline": "FOrWOmem Only",
+            "article": "Tie up rainy days with ribbons\nto keep the children entranced\nfor hours. Just tuck away color\nfull ribbons of various widths;\nkeep a package of paper plates\non hand, and save gift wrapping\npapers decorated with child\npleaser designs like planes, boats\nor flowers. With these supplies\nyou can turn the youngsters into\npirates, fashion models or their\nhearts desire within minutes.\nPirates, for instance, can stomp\nthe deck in boards of curling rib\nbons, a black paper eye patch\nand seaman's hat of decorated\npaper adorned with skull and\ncrossbones. Junior fashion mod\nels can parade in spring bonnets\nmade by covering paper plates\nwith spring gift papers and ty-\ning them on under the chin with\nribbon.\n\n\nX X\n\n\nAccording to The Lindsay\nCompany, the largest manufac-\nturer of automatic soft water\nequipment for the home, there\nare five steps to natural love-\nillness of hands and face. Battle",
+            "byline": "LINDA SCOTT writes",
+            "bbox_list": [
+                {
+                    "x0": 3019,
+                    "y0": 4479,
+                    "x1": 3605,
+                    "y1": 4549
+                },
+                {
+                    "x0": 3042,
+                    "y0": 4600,
+                    "x1": 3802,
+                    "y1": 4711
+                },
+                {
+                    "x0": 3002,
+                    "y0": 4763,
+                    "x1": 3820,
+                    "y1": 6212
+                }
+            ],
+            "bbox": [
+                3002,
+                4479,
+                3820,
+                6212
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "PRINCETON, M. ]. Mrs.\nJacqueline Kennedy, the widow of\nthe slain president, is the choice\nof the American public as the\nwoman they admire most in the\nworld today.\n\n\nThis marks the second conse-\ncutive year that Mrs. Kennedy\nhas won top honors in this an\nnual Gallup Poll popularity con-\ntest. In 1861, Mrs. Kennedy\nplaced second on the list, be-\nhind Mrs. Eleanor Roosevelt.\n\n\nNamed next most often In to-\ndays survey, and making her\nfirst appearance among the top\nrankings, is Mrs. Lyndon B.\nLADY Bird) Johnson, wife of the\nnew chief executive.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 284,
+                    "y0": 2126,
+                    "x1": 1108,
+                    "y1": 3263
+                }
+            ],
+            "bbox": [
+                284,
+                2126,
+                1108,
+                3263
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "MRS. KENNEDY TOPS MOST\nADMIRED WOMEN'S LISTING",
+            "article": "Queen Elizabeth received the\nthird greatest number of men\ntons, having placed high on the\nlist of the top ten most admired\nwomen since her coronation in\n1852.\n\n\nThe top ten in 1868, ranked\nby order of mentions:\n\n\nMOST ADMIRED WOMEN\n\n\n1868\nl. Mrs. Jacqueline Kennedy\n2. Mrs. Lyndon B. Johnson\n8. Queen Elizabeth II\n4. Sen. Margaret Chase Smith\nS. Mrs. Mamie Eisenhower\n6. Mrs. Clare Boothe Luce\n7. Miss Helen Keller\n8. Princess Grace\ng. Nine. Ngo Diem Nhu\n10. Miss Marian Anderson",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 585,
+                    "y0": 1935,
+                    "x1": 1647,
+                    "y1": 2087
+                },
+                {
+                    "x0": 1182,
+                    "y0": 2097,
+                    "x1": 2000,
+                    "y1": 3274
+                }
+            ],
+            "bbox": [
+                585,
+                1935,
+                2000,
+                3274
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "GREGORY LEADS\nATLANTA SIT-INS",
+            "article": "ATLANTA = Dick Gregory,\nnationally known Negro comedian\nled an antidiscrimination demon\nstration which forced five res\ntaurants to close temporarily.\n\n\nGregory had led similar sitins\non the preceding day. All res\ntaurants where demonstrators\nappeared are owned by the Dobbs-\nToddle House chain.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2092,
+                    "y0": 2416,
+                    "x1": 2759,
+                    "y1": 2579
+                },
+                {
+                    "x0": 2080,
+                    "y0": 2601,
+                    "x1": 2892,
+                    "y1": 3199
+                }
+            ],
+            "bbox": [
+                2080,
+                2416,
+                2892,
+                3199
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        },
+        {
+            "object_ids": [
+                16,
+                15,
+                6
+            ],
+            "headline": "Negro History Notes\n\nPEARL PRIMUS, A GREAT DANCER",
+            "article": "Trinidad and brought this country\nquickly climbed the academic ladder (she\nhonor student in both Hunter High School and Colleg\nwe'll her becoming medical doctor when the\ndesire her professional\ngagemn she immediate and outstanding success AT this\ndecision had be made and Miss Prmus felt that\npeople roughher dancing than she could\nthrough medicine From this point she switched her major from\nPhilosophy Antropoogy Columbia Throughout\nPearl Pimus has had thirst for knowledge desire\ndiscover the of her prople rQy\nheight her Broadway she stopped performing\nstudy, with people, pick\nbe grandfather had been the OF rim\nlearned Of the significant\nWhen she returned Oscar starred her\nshe granted leave absence\nTbbe in the Chicago Opera production\nof Emperor Jones.\n\n\nshe performing Nashville annual Fisk University Fes\nEmbree President Julius Rosenwald Foundation\nher that he back\ninquire when she had been Africa When he found\nthat she has been there he decided that something should\nbe had closed its books after twenty\noperation but frantic phone calls were made\nPearl Prms given the spend year OF study and\nAfrica This the last and largest grant\nof the Rosenwald Foundation s.sgyy\n\n\nPearl Pris was completely accepted Africa. She felt\nwith the rhythms the PHILOSOPHERS ana\nthe beauty record the Dances she first\nparticipated their presentation and whenever possible received\n\n\nShe used record\ning both still and movie to preserve her\nstudies.\n\n\nMiss Prmus was Medal Honor by\nHis Excellence Tban of the Republic OF Liberia\nthe equivalent of Congressional Meoa\nof Honor the Woman the Year by the\nCouncil of Negro Women in America for her superb\ncreative achievements in the art of dancing\n\n\nThe Liberia has appointed her Director e\nfirst Performing Center She went to Africa In 1857\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3054,
+                    "y0": 1350,
+                    "x1": 3982,
+                    "y1": 1495
+                },
+                {
+                    "x0": 2996,
+                    "y0": 1558,
+                    "x1": 4248,
+                    "y1": 1652
+                },
+                {
+                    "x0": 2978,
+                    "y0": 1668,
+                    "x1": 4683,
+                    "y1": 4514
+                }
+            ],
+            "bbox": [
+                2978,
+                1350,
+                4683,
+                4514
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "only in fully softened water.\nRemove odor and skin secretion\nby using a pure soap that fathers\nfreely. Thoroughly rinse soap\nresidues from your skin. Use soft\nwater generously to flood away\nsoap film. And put nothing on\nyour skin that leaves irritating\nresidues- always treat it gently.\n\n\nDust and dirt in the air and\non the soles of your shoes con-\nstantly menace your precious\ncarpeting that costs so much!\nSurveys show that the average\nsix-room house collects 1O8\npounds of dirt a year. Much OF\nit falls to the carpet. To keep\nloose soil from being embedded\nin your carpets, vacuum them\ntwice a week and daily in en-\ntrance ways and traffic areas.\nConcentrate on one small area,\nvacuum back and forth over 1t\nseveral times and then move on\nto another area. Your home Will\nbe brighter\n\n\nThe 10th centurys smallest\nwaist on a normal woman was\nthe l3-inch circumference of the\nFrench actress, Mile Polaire who\nlived from 1881 to 1899.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3888,
+                    "y0": 4496,
+                    "x1": 4706,
+                    "y1": 6201
+                }
+            ],
+            "bbox": [
+                3888,
+                4496,
+                4706,
+                6201
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        },
+        {
+            "object_ids": [
+                11,
+                8
+            ],
+            "headline": "20 CONGO\nSTUDENTS AT ASH",
+            "article": "TEMPE Twenty Congolese\nstudents have spent the Christ\nmas holiday time in sessions at\nArizona State University. They\nare on a six months tour of the\nUnited States under the SPONSOR\nship of the agency for interna-\ntional development.\n\n\nThe group studied American\nPolitical Institutions at ASU and\nwill continue their tour to Cali\nfornia.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2080,
+                    "y0": 1396,
+                    "x1": 2800,
+                    "y1": 1559
+                },
+                {
+                    "x0": 2074,
+                    "y0": 1605,
+                    "x1": 2892,
+                    "y1": 2324
+                }
+            ],
+            "bbox": [
+                2074,
+                1396,
+                2892,
+                2324
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "The teenage America held its annual Christ\nmas party the YN1CA last Saturday night.\n\n\nPearl Chidress Linda Boydns Janet Smith, Lille\nones Beverly Robert Subett Carol Chester\nWright Annette Smith, Aethea Chester Jeanne Sube\nGarland Chester Griffin Mams Harriet Johnson and\nBetty Miller.\n\n\nOthers Lynda Brown Pat Brown June Hamilton Jerry\nOliver Newman Anthony Wesson, Earl\nManns Shea Hill and Mary Perry",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 290,
+                    "y0": 1315,
+                    "x1": 2012,
+                    "y1": 1924
+                }
+            ],
+            "bbox": [
+                290,
+                1315,
+                2012,
+                1924
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-01-03_pna_sn84021918_0041421695A_1964010301_0252.json"
+        }
+    ]
+}

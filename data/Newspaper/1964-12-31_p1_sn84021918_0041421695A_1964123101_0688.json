@@ -1,0 +1,336 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964123101/0688.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4863
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3026,
+                "y0": 1109,
+                "x1": 4726,
+                "y1": 3277
+            },
+            "class": "article",
+            "raw_text": "Democracy may depend upon run decision\nmaking meetings.\n\n\nCall the meeting United Nations Assembly, Parliament\nCongress. meeting, lodge garden club\n\n\nFor your meeting work effectively your chairman\nreach decision.\n\n\nYou need rules hear all sides fairly yet\norder and dispatch.\n\n\nEach group make its rules the\nBefore it does anything else Congress adopts\nsometimes after long, hard fight.\n\n\nBut candidate go your PTA and at\nyour elbow will stand almost forgotten general\n\n\nPeople, meet General Robert:\n\n\nIn 1876 printed 1000 copies \"Roberrs Rules Of\nOrder Since then have bought nearly 100000 copies\nhave changed rules order very little\nother excellent books on the subject have\n\n\nRules of order back the early English Paraments indeed\nto the Athenian Agora and the Roman Forum.\n\n\nName going union professional society\nfirm and there thing Its meetings\nsome rules of order. Most often the Generals.\n\n\nLet your group action 1t takes say\nexcluding member, and odds\nRoberts Rules of Order accepted\nyou did right\n\n\nyou plan part church, groups7\nThen read your parliamentary law. will speed business\nEvery public library has copies.\n\n\nThe rules tools of democracy Know them only keep\nfrom roering through, bstering your\nmotion to DEATH\n\n\nhs legal column issued public\nvision of the State Bar Arizona\nadvise0 ...ts4ge.ssf- -..ssg",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3691,
+                "y0": 300,
+                "x1": 4564,
+                "y1": 752
+            },
+            "class": "headline",
+            "raw_text": "VIEWS, PREvIEWs\nAND REVIEWS\n\n\nEdword Bonks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3032,
+                "y0": 866,
+                "x1": 4050,
+                "y1": 1081
+            },
+            "class": "headline",
+            "raw_text": "DISCUSSING ARIZONA LAW\nMeet General Robert",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2142,
+                "y0": 4634,
+                "x1": 2969,
+                "y1": 7033
+            },
+            "class": "article",
+            "raw_text": "NEW YORK (ANPD = The\nelection of ]. Raymond Jones as\nthe first Negro head of the Dem\nocratic New York County Com\nmittee marked a milestone in\npolitical history.\n\n\nLeadership of Tammany Hall,\nas the New York County Demo-\ncratic organization is tradition\nally known, is a post with politi-\ncal power and influence extending\nfar beyond this city's Borough of\nManhattan which comprises New\nYork County. AS head of the\nnumber one party organization\nin the New York City or down.\nstate area, which is the heart of\nthe statewide Democrat\nstrength in the state, the leader\nof Tammany usually inherits the\nparty influence, and often the\ntitle, of State Chairman. At the\nnational level, the New York State\nchairman controls one of the two\nlargest state delegations at con-\nventionS.\n\n\nJohn Raymond Jones was born\nin St. Thomas, Virgin Islands,\nIS years ago and moved to the\nUnited States at the age of 10.\nHe worked at mental jobs and\nadvanced through political acti-\nwitty. His political wisdom earned\nhim the nickname of \"The Fox\"\n\n\nStarting as deputy US. mar\nshall, he held a number of non\nelective political posts through\nthe years, progressing to secre-\ntary to Justice of the Court of\nGeneral Sessions from which he\nretired in 1859.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2142,
+                "y0": 4247,
+                "x1": 2831,
+                "y1": 4589
+            },
+            "class": "headline",
+            "raw_text": "First Negroe Elected\nTo Head Dem. NY.\n\n\nCounty Com mittee",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2130,
+                "y0": 444,
+                "x1": 2964,
+                "y1": 4144
+            },
+            "class": "article",
+            "raw_text": "Savory whiffs of glazed hams,\nbronzed turkeys, spicy pies, and\nfluffy rolls waited over the VAL\nley Friday. Eager diners threw\ncalorie charts away and caution\nto the wind as they slipped hur-\nriedly in their seats around the\nsteaming table. Tables creaked\nwith the load of succulent pud-\ndings, salads, vegetables, and\nmeats.\n\n\nEaters attacked their plates\nwith zest and quickly the piles\nof delicious foods decreas ed as\nif by magic. Second helpings\nwe're offered without thought\nof that all-important waistline.\nDieters gave their mistreated\nstomachs a real holiday.\n\n\nAt this time of the year, the\nmakers of Unitrim, Regimen,\nWate-off, Lose-it, Tafon and Slim\ncan begin to take inventory or\n90 on a vacation until December\n26 rolls past.\n\n\nEven Jack Spratt's wife eats\nfattening goodies while Jack is\nwatching the scales.\n\n\nam tempted to tamper with\nthose bathroom scales. Watch\nthe scales, girls--figures don't\nlie. The figure in the dress may\ntell you one half-truth, but the\nfigures on the scales tell the\nawful truth. A few poonds a\nday may be fun in the mouth,\nbut it's murder in the purse.\n\n\nReducing. aids are expensive.\nTrim cigarettes cost twice as\nmuch as the regular ones. Low\ncalorie dishes are SO costly that\nthe thought of the price should\ndo the trick. Bread for thinner\nwaistlines is sliced thin enough\nto see through. Machines rangein\nprice from $40 to $500. The\ncost of a new wardrobe amazes\nyou, especially after saying to\nyourself or spouse for weeks\n81 haven't a decent dress to\nwear\n\n\nIn spite of all of these argu-\nments against eating and enjoy\ning the Christmas meal, sighted\nturkey and sank same. After sew\neral visits to our friends homes,\nneeded help to walk. The best\nsights and sounds passed over\nand around the table.\n\n\nExcuse me--where is that\nbicarbonate of soda7 think my\nhusband just drank the last Aka\nseltzer.\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2148,
+                "y0": 248,
+                "x1": 2923,
+                "y1": 440
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nEIoise Bonks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 281,
+                "y0": 1993,
+                "x1": 2039,
+                "y1": 6247
+            },
+            "class": "article",
+            "raw_text": "The leade Yshib role among Negroes IS no\ndifferent from that Of any other group. Hon.\never, there has been a gradual change IN the\npattern of leade Yshib. The role has changed\nfrom a one man leader, or a one man inter-\nnlediary, to a broadening Of the role Of\nle0de YShib.\n\n\n1t is commonly believed that seUe7 raj per-\nsons Witlin the Negro community haze the\nmagic formula for Wop1bing with the total\ngroup. This belief is far from the truth,\nbe cause no fine or six persons can know the\nthinking of the masses. Usually, the IN\ntelle ctuals, however, are useful in CON-\nMUM eating with the majority group, since\nthey haze the facility NTH words. The genuine\nleader must be able to express the desires\nof the group.\n\n\nThe several seD-styled leaders, as well\nas those 1OhO haze earned the rights of\nleadership, are often jealous of the role\nwhich one or tho might happen to play at\nthe time. These persons seem to be I'M\n01UaYe of the fact that leadership is a many\nsided thing, that leadership today might we'll\nbe fOllO1Oe YShib tomorrow In fact, the t1OO\nroles are often complimentary.\n\n\nThe complaint is often made that Negroes\nare not together Negro leaders are not\ntogether. Why should these tVo segments\nbe together any more than the members\nOf other groups !? There WtH be UaY1ed Uie1Os;\nthere Wiu be diUe Ys5ty Of opinions among\nNegroes as weH as among others.\n\n\nThe Phoenix picture is similar to that\nof other large cities. The era of one\nleadership has been replaced by leadership\nfrom several persons. The base of leadership\nneeds to be byoadened to include many more\npersons pOho are qualified by experience\nand education to fiji this role. Many more\nNegroes should be limited to serve\nboards, c0nqnaissio ions, and on other CON-\nnast'aity bYoje cts.\n\n\nDr.. {. O. Greenfield\n\n\nGuest Editor,\n\n\n~ WEBBER'S",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 900,
+                "y0": 716,
+                "x1": 1473,
+                "y1": 786
+            },
+            "class": "author",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 12,
+            "reading_order_id": -3
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 489,
+                "y0": 1531,
+                "x1": 1114,
+                "y1": 1688
+            },
+            "class": "author",
+            "raw_text": "INV is Rswspspsr 10 . ~s~Sss Of\n1904 NEWSPAPERS ASSOCIATION\n\n\nFov 6vssses PshIIe Sevvtes",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 408,
+                "y0": 1814,
+                "x1": 1912,
+                "y1": 1977
+            },
+            "class": "headline",
+            "raw_text": "The ROLE OF LEADERSHIP",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-12-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                7,
+                0
+            ],
+            "headline": "VIEWS, PREvIEWs\nAND REVIEWS\n\n\nEdword Bonks\n\nDISCUSSING ARIZONA LAW\nMeet General Robert",
+            "article": "Democracy may depend upon run decision\nmaking meetings.\n\n\nCall the meeting United Nations Assembly, Parliament\nCongress. meeting, lodge garden club\n\n\nFor your meeting work effectively your chairman\nreach decision.\n\n\nYou need rules hear all sides fairly yet\norder and dispatch.\n\n\nEach group make its rules the\nBefore it does anything else Congress adopts\nsometimes after long, hard fight.\n\n\nBut candidate go your PTA and at\nyour elbow will stand almost forgotten general\n\n\nPeople, meet General Robert:\n\n\nIn 1876 printed 1000 copies \"Roberrs Rules Of\nOrder Since then have bought nearly 100000 copies\nhave changed rules order very little\nother excellent books on the subject have\n\n\nRules of order back the early English Paraments indeed\nto the Athenian Agora and the Roman Forum.\n\n\nName going union professional society\nfirm and there thing Its meetings\nsome rules of order. Most often the Generals.\n\n\nLet your group action 1t takes say\nexcluding member, and odds\nRoberts Rules of Order accepted\nyou did right\n\n\nyou plan part church, groups7\nThen read your parliamentary law. will speed business\nEvery public library has copies.\n\n\nThe rules tools of democracy Know them only keep\nfrom roering through, bstering your\nmotion to DEATH\n\n\nhs legal column issued public\nvision of the State Bar Arizona\nadvise0 ...ts4ge.ssf- -..ssg",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3691,
+                    "y0": 300,
+                    "x1": 4564,
+                    "y1": 752
+                },
+                {
+                    "x0": 3032,
+                    "y0": 866,
+                    "x1": 4050,
+                    "y1": 1081
+                },
+                {
+                    "x0": 3026,
+                    "y0": 1109,
+                    "x1": 4726,
+                    "y1": 3277
+                }
+            ],
+            "bbox": [
+                3026,
+                300,
+                4726,
+                3277
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-31_p1_sn84021918_0041421695A_1964123101_0688.json"
+        },
+        {
+            "object_ids": [
+                4,
+                1
+            ],
+            "headline": "First Negroe Elected\nTo Head Dem. NY.\n\n\nCounty Com mittee",
+            "article": "NEW YORK (ANPD = The\nelection of ]. Raymond Jones as\nthe first Negro head of the Dem\nocratic New York County Com\nmittee marked a milestone in\npolitical history.\n\n\nLeadership of Tammany Hall,\nas the New York County Demo-\ncratic organization is tradition\nally known, is a post with politi-\ncal power and influence extending\nfar beyond this city's Borough of\nManhattan which comprises New\nYork County. AS head of the\nnumber one party organization\nin the New York City or down.\nstate area, which is the heart of\nthe statewide Democrat\nstrength in the state, the leader\nof Tammany usually inherits the\nparty influence, and often the\ntitle, of State Chairman. At the\nnational level, the New York State\nchairman controls one of the two\nlargest state delegations at con-\nventionS.\n\n\nJohn Raymond Jones was born\nin St. Thomas, Virgin Islands,\nIS years ago and moved to the\nUnited States at the age of 10.\nHe worked at mental jobs and\nadvanced through political acti-\nwitty. His political wisdom earned\nhim the nickname of \"The Fox\"\n\n\nStarting as deputy US. mar\nshall, he held a number of non\nelective political posts through\nthe years, progressing to secre-\ntary to Justice of the Court of\nGeneral Sessions from which he\nretired in 1859.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2142,
+                    "y0": 4247,
+                    "x1": 2831,
+                    "y1": 4589
+                },
+                {
+                    "x0": 2142,
+                    "y0": 4634,
+                    "x1": 2969,
+                    "y1": 7033
+                }
+            ],
+            "bbox": [
+                2142,
+                4247,
+                2969,
+                7033
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-31_p1_sn84021918_0041421695A_1964123101_0688.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "Sights and Sounds\nEIoise Bonks",
+            "article": "Savory whiffs of glazed hams,\nbronzed turkeys, spicy pies, and\nfluffy rolls waited over the VAL\nley Friday. Eager diners threw\ncalorie charts away and caution\nto the wind as they slipped hur-\nriedly in their seats around the\nsteaming table. Tables creaked\nwith the load of succulent pud-\ndings, salads, vegetables, and\nmeats.\n\n\nEaters attacked their plates\nwith zest and quickly the piles\nof delicious foods decreas ed as\nif by magic. Second helpings\nwe're offered without thought\nof that all-important waistline.\nDieters gave their mistreated\nstomachs a real holiday.\n\n\nAt this time of the year, the\nmakers of Unitrim, Regimen,\nWate-off, Lose-it, Tafon and Slim\ncan begin to take inventory or\n90 on a vacation until December\n26 rolls past.\n\n\nEven Jack Spratt's wife eats\nfattening goodies while Jack is\nwatching the scales.\n\n\nam tempted to tamper with\nthose bathroom scales. Watch\nthe scales, girls--figures don't\nlie. The figure in the dress may\ntell you one half-truth, but the\nfigures on the scales tell the\nawful truth. A few poonds a\nday may be fun in the mouth,\nbut it's murder in the purse.\n\n\nReducing. aids are expensive.\nTrim cigarettes cost twice as\nmuch as the regular ones. Low\ncalorie dishes are SO costly that\nthe thought of the price should\ndo the trick. Bread for thinner\nwaistlines is sliced thin enough\nto see through. Machines rangein\nprice from $40 to $500. The\ncost of a new wardrobe amazes\nyou, especially after saying to\nyourself or spouse for weeks\n81 haven't a decent dress to\nwear\n\n\nIn spite of all of these argu-\nments against eating and enjoy\ning the Christmas meal, sighted\nturkey and sank same. After sew\neral visits to our friends homes,\nneeded help to walk. The best\nsights and sounds passed over\nand around the table.\n\n\nExcuse me--where is that\nbicarbonate of soda7 think my\nhusband just drank the last Aka\nseltzer.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2148,
+                    "y0": 248,
+                    "x1": 2923,
+                    "y1": 440
+                },
+                {
+                    "x0": 2130,
+                    "y0": 444,
+                    "x1": 2964,
+                    "y1": 4144
+                }
+            ],
+            "bbox": [
+                2130,
+                248,
+                2964,
+                4144
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-31_p1_sn84021918_0041421695A_1964123101_0688.json"
+        },
+        {
+            "object_ids": [
+                14,
+                16,
+                10,
+                11
+            ],
+            "headline": "The ROLE OF LEADERSHIP",
+            "article": "The leade Yshib role among Negroes IS no\ndifferent from that Of any other group. Hon.\never, there has been a gradual change IN the\npattern of leade Yshib. The role has changed\nfrom a one man leader, or a one man inter-\nnlediary, to a broadening Of the role Of\nle0de YShib.\n\n\n1t is commonly believed that seUe7 raj per-\nsons Witlin the Negro community haze the\nmagic formula for Wop1bing with the total\ngroup. This belief is far from the truth,\nbe cause no fine or six persons can know the\nthinking of the masses. Usually, the IN\ntelle ctuals, however, are useful in CON-\nMUM eating with the majority group, since\nthey haze the facility NTH words. The genuine\nleader must be able to express the desires\nof the group.\n\n\nThe several seD-styled leaders, as well\nas those 1OhO haze earned the rights of\nleadership, are often jealous of the role\nwhich one or tho might happen to play at\nthe time. These persons seem to be I'M\n01UaYe of the fact that leadership is a many\nsided thing, that leadership today might we'll\nbe fOllO1Oe YShib tomorrow In fact, the t1OO\nroles are often complimentary.\n\n\nThe complaint is often made that Negroes\nare not together Negro leaders are not\ntogether. Why should these tVo segments\nbe together any more than the members\nOf other groups !? There WtH be UaY1ed Uie1Os;\nthere Wiu be diUe Ys5ty Of opinions among\nNegroes as weH as among others.\n\n\nThe Phoenix picture is similar to that\nof other large cities. The era of one\nleadership has been replaced by leadership\nfrom several persons. The base of leadership\nneeds to be byoadened to include many more\npersons pOho are qualified by experience\nand education to fiji this role. Many more\nNegroes should be limited to serve\nboards, c0nqnaissio ions, and on other CON-\nnast'aity bYoje cts.\n\n\nDr.. {. O. Greenfield\n\n\nGuest Editor,\n\n\n~ WEBBER'S",
+            "byline": "\n\nINV is Rswspspsr 10 . ~s~Sss Of\n1904 NEWSPAPERS ASSOCIATION\n\n\nFov 6vssses PshIIe Sevvtes",
+            "bbox_list": [
+                {
+                    "x0": 900,
+                    "y0": 716,
+                    "x1": 1473,
+                    "y1": 786
+                },
+                {
+                    "x0": 489,
+                    "y0": 1531,
+                    "x1": 1114,
+                    "y1": 1688
+                },
+                {
+                    "x0": 408,
+                    "y0": 1814,
+                    "x1": 1912,
+                    "y1": 1977
+                },
+                {
+                    "x0": 281,
+                    "y0": 1993,
+                    "x1": 2039,
+                    "y1": 6247
+                }
+            ],
+            "bbox": [
+                281,
+                716,
+                2039,
+                6247
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-12-31_p1_sn84021918_0041421695A_1964123101_0688.json"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061201/0434.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4915
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 297,
+                "y0": 4164,
+                "x1": 1120,
+                "y1": 4941
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 302,
+                "y0": 4066,
+                "x1": 1045,
+                "y1": 4148
+            },
+            "class": "headline",
+            "raw_text": "Women Stage Wash In",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2104,
+                "y0": 3776,
+                "x1": 2921,
+                "y1": 4779
+            },
+            "class": "article",
+            "raw_text": "The family of Mr.. and Mrs.\nJohn W. Lewis held a reunion\nrecently. Mr.. Lewis. is retired\ngovernment employee. He and his\nwife reside, at 1926 E. Adams.\nHe was formerly employed with\nthe post office department and\nhas been retired for six years.\n\n\nMrs Lewis celebrated her\ne3rd birthday and their ten chill\ndren attended.\n\n\nThose attending the reunion\nwe're Eddie. Of Berkeley; John,\nOf Phoenix: P. C. of Show Low:\nEarle, Cecilia. Arvetta. George,\nCharles, James, and Addie, all\nof Texas.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2109,
+                "y0": 3567,
+                "x1": 2562,
+                "y1": 3754
+            },
+            "class": "headline",
+            "raw_text": "Lewis Family\nIs Reunited",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1212,
+                "y0": 4199,
+                "x1": 2024,
+                "y1": 4924
+            },
+            "class": "article",
+            "raw_text": "Monday Boys baseball game\nClass B = 6 pm.\n\n\nFree movie at bandShell\nTuesday Crafts $3.50 pm.\nSlimnastics 7p.m.; Adult Crafts\n5 pm. Teen queen benefit dance\nJune 10 8 pm.\nWcdne Sday Drama lessons 1-2\npm. Tap dance lessons 10 am.\nSat.\n\n\nDay camp is now open for child\nrem ages seven to twelve.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1391,
+                "y0": 4071,
+                "x1": 1896,
+                "y1": 4177
+            },
+            "class": "headline",
+            "raw_text": "Week Sch udule",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2092,
+                "y0": 619,
+                "x1": 2921,
+                "y1": 3522
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - Eleven picketS\nfrom civil rights and other groups\nwere arrested last Thur sday as\nthey staged a sit-in at the South\nAfrican Mission to the UN. They\nwere protesting political trials\nand jailings in South Africa.\n\n\n@Take your CORE and NAACP\nand get out of here\" spluttcrpd\nSouth African Amba SSadOr\nMatthys Botha to reporters. He\nrepeatedly had contacted Us AM\nbasSador Adlai Stevenson in an\neffort to avoid an international\nincident. The demonstration\nwe're finally arrested after\n4-hOur Sit-in.\n\n\nThe sit-ln was part of a larger\ndemonstration organized by the\nAmerican Committee on Africa\nand sponsored by CORE, NAACP.\nStudent Non-Violent Coordinating\nCommittee, United Automobile\nWorkers, Local 1899, Drug and\nHospital Employees, Student Act\nion Committee Of Union Semin-\nairy, Students for a Democratic\nSociety, US National Student As\nsociation, American Society of\nAfrican Culture, Campus Ameri-\ncans for Democratic Action and\ny sociation of Artists for\nFreedom.\n\n\nA crowd of $50 pickets chanted\nfreedom slogans and songs on\nthe Madison Avenue pavement\nwhile the angry South African\nrepresentatives we're deciding on\ntheir course of action. Demon\nstrators then marched a mile\nto the United Nations for a rally.\n\n\nJames Farmer, CORE National\nDirector, told the demonstrators\nthat \"the moose destined for the\nneck of Nelson Mandela must\nhang empty\" and \"must be trans\nformed into an economic moose\naround the neck of the apartheid",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2109,
+                "y0": 382,
+                "x1": 2661,
+                "y1": 580
+            },
+            "class": "headline",
+            "raw_text": "South Africans\nPieketed Al U.N.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3001,
+                "y0": 2224,
+                "x1": 3825,
+                "y1": 2937
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - an raising\n$50. 900 for the United Negro\nCollege Funds Developm e Mt\nCampaign. business men have\ndemonstrated their sense of res\npossibility for improving educa-\nton for Negro youth, to help\nqualify more of them for the\nhigher level positions opening up\nin our increasingly sophistica\nsociety,\"\n\n\nCharles G. Mortimer, chair",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3882,
+                "y0": 2218,
+                "x1": 4700,
+                "y1": 2931
+            },
+            "class": "article",
+            "raw_text": "man, General Foods Corporation,\nmade this statement at a luncheon\ngiven in his honor by the United\nNegro College Fund at the Har-\nward Club today.\n\n\nMortimer accepted a scroll\npresented from the fund schools\nby DR.. Albert W. Dent, vice.\nchairman of the Funds board\nOf directors and president of\nbilliard University, New Orleans,\nLOui Siana.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3007,
+                "y0": 2108,
+                "x1": 3981,
+                "y1": 2207
+            },
+            "class": "headline",
+            "raw_text": "College Fund Nets 80 Millions",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2104,
+                "y0": 3521,
+                "x1": 2423,
+                "y1": 3563
+            },
+            "class": "article",
+            "raw_text": "government\"",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-12"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Lewis Family\nIs Reunited",
+            "article": "The family of Mr.. and Mrs.\nJohn W. Lewis held a reunion\nrecently. Mr.. Lewis. is retired\ngovernment employee. He and his\nwife reside, at 1926 E. Adams.\nHe was formerly employed with\nthe post office department and\nhas been retired for six years.\n\n\nMrs Lewis celebrated her\ne3rd birthday and their ten chill\ndren attended.\n\n\nThose attending the reunion\nwe're Eddie. Of Berkeley; John,\nOf Phoenix: P. C. of Show Low:\nEarle, Cecilia. Arvetta. George,\nCharles, James, and Addie, all\nof Texas.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2109,
+                    "y0": 3567,
+                    "x1": 2562,
+                    "y1": 3754
+                },
+                {
+                    "x0": 2104,
+                    "y0": 3776,
+                    "x1": 2921,
+                    "y1": 4779
+                }
+            ],
+            "bbox": [
+                2104,
+                3567,
+                2921,
+                4779
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-12_p1_sn84021918_0041421695A_1964061201_0434.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "Week Sch udule",
+            "article": "Monday Boys baseball game\nClass B = 6 pm.\n\n\nFree movie at bandShell\nTuesday Crafts $3.50 pm.\nSlimnastics 7p.m.; Adult Crafts\n5 pm. Teen queen benefit dance\nJune 10 8 pm.\nWcdne Sday Drama lessons 1-2\npm. Tap dance lessons 10 am.\nSat.\n\n\nDay camp is now open for child\nrem ages seven to twelve.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1391,
+                    "y0": 4071,
+                    "x1": 1896,
+                    "y1": 4177
+                },
+                {
+                    "x0": 1212,
+                    "y0": 4199,
+                    "x1": 2024,
+                    "y1": 4924
+                }
+            ],
+            "bbox": [
+                1212,
+                4071,
+                2024,
+                4924
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-12_p1_sn84021918_0041421695A_1964061201_0434.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "South Africans\nPieketed Al U.N.",
+            "article": "NEW YORK - Eleven picketS\nfrom civil rights and other groups\nwere arrested last Thur sday as\nthey staged a sit-in at the South\nAfrican Mission to the UN. They\nwere protesting political trials\nand jailings in South Africa.\n\n\n@Take your CORE and NAACP\nand get out of here\" spluttcrpd\nSouth African Amba SSadOr\nMatthys Botha to reporters. He\nrepeatedly had contacted Us AM\nbasSador Adlai Stevenson in an\neffort to avoid an international\nincident. The demonstration\nwe're finally arrested after\n4-hOur Sit-in.\n\n\nThe sit-ln was part of a larger\ndemonstration organized by the\nAmerican Committee on Africa\nand sponsored by CORE, NAACP.\nStudent Non-Violent Coordinating\nCommittee, United Automobile\nWorkers, Local 1899, Drug and\nHospital Employees, Student Act\nion Committee Of Union Semin-\nairy, Students for a Democratic\nSociety, US National Student As\nsociation, American Society of\nAfrican Culture, Campus Ameri-\ncans for Democratic Action and\ny sociation of Artists for\nFreedom.\n\n\nA crowd of $50 pickets chanted\nfreedom slogans and songs on\nthe Madison Avenue pavement\nwhile the angry South African\nrepresentatives we're deciding on\ntheir course of action. Demon\nstrators then marched a mile\nto the United Nations for a rally.\n\n\nJames Farmer, CORE National\nDirector, told the demonstrators\nthat \"the moose destined for the\nneck of Nelson Mandela must\nhang empty\" and \"must be trans\nformed into an economic moose\naround the neck of the apartheid",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2109,
+                    "y0": 382,
+                    "x1": 2661,
+                    "y1": 580
+                },
+                {
+                    "x0": 2092,
+                    "y0": 619,
+                    "x1": 2921,
+                    "y1": 3522
+                }
+            ],
+            "bbox": [
+                2092,
+                382,
+                2921,
+                3522
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-12_p1_sn84021918_0041421695A_1964061201_0434.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "NEW YORK - an raising\n$50. 900 for the United Negro\nCollege Funds Developm e Mt\nCampaign. business men have\ndemonstrated their sense of res\npossibility for improving educa-\nton for Negro youth, to help\nqualify more of them for the\nhigher level positions opening up\nin our increasingly sophistica\nsociety,\"\n\n\nCharles G. Mortimer, chair",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3001,
+                    "y0": 2224,
+                    "x1": 3825,
+                    "y1": 2937
+                }
+            ],
+            "bbox": [
+                3001,
+                2224,
+                3825,
+                2937
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-12_p1_sn84021918_0041421695A_1964061201_0434.json"
+        },
+        {
+            "object_ids": [
+                19,
+                8
+            ],
+            "headline": "College Fund Nets 80 Millions",
+            "article": "man, General Foods Corporation,\nmade this statement at a luncheon\ngiven in his honor by the United\nNegro College Fund at the Har-\nward Club today.\n\n\nMortimer accepted a scroll\npresented from the fund schools\nby DR.. Albert W. Dent, vice.\nchairman of the Funds board\nOf directors and president of\nbilliard University, New Orleans,\nLOui Siana.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3007,
+                    "y0": 2108,
+                    "x1": 3981,
+                    "y1": 2207
+                },
+                {
+                    "x0": 3882,
+                    "y0": 2218,
+                    "x1": 4700,
+                    "y1": 2931
+                }
+            ],
+            "bbox": [
+                3007,
+                2108,
+                4700,
+                2931
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-12_p1_sn84021918_0041421695A_1964061201_0434.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "government\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2104,
+                    "y0": 3521,
+                    "x1": 2423,
+                    "y1": 3563
+                }
+            ],
+            "bbox": [
+                2104,
+                3521,
+                2423,
+                3563
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-06-12_p1_sn84021918_0041421695A_1964061201_0434.json"
+        }
+    ]
+}

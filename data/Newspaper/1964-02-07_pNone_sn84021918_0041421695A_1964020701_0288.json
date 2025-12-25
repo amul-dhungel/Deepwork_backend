@@ -1,0 +1,491 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4816,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964020701/0288.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2968,
+                "y0": 3478,
+                "x1": 3795,
+                "y1": 5277
+            },
+            "class": "article",
+            "raw_text": "LUSKA, Northern Rhodesia-\nAfrican nationalists in Northern\nRhodesia want American Negroes\nto quit the United States and re-\nturn to 'Mother Africa\"\n\n\nThe voice of UNIP. official\nmagazine of the local National\nist Party. said in recent issue:\n\n\nAmerican Negroes have COM\npletely neglected to show the\nworld they are proud Of Mother\nAfrica\"\n\n\nSaying foreign domination is\nbeing completely wiped out on\nthe continent, the magazine goes\non:\n\n\neve in Africa would like to\nsee reborn an African nation liv-\ning not in Africa but in the\nUnited States of Africa where\nwe shall proudly feel sense of\noneness and belonging.\n\n\nbecause we would like you\nNegroes to share with us in this\nsense of belonging we call you\nto come back to Mother Africa.\nYou will be wildly and warmly\nwelcome in all African states\nwhere you have your true broth\ners.\"",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2968,
+                "y0": 3236,
+                "x1": 3691,
+                "y1": 3422
+            },
+            "class": "headline",
+            "raw_text": "AFRICANS URGE\n\n\nNEGROES TO COME",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2078,
+                "y0": 5732,
+                "x1": 2900,
+                "y1": 6802
+            },
+            "class": "article",
+            "raw_text": "NEW YORK AL Downing. a\nkey factor in the Yankee pennant\nvictory last year as a southpaw\nrookie pitcher, signed his 1864\ncontract last week.\n\n\nDowning was called up from\nRichmond of the International\nLeague on June E and compiled\nas 1875 won-lost record for the\nYankees. Downing was believed to\nhave received a raise from the\nmajor league base pay Of 1000\nto about $4,000.\n\n\nDowning compiled 2.56 earned\nrun average last year and struck\nout III batters in l76 innings. On\neight occasions he struck out 10\nor more batters in a single game.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2095,
+                "y0": 5565,
+                "x1": 2686,
+                "y1": 5710
+            },
+            "class": "headline",
+            "raw_text": "DOWNING SIGNS\nFOR YANKEES",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2078,
+                "y0": 3455,
+                "x1": 2911,
+                "y1": 5554
+            },
+            "class": "article",
+            "raw_text": "A defense motion for a Super\nTor Court rehearing concerning\nfelony manslaughter charge\npending against a l6-year-old\ngirl will be heard at 9 am.\nFeb. 10 by Judge William A.\nHolohan.\n\n\nDefense attorney H. B. Dan\niels requested the rehearing in\nbehalf of Shirley Campbell, l6,\nOf 814H S. 10th Ave.\n\n\nMiss Campbell faces adult\nprosecution on a charge that she\nfatally stabbed Albert Jacobs\n10. of 8l3F S. 10th Ave., in the\nneck with a broken bottle at a\nparty on July l6.\n\n\nDaniels seeks at the rehearing\nto reinstate a court order of Oct.\n% in which Judge E. R. Thur\nman quashed the manslaughter\ncharge because the defendant was\nnot granted a hearing in juvenile\ncourt after the manslaughter\ncount was filed.\n\n\nJudge Thurman at a Nov. 81\nrehearing requested by the state\nreversed his earlier order and\nreinstated the charge.\n\n\nThe state argued at that time\nthat the defendant did receive\nthe juvenile court hearing I'M\nder an original murder charge,\nlater reduced to manslaughter in\njustice of the peace court.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2090,
+                "y0": 3259,
+                "x1": 2825,
+                "y1": 3427
+            },
+            "class": "headline",
+            "raw_text": "NEW ARRANGEMENT\nSOUGHT FOR GIRL",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 269,
+                "y0": 3386,
+                "x1": 1097,
+                "y1": 5265
+            },
+            "class": "article",
+            "raw_text": "JACKSON, Miss. = Police fired\nshotgun blasts to stop demon\nstration of Negro students after\nstopping a protest march.\n\n\nThree Negro students. were\ntreated for buckshot wounds.\n\n\nTear gas shells also were\nused as students and spectators\nleft the Jackson State College\ngymnasium after a basketball\ngame.\n\n\nRot-trained police sealed off\nthe Jackson State campus and\nalso adjoining Campbell College\nfor Negroes.\n\n\nThe demonstration was the\nfirst serious racial protest here\nsince last summer when a mora\ntorium on protests was called\nafter the assassination Of Negro\ncivil rights leader Medgar\nEvers.\n\n\nThe earlier protest march\ncame after a white motorist\nstruck 20-year-old Negro CO.\ned while she was crossing Lunch\nStreet, a main thoroughfare\nwhich bisects the jackson State\ncampus.\n\n\nThe driver of the car was given\na ticket for failure to yield to\na pedestrian.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 269,
+                "y0": 3120,
+                "x1": 981,
+                "y1": 3364
+            },
+            "class": "headline",
+            "raw_text": "POLICE FIRE\nON NEGROES\nAT JACKSON, MISS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1159,
+                "y0": 3369,
+                "x1": 1992,
+                "y1": 4930
+            },
+            "class": "article",
+            "raw_text": "Arizona Public Service Com\npany announced that, based on\nunaudited figures, earnings per\nshare of common stock for 1868\nincreased to $l.4o, compared\nwith $3.50 for 1862.\n\n\nJohn L. Liecty, financial vice\npresident. pointed out that gains\nin revenue, coupled with i'm\nprovements in operations and in\ncome tax liability, contributed\nto the increase.\n\n\nLiecty stated that base rev.\nenues from regular electric Gus\ntoners were up 81 per cent,\nwhile those from regular gas Gus\ntoners were up 60 per cent.\nDecreases in bulk irrigation\nsales and sales to short-term\nindustrials were more than off,\nset by increases in short-term\nsales to other utilities. Total\noperating revenues and net in\ncome reached $ol.8 million and\n$l5.2 million. respectively, in\n1868.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1177,
+                "y0": 3155,
+                "x1": 1813,
+                "y1": 3335
+            },
+            "class": "headline",
+            "raw_text": "PUBLIC SERVICE\nEARNINGS RISE",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3852,
+                "y0": 3051,
+                "x1": 4680,
+                "y1": 4710
+            },
+            "class": "article",
+            "raw_text": "~ = -. rn~-\n\n\nJACKSON. Miss. Charles\nEvers, NAACP Mississippi field\nsecretary. denied that he pre-\ndicted \"open warfare\" between\nwhite and Negro extremists If\nByron de la Beckwith were not\nconvicted. 1E>J v17uoJ sqoot\n\n\nThe statement was attributed to\nhim in a UPI dispatch carried\nby at least one Southern news\npaper. m I'M\n\n\nIn an interview with CHS tele-\nvision Mr.. Evers stated. ut Is\ntrue that my brother was we'll\nloved and respected by the Negro\ncommunity here. 1t is also true\nthat a trial that did not result\nin Justice being done would be\nmost disturbing to them but\nthere Is no cause to believe that\ncolored citizens would do any\nthing which would bring discredit\nupon themselves, their organiza-\nton or the memory. Of their\nhero\" .. i,aF-r r.\n\n\nMr.. Evers said he would have\nno comment on the trial at this\ntime. --...r .r",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3858,
+                "y0": 2831,
+                "x1": 4512,
+                "y1": 3000
+            },
+            "class": "headline",
+            "raw_text": "EVERS REFUTES\nNEWS STORY",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3852,
+                "y0": 4935,
+                "x1": 4662,
+                "y1": 5306
+            },
+            "class": "article",
+            "raw_text": "Flames from an outside trash\npile burned through a window\nand into the office of DR.. David\nM. Solomon at pa E. Madison.\nFiremen said there was a strong\npos sibility the fire was set.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3864,
+                "y0": 4744,
+                "x1": 4529,
+                "y1": 4907
+            },
+            "class": "headline",
+            "raw_text": "DOCTORS OFFICE\nCATCHES FIRE",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1165,
+                "y0": 5004,
+                "x1": 2016,
+                "y1": 5230
+            },
+            "class": "article",
+            "raw_text": "\"Sudsing out\" underpinnings\nafter each wearing is a basic re-\nquirement for fastidious cleanli-\nness.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964020701_0288",
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                0
+            ],
+            "headline": "AFRICANS URGE\n\n\nNEGROES TO COME",
+            "article": "LUSKA, Northern Rhodesia-\nAfrican nationalists in Northern\nRhodesia want American Negroes\nto quit the United States and re-\nturn to 'Mother Africa\"\n\n\nThe voice of UNIP. official\nmagazine of the local National\nist Party. said in recent issue:\n\n\nAmerican Negroes have COM\npletely neglected to show the\nworld they are proud Of Mother\nAfrica\"\n\n\nSaying foreign domination is\nbeing completely wiped out on\nthe continent, the magazine goes\non:\n\n\neve in Africa would like to\nsee reborn an African nation liv-\ning not in Africa but in the\nUnited States of Africa where\nwe shall proudly feel sense of\noneness and belonging.\n\n\nbecause we would like you\nNegroes to share with us in this\nsense of belonging we call you\nto come back to Mother Africa.\nYou will be wildly and warmly\nwelcome in all African states\nwhere you have your true broth\ners.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2968,
+                    "y0": 3236,
+                    "x1": 3691,
+                    "y1": 3422
+                },
+                {
+                    "x0": 2968,
+                    "y0": 3478,
+                    "x1": 3795,
+                    "y1": 5277
+                }
+            ],
+            "bbox": [
+                2968,
+                3236,
+                3795,
+                5277
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        },
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "DOWNING SIGNS\nFOR YANKEES",
+            "article": "NEW YORK AL Downing. a\nkey factor in the Yankee pennant\nvictory last year as a southpaw\nrookie pitcher, signed his 1864\ncontract last week.\n\n\nDowning was called up from\nRichmond of the International\nLeague on June E and compiled\nas 1875 won-lost record for the\nYankees. Downing was believed to\nhave received a raise from the\nmajor league base pay Of 1000\nto about $4,000.\n\n\nDowning compiled 2.56 earned\nrun average last year and struck\nout III batters in l76 innings. On\neight occasions he struck out 10\nor more batters in a single game.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2095,
+                    "y0": 5565,
+                    "x1": 2686,
+                    "y1": 5710
+                },
+                {
+                    "x0": 2078,
+                    "y0": 5732,
+                    "x1": 2900,
+                    "y1": 6802
+                }
+            ],
+            "bbox": [
+                2078,
+                5565,
+                2900,
+                6802
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "NEW ARRANGEMENT\nSOUGHT FOR GIRL",
+            "article": "A defense motion for a Super\nTor Court rehearing concerning\nfelony manslaughter charge\npending against a l6-year-old\ngirl will be heard at 9 am.\nFeb. 10 by Judge William A.\nHolohan.\n\n\nDefense attorney H. B. Dan\niels requested the rehearing in\nbehalf of Shirley Campbell, l6,\nOf 814H S. 10th Ave.\n\n\nMiss Campbell faces adult\nprosecution on a charge that she\nfatally stabbed Albert Jacobs\n10. of 8l3F S. 10th Ave., in the\nneck with a broken bottle at a\nparty on July l6.\n\n\nDaniels seeks at the rehearing\nto reinstate a court order of Oct.\n% in which Judge E. R. Thur\nman quashed the manslaughter\ncharge because the defendant was\nnot granted a hearing in juvenile\ncourt after the manslaughter\ncount was filed.\n\n\nJudge Thurman at a Nov. 81\nrehearing requested by the state\nreversed his earlier order and\nreinstated the charge.\n\n\nThe state argued at that time\nthat the defendant did receive\nthe juvenile court hearing I'M\nder an original murder charge,\nlater reduced to manslaughter in\njustice of the peace court.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2090,
+                    "y0": 3259,
+                    "x1": 2825,
+                    "y1": 3427
+                },
+                {
+                    "x0": 2078,
+                    "y0": 3455,
+                    "x1": 2911,
+                    "y1": 5554
+                }
+            ],
+            "bbox": [
+                2078,
+                3259,
+                2911,
+                5554
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "POLICE FIRE\nON NEGROES\nAT JACKSON, MISS",
+            "article": "JACKSON, Miss. = Police fired\nshotgun blasts to stop demon\nstration of Negro students after\nstopping a protest march.\n\n\nThree Negro students. were\ntreated for buckshot wounds.\n\n\nTear gas shells also were\nused as students and spectators\nleft the Jackson State College\ngymnasium after a basketball\ngame.\n\n\nRot-trained police sealed off\nthe Jackson State campus and\nalso adjoining Campbell College\nfor Negroes.\n\n\nThe demonstration was the\nfirst serious racial protest here\nsince last summer when a mora\ntorium on protests was called\nafter the assassination Of Negro\ncivil rights leader Medgar\nEvers.\n\n\nThe earlier protest march\ncame after a white motorist\nstruck 20-year-old Negro CO.\ned while she was crossing Lunch\nStreet, a main thoroughfare\nwhich bisects the jackson State\ncampus.\n\n\nThe driver of the car was given\na ticket for failure to yield to\na pedestrian.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 269,
+                    "y0": 3120,
+                    "x1": 981,
+                    "y1": 3364
+                },
+                {
+                    "x0": 269,
+                    "y0": 3386,
+                    "x1": 1097,
+                    "y1": 5265
+                }
+            ],
+            "bbox": [
+                269,
+                3120,
+                1097,
+                5265
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        },
+        {
+            "object_ids": [
+                18,
+                4
+            ],
+            "headline": "PUBLIC SERVICE\nEARNINGS RISE",
+            "article": "Arizona Public Service Com\npany announced that, based on\nunaudited figures, earnings per\nshare of common stock for 1868\nincreased to $l.4o, compared\nwith $3.50 for 1862.\n\n\nJohn L. Liecty, financial vice\npresident. pointed out that gains\nin revenue, coupled with i'm\nprovements in operations and in\ncome tax liability, contributed\nto the increase.\n\n\nLiecty stated that base rev.\nenues from regular electric Gus\ntoners were up 81 per cent,\nwhile those from regular gas Gus\ntoners were up 60 per cent.\nDecreases in bulk irrigation\nsales and sales to short-term\nindustrials were more than off,\nset by increases in short-term\nsales to other utilities. Total\noperating revenues and net in\ncome reached $ol.8 million and\n$l5.2 million. respectively, in\n1868.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1177,
+                    "y0": 3155,
+                    "x1": 1813,
+                    "y1": 3335
+                },
+                {
+                    "x0": 1159,
+                    "y0": 3369,
+                    "x1": 1992,
+                    "y1": 4930
+                }
+            ],
+            "bbox": [
+                1159,
+                3155,
+                1992,
+                4930
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        },
+        {
+            "object_ids": [
+                22,
+                5
+            ],
+            "headline": "EVERS REFUTES\nNEWS STORY",
+            "article": "~ = -. rn~-\n\n\nJACKSON. Miss. Charles\nEvers, NAACP Mississippi field\nsecretary. denied that he pre-\ndicted \"open warfare\" between\nwhite and Negro extremists If\nByron de la Beckwith were not\nconvicted. 1E>J v17uoJ sqoot\n\n\nThe statement was attributed to\nhim in a UPI dispatch carried\nby at least one Southern news\npaper. m I'M\n\n\nIn an interview with CHS tele-\nvision Mr.. Evers stated. ut Is\ntrue that my brother was we'll\nloved and respected by the Negro\ncommunity here. 1t is also true\nthat a trial that did not result\nin Justice being done would be\nmost disturbing to them but\nthere Is no cause to believe that\ncolored citizens would do any\nthing which would bring discredit\nupon themselves, their organiza-\nton or the memory. Of their\nhero\" .. i,aF-r r.\n\n\nMr.. Evers said he would have\nno comment on the trial at this\ntime. --...r .r",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3858,
+                    "y0": 2831,
+                    "x1": 4512,
+                    "y1": 3000
+                },
+                {
+                    "x0": 3852,
+                    "y0": 3051,
+                    "x1": 4680,
+                    "y1": 4710
+                }
+            ],
+            "bbox": [
+                3852,
+                2831,
+                4680,
+                4710
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        },
+        {
+            "object_ids": [
+                21,
+                12
+            ],
+            "headline": "DOCTORS OFFICE\nCATCHES FIRE",
+            "article": "Flames from an outside trash\npile burned through a window\nand into the office of DR.. David\nM. Solomon at pa E. Madison.\nFiremen said there was a strong\npos sibility the fire was set.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3864,
+                    "y0": 4744,
+                    "x1": 4529,
+                    "y1": 4907
+                },
+                {
+                    "x0": 3852,
+                    "y0": 4935,
+                    "x1": 4662,
+                    "y1": 5306
+                }
+            ],
+            "bbox": [
+                3852,
+                4744,
+                4662,
+                5306
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "\"Sudsing out\" underpinnings\nafter each wearing is a basic re-\nquirement for fastidious cleanli-\nness.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1165,
+                    "y0": 5004,
+                    "x1": 2016,
+                    "y1": 5230
+                }
+            ],
+            "bbox": [
+                1165,
+                5004,
+                2016,
+                5230
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-02-07_pna_sn84021918_0041421695A_1964020701_0288.json"
+        }
+    ]
+}

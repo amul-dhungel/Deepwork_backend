@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4872,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082801/0528.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3003,
+                "y0": 543,
+                "x1": 3831,
+                "y1": 2269
+            },
+            "class": "article",
+            "raw_text": "titutes and brothel madams.\n\n\nAt the trial, the Witnesses first\naccused Kennedy of being the man\nthey had paid off, and then re-\ncanted their testimony under\ncross-examination. The wit\nnesses we're Marion Jackson,\nHenderson Jackson, both one\ntime poolroom operators; and\nLee Fisher, operator of a house\nOf prostitution.\n\n\nFollowing Kennedy's acquittal,\nassistant U. S. Atty. Frank Vi\n'olanti conducted an investigation\nto determine if the three witness\nes had committed perjury. His\nprobe is said to have disclosed\nthat Kennedy had intimidated one\nof the Witnesses, whose name was\nnot Immediately divulged.\n\n\nFollowing this, Fisher and\nHenderson Jackson we're arrest\ned and held on two counts of\nlying to a federal grand jury,\nand lying during testimony at the\ndistrict court trial. The maxi\nmum sentence on federal per jury\ncharges is five years in prison\nand $4,000 fine.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2372,
+                "y0": 376,
+                "x1": 3553,
+                "y1": 498
+            },
+            "class": "headline",
+            "raw_text": "Gary Detective Reurrested",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2111,
+                "y0": 543,
+                "x1": 2946,
+                "y1": 2263
+            },
+            "class": "article",
+            "raw_text": "HAMMOND. Ind. (NPD =\nWilliam (Moose) Kennedy, the\n46-year-old Gary detective re-\nGently acquitted of income tax\nevasion charges in u. S. District\ncourt here was rearrested three\ndays after his acquittal. He was\nrearrested by federal agents and\ncharged with intimidating wit\nness. Simultaneously, Kennedy\nlearned that the government will\nseek to have his federal proba-\nton revoked. He is on five years\nprobation as a result of a 1862\nconviction for a civil rights VIOLA\nton In the beating of a prisoner.\n\n\nThe intimidation charges are\nan outg of the income tax\ntrial, in which two of three wit\nnesses for the government re-\nversed earlier testimony against\nKennedy and we're charged with\nperjury.\n\n\nIn the original case, Kennedy\nwas accused of having failed to\nreport some $ll,88O in income\nfor the years lo58-59, which al\nlegedly represented protection\npayments from gamblers, pros",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3008,
+                "y0": 2574,
+                "x1": 3825,
+                "y1": 3351
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = A bill of ST. 500,\n900 faces the city because of the\nriots two weeks ago.\n\n\nAmmunition, overtime pay and\ninnumerable other factors have\nbeen totaled in an attempt to\nestimate the cost.\n\n\nAccording to law, the city is\nliable for all property damage\nattributable to the riot.\n\n\nMore than $40 stores we're\ndamaged during the riots and\nwe're nestimated.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3031,
+                "y0": 2360,
+                "x1": 3455,
+                "y1": 2535
+            },
+            "class": "headline",
+            "raw_text": "Riot Bill\n\n\nIs A Million",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2106,
+                "y0": 2459,
+                "x1": 2923,
+                "y1": 2865
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = John B. Dun\ncan, the first Negro commission\ner, to serve in the District of\nColumbia was sworn in last week.\nHe begins his second three year\nterm at a salary of $25,5 an\nnually.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2129,
+                "y0": 2279,
+                "x1": 2651,
+                "y1": 2442
+            },
+            "class": "headline",
+            "raw_text": "Commissioner\n\n\nGets End Term",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1226,
+                "y0": 2615,
+                "x1": 2037,
+                "y1": 2853
+            },
+            "class": "article",
+            "raw_text": "whole milk have increased. Sales\nrose to l26 quarts per person\nin 1868, up from IFS quarts in\n1862.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 318,
+                "y0": 2661,
+                "x1": 1123,
+                "y1": 2853
+            },
+            "class": "article",
+            "raw_text": "Americans are drinking more\nmilk. For the first time since\n1856, per capita sales of fluid",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964082801_0528",
+    "full articles": [
+        {
+            "object_ids": [
+                16,
+                0
+            ],
+            "headline": "Gary Detective Reurrested",
+            "article": "titutes and brothel madams.\n\n\nAt the trial, the Witnesses first\naccused Kennedy of being the man\nthey had paid off, and then re-\ncanted their testimony under\ncross-examination. The wit\nnesses we're Marion Jackson,\nHenderson Jackson, both one\ntime poolroom operators; and\nLee Fisher, operator of a house\nOf prostitution.\n\n\nFollowing Kennedy's acquittal,\nassistant U. S. Atty. Frank Vi\n'olanti conducted an investigation\nto determine if the three witness\nes had committed perjury. His\nprobe is said to have disclosed\nthat Kennedy had intimidated one\nof the Witnesses, whose name was\nnot Immediately divulged.\n\n\nFollowing this, Fisher and\nHenderson Jackson we're arrest\ned and held on two counts of\nlying to a federal grand jury,\nand lying during testimony at the\ndistrict court trial. The maxi\nmum sentence on federal per jury\ncharges is five years in prison\nand $4,000 fine.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2372,
+                    "y0": 376,
+                    "x1": 3553,
+                    "y1": 498
+                },
+                {
+                    "x0": 3003,
+                    "y0": 543,
+                    "x1": 3831,
+                    "y1": 2269
+                }
+            ],
+            "bbox": [
+                2372,
+                376,
+                3831,
+                2269
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-28_pna_sn84021918_0041421695A_1964082801_0528.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "HAMMOND. Ind. (NPD =\nWilliam (Moose) Kennedy, the\n46-year-old Gary detective re-\nGently acquitted of income tax\nevasion charges in u. S. District\ncourt here was rearrested three\ndays after his acquittal. He was\nrearrested by federal agents and\ncharged with intimidating wit\nness. Simultaneously, Kennedy\nlearned that the government will\nseek to have his federal proba-\nton revoked. He is on five years\nprobation as a result of a 1862\nconviction for a civil rights VIOLA\nton In the beating of a prisoner.\n\n\nThe intimidation charges are\nan outg of the income tax\ntrial, in which two of three wit\nnesses for the government re-\nversed earlier testimony against\nKennedy and we're charged with\nperjury.\n\n\nIn the original case, Kennedy\nwas accused of having failed to\nreport some $ll,88O in income\nfor the years lo58-59, which al\nlegedly represented protection\npayments from gamblers, pros",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2111,
+                    "y0": 543,
+                    "x1": 2946,
+                    "y1": 2263
+                }
+            ],
+            "bbox": [
+                2111,
+                543,
+                2946,
+                2263
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-28_pna_sn84021918_0041421695A_1964082801_0528.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "Riot Bill\n\n\nIs A Million",
+            "article": "NEW YORK = A bill of ST. 500,\n900 faces the city because of the\nriots two weeks ago.\n\n\nAmmunition, overtime pay and\ninnumerable other factors have\nbeen totaled in an attempt to\nestimate the cost.\n\n\nAccording to law, the city is\nliable for all property damage\nattributable to the riot.\n\n\nMore than $40 stores we're\ndamaged during the riots and\nwe're nestimated.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3031,
+                    "y0": 2360,
+                    "x1": 3455,
+                    "y1": 2535
+                },
+                {
+                    "x0": 3008,
+                    "y0": 2574,
+                    "x1": 3825,
+                    "y1": 3351
+                }
+            ],
+            "bbox": [
+                3008,
+                2360,
+                3825,
+                3351
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-28_pna_sn84021918_0041421695A_1964082801_0528.json"
+        },
+        {
+            "object_ids": [
+                8,
+                4
+            ],
+            "headline": "Commissioner\n\n\nGets End Term",
+            "article": "WASHINGTON = John B. Dun\ncan, the first Negro commission\ner, to serve in the District of\nColumbia was sworn in last week.\nHe begins his second three year\nterm at a salary of $25,5 an\nnually.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2129,
+                    "y0": 2279,
+                    "x1": 2651,
+                    "y1": 2442
+                },
+                {
+                    "x0": 2106,
+                    "y0": 2459,
+                    "x1": 2923,
+                    "y1": 2865
+                }
+            ],
+            "bbox": [
+                2106,
+                2279,
+                2923,
+                2865
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-28_pna_sn84021918_0041421695A_1964082801_0528.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "whole milk have increased. Sales\nrose to l26 quarts per person\nin 1868, up from IFS quarts in\n1862.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1226,
+                    "y0": 2615,
+                    "x1": 2037,
+                    "y1": 2853
+                }
+            ],
+            "bbox": [
+                1226,
+                2615,
+                2037,
+                2853
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-08-28_pna_sn84021918_0041421695A_1964082801_0528.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Americans are drinking more\nmilk. For the first time since\n1856, per capita sales of fluid",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 318,
+                    "y0": 2661,
+                    "x1": 1123,
+                    "y1": 2853
+                }
+            ],
+            "bbox": [
+                318,
+                2661,
+                1123,
+                2853
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-08-28_pna_sn84021918_0041421695A_1964082801_0528.json"
+        }
+    ]
+}

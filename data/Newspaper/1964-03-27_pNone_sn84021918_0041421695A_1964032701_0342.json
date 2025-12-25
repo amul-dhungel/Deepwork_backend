@@ -1,0 +1,516 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-27",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7441,
+        "width": 4934,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-27",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032701/0342.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3054,
+                "y0": 2179,
+                "x1": 4746,
+                "y1": 4151
+            },
+            "class": "article",
+            "raw_text": "Lucreta Mott preacher of the Society\nBoston of Thomas Coffin and Anna ogr\nCoffin January g. 1893. She educated in the Boston Public\nSchools boarding school at Nine FARMERS\nnear Poughkeepse York. Her father moved Philadelphia\nwhere lanes Mott, fellow pupil and teacher OF the GIRL joined\nhim in business. April TO- 1871 she married james Mou\nThey had six children.\n\n\nThe death Of 1917 saddened her life but at the same time\nso religious conviction that she began to preach\n\n\nHer preaching liberal that she found herself comfortable\nonv in cksite Oakers OF the factions\nof the Friends She believed in right living rather than\ncreed.\n\n\nMrs. achievements not in preaching but IN\nfor the oppressed claimed her attention\nShe against and advocated\nfull recognition rights Along with Elizabeth Cady Stan\nton she helped struggle for women rights national\nits force until the women were granted\nrecognition along including the right OF suffrage\n\n\nMrs. achievement In the ant1-slavery\nmovement great force behind the cause In Penn\nsyvana against slavery the teachings OF Elias\nHicks aniavery convention In Pnla\ndephia in participated organizing the American Anti\nSlavery Society,\" Her organize In En1oelpnla e\nanslavery society,\" Going abroad In the interest Oh te\ncause in l84O impression the convention\nassembled When Congress passed the\nFugitive Law of $780, Mrs. Mott In cooperation WIN ne\nhusband much runaway negroes ana mace net\nfor the fugtives.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3059,
+                "y0": 1941,
+                "x1": 4107,
+                "y1": 2163
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nLUcretiu Mott",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3048,
+                "y0": 1197,
+                "x1": 4729,
+                "y1": 1913
+            },
+            "class": "article",
+            "raw_text": "Property the school districts throughout the\nespecially Marcopa County ebeg against higher\nto help finance the public schools.\n\n\nSome type broad equalization needed give\nrelief burdened who hard keep\nahead of the collectors.\n\n\nMore pupils require buildings and teachers. The\nthe level nothing has been done\nspread evenly overall price of public education.\n\n\nschool districts have number Of pupils\nthe share Of taxable The legislature again\nshuns its duty the citizens of Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3583,
+                "y0": 523,
+                "x1": 4572,
+                "y1": 977
+            },
+            "class": "headline",
+            "raw_text": "Views, PREviEws\nAND REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3809,
+                "y0": 889,
+                "x1": 4339,
+                "y1": 971
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3071,
+                "y0": 1058,
+                "x1": 3869,
+                "y1": 1175
+            },
+            "class": "headline",
+            "raw_text": "Tax Relief Needed",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2199,
+                "y0": 6906,
+                "x1": 3014,
+                "y1": 7203
+            },
+            "class": "article",
+            "raw_text": "If you are blond you are likely\nto have about 100000 hairs on\nyour head. brunettes average\n10000 while redheads have only\n10000.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2286,
+                "y0": 6795,
+                "x1": 2828,
+                "y1": 6883
+            },
+            "class": "headline",
+            "raw_text": "Did You Know",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 409,
+                "y0": 5441,
+                "x1": 2107,
+                "y1": 7168
+            },
+            "class": "article",
+            "raw_text": "MotoYola, one Of the leading naaaafa CtuTeTS\nof electyonic bYoductS, has continued to open\nthe nay for more persons of minority groups\nwho seek employment in their departments.\n\n\nFor several years the firm has sent teams\nof personnel inteyUieuOeTs to different Negro\ncollege cambuses in all areas to recruit\nyoung men and women for vayious positions.\n\n\nMotoyoh personnel managers haze hired\npersons of all races, cyeedS and cOlors. They\noffer the required tests on non-dts cT1m1-\nmatoyy basis and place qualified applicants IN\nJobs which fit their particular skills and cap\nabilities.\n\n\nThe company has a progressive educational\nprogram through which employees may attend\ncollege ON grants provided by the firm. Ihas\nprogram helps many persons complete their\ntraining thereby qualifying for higher posi-\ntiOnS.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 432,
+                "y0": 5214,
+                "x1": 2061,
+                "y1": 5389
+            },
+            "class": "headline",
+            "raw_text": "MOTOROLA LEADS THE WAY",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3071,
+                "y0": 4592,
+                "x1": 4758,
+                "y1": 5884
+            },
+            "class": "article",
+            "raw_text": "The Valley Of the Sun yesembled Los An\ngeleS ON SmOggy day several times in the\npast fen weeks. Our city's claim to the title\nfor the sunshine spot is endangered by the\nCLOUDY layers Of smoke and haze which are\nbecoming more apparent in the sky.\n\n\nThere haze been several rulings by the\nhealth board concerning trash barningS and\nthe county authorities are attempting to re-\nUamb the burning hours.\n\n\nMuch smoke is caused by automobiles and\ngrass and trash buyningS. our valley mill lose\nits sammy appeal If the snaog increases. We a\no1Ue it to OuYselUeS to learn to control and -\nbYeUent SnaOg in the Valley.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3083,
+                "y0": 4400,
+                "x1": 3799,
+                "y1": 4570
+            },
+            "class": "headline",
+            "raw_text": "STOP sM0C",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2129,
+                "y0": 1023,
+                "x1": 2985,
+                "y1": 6599
+            },
+            "class": "article",
+            "raw_text": "appear out of the doorway.\nThieves we're not at work. Ter\nmites did not make a sneak at\ntack. We merely sold our piano.\n\n\nSince my spouse and | had\nrefurnished our abode in dark\nwalnut and mahogany pieces-the\nblonde spinet did not fit anymore.\nhad not been able to practice\nmuch since we are kept extreme\nly busy with the newspaper.\n\n\nOften the only chance ever\nhad to play tune or two would\nbe during the sumer months.\nwas sure it would not be missed.\n\n\nAS the movers hoisted the piano\nonto the large van, a pang went\nthrough me. l looked at the empty\nplace in the den and wondered\nif we had acted too hasty In\nselling the musical instrument.\n\n\nThe same night after our piano\nhad been bought piano sale was\ndisplayed in bold type in the\nevenings paper. My husband saw\nme reading 1t and he wanted to\nknow If l had really wanted ours.\nassured him that I had been\nin accord with him to make the\ndeal.\n\n\nWithin few days slat bench\nadorned the empty place left by\nthe missing piano. Four colorful\npillows added bit of brightness\nin the room, but the old fami-\nliar piano was missing.\n\n\nhad to find storage place\nfor my music. Some Of the books\nstill keep are ones used when\nwas a wee tot. My, how the\nyears rushed byl can see the\ntapping fingers Mrs. Wilson.\none of my music teachers. She\nhad a set of false teeth which\nclicked when she talked. Some\ntimes would be nearly burst\ning while holding my laughs as\nshe counted time or sang few\nshrill bars of particular song\nwas attempting to play.\n\n\nWhile stacking some of my\nmusic in the closet stopped to\nlook at some of them. Here we're\nsome old show tunes which have\nnever grown old.\n\n\n\"The Thrill is Gone\" from one\nof George Whites Scandals was\nalways one of my Mothers fav-\norites.\n\n\n\"Come Rain or Come Shine\"\nfrom St. Louis Woman brought\nback the excellent movie based\non a book by Arna Bontemps\nand Counte Cullen.\n\n\nA dogeared and retaped VOL\nume of Duke Ellington's Song\nFolio brought a smile to my\nface. have been fan of the\nDuke since | first heard his\n\"Solitude.''\n\n\nMy Mother played the piano\nwhen l was a baby and sup\npose the sounds of that instru-\nment caused me to like music.\nShe and my aunts and uncles\nwould have a song and dance time.\nAS | grew up learned to play\nbut could never equal my\nMothers knack for jazzier tunes.\nl leaned toward show tunes and\nclassical music. Popular senti-\nmental songs appealed to me.\nalso.\n\n\nAS | stood on the chair to put\nthe last group of songs away a\nyellowed booklet fell to the floor.\nMy favorite composition. Gersh-\nwins Rhapsody in Blue\" laid\nlike a discarded pile of scrap\npaper. Before nostalgia over\ncame me again. hurriedly picked\nit up and shut the closet door.\n\n\nWithout piano to touch now\nand then--I still have fond mem\ncries and will look forward to",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2170,
+                "y0": 459,
+                "x1": 2967,
+                "y1": 686
+            },
+            "class": "headline",
+            "raw_text": "Siuhfs and Sounds\nELoIsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2153,
+                "y0": 732,
+                "x1": 2677,
+                "y1": 855
+            },
+            "class": "headline",
+            "raw_text": "Piano Blues",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 362,
+                "y0": 2313,
+                "x1": 2049,
+                "y1": 5145
+            },
+            "class": "article",
+            "raw_text": "In the last days of this session OF the AT1-\nzouo Legis mtuye, House Bill 81, the pubic\naccommodations bin aOas passed IN the house.\nIt mas sent to the senate where 1t ended up\nin committee.\n\n\nThe bin Which would prohibit DIS cT1n1a''0-\ntiou in places of public accommodation mas\nbeen presented ca CHI session for the past\ndecade.\n\n\nThe Arizona Tribune has long advocated\nnot only a bin covering public acc0mn10d0-\ntions. but a measure which would eSA6hSh\nq statewide human re l0tiOnS COMMISSION.\n\n\nThere are more areas of dis cT1m1ndt1on\nwhich are more injurious to minority people\nthan those of public accommodation. The\nareas of employment and housing present\nmore serious and far Ye0 ching problems.\n\n\nA human relations commission mould be\nable to provide all state agencies and other\ninterested groups with a central bureau toT\nstudying and solving problems arising from\ndis criminatoYy acts.\n\n\nAt present there is no organization W1thzn\nthe states jurisdiction where COMP la1nts or\nproblems caused by dis elimination can be\nchanae led. A human re lationS commission\nwould remedy this situation.\n\n\nOfficers of the county and state NAACP\nchapters agreed to accept this human re-\nlations proposal as a compromise measure.\npass this bin before the session IS finished.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 385,
+                "y0": 2110,
+                "x1": 2055,
+                "y1": 2279
+            },
+            "class": "headline",
+            "raw_text": "COMMISSION BILL PROPOSED",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964032701_0342",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                0
+            ],
+            "headline": "NEGRO HISTORY NOTES\nLUcretiu Mott",
+            "article": "Lucreta Mott preacher of the Society\nBoston of Thomas Coffin and Anna ogr\nCoffin January g. 1893. She educated in the Boston Public\nSchools boarding school at Nine FARMERS\nnear Poughkeepse York. Her father moved Philadelphia\nwhere lanes Mott, fellow pupil and teacher OF the GIRL joined\nhim in business. April TO- 1871 she married james Mou\nThey had six children.\n\n\nThe death Of 1917 saddened her life but at the same time\nso religious conviction that she began to preach\n\n\nHer preaching liberal that she found herself comfortable\nonv in cksite Oakers OF the factions\nof the Friends She believed in right living rather than\ncreed.\n\n\nMrs. achievements not in preaching but IN\nfor the oppressed claimed her attention\nShe against and advocated\nfull recognition rights Along with Elizabeth Cady Stan\nton she helped struggle for women rights national\nits force until the women were granted\nrecognition along including the right OF suffrage\n\n\nMrs. achievement In the ant1-slavery\nmovement great force behind the cause In Penn\nsyvana against slavery the teachings OF Elias\nHicks aniavery convention In Pnla\ndephia in participated organizing the American Anti\nSlavery Society,\" Her organize In En1oelpnla e\nanslavery society,\" Going abroad In the interest Oh te\ncause in l84O impression the convention\nassembled When Congress passed the\nFugitive Law of $780, Mrs. Mott In cooperation WIN ne\nhusband much runaway negroes ana mace net\nfor the fugtives.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3059,
+                    "y0": 1941,
+                    "x1": 4107,
+                    "y1": 2163
+                },
+                {
+                    "x0": 3054,
+                    "y0": 2179,
+                    "x1": 4746,
+                    "y1": 4151
+                }
+            ],
+            "bbox": [
+                3054,
+                1941,
+                4746,
+                4151
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-03-27_pna_sn84021918_0041421695A_1964032701_0342.json"
+        },
+        {
+            "object_ids": [
+                6,
+                20,
+                11,
+                1
+            ],
+            "headline": "Views, PREviEws\nAND REVIEWS\n\n\nEdward Banks\n\nTax Relief Needed",
+            "article": "Property the school districts throughout the\nespecially Marcopa County ebeg against higher\nto help finance the public schools.\n\n\nSome type broad equalization needed give\nrelief burdened who hard keep\nahead of the collectors.\n\n\nMore pupils require buildings and teachers. The\nthe level nothing has been done\nspread evenly overall price of public education.\n\n\nschool districts have number Of pupils\nthe share Of taxable The legislature again\nshuns its duty the citizens of Arizona.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3583,
+                    "y0": 523,
+                    "x1": 4572,
+                    "y1": 977
+                },
+                {
+                    "x0": 3809,
+                    "y0": 889,
+                    "x1": 4339,
+                    "y1": 971
+                },
+                {
+                    "x0": 3071,
+                    "y0": 1058,
+                    "x1": 3869,
+                    "y1": 1175
+                },
+                {
+                    "x0": 3048,
+                    "y0": 1197,
+                    "x1": 4729,
+                    "y1": 1913
+                }
+            ],
+            "bbox": [
+                3048,
+                523,
+                4729,
+                1913
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-27_pna_sn84021918_0041421695A_1964032701_0342.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "Did You Know",
+            "article": "If you are blond you are likely\nto have about 100000 hairs on\nyour head. brunettes average\n10000 while redheads have only\n10000.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2286,
+                    "y0": 6795,
+                    "x1": 2828,
+                    "y1": 6883
+                },
+                {
+                    "x0": 2199,
+                    "y0": 6906,
+                    "x1": 3014,
+                    "y1": 7203
+                }
+            ],
+            "bbox": [
+                2199,
+                6795,
+                3014,
+                7203
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-27_pna_sn84021918_0041421695A_1964032701_0342.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "MOTOROLA LEADS THE WAY",
+            "article": "MotoYola, one Of the leading naaaafa CtuTeTS\nof electyonic bYoductS, has continued to open\nthe nay for more persons of minority groups\nwho seek employment in their departments.\n\n\nFor several years the firm has sent teams\nof personnel inteyUieuOeTs to different Negro\ncollege cambuses in all areas to recruit\nyoung men and women for vayious positions.\n\n\nMotoyoh personnel managers haze hired\npersons of all races, cyeedS and cOlors. They\noffer the required tests on non-dts cT1m1-\nmatoyy basis and place qualified applicants IN\nJobs which fit their particular skills and cap\nabilities.\n\n\nThe company has a progressive educational\nprogram through which employees may attend\ncollege ON grants provided by the firm. Ihas\nprogram helps many persons complete their\ntraining thereby qualifying for higher posi-\ntiOnS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 432,
+                    "y0": 5214,
+                    "x1": 2061,
+                    "y1": 5389
+                },
+                {
+                    "x0": 409,
+                    "y0": 5441,
+                    "x1": 2107,
+                    "y1": 7168
+                }
+            ],
+            "bbox": [
+                409,
+                5214,
+                2107,
+                7168
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-27_pna_sn84021918_0041421695A_1964032701_0342.json"
+        },
+        {
+            "object_ids": [
+                12,
+                8
+            ],
+            "headline": "STOP sM0C",
+            "article": "The Valley Of the Sun yesembled Los An\ngeleS ON SmOggy day several times in the\npast fen weeks. Our city's claim to the title\nfor the sunshine spot is endangered by the\nCLOUDY layers Of smoke and haze which are\nbecoming more apparent in the sky.\n\n\nThere haze been several rulings by the\nhealth board concerning trash barningS and\nthe county authorities are attempting to re-\nUamb the burning hours.\n\n\nMuch smoke is caused by automobiles and\ngrass and trash buyningS. our valley mill lose\nits sammy appeal If the snaog increases. We a\no1Ue it to OuYselUeS to learn to control and -\nbYeUent SnaOg in the Valley.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3083,
+                    "y0": 4400,
+                    "x1": 3799,
+                    "y1": 4570
+                },
+                {
+                    "x0": 3071,
+                    "y0": 4592,
+                    "x1": 4758,
+                    "y1": 5884
+                }
+            ],
+            "bbox": [
+                3071,
+                4400,
+                4758,
+                5884
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-03-27_pna_sn84021918_0041421695A_1964032701_0342.json"
+        },
+        {
+            "object_ids": [
+                5,
+                13,
+                10
+            ],
+            "headline": "Siuhfs and Sounds\nELoIsE BANKS\n\nPiano Blues",
+            "article": "appear out of the doorway.\nThieves we're not at work. Ter\nmites did not make a sneak at\ntack. We merely sold our piano.\n\n\nSince my spouse and | had\nrefurnished our abode in dark\nwalnut and mahogany pieces-the\nblonde spinet did not fit anymore.\nhad not been able to practice\nmuch since we are kept extreme\nly busy with the newspaper.\n\n\nOften the only chance ever\nhad to play tune or two would\nbe during the sumer months.\nwas sure it would not be missed.\n\n\nAS the movers hoisted the piano\nonto the large van, a pang went\nthrough me. l looked at the empty\nplace in the den and wondered\nif we had acted too hasty In\nselling the musical instrument.\n\n\nThe same night after our piano\nhad been bought piano sale was\ndisplayed in bold type in the\nevenings paper. My husband saw\nme reading 1t and he wanted to\nknow If l had really wanted ours.\nassured him that I had been\nin accord with him to make the\ndeal.\n\n\nWithin few days slat bench\nadorned the empty place left by\nthe missing piano. Four colorful\npillows added bit of brightness\nin the room, but the old fami-\nliar piano was missing.\n\n\nhad to find storage place\nfor my music. Some Of the books\nstill keep are ones used when\nwas a wee tot. My, how the\nyears rushed byl can see the\ntapping fingers Mrs. Wilson.\none of my music teachers. She\nhad a set of false teeth which\nclicked when she talked. Some\ntimes would be nearly burst\ning while holding my laughs as\nshe counted time or sang few\nshrill bars of particular song\nwas attempting to play.\n\n\nWhile stacking some of my\nmusic in the closet stopped to\nlook at some of them. Here we're\nsome old show tunes which have\nnever grown old.\n\n\n\"The Thrill is Gone\" from one\nof George Whites Scandals was\nalways one of my Mothers fav-\norites.\n\n\n\"Come Rain or Come Shine\"\nfrom St. Louis Woman brought\nback the excellent movie based\non a book by Arna Bontemps\nand Counte Cullen.\n\n\nA dogeared and retaped VOL\nume of Duke Ellington's Song\nFolio brought a smile to my\nface. have been fan of the\nDuke since | first heard his\n\"Solitude.''\n\n\nMy Mother played the piano\nwhen l was a baby and sup\npose the sounds of that instru-\nment caused me to like music.\nShe and my aunts and uncles\nwould have a song and dance time.\nAS | grew up learned to play\nbut could never equal my\nMothers knack for jazzier tunes.\nl leaned toward show tunes and\nclassical music. Popular senti-\nmental songs appealed to me.\nalso.\n\n\nAS | stood on the chair to put\nthe last group of songs away a\nyellowed booklet fell to the floor.\nMy favorite composition. Gersh-\nwins Rhapsody in Blue\" laid\nlike a discarded pile of scrap\npaper. Before nostalgia over\ncame me again. hurriedly picked\nit up and shut the closet door.\n\n\nWithout piano to touch now\nand then--I still have fond mem\ncries and will look forward to",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2170,
+                    "y0": 459,
+                    "x1": 2967,
+                    "y1": 686
+                },
+                {
+                    "x0": 2153,
+                    "y0": 732,
+                    "x1": 2677,
+                    "y1": 855
+                },
+                {
+                    "x0": 2129,
+                    "y0": 1023,
+                    "x1": 2985,
+                    "y1": 6599
+                }
+            ],
+            "bbox": [
+                2129,
+                459,
+                2985,
+                6599
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-27_pna_sn84021918_0041421695A_1964032701_0342.json"
+        },
+        {
+            "object_ids": [
+                17,
+                16
+            ],
+            "headline": "COMMISSION BILL PROPOSED",
+            "article": "In the last days of this session OF the AT1-\nzouo Legis mtuye, House Bill 81, the pubic\naccommodations bin aOas passed IN the house.\nIt mas sent to the senate where 1t ended up\nin committee.\n\n\nThe bin Which would prohibit DIS cT1n1a''0-\ntiou in places of public accommodation mas\nbeen presented ca CHI session for the past\ndecade.\n\n\nThe Arizona Tribune has long advocated\nnot only a bin covering public acc0mn10d0-\ntions. but a measure which would eSA6hSh\nq statewide human re l0tiOnS COMMISSION.\n\n\nThere are more areas of dis cT1m1ndt1on\nwhich are more injurious to minority people\nthan those of public accommodation. The\nareas of employment and housing present\nmore serious and far Ye0 ching problems.\n\n\nA human relations commission mould be\nable to provide all state agencies and other\ninterested groups with a central bureau toT\nstudying and solving problems arising from\ndis criminatoYy acts.\n\n\nAt present there is no organization W1thzn\nthe states jurisdiction where COMP la1nts or\nproblems caused by dis elimination can be\nchanae led. A human re lationS commission\nwould remedy this situation.\n\n\nOfficers of the county and state NAACP\nchapters agreed to accept this human re-\nlations proposal as a compromise measure.\npass this bin before the session IS finished.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 385,
+                    "y0": 2110,
+                    "x1": 2055,
+                    "y1": 2279
+                },
+                {
+                    "x0": 362,
+                    "y0": 2313,
+                    "x1": 2049,
+                    "y1": 5145
+                }
+            ],
+            "bbox": [
+                362,
+                2110,
+                2055,
+                5145
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-03-27_pna_sn84021918_0041421695A_1964032701_0342.json"
+        }
+    ]
+}

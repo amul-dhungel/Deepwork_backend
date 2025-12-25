@@ -1,0 +1,193 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041001/0360.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7403,
+        "width": 4904
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2174,
+                "y0": 578,
+                "x1": 3008,
+                "y1": 2713
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS A former\nfreedom rider, 70 year old\nteacher from Denver, said the de-\ncision last week Of the United\nStates Supreme Court that she\nwas not In contempt Of an Ala\nbama court. will raise the status\nof Negroes in the South.\n\n\nMary Hamilton, a Negro. a\nfield secretary for the Congress\nof Racial Equality (CORE), has\nserved SO days in jail in civil\nrights cases in Mississippi. Ala\nbama, New York and New Jer-\nsey.\n\n\nShe would not answer author\ntiles in Cadsden, Ala.s after po-\nlice arrested her in June. 1868,\nunless she was addressed as\n\"Miss Hamilton\n\n\n: While being questioned by the\ncounty solicitor Richmond Flow\ners, she continually refused to\nanswer and said. \"My name is\nMiss Hamilton\n\n\nMiss Hamilton was sentenced\nto jail on a contempt charge and\ngiven a $50 fine.\n\n\nShe said using the first names\nof Negroes is an old southern\ncustom which has been a bitter\npill to swallow. She said in the\nsmall rural areas the prosecutor\nmay continue to call Negroes by\ntheir first names, but now Ne\ngroes can legally object.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2209,
+                "y0": 358,
+                "x1": 2707,
+                "y1": 550
+            },
+            "class": "headline",
+            "raw_text": "WINS MISS\"\nDECISION",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2203,
+                "y0": 3024,
+                "x1": 3025,
+                "y1": 3748
+            },
+            "class": "article",
+            "raw_text": "Willis E. Boykins of Washing\nton, a steward first class in the\nu. S. Navy, has been awarded\naircrewman's wings at San Diego,\nCalf.\n\n\nBoyhns, brother of ]. H. Boy\nkins of 1887 E. Taylor, has\nserved as steward on Vice Ad-\nmiral Paul D. Stroop's Super\nConstellation aircraft for the past\n~ years and under the admiral\nfor l6 of his l9years in the Navy.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2197,
+                "y0": 2787,
+                "x1": 2909,
+                "y1": 2996
+            },
+            "class": "headline",
+            "raw_text": "Willis Boykins Wins\nCrewmun's Wings",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 381,
+                "y0": 3244,
+                "x1": 2088,
+                "y1": 3806
+            },
+            "class": "article",
+            "raw_text": "Guild Am American\nMethodist Church, 1875 No.\nCentral.\n\n\nplanning Mesdames Everett B.\nLuther Sana McChester John Hober Mary Vail and Miss Ar\nSeneca, guild president.\n\n\nParticipants the II Am American which will be held\nCentral Methodist Church Misses Beverly Graves\nLorans Newman and Edna. Nesen: - ,5.. -.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-04-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "WINS MISS\"\nDECISION",
+            "article": "NEW ORLEANS A former\nfreedom rider, 70 year old\nteacher from Denver, said the de-\ncision last week Of the United\nStates Supreme Court that she\nwas not In contempt Of an Ala\nbama court. will raise the status\nof Negroes in the South.\n\n\nMary Hamilton, a Negro. a\nfield secretary for the Congress\nof Racial Equality (CORE), has\nserved SO days in jail in civil\nrights cases in Mississippi. Ala\nbama, New York and New Jer-\nsey.\n\n\nShe would not answer author\ntiles in Cadsden, Ala.s after po-\nlice arrested her in June. 1868,\nunless she was addressed as\n\"Miss Hamilton\n\n\n: While being questioned by the\ncounty solicitor Richmond Flow\ners, she continually refused to\nanswer and said. \"My name is\nMiss Hamilton\n\n\nMiss Hamilton was sentenced\nto jail on a contempt charge and\ngiven a $50 fine.\n\n\nShe said using the first names\nof Negroes is an old southern\ncustom which has been a bitter\npill to swallow. She said in the\nsmall rural areas the prosecutor\nmay continue to call Negroes by\ntheir first names, but now Ne\ngroes can legally object.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2209,
+                    "y0": 358,
+                    "x1": 2707,
+                    "y1": 550
+                },
+                {
+                    "x0": 2174,
+                    "y0": 578,
+                    "x1": 3008,
+                    "y1": 2713
+                }
+            ],
+            "bbox": [
+                2174,
+                358,
+                3008,
+                2713
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-10_p1_sn84021918_0041421695A_1964041001_0360.json"
+        },
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "Willis Boykins Wins\nCrewmun's Wings",
+            "article": "Willis E. Boykins of Washing\nton, a steward first class in the\nu. S. Navy, has been awarded\naircrewman's wings at San Diego,\nCalf.\n\n\nBoyhns, brother of ]. H. Boy\nkins of 1887 E. Taylor, has\nserved as steward on Vice Ad-\nmiral Paul D. Stroop's Super\nConstellation aircraft for the past\n~ years and under the admiral\nfor l6 of his l9years in the Navy.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2197,
+                    "y0": 2787,
+                    "x1": 2909,
+                    "y1": 2996
+                },
+                {
+                    "x0": 2203,
+                    "y0": 3024,
+                    "x1": 3025,
+                    "y1": 3748
+                }
+            ],
+            "bbox": [
+                2197,
+                2787,
+                3025,
+                3748
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-10_p1_sn84021918_0041421695A_1964041001_0360.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Guild Am American\nMethodist Church, 1875 No.\nCentral.\n\n\nplanning Mesdames Everett B.\nLuther Sana McChester John Hober Mary Vail and Miss Ar\nSeneca, guild president.\n\n\nParticipants the II Am American which will be held\nCentral Methodist Church Misses Beverly Graves\nLorans Newman and Edna. Nesen: - ,5.. -.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 381,
+                    "y0": 3244,
+                    "x1": 2088,
+                    "y1": 3806
+                }
+            ],
+            "bbox": [
+                381,
+                3244,
+                2088,
+                3806
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-04-10_p1_sn84021918_0041421695A_1964041001_0360.json"
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112001/0641.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7372,
+        "width": 4893
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3621,
+                "y0": 2010,
+                "x1": 4434,
+                "y1": 3410
+            },
+            "class": "article",
+            "raw_text": "The Future Teachers of\nAmerica of Palmdale School,\n3l46 E. Wier, has char\nname to the G. Benjamin Brooks\nchapter.\n\n\nNew officers insta lied recently\nare Patricia Perryman, pre- 81\ndent; Minnie Johnson, vice presi-\ndent; Viola Wooten, secretary\nThelma Reynolds, trea surer;\nCurtis Hayes, historian; and\nJoyce Davis, parliamentarian.\n\n\nFaculty advisors are Miss\nEthel Daniels and Mrs. Juanita\nPatterson.\n\n\nRev. l.. K. Williams, pastor of\nTanner Chapel AME Church was\nthe guest speaker.\n\n\nRev. C. B. Brooks wa also\nguest.\n\n\ninstallations we're made by Al\nbridge Keith, a teacher at the\nschool and a member of the\nRoosevelt eta.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3650,
+                "y0": 1871,
+                "x1": 4221,
+                "y1": 1993
+            },
+            "class": "headline",
+            "raw_text": "School News",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2763,
+                "y0": 2119,
+                "x1": 3576,
+                "y1": 3422
+            },
+            "class": "article",
+            "raw_text": "Rod ]. McMullin, general man\nager of the Salt River Project,\nhas been elected president OF\nthe Heard Museum for the 1864\nIS sea son.\n\n\nMcMullin succeeds Edward ia\ncobson, who now becomes board\nmember. Other trustees are\nSherman Hazeltine, first vice\npresident; Larry Laughlin, sec\nond vice-president: Mrs. Richard\nBurgess, secretary; and Frank\nw. Clelland, Jr.. trea surer.\n\n\nMcMullin began his first term\non the Heard board of trustees\nthree years ago. He is a former\nvice-president and chairman OF\nthe important Long Range Plan\nming Committee, charged with\ncharting a course for the future\ngrowth and development of the\nmuseum.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2786,
+                "y0": 1900,
+                "x1": 3536,
+                "y1": 2120
+            },
+            "class": "headline",
+            "raw_text": "McMuIIin To Head\nMuseum",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 989,
+                "y0": 1399,
+                "x1": 1808,
+                "y1": 2569
+            },
+            "class": "article",
+            "raw_text": "An SOS. (Save Old Sheets)\nwas issued by the American Can\nGER Societys Maricopa County\nUnit.\n\n\nThe groups program of pro-\nviding free dressings to cancer\npatients may be halted because\nof the lack of sheets. Dressings\nof various sizes needed by the\npatients are made by volunteers,\nusing old, clean sheets.\n\n\nBY saving your worn or torn\nsheets and giving them to the\nAmerican Cancer Society you can\nreduce the cost and give comfort\nto someone suffering from\ncancer.\n\n\nTake sheets to the local Ameri-\ncan Cancer Society office at 400\nNorth 18th St.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1023,
+                "y0": 1272,
+                "x1": 1612,
+                "y1": 1377
+            },
+            "class": "headline",
+            "raw_text": "SAVE SHEETS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 85,
+                "y0": 1745,
+                "x1": 909,
+                "y1": 4222
+            },
+            "class": "article",
+            "raw_text": "LUKE AFB Colonel Max\nS. Kable, Luke Ba Sc Commander,\nhas been appointed chairman OF\nthe November %, 1864 Luke\nDay s Open House committee by\nColonel Augustus M. Hendry, Jr.,\n4SlOth Combat Crew Training\nWing Commander.\n\n\nThe one-day open house will\nhave over Is different aircraft\non static display World War\nand II aircraft, helicopters,\ntransports. bombers. fighters,\nmissiles. The program begins\nat 800 am. and will end at\n$3.50 pm. following a perfor-\nnance by the world famous Us.\nAir Force Thunderbirds. 1t is\nexpected to be the largest mill\ntary open house in the entire\nsouthwest this year.\n\n\nLuke officials have conducted\nseveral committee meetings In\npreparation for the big day. over\n100000 people are expected to\nvisit the base for this event.\n\n\nThe November date wa S chosen\nbecause of the intense summer\nheat during the months OF May\nand September, which had pre-\nviously been the months for open\nhouses.\n\n\nThe Air Force Bagpipe Band\nfrom Wa shington, DC. Is ex-\npected to perform. The Golden\nKnights official US. Army\nParachute emonstration Team\nfrom Fort Bragg, NC. will give\na sky-diving demonstration.\n= Bob Hoover of North Ameri-\ncan Aviation will perform in a\nWorld War II Psi Mustang.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 972,
+                "y0": 552,
+                "x1": 1785,
+                "y1": 1250
+            },
+            "class": "article",
+            "raw_text": "The fighter without recognition\nin his own country is Eddie Per-\nkins of Chicago. The world\nJunior welter-weight champion\nis heralded in foreign places but\nseemingly ignored at home.\n\n\nEddie relates his predicament\nin the November issue of Ebony.\nRhe 27 year old has a host of\nfans in Japan, France and South\nAmerica, however, few in the\nUnited States know him.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1018,
+                "y0": 316,
+                "x1": 1687,
+                "y1": 530
+            },
+            "class": "headline",
+            "raw_text": "Boxer Unknown\nat Home",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1000,
+                "y0": 2822,
+                "x1": 1848,
+                "y1": 4234
+            },
+            "class": "article",
+            "raw_text": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\no35-o3ll Elk. 2253",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1018,
+                "y0": 2637,
+                "x1": 1612,
+                "y1": 2794
+            },
+            "class": "headline",
+            "raw_text": "JOB NOTES",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1899,
+                "y0": 3225,
+                "x1": 2718,
+                "y1": 3393
+            },
+            "class": "article",
+            "raw_text": "$500 CASH paid for Ell Rancho\n\n\nBond X. $50 for R. 939- 8477.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1905,
+                "y0": 2937,
+                "x1": 2718,
+                "y1": 3180
+            },
+            "class": "article",
+            "raw_text": "LOTS FOR SALE\nResidential 53xll7, near Long\nview School. 279-3377.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-11-20"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "School News",
+            "article": "The Future Teachers of\nAmerica of Palmdale School,\n3l46 E. Wier, has char\nname to the G. Benjamin Brooks\nchapter.\n\n\nNew officers insta lied recently\nare Patricia Perryman, pre- 81\ndent; Minnie Johnson, vice presi-\ndent; Viola Wooten, secretary\nThelma Reynolds, trea surer;\nCurtis Hayes, historian; and\nJoyce Davis, parliamentarian.\n\n\nFaculty advisors are Miss\nEthel Daniels and Mrs. Juanita\nPatterson.\n\n\nRev. l.. K. Williams, pastor of\nTanner Chapel AME Church was\nthe guest speaker.\n\n\nRev. C. B. Brooks wa also\nguest.\n\n\ninstallations we're made by Al\nbridge Keith, a teacher at the\nschool and a member of the\nRoosevelt eta.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3650,
+                    "y0": 1871,
+                    "x1": 4221,
+                    "y1": 1993
+                },
+                {
+                    "x0": 3621,
+                    "y0": 2010,
+                    "x1": 4434,
+                    "y1": 3410
+                }
+            ],
+            "bbox": [
+                3621,
+                1871,
+                4434,
+                3410
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        },
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "McMuIIin To Head\nMuseum",
+            "article": "Rod ]. McMullin, general man\nager of the Salt River Project,\nhas been elected president OF\nthe Heard Museum for the 1864\nIS sea son.\n\n\nMcMullin succeeds Edward ia\ncobson, who now becomes board\nmember. Other trustees are\nSherman Hazeltine, first vice\npresident; Larry Laughlin, sec\nond vice-president: Mrs. Richard\nBurgess, secretary; and Frank\nw. Clelland, Jr.. trea surer.\n\n\nMcMullin began his first term\non the Heard board of trustees\nthree years ago. He is a former\nvice-president and chairman OF\nthe important Long Range Plan\nming Committee, charged with\ncharting a course for the future\ngrowth and development of the\nmuseum.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2786,
+                    "y0": 1900,
+                    "x1": 3536,
+                    "y1": 2120
+                },
+                {
+                    "x0": 2763,
+                    "y0": 2119,
+                    "x1": 3576,
+                    "y1": 3422
+                }
+            ],
+            "bbox": [
+                2763,
+                1900,
+                3576,
+                3422
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        },
+        {
+            "object_ids": [
+                14,
+                4
+            ],
+            "headline": "SAVE SHEETS",
+            "article": "An SOS. (Save Old Sheets)\nwas issued by the American Can\nGER Societys Maricopa County\nUnit.\n\n\nThe groups program of pro-\nviding free dressings to cancer\npatients may be halted because\nof the lack of sheets. Dressings\nof various sizes needed by the\npatients are made by volunteers,\nusing old, clean sheets.\n\n\nBY saving your worn or torn\nsheets and giving them to the\nAmerican Cancer Society you can\nreduce the cost and give comfort\nto someone suffering from\ncancer.\n\n\nTake sheets to the local Ameri-\ncan Cancer Society office at 400\nNorth 18th St.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1023,
+                    "y0": 1272,
+                    "x1": 1612,
+                    "y1": 1377
+                },
+                {
+                    "x0": 989,
+                    "y0": 1399,
+                    "x1": 1808,
+                    "y1": 2569
+                }
+            ],
+            "bbox": [
+                989,
+                1272,
+                1808,
+                2569
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "LUKE AFB Colonel Max\nS. Kable, Luke Ba Sc Commander,\nhas been appointed chairman OF\nthe November %, 1864 Luke\nDay s Open House committee by\nColonel Augustus M. Hendry, Jr.,\n4SlOth Combat Crew Training\nWing Commander.\n\n\nThe one-day open house will\nhave over Is different aircraft\non static display World War\nand II aircraft, helicopters,\ntransports. bombers. fighters,\nmissiles. The program begins\nat 800 am. and will end at\n$3.50 pm. following a perfor-\nnance by the world famous Us.\nAir Force Thunderbirds. 1t is\nexpected to be the largest mill\ntary open house in the entire\nsouthwest this year.\n\n\nLuke officials have conducted\nseveral committee meetings In\npreparation for the big day. over\n100000 people are expected to\nvisit the base for this event.\n\n\nThe November date wa S chosen\nbecause of the intense summer\nheat during the months OF May\nand September, which had pre-\nviously been the months for open\nhouses.\n\n\nThe Air Force Bagpipe Band\nfrom Wa shington, DC. Is ex-\npected to perform. The Golden\nKnights official US. Army\nParachute emonstration Team\nfrom Fort Bragg, NC. will give\na sky-diving demonstration.\n= Bob Hoover of North Ameri-\ncan Aviation will perform in a\nWorld War II Psi Mustang.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 85,
+                    "y0": 1745,
+                    "x1": 909,
+                    "y1": 4222
+                }
+            ],
+            "bbox": [
+                85,
+                1745,
+                909,
+                4222
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "Boxer Unknown\nat Home",
+            "article": "The fighter without recognition\nin his own country is Eddie Per-\nkins of Chicago. The world\nJunior welter-weight champion\nis heralded in foreign places but\nseemingly ignored at home.\n\n\nEddie relates his predicament\nin the November issue of Ebony.\nRhe 27 year old has a host of\nfans in Japan, France and South\nAmerica, however, few in the\nUnited States know him.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1018,
+                    "y0": 316,
+                    "x1": 1687,
+                    "y1": 530
+                },
+                {
+                    "x0": 972,
+                    "y0": 552,
+                    "x1": 1785,
+                    "y1": 1250
+                }
+            ],
+            "bbox": [
+                972,
+                316,
+                1785,
+                1250
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        },
+        {
+            "object_ids": [
+                17,
+                7
+            ],
+            "headline": "JOB NOTES",
+            "article": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\no35-o3ll Elk. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1018,
+                    "y0": 2637,
+                    "x1": 1612,
+                    "y1": 2794
+                },
+                {
+                    "x0": 1000,
+                    "y0": 2822,
+                    "x1": 1848,
+                    "y1": 4234
+                }
+            ],
+            "bbox": [
+                1000,
+                2637,
+                1848,
+                4234
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "$500 CASH paid for Ell Rancho\n\n\nBond X. $50 for R. 939- 8477.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1899,
+                    "y0": 3225,
+                    "x1": 2718,
+                    "y1": 3393
+                }
+            ],
+            "bbox": [
+                1899,
+                3225,
+                2718,
+                3393
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "LOTS FOR SALE\nResidential 53xll7, near Long\nview School. 279-3377.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1905,
+                    "y0": 2937,
+                    "x1": 2718,
+                    "y1": 3180
+                }
+            ],
+            "bbox": [
+                1905,
+                2937,
+                2718,
+                3180
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-11-20_p1_sn84021918_0041421695A_1964112001_0641.json"
+        }
+    ]
+}

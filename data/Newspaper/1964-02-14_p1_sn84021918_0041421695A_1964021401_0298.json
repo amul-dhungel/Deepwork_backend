@@ -1,0 +1,231 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964021401/0298.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7433,
+        "width": 4844
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2102,
+                "y0": 702,
+                "x1": 2934,
+                "y1": 3496
+            },
+            "class": "article",
+            "raw_text": "BOSTON : Emotional problems\nhave served as the whipping\nboy for childs reading diff\nficulty for too long. according to\na distinguished Boston Univer-\nsity authority on reading edu-\ncation for over 80 years.\n\n\nAlmost any child, regardless\nOf whether or not he comes from\nan emotionally or culturally de-\nprived background. can learn to\nread we'll, according to DR.. DON\naid Durrell Of Wellesley Hills,\nMass. professor Of education and\nformer Dean and founder Of the\nUniversity Reading Clinic.\n\n\n1t all depends on how effec-\nlively he is taught.\n\n\nOne Of the most important\nelements in successful read\ning program is the teaching Of\nphonics. according to results Of\nstudies published in the current\nissue Of the Universitys Journal\nof Education. The publication Of\nBoston University Research in\nElementary School Reading,\nlo33-1963,\" done collaboratively\nby DR.. Durrell and Prof. Helen\nA. Murphy Of Natick, Mass.\npresent director of the Reading\nClinic, marks the completion of\n80 years of research and service\nin reading problems at the Uni\nversity.\n\n\nThe most effective phonics\nprograms were found to be those\nbased upon early ear training,\nwhere the child moves from\nspeech to print, rather than the\nreverse.\n\n\n\"f a child is having reading\ndifficulty the chances are not\nthat he has psychological prob\nlens. but that he doesn't have\nan ear for spoken sounds\" DR..\nDurrell said.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2131,
+                "y0": 394,
+                "x1": 2864,
+                "y1": 686
+            },
+            "class": "headline",
+            "raw_text": "EXPERT DISCOUNTS\nEMOTIONAL\n\n\nPROBLEMS AS\nREADING FAULT",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 319,
+                "y0": 1701,
+                "x1": 1139,
+                "y1": 3113
+            },
+            "class": "article",
+            "raw_text": "Mrs. Ida A. Woodward, nurse\nat Palmdale School, urges more\nyoung high school girls to think\nof nursing as a profession.\n\n\nA native Of Nogales, Arizona,\nMrs. Woodward received her\ntraining from Nogales High\nSchool and ST. Monica's School\nOf Nursing.\n\n\nShe has completed some grad\nuate training at Arizona State\nUniversity.\n\n\nShe assumed duties at Palm\ndale and Fortieth St. Schools in\n1857. She feels nursing is re-\nwarding and interesting more to-\nday than ever before.\n\n\nMrs. Woodward would not give\nan estimate of the number Of\npupil visits to her office. She\nsays most Of them have minor\naches and pains. but the spring\nbrings more bruises and twisted\nankles.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1214,
+                "y0": 766,
+                "x1": 2045,
+                "y1": 3119
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Operation Corss-\nroads Africa, Inc. private\nagency which establishes self\nhelp programs in African coun-\ntries with the assistance Of\nAmerican, Canadian and African\nyoung people, has completed five\nsuccessful years.\n\n\nDR.. James H. Robinson, found\ner and director, reviewed the or\nganization at a recent meeting\nof the Overseas Press Club.\n\n\nHe said since 1858 the agency\nhas sent more than 1000 young\npeople to Africa during summer\nvacations to serve on IS work\nprojects in Is countries of East.\nWest and Central Africa.\n\n\nThe participants come from\nAt states and 9 Canadian proWn-\nces. All helped finance their own\ntrips usually contributing 40 per\ncent Of the cost.\n\n\nEstablishment of the Peace\nCorps has not affected the Cross\nroads program and interest re-\nmains high. Last year 30S appli-\ncants were accepted.\n\n\nThis year $40 will assist with\nIs projects in 20 countries. Sixty\nfour requests for Crossroads\nprojects were received from 80\nAfrican nations.\n\n\nDR.. Robins on, a former Pres\nbyterian minister in Harlem, said\n$50 former Crossr oaders had\nvolunteered for the Peace Corps.\nThe agency plans to take an adult\ngroup on a seminar-safari this\nSummer",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1237,
+                "y0": 400,
+                "x1": 1615,
+                "y1": 726
+            },
+            "class": "headline",
+            "raw_text": "Operation\nCrossroads\nTerm ed\n\n\nSuccessful",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3037,
+                "y0": 3048,
+                "x1": 4710,
+                "y1": 3456
+            },
+            "class": "article",
+            "raw_text": "Shown the reception honoring Dr. Allison Davis seated\nfrom left Mesdames Edward Banks and James Billion.\n\n\nStanding Messrs. James Bilton Norman Men\ndelsohn DR.. Clarence Laing and Mrs. John Edwards.\nVaughn Phoenix Elementary District superintendent\nMarquard editor the Arizona Republic Edward\nBanks, Tribune publisher, discuss current -a",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-02-14"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                0
+            ],
+            "headline": "EXPERT DISCOUNTS\nEMOTIONAL\n\n\nPROBLEMS AS\nREADING FAULT",
+            "article": "BOSTON : Emotional problems\nhave served as the whipping\nboy for childs reading diff\nficulty for too long. according to\na distinguished Boston Univer-\nsity authority on reading edu-\ncation for over 80 years.\n\n\nAlmost any child, regardless\nOf whether or not he comes from\nan emotionally or culturally de-\nprived background. can learn to\nread we'll, according to DR.. DON\naid Durrell Of Wellesley Hills,\nMass. professor Of education and\nformer Dean and founder Of the\nUniversity Reading Clinic.\n\n\n1t all depends on how effec-\nlively he is taught.\n\n\nOne Of the most important\nelements in successful read\ning program is the teaching Of\nphonics. according to results Of\nstudies published in the current\nissue Of the Universitys Journal\nof Education. The publication Of\nBoston University Research in\nElementary School Reading,\nlo33-1963,\" done collaboratively\nby DR.. Durrell and Prof. Helen\nA. Murphy Of Natick, Mass.\npresent director of the Reading\nClinic, marks the completion of\n80 years of research and service\nin reading problems at the Uni\nversity.\n\n\nThe most effective phonics\nprograms were found to be those\nbased upon early ear training,\nwhere the child moves from\nspeech to print, rather than the\nreverse.\n\n\n\"f a child is having reading\ndifficulty the chances are not\nthat he has psychological prob\nlens. but that he doesn't have\nan ear for spoken sounds\" DR..\nDurrell said.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2131,
+                    "y0": 394,
+                    "x1": 2864,
+                    "y1": 686
+                },
+                {
+                    "x0": 2102,
+                    "y0": 702,
+                    "x1": 2934,
+                    "y1": 3496
+                }
+            ],
+            "bbox": [
+                2102,
+                394,
+                2934,
+                3496
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-14_p1_sn84021918_0041421695A_1964021401_0298.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Mrs. Ida A. Woodward, nurse\nat Palmdale School, urges more\nyoung high school girls to think\nof nursing as a profession.\n\n\nA native Of Nogales, Arizona,\nMrs. Woodward received her\ntraining from Nogales High\nSchool and ST. Monica's School\nOf Nursing.\n\n\nShe has completed some grad\nuate training at Arizona State\nUniversity.\n\n\nShe assumed duties at Palm\ndale and Fortieth St. Schools in\n1857. She feels nursing is re-\nwarding and interesting more to-\nday than ever before.\n\n\nMrs. Woodward would not give\nan estimate of the number Of\npupil visits to her office. She\nsays most Of them have minor\naches and pains. but the spring\nbrings more bruises and twisted\nankles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 319,
+                    "y0": 1701,
+                    "x1": 1139,
+                    "y1": 3113
+                }
+            ],
+            "bbox": [
+                319,
+                1701,
+                1139,
+                3113
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-14_p1_sn84021918_0041421695A_1964021401_0298.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "Operation\nCrossroads\nTerm ed\n\n\nSuccessful",
+            "article": "NEW YORK-Operation Corss-\nroads Africa, Inc. private\nagency which establishes self\nhelp programs in African coun-\ntries with the assistance Of\nAmerican, Canadian and African\nyoung people, has completed five\nsuccessful years.\n\n\nDR.. James H. Robinson, found\ner and director, reviewed the or\nganization at a recent meeting\nof the Overseas Press Club.\n\n\nHe said since 1858 the agency\nhas sent more than 1000 young\npeople to Africa during summer\nvacations to serve on IS work\nprojects in Is countries of East.\nWest and Central Africa.\n\n\nThe participants come from\nAt states and 9 Canadian proWn-\nces. All helped finance their own\ntrips usually contributing 40 per\ncent Of the cost.\n\n\nEstablishment of the Peace\nCorps has not affected the Cross\nroads program and interest re-\nmains high. Last year 30S appli-\ncants were accepted.\n\n\nThis year $40 will assist with\nIs projects in 20 countries. Sixty\nfour requests for Crossroads\nprojects were received from 80\nAfrican nations.\n\n\nDR.. Robins on, a former Pres\nbyterian minister in Harlem, said\n$50 former Crossr oaders had\nvolunteered for the Peace Corps.\nThe agency plans to take an adult\ngroup on a seminar-safari this\nSummer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1237,
+                    "y0": 400,
+                    "x1": 1615,
+                    "y1": 726
+                },
+                {
+                    "x0": 1214,
+                    "y0": 766,
+                    "x1": 2045,
+                    "y1": 3119
+                }
+            ],
+            "bbox": [
+                1214,
+                400,
+                2045,
+                3119
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-14_p1_sn84021918_0041421695A_1964021401_0298.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Shown the reception honoring Dr. Allison Davis seated\nfrom left Mesdames Edward Banks and James Billion.\n\n\nStanding Messrs. James Bilton Norman Men\ndelsohn DR.. Clarence Laing and Mrs. John Edwards.\nVaughn Phoenix Elementary District superintendent\nMarquard editor the Arizona Republic Edward\nBanks, Tribune publisher, discuss current -a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3037,
+                    "y0": 3048,
+                    "x1": 4710,
+                    "y1": 3456
+                }
+            ],
+            "bbox": [
+                3037,
+                3048,
+                4710,
+                3456
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-02-14_p1_sn84021918_0041421695A_1964021401_0298.json"
+        }
+    ]
+}

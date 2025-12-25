@@ -1,0 +1,387 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964060501/0426.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7405,
+        "width": 4901
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2114,
+                "y0": 2782,
+                "x1": 2949,
+                "y1": 3963
+            },
+            "class": "article",
+            "raw_text": "civil rights is a theme. a\ntopic, a religion which engulfs\nnearly every educated Negro in\nAmerica. A century after the\nEmancipation Proclamation. .\nthe plight of the Negro is tragic,\ndisillusioning. almost pathetic.\nIn no field in America has he\nreached his potential\" states\nSimeon Booker in his new book\nabout the civil rights revolution,\n\"Black Mans America\" which\nPrentice-Hall will publish on\nJune lst.\n\n\nBooker, one of the nations\nleading Negro journalists and\nprize-winning chief Washington\ncorrespondent for Americas\nlargest-circulation Negro mag\nazines. EBONY and JET, has",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2485,
+                "y0": 2638,
+                "x1": 3562,
+                "y1": 2754
+            },
+            "class": "headline",
+            "raw_text": "Broker Writes On Civil RIGHTS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3005,
+                "y0": 2788,
+                "x1": 3822,
+                "y1": 3917
+            },
+            "class": "article",
+            "raw_text": "had long-term firsthand view of\nthe Negroes struggle to become\na first-class citizen. AS a re-\nporter travelling with the Free\ndom Riders, he was caught up in\nthe violence that met the buses\nas they ventured into Alabama.\nAS White House reporter, Book\ner has been close observer of\nthe presidential attitude towards\nintegration through three admin\nistrations Eisenhower s, Ken\nnedys, and now Lyndon john\nsons AS an influential columnist\nwhose voice is heard throughout\nthe Negro community. Booker en-\njoys the confidence and respect\nof noted leaders of the anti-seg-\nregation movement.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 338,
+                "y0": 2557,
+                "x1": 1149,
+                "y1": 3905
+            },
+            "class": "article",
+            "raw_text": "\n\n\nIn the good Of summertime\nwhen water sports are at their\npeak, the Sentry Safety Council\nOf the Sentry Insurance COM\npanies offers these safety tips:\nBefore showing off, check\nweather reports, storm sig\nnails, your gasoline supply.\n. Familiarize yourself with wat\ners in which you plan to go.\n. In most waters you are re-\nquired by law to have a Coast\nGuard approved lifesaving de-\nvice for each person aboard.\n. Always carry a first aid kit,\nflashlight, oars, spare parts\nlike shear pins, spark plugs.\n. Bilge ventilation is important.\nCarburetors on inboards\nshould have flame arresters,\nbuilt-in fuel tanks should be\nvented.\n\n\n. When fueling, stop all engines,\nfans, other devices liable to\nproduce sparks. Do not smoke\nwhen refueling. Have fire ex-\ntinguisher available.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 362,
+                "y0": 2499,
+                "x1": 1126,
+                "y1": 2569
+            },
+            "class": "headline",
+            "raw_text": "Shippers, Swimmers Tips",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1241,
+                "y0": 2510,
+                "x1": 2046,
+                "y1": 3807
+            },
+            "class": "article",
+            "raw_text": "Overlooking is a leading cause\n\n\nof mishaps, follow manufac-\n\n\nturer's capacity limits.\n. Don't be \"hot-rudder,\" the\n\n\nboating equivalent of a hot\n\n\nrodder, warns the Sentry Safe\n\n\nty Council. Use common sense.\n. Obey boating traffic laws.\n. Observe all buoys-they mark\n: danger or safe channels.\n. Alcohol and boating don't mix.\n. Don't be a litterbug; save gar\n\n\nbage for shore disposal.\n. Make sure your registration\n\n\ncertificate is on board, your\n\n\nboat is adequately insured.\n. Never swim during electrical\n\n\nstorms, alone or when you are\n\n\ntired, overheated; wait at least\n\n\nan hour after eating.\n. Every swimmer should under\n\n\nstand rescue methods.\n\n\nFinally, the Sentry Safety\nCouncil says little precaution\nahead of time can make first aid\nmeasures unnecessary later.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 691,
+                "y0": 2377,
+                "x1": 1635,
+                "y1": 2488
+            },
+            "class": "headline",
+            "raw_text": "Sentry Safsty Council Tips",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3891,
+                "y0": 2371,
+                "x1": 4707,
+                "y1": 3200
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Whitney M.\nYoung, Jr., executive director of\nthe National Urban League. told\nthe DIST annual forum of the\nNational Conference on Social\nWelfare that the high costs of\nrelief should be reduced.\n\n\nHe told the audience that cit\nles can dramatically reduce the\nnumber Of Negroes on public aid\nrolls by aggressive attack on\nracial barriers in employment,\nhousing. education, health and\nwelfare.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3914,
+                "y0": 2065,
+                "x1": 4574,
+                "y1": 2355
+            },
+            "class": "headline",
+            "raw_text": "Urban League Head\nSays Cities Must\nEnd Segregation",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 321,
+                "y0": 1938,
+                "x1": 2023,
+                "y1": 2361
+            },
+            "class": "article",
+            "raw_text": "New Motorola completely transformed mobile rwoway radio\ndiscussed company officials left right William j. Wez,\nAssistant General Manager Communications\nDivision John Batn Section Manager TwoWay Mobile Products\nDepartment Jack Cermain Manager\nof Engineering for the Divisions TwoWay Mobile Products Depart\n",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2138,
+                "y0": 1990,
+                "x1": 3834,
+                "y1": 2592
+            },
+            "class": "article",
+            "raw_text": "Top from ghtPatrica Barnes accepts the Links\nMrs. c. O. Greenfield Syb Dryer receives the Principals Award\nOCreeneld Tribune\nAward.\n\n\nSecond Mary Serpa accepts Careers\nElizabeth eupe Mrs. Gertrude Vaughn physical education teacher\nsurprise bouquet from DR.. c. O. Greenfield for her\nstanding achievements winning\nand her volunteer work with her girs Mrs. James Billion\npresents diplomas.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-05"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "Broker Writes On Civil RIGHTS",
+            "article": "civil rights is a theme. a\ntopic, a religion which engulfs\nnearly every educated Negro in\nAmerica. A century after the\nEmancipation Proclamation. .\nthe plight of the Negro is tragic,\ndisillusioning. almost pathetic.\nIn no field in America has he\nreached his potential\" states\nSimeon Booker in his new book\nabout the civil rights revolution,\n\"Black Mans America\" which\nPrentice-Hall will publish on\nJune lst.\n\n\nBooker, one of the nations\nleading Negro journalists and\nprize-winning chief Washington\ncorrespondent for Americas\nlargest-circulation Negro mag\nazines. EBONY and JET, has",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2485,
+                    "y0": 2638,
+                    "x1": 3562,
+                    "y1": 2754
+                },
+                {
+                    "x0": 2114,
+                    "y0": 2782,
+                    "x1": 2949,
+                    "y1": 3963
+                }
+            ],
+            "bbox": [
+                2114,
+                2638,
+                3562,
+                3963
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-05_p1_sn84021918_0041421695A_1964060501_0426.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "had long-term firsthand view of\nthe Negroes struggle to become\na first-class citizen. AS a re-\nporter travelling with the Free\ndom Riders, he was caught up in\nthe violence that met the buses\nas they ventured into Alabama.\nAS White House reporter, Book\ner has been close observer of\nthe presidential attitude towards\nintegration through three admin\nistrations Eisenhower s, Ken\nnedys, and now Lyndon john\nsons AS an influential columnist\nwhose voice is heard throughout\nthe Negro community. Booker en-\njoys the confidence and respect\nof noted leaders of the anti-seg-\nregation movement.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3005,
+                    "y0": 2788,
+                    "x1": 3822,
+                    "y1": 3917
+                }
+            ],
+            "bbox": [
+                3005,
+                2788,
+                3822,
+                3917
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-05_p1_sn84021918_0041421695A_1964060501_0426.json"
+        },
+        {
+            "object_ids": [
+                20,
+                3
+            ],
+            "headline": "Shippers, Swimmers Tips",
+            "article": "\n\n\nIn the good Of summertime\nwhen water sports are at their\npeak, the Sentry Safety Council\nOf the Sentry Insurance COM\npanies offers these safety tips:\nBefore showing off, check\nweather reports, storm sig\nnails, your gasoline supply.\n. Familiarize yourself with wat\ners in which you plan to go.\n. In most waters you are re-\nquired by law to have a Coast\nGuard approved lifesaving de-\nvice for each person aboard.\n. Always carry a first aid kit,\nflashlight, oars, spare parts\nlike shear pins, spark plugs.\n. Bilge ventilation is important.\nCarburetors on inboards\nshould have flame arresters,\nbuilt-in fuel tanks should be\nvented.\n\n\n. When fueling, stop all engines,\nfans, other devices liable to\nproduce sparks. Do not smoke\nwhen refueling. Have fire ex-\ntinguisher available.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 362,
+                    "y0": 2499,
+                    "x1": 1126,
+                    "y1": 2569
+                },
+                {
+                    "x0": 338,
+                    "y0": 2557,
+                    "x1": 1149,
+                    "y1": 3905
+                }
+            ],
+            "bbox": [
+                338,
+                2499,
+                1149,
+                3905
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-05_p1_sn84021918_0041421695A_1964060501_0426.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "Sentry Safsty Council Tips",
+            "article": "Overlooking is a leading cause\n\n\nof mishaps, follow manufac-\n\n\nturer's capacity limits.\n. Don't be \"hot-rudder,\" the\n\n\nboating equivalent of a hot\n\n\nrodder, warns the Sentry Safe\n\n\nty Council. Use common sense.\n. Obey boating traffic laws.\n. Observe all buoys-they mark\n: danger or safe channels.\n. Alcohol and boating don't mix.\n. Don't be a litterbug; save gar\n\n\nbage for shore disposal.\n. Make sure your registration\n\n\ncertificate is on board, your\n\n\nboat is adequately insured.\n. Never swim during electrical\n\n\nstorms, alone or when you are\n\n\ntired, overheated; wait at least\n\n\nan hour after eating.\n. Every swimmer should under\n\n\nstand rescue methods.\n\n\nFinally, the Sentry Safety\nCouncil says little precaution\nahead of time can make first aid\nmeasures unnecessary later.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 691,
+                    "y0": 2377,
+                    "x1": 1635,
+                    "y1": 2488
+                },
+                {
+                    "x0": 1241,
+                    "y0": 2510,
+                    "x1": 2046,
+                    "y1": 3807
+                }
+            ],
+            "bbox": [
+                691,
+                2377,
+                2046,
+                3807
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-05_p1_sn84021918_0041421695A_1964060501_0426.json"
+        },
+        {
+            "object_ids": [
+                7,
+                5
+            ],
+            "headline": "Urban League Head\nSays Cities Must\nEnd Segregation",
+            "article": "LOS ANGELES Whitney M.\nYoung, Jr., executive director of\nthe National Urban League. told\nthe DIST annual forum of the\nNational Conference on Social\nWelfare that the high costs of\nrelief should be reduced.\n\n\nHe told the audience that cit\nles can dramatically reduce the\nnumber Of Negroes on public aid\nrolls by aggressive attack on\nracial barriers in employment,\nhousing. education, health and\nwelfare.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3914,
+                    "y0": 2065,
+                    "x1": 4574,
+                    "y1": 2355
+                },
+                {
+                    "x0": 3891,
+                    "y0": 2371,
+                    "x1": 4707,
+                    "y1": 3200
+                }
+            ],
+            "bbox": [
+                3891,
+                2065,
+                4707,
+                3200
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-06-05_p1_sn84021918_0041421695A_1964060501_0426.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "New Motorola completely transformed mobile rwoway radio\ndiscussed company officials left right William j. Wez,\nAssistant General Manager Communications\nDivision John Batn Section Manager TwoWay Mobile Products\nDepartment Jack Cermain Manager\nof Engineering for the Divisions TwoWay Mobile Products Depart\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 321,
+                    "y0": 1938,
+                    "x1": 2023,
+                    "y1": 2361
+                }
+            ],
+            "bbox": [
+                321,
+                1938,
+                2023,
+                2361
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-06-05_p1_sn84021918_0041421695A_1964060501_0426.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Top from ghtPatrica Barnes accepts the Links\nMrs. c. O. Greenfield Syb Dryer receives the Principals Award\nOCreeneld Tribune\nAward.\n\n\nSecond Mary Serpa accepts Careers\nElizabeth eupe Mrs. Gertrude Vaughn physical education teacher\nsurprise bouquet from DR.. c. O. Greenfield for her\nstanding achievements winning\nand her volunteer work with her girs Mrs. James Billion\npresents diplomas.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2138,
+                    "y0": 1990,
+                    "x1": 3834,
+                    "y1": 2592
+                }
+            ],
+            "bbox": [
+                2138,
+                1990,
+                3834,
+                2592
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-06-05_p1_sn84021918_0041421695A_1964060501_0426.json"
+        }
+    ]
+}

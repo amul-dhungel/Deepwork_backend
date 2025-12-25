@@ -1,0 +1,449 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-25",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7438,
+        "width": 4907,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-25",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964092501/0561.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3766,
+                "y0": 610,
+                "x1": 4581,
+                "y1": 1535
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON President\nJohnson has nominated Leslie\nN. Shaw. Negro. to be post\nmaster of Los Angeles. He is\nthe first of his race to be nominal\nted for postmaster in a major\nUnited States city. Mr.. Shaw,\nwho has been acting postmaster\nin Los Angeles, the nation third\nlargest post office. is 42-year\nold graduate of Ohio State Univer-\nsity and a native of Columbus,\nOhio. His appointment. subject\nto Senate confirmation, is to sue\ncoed O. K. Olesen, who is re-\nfiring.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3807,
+                "y0": 406,
+                "x1": 4284,
+                "y1": 582
+            },
+            "class": "headline",
+            "raw_text": "Negro Heads\nPost Office",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3830,
+                "y0": 598,
+                "x1": 4203,
+                "y1": 646
+            },
+            "class": "author",
+            "raw_text": "WASHINGTON",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1111,
+                "y0": 430,
+                "x1": 1937,
+                "y1": 1668
+            },
+            "class": "article",
+            "raw_text": "Church's usher board held won\nderful anniversary program.\n\n\nHats off to Mrs. Effie Gentry\nwho headed that grand pr ogram at\nthe Women's Day held last Sunday\nat New Home Baptist Church.\n\n\nMrs. Arvella Grant was the\nguest speaker.\n\n\nTroy Collier who attended\nPhoenix College after graduating\nfrom Pubs has gone to training\ncamp with the Harlem Globe\ntrotters. He is the son of Mrs.\nIna Chairman.\n\n\nHats off to Miss Evelyn John\nson and Mrs. Edna Griffin, social\nchairman for a beautiful party\nSaturday given by the Jollyettes.\nKeep up the good work girls.\n\n\nThought of the Week-Hurry is\nthe weakness of fools.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1105,
+                "y0": 430,
+                "x1": 1919,
+                "y1": 489
+            },
+            "class": "headline",
+            "raw_text": "Church's usher board held won",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 210,
+                "y0": 714,
+                "x1": 1025,
+                "y1": 1674
+            },
+            "class": "article",
+            "raw_text": "Keep the phone ringing\nreaders. l like it and it makes\nnews for this column.\n\n\nThe Debonairs Club and web\nber's Eastlake Mortuary we're\nproud to spoons or Houston Turner\nin the End annual Professional\nBowlers Tournament which was\nheld in Mesa.\n\n\nN. E. Saunders enjoyed an ex-\nciting vacation in Nathan, Mexi-\nCO.\n\n\nMrs. Myrtle Robertson andher\nfamily spent the weekend with\nMr.. and Mrs. L. Murphy.\n\n\nFirst Institutional Baptist",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 245,
+                "y0": 470,
+                "x1": 937,
+                "y1": 669
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3790,
+                "y0": 1731,
+                "x1": 4592,
+                "y1": 2081
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Bobby Heard,\n6618 So. 22nd ST., announce the\nbirth of their daughter, Shawn\nElizabeth, Sept. Is at Good Sa-\nmaritan Hospital. She weighed\n7 lbs, SLIP ozs.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3795,
+                "y0": 1586,
+                "x1": 4313,
+                "y1": 1709
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1111,
+                "y0": 1743,
+                "x1": 1919,
+                "y1": 2104
+            },
+            "class": "article",
+            "raw_text": "leave ner car insisting that she\njoin him inside his apartment.\nThe woman refused.\n\n\nRobins on took her car keys\nand her purse and fled. He was\narrested a short while later.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 222,
+                "y0": 1754,
+                "x1": 1042,
+                "y1": 2116
+            },
+            "class": "article",
+            "raw_text": "DETROIT William Robins on,\n81, was too friendly with strange\nwoman who picked him up at a\nbar.\n\n\nWhen she offered him a lift\nhome he accepted, but refused to",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 518,
+                "y0": 6682,
+                "x1": 2053,
+                "y1": 7067
+            },
+            "class": "article",
+            "raw_text": "Here's the cheeres way to coffee, hot chocolate\n\n\nmilk soup Whatever the beverage, these attractive\n\n\ncolorfu imported ceramic mugs spark the imagination\nand add zest the OCCASION Use them also decorative\nconversation pieces hold candy pencils sprigs",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 524,
+                "y0": 7124,
+                "x1": 1025,
+                "y1": 7171
+            },
+            "class": "article",
+            "raw_text": "N e NJ 3 E r",
+            "legibility": "Questionable",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964092501_0561",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                18,
+                1
+            ],
+            "headline": "Negro Heads\nPost Office",
+            "article": "WASHINGTON President\nJohnson has nominated Leslie\nN. Shaw. Negro. to be post\nmaster of Los Angeles. He is\nthe first of his race to be nominal\nted for postmaster in a major\nUnited States city. Mr.. Shaw,\nwho has been acting postmaster\nin Los Angeles, the nation third\nlargest post office. is 42-year\nold graduate of Ohio State Univer-\nsity and a native of Columbus,\nOhio. His appointment. subject\nto Senate confirmation, is to sue\ncoed O. K. Olesen, who is re-\nfiring.",
+            "byline": "WASHINGTON",
+            "bbox_list": [
+                {
+                    "x0": 3807,
+                    "y0": 406,
+                    "x1": 4284,
+                    "y1": 582
+                },
+                {
+                    "x0": 3830,
+                    "y0": 598,
+                    "x1": 4203,
+                    "y1": 646
+                },
+                {
+                    "x0": 3766,
+                    "y0": 610,
+                    "x1": 4581,
+                    "y1": 1535
+                }
+            ],
+            "bbox": [
+                3766,
+                406,
+                4581,
+                1535
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "Church's usher board held won",
+            "article": "Church's usher board held won\nderful anniversary program.\n\n\nHats off to Mrs. Effie Gentry\nwho headed that grand pr ogram at\nthe Women's Day held last Sunday\nat New Home Baptist Church.\n\n\nMrs. Arvella Grant was the\nguest speaker.\n\n\nTroy Collier who attended\nPhoenix College after graduating\nfrom Pubs has gone to training\ncamp with the Harlem Globe\ntrotters. He is the son of Mrs.\nIna Chairman.\n\n\nHats off to Miss Evelyn John\nson and Mrs. Edna Griffin, social\nchairman for a beautiful party\nSaturday given by the Jollyettes.\nKeep up the good work girls.\n\n\nThought of the Week-Hurry is\nthe weakness of fools.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1105,
+                    "y0": 430,
+                    "x1": 1919,
+                    "y1": 489
+                },
+                {
+                    "x0": 1111,
+                    "y0": 430,
+                    "x1": 1937,
+                    "y1": 1668
+                }
+            ],
+            "bbox": [
+                1105,
+                430,
+                1937,
+                1668
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "All Around\n\n\nBY FLORA RUFFIN",
+            "article": "Keep the phone ringing\nreaders. l like it and it makes\nnews for this column.\n\n\nThe Debonairs Club and web\nber's Eastlake Mortuary we're\nproud to spoons or Houston Turner\nin the End annual Professional\nBowlers Tournament which was\nheld in Mesa.\n\n\nN. E. Saunders enjoyed an ex-\nciting vacation in Nathan, Mexi-\nCO.\n\n\nMrs. Myrtle Robertson andher\nfamily spent the weekend with\nMr.. and Mrs. L. Murphy.\n\n\nFirst Institutional Baptist",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 245,
+                    "y0": 470,
+                    "x1": 937,
+                    "y1": 669
+                },
+                {
+                    "x0": 210,
+                    "y0": 714,
+                    "x1": 1025,
+                    "y1": 1674
+                }
+            ],
+            "bbox": [
+                210,
+                470,
+                1025,
+                1674
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "",
+            "article": "Mr.. and Mrs. Bobby Heard,\n6618 So. 22nd ST., announce the\nbirth of their daughter, Shawn\nElizabeth, Sept. Is at Good Sa-\nmaritan Hospital. She weighed\n7 lbs, SLIP ozs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3795,
+                    "y0": 1586,
+                    "x1": 4313,
+                    "y1": 1709
+                },
+                {
+                    "x0": 3790,
+                    "y0": 1731,
+                    "x1": 4592,
+                    "y1": 2081
+                }
+            ],
+            "bbox": [
+                3790,
+                1586,
+                4592,
+                2081
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "leave ner car insisting that she\njoin him inside his apartment.\nThe woman refused.\n\n\nRobins on took her car keys\nand her purse and fled. He was\narrested a short while later.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1111,
+                    "y0": 1743,
+                    "x1": 1919,
+                    "y1": 2104
+                }
+            ],
+            "bbox": [
+                1111,
+                1743,
+                1919,
+                2104
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "DETROIT William Robins on,\n81, was too friendly with strange\nwoman who picked him up at a\nbar.\n\n\nWhen she offered him a lift\nhome he accepted, but refused to",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 222,
+                    "y0": 1754,
+                    "x1": 1042,
+                    "y1": 2116
+                }
+            ],
+            "bbox": [
+                222,
+                1754,
+                1042,
+                2116
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Here's the cheeres way to coffee, hot chocolate\n\n\nmilk soup Whatever the beverage, these attractive\n\n\ncolorfu imported ceramic mugs spark the imagination\nand add zest the OCCASION Use them also decorative\nconversation pieces hold candy pencils sprigs",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 518,
+                    "y0": 6682,
+                    "x1": 2053,
+                    "y1": 7067
+                }
+            ],
+            "bbox": [
+                518,
+                6682,
+                2053,
+                7067
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "N e NJ 3 E r",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 524,
+                    "y0": 7124,
+                    "x1": 1025,
+                    "y1": 7171
+                }
+            ],
+            "bbox": [
+                524,
+                7124,
+                1025,
+                7171
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-09-25_pna_sn84021918_0041421695A_1964092501_0561.json"
+        }
+    ]
+}

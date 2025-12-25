@@ -1,0 +1,466 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-22",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7458,
+        "width": 4879,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-22",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052201/0411.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1885,
+                "y0": 693,
+                "x1": 2708,
+                "y1": 2821
+            },
+            "class": "article",
+            "raw_text": "Six city pools opened. May Is.\nreported L. Cedric Austin, sup\nerintendent of the Phoenix Parks\nand Recreation Department.\n\n\nPools include Alkire. 18th Ave-\nnue. and Papago: Coronado, 18th\nStreet and Cor onado: Maryvale,\n3lst Avenue and Missouri; Uni\nversity. 10th Avenue and Van\nBuren,; Holiday Park. 9th Ave-\nnue. and Minnezona and Starlight\nPark Pool at 18th Avenue and\nOsborn.\n\n\nPool hours at Alkire will be:\n$3.50 = E pm. weekdays and IL\nnoon = 6 pm. weekends. Other\npool hours will be from $3.50\npm. weekdays and 10 o'clock\non weekends and holidays. Pools\nwill close at 6 pm. This sched-\nule will continue until school\nvacation begins.\n\n\nSeventeen pools which are OPP\nGrated by the Phoenix Parks\nand Recreation Department.\nEastlake, Encanto, Falcon, Har-\nmon, Madison, Maryvale Park,\nPerry Park. Sunnyslope and\nWashington pools opened in April.\n\n\nRoosevelt Pool, S. 9TH Street\nand Alta Vista, will open on May\nl8 with the $3.50 pm. weekday.\nand 10 am. weekend operating\nschedule. Grant Pool, End Avenue\nand Grant, and the wading pools\nwill open in June.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1915,
+                "y0": 466,
+                "x1": 2382,
+                "y1": 665
+            },
+            "class": "headline",
+            "raw_text": "MORE CITY\n\n\nPOOLS OPEN",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1926,
+                "y0": 3058,
+                "x1": 2737,
+                "y1": 4318
+            },
+            "class": "article",
+            "raw_text": "On Saturday, May 23rd atCor-\nonado Park, twelve Cadette\nScouts who are graduating from\nthe 9th grade and As Senior\n\n\nScouts who are graduating from\nhigh school will be honored at\nthe annual \"Springboard' pro-\ngram. Three hundred girls are\nexpected to attend the event.\n\n\nThe program will start at $50\nam. with registration, singing\nand a flag ceremony. This will\nbe followed by a ceremony con-\nQuoted by the officers Of the\nSenior Girl Scout Planning Board\nrecognizing the graduating Ca\ndettes. Graduating High School\nSeniors will be honored by Mrs.\nDavid Ward Of Tempe, Senior\nAdvisor and Miss Pat Price Of\nPhoenix, Professional Advisor.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1920,
+                "y0": 2843,
+                "x1": 2557,
+                "y1": 3036
+            },
+            "class": "headline",
+            "raw_text": "Girl Scouts\n\n\nCeremony Planned",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1915,
+                "y0": 4416,
+                "x1": 2749,
+                "y1": 4971
+            },
+            "class": "article",
+            "raw_text": "If the face powder you use con-\ntains vegetable starches, be sure\nto wash your face with lots Of\nsoap and water often during the\nday. The reason: when the starch\ngranules absorb moisture from\nthe air and from. your skin, they\nswell and clog the pores and duct\nopenings Of your complexion -\nunless thoroughly washed away.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1000,
+                "y0": 3676,
+                "x1": 1811,
+                "y1": 3968
+            },
+            "class": "article",
+            "raw_text": "Carr's time In the 200 meter\ndash as :20.6 and Hayes :20.s.\n\n\nCarr was beaten In the 100\nmeter event by Richard Stebbins\nof Grambling College.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 440,
+                "y0": 3577,
+                "x1": 1444,
+                "y1": 3671
+            },
+            "class": "headline",
+            "raw_text": "AsU's CARR DEFEATS HAYES",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2806,
+                "y0": 4014,
+                "x1": 3611,
+                "y1": 4435
+            },
+            "class": "article",
+            "raw_text": "The new officers Of Zeta Phi\nBeta sorority we're recently in\nstalled.\n\n\nOfficers include; Mesdames\nSybil Jones. basileus: Margaret\nReeder, anti basileus; Willie\nMae Hamilton, grammateus: and",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3156,
+                "y0": 3897,
+                "x1": 4141,
+                "y1": 3998
+            },
+            "class": "headline",
+            "raw_text": "SORORITY OFFICERS NAMED",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 114,
+                "y0": 3688,
+                "x1": 925,
+                "y1": 3986
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Arizona State\nUniversitys sprint star, Henry\nCarr defeated Florida Am\nspeedster Bobby Hayes last week\nat tho coliseum relays.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3663,
+                "y0": 4031,
+                "x1": 4468,
+                "y1": 4394
+            },
+            "class": "article",
+            "raw_text": "Leola Fields tamichous.\n\n\nCommittee chairmen appoint\nees we're Mesdames Madelyn\nHamilton. program: Oneal Gross,\nasst. program; and Katie Mae\nFowler, reporter.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 126,
+                "y0": 3204,
+                "x1": 1805,
+                "y1": 3566
+            },
+            "class": "article",
+            "raw_text": "Mrs. Dorothy Clark bowling captain gives plaque Jim\nTitus Of KCAC radio station for his sponsorship the\nKCAC team.\n\n\nThe finished second in the league May 49, Team members\nlooking Mesdmes Magnolia Aen Asava Woods Augustine\nWatson and Sally Chennault.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2794,
+                "y0": 3449,
+                "x1": 4468,
+                "y1": 3875
+            },
+            "class": "article",
+            "raw_text": "joint installation officers Of Virgil Bell Post l7lo 1883 w.\nJackson held May S.\n\n\nComrads Lacey from Post 72o conducted installation\nservices for the mems Division\n\n\nGeorge Barnes the commander Of the post. Mrs. Phyllis\nLacey past president the DIVISION installed Mrs. Asava\nWoods the auxiliary president.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964052201_0411",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                0
+            ],
+            "headline": "MORE CITY\n\n\nPOOLS OPEN",
+            "article": "Six city pools opened. May Is.\nreported L. Cedric Austin, sup\nerintendent of the Phoenix Parks\nand Recreation Department.\n\n\nPools include Alkire. 18th Ave-\nnue. and Papago: Coronado, 18th\nStreet and Cor onado: Maryvale,\n3lst Avenue and Missouri; Uni\nversity. 10th Avenue and Van\nBuren,; Holiday Park. 9th Ave-\nnue. and Minnezona and Starlight\nPark Pool at 18th Avenue and\nOsborn.\n\n\nPool hours at Alkire will be:\n$3.50 = E pm. weekdays and IL\nnoon = 6 pm. weekends. Other\npool hours will be from $3.50\npm. weekdays and 10 o'clock\non weekends and holidays. Pools\nwill close at 6 pm. This sched-\nule will continue until school\nvacation begins.\n\n\nSeventeen pools which are OPP\nGrated by the Phoenix Parks\nand Recreation Department.\nEastlake, Encanto, Falcon, Har-\nmon, Madison, Maryvale Park,\nPerry Park. Sunnyslope and\nWashington pools opened in April.\n\n\nRoosevelt Pool, S. 9TH Street\nand Alta Vista, will open on May\nl8 with the $3.50 pm. weekday.\nand 10 am. weekend operating\nschedule. Grant Pool, End Avenue\nand Grant, and the wading pools\nwill open in June.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 466,
+                    "x1": 2382,
+                    "y1": 665
+                },
+                {
+                    "x0": 1885,
+                    "y0": 693,
+                    "x1": 2708,
+                    "y1": 2821
+                }
+            ],
+            "bbox": [
+                1885,
+                466,
+                2708,
+                2821
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "Girl Scouts\n\n\nCeremony Planned",
+            "article": "On Saturday, May 23rd atCor-\nonado Park, twelve Cadette\nScouts who are graduating from\nthe 9th grade and As Senior\n\n\nScouts who are graduating from\nhigh school will be honored at\nthe annual \"Springboard' pro-\ngram. Three hundred girls are\nexpected to attend the event.\n\n\nThe program will start at $50\nam. with registration, singing\nand a flag ceremony. This will\nbe followed by a ceremony con-\nQuoted by the officers Of the\nSenior Girl Scout Planning Board\nrecognizing the graduating Ca\ndettes. Graduating High School\nSeniors will be honored by Mrs.\nDavid Ward Of Tempe, Senior\nAdvisor and Miss Pat Price Of\nPhoenix, Professional Advisor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1920,
+                    "y0": 2843,
+                    "x1": 2557,
+                    "y1": 3036
+                },
+                {
+                    "x0": 1926,
+                    "y0": 3058,
+                    "x1": 2737,
+                    "y1": 4318
+                }
+            ],
+            "bbox": [
+                1920,
+                2843,
+                2737,
+                4318
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "If the face powder you use con-\ntains vegetable starches, be sure\nto wash your face with lots Of\nsoap and water often during the\nday. The reason: when the starch\ngranules absorb moisture from\nthe air and from. your skin, they\nswell and clog the pores and duct\nopenings Of your complexion -\nunless thoroughly washed away.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 4416,
+                    "x1": 2749,
+                    "y1": 4971
+                }
+            ],
+            "bbox": [
+                1915,
+                4416,
+                2749,
+                4971
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                21,
+                5
+            ],
+            "headline": "AsU's CARR DEFEATS HAYES",
+            "article": "Carr's time In the 200 meter\ndash as :20.6 and Hayes :20.s.\n\n\nCarr was beaten In the 100\nmeter event by Richard Stebbins\nof Grambling College.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 440,
+                    "y0": 3577,
+                    "x1": 1444,
+                    "y1": 3671
+                },
+                {
+                    "x0": 1000,
+                    "y0": 3676,
+                    "x1": 1811,
+                    "y1": 3968
+                }
+            ],
+            "bbox": [
+                440,
+                3577,
+                1811,
+                3968
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "SORORITY OFFICERS NAMED",
+            "article": "The new officers Of Zeta Phi\nBeta sorority we're recently in\nstalled.\n\n\nOfficers include; Mesdames\nSybil Jones. basileus: Margaret\nReeder, anti basileus; Willie\nMae Hamilton, grammateus: and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3156,
+                    "y0": 3897,
+                    "x1": 4141,
+                    "y1": 3998
+                },
+                {
+                    "x0": 2806,
+                    "y0": 4014,
+                    "x1": 3611,
+                    "y1": 4435
+                }
+            ],
+            "bbox": [
+                2806,
+                3897,
+                4141,
+                4435
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "LOS ANGELES Arizona State\nUniversitys sprint star, Henry\nCarr defeated Florida Am\nspeedster Bobby Hayes last week\nat tho coliseum relays.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 114,
+                    "y0": 3688,
+                    "x1": 925,
+                    "y1": 3986
+                }
+            ],
+            "bbox": [
+                114,
+                3688,
+                925,
+                3986
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Leola Fields tamichous.\n\n\nCommittee chairmen appoint\nees we're Mesdames Madelyn\nHamilton. program: Oneal Gross,\nasst. program; and Katie Mae\nFowler, reporter.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3663,
+                    "y0": 4031,
+                    "x1": 4468,
+                    "y1": 4394
+                }
+            ],
+            "bbox": [
+                3663,
+                4031,
+                4468,
+                4394
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Mrs. Dorothy Clark bowling captain gives plaque Jim\nTitus Of KCAC radio station for his sponsorship the\nKCAC team.\n\n\nThe finished second in the league May 49, Team members\nlooking Mesdmes Magnolia Aen Asava Woods Augustine\nWatson and Sally Chennault.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 126,
+                    "y0": 3204,
+                    "x1": 1805,
+                    "y1": 3566
+                }
+            ],
+            "bbox": [
+                126,
+                3204,
+                1805,
+                3566
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "joint installation officers Of Virgil Bell Post l7lo 1883 w.\nJackson held May S.\n\n\nComrads Lacey from Post 72o conducted installation\nservices for the mems Division\n\n\nGeorge Barnes the commander Of the post. Mrs. Phyllis\nLacey past president the DIVISION installed Mrs. Asava\nWoods the auxiliary president.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2794,
+                    "y0": 3449,
+                    "x1": 4468,
+                    "y1": 3875
+                }
+            ],
+            "bbox": [
+                2794,
+                3449,
+                4468,
+                3875
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-05-22_pna_sn84021918_0041421695A_1964052201_0411.json"
+        }
+    ]
+}

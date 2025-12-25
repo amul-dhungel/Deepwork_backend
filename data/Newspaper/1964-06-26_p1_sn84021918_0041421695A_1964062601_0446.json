@@ -1,0 +1,492 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964062601/0446.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4913
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 301,
+                "y0": 5146,
+                "x1": 2012,
+                "y1": 6823
+            },
+            "class": "article",
+            "raw_text": "conditional sale agreement for the\npersonal property, wherein the seller the legal the\nand the obtains the right\n\n\nconditional sale be writing signed by\nparties 1t properly describe the all of the\ndons Of sae Such be acknowledged\nfiled, within reasonable time, Recorders\ncounty where the buyer resides.\n\n\nThe purpose of the conditional sale that provides\nmedium through merchandise\nwithout paying the full purchase price the time Of sale.\n\n\nThe the agreement provide that the buyer SELL\ndeface destroy merchandise while\nGenerally he keep the property insured full value until\nthe property paid for full Legal\nuntil such\npaid.\n\n\nOne purchasing property should exactly he obtaining\nbefore ne signs for equally\nthat the seller know exactly how properly\nsale in order that his security protected.\n\n\nPurchasing merchandise conditional cam\nbe the entering\ninto such\nabout the legal obligations he is assuming\n\n\n(IdS legal\nvision Of the State Bar of Arizona\no advse)",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 301,
+                "y0": 4840,
+                "x1": 1423,
+                "y1": 5119
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law\nConditional Sales Contract",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3011,
+                "y0": 1149,
+                "x1": 4658,
+                "y1": 2080
+            },
+            "class": "article",
+            "raw_text": "uniforms\ntheir early the time they retired United\ncountry\ntraining institutions officers of the armed\nin the world.\n\n\nEach in June Of receive their degrees\nand commissions after completing the required training\nfor the army, navy, air force, marines.\n\n\nAt there three enrolled\nin academies which included West the Air Force\nAcademy, and Naval Academy.\n\n\nThis the time for prospective cadets begin write their\nand get the application information More high\ngraduates should great opportunity\nopen at the various federaly supported academies.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3513,
+                "y0": 473,
+                "x1": 4496,
+                "y1": 919
+            },
+            "class": "headline",
+            "raw_text": "Views, pREvIEws\nAMD REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -3
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3727,
+                "y0": 831,
+                "x1": 4259,
+                "y1": 913
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3005,
+                "y0": 999,
+                "x1": 3890,
+                "y1": 1115
+            },
+            "class": "headline",
+            "raw_text": "More Cadets Needed",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 296,
+                "y0": 2143,
+                "x1": 1983,
+                "y1": 4703
+            },
+            "class": "article",
+            "raw_text": "The passage Of the CiUil Rights bin by\nfederal lawmakers Will h0Ue far Yea ching\nresults on the HUes Of the citizens not only\nOf diffeYent c0LOYS, races, etbnic b0 ckgYOu'ads\nand national origins, but 1T W5H set goals for\nall.\n\n\nToo many gears h0Ue been spent by cey-\ntain states and cities TO end the terrible\ninequities which exist for many persons 1Oho\nare not eau cosi0ns.\n\n\nThe cjUil rights measure covers several\naspects Of life and although the loobholes\nand the legal POINTS in 1t might be used to\nciYcunUent the lam, neUeYthe less, for the\nfirst time since the end Of the CiOil War,\nthe Negroes and other nin0YitieS Will haze\nsome federal by0te ction.\n\n\nThe beginning Of the second one hundred\nyears after the emancipation Of the Negroes\nin the United States, is taking a foYuUaYd\nlook with the ena ctnaent Of the chill rights\nbiu Now, ne must strive for the extension\nOf fun citizenship rights to all. States,\ncounties and cities must shake the chains\nfrom their feet and move ahead and YecOg-\nnike that Negroes, Indians, Jews. Puerto\nRicanS, Neutrality-suspicious. and other\nminority groups must be accepted as first\nclass citizens with equal rights.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 659,
+                "y0": 1940,
+                "x1": 1671,
+                "y1": 2097
+            },
+            "class": "headline",
+            "raw_text": "LAW LEADS WAY",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2081,
+                "y0": 791,
+                "x1": 2919,
+                "y1": 5419
+            },
+            "class": "article",
+            "raw_text": "A few weeks ago two hombres\nwe're arrested in this western\ntown for stealing. Now, don't\nget your eyebrows too far apart,\npardner, thse men we're caught\nredhanded with the goods. They\nhad sneaked into the desert and\nrobbed Mother Nature.\n\n\nNo self respecting thief would\nclaim these two men. They have\nruined the outlawng for years to\ncome. No longer can ! watch a\nreal rootin' tootin' hardridin'\ngunslingin' western on the screen\nwithout flinching at these two\nmen.\n\n\nNo. they didn't steal a calf or\na horse--guess what these two\nbrave modern light fingered Har-\nrvs stole Is cactus plants.\nToo bad--they will become the\nlaughingstock of the cellblock.\n\n\nThese misguided sticky fin\ngered males made the daily news\npaper with a cacti snatching\nstory. They we're apprehended\nwhen they tried to sell the plants\nto an alert nurseryman. Guess.\nhe knew his real plants from hot\nones.\n\n\nThe West amt what it used to\nbel In other words home on the\nrange has been altered to home\nwith all built-ins plus range.\nRidin' Ole Paint has become\nswooping along in my Barracuda\nor breezing in our Thunderbird.\n\n\nYou might get western flavor\nII you ride In a new Mustang,\nbut where's the real. live West7\nYou could visit Scottsdale, where\nthe city fathers urge you to visit\nthe Vests most western town.\nAll | can ever view as | drive\neast to Scottsdale is the western\nfacades Of the buildings--most of\nthem look phony or funny (as you\ndesire).\n\n\nTime was when men who took\nto thieving stole money or hor-\nses, sometimes both. But who In\nthunderation ever heard of pair\nof cacti-nappers.\n\n\nOnce a year Rodeo Week allows\nall Of the redblooded men in the\nValley to wear boots and Lewis\nand play at being cowpokes. Some\neven grow boards and all groups\nsponsor a square dance or two\nfor the atmosphere.\n\n\nNowadays our region gets ma\ntional and international attention\nfrom the hundreds of western and\ncowboy movies shown daily on the\nmovie and teleWsion screens\nfrom Manila to Copenhagen. Ina\nCINE a western bandit getting\ngunned down by the sheriff for\nrobbing the desert gardens\n\n\nIhad nearly recovered from\nthe cactus plant robbers when\nanother blow came to end the\nimage Of the West. A wild game\nhunter in our midst had been blk\ning his customers with trained\ndogs and pre-captured animals.\n\n\nThis sly hunter would place his\n\n\ncoNIT PAGE",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2109,
+                "y0": 398,
+                "x1": 2925,
+                "y1": 624
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nELoIsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2098,
+                "y0": 652,
+                "x1": 2827,
+                "y1": 769
+            },
+            "class": "headline",
+            "raw_text": "Where is West?",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 313,
+                "y0": 7001,
+                "x1": 1140,
+                "y1": 7187
+            },
+            "class": "article",
+            "raw_text": "Every house hunters goal is to\nbuy a home built with quality\nmaterials without paying a prem",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 428,
+                "y0": 6902,
+                "x1": 1024,
+                "y1": 6973
+            },
+            "class": "headline",
+            "raw_text": "LOOK FOR QUALITY",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1231,
+                "y0": 6902,
+                "x1": 2035,
+                "y1": 7181
+            },
+            "class": "article",
+            "raw_text": "ium. One quality item to look for\nis roof of heavyweight asphalt\nshingles with the Underwriters\nLaboratories \"wind resistant\"\nlabel.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3016,
+                "y0": 2403,
+                "x1": 4693,
+                "y1": 4789
+            },
+            "class": "article",
+            "raw_text": "The mOuthingS Of Malcolm X, the former\nright hand assistant Of Elijah AAthamn,0d,\nfounder Of the Black Mus Inns, are border\ning on the verge of insanity.\n\n\nHe is unsOtsely and untbinkingly urging\nNegroes in America to arm thenSe hes and\nprepare for guerilla attacks against the\nunite population.\n\n\nWhen he uithdYew from the Black Muslin\norganization, Malcolm X formed nesV\ngroup, n0aO he has banded together a neV.\npolitical group as NEIL. This group called\nthe AfYO-AmeYic0n Freedom Fighters, IS\nstrictly a political body, which he hopes to\nlink with african nations.\n\n\nHe believes that the AAFF Will be a basic\nforce to overthrow the ''1O1aite Devils\" just #\nas the Algerian freedom fighters and the\nAau Mau did in Africa.\n\n\nAS he travels about bYe0 ching the bhilOS-\nObhy Of hate and MAR, Malcolm X should\nremember that only in the United States\nwould he be able to openly advocate such\ndrastic measures.\n\n\nNo one can be sure, but it is certain that\nsome Of his mild yantings are parity yesbon-\nSible for some Of the senSelesS bloodshed in\nNeW York by young Negro hO0dh4naS.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3236,
+                "y0": 2183,
+                "x1": 4485,
+                "y1": 2357
+            },
+            "class": "headline",
+            "raw_text": "MALCOLM IS WRONG",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-06-26"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                2,
+                0
+            ],
+            "headline": "Discussing Arizona Law\nConditional Sales Contract",
+            "article": "conditional sale agreement for the\npersonal property, wherein the seller the legal the\nand the obtains the right\n\n\nconditional sale be writing signed by\nparties 1t properly describe the all of the\ndons Of sae Such be acknowledged\nfiled, within reasonable time, Recorders\ncounty where the buyer resides.\n\n\nThe purpose of the conditional sale that provides\nmedium through merchandise\nwithout paying the full purchase price the time Of sale.\n\n\nThe the agreement provide that the buyer SELL\ndeface destroy merchandise while\nGenerally he keep the property insured full value until\nthe property paid for full Legal\nuntil such\npaid.\n\n\nOne purchasing property should exactly he obtaining\nbefore ne signs for equally\nthat the seller know exactly how properly\nsale in order that his security protected.\n\n\nPurchasing merchandise conditional cam\nbe the entering\ninto such\nabout the legal obligations he is assuming\n\n\n(IdS legal\nvision Of the State Bar of Arizona\no advse)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 301,
+                    "y0": 4840,
+                    "x1": 1423,
+                    "y1": 5119
+                },
+                {
+                    "x0": 301,
+                    "y0": 5146,
+                    "x1": 2012,
+                    "y1": 6823
+                }
+            ],
+            "bbox": [
+                301,
+                4840,
+                2012,
+                6823
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-26_p1_sn84021918_0041421695A_1964062601_0446.json"
+        },
+        {
+            "object_ids": [
+                3,
+                19,
+                14,
+                1
+            ],
+            "headline": "Views, pREvIEws\nAMD REVIEWS\n\n\nEdward Banks\n\nMore Cadets Needed",
+            "article": "uniforms\ntheir early the time they retired United\ncountry\ntraining institutions officers of the armed\nin the world.\n\n\nEach in June Of receive their degrees\nand commissions after completing the required training\nfor the army, navy, air force, marines.\n\n\nAt there three enrolled\nin academies which included West the Air Force\nAcademy, and Naval Academy.\n\n\nThis the time for prospective cadets begin write their\nand get the application information More high\ngraduates should great opportunity\nopen at the various federaly supported academies.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3513,
+                    "y0": 473,
+                    "x1": 4496,
+                    "y1": 919
+                },
+                {
+                    "x0": 3727,
+                    "y0": 831,
+                    "x1": 4259,
+                    "y1": 913
+                },
+                {
+                    "x0": 3005,
+                    "y0": 999,
+                    "x1": 3890,
+                    "y1": 1115
+                },
+                {
+                    "x0": 3011,
+                    "y0": 1149,
+                    "x1": 4658,
+                    "y1": 2080
+                }
+            ],
+            "bbox": [
+                3005,
+                473,
+                4658,
+                2080
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-26_p1_sn84021918_0041421695A_1964062601_0446.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "LAW LEADS WAY",
+            "article": "The passage Of the CiUil Rights bin by\nfederal lawmakers Will h0Ue far Yea ching\nresults on the HUes Of the citizens not only\nOf diffeYent c0LOYS, races, etbnic b0 ckgYOu'ads\nand national origins, but 1T W5H set goals for\nall.\n\n\nToo many gears h0Ue been spent by cey-\ntain states and cities TO end the terrible\ninequities which exist for many persons 1Oho\nare not eau cosi0ns.\n\n\nThe cjUil rights measure covers several\naspects Of life and although the loobholes\nand the legal POINTS in 1t might be used to\nciYcunUent the lam, neUeYthe less, for the\nfirst time since the end Of the CiOil War,\nthe Negroes and other nin0YitieS Will haze\nsome federal by0te ction.\n\n\nThe beginning Of the second one hundred\nyears after the emancipation Of the Negroes\nin the United States, is taking a foYuUaYd\nlook with the ena ctnaent Of the chill rights\nbiu Now, ne must strive for the extension\nOf fun citizenship rights to all. States,\ncounties and cities must shake the chains\nfrom their feet and move ahead and YecOg-\nnike that Negroes, Indians, Jews. Puerto\nRicanS, Neutrality-suspicious. and other\nminority groups must be accepted as first\nclass citizens with equal rights.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 659,
+                    "y0": 1940,
+                    "x1": 1671,
+                    "y1": 2097
+                },
+                {
+                    "x0": 296,
+                    "y0": 2143,
+                    "x1": 1983,
+                    "y1": 4703
+                }
+            ],
+            "bbox": [
+                296,
+                1940,
+                1983,
+                4703
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-26_p1_sn84021918_0041421695A_1964062601_0446.json"
+        },
+        {
+            "object_ids": [
+                9,
+                13,
+                6
+            ],
+            "headline": "Siqhts and Sounds\nELoIsE BANKS\n\nWhere is West?",
+            "article": "A few weeks ago two hombres\nwe're arrested in this western\ntown for stealing. Now, don't\nget your eyebrows too far apart,\npardner, thse men we're caught\nredhanded with the goods. They\nhad sneaked into the desert and\nrobbed Mother Nature.\n\n\nNo self respecting thief would\nclaim these two men. They have\nruined the outlawng for years to\ncome. No longer can ! watch a\nreal rootin' tootin' hardridin'\ngunslingin' western on the screen\nwithout flinching at these two\nmen.\n\n\nNo. they didn't steal a calf or\na horse--guess what these two\nbrave modern light fingered Har-\nrvs stole Is cactus plants.\nToo bad--they will become the\nlaughingstock of the cellblock.\n\n\nThese misguided sticky fin\ngered males made the daily news\npaper with a cacti snatching\nstory. They we're apprehended\nwhen they tried to sell the plants\nto an alert nurseryman. Guess.\nhe knew his real plants from hot\nones.\n\n\nThe West amt what it used to\nbel In other words home on the\nrange has been altered to home\nwith all built-ins plus range.\nRidin' Ole Paint has become\nswooping along in my Barracuda\nor breezing in our Thunderbird.\n\n\nYou might get western flavor\nII you ride In a new Mustang,\nbut where's the real. live West7\nYou could visit Scottsdale, where\nthe city fathers urge you to visit\nthe Vests most western town.\nAll | can ever view as | drive\neast to Scottsdale is the western\nfacades Of the buildings--most of\nthem look phony or funny (as you\ndesire).\n\n\nTime was when men who took\nto thieving stole money or hor-\nses, sometimes both. But who In\nthunderation ever heard of pair\nof cacti-nappers.\n\n\nOnce a year Rodeo Week allows\nall Of the redblooded men in the\nValley to wear boots and Lewis\nand play at being cowpokes. Some\neven grow boards and all groups\nsponsor a square dance or two\nfor the atmosphere.\n\n\nNowadays our region gets ma\ntional and international attention\nfrom the hundreds of western and\ncowboy movies shown daily on the\nmovie and teleWsion screens\nfrom Manila to Copenhagen. Ina\nCINE a western bandit getting\ngunned down by the sheriff for\nrobbing the desert gardens\n\n\nIhad nearly recovered from\nthe cactus plant robbers when\nanother blow came to end the\nimage Of the West. A wild game\nhunter in our midst had been blk\ning his customers with trained\ndogs and pre-captured animals.\n\n\nThis sly hunter would place his\n\n\ncoNIT PAGE",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2109,
+                    "y0": 398,
+                    "x1": 2925,
+                    "y1": 624
+                },
+                {
+                    "x0": 2098,
+                    "y0": 652,
+                    "x1": 2827,
+                    "y1": 769
+                },
+                {
+                    "x0": 2081,
+                    "y0": 791,
+                    "x1": 2919,
+                    "y1": 5419
+                }
+            ],
+            "bbox": [
+                2081,
+                398,
+                2925,
+                5419
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-26_p1_sn84021918_0041421695A_1964062601_0446.json"
+        },
+        {
+            "object_ids": [
+                15,
+                7
+            ],
+            "headline": "LOOK FOR QUALITY",
+            "article": "Every house hunters goal is to\nbuy a home built with quality\nmaterials without paying a prem",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 428,
+                    "y0": 6902,
+                    "x1": 1024,
+                    "y1": 6973
+                },
+                {
+                    "x0": 313,
+                    "y0": 7001,
+                    "x1": 1140,
+                    "y1": 7187
+                }
+            ],
+            "bbox": [
+                313,
+                6902,
+                1140,
+                7187
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-26_p1_sn84021918_0041421695A_1964062601_0446.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "ium. One quality item to look for\nis roof of heavyweight asphalt\nshingles with the Underwriters\nLaboratories \"wind resistant\"\nlabel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1231,
+                    "y0": 6902,
+                    "x1": 2035,
+                    "y1": 7181
+                }
+            ],
+            "bbox": [
+                1231,
+                6902,
+                2035,
+                7181
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-06-26_p1_sn84021918_0041421695A_1964062601_0446.json"
+        },
+        {
+            "object_ids": [
+                12,
+                11
+            ],
+            "headline": "MALCOLM IS WRONG",
+            "article": "The mOuthingS Of Malcolm X, the former\nright hand assistant Of Elijah AAthamn,0d,\nfounder Of the Black Mus Inns, are border\ning on the verge of insanity.\n\n\nHe is unsOtsely and untbinkingly urging\nNegroes in America to arm thenSe hes and\nprepare for guerilla attacks against the\nunite population.\n\n\nWhen he uithdYew from the Black Muslin\norganization, Malcolm X formed nesV\ngroup, n0aO he has banded together a neV.\npolitical group as NEIL. This group called\nthe AfYO-AmeYic0n Freedom Fighters, IS\nstrictly a political body, which he hopes to\nlink with african nations.\n\n\nHe believes that the AAFF Will be a basic\nforce to overthrow the ''1O1aite Devils\" just #\nas the Algerian freedom fighters and the\nAau Mau did in Africa.\n\n\nAS he travels about bYe0 ching the bhilOS-\nObhy Of hate and MAR, Malcolm X should\nremember that only in the United States\nwould he be able to openly advocate such\ndrastic measures.\n\n\nNo one can be sure, but it is certain that\nsome Of his mild yantings are parity yesbon-\nSible for some Of the senSelesS bloodshed in\nNeW York by young Negro hO0dh4naS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3236,
+                    "y0": 2183,
+                    "x1": 4485,
+                    "y1": 2357
+                },
+                {
+                    "x0": 3016,
+                    "y0": 2403,
+                    "x1": 4693,
+                    "y1": 4789
+                }
+            ],
+            "bbox": [
+                3016,
+                2183,
+                4693,
+                4789
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-06-26_p1_sn84021918_0041421695A_1964062601_0446.json"
+        }
+    ]
+}

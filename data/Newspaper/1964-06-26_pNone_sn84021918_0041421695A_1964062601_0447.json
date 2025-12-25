@@ -1,0 +1,550 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-26",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7428,
+        "width": 4915,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-26",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964062601/0447.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1888,
+                "y0": 632,
+                "x1": 3532,
+                "y1": 2380
+            },
+            "class": "article",
+            "raw_text": "War Negro Caesar Tarran\n\n\nElizabeth City, Va served pilot in the Virginia\nNavy His ship engaged in several sea fights\nThe most significant engage\nsouth Virginia Cape while Tarran was serving\nAccording eyewitness affidavit on file in the\nVirginia Archives Tarran durng the action between Com\nPATRIOT British prvateer at the South\nof the Virginia steered the Patriot during the whole\ngany The records recie that ar\nservice 77 and served til capture OF York\n\n\n\n\n\nAfter war; November A. 1885, grateful Virginia legs-\nemancped because he had entered early\nservice Of his country and continued to pilot the armed\nvessels of this during the late war;\"\n\n\nFollowing his liberation Tarrant became property owner and\n\n\ninfluence his community He died in 1895, leaving\nszeabe daughter In the 183O's\n84Os Virginia land grants the heirs OF its soldiers\nwho actually fought the Revolutionary War; Nancy\nboes because of the superior type\nfather recipient of 1850\nacres O. what is not the state of Ohio.\n\n\nAmong cited for their service dur\n\n\ning Revolutionary War John De Baptist who served also\nDragon Virginia Navy His and grandson who\ntheir country in the War of 1872 and the Civil war;\nrespectively. (Nateria furnished by NAACP service",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1882,
+                "y0": 377,
+                "x1": 2934,
+                "y1": 616
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nRe voIutionury War Hero",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 960,
+                "y0": 673,
+                "x1": 1773,
+                "y1": 2113
+            },
+            "class": "article",
+            "raw_text": "Twelve Maricopa County pupils\nreceived $500 worth of scholar\nships for the summer session of\nthe Arizona Reading Improve\nment Center. Sessions will be\nheld at Grandview School, 18th\nand w. Comeback and St. George\nOrthodox Church, 4502 E. Indian\nSchool Road.\n\n\nScholar ship winners are\nPatrick Brown, Dunbar School;\nSam Mosley, Gililland School,\nTempe; and ten others.\n\n\nDR.. Lillian Johnston, chairman\nof the citizens committee and\neducational consultant, said\nscholarship gifts are accepted\nand she may be contacted at\nCR9-1278.\n\n\nThe center was formed in 1860\non a non profit basis. Staff\nspecialists provide individual\nlied training to improve the read\ning ability of students.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 989,
+                "y0": 377,
+                "x1": 1686,
+                "y1": 662
+            },
+            "class": "headline",
+            "raw_text": "Dozen Get\n\n\nSummer Re adj ing\nScholarships",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 977,
+                "y0": 2460,
+                "x1": 1791,
+                "y1": 3326
+            },
+            "class": "article",
+            "raw_text": "Frank Magnin, former Mari\ncopa County Republican Party\nExecutive director, announces\nopening of his campaign head\nquarters for the corporation\ncommission. Offices are located\nat 1853 No. Central Ave.\n\n\nMagnin said, @the extent Of\nstatewide support received and\nthe increase of activity required\nthe establishment of statewide\nheadquarters at this early date\"\n\n\nHe has recently addr essed\ngroups in all fourteen counties.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 989,
+                "y0": 2141,
+                "x1": 1599,
+                "y1": 2380
+            },
+            "class": "headline",
+            "raw_text": "Mugnin Opens\nHead quarters",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2765,
+                "y0": 2878,
+                "x1": 3578,
+                "y1": 4864
+            },
+            "class": "article",
+            "raw_text": "Keeping fit is the chief way to\navoid injuries during sports.\nHere are some easy to do stand\nup exercises to try every morn\ning. Raise your arms forward\nuntil parallel with floor; swing\nto the sides and back as far as\nthey will go; return to sides and\nrepeat ten times. Raise your left\nleg forward as high as you can,\nkeeping knee straight and toes\npointed, lower it, and alternate\nwith your right leg, repeating\nten times each. Slowly raise and\nlower yourself on the toes ten\ntimes.\n\n\nSpecial to way-out car model\nlovers: The prize-winning Pre-\ndicta is the latest real car copied\nin 1/2\" scale by Monogram Mod\nels, Inc. Basically, it's a 1856\nThunderbird, but you wouldn't\nknow it to look at it. There's the\nbubbletop first used by Daryl\nStarbird, designer of the orig\ninal, Unistick steering and dual\ncontrols so the car can be oper-\nated from either the right or left\nseat. The hood opens and closes\nand the front wheels can be\nsteered. Power comes from a '57\nChrysler engine with fuel injec-\nton.\n\n\ny\n\n\nSpecial to barbecue chefs: Use\na water pistol to put out those\nlittle fires from meat drippings.\nThe ashes won't scatter and you\nwon't drown the bed of Goals.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3629,
+                "y0": 568,
+                "x1": 4454,
+                "y1": 3674
+            },
+            "class": "article",
+            "raw_text": "Mrs. Gloria Norris and her\nsons, Billy and Kernon, are va\ncationing with her mother in\nOmaha, Neb.\n\n\nMrs. John Weber, and sons\nJohn, Jr., Bryan, Mrs. Richard\nHicks, and her daughter, Rickie\nDean, are vacationing in Okla\nhoma City.\n\n\nSharon Thompson Is visiting\nher brother who Is a marine at\nSan Diego. She will stop in Los\nAngeles before returning home.\n\n\nRev. L. J. Dunbar was one Of\nthe delegates from this area at\ntending the National Baptist Sum\nday School Congress at Chicago.\n\n\nJimmie Hendrix recently re-\nturned to the city after graduating\nfrom Howard High School in Min\neral Springs, Ark.\n\n\nMrs. B1umer Poland, her son\nDavid. and Johnny Lewis. of San\nDiego, attended the wedding Of\nMr.. and Mrs. Willis Turner.\n\n\nMiss Alice Jean Washington,\ndaughter of MIR. and Mrs. John\nH. Washington, of Tucson, will\nmarry Virgil E. Grant, Jr.. Sat-.\nJune 9th at Mt. Calvary Baptist\nChurch.\n\n\nThe biggest surprise visit Of\nthe week shocked one Of my cos\nmetologist friends--nine cats\ncame over for a stay.\n\n\nMIR. and Mrs. Thomas Soublet;\n20l4 E. Broadway spent a few\ndays relaxing in cool California.\n\n\nThe Debonairs are spoons oring\nthe annual July the Fourth dance\nat Abel Hall, 35th Ave. near Van\nBuren,. We will have good music\nand lots of fun. Plan to join US.\n\n\nCongratulations to the pub\nlisher-editor of this newspaper,\nMr.. Edward Banks. He was sa-\nluted as business Man of the\nDay. by radio station KBUZ Mon\nday. June q.\n\n\nwill appear on channel S at\n10 am and Channel 8 at 4 pm on\nJuly End with some interesting\nitems.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3641,
+                "y0": 359,
+                "x1": 4408,
+                "y1": 540
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nby FIoru Ruffin",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 60,
+                "y0": 528,
+                "x1": 891,
+                "y1": 2235
+            },
+            "class": "article",
+            "raw_text": "cougars and other four footed\nfriends in the woods at night and\nawaken his customers shouting\nthat his hounds had cornered a\nwild beast.\n\n\nAll of them would rush out to\ncertain spot and the hunter\nwould point to beast. Thus, with\nan easy kill and an easy pocket of\nbills, the conniving hunter would\nbait his next customer.\n\n\nThese two episodes will dis\ncolor the wonderful picture that\nhas grown about the wild and\nwooley west. There are debun-\nkers going around who wouldhave\nus believe that Wyatt carp was\nnot a great deputy, but he was a\ncrooked sidewinder.\n\n\nsay down with the spoilers OF\nthe western fables--it gives us\nlust a bit of makebelieVe to keep\nus from drowning in vast sea\nof too much reality. | rather en-\nJoy the exploits of Wyatt, Doc,\nthe James Boys and Matt Dillon.\n\n\nCot to go nowhere comes the\ngoth television showing Of the\nfamous \"Streets of Laredo.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 188,
+                "y0": 412,
+                "x1": 717,
+                "y1": 500
+            },
+            "class": "headline",
+            "raw_text": "SIGHTS conT'D",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 84,
+                "y0": 2623,
+                "x1": 897,
+                "y1": 3343
+            },
+            "class": "article",
+            "raw_text": "A total of \"a pers ons have used\nworthless checks to pay for their\ndriver licenses since Jan. l.\n\n\nDavid H. Campbell, superin-\ntendent of the motor vehicle di-\nvision of the Arizona Highway\nDepartment, announced no $3.50\nchecks for driver licenses will\nbe accepted.\n\n\nOnly cash, money orders and\ncashiers checks will be accep-\nted.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 89,
+                "y0": 2257,
+                "x1": 874,
+                "y1": 2589
+            },
+            "class": "headline",
+            "raw_text": "NO MORE CHECKS\nFOR DRIVERS\n\n\nLICENSES",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1865,
+                "y0": 2698,
+                "x1": 2684,
+                "y1": 3308
+            },
+            "class": "article",
+            "raw_text": "Jobs for Youth headquarters\nwill be open from 8 am-noon on\nSaturdays until school begins in\nSeptember.\n\n\nHigh school and college STU\ndents are available for many\ntypes of business and home jobs.\n\n\nThe job center is located at 438\nw. Adams, Phoenix, phone AL.\n8-l62l.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1888,
+                "y0": 2431,
+                "x1": 2528,
+                "y1": 2658
+            },
+            "class": "headline",
+            "raw_text": "Youth Center\n\n\nOpen For Jobs",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3647,
+                "y0": 3940,
+                "x1": 4448,
+                "y1": 5136
+            },
+            "class": "article",
+            "raw_text": "Special to junior model build\ners: Keep an eye on TV sched-\nules for a chance to win a free\nmodel kit. Monogram Models,\nInc. is giving away kits on pro-\ngrams like Junior Auction, Pop\neye Theater and Captain Zoomar\nin more than so different areas.\nThe prizes are awarded at least\nonce a week and include such\nfavorite kits as the Model 1T\"\nGreen Hornet show/go roadster,\nLong John streamlined dragster\nand the British Spitfre. 564\n\n\nSatisfaction is prac ical ~\nguaranteed the gardener who or\nders disease-resistant varieties\nof both vegetables and flowers.\nThese varieties are plainly de-\nscribed in the catalogs as having\nbeen bred to ignore many plant\ntroubles.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3652,
+                "y0": 3714,
+                "x1": 4153,
+                "y1": 3894
+            },
+            "class": "headline",
+            "raw_text": "HOBBY NEWS\n\n\nFOR CHILDREN",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964062601_0447",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "NEGRO HISTORY NOTES\nRe voIutionury War Hero",
+            "article": "War Negro Caesar Tarran\n\n\nElizabeth City, Va served pilot in the Virginia\nNavy His ship engaged in several sea fights\nThe most significant engage\nsouth Virginia Cape while Tarran was serving\nAccording eyewitness affidavit on file in the\nVirginia Archives Tarran durng the action between Com\nPATRIOT British prvateer at the South\nof the Virginia steered the Patriot during the whole\ngany The records recie that ar\nservice 77 and served til capture OF York\n\n\n\n\n\nAfter war; November A. 1885, grateful Virginia legs-\nemancped because he had entered early\nservice Of his country and continued to pilot the armed\nvessels of this during the late war;\"\n\n\nFollowing his liberation Tarrant became property owner and\n\n\ninfluence his community He died in 1895, leaving\nszeabe daughter In the 183O's\n84Os Virginia land grants the heirs OF its soldiers\nwho actually fought the Revolutionary War; Nancy\nboes because of the superior type\nfather recipient of 1850\nacres O. what is not the state of Ohio.\n\n\nAmong cited for their service dur\n\n\ning Revolutionary War John De Baptist who served also\nDragon Virginia Navy His and grandson who\ntheir country in the War of 1872 and the Civil war;\nrespectively. (Nateria furnished by NAACP service",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1882,
+                    "y0": 377,
+                    "x1": 2934,
+                    "y1": 616
+                },
+                {
+                    "x0": 1888,
+                    "y0": 632,
+                    "x1": 3532,
+                    "y1": 2380
+                }
+            ],
+            "bbox": [
+                1882,
+                377,
+                3532,
+                2380
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "Dozen Get\n\n\nSummer Re adj ing\nScholarships",
+            "article": "Twelve Maricopa County pupils\nreceived $500 worth of scholar\nships for the summer session of\nthe Arizona Reading Improve\nment Center. Sessions will be\nheld at Grandview School, 18th\nand w. Comeback and St. George\nOrthodox Church, 4502 E. Indian\nSchool Road.\n\n\nScholar ship winners are\nPatrick Brown, Dunbar School;\nSam Mosley, Gililland School,\nTempe; and ten others.\n\n\nDR.. Lillian Johnston, chairman\nof the citizens committee and\neducational consultant, said\nscholarship gifts are accepted\nand she may be contacted at\nCR9-1278.\n\n\nThe center was formed in 1860\non a non profit basis. Staff\nspecialists provide individual\nlied training to improve the read\ning ability of students.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 989,
+                    "y0": 377,
+                    "x1": 1686,
+                    "y1": 662
+                },
+                {
+                    "x0": 960,
+                    "y0": 673,
+                    "x1": 1773,
+                    "y1": 2113
+                }
+            ],
+            "bbox": [
+                960,
+                377,
+                1773,
+                2113
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "Mugnin Opens\nHead quarters",
+            "article": "Frank Magnin, former Mari\ncopa County Republican Party\nExecutive director, announces\nopening of his campaign head\nquarters for the corporation\ncommission. Offices are located\nat 1853 No. Central Ave.\n\n\nMagnin said, @the extent Of\nstatewide support received and\nthe increase of activity required\nthe establishment of statewide\nheadquarters at this early date\"\n\n\nHe has recently addr essed\ngroups in all fourteen counties.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 989,
+                    "y0": 2141,
+                    "x1": 1599,
+                    "y1": 2380
+                },
+                {
+                    "x0": 977,
+                    "y0": 2460,
+                    "x1": 1791,
+                    "y1": 3326
+                }
+            ],
+            "bbox": [
+                977,
+                2141,
+                1791,
+                3326
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Keeping fit is the chief way to\navoid injuries during sports.\nHere are some easy to do stand\nup exercises to try every morn\ning. Raise your arms forward\nuntil parallel with floor; swing\nto the sides and back as far as\nthey will go; return to sides and\nrepeat ten times. Raise your left\nleg forward as high as you can,\nkeeping knee straight and toes\npointed, lower it, and alternate\nwith your right leg, repeating\nten times each. Slowly raise and\nlower yourself on the toes ten\ntimes.\n\n\nSpecial to way-out car model\nlovers: The prize-winning Pre-\ndicta is the latest real car copied\nin 1/2\" scale by Monogram Mod\nels, Inc. Basically, it's a 1856\nThunderbird, but you wouldn't\nknow it to look at it. There's the\nbubbletop first used by Daryl\nStarbird, designer of the orig\ninal, Unistick steering and dual\ncontrols so the car can be oper-\nated from either the right or left\nseat. The hood opens and closes\nand the front wheels can be\nsteered. Power comes from a '57\nChrysler engine with fuel injec-\nton.\n\n\ny\n\n\nSpecial to barbecue chefs: Use\na water pistol to put out those\nlittle fires from meat drippings.\nThe ashes won't scatter and you\nwon't drown the bed of Goals.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2765,
+                    "y0": 2878,
+                    "x1": 3578,
+                    "y1": 4864
+                }
+            ],
+            "bbox": [
+                2765,
+                2878,
+                3578,
+                4864
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                19,
+                5
+            ],
+            "headline": "All Around\n\n\nby FIoru Ruffin",
+            "article": "Mrs. Gloria Norris and her\nsons, Billy and Kernon, are va\ncationing with her mother in\nOmaha, Neb.\n\n\nMrs. John Weber, and sons\nJohn, Jr., Bryan, Mrs. Richard\nHicks, and her daughter, Rickie\nDean, are vacationing in Okla\nhoma City.\n\n\nSharon Thompson Is visiting\nher brother who Is a marine at\nSan Diego. She will stop in Los\nAngeles before returning home.\n\n\nRev. L. J. Dunbar was one Of\nthe delegates from this area at\ntending the National Baptist Sum\nday School Congress at Chicago.\n\n\nJimmie Hendrix recently re-\nturned to the city after graduating\nfrom Howard High School in Min\neral Springs, Ark.\n\n\nMrs. B1umer Poland, her son\nDavid. and Johnny Lewis. of San\nDiego, attended the wedding Of\nMr.. and Mrs. Willis Turner.\n\n\nMiss Alice Jean Washington,\ndaughter of MIR. and Mrs. John\nH. Washington, of Tucson, will\nmarry Virgil E. Grant, Jr.. Sat-.\nJune 9th at Mt. Calvary Baptist\nChurch.\n\n\nThe biggest surprise visit Of\nthe week shocked one Of my cos\nmetologist friends--nine cats\ncame over for a stay.\n\n\nMIR. and Mrs. Thomas Soublet;\n20l4 E. Broadway spent a few\ndays relaxing in cool California.\n\n\nThe Debonairs are spoons oring\nthe annual July the Fourth dance\nat Abel Hall, 35th Ave. near Van\nBuren,. We will have good music\nand lots of fun. Plan to join US.\n\n\nCongratulations to the pub\nlisher-editor of this newspaper,\nMr.. Edward Banks. He was sa-\nluted as business Man of the\nDay. by radio station KBUZ Mon\nday. June q.\n\n\nwill appear on channel S at\n10 am and Channel 8 at 4 pm on\nJuly End with some interesting\nitems.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3641,
+                    "y0": 359,
+                    "x1": 4408,
+                    "y1": 540
+                },
+                {
+                    "x0": 3629,
+                    "y0": 568,
+                    "x1": 4454,
+                    "y1": 3674
+                }
+            ],
+            "bbox": [
+                3629,
+                359,
+                4454,
+                3674
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                20,
+                6
+            ],
+            "headline": "SIGHTS conT'D",
+            "article": "cougars and other four footed\nfriends in the woods at night and\nawaken his customers shouting\nthat his hounds had cornered a\nwild beast.\n\n\nAll of them would rush out to\ncertain spot and the hunter\nwould point to beast. Thus, with\nan easy kill and an easy pocket of\nbills, the conniving hunter would\nbait his next customer.\n\n\nThese two episodes will dis\ncolor the wonderful picture that\nhas grown about the wild and\nwooley west. There are debun-\nkers going around who wouldhave\nus believe that Wyatt carp was\nnot a great deputy, but he was a\ncrooked sidewinder.\n\n\nsay down with the spoilers OF\nthe western fables--it gives us\nlust a bit of makebelieVe to keep\nus from drowning in vast sea\nof too much reality. | rather en-\nJoy the exploits of Wyatt, Doc,\nthe James Boys and Matt Dillon.\n\n\nCot to go nowhere comes the\ngoth television showing Of the\nfamous \"Streets of Laredo.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 188,
+                    "y0": 412,
+                    "x1": 717,
+                    "y1": 500
+                },
+                {
+                    "x0": 60,
+                    "y0": 528,
+                    "x1": 891,
+                    "y1": 2235
+                }
+            ],
+            "bbox": [
+                60,
+                412,
+                891,
+                2235
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                11,
+                7
+            ],
+            "headline": "NO MORE CHECKS\nFOR DRIVERS\n\n\nLICENSES",
+            "article": "A total of \"a pers ons have used\nworthless checks to pay for their\ndriver licenses since Jan. l.\n\n\nDavid H. Campbell, superin-\ntendent of the motor vehicle di-\nvision of the Arizona Highway\nDepartment, announced no $3.50\nchecks for driver licenses will\nbe accepted.\n\n\nOnly cash, money orders and\ncashiers checks will be accep-\nted.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 89,
+                    "y0": 2257,
+                    "x1": 874,
+                    "y1": 2589
+                },
+                {
+                    "x0": 84,
+                    "y0": 2623,
+                    "x1": 897,
+                    "y1": 3343
+                }
+            ],
+            "bbox": [
+                84,
+                2257,
+                897,
+                3343
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                13,
+                8
+            ],
+            "headline": "Youth Center\n\n\nOpen For Jobs",
+            "article": "Jobs for Youth headquarters\nwill be open from 8 am-noon on\nSaturdays until school begins in\nSeptember.\n\n\nHigh school and college STU\ndents are available for many\ntypes of business and home jobs.\n\n\nThe job center is located at 438\nw. Adams, Phoenix, phone AL.\n8-l62l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1888,
+                    "y0": 2431,
+                    "x1": 2528,
+                    "y1": 2658
+                },
+                {
+                    "x0": 1865,
+                    "y0": 2698,
+                    "x1": 2684,
+                    "y1": 3308
+                }
+            ],
+            "bbox": [
+                1865,
+                2431,
+                2684,
+                3308
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        },
+        {
+            "object_ids": [
+                18,
+                9
+            ],
+            "headline": "HOBBY NEWS\n\n\nFOR CHILDREN",
+            "article": "Special to junior model build\ners: Keep an eye on TV sched-\nules for a chance to win a free\nmodel kit. Monogram Models,\nInc. is giving away kits on pro-\ngrams like Junior Auction, Pop\neye Theater and Captain Zoomar\nin more than so different areas.\nThe prizes are awarded at least\nonce a week and include such\nfavorite kits as the Model 1T\"\nGreen Hornet show/go roadster,\nLong John streamlined dragster\nand the British Spitfre. 564\n\n\nSatisfaction is prac ical ~\nguaranteed the gardener who or\nders disease-resistant varieties\nof both vegetables and flowers.\nThese varieties are plainly de-\nscribed in the catalogs as having\nbeen bred to ignore many plant\ntroubles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3652,
+                    "y0": 3714,
+                    "x1": 4153,
+                    "y1": 3894
+                },
+                {
+                    "x0": 3647,
+                    "y0": 3940,
+                    "x1": 4448,
+                    "y1": 5136
+                }
+            ],
+            "bbox": [
+                3647,
+                3714,
+                4448,
+                5136
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-26_pna_sn84021918_0041421695A_1964062601_0447.json"
+        }
+    ]
+}

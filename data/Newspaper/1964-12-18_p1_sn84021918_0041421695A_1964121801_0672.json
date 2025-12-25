@@ -1,0 +1,342 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121801/0672.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7383,
+        "width": 4868
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 207,
+                "y0": 2191,
+                "x1": 1021,
+                "y1": 2890
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON, DC. = A maker\nof fruit Gales got plum last\nweek when the Small Business\nAdministration approved the first\nanti-poverty loan under the Eco\nnomic Opportunity Act. 1t calls\nfor a loan of SIS 900 for is\nyears at 4 per cent interest to\nthe Southern Consumers Coop\nerative, Inc, of Lafayette, La.\n\n\nSeveral years ago 800 Negro\nfamilies pooled their savings to",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2001,
+                "y0": 2618,
+                "x1": 2815,
+                "y1": 3559
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA andolph\nFord, 10, was charged with muir\nder, following the fatal stabbing of\nhis father, James Ford, so.\n\n\nHis father had earlier stabbed\nhis wife, the boys mother and\nafter visiting her at the hospital\nyoung Ford went home and at\ntackled his father.\n\n\nMrs. Gladys Ford, IS, was in\ncritical condition, but is recup-\nGrating. Her husband died in\nstantly after Randolph stabbed\nhim in the neck.\n\n\nRelatives said the couple had\nargued over the dinner.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2053,
+                "y0": 2376,
+                "x1": 2498,
+                "y1": 2590
+            },
+            "class": "headline",
+            "raw_text": "Son Kills\nHis Futher",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1107,
+                "y0": 2186,
+                "x1": 1927,
+                "y1": 2884
+            },
+            "class": "article",
+            "raw_text": "form the cooperative in an at\ntempt to improve their economic\ncondition. 1t has two major &C\ntivities, credit union called\nPeoples Enterprise, Inc, and a\nfruit-cake bakery. The SIS, 900\nwill enable the cooperative to buy\na building and more equipment\nto expand its baking operations.\nThe president of the cooperative\nis the Rev. Albert Mcknight,\nCatholic clergyman.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 524,
+                "y0": 2041,
+                "x1": 1587,
+                "y1": 2169
+            },
+            "class": "headline",
+            "raw_text": "1sf AntipovertY Loon",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2007,
+                "y0": 640,
+                "x1": 2832,
+                "y1": 2302
+            },
+            "class": "article",
+            "raw_text": "Phoenix Colleges 80 voice a\ncappella choir will present a\nChristmas concert in the Valley\nNational Banks home office,\nCentral and Monroe, Dec. %.\n\n\nThe bank spaci marble\nlobby will resound Christmas\nhymns, carols and festive\nroundelays from 5000 4:30p.m.\n\n\n1t is the 32nd year Valley Bnk\nhas spoons ored appearance of the\nyouthful carolers. Continuing\nanother tradition, Howard Pyle,\nformer Arizona governor and now\nNational Safety Council presi-\ndent, will deliver brief holiday\nmessage. VNB president James\nE. Patrick will welcome the\nguests.\n\n\nKenneth l.. Hakes, choir di-\nrector, will lead the program of\nIs songs. beginning with joyful\nhymn and closing with choir and\naudience joining in Silent\nNight\"\n\n\nAppearing with the choir will\nbe Ester Mclaughlin, harpist of\nthe PhoenixSymphony Orchestra.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2064,
+                "y0": 374,
+                "x1": 2740,
+                "y1": 600
+            },
+            "class": "headline",
+            "raw_text": "Pc CHOIR SINGS\nAT vNB AGAIN",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2872,
+                "y0": 2145,
+                "x1": 3680,
+                "y1": 2383
+            },
+            "class": "article",
+            "raw_text": "l. G. Homes Boys Club, 1901\nW. Sherman, will end the Christ\nmas pre-planning activities with\na picnic on Dec. 10. The first",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3777,
+                "y0": 2139,
+                "x1": 4586,
+                "y1": 2377
+            },
+            "class": "article",
+            "raw_text": "$50 members who joined in 1864\nwill be honored.\n\n\nA Christmas Tree Shoot is I'M\nderWay",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 4879,
+                "y0": 432,
+                "x1": 6132,
+                "y1": 5774
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "WASHINGTON, DC. = A maker\nof fruit Gales got plum last\nweek when the Small Business\nAdministration approved the first\nanti-poverty loan under the Eco\nnomic Opportunity Act. 1t calls\nfor a loan of SIS 900 for is\nyears at 4 per cent interest to\nthe Southern Consumers Coop\nerative, Inc, of Lafayette, La.\n\n\nSeveral years ago 800 Negro\nfamilies pooled their savings to",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 207,
+                    "y0": 2191,
+                    "x1": 1021,
+                    "y1": 2890
+                }
+            ],
+            "bbox": [
+                207,
+                2191,
+                1021,
+                2890
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-18_p1_sn84021918_0041421695A_1964121801_0672.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "Son Kills\nHis Futher",
+            "article": "PHILADELPHIA andolph\nFord, 10, was charged with muir\nder, following the fatal stabbing of\nhis father, James Ford, so.\n\n\nHis father had earlier stabbed\nhis wife, the boys mother and\nafter visiting her at the hospital\nyoung Ford went home and at\ntackled his father.\n\n\nMrs. Gladys Ford, IS, was in\ncritical condition, but is recup-\nGrating. Her husband died in\nstantly after Randolph stabbed\nhim in the neck.\n\n\nRelatives said the couple had\nargued over the dinner.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2053,
+                    "y0": 2376,
+                    "x1": 2498,
+                    "y1": 2590
+                },
+                {
+                    "x0": 2001,
+                    "y0": 2618,
+                    "x1": 2815,
+                    "y1": 3559
+                }
+            ],
+            "bbox": [
+                2001,
+                2376,
+                2815,
+                3559
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-18_p1_sn84021918_0041421695A_1964121801_0672.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "1sf AntipovertY Loon",
+            "article": "form the cooperative in an at\ntempt to improve their economic\ncondition. 1t has two major &C\ntivities, credit union called\nPeoples Enterprise, Inc, and a\nfruit-cake bakery. The SIS, 900\nwill enable the cooperative to buy\na building and more equipment\nto expand its baking operations.\nThe president of the cooperative\nis the Rev. Albert Mcknight,\nCatholic clergyman.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 524,
+                    "y0": 2041,
+                    "x1": 1587,
+                    "y1": 2169
+                },
+                {
+                    "x0": 1107,
+                    "y0": 2186,
+                    "x1": 1927,
+                    "y1": 2884
+                }
+            ],
+            "bbox": [
+                524,
+                2041,
+                1927,
+                2884
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-18_p1_sn84021918_0041421695A_1964121801_0672.json"
+        },
+        {
+            "object_ids": [
+                10,
+                5
+            ],
+            "headline": "Pc CHOIR SINGS\nAT vNB AGAIN",
+            "article": "Phoenix Colleges 80 voice a\ncappella choir will present a\nChristmas concert in the Valley\nNational Banks home office,\nCentral and Monroe, Dec. %.\n\n\nThe bank spaci marble\nlobby will resound Christmas\nhymns, carols and festive\nroundelays from 5000 4:30p.m.\n\n\n1t is the 32nd year Valley Bnk\nhas spoons ored appearance of the\nyouthful carolers. Continuing\nanother tradition, Howard Pyle,\nformer Arizona governor and now\nNational Safety Council presi-\ndent, will deliver brief holiday\nmessage. VNB president James\nE. Patrick will welcome the\nguests.\n\n\nKenneth l.. Hakes, choir di-\nrector, will lead the program of\nIs songs. beginning with joyful\nhymn and closing with choir and\naudience joining in Silent\nNight\"\n\n\nAppearing with the choir will\nbe Ester Mclaughlin, harpist of\nthe PhoenixSymphony Orchestra.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2064,
+                    "y0": 374,
+                    "x1": 2740,
+                    "y1": 600
+                },
+                {
+                    "x0": 2007,
+                    "y0": 640,
+                    "x1": 2832,
+                    "y1": 2302
+                }
+            ],
+            "bbox": [
+                2007,
+                374,
+                2832,
+                2302
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-18_p1_sn84021918_0041421695A_1964121801_0672.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "l. G. Homes Boys Club, 1901\nW. Sherman, will end the Christ\nmas pre-planning activities with\na picnic on Dec. 10. The first",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2872,
+                    "y0": 2145,
+                    "x1": 3680,
+                    "y1": 2383
+                }
+            ],
+            "bbox": [
+                2872,
+                2145,
+                3680,
+                2383
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-12-18_p1_sn84021918_0041421695A_1964121801_0672.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "$50 members who joined in 1864\nwill be honored.\n\n\nA Christmas Tree Shoot is I'M\nderWay",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3777,
+                    "y0": 2139,
+                    "x1": 4586,
+                    "y1": 2377
+                }
+            ],
+            "bbox": [
+                3777,
+                2139,
+                4586,
+                2377
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-12-18_p1_sn84021918_0041421695A_1964121801_0672.json"
+        }
+    ]
+}

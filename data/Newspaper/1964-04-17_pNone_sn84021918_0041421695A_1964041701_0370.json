@@ -1,0 +1,314 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7391,
+        "width": 4872,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041701/0370.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2106,
+                "y0": 5808,
+                "x1": 2922,
+                "y1": 7155
+            },
+            "class": "article",
+            "raw_text": "James A. Rork, administrator\ndirector of the Arizona State\nEmployment Service. advises\n1864 high school graduates to\nconsider their job future care\nfully. He stated that in this JET\npropelled automated age Of Elec-\ntro-mechanical Innovations the\nhigh school diplomas is not al\nways a passport into the better\njobs in a highly competitive labor\nmarket without further training\nor preparation.\n\n\nMr.. Rork invited those seeking\nsummer employment to make\nearly contact with the nearest\noffice Of the Arizona State EN-\nployment Service.\n\n\nThis past summer, according\nto Mr.. Rork. the State Employ\nment Service found jobs for over\n1900 high school graduates and\ncollege students.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2118,
+                "y0": 5595,
+                "x1": 2575,
+                "y1": 5775
+            },
+            "class": "headline",
+            "raw_text": "Sum mer Job\nHunt On",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2077,
+                "y0": 3574,
+                "x1": 2904,
+                "y1": 5538
+            },
+            "class": "article",
+            "raw_text": "When the talented King Curtis\nmakes his cross-country tours\naround the nation 8 leading night\nclubs he will be following the\nelegant tradition Of travelling in\na private railroad car.\n\n\nThe entertainer became a\nmember Of this select group Of\nprivate railroad car owners late\nlast summer when he purchased\nthe famed Cannonball Adderley\nCar which had been in storage\non the Long Island City tracks\nOf the Pennsylvania Railroad.\n\n\nCurtis also has his eyes on\nthe economic significance Of his\nnew travelling facility. He says\n1t will be less expensive since\nair travel and hotel bills would\nmount to tremendous figures over\nthe long haul.\n\n\nOne portion of the car Is re-\nserved for members of his band,\nsays King. while the other halfis\nhis personal living quarters with\nbedroom. two baths, living room,\nsitting room and dining area\nwith a small kitchen attached.\n\n\nThe railroad car Is air con-\ndiuoned. with a deep burgundy\nupholstery with walnut paneling.\nThere are also quarters for a\ncook and two roomettes for staff.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2106,
+                "y0": 3331,
+                "x1": 2719,
+                "y1": 3529
+            },
+            "class": "headline",
+            "raw_text": "KING CURTIS\n\n\nHAS TRAIN CAR",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2083,
+                "y0": 1587,
+                "x1": 2916,
+                "y1": 3251
+            },
+            "class": "article",
+            "raw_text": "DANBURY, Conn. Members\nof the local branch of the Ma\ntional ASS ociation for the Ad-\nvancement of Colored People last\nweek, paraded in the rain for\nnearly three hours outside a\ndowntown restaurant in protest\nagainst the \"lily-white\" Ex-\nchange Club of Danbury, which\nwas having a meeting inside.\n\n\nThe NAACP group. a total of\nso. was protesting the business\nand professional mems club re-\nstriction of membership to\nwhites only\" The national body,\nheadquartered in Toledo, Ohio,\ndropped the Objectionable clause\nfrom its constitution in 1861.\nThe local Exchange Club did not.\n\n\nDR.. Frederick Adams, Danbury\nNAACP president. said the DEM\nonstration climaxed seven weeks\nof fruitless negotiations with the\nclub. Club officials first agreed\nto change the constitution, but\nlater to picket the Exchange Club\nmeetings until the bias clause Is\nremoved, DR.. Adams added.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2101,
+                "y0": 1333,
+                "x1": 2748,
+                "y1": 1565
+            },
+            "class": "headline",
+            "raw_text": "Exchange Club\nPicketed",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2984,
+                "y0": 3164,
+                "x1": 3840,
+                "y1": 3644
+            },
+            "class": "article",
+            "raw_text": "WASHlNCTON-T The Defense De-\npartment has ordered the end of\ntraining of military personnel at\nschools practicing discrimination.\n\n\nAsst. Secretary of Defense Nor\nman S. Paul ordered the halt in\n90 days.\n\n\nAn estimated 100000 service",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3873,
+                "y0": 3152,
+                "x1": 4717,
+                "y1": 3638
+            },
+            "class": "article",
+            "raw_text": "pers onnel are involved in various\neducational programs.\n\n\nPaul said each top official must\nbe sure that all facilities used in\nthe programs under his supervi-\nsion do not discriminate because\nof race or color in the admis-\nsion or treatment of students.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3001,
+                "y0": 2939,
+                "x1": 3926,
+                "y1": 3142
+            },
+            "class": "headline",
+            "raw_text": "Defense Dept. Moves\nTo End School Bias",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041701_0370",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "Sum mer Job\nHunt On",
+            "article": "James A. Rork, administrator\ndirector of the Arizona State\nEmployment Service. advises\n1864 high school graduates to\nconsider their job future care\nfully. He stated that in this JET\npropelled automated age Of Elec-\ntro-mechanical Innovations the\nhigh school diplomas is not al\nways a passport into the better\njobs in a highly competitive labor\nmarket without further training\nor preparation.\n\n\nMr.. Rork invited those seeking\nsummer employment to make\nearly contact with the nearest\noffice Of the Arizona State EN-\nployment Service.\n\n\nThis past summer, according\nto Mr.. Rork. the State Employ\nment Service found jobs for over\n1900 high school graduates and\ncollege students.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2118,
+                    "y0": 5595,
+                    "x1": 2575,
+                    "y1": 5775
+                },
+                {
+                    "x0": 2106,
+                    "y0": 5808,
+                    "x1": 2922,
+                    "y1": 7155
+                }
+            ],
+            "bbox": [
+                2106,
+                5595,
+                2922,
+                7155
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-17_pna_sn84021918_0041421695A_1964041701_0370.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "KING CURTIS\n\n\nHAS TRAIN CAR",
+            "article": "When the talented King Curtis\nmakes his cross-country tours\naround the nation 8 leading night\nclubs he will be following the\nelegant tradition Of travelling in\na private railroad car.\n\n\nThe entertainer became a\nmember Of this select group Of\nprivate railroad car owners late\nlast summer when he purchased\nthe famed Cannonball Adderley\nCar which had been in storage\non the Long Island City tracks\nOf the Pennsylvania Railroad.\n\n\nCurtis also has his eyes on\nthe economic significance Of his\nnew travelling facility. He says\n1t will be less expensive since\nair travel and hotel bills would\nmount to tremendous figures over\nthe long haul.\n\n\nOne portion of the car Is re-\nserved for members of his band,\nsays King. while the other halfis\nhis personal living quarters with\nbedroom. two baths, living room,\nsitting room and dining area\nwith a small kitchen attached.\n\n\nThe railroad car Is air con-\ndiuoned. with a deep burgundy\nupholstery with walnut paneling.\nThere are also quarters for a\ncook and two roomettes for staff.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2106,
+                    "y0": 3331,
+                    "x1": 2719,
+                    "y1": 3529
+                },
+                {
+                    "x0": 2077,
+                    "y0": 3574,
+                    "x1": 2904,
+                    "y1": 5538
+                }
+            ],
+            "bbox": [
+                2077,
+                3331,
+                2904,
+                5538
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-17_pna_sn84021918_0041421695A_1964041701_0370.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "Exchange Club\nPicketed",
+            "article": "DANBURY, Conn. Members\nof the local branch of the Ma\ntional ASS ociation for the Ad-\nvancement of Colored People last\nweek, paraded in the rain for\nnearly three hours outside a\ndowntown restaurant in protest\nagainst the \"lily-white\" Ex-\nchange Club of Danbury, which\nwas having a meeting inside.\n\n\nThe NAACP group. a total of\nso. was protesting the business\nand professional mems club re-\nstriction of membership to\nwhites only\" The national body,\nheadquartered in Toledo, Ohio,\ndropped the Objectionable clause\nfrom its constitution in 1861.\nThe local Exchange Club did not.\n\n\nDR.. Frederick Adams, Danbury\nNAACP president. said the DEM\nonstration climaxed seven weeks\nof fruitless negotiations with the\nclub. Club officials first agreed\nto change the constitution, but\nlater to picket the Exchange Club\nmeetings until the bias clause Is\nremoved, DR.. Adams added.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2101,
+                    "y0": 1333,
+                    "x1": 2748,
+                    "y1": 1565
+                },
+                {
+                    "x0": 2083,
+                    "y0": 1587,
+                    "x1": 2916,
+                    "y1": 3251
+                }
+            ],
+            "bbox": [
+                2083,
+                1333,
+                2916,
+                3251
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-17_pna_sn84021918_0041421695A_1964041701_0370.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "WASHlNCTON-T The Defense De-\npartment has ordered the end of\ntraining of military personnel at\nschools practicing discrimination.\n\n\nAsst. Secretary of Defense Nor\nman S. Paul ordered the halt in\n90 days.\n\n\nAn estimated 100000 service",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2984,
+                    "y0": 3164,
+                    "x1": 3840,
+                    "y1": 3644
+                }
+            ],
+            "bbox": [
+                2984,
+                3164,
+                3840,
+                3644
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-17_pna_sn84021918_0041421695A_1964041701_0370.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "Defense Dept. Moves\nTo End School Bias",
+            "article": "pers onnel are involved in various\neducational programs.\n\n\nPaul said each top official must\nbe sure that all facilities used in\nthe programs under his supervi-\nsion do not discriminate because\nof race or color in the admis-\nsion or treatment of students.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3001,
+                    "y0": 2939,
+                    "x1": 3926,
+                    "y1": 3142
+                },
+                {
+                    "x0": 3873,
+                    "y0": 3152,
+                    "x1": 4717,
+                    "y1": 3638
+                }
+            ],
+            "bbox": [
+                3001,
+                2939,
+                4717,
+                3638
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-17_pna_sn84021918_0041421695A_1964041701_0370.json"
+        }
+    ]
+}

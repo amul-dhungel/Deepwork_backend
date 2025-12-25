@@ -1,0 +1,193 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0590.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4872
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2979,
+                "y0": 2389,
+                "x1": 3796,
+                "y1": 2917
+            },
+            "class": "article",
+            "raw_text": "Palmcroft, Tempe. 967-5665;\nJames L.Davis, 1910 E. Madison,\nALB. Barnes, ESQ E. Roeser\nand ]. A. Ross, 2555 E. Tam\narisk, 27o-7l59, are committee\nmembers.\n\n\nFor further information con-\ntact one of the committee\nmembers.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3159,
+                "y0": 1938,
+                "x1": 3767,
+                "y1": 1997
+            },
+            "class": "author",
+            "raw_text": ",bony Magazine subscrip-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2100,
+                "y0": 2389,
+                "x1": 2917,
+                "y1": 2922
+            },
+            "class": "article",
+            "raw_text": "Nominees for officers of the\nMaricopa County Branch NAACP\nare now being accepted. New\nofficers for lo65-67 will be cleo\nted soon.\n\n\nRoy A. Lee, 1446 E. Granada,\n253-o498, is nominations COM\nmittee chairman.\n\n\nMrs. Marjorie Philbrook, A E.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2493,
+                "y0": 2268,
+                "x1": 3484,
+                "y1": 2373
+            },
+            "class": "headline",
+            "raw_text": "NAACP Seeks Nominees",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3818,
+                "y0": 526,
+                "x1": 4734,
+                "y1": 2917
+            },
+            "class": "article",
+            "raw_text": "five minutes longer. Emerson :\nOne should never be dis\ncouraged by small beginnings:\nit Is small growth that dis\nappoints.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\n\n\nor recent expe rience\non century series aircraft\nAIRCRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical.\nlectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-445 pm.\nAn equal opportunity employer\no35-93ll Eek. 2253",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-16"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "",
+            "article": "Palmcroft, Tempe. 967-5665;\nJames L.Davis, 1910 E. Madison,\nALB. Barnes, ESQ E. Roeser\nand ]. A. Ross, 2555 E. Tam\narisk, 27o-7l59, are committee\nmembers.\n\n\nFor further information con-\ntact one of the committee\nmembers.",
+            "byline": ",bony Magazine subscrip-",
+            "bbox_list": [
+                {
+                    "x0": 3159,
+                    "y0": 1938,
+                    "x1": 3767,
+                    "y1": 1997
+                },
+                {
+                    "x0": 2979,
+                    "y0": 2389,
+                    "x1": 3796,
+                    "y1": 2917
+                }
+            ],
+            "bbox": [
+                2979,
+                1938,
+                3796,
+                2917
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-16_p1_sn84021918_0041421695A_1964101601_0590.json"
+        },
+        {
+            "object_ids": [
+                10,
+                5
+            ],
+            "headline": "NAACP Seeks Nominees",
+            "article": "Nominees for officers of the\nMaricopa County Branch NAACP\nare now being accepted. New\nofficers for lo65-67 will be cleo\nted soon.\n\n\nRoy A. Lee, 1446 E. Granada,\n253-o498, is nominations COM\nmittee chairman.\n\n\nMrs. Marjorie Philbrook, A E.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2493,
+                    "y0": 2268,
+                    "x1": 3484,
+                    "y1": 2373
+                },
+                {
+                    "x0": 2100,
+                    "y0": 2389,
+                    "x1": 2917,
+                    "y1": 2922
+                }
+            ],
+            "bbox": [
+                2100,
+                2268,
+                3484,
+                2922
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-16_p1_sn84021918_0041421695A_1964101601_0590.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "five minutes longer. Emerson :\nOne should never be dis\ncouraged by small beginnings:\nit Is small growth that dis\nappoints.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\n\n\nor recent expe rience\non century series aircraft\nAIRCRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical.\nlectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-445 pm.\nAn equal opportunity employer\no35-93ll Eek. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3818,
+                    "y0": 526,
+                    "x1": 4734,
+                    "y1": 2917
+                }
+            ],
+            "bbox": [
+                3818,
+                526,
+                4734,
+                2917
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-10-16_p1_sn84021918_0041421695A_1964101601_0590.json"
+        }
+    ]
+}

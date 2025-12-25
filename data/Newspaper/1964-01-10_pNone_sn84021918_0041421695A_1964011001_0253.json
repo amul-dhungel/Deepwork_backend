@@ -1,0 +1,664 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4809,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011001/0253.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 2872,
+                "y0": 6499,
+                "x1": 3683,
+                "y1": 6911
+            },
+            "class": "article",
+            "raw_text": "with kidneys from a primate. He\nspent Christmas at home with his\nfamily following the successful\noperation. IT,\n\n\nPhysicians said the chimp kid\nneys we're still functioning at the\ntime of death.",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2560,
+                "y0": 6326,
+                "x1": 3215,
+                "y1": 6483
+            },
+            "class": "headline",
+            "raw_text": "MAN WITH CHIMP\nKIDNEYS DIES",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1959,
+                "y0": 1491,
+                "x1": 2781,
+                "y1": 2799
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Roy Wilkins, exc\ncutive secretary of the National\nAssociation for the Advancement\nof Colored People, indicated Ne\ngroes may play politics at the\npolls in November if the civil\nrights legislation stalled.\n\n\nAt the annual NAACP meet\ning wilkins said. Although\nPresident Johnson has given the\ncivil rights bill top priority there\nis every indication that the House\nrules committee under Chairman\nHoward Smith of Virginia, may\nnot finish action on this bill seven\nfull months after 1t was sub\nmitted.\"\n\n\nHe further announced that Ne\ngroes may be forced to re-\nexamine their support of the\nDemocratic party of which Mr..\nSmith is an ornament.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1970,
+                "y0": 1260,
+                "x1": 2735,
+                "y1": 1481
+            },
+            "class": "headline",
+            "raw_text": "WILKINS URGES\n\n\nRACE TO USE FORCE\nAT THE POLLS SOON",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3746,
+                "y0": 3336,
+                "x1": 4562,
+                "y1": 4332
+            },
+            "class": "article",
+            "raw_text": "Mrs. Ruth O Neil was chosen as\nchairman of the Maricopa c ounty\nBoard of Supervisors on Jan. E.\nShe succeeds Barney Burns. 1t\nis her third term as chairman.\n\n\nShe became the first woman\nsupervisor in Arizona in 1859\nwhen she vas appointed to COM\nplete the unexpired term of her\nhusband who died.\n\n\nAS District 8 supervisor she\nrepresents the entire western\nsection of the county, from Cen\ntrail Avenue east and including\nGlendale, Peoria, Avondale,\nBuckeye, Tolleson, Wickenburg\nand ella Bend.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3775,
+                "y0": 3145,
+                "x1": 4475,
+                "y1": 3314
+            },
+            "class": "headline",
+            "raw_text": "MRS. O'NEIL IS\nSUPERVISOR HEAD",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1976,
+                "y0": 3070,
+                "x1": 2798,
+                "y1": 4089
+            },
+            "class": "article",
+            "raw_text": "AUBURN, Alabama Harold\nFranklin of Montgomery, the first\nNegro student at Auburn Univer-\nsity, attended his first classes\nwithout incident Monday.\n\n\nA small group of state troop\ners we're on hand to assist city\nand college police. but federal\nagents, who had been barred from\ncampus by Gov. George Wallace,\nwatched nearby.\n\n\nFranklin, 81 yr. old graduate\nstudent is working towards mas\nter's degree in history and po-\nlitical science. He is living in\na men dormitory and hasn't\nexperienced any hostilities.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1976,
+                "y0": 2856,
+                "x1": 2752,
+                "y1": 3031
+            },
+            "class": "headline",
+            "raw_text": "NEGRO ATTENDS g.\nAUBURN UNIVERSITY",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1109,
+                "y0": 5395,
+                "x1": 1919,
+                "y1": 6298
+            },
+            "class": "article",
+            "raw_text": "ST. JOSEPH, Mo. = Voters in\nthis city have approved a city\nordinance prohibiting racial dis\nelimination in some places of\npublic accommodations.\n\n\nThey favored the lowering of\nracial bars in hotels, motels,\nrestaurants, and places of enter\ntainment by narrow margin\n5,O3l votes to 4, 1872.\n\n\nBut the measure, strongly sup\nported by Mayor Arthur ]. Meers,\nministerial groups, and the\npress, does not affect private\nclubs, beer halls and taverns.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1126,
+                "y0": 5198,
+                "x1": 1809,
+                "y1": 5367
+            },
+            "class": "headline",
+            "raw_text": "ANTI-BIAS LAW\nOK'D IN MISSOURI",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3740,
+                "y0": 1786,
+                "x1": 4562,
+                "y1": 3094
+            },
+            "class": "article",
+            "raw_text": "The engagement of Miss Kay\nFrancis Wilson and 1t. Isaac\nSanders Payne has been an\nnounced. The marriage is set in\nMarch.\n\n\nMiss Wilson Is the daughter of\nMr.. and Mrs. Charles w. Wilson\nAmarillo, Texas.\n\n\nHer fiance's parents are Mr..\nand Mrs. Isaac Payne, Portland,\nOre.\n\n\nShe is graduate of Arizona\nState University where she mai\nored in business administration.\nShe is a member of the Alpha\nKappa Alpha sorority.\n\n\nLy. Payne, a U. S. Air Force\nAcademy graduate, Is enrolled\nin pilot training at Williams Air\nForce Base. He Is a member\nof the Kappa Alpha Pts frater-\nnifty.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2861,
+                "y0": 1584,
+                "x1": 3683,
+                "y1": 4297
+            },
+            "class": "article",
+            "raw_text": "Senator Barry Coldwater, SIS\nyr. old Republican from Arizona,\nannounced last Friday thathe was\na candidate for his party s nomi-\nnation for the president.\n\n\nHis announcement came after\nhe had conferred with Republican\nstate party leaders and several\nfriends and his family.\n\n\nThe announcement was carried\nover television and radio by rep\nresentatives of national and local\ncommunication media.\n\n\nThe Arizona senator said he\nhad been asked by hundreds of\npersons since the last convention\nto run for the office. He said he\nhad taken considerable time be-\nfore making his decision.\n\n\nHe said, Zone of the great\nattributes of our American two\nparty system has always been\nthe reflected differences In prin-\nciple. AS a general rule, one party\nhas emphasized individual liberty\nand the other has favored the\nextension of government power.\nl am convinced that today a ma\niority in the Republican Party\nbelieves in the essential empha-\nsis on individual liberty.\n\n\nIL have been spelling our my\nposition now for 10 years in the\nSenate and for years before that\nhere in my own state. l will\nspell it out even further in the\nmonths to come. | was once\nasked what kind of Republican\nl was. l replied that | was not\na 'me-too' Republican. That still\nholds. will not change my be-\nliefs to win votes. | will offer\na choice, not an echo.\n\n\n\"This will not be an engage\nment of personalities. 1t will be\nan engagement of principles\"",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 212,
+                "y0": 5366,
+                "x1": 1029,
+                "y1": 6911
+            },
+            "class": "article",
+            "raw_text": "DALLAS, Texas = The state\nwide voter registration drive for\n100000 was opened Dec. 80 by\nthe National Association for the\nAdvancement of Colored People.\n\n\nNAACP representative VIC.\nPatton, helped organize and plan\nthe campaign. He said people\nfrom all Texas branches, and\nareas where there are no branch\nes, are engaged in the drive.\nMost efforts, however, are being\nconcentrated in East Texas, he\nadded.\n\n\nNAACP branches are seeking\nto have poll tax collectors depu-\ntized in every county where a\nbranch is located. In Texas, pay\nment of the poll tax qualities\ncitizen to vote. The last day for\npoll tax payment is January 81.\n\n\nSunday, January IL, has been\ndesignated as \"Poll Tax Empha-\nsis Day.\" Ministers and all or\nCARNATIONS have been urged to\nboserve this day.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 253,
+                "y0": 5192,
+                "x1": 797,
+                "y1": 5355
+            },
+            "class": "headline",
+            "raw_text": "DALLAS VOTE\n\n\nDRIVE BEGINS",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1120,
+                "y0": 6546,
+                "x1": 1931,
+                "y1": 7079
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Jim Brown of\nthe Cleveland Browns, who set\nnew all-time rushing records,\nwas awarded the Jim Thorpe\nTrophy as the outstanding ma\ntional Football League player of\nthe year. Also sharing the award\nwill be Y. \"A. Title, the New York\nGiants great quarterback.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1132,
+                "y0": 6366,
+                "x1": 1763,
+                "y1": 6524
+            },
+            "class": "headline",
+            "raw_text": "jim BROWN WINS\nTHORPE TROPHY",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3757,
+                "y0": 6123,
+                "x1": 4568,
+                "y1": 7113
+            },
+            "class": "article",
+            "raw_text": "MONROVIA, Liberia = Pres\nident William Tubman, 6S yr. old\nhead executive of Africa's old\nest republic begins his sixth four\nyear term.\n\n\nLiberia was founded by the\nAmerican Colonization Society\nwith freed slaves from the United\nStates in 1922. Nearly 10000\nfreedmen we're shipped to Ii\nIBERIA. The country has a popu-\nlation today of almost one mil\nlion.\n\n\nTubman became president In\n1914. He is responsible for much\nof the progress in the small\npoor nation.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3780,
+                "y0": 5886,
+                "x1": 4550,
+                "y1": 6096
+            },
+            "class": "headline",
+            "raw_text": "TUBMAN BEGINS\nSIXTH TERM AS\nLIBERIAN PRESIDENT",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 195,
+                "y0": 2636,
+                "x1": 1879,
+                "y1": 3193
+            },
+            "class": "article",
+            "raw_text": "Voguees began the year with contribution to the\npresented Mrs Mae\nMccarthy, 1884 E. Jefferson St.\n\n\nMesdames Rosa L. Dshroo Martha Johnson\nYoung Marge Jones' vice president\nand Sybl Perkins.\n\n\nMccarthy and Mrs Arvella Bledsoe pres\ncheck The meeting held the home Mrs.\nInez Young 733 So. 10 Ave.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 2011,
+                "y0": 6505,
+                "x1": 2827,
+                "y1": 6882
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS Jefferson\nDavis, A, the first person to\nlive with kidneys transplanted\nfrom chimpanzee died of pneu-\nmonia Monday.\n\n\nDavis had lived eight weeks",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964011001_0253",
+    "full articles": [
+        {
+            "object_ids": [
+                24,
+                32
+            ],
+            "headline": "MAN WITH CHIMP\nKIDNEYS DIES",
+            "article": "with kidneys from a primate. He\nspent Christmas at home with his\nfamily following the successful\noperation. IT,\n\n\nPhysicians said the chimp kid\nneys we're still functioning at the\ntime of death.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2560,
+                    "y0": 6326,
+                    "x1": 3215,
+                    "y1": 6483
+                },
+                {
+                    "x0": 2872,
+                    "y0": 6499,
+                    "x1": 3683,
+                    "y1": 6911
+                }
+            ],
+            "bbox": [
+                2560,
+                6326,
+                3683,
+                6911
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "WILKINS URGES\n\n\nRACE TO USE FORCE\nAT THE POLLS SOON",
+            "article": "NEW YORK-Roy Wilkins, exc\ncutive secretary of the National\nAssociation for the Advancement\nof Colored People, indicated Ne\ngroes may play politics at the\npolls in November if the civil\nrights legislation stalled.\n\n\nAt the annual NAACP meet\ning wilkins said. Although\nPresident Johnson has given the\ncivil rights bill top priority there\nis every indication that the House\nrules committee under Chairman\nHoward Smith of Virginia, may\nnot finish action on this bill seven\nfull months after 1t was sub\nmitted.\"\n\n\nHe further announced that Ne\ngroes may be forced to re-\nexamine their support of the\nDemocratic party of which Mr..\nSmith is an ornament.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 1260,
+                    "x1": 2735,
+                    "y1": 1481
+                },
+                {
+                    "x0": 1959,
+                    "y0": 1491,
+                    "x1": 2781,
+                    "y1": 2799
+                }
+            ],
+            "bbox": [
+                1959,
+                1260,
+                2781,
+                2799
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "MRS. O'NEIL IS\nSUPERVISOR HEAD",
+            "article": "Mrs. Ruth O Neil was chosen as\nchairman of the Maricopa c ounty\nBoard of Supervisors on Jan. E.\nShe succeeds Barney Burns. 1t\nis her third term as chairman.\n\n\nShe became the first woman\nsupervisor in Arizona in 1859\nwhen she vas appointed to COM\nplete the unexpired term of her\nhusband who died.\n\n\nAS District 8 supervisor she\nrepresents the entire western\nsection of the county, from Cen\ntrail Avenue east and including\nGlendale, Peoria, Avondale,\nBuckeye, Tolleson, Wickenburg\nand ella Bend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3775,
+                    "y0": 3145,
+                    "x1": 4475,
+                    "y1": 3314
+                },
+                {
+                    "x0": 3746,
+                    "y0": 3336,
+                    "x1": 4562,
+                    "y1": 4332
+                }
+            ],
+            "bbox": [
+                3746,
+                3145,
+                4562,
+                4332
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                20,
+                5
+            ],
+            "headline": "NEGRO ATTENDS g.\nAUBURN UNIVERSITY",
+            "article": "AUBURN, Alabama Harold\nFranklin of Montgomery, the first\nNegro student at Auburn Univer-\nsity, attended his first classes\nwithout incident Monday.\n\n\nA small group of state troop\ners we're on hand to assist city\nand college police. but federal\nagents, who had been barred from\ncampus by Gov. George Wallace,\nwatched nearby.\n\n\nFranklin, 81 yr. old graduate\nstudent is working towards mas\nter's degree in history and po-\nlitical science. He is living in\na men dormitory and hasn't\nexperienced any hostilities.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1976,
+                    "y0": 2856,
+                    "x1": 2752,
+                    "y1": 3031
+                },
+                {
+                    "x0": 1976,
+                    "y0": 3070,
+                    "x1": 2798,
+                    "y1": 4089
+                }
+            ],
+            "bbox": [
+                1976,
+                2856,
+                2798,
+                4089
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "ANTI-BIAS LAW\nOK'D IN MISSOURI",
+            "article": "ST. JOSEPH, Mo. = Voters in\nthis city have approved a city\nordinance prohibiting racial dis\nelimination in some places of\npublic accommodations.\n\n\nThey favored the lowering of\nracial bars in hotels, motels,\nrestaurants, and places of enter\ntainment by narrow margin\n5,O3l votes to 4, 1872.\n\n\nBut the measure, strongly sup\nported by Mayor Arthur ]. Meers,\nministerial groups, and the\npress, does not affect private\nclubs, beer halls and taverns.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1126,
+                    "y0": 5198,
+                    "x1": 1809,
+                    "y1": 5367
+                },
+                {
+                    "x0": 1109,
+                    "y0": 5395,
+                    "x1": 1919,
+                    "y1": 6298
+                }
+            ],
+            "bbox": [
+                1109,
+                5198,
+                1919,
+                6298
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "The engagement of Miss Kay\nFrancis Wilson and 1t. Isaac\nSanders Payne has been an\nnounced. The marriage is set in\nMarch.\n\n\nMiss Wilson Is the daughter of\nMr.. and Mrs. Charles w. Wilson\nAmarillo, Texas.\n\n\nHer fiance's parents are Mr..\nand Mrs. Isaac Payne, Portland,\nOre.\n\n\nShe is graduate of Arizona\nState University where she mai\nored in business administration.\nShe is a member of the Alpha\nKappa Alpha sorority.\n\n\nLy. Payne, a U. S. Air Force\nAcademy graduate, Is enrolled\nin pilot training at Williams Air\nForce Base. He Is a member\nof the Kappa Alpha Pts frater-\nnifty.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3740,
+                    "y0": 1786,
+                    "x1": 4562,
+                    "y1": 3094
+                }
+            ],
+            "bbox": [
+                3740,
+                1786,
+                4562,
+                3094
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Senator Barry Coldwater, SIS\nyr. old Republican from Arizona,\nannounced last Friday thathe was\na candidate for his party s nomi-\nnation for the president.\n\n\nHis announcement came after\nhe had conferred with Republican\nstate party leaders and several\nfriends and his family.\n\n\nThe announcement was carried\nover television and radio by rep\nresentatives of national and local\ncommunication media.\n\n\nThe Arizona senator said he\nhad been asked by hundreds of\npersons since the last convention\nto run for the office. He said he\nhad taken considerable time be-\nfore making his decision.\n\n\nHe said, Zone of the great\nattributes of our American two\nparty system has always been\nthe reflected differences In prin-\nciple. AS a general rule, one party\nhas emphasized individual liberty\nand the other has favored the\nextension of government power.\nl am convinced that today a ma\niority in the Republican Party\nbelieves in the essential empha-\nsis on individual liberty.\n\n\nIL have been spelling our my\nposition now for 10 years in the\nSenate and for years before that\nhere in my own state. l will\nspell it out even further in the\nmonths to come. | was once\nasked what kind of Republican\nl was. l replied that | was not\na 'me-too' Republican. That still\nholds. will not change my be-\nliefs to win votes. | will offer\na choice, not an echo.\n\n\n\"This will not be an engage\nment of personalities. 1t will be\nan engagement of principles\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2861,
+                    "y0": 1584,
+                    "x1": 3683,
+                    "y1": 4297
+                }
+            ],
+            "bbox": [
+                2861,
+                1584,
+                3683,
+                4297
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                23,
+                9
+            ],
+            "headline": "DALLAS VOTE\n\n\nDRIVE BEGINS",
+            "article": "DALLAS, Texas = The state\nwide voter registration drive for\n100000 was opened Dec. 80 by\nthe National Association for the\nAdvancement of Colored People.\n\n\nNAACP representative VIC.\nPatton, helped organize and plan\nthe campaign. He said people\nfrom all Texas branches, and\nareas where there are no branch\nes, are engaged in the drive.\nMost efforts, however, are being\nconcentrated in East Texas, he\nadded.\n\n\nNAACP branches are seeking\nto have poll tax collectors depu-\ntized in every county where a\nbranch is located. In Texas, pay\nment of the poll tax qualities\ncitizen to vote. The last day for\npoll tax payment is January 81.\n\n\nSunday, January IL, has been\ndesignated as \"Poll Tax Empha-\nsis Day.\" Ministers and all or\nCARNATIONS have been urged to\nboserve this day.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 253,
+                    "y0": 5192,
+                    "x1": 797,
+                    "y1": 5355
+                },
+                {
+                    "x0": 212,
+                    "y0": 5366,
+                    "x1": 1029,
+                    "y1": 6911
+                }
+            ],
+            "bbox": [
+                212,
+                5192,
+                1029,
+                6911
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                22,
+                10
+            ],
+            "headline": "jim BROWN WINS\nTHORPE TROPHY",
+            "article": "NEW YORK = Jim Brown of\nthe Cleveland Browns, who set\nnew all-time rushing records,\nwas awarded the Jim Thorpe\nTrophy as the outstanding ma\ntional Football League player of\nthe year. Also sharing the award\nwill be Y. \"A. Title, the New York\nGiants great quarterback.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1132,
+                    "y0": 6366,
+                    "x1": 1763,
+                    "y1": 6524
+                },
+                {
+                    "x0": 1120,
+                    "y0": 6546,
+                    "x1": 1931,
+                    "y1": 7079
+                }
+            ],
+            "bbox": [
+                1120,
+                6366,
+                1931,
+                7079
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                26,
+                13
+            ],
+            "headline": "TUBMAN BEGINS\nSIXTH TERM AS\nLIBERIAN PRESIDENT",
+            "article": "MONROVIA, Liberia = Pres\nident William Tubman, 6S yr. old\nhead executive of Africa's old\nest republic begins his sixth four\nyear term.\n\n\nLiberia was founded by the\nAmerican Colonization Society\nwith freed slaves from the United\nStates in 1922. Nearly 10000\nfreedmen we're shipped to Ii\nIBERIA. The country has a popu-\nlation today of almost one mil\nlion.\n\n\nTubman became president In\n1914. He is responsible for much\nof the progress in the small\npoor nation.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3780,
+                    "y0": 5886,
+                    "x1": 4550,
+                    "y1": 6096
+                },
+                {
+                    "x0": 3757,
+                    "y0": 6123,
+                    "x1": 4568,
+                    "y1": 7113
+                }
+            ],
+            "bbox": [
+                3757,
+                5886,
+                4568,
+                7113
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "Voguees began the year with contribution to the\npresented Mrs Mae\nMccarthy, 1884 E. Jefferson St.\n\n\nMesdames Rosa L. Dshroo Martha Johnson\nYoung Marge Jones' vice president\nand Sybl Perkins.\n\n\nMccarthy and Mrs Arvella Bledsoe pres\ncheck The meeting held the home Mrs.\nInez Young 733 So. 10 Ave.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 195,
+                    "y0": 2636,
+                    "x1": 1879,
+                    "y1": 3193
+                }
+            ],
+            "bbox": [
+                195,
+                2636,
+                1879,
+                3193
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "NEW ORLEANS Jefferson\nDavis, A, the first person to\nlive with kidneys transplanted\nfrom chimpanzee died of pneu-\nmonia Monday.\n\n\nDavis had lived eight weeks",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2011,
+                    "y0": 6505,
+                    "x1": 2827,
+                    "y1": 6882
+                }
+            ],
+            "bbox": [
+                2011,
+                6505,
+                2827,
+                6882
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-01-10_pna_sn84021918_0041421695A_1964011001_0253.json"
+        }
+    ]
+}

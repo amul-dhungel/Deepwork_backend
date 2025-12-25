@@ -1,0 +1,526 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964070301/0457.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7465,
+        "width": 4948
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 240,
+                "y0": 3580,
+                "x1": 1057,
+                "y1": 4654
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - The United\nStates Steel Foundation has an\nnounced a gift of $4,000 in\noperating aid to predominantly\nNegro colleges. including all\nmembers Of the United Negro\nCollege Fund, for l964-65. This\nbrings the ll-year total Of such\naid to about 100000. In addi-\nton, for capital. project. and\nother needs, $2l8,000 has been\nmade available for Negro educa-\ntion during the same period.\n\n\nThis year further commit\nment of up to 100000 has been\nmade, the bulk of which goes to\nthe UNCF $50 million capital\ncampaign. The current and past",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 415,
+                "y0": 3411,
+                "x1": 1722,
+                "y1": 3546
+            },
+            "class": "headline",
+            "raw_text": "US. Steel Foundation Grants",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1144,
+                "y0": 3580,
+                "x1": 1967,
+                "y1": 4590
+            },
+            "class": "article",
+            "raw_text": "aid to Negro education. includ-\ning grants for both operating and\nspecial needs. now totals more\nthan three quarters of million\ndollars.\n\n\nThe Negro schools receiving\naid are among $50 institutions\nand % organizations aided by\nthe Steel Foundation this year.\nIn this connection, Roger Blough.\nchairman of the u. S. Steel Foun-\ndation's board of trustees COM\nmented, lit is timely to note that\nu. S. Steel has long tried to carry\na just share Of responsibility for\nadvancing the role of the Negro\nin American life.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2013,
+                "y0": 2466,
+                "x1": 2842,
+                "y1": 4293
+            },
+            "class": "article",
+            "raw_text": "NEW YORK During the past\nten years. American Negroes\nhave broadened their travel hor-\nlions to include the Caribbean\nand Europe. AS lower fares be-\ncome effective no part Of the\nworld will be too far for those\nwith dreams of far-away places\nand moderate budgets, stated a\nleading travel executive.\n\n\nCelebrating his tenth anniver-\nsary as the head Of a New York\ntravel firm, Hilton G. Hill. pres\nident of the firm bearing his\nname, has become specialist\nin international travel planning.\n\n\nConsidered \"America's most\nexperienced Negro-owned and\noperated travel agency\" the Hill\nfirm operates from midtown\nManhattan offic\n\n\nAnd Street in New York City.\n\n\nHill formed Hilton G. Hill,\nInc, in Bermuda in le49. and\ntransferred it to New York City\nin 1854. In these ten years,\naccording to MIR. Hill, while bus\nand train tours have remained\nas the most organized travel by\nNegroes in the United States,\nthere has been a definite trend",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 240,
+                "y0": 2256,
+                "x1": 1920,
+                "y1": 3371
+            },
+            "class": "article",
+            "raw_text": "Top row efCity councilman Jay Hyde presents keys\nthe city Emmett Harrison.\n\n\nthe PISA Emmett Harrison.\nstate president Smith, Mrs. Buena V. Kelly\nsecretary obson Reynolds grand exalted ruler and Mrs.\nNette B. Smith, grand DIT. ruler, of New York City.\n\n\nRghCrowng of the Queen PSA Emmett Harrison and Mrs.\nMEroy Carnaon Lady of Grand Canyon Temple\n\n\nleftAt the banquet Sammie Warren. newly elected\nPRESIDENT Backshear ruler Grand Canyon\nTemple Mrs. Bertha Trpe organizer\nauxiliary of the PISA.\n\n\nddleLng their voices members of Grand Canyon\nTemple choir during the neurology services.\n\n\nMesdames Nina Burton Ruby Backhear Clara Long,\nMccoy Mary Gertrude Clements Ciny Weaver Essie\nRichie, Lillian Fit and Esther McEroy.\n\n\nRighMrs Maple Lee Pratt. Mr.. and Mrs. c. l. Smith relax\nafter the festivities.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2934,
+                "y0": 4432,
+                "x1": 3746,
+                "y1": 5203
+            },
+            "class": "article",
+            "raw_text": "Dear Mr.. Banks:\n\n\nRenew my subscription for two\nyears. Wishing you many more\nyears of continued success.\n\n\nMrs. B. w. Williams\n\n\nVallejo, California\nMr.. Banks:\n\n\ndo appreciate everyone that\nhas helped me since my home\nburned on the 18th Of April.\nThanks again.\n\n\nMrs. Ardelia Wilson\n\n\n8l4 W. Yuma",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3051,
+                "y0": 4327,
+                "x1": 3612,
+                "y1": 4421
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3780,
+                "y0": 740,
+                "x1": 4603,
+                "y1": 4596
+            },
+            "class": "article",
+            "raw_text": "Mrs. Dolores Cioggins, OF Buff\nfalo. N.Y.. and Mrs. Winifred\nAllen, of Detroit. Mich. are\nhouseguests of Mrs. Eddie\nJay. They plan to motor to\nMexico for the holiday.\n\n\nMrs. Eloise White is going to\nrelax for a few weeks at Laguna\nBeach, Calf.\n\n\nAn old fashioned barbecue will\nbe sponsored on July Fourth at\nEastlake Park by the Salt VAL\nley Lodge IA FAM. ]. E. John\nson Is the president.\n\n\nDeparting this week for an\nextended visit in the midwest and\neast are MIR. and Mrs. Rogers\nJohnson. They will see the\nWorlds Fair.\n\n\nMISS Joan Cochran jetted to\nLos Angeles to visit family and\nfriends for the Fourth Of July.\n\n\nMrs. M. Lamb, Of Frest, Mss.\nis visiting her sister. Mrs. Eliz-\nabeth Turner and other relatives\nin the city.\n\n\nMiss Delois Henry and Frank\nlin Pegram married July l. Her\nparents are Mrs. Addie Doris\nand Alden Henry.\n\n\nThe groom's mother is Mrs.\nAnna Harris, of Pittsburg, Va.\n\n\nMIR. and Mrs. Jerome Powell\nwent to Tucson to pick up their\nson., John. who has been visiting\nrelatives there.\n\n\nMrs. Willie Lester. and daugh-\nter, Gertrude, of Los Angeles.\nare visiting Mrs. Elizabeth Mich\nOILS and relatives.\n\n\nMrs. Marg Bolton and Mrs.\nDoris Neal are attending the\nwedding of Miss Alice Jean Wash\nington in Tucson Saturday.\n\n\nEveryone is happy that M. D.\nKing has returned from Las\nVegas.\n\n\nThe wait Of the year--A friend\nof mine has been waiting for\"\nover 20 years to returnt to school.\nShe has recently enrolled in nurs-\ning school. Good Luck. I'm pull\ning for you.\n\n\nWe are expecting all Of our\nfriends and especially former\nDebonairs at our annual Sadie\nHawkins dance Sat-, July 4th at\nAbel Hall.\n\n\nCongratulations to the men and\nwomen Elks of Phoenix for host\ning a great PISA convention. We\nall are proud of you. Hats Off\nto the Elks.\n\n\nCall me for items in this COL\numn at AL 8-05ll-daytime and\n258-O005 evenings.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3774,
+                "y0": 449,
+                "x1": 4312,
+                "y1": 695
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nby FIoro Ruffin",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2888,
+                "y0": 2461,
+                "x1": 3723,
+                "y1": 4322
+            },
+            "class": "article",
+            "raw_text": "to transatlantic air and surface.\ntravel.\n\n\n\"While the conversion Of Ne\ngroes to glying has been slow,\nit is nonetheless increasing\"\nstated Hill, \"and today Negro\nbusinessmen, vacationers. Peace\nCorps representatives and gov\neminent officials are finding 1t\na safe, pleasant, and fast mode\nof travel to foreign lands for\nbusiness and pleasure\"\n\n\nA former member Of the Ber-\nmuda Parliament (1953-1e58),\nand currently president of the\nInter-American Travel Agents\nSociety QATAS). Hill believes\nthat with the lowest air fares In\nyears, the price advantage Will\nafford many Negroes, where In\ncomes, while moderate. are\ngrowing, the opportunity to visit\nhistorical and pleasure sites in\nEurope.\n\n\nWhile rates to Europe will be\nlower, Hill stated that rates to\nthe Caribbean are also being\nreduced. The Caribbean has long\nenjoyed a steadily increasing\ntraffic by Negroes. especially at\nsuch times as Trinidad s Carni-\nval.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2188,
+                "y0": 2303,
+                "x1": 3472,
+                "y1": 2427
+            },
+            "class": "headline",
+            "raw_text": "Neuroes Travel Abroad More",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3815,
+                "y0": 4863,
+                "x1": 4615,
+                "y1": 5179
+            },
+            "class": "article",
+            "raw_text": "LONDON-Pvt. O. w. Cowell,\na 26 yr. old jamaican. has be-\ncome the first Negro member Of\na British army regiment to stand\nguard at Buckingham Palace.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3821,
+                "y0": 4630,
+                "x1": 4393,
+                "y1": 4824
+            },
+            "class": "headline",
+            "raw_text": "Jumuciun Stunds\nCuurd At Palace",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2077,
+                "y0": 4764,
+                "x1": 2859,
+                "y1": 5401
+            },
+            "class": "article",
+            "raw_text": "GOLD BOND\nPRESSING COMPOUND WITH\n\n\nLANOLIN 3Sc PLUS TAX\nBERGAMOT\nDRESS FOR BEAUTIFUL\nTRESSES 35c PLUS TAX .\nTHROUGH Your LOCAL\nWnoLEsALE DIsrRIsuroR\nCLAupis HILL. PRESIDENT\n2a30 ANDERSON OF.\nDALLAS 10. TEXAS\nkkkkkkkk&kkR&kkkkkk'",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2065,
+                "y0": 4315,
+                "x1": 2813,
+                "y1": 4538
+            },
+            "class": "headline",
+            "raw_text": "GIVE TO YOUR\nCANCER SOCIETY",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2071,
+                "y0": 4589,
+                "x1": 2848,
+                "y1": 4765
+            },
+            "class": "headline",
+            "raw_text": "HILL EGYPTIAN\n\n\nHAIR OIL COMPANY",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-07-03"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "US. Steel Foundation Grants",
+            "article": "NEW YORK - The United\nStates Steel Foundation has an\nnounced a gift of $4,000 in\noperating aid to predominantly\nNegro colleges. including all\nmembers Of the United Negro\nCollege Fund, for l964-65. This\nbrings the ll-year total Of such\naid to about 100000. In addi-\nton, for capital. project. and\nother needs, $2l8,000 has been\nmade available for Negro educa-\ntion during the same period.\n\n\nThis year further commit\nment of up to 100000 has been\nmade, the bulk of which goes to\nthe UNCF $50 million capital\ncampaign. The current and past",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 415,
+                    "y0": 3411,
+                    "x1": 1722,
+                    "y1": 3546
+                },
+                {
+                    "x0": 240,
+                    "y0": 3580,
+                    "x1": 1057,
+                    "y1": 4654
+                }
+            ],
+            "bbox": [
+                240,
+                3411,
+                1722,
+                4654
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "aid to Negro education. includ-\ning grants for both operating and\nspecial needs. now totals more\nthan three quarters of million\ndollars.\n\n\nThe Negro schools receiving\naid are among $50 institutions\nand % organizations aided by\nthe Steel Foundation this year.\nIn this connection, Roger Blough.\nchairman of the u. S. Steel Foun-\ndation's board of trustees COM\nmented, lit is timely to note that\nu. S. Steel has long tried to carry\na just share Of responsibility for\nadvancing the role of the Negro\nin American life.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1144,
+                    "y0": 3580,
+                    "x1": 1967,
+                    "y1": 4590
+                }
+            ],
+            "bbox": [
+                1144,
+                3580,
+                1967,
+                4590
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "NEW YORK During the past\nten years. American Negroes\nhave broadened their travel hor-\nlions to include the Caribbean\nand Europe. AS lower fares be-\ncome effective no part Of the\nworld will be too far for those\nwith dreams of far-away places\nand moderate budgets, stated a\nleading travel executive.\n\n\nCelebrating his tenth anniver-\nsary as the head Of a New York\ntravel firm, Hilton G. Hill. pres\nident of the firm bearing his\nname, has become specialist\nin international travel planning.\n\n\nConsidered \"America's most\nexperienced Negro-owned and\noperated travel agency\" the Hill\nfirm operates from midtown\nManhattan offic\n\n\nAnd Street in New York City.\n\n\nHill formed Hilton G. Hill,\nInc, in Bermuda in le49. and\ntransferred it to New York City\nin 1854. In these ten years,\naccording to MIR. Hill, while bus\nand train tours have remained\nas the most organized travel by\nNegroes in the United States,\nthere has been a definite trend",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2013,
+                    "y0": 2466,
+                    "x1": 2842,
+                    "y1": 4293
+                }
+            ],
+            "bbox": [
+                2013,
+                2466,
+                2842,
+                4293
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Top row efCity councilman Jay Hyde presents keys\nthe city Emmett Harrison.\n\n\nthe PISA Emmett Harrison.\nstate president Smith, Mrs. Buena V. Kelly\nsecretary obson Reynolds grand exalted ruler and Mrs.\nNette B. Smith, grand DIT. ruler, of New York City.\n\n\nRghCrowng of the Queen PSA Emmett Harrison and Mrs.\nMEroy Carnaon Lady of Grand Canyon Temple\n\n\nleftAt the banquet Sammie Warren. newly elected\nPRESIDENT Backshear ruler Grand Canyon\nTemple Mrs. Bertha Trpe organizer\nauxiliary of the PISA.\n\n\nddleLng their voices members of Grand Canyon\nTemple choir during the neurology services.\n\n\nMesdames Nina Burton Ruby Backhear Clara Long,\nMccoy Mary Gertrude Clements Ciny Weaver Essie\nRichie, Lillian Fit and Esther McEroy.\n\n\nRighMrs Maple Lee Pratt. Mr.. and Mrs. c. l. Smith relax\nafter the festivities.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 240,
+                    "y0": 2256,
+                    "x1": 1920,
+                    "y1": 3371
+                }
+            ],
+            "bbox": [
+                240,
+                2256,
+                1920,
+                3371
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "",
+            "article": "Dear Mr.. Banks:\n\n\nRenew my subscription for two\nyears. Wishing you many more\nyears of continued success.\n\n\nMrs. B. w. Williams\n\n\nVallejo, California\nMr.. Banks:\n\n\ndo appreciate everyone that\nhas helped me since my home\nburned on the 18th Of April.\nThanks again.\n\n\nMrs. Ardelia Wilson\n\n\n8l4 W. Yuma",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3051,
+                    "y0": 4327,
+                    "x1": 3612,
+                    "y1": 4421
+                },
+                {
+                    "x0": 2934,
+                    "y0": 4432,
+                    "x1": 3746,
+                    "y1": 5203
+                }
+            ],
+            "bbox": [
+                2934,
+                4327,
+                3746,
+                5203
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                9,
+                7
+            ],
+            "headline": "All Around\n\n\nby FIoro Ruffin",
+            "article": "Mrs. Dolores Cioggins, OF Buff\nfalo. N.Y.. and Mrs. Winifred\nAllen, of Detroit. Mich. are\nhouseguests of Mrs. Eddie\nJay. They plan to motor to\nMexico for the holiday.\n\n\nMrs. Eloise White is going to\nrelax for a few weeks at Laguna\nBeach, Calf.\n\n\nAn old fashioned barbecue will\nbe sponsored on July Fourth at\nEastlake Park by the Salt VAL\nley Lodge IA FAM. ]. E. John\nson Is the president.\n\n\nDeparting this week for an\nextended visit in the midwest and\neast are MIR. and Mrs. Rogers\nJohnson. They will see the\nWorlds Fair.\n\n\nMISS Joan Cochran jetted to\nLos Angeles to visit family and\nfriends for the Fourth Of July.\n\n\nMrs. M. Lamb, Of Frest, Mss.\nis visiting her sister. Mrs. Eliz-\nabeth Turner and other relatives\nin the city.\n\n\nMiss Delois Henry and Frank\nlin Pegram married July l. Her\nparents are Mrs. Addie Doris\nand Alden Henry.\n\n\nThe groom's mother is Mrs.\nAnna Harris, of Pittsburg, Va.\n\n\nMIR. and Mrs. Jerome Powell\nwent to Tucson to pick up their\nson., John. who has been visiting\nrelatives there.\n\n\nMrs. Willie Lester. and daugh-\nter, Gertrude, of Los Angeles.\nare visiting Mrs. Elizabeth Mich\nOILS and relatives.\n\n\nMrs. Marg Bolton and Mrs.\nDoris Neal are attending the\nwedding of Miss Alice Jean Wash\nington in Tucson Saturday.\n\n\nEveryone is happy that M. D.\nKing has returned from Las\nVegas.\n\n\nThe wait Of the year--A friend\nof mine has been waiting for\"\nover 20 years to returnt to school.\nShe has recently enrolled in nurs-\ning school. Good Luck. I'm pull\ning for you.\n\n\nWe are expecting all Of our\nfriends and especially former\nDebonairs at our annual Sadie\nHawkins dance Sat-, July 4th at\nAbel Hall.\n\n\nCongratulations to the men and\nwomen Elks of Phoenix for host\ning a great PISA convention. We\nall are proud of you. Hats Off\nto the Elks.\n\n\nCall me for items in this COL\numn at AL 8-05ll-daytime and\n258-O005 evenings.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3774,
+                    "y0": 449,
+                    "x1": 4312,
+                    "y1": 695
+                },
+                {
+                    "x0": 3780,
+                    "y0": 740,
+                    "x1": 4603,
+                    "y1": 4596
+                }
+            ],
+            "bbox": [
+                3774,
+                449,
+                4603,
+                4596
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                18,
+                8
+            ],
+            "headline": "Neuroes Travel Abroad More",
+            "article": "to transatlantic air and surface.\ntravel.\n\n\n\"While the conversion Of Ne\ngroes to glying has been slow,\nit is nonetheless increasing\"\nstated Hill, \"and today Negro\nbusinessmen, vacationers. Peace\nCorps representatives and gov\neminent officials are finding 1t\na safe, pleasant, and fast mode\nof travel to foreign lands for\nbusiness and pleasure\"\n\n\nA former member Of the Ber-\nmuda Parliament (1953-1e58),\nand currently president of the\nInter-American Travel Agents\nSociety QATAS). Hill believes\nthat with the lowest air fares In\nyears, the price advantage Will\nafford many Negroes, where In\ncomes, while moderate. are\ngrowing, the opportunity to visit\nhistorical and pleasure sites in\nEurope.\n\n\nWhile rates to Europe will be\nlower, Hill stated that rates to\nthe Caribbean are also being\nreduced. The Caribbean has long\nenjoyed a steadily increasing\ntraffic by Negroes. especially at\nsuch times as Trinidad s Carni-\nval.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2188,
+                    "y0": 2303,
+                    "x1": 3472,
+                    "y1": 2427
+                },
+                {
+                    "x0": 2888,
+                    "y0": 2461,
+                    "x1": 3723,
+                    "y1": 4322
+                }
+            ],
+            "bbox": [
+                2188,
+                2303,
+                3723,
+                4322
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                12,
+                10
+            ],
+            "headline": "Jumuciun Stunds\nCuurd At Palace",
+            "article": "LONDON-Pvt. O. w. Cowell,\na 26 yr. old jamaican. has be-\ncome the first Negro member Of\na British army regiment to stand\nguard at Buckingham Palace.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3821,
+                    "y0": 4630,
+                    "x1": 4393,
+                    "y1": 4824
+                },
+                {
+                    "x0": 3815,
+                    "y0": 4863,
+                    "x1": 4615,
+                    "y1": 5179
+                }
+            ],
+            "bbox": [
+                3815,
+                4630,
+                4615,
+                5179
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        },
+        {
+            "object_ids": [
+                13,
+                22,
+                19
+            ],
+            "headline": "GIVE TO YOUR\nCANCER SOCIETY\n\nHILL EGYPTIAN\n\n\nHAIR OIL COMPANY",
+            "article": "GOLD BOND\nPRESSING COMPOUND WITH\n\n\nLANOLIN 3Sc PLUS TAX\nBERGAMOT\nDRESS FOR BEAUTIFUL\nTRESSES 35c PLUS TAX .\nTHROUGH Your LOCAL\nWnoLEsALE DIsrRIsuroR\nCLAupis HILL. PRESIDENT\n2a30 ANDERSON OF.\nDALLAS 10. TEXAS\nkkkkkkkk&kkR&kkkkkk'",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2065,
+                    "y0": 4315,
+                    "x1": 2813,
+                    "y1": 4538
+                },
+                {
+                    "x0": 2071,
+                    "y0": 4589,
+                    "x1": 2848,
+                    "y1": 4765
+                },
+                {
+                    "x0": 2077,
+                    "y0": 4764,
+                    "x1": 2859,
+                    "y1": 5401
+                }
+            ],
+            "bbox": [
+                2065,
+                4315,
+                2859,
+                5401
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-07-03_p1_sn84021918_0041421695A_1964070301_0457.json"
+        }
+    ]
+}

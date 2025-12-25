@@ -1,0 +1,134 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050101/0384.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4813
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2169,
+                "y0": 2528,
+                "x1": 2986,
+                "y1": 3171
+            },
+            "class": "article",
+            "raw_text": "QUINCY, ILL. Negro author\nLouis Lomax said a more mill\ntant civil rights march on Wash\nington may occur unless Con-\ngress approves the civil rights\nbill.\n\n\nLomax was here to take part\nin \"Walk for Decency,\" spon-\nsored by the National Associa-\nton for the Advancement of col\nord People.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2192,
+                "y0": 2343,
+                "x1": 2812,
+                "y1": 2506
+            },
+            "class": "headline",
+            "raw_text": "Author w arms OF\nMiIitunf Action",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2175,
+                "y0": 1863,
+                "x1": 2991,
+                "y1": 2321
+            },
+            "class": "article",
+            "raw_text": "William Wright, 1888 W. Had\nley, has retired from Mountain\nStates Telephone after more than\nIs years with the utility. He re-\ntires as stockman.\n\n\nA native of Cameron, Texas,\nWright first came to Phoenix\nin 1913.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-01"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "Author w arms OF\nMiIitunf Action",
+            "article": "QUINCY, ILL. Negro author\nLouis Lomax said a more mill\ntant civil rights march on Wash\nington may occur unless Con-\ngress approves the civil rights\nbill.\n\n\nLomax was here to take part\nin \"Walk for Decency,\" spon-\nsored by the National Associa-\nton for the Advancement of col\nord People.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2192,
+                    "y0": 2343,
+                    "x1": 2812,
+                    "y1": 2506
+                },
+                {
+                    "x0": 2169,
+                    "y0": 2528,
+                    "x1": 2986,
+                    "y1": 3171
+                }
+            ],
+            "bbox": [
+                2169,
+                2343,
+                2986,
+                3171
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-01_p1_sn84021918_0041421695A_1964050101_0384.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "William Wright, 1888 W. Had\nley, has retired from Mountain\nStates Telephone after more than\nIs years with the utility. He re-\ntires as stockman.\n\n\nA native of Cameron, Texas,\nWright first came to Phoenix\nin 1913.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2175,
+                    "y0": 1863,
+                    "x1": 2991,
+                    "y1": 2321
+                }
+            ],
+            "bbox": [
+                2175,
+                1863,
+                2991,
+                2321
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-01_p1_sn84021918_0041421695A_1964050101_0384.json"
+        }
+    ]
+}

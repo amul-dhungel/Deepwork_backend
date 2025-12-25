@@ -1,0 +1,373 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-14",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7443,
+        "width": 4893,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-14",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964081401/0515.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1969,
+                "y0": 593,
+                "x1": 2802,
+                "y1": 3763
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Jim Titus and\ntheir son, Orson, flew to Denver\nfor the weekend.\n\n\nPhoenicians attending the Jack\nand jill Of America convention\nin San Francisco are Mrs. Rich\nard Hicks, Rickie Dean Hicks,\nMrs. John H. Weber, Sr., John\nWeber, Jr., and Bryan Weber.\nThey went by plane this week.\n\n\nMIR. and Mrs. A. Donohue\nmotored to the East coast. They\nwill visit the Worlds Fair in\nNew York.\n\n\nMr.. and Mrs. James Oliver, of\nSan Francisco have ended their\nextended visit in the city where\nthey were guests Of his sister.\nMrs. Florine Jeffery. and bro\nthere's Charles and Fred Oliver.\n\n\nMr.. and Mrs. Robert Banks,\nSr., will drive to Santa Fe, New\nMexico. They plan to see the\nIndian powwow at Gallup, where\nthey will be the houseguests Of the\nLeslie Hugheses.\n\n\nRev. and Mrs. Charles Favors\nwere honored by relatives and\nfriends on the golden wedding an\nniversary. The visits and gifts\nmade Mrs. Favors feel better.\n\n\nYour reporter invites you to at\ntend the gigantic muscial which\nwill be held Sat-, Aug. Is at\nSt. Johns Baptist Church, 1916\nSo. 18th Ave., 8 pm. 1t Is part\nof the program celebrating the\n23rd anniversary of our pastor\nand his wife. Rev. and Mrs. L.\n]. Dunbar. 1t is spoons ored jointly\nby the Senior and Junior Choirs.\n\n\nSome club member will be\nhonored by the Debonairs Social\nand Art Club Saturday night at\nthe regular birthday event.\n\n\nThought of the week from an\nunknown source\n\n\nThe fool RACES and is con-\nfident.\n\n\nDon't forget to give me your\nnews items for this column,\nsocial and church.\n\n\nPhone days except Mon. 258-\nO5l1, evenings = 258-OOO5.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1987,
+                "y0": 366,
+                "x1": 2680,
+                "y1": 559
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBY FLORA RUFFlN",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2876,
+                "y0": 4169,
+                "x1": 3691,
+                "y1": 4577
+            },
+            "class": "article",
+            "raw_text": "QUINCY Fla. (NPD : A l08\nyear old woman was included in\nthe $50 Negroes registered as a\nresult Of a massive CORE\nsponsored drive to qualify more\nNegroes as voters in Cadsden\ncounty.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2905,
+                "y0": 3988,
+                "x1": 3511,
+                "y1": 4152
+            },
+            "class": "headline",
+            "raw_text": "1903 Yr. Old\n\n\nWomen Registers",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1975,
+                "y0": 4006,
+                "x1": 2790,
+                "y1": 4379
+            },
+            "class": "article",
+            "raw_text": "James Farmer, 44-year-o old\nnational director of the c Congress\nof Racial Equality, will speak\nat special forum at pm.\nSaturday at the Phoenix Press\nClub in Hotel Westward Ho.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2004,
+                "y0": 3797,
+                "x1": 2511,
+                "y1": 3984
+            },
+            "class": "headline",
+            "raw_text": "CORE Head To\nSpeak Here",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3760,
+                "y0": 4233,
+                "x1": 4569,
+                "y1": 4548
+            },
+            "class": "article",
+            "raw_text": "2 bedrm.. new apis. ;. coolers built\nin range /oven. See resident mgr.\n6632 S. 22nd St. & Vineyard\nApt. 4; $3.50 including free\nwater, 276-825O.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3754,
+                "y0": 3965,
+                "x1": 4552,
+                "y1": 4187
+            },
+            "class": "headline",
+            "raw_text": "FOR PHOTOS CALL\n\n\n276-23O1",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3801,
+                "y0": 4180,
+                "x1": 4180,
+                "y1": 4240
+            },
+            "class": "headline",
+            "raw_text": "FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 167,
+                "y0": 2238,
+                "x1": 1866,
+                "y1": 2902
+            },
+            "class": "article",
+            "raw_text": "Preparing wedding cake Mr. and Mrs. James Nc\nKinney wed Sum-, Aug 10 at 1924 So. 18th ST.\nThe Miss Betty Walton, daughter OF Mrs.\nAshdown, Ark and William Walton OF Phoenix\nThe Gwendolyn Mckinney of Fulton,\nKY\n\n\nHe is stationed al Luke Air Force Base.\n\n\nThe ceremony was performed home of Mr. and Mrs.\nFloyd Brown.\n\n\nMrs. Idea of honor. Joe E. Rogers\nas",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2859,
+                "y0": 1587,
+                "x1": 4546,
+                "y1": 1954
+            },
+            "class": "article",
+            "raw_text": "Closing programs Bible Missionary Baptist Church. 27\nw. Sherman held Sunday.\n\n\nj. Mondy pastor and his wife were honored\nThe members sponsored inspiring songfest\n\n\nRev. j. McKevey Rev. Mondy is heard\neach Sunday KDOT = l440 kc rt",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964081401_0515",
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "All Around\n\n\nBY FLORA RUFFlN",
+            "article": "Mr.. and Mrs. Jim Titus and\ntheir son, Orson, flew to Denver\nfor the weekend.\n\n\nPhoenicians attending the Jack\nand jill Of America convention\nin San Francisco are Mrs. Rich\nard Hicks, Rickie Dean Hicks,\nMrs. John H. Weber, Sr., John\nWeber, Jr., and Bryan Weber.\nThey went by plane this week.\n\n\nMIR. and Mrs. A. Donohue\nmotored to the East coast. They\nwill visit the Worlds Fair in\nNew York.\n\n\nMr.. and Mrs. James Oliver, of\nSan Francisco have ended their\nextended visit in the city where\nthey were guests Of his sister.\nMrs. Florine Jeffery. and bro\nthere's Charles and Fred Oliver.\n\n\nMr.. and Mrs. Robert Banks,\nSr., will drive to Santa Fe, New\nMexico. They plan to see the\nIndian powwow at Gallup, where\nthey will be the houseguests Of the\nLeslie Hugheses.\n\n\nRev. and Mrs. Charles Favors\nwere honored by relatives and\nfriends on the golden wedding an\nniversary. The visits and gifts\nmade Mrs. Favors feel better.\n\n\nYour reporter invites you to at\ntend the gigantic muscial which\nwill be held Sat-, Aug. Is at\nSt. Johns Baptist Church, 1916\nSo. 18th Ave., 8 pm. 1t Is part\nof the program celebrating the\n23rd anniversary of our pastor\nand his wife. Rev. and Mrs. L.\n]. Dunbar. 1t is spoons ored jointly\nby the Senior and Junior Choirs.\n\n\nSome club member will be\nhonored by the Debonairs Social\nand Art Club Saturday night at\nthe regular birthday event.\n\n\nThought of the week from an\nunknown source\n\n\nThe fool RACES and is con-\nfident.\n\n\nDon't forget to give me your\nnews items for this column,\nsocial and church.\n\n\nPhone days except Mon. 258-\nO5l1, evenings = 258-OOO5.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1987,
+                    "y0": 366,
+                    "x1": 2680,
+                    "y1": 559
+                },
+                {
+                    "x0": 1969,
+                    "y0": 593,
+                    "x1": 2802,
+                    "y1": 3763
+                }
+            ],
+            "bbox": [
+                1969,
+                366,
+                2802,
+                3763
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-14_pna_sn84021918_0041421695A_1964081401_0515.json"
+        },
+        {
+            "object_ids": [
+                8,
+                4
+            ],
+            "headline": "1903 Yr. Old\n\n\nWomen Registers",
+            "article": "QUINCY Fla. (NPD : A l08\nyear old woman was included in\nthe $50 Negroes registered as a\nresult Of a massive CORE\nsponsored drive to qualify more\nNegroes as voters in Cadsden\ncounty.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2905,
+                    "y0": 3988,
+                    "x1": 3511,
+                    "y1": 4152
+                },
+                {
+                    "x0": 2876,
+                    "y0": 4169,
+                    "x1": 3691,
+                    "y1": 4577
+                }
+            ],
+            "bbox": [
+                2876,
+                3988,
+                3691,
+                4577
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-14_pna_sn84021918_0041421695A_1964081401_0515.json"
+        },
+        {
+            "object_ids": [
+                7,
+                6
+            ],
+            "headline": "CORE Head To\nSpeak Here",
+            "article": "James Farmer, 44-year-o old\nnational director of the c Congress\nof Racial Equality, will speak\nat special forum at pm.\nSaturday at the Phoenix Press\nClub in Hotel Westward Ho.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2004,
+                    "y0": 3797,
+                    "x1": 2511,
+                    "y1": 3984
+                },
+                {
+                    "x0": 1975,
+                    "y0": 4006,
+                    "x1": 2790,
+                    "y1": 4379
+                }
+            ],
+            "bbox": [
+                1975,
+                3797,
+                2790,
+                4379
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-08-14_pna_sn84021918_0041421695A_1964081401_0515.json"
+        },
+        {
+            "object_ids": [
+                13,
+                23,
+                9
+            ],
+            "headline": "FOR PHOTOS CALL\n\n\n276-23O1\n\nFOR RENT",
+            "article": "2 bedrm.. new apis. ;. coolers built\nin range /oven. See resident mgr.\n6632 S. 22nd St. & Vineyard\nApt. 4; $3.50 including free\nwater, 276-825O.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3754,
+                    "y0": 3965,
+                    "x1": 4552,
+                    "y1": 4187
+                },
+                {
+                    "x0": 3801,
+                    "y0": 4180,
+                    "x1": 4180,
+                    "y1": 4240
+                },
+                {
+                    "x0": 3760,
+                    "y0": 4233,
+                    "x1": 4569,
+                    "y1": 4548
+                }
+            ],
+            "bbox": [
+                3754,
+                3965,
+                4569,
+                4548
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-08-14_pna_sn84021918_0041421695A_1964081401_0515.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Preparing wedding cake Mr. and Mrs. James Nc\nKinney wed Sum-, Aug 10 at 1924 So. 18th ST.\nThe Miss Betty Walton, daughter OF Mrs.\nAshdown, Ark and William Walton OF Phoenix\nThe Gwendolyn Mckinney of Fulton,\nKY\n\n\nHe is stationed al Luke Air Force Base.\n\n\nThe ceremony was performed home of Mr. and Mrs.\nFloyd Brown.\n\n\nMrs. Idea of honor. Joe E. Rogers\nas",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 167,
+                    "y0": 2238,
+                    "x1": 1866,
+                    "y1": 2902
+                }
+            ],
+            "bbox": [
+                167,
+                2238,
+                1866,
+                2902
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-08-14_pna_sn84021918_0041421695A_1964081401_0515.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Closing programs Bible Missionary Baptist Church. 27\nw. Sherman held Sunday.\n\n\nj. Mondy pastor and his wife were honored\nThe members sponsored inspiring songfest\n\n\nRev. j. McKevey Rev. Mondy is heard\neach Sunday KDOT = l440 kc rt",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2859,
+                    "y0": 1587,
+                    "x1": 4546,
+                    "y1": 1954
+                }
+            ],
+            "bbox": [
+                2859,
+                1587,
+                4546,
+                1954
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-08-14_pna_sn84021918_0041421695A_1964081401_0515.json"
+        }
+    ]
+}

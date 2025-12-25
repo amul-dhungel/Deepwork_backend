@@ -1,0 +1,273 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022801/0315.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7435,
+        "width": 4808
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2822,
+                "y0": 3223,
+                "x1": 3642,
+                "y1": 4688
+            },
+            "class": "article",
+            "raw_text": "Veterans holding permanentGI\nlife insurance policies may bor-\nrow up to 95 percent of their\npolicies: cash surrender value\nto meet financial emergencies,\nsaid Manager Of VAS Arizona\nregional office.\n\n\nWhile reducing the amount Of\nprotection, It does leave the pol\nicy in force. If the policy Is\nsurrendered for cash all protec-\ntion under the insurance ceases\nand cannot be renewed nor re-\ninstated, Sanders said.\n\n\nAnnual interest on CT policy\nloans IL charged at four per-\ncent on the unpaid balance. II\nnot paid, It Is added to the loan\nprincipal and begins to draw In\nterest.\n\n\nRepayment Of the principal on\nthe loan may be made In the\namounts Of SIS or any multiple\nthereof and at any time before\ndefault in payment Of premiums.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2973,
+                "y0": 3095,
+                "x1": 3438,
+                "y1": 3207
+            },
+            "class": "headline",
+            "raw_text": "VA NEWS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3710,
+                "y0": 3322,
+                "x1": 4525,
+                "y1": 4676
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Willie Bryant,\nSO, called the mayor Of Har-\nlem\" died Feb. % in his apart\nment.\n\n\nBryant, a veteran Of the enter\ntainment field. gained recognition\nin his Broadway role in Nam\nba's Daughters. starring Ethel\nWaters.\n\n\nHe had appeared in several\nmovies. stage productions and\nteleviSion.\n\n\nBryant started as a candy ven\ndor in Chicago at the Grand Thea\ntire, but in few years he was\na top star. He took the first\ntroupe Of Negro entertainers\noverseas during World War Two.\n\n\nHe discovered Ella Fitzgerald\nand aided the careers Of Dakota\nStation, Earl Hines and others.\n\n\nBryant wrote songs and was a\npopular disc jockey.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3716,
+                "y0": 3113,
+                "x1": 4432,
+                "y1": 3300
+            },
+            "class": "headline",
+            "raw_text": "WILLIE BRYANT\n\n\nDIES IN CALIFORNIA",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1933,
+                "y0": 633,
+                "x1": 2770,
+                "y1": 3869
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Lena Horne, Steve\nAllen and Sammy Davis, Jr., are\nco-chairmen of a spoons oring\ncommittee for a nationwide\nclosed circuit television program\nplanned by the National Associa-\nrion for the Advancement Of Col\nored People for next May IA,\nRoy Wilkins, NAACP executive\nsecretary, announced.\n\n\nThe program will observe the\ntenth anniversary Of the United\nStates Supreme Court historic\nschool desegregauon ruling\nhanded down on May II. 1854.\n\n\nMiss Horne and Mr.. Allen,\nas West Coast co-chairmen, will\nhead a working committee from\nLos Angeles, while Mr.. Davis\nwill chair a similar committee\nin New York. Mr.. Davis, who\nwill be in rehearsal for his new\nBroadway musical Golden Boy\nat the time, will also perform on\nthe telecast.\n\n\nThe tenth anniversary pro-\ngram, a two-hour affair, Is now\nin process of preparation, Mr..\nwilkins said. Combining top en-\nrertainment with meaningful\npurpose, 1t will include many\nmajor stars of Broadway and\nHollywood as we'll as persons\nwho played leading roles in the\norigin and implementation Of the\nSupreme Court decision.\n\n\nThe program will originate live\nfrom NewYork and Hollywood and\nwill be relayed to upwards Of\n80 cities across the country via\nthe Freedom Network. organized\nfor this particular broadcast. 1t\nwill be the first use of closed\ncircuit teleWsion for a presen-\ntation Of this scope and import\nance.\n\n\nThe observance, Mr.. Wilkins\nadded, Twill not only commem-\ncrate high-point in the century,\nold struggle for full citizenship\nfor Negro Americans. but Is also\nintended to rally popular sup\nport in q final drive to eliminate\nracism from all aspects Of Amer-\nlean life\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1956,
+                "y0": 394,
+                "x1": 2602,
+                "y1": 605
+            },
+            "class": "headline",
+            "raw_text": "Stars To\nHead Program",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1939,
+                "y0": 4060,
+                "x1": 2747,
+                "y1": 4880
+            },
+            "class": "article",
+            "raw_text": "Compensation for sickness or\ndisability in 1868, apply to\namounts received as compensa-\nton for sickness or disability,\nGeorge D. Patterson, Director\nOf Internal Revenue for Arizona,\nsaid today. Often, the payments\nmay be exempt or partly exempt\nfrom income tax.\n\n\nDocument SOLO which furnishes\nmore detailed information on this\nsubject is available upon request\nfrom the Internal Revenue Ser\nvice.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2084,
+                "y0": 3914,
+                "x1": 2561,
+                "y1": 4037
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-02-28"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                0
+            ],
+            "headline": "VA NEWS",
+            "article": "Veterans holding permanentGI\nlife insurance policies may bor-\nrow up to 95 percent of their\npolicies: cash surrender value\nto meet financial emergencies,\nsaid Manager Of VAS Arizona\nregional office.\n\n\nWhile reducing the amount Of\nprotection, It does leave the pol\nicy in force. If the policy Is\nsurrendered for cash all protec-\ntion under the insurance ceases\nand cannot be renewed nor re-\ninstated, Sanders said.\n\n\nAnnual interest on CT policy\nloans IL charged at four per-\ncent on the unpaid balance. II\nnot paid, It Is added to the loan\nprincipal and begins to draw In\nterest.\n\n\nRepayment Of the principal on\nthe loan may be made In the\namounts Of SIS or any multiple\nthereof and at any time before\ndefault in payment Of premiums.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2973,
+                    "y0": 3095,
+                    "x1": 3438,
+                    "y1": 3207
+                },
+                {
+                    "x0": 2822,
+                    "y0": 3223,
+                    "x1": 3642,
+                    "y1": 4688
+                }
+            ],
+            "bbox": [
+                2822,
+                3095,
+                3642,
+                4688
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-28_p1_sn84021918_0041421695A_1964022801_0315.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "WILLIE BRYANT\n\n\nDIES IN CALIFORNIA",
+            "article": "LOS ANGELES Willie Bryant,\nSO, called the mayor Of Har-\nlem\" died Feb. % in his apart\nment.\n\n\nBryant, a veteran Of the enter\ntainment field. gained recognition\nin his Broadway role in Nam\nba's Daughters. starring Ethel\nWaters.\n\n\nHe had appeared in several\nmovies. stage productions and\nteleviSion.\n\n\nBryant started as a candy ven\ndor in Chicago at the Grand Thea\ntire, but in few years he was\na top star. He took the first\ntroupe Of Negro entertainers\noverseas during World War Two.\n\n\nHe discovered Ella Fitzgerald\nand aided the careers Of Dakota\nStation, Earl Hines and others.\n\n\nBryant wrote songs and was a\npopular disc jockey.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3716,
+                    "y0": 3113,
+                    "x1": 4432,
+                    "y1": 3300
+                },
+                {
+                    "x0": 3710,
+                    "y0": 3322,
+                    "x1": 4525,
+                    "y1": 4676
+                }
+            ],
+            "bbox": [
+                3710,
+                3113,
+                4525,
+                4676
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-28_p1_sn84021918_0041421695A_1964022801_0315.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "Stars To\nHead Program",
+            "article": "NEW YORK Lena Horne, Steve\nAllen and Sammy Davis, Jr., are\nco-chairmen of a spoons oring\ncommittee for a nationwide\nclosed circuit television program\nplanned by the National Associa-\nrion for the Advancement Of Col\nored People for next May IA,\nRoy Wilkins, NAACP executive\nsecretary, announced.\n\n\nThe program will observe the\ntenth anniversary Of the United\nStates Supreme Court historic\nschool desegregauon ruling\nhanded down on May II. 1854.\n\n\nMiss Horne and Mr.. Allen,\nas West Coast co-chairmen, will\nhead a working committee from\nLos Angeles, while Mr.. Davis\nwill chair a similar committee\nin New York. Mr.. Davis, who\nwill be in rehearsal for his new\nBroadway musical Golden Boy\nat the time, will also perform on\nthe telecast.\n\n\nThe tenth anniversary pro-\ngram, a two-hour affair, Is now\nin process of preparation, Mr..\nwilkins said. Combining top en-\nrertainment with meaningful\npurpose, 1t will include many\nmajor stars of Broadway and\nHollywood as we'll as persons\nwho played leading roles in the\norigin and implementation Of the\nSupreme Court decision.\n\n\nThe program will originate live\nfrom NewYork and Hollywood and\nwill be relayed to upwards Of\n80 cities across the country via\nthe Freedom Network. organized\nfor this particular broadcast. 1t\nwill be the first use of closed\ncircuit teleWsion for a presen-\ntation Of this scope and import\nance.\n\n\nThe observance, Mr.. Wilkins\nadded, Twill not only commem-\ncrate high-point in the century,\nold struggle for full citizenship\nfor Negro Americans. but Is also\nintended to rally popular sup\nport in q final drive to eliminate\nracism from all aspects Of Amer-\nlean life\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1956,
+                    "y0": 394,
+                    "x1": 2602,
+                    "y1": 605
+                },
+                {
+                    "x0": 1933,
+                    "y0": 633,
+                    "x1": 2770,
+                    "y1": 3869
+                }
+            ],
+            "bbox": [
+                1933,
+                394,
+                2770,
+                3869
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-28_p1_sn84021918_0041421695A_1964022801_0315.json"
+        },
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "",
+            "article": "Compensation for sickness or\ndisability in 1868, apply to\namounts received as compensa-\nton for sickness or disability,\nGeorge D. Patterson, Director\nOf Internal Revenue for Arizona,\nsaid today. Often, the payments\nmay be exempt or partly exempt\nfrom income tax.\n\n\nDocument SOLO which furnishes\nmore detailed information on this\nsubject is available upon request\nfrom the Internal Revenue Ser\nvice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2084,
+                    "y0": 3914,
+                    "x1": 2561,
+                    "y1": 4037
+                },
+                {
+                    "x0": 1939,
+                    "y0": 4060,
+                    "x1": 2747,
+                    "y1": 4880
+                }
+            ],
+            "bbox": [
+                1939,
+                3914,
+                2747,
+                4880
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-28_p1_sn84021918_0041421695A_1964022801_0315.json"
+        }
+    ]
+}

@@ -1,0 +1,310 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4800,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964013101/0283.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1901,
+                "y0": 2550,
+                "x1": 2731,
+                "y1": 3739
+            },
+            "class": "article",
+            "raw_text": "James Dugan. one of the most\nhighly acclaimed high school ath-\nletes in Arizona history, has been\nsuspended from interscholastic\ncompetition for the remainder of\nthis years basketball season.\n\n\nThe ruling was given Thursday\nat the meeting Of the executive\nboard of the Arizona Interschol-\nastic Association held at West\nHigh.\n\n\nPrescott and Flagstaff High\nSchools we're placed on probation\nfor one year effective Jan. g..\n\n\nDugan and Prescott basket\nball player. Randy Emmett. were\ninvolved in a smuggling episode\nduring a game last Dec. 20. Dugan\nhit Emmett after he fouled out and\na near riot followed.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1907,
+                "y0": 2387,
+                "x1": 2656,
+                "y1": 2533
+            },
+            "class": "headline",
+            "raw_text": "DUGAN SUSPENDED\nFOR REST OR YEAR",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2776,
+                "y0": 4178,
+                "x1": 4447,
+                "y1": 6075
+            },
+            "class": "article",
+            "raw_text": "This gas turbine powered package. joint research\nproject Of Arizona Public Service Company and AResearh will\nprovide electrical and for heating and cooling\nton Of AResearchs Phoenix plant.\n\n\nEngineers Jim Shore left AResearch and Dick Johnson Public\nService focus attention lines feeding 270 hlowats Of\nelectricity from right into the building Behind\ncontrol panel lower left natural eled AResearch\nturbine Oe supplies power drive the generator. The install\nlation will be tested for year.\n\n\nOfficials Of the two companies said the obtain actual\nfield Information performance and reliability Of the total\nenergy SYSTEM along with actual installation, operating and\ntenance\n\n\nSuccess Of the turbine Of total for\nmercal and industrial buildings ancompexes could have double\nbarreled effect the states In addition playing\nrole meeting energy needs national\nof could lead Ar1zona\nmanufacturing economy since AResearch Is the worlds largest\nmanufacturer of small gas turbines.\n\n\nDELICIOUS COOKIES\n1928 cups sifted -four 1-1/2 brown sugar,\n1-1/2 teaspoons baking powder firmly packed\n1/2 teaspoon baking soda 3/4 cup Mazda oil\nl teaspoon salt Ia water\n1 teaspoon cinnamon 2 eggs\nI2 teaspoon ginger teaspoon vanilla\n\n\nS together ingredients Make well add\nOIL water and vanilla Mix make soft dough-\nChill dough hour. Roll dough 8 H4nch thick\nlightly board cut with Toured cutter 2nh rounds\nother shapes Bake in moderate $3.50 degrees F. to 10\nminutes. Makes 5 dozen Pinch cookies.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1872,
+                "y0": 4057,
+                "x1": 2696,
+                "y1": 6191
+            },
+            "class": "article",
+            "raw_text": "\"How Advertising is the Voice\nOf Free Choice\" is the subject\nOf the 2lst annual Phoenix Ad-\nvertising Clubs high school es-\nsay contest.\n\n\n1t is open to all high school\nstudents in Maricopa County. The\ndeadline for entries Is midnight,\nFeb. II.\n\n\nIn 500 words or less. STU\ndents are to develop their idea\non how advertising has contri-\nbuted to American progress and\nhow 1t effects the nation 8 econ\nomy.\n\n\nThere will be two top awards,\nan electric portable typewriter\npresented by The Arizona Repub-\nlie and the Phoenix Gazette. and\na portable teleNsion set given\nby the Phoenix Broadcaster's\nAssociation.\n\n\nIn addition, there will be 10\nportable radios and other mer-\nchandise awards.\n\n\nWinners will be announced\nMarch 2 at the Ad Club luncheon\nfor top essayists, their teachers,\nschool principal and parents.\n\n\nEntry forms are available at\nhigh schools.\n\n\nhigh schools. Blanks also can be\nobtained by calling the Ad Club,\ne43-4SS2, or at The Republic and\nGazette public information desk,\n100 E. Van Buren,.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1901,
+                "y0": 3848,
+                "x1": 2551,
+                "y1": 4029
+            },
+            "class": "headline",
+            "raw_text": "AID CLUB\n\n\nESSAY CONTEST",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 81,
+                "y0": 4752,
+                "x1": 1792,
+                "y1": 5924
+            },
+            "class": "article",
+            "raw_text": "Jazz Casual special show featuring great jazz\nEarl Hines Woody Herman and Gerry Mgan\nChannel We'd Feb. S. 10 This\nhour programs\n\n\nThe series hailed by Educational Teevsion\naudiences last year from coast This\nbe equally exciting On each program exana-\nlions OF the American music styles will continue.\n\n\nThe celebrated Gerry Mugan\none saxphone will begin the SERIES He\nto be the founder of the West Coast school of jazz\n\n\nEarl Fatha Hines renowned pianist will be camera\nthird of the series which will presented Feb. H.\n\n\nOthers scheduled to Jimmy Rushing singer,\nLambert. Hendricks and Bavan many others.\n\n\nTRANSOCEAMC TV WILL. BE years.\nExperts will be 1878 before enough\nsatellites for 24-hour coverage.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2799,
+                "y0": 2069,
+                "x1": 3618,
+                "y1": 2754
+            },
+            "class": "article",
+            "raw_text": "The \"Dandy Overture\" Golf\nfure, designed in the new trend\nby the Official Hair Fashion Com\nmittee of the National Hairdres-\nsers and Cosmetologists Asso-\ncitation. is particularly effective\nwith the simple elegant dresses\nOf diverse winter collections.\n\n\n1t features the small elegant\nhead with soft waves rising up\nwards from a smooth brow, then",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1860,
+                "y0": 6277,
+                "x1": 2702,
+                "y1": 7124
+            },
+            "class": "article",
+            "raw_text": "One spokesman at a Dental\nSociety meeting declared that par\nents should brush a child's teeth\nuntil two years after the young\nster is able to battle himself.\n\n\nThat is one sure way to get them\nclean, as few small children have\nthe time and patience or even\nthe manual skill - to WELD a\ntooth brush and dentifrice\nproperly.\n\n\nGIVE TO\nTHE HEART FUND",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964013101_0283",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "DUGAN SUSPENDED\nFOR REST OR YEAR",
+            "article": "James Dugan. one of the most\nhighly acclaimed high school ath-\nletes in Arizona history, has been\nsuspended from interscholastic\ncompetition for the remainder of\nthis years basketball season.\n\n\nThe ruling was given Thursday\nat the meeting Of the executive\nboard of the Arizona Interschol-\nastic Association held at West\nHigh.\n\n\nPrescott and Flagstaff High\nSchools we're placed on probation\nfor one year effective Jan. g..\n\n\nDugan and Prescott basket\nball player. Randy Emmett. were\ninvolved in a smuggling episode\nduring a game last Dec. 20. Dugan\nhit Emmett after he fouled out and\na near riot followed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1907,
+                    "y0": 2387,
+                    "x1": 2656,
+                    "y1": 2533
+                },
+                {
+                    "x0": 1901,
+                    "y0": 2550,
+                    "x1": 2731,
+                    "y1": 3739
+                }
+            ],
+            "bbox": [
+                1901,
+                2387,
+                2731,
+                3739
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-31_pna_sn84021918_0041421695A_1964013101_0283.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "This gas turbine powered package. joint research\nproject Of Arizona Public Service Company and AResearh will\nprovide electrical and for heating and cooling\nton Of AResearchs Phoenix plant.\n\n\nEngineers Jim Shore left AResearch and Dick Johnson Public\nService focus attention lines feeding 270 hlowats Of\nelectricity from right into the building Behind\ncontrol panel lower left natural eled AResearch\nturbine Oe supplies power drive the generator. The install\nlation will be tested for year.\n\n\nOfficials Of the two companies said the obtain actual\nfield Information performance and reliability Of the total\nenergy SYSTEM along with actual installation, operating and\ntenance\n\n\nSuccess Of the turbine Of total for\nmercal and industrial buildings ancompexes could have double\nbarreled effect the states In addition playing\nrole meeting energy needs national\nof could lead Ar1zona\nmanufacturing economy since AResearch Is the worlds largest\nmanufacturer of small gas turbines.\n\n\nDELICIOUS COOKIES\n1928 cups sifted -four 1-1/2 brown sugar,\n1-1/2 teaspoons baking powder firmly packed\n1/2 teaspoon baking soda 3/4 cup Mazda oil\nl teaspoon salt Ia water\n1 teaspoon cinnamon 2 eggs\nI2 teaspoon ginger teaspoon vanilla\n\n\nS together ingredients Make well add\nOIL water and vanilla Mix make soft dough-\nChill dough hour. Roll dough 8 H4nch thick\nlightly board cut with Toured cutter 2nh rounds\nother shapes Bake in moderate $3.50 degrees F. to 10\nminutes. Makes 5 dozen Pinch cookies.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2776,
+                    "y0": 4178,
+                    "x1": 4447,
+                    "y1": 6075
+                }
+            ],
+            "bbox": [
+                2776,
+                4178,
+                4447,
+                6075
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-31_pna_sn84021918_0041421695A_1964013101_0283.json"
+        },
+        {
+            "object_ids": [
+                10,
+                5
+            ],
+            "headline": "AID CLUB\n\n\nESSAY CONTEST",
+            "article": "\"How Advertising is the Voice\nOf Free Choice\" is the subject\nOf the 2lst annual Phoenix Ad-\nvertising Clubs high school es-\nsay contest.\n\n\n1t is open to all high school\nstudents in Maricopa County. The\ndeadline for entries Is midnight,\nFeb. II.\n\n\nIn 500 words or less. STU\ndents are to develop their idea\non how advertising has contri-\nbuted to American progress and\nhow 1t effects the nation 8 econ\nomy.\n\n\nThere will be two top awards,\nan electric portable typewriter\npresented by The Arizona Repub-\nlie and the Phoenix Gazette. and\na portable teleNsion set given\nby the Phoenix Broadcaster's\nAssociation.\n\n\nIn addition, there will be 10\nportable radios and other mer-\nchandise awards.\n\n\nWinners will be announced\nMarch 2 at the Ad Club luncheon\nfor top essayists, their teachers,\nschool principal and parents.\n\n\nEntry forms are available at\nhigh schools.\n\n\nhigh schools. Blanks also can be\nobtained by calling the Ad Club,\ne43-4SS2, or at The Republic and\nGazette public information desk,\n100 E. Van Buren,.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1901,
+                    "y0": 3848,
+                    "x1": 2551,
+                    "y1": 4029
+                },
+                {
+                    "x0": 1872,
+                    "y0": 4057,
+                    "x1": 2696,
+                    "y1": 6191
+                }
+            ],
+            "bbox": [
+                1872,
+                3848,
+                2696,
+                6191
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-31_pna_sn84021918_0041421695A_1964013101_0283.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Jazz Casual special show featuring great jazz\nEarl Hines Woody Herman and Gerry Mgan\nChannel We'd Feb. S. 10 This\nhour programs\n\n\nThe series hailed by Educational Teevsion\naudiences last year from coast This\nbe equally exciting On each program exana-\nlions OF the American music styles will continue.\n\n\nThe celebrated Gerry Mugan\none saxphone will begin the SERIES He\nto be the founder of the West Coast school of jazz\n\n\nEarl Fatha Hines renowned pianist will be camera\nthird of the series which will presented Feb. H.\n\n\nOthers scheduled to Jimmy Rushing singer,\nLambert. Hendricks and Bavan many others.\n\n\nTRANSOCEAMC TV WILL. BE years.\nExperts will be 1878 before enough\nsatellites for 24-hour coverage.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 81,
+                    "y0": 4752,
+                    "x1": 1792,
+                    "y1": 5924
+                }
+            ],
+            "bbox": [
+                81,
+                4752,
+                1792,
+                5924
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-31_pna_sn84021918_0041421695A_1964013101_0283.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "The \"Dandy Overture\" Golf\nfure, designed in the new trend\nby the Official Hair Fashion Com\nmittee of the National Hairdres-\nsers and Cosmetologists Asso-\ncitation. is particularly effective\nwith the simple elegant dresses\nOf diverse winter collections.\n\n\n1t features the small elegant\nhead with soft waves rising up\nwards from a smooth brow, then",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2799,
+                    "y0": 2069,
+                    "x1": 3618,
+                    "y1": 2754
+                }
+            ],
+            "bbox": [
+                2799,
+                2069,
+                3618,
+                2754
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-01-31_pna_sn84021918_0041421695A_1964013101_0283.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "One spokesman at a Dental\nSociety meeting declared that par\nents should brush a child's teeth\nuntil two years after the young\nster is able to battle himself.\n\n\nThat is one sure way to get them\nclean, as few small children have\nthe time and patience or even\nthe manual skill - to WELD a\ntooth brush and dentifrice\nproperly.\n\n\nGIVE TO\nTHE HEART FUND",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1860,
+                    "y0": 6277,
+                    "x1": 2702,
+                    "y1": 7124
+                }
+            ],
+            "bbox": [
+                1860,
+                6277,
+                2702,
+                7124
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-01-31_pna_sn84021918_0041421695A_1964013101_0283.json"
+        }
+    ]
+}

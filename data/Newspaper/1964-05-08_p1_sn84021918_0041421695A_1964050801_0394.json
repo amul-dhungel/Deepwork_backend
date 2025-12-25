@@ -1,0 +1,231 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050801/0394.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7400,
+        "width": 4934
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2085,
+                "y0": 468,
+                "x1": 2907,
+                "y1": 1585
+            },
+            "class": "article",
+            "raw_text": "PITTSBURGH -Integrationists\nat the General Conference Of the\nMethodist Church, unable to get\na ma jority in acknowledgements\nmaneuvering postponed intr oduc-\nton of a constitutional amend\nment designed to wipe out racial\nbarriers within the church.\n\n\n1--WE thought we had consen-\nsus to push this thing through\nbut we CONT\" said the Rev. Dean\nRichardson of Buffalo. N.Y.. a\nleader of what he describes as\nliberal forces.\n\n\nThe quadrennial conferences\n900 delegates passed a plan to\neliminate voluntarily over the\nnext four years the church s CEN\ntrail Jurisdiction.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2091,
+                "y0": 202,
+                "x1": 2785,
+                "y1": 440
+            },
+            "class": "headline",
+            "raw_text": "METHODISTS\nTABLE INTECRA1ION\nPROGRAM NOW",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3860,
+                "y0": 335,
+                "x1": 4670,
+                "y1": 862
+            },
+            "class": "article",
+            "raw_text": "Novel party decorations use\nballoons and stick-when-mols-\ntened gift ribbon in various col,\nors. Blow up balloon to desired\nsize. Wrap ribbon diagonally\naround and around, anchoring at\neach intersection\" with water or\nlibrary paste. Dunk quickly in\nwater and hang to dry. Puncture\nand remove the balloon. You'll\nhave a rigid, cage-like ball. 5s",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3866,
+                "y0": 150,
+                "x1": 4630,
+                "y1": 318
+            },
+            "class": "headline",
+            "raw_text": "HOW TO MAKE\n\n\nNOVEL DECORA1 IONS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2050,
+                "y0": 5787,
+                "x1": 4248,
+                "y1": 6105
+            },
+            "class": "article",
+            "raw_text": "enjoying\nfull details phone 252'|Il\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2958,
+                "y0": 231,
+                "x1": 3780,
+                "y1": 821
+            },
+            "class": "article",
+            "raw_text": "The central Jurisdiction en-\nbraces $4,000 Negroes. 1t is\nthe only one Of six jurisdictions\nbased solely on race. The others\nare geographic.\n\n\nPostponement of the amend\nment's introduction halted fur\nTheir debate on the issue Of merg-\ning Negro and white congres;a-\nlions.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-08"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                0
+            ],
+            "headline": "METHODISTS\nTABLE INTECRA1ION\nPROGRAM NOW",
+            "article": "PITTSBURGH -Integrationists\nat the General Conference Of the\nMethodist Church, unable to get\na ma jority in acknowledgements\nmaneuvering postponed intr oduc-\nton of a constitutional amend\nment designed to wipe out racial\nbarriers within the church.\n\n\n1--WE thought we had consen-\nsus to push this thing through\nbut we CONT\" said the Rev. Dean\nRichardson of Buffalo. N.Y.. a\nleader of what he describes as\nliberal forces.\n\n\nThe quadrennial conferences\n900 delegates passed a plan to\neliminate voluntarily over the\nnext four years the church s CEN\ntrail Jurisdiction.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2091,
+                    "y0": 202,
+                    "x1": 2785,
+                    "y1": 440
+                },
+                {
+                    "x0": 2085,
+                    "y0": 468,
+                    "x1": 2907,
+                    "y1": 1585
+                }
+            ],
+            "bbox": [
+                2085,
+                202,
+                2907,
+                1585
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-08_p1_sn84021918_0041421695A_1964050801_0394.json"
+        },
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "HOW TO MAKE\n\n\nNOVEL DECORA1 IONS",
+            "article": "Novel party decorations use\nballoons and stick-when-mols-\ntened gift ribbon in various col,\nors. Blow up balloon to desired\nsize. Wrap ribbon diagonally\naround and around, anchoring at\neach intersection\" with water or\nlibrary paste. Dunk quickly in\nwater and hang to dry. Puncture\nand remove the balloon. You'll\nhave a rigid, cage-like ball. 5s",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3866,
+                    "y0": 150,
+                    "x1": 4630,
+                    "y1": 318
+                },
+                {
+                    "x0": 3860,
+                    "y0": 335,
+                    "x1": 4670,
+                    "y1": 862
+                }
+            ],
+            "bbox": [
+                3860,
+                150,
+                4670,
+                862
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-05-08_p1_sn84021918_0041421695A_1964050801_0394.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "enjoying\nfull details phone 252'|Il\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2050,
+                    "y0": 5787,
+                    "x1": 4248,
+                    "y1": 6105
+                }
+            ],
+            "bbox": [
+                2050,
+                5787,
+                4248,
+                6105
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-05-08_p1_sn84021918_0041421695A_1964050801_0394.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "The central Jurisdiction en-\nbraces $4,000 Negroes. 1t is\nthe only one Of six jurisdictions\nbased solely on race. The others\nare geographic.\n\n\nPostponement of the amend\nment's introduction halted fur\nTheir debate on the issue Of merg-\ning Negro and white congres;a-\nlions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2958,
+                    "y0": 231,
+                    "x1": 3780,
+                    "y1": 821
+                }
+            ],
+            "bbox": [
+                2958,
+                231,
+                3780,
+                821
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-08_p1_sn84021918_0041421695A_1964050801_0394.json"
+        }
+    ]
+}

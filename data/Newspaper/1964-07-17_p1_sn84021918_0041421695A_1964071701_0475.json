@@ -1,0 +1,328 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071701/0475.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4877
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 986,
+                "y0": 3546,
+                "x1": 1803,
+                "y1": 4352
+            },
+            "class": "article",
+            "raw_text": "Broken bones are the topic of\ndiscussion at the home of Mr.. and\nMrs. D. w. Williams. 5OOl S.\n2lst Way.\n\n\nFirst, Corky, their son. 10. was\nsliding while stealing base dur\ning a Little League game. He\nbroke his right wrist.\n\n\nA few days later. D.W.. vice\npresident of the Williams and\nJones Construction Co., fell from\na roof top while making an in\nspection. He sustained back in\njuries.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1003,
+                "y0": 3378,
+                "x1": 1623,
+                "y1": 3524
+            },
+            "class": "headline",
+            "raw_text": "FATHER AND SON\nHAVE BREAKS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1883,
+                "y0": 1822,
+                "x1": 2694,
+                "y1": 2865
+            },
+            "class": "article",
+            "raw_text": "We remember her voice and\nsmile. Our beloved daughter, SIS\nter and sister in law, Eolia Cobb\npassed from this earth on July\nis, 1868.\n\n\nShe lives, still. in our fondest\n\n\nmemories.\n\n\nThe pure spirit can never be\n\n\nremoved.\n\n\nShe Is secure in eternal peace\n\n\nwith our Maker.\nMrs. Laura Reagan, mother;\nMrs. Magnolia Thompson, sis\nter; Mrs. Dorothy Reagan, sis\nter-in-law; VIC, Reed, Dave,\nof Phoenix; and L. C. Reagan\nbrothers.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1883,
+                "y0": 3060,
+                "x1": 2694,
+                "y1": 3663
+            },
+            "class": "article",
+            "raw_text": "Clyde Sutton, Is of Somerton\nis scheduled to go to trial for\nmurder Aug. 81.\n\n\nJudge Kenneth C. Chatwin set\nthat date after Sutton had en-\ntered a plea of innocent to the\nApril 26 shooting-death of Roy\nLee Vaughn, l9 of l24 S. 18th\nAve. in a cafe at 1913 w. Buck\neye.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1894,
+                "y0": 2904,
+                "x1": 2532,
+                "y1": 3021
+            },
+            "class": "headline",
+            "raw_text": "SUTTON TRIAL SET",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2762,
+                "y0": 1544,
+                "x1": 3579,
+                "y1": 2558
+            },
+            "class": "article",
+            "raw_text": "Grady Wady. Jr.. 81. son Of\nMr.. and Mrs. Grady Wady. ST.,\n4543 E. Transmission Rd., Tenn\npc, loves scouting. Since joining\nthree years ago, he has kept a\nhigh interest and recently re-\nturned from a week at Camp\nGeronimo.\n\n\nAn eighth grader at McKemy\nSchool. he plans to be mechan-\nical engineer. Grady fixes all\nsorts of broken toys and small\nmachines.\n\n\nHe was named the outstanding\nLittle League pitcher in 1862.\n\n\nGary is a member of Union\nBaptist Church.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2768,
+                "y0": 2840,
+                "x1": 3573,
+                "y1": 3322
+            },
+            "class": "article",
+            "raw_text": "A. L. Curtis, %, l61OE. Madi-\nson reported to police that a\nstereo record player, records\nand cabinet valued at $3.50 wer\nstolen from the house.\n\n\nInvestigators said the bath\nroom window was used by the\nthief.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2779,
+                "y0": 2597,
+                "x1": 3290,
+                "y1": 2812
+            },
+            "class": "headline",
+            "raw_text": "Thief Has\n\n\nMusical Ear",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3641,
+                "y0": 3199,
+                "x1": 4453,
+                "y1": 3391
+            },
+            "class": "article",
+            "raw_text": "Beautiful 3 Bedrm, 2 bath home\nfor rent Aug. lo.\n\n\nl7O8 E. Pueblo BR 6-6428",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-17"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "FATHER AND SON\nHAVE BREAKS",
+            "article": "Broken bones are the topic of\ndiscussion at the home of Mr.. and\nMrs. D. w. Williams. 5OOl S.\n2lst Way.\n\n\nFirst, Corky, their son. 10. was\nsliding while stealing base dur\ning a Little League game. He\nbroke his right wrist.\n\n\nA few days later. D.W.. vice\npresident of the Williams and\nJones Construction Co., fell from\na roof top while making an in\nspection. He sustained back in\njuries.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1003,
+                    "y0": 3378,
+                    "x1": 1623,
+                    "y1": 3524
+                },
+                {
+                    "x0": 986,
+                    "y0": 3546,
+                    "x1": 1803,
+                    "y1": 4352
+                }
+            ],
+            "bbox": [
+                986,
+                3378,
+                1803,
+                4352
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-17_p1_sn84021918_0041421695A_1964071701_0475.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "We remember her voice and\nsmile. Our beloved daughter, SIS\nter and sister in law, Eolia Cobb\npassed from this earth on July\nis, 1868.\n\n\nShe lives, still. in our fondest\n\n\nmemories.\n\n\nThe pure spirit can never be\n\n\nremoved.\n\n\nShe Is secure in eternal peace\n\n\nwith our Maker.\nMrs. Laura Reagan, mother;\nMrs. Magnolia Thompson, sis\nter; Mrs. Dorothy Reagan, sis\nter-in-law; VIC, Reed, Dave,\nof Phoenix; and L. C. Reagan\nbrothers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1883,
+                    "y0": 1822,
+                    "x1": 2694,
+                    "y1": 2865
+                }
+            ],
+            "bbox": [
+                1883,
+                1822,
+                2694,
+                2865
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-17_p1_sn84021918_0041421695A_1964071701_0475.json"
+        },
+        {
+            "object_ids": [
+                23,
+                7
+            ],
+            "headline": "SUTTON TRIAL SET",
+            "article": "Clyde Sutton, Is of Somerton\nis scheduled to go to trial for\nmurder Aug. 81.\n\n\nJudge Kenneth C. Chatwin set\nthat date after Sutton had en-\ntered a plea of innocent to the\nApril 26 shooting-death of Roy\nLee Vaughn, l9 of l24 S. 18th\nAve. in a cafe at 1913 w. Buck\neye.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1894,
+                    "y0": 2904,
+                    "x1": 2532,
+                    "y1": 3021
+                },
+                {
+                    "x0": 1883,
+                    "y0": 3060,
+                    "x1": 2694,
+                    "y1": 3663
+                }
+            ],
+            "bbox": [
+                1883,
+                2904,
+                2694,
+                3663
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-17_p1_sn84021918_0041421695A_1964071701_0475.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Grady Wady. Jr.. 81. son Of\nMr.. and Mrs. Grady Wady. ST.,\n4543 E. Transmission Rd., Tenn\npc, loves scouting. Since joining\nthree years ago, he has kept a\nhigh interest and recently re-\nturned from a week at Camp\nGeronimo.\n\n\nAn eighth grader at McKemy\nSchool. he plans to be mechan-\nical engineer. Grady fixes all\nsorts of broken toys and small\nmachines.\n\n\nHe was named the outstanding\nLittle League pitcher in 1862.\n\n\nGary is a member of Union\nBaptist Church.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2762,
+                    "y0": 1544,
+                    "x1": 3579,
+                    "y1": 2558
+                }
+            ],
+            "bbox": [
+                2762,
+                1544,
+                3579,
+                2558
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-17_p1_sn84021918_0041421695A_1964071701_0475.json"
+        },
+        {
+            "object_ids": [
+                14,
+                11
+            ],
+            "headline": "Thief Has\n\n\nMusical Ear",
+            "article": "A. L. Curtis, %, l61OE. Madi-\nson reported to police that a\nstereo record player, records\nand cabinet valued at $3.50 wer\nstolen from the house.\n\n\nInvestigators said the bath\nroom window was used by the\nthief.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2779,
+                    "y0": 2597,
+                    "x1": 3290,
+                    "y1": 2812
+                },
+                {
+                    "x0": 2768,
+                    "y0": 2840,
+                    "x1": 3573,
+                    "y1": 3322
+                }
+            ],
+            "bbox": [
+                2768,
+                2597,
+                3573,
+                3322
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-07-17_p1_sn84021918_0041421695A_1964071701_0475.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "Beautiful 3 Bedrm, 2 bath home\nfor rent Aug. lo.\n\n\nl7O8 E. Pueblo BR 6-6428",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3641,
+                    "y0": 3199,
+                    "x1": 4453,
+                    "y1": 3391
+                }
+            ],
+            "bbox": [
+                3641,
+                3199,
+                4453,
+                3391
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-07-17_p1_sn84021918_0041421695A_1964071701_0475.json"
+        }
+    ]
+}

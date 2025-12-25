@@ -1,0 +1,508 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4820,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964040301/0355.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1051,
+                "y0": 705,
+                "x1": 1890,
+                "y1": 2984
+            },
+            "class": "article",
+            "raw_text": "\"The Parent, The Teacher,\nThe Nurse = For The Health of\nthe Child\" is the theme of\nworkshop to be held at Arizona\nState University, Tempe. on Mon\nday, April Is. 1864, at 4 pm. in\nthe ballroom Of the Student Union\nBuilding.\n\n\nSponsored by Maricopa County\nHealth Department, 1t Is designed\nprimarily for PTA members,\nschool administrators, teachers,\nand nurses. However,\" DR.. S.\nF. Farnsworth, Department Dr.\nrector, said eft will be open to\nany other persons who are In\nterested in the goals, RESPONSE\nbilities and services Of the school\nnurse in the school and COM\nmunity.\"\n\n\nMiss Gertrude Cromwell,\nSchool Nurse Consultant, Arizona\nState Health Department, will\nappear. Group discussions will\nbe summarized by DR.. Dorothy\nCillanders. professor of physi-\ncal education, at a dinner at the\nStudent Memorial Union. John\nFriday, Sunland School teacher,\nis scheduled as main dinner\nspeaker.\n\n\nReservations for attending the\nworkshop must be made in ad-\nvance and will be accepted\nthrough Thursday, April s, 1864.\nPersons interested in attending\nshould contact the Maricopa\nCounty Health Department main\noffice, AL $685.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1068,
+                "y0": 462,
+                "x1": 1618,
+                "y1": 677
+            },
+            "class": "headline",
+            "raw_text": "Child Health\nIs Topic",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2826,
+                "y0": 2203,
+                "x1": 3636,
+                "y1": 3557
+            },
+            "class": "article",
+            "raw_text": "PALMBEACH, FLA.-Periodic\nX-ray examinations Of all women\nover 40 were urged as the only\nmeans Of cutting the grievous\ntoll from breast cancer.\n\n\nDR.. Jacob Gershon-Cohen Of\nthe Albert Einstein Medical Gen.\nter, Philadelphia, made the plea\nin addressing the sixth annual\nseminar for science writer's\nspoons ored by the American Can\nGer Society.\n\n\nHe said that at present about\no5 per cent of all breast cancers\nare first detected by the patients\nthemselves, and that at the time\nthey are spotted 90 per cent Of\nthem already have spread be-\nyound the breast to the armpits.\n\n\nThus, he said, available cura-\ntive methods such as surgery\n= are forfeited in approximately\nso per cent Of all cases.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2849,
+                "y0": 2012,
+                "x1": 3503,
+                "y1": 2186
+            },
+            "class": "headline",
+            "raw_text": "WOMEN URGED\n\n\nTO GET CHECK UP",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 172,
+                "y0": 1810,
+                "x1": 988,
+                "y1": 2984
+            },
+            "class": "article",
+            "raw_text": "NEW YORK United Negro\nCollege Fund will open Its 18th\nyear Of continuous weekly broad\ncasts over ABC's network \"Ne-\ngro College Choirs\" series with\na \"Songs Of Nature\" program.\n\n\nThe program will be presented\nby the choirs Of eight UNCF\nmember institutions: Lane Col\nlege, Jacks ION. Tenn, Xavier Uni\nversity, New Orleans, La, Phil\nander Smith c ollege, Little Rock.\nArk. Spelman College and Nor\nris Brown College, Atlanta. Ca,\nStillman College, Tuscaloosa,\nAla, Livingstone College. Sails\nbury, NC, and Barber-Scotia\nCollege, Concord, NC.\n\n\nA program will originate in\nNew York City, April S.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 177,
+                "y0": 1642,
+                "x1": 774,
+                "y1": 1799
+            },
+            "class": "headline",
+            "raw_text": "Oh OR Program\n\n\nBegins 18th Year",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 177,
+                "y0": 751,
+                "x1": 999,
+                "y1": 1625
+            },
+            "class": "article",
+            "raw_text": "Superior Court Judge Ross\ntold Allen CAN'T, Jr., 81, 1904\nw. Tonic, that he was vicious.\n\n\n\"The only thing to do with you\nIs to take you out of society\nwhere you can't harm people,\"\n\n\nCAN'T had pleaded guilty to\nfive armed robberies. He was\nsentenced to three consecutive\nprison terms Of $40 years each.\n\n\nHe robbed five people on Dec.\nrs. More than ST 700 In loot was\nrecovered and returned to his\nvictims. He was captured on the\nsame day Of the robberies.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 172,
+                "y0": 514,
+                "x1": 751,
+                "y1": 718
+            },
+            "class": "headline",
+            "raw_text": "Gunff\n\n\nIs Sentenced",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1958,
+                "y0": 2197,
+                "x1": 2769,
+                "y1": 2950
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The New York\nState Assembly reversed its\nearlier decision and passed a\nmeasure, March \"a, to end dis\nelimination against Negroes and\nPuerto Ricans in apprenticeship\ntraining programs.\n\n\nPassage of this legislation was\none of the prime targets of the\nrecent March on Albany SPONSOR\ned by the National Association\nfor the Advancement of Colored\nPeople.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1970,
+                "y0": 2018,
+                "x1": 2694,
+                "y1": 2181
+            },
+            "class": "headline",
+            "raw_text": "TRAINING PROGRAM\nINTECRATED",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1947,
+                "y0": 618,
+                "x1": 3619,
+                "y1": 2001
+            },
+            "class": "article",
+            "raw_text": "\n\n\nWhy is 1t that people label any proposal\nwhich they do being product\nmunsm7 These people said that the\nRussian They placed the stigma Of freedom\nmarch in Washington. They have branded the Civil Rights\nbeing communstc in substance\n\n\nThe Civil Rights BILL the contrary designed give liberties\nminority which has long been denied these rights\nsona liberty and freedom hand in hand freedom\nany be able and without discrimination\nhave freedom Of conscience and power choice.\nThat great humanitarian and Patrick Henry asked\nthese liberties when he said \"Cive liberty give\ndeath. No rise today and say\nprompted by though Of communsic deology To would\ndeny the very existence Of constitutions\nThe Civil Rights Bill liberties given to\nthe American Negro. The bill perfect passed.\nis time that aside preudice party differences\numertcan and uChrisan deny the Negro his rights\n\n\nJim Jones\n\n\n1920 No. End St.\n\n\nPhoani Ari1",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1964,
+                "y0": 462,
+                "x1": 2740,
+                "y1": 579
+            },
+            "class": "headline",
+            "raw_text": "IN The MAILBAG",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3705,
+                "y0": 2931,
+                "x1": 4273,
+                "y1": 3071
+            },
+            "class": "article",
+            "raw_text": "I & M BARBER SHOP\nl205 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2421,
+                "y0": 1977,
+                "x1": 2960,
+                "y1": 2019
+            },
+            "class": "article",
+            "raw_text": "Phoenix II, Ariz.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3699,
+                "y0": 2237,
+                "x1": 4423,
+                "y1": 2429
+            },
+            "class": "article",
+            "raw_text": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964040301_0355",
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "Child Health\nIs Topic",
+            "article": "\"The Parent, The Teacher,\nThe Nurse = For The Health of\nthe Child\" is the theme of\nworkshop to be held at Arizona\nState University, Tempe. on Mon\nday, April Is. 1864, at 4 pm. in\nthe ballroom Of the Student Union\nBuilding.\n\n\nSponsored by Maricopa County\nHealth Department, 1t Is designed\nprimarily for PTA members,\nschool administrators, teachers,\nand nurses. However,\" DR.. S.\nF. Farnsworth, Department Dr.\nrector, said eft will be open to\nany other persons who are In\nterested in the goals, RESPONSE\nbilities and services Of the school\nnurse in the school and COM\nmunity.\"\n\n\nMiss Gertrude Cromwell,\nSchool Nurse Consultant, Arizona\nState Health Department, will\nappear. Group discussions will\nbe summarized by DR.. Dorothy\nCillanders. professor of physi-\ncal education, at a dinner at the\nStudent Memorial Union. John\nFriday, Sunland School teacher,\nis scheduled as main dinner\nspeaker.\n\n\nReservations for attending the\nworkshop must be made in ad-\nvance and will be accepted\nthrough Thursday, April s, 1864.\nPersons interested in attending\nshould contact the Maricopa\nCounty Health Department main\noffice, AL $685.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1068,
+                    "y0": 462,
+                    "x1": 1618,
+                    "y1": 677
+                },
+                {
+                    "x0": 1051,
+                    "y0": 705,
+                    "x1": 1890,
+                    "y1": 2984
+                }
+            ],
+            "bbox": [
+                1051,
+                462,
+                1890,
+                2984
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "WOMEN URGED\n\n\nTO GET CHECK UP",
+            "article": "PALMBEACH, FLA.-Periodic\nX-ray examinations Of all women\nover 40 were urged as the only\nmeans Of cutting the grievous\ntoll from breast cancer.\n\n\nDR.. Jacob Gershon-Cohen Of\nthe Albert Einstein Medical Gen.\nter, Philadelphia, made the plea\nin addressing the sixth annual\nseminar for science writer's\nspoons ored by the American Can\nGer Society.\n\n\nHe said that at present about\no5 per cent of all breast cancers\nare first detected by the patients\nthemselves, and that at the time\nthey are spotted 90 per cent Of\nthem already have spread be-\nyound the breast to the armpits.\n\n\nThus, he said, available cura-\ntive methods such as surgery\n= are forfeited in approximately\nso per cent Of all cases.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2849,
+                    "y0": 2012,
+                    "x1": 3503,
+                    "y1": 2186
+                },
+                {
+                    "x0": 2826,
+                    "y0": 2203,
+                    "x1": 3636,
+                    "y1": 3557
+                }
+            ],
+            "bbox": [
+                2826,
+                2012,
+                3636,
+                3557
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                11,
+                2
+            ],
+            "headline": "Oh OR Program\n\n\nBegins 18th Year",
+            "article": "NEW YORK United Negro\nCollege Fund will open Its 18th\nyear Of continuous weekly broad\ncasts over ABC's network \"Ne-\ngro College Choirs\" series with\na \"Songs Of Nature\" program.\n\n\nThe program will be presented\nby the choirs Of eight UNCF\nmember institutions: Lane Col\nlege, Jacks ION. Tenn, Xavier Uni\nversity, New Orleans, La, Phil\nander Smith c ollege, Little Rock.\nArk. Spelman College and Nor\nris Brown College, Atlanta. Ca,\nStillman College, Tuscaloosa,\nAla, Livingstone College. Sails\nbury, NC, and Barber-Scotia\nCollege, Concord, NC.\n\n\nA program will originate in\nNew York City, April S.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 177,
+                    "y0": 1642,
+                    "x1": 774,
+                    "y1": 1799
+                },
+                {
+                    "x0": 172,
+                    "y0": 1810,
+                    "x1": 988,
+                    "y1": 2984
+                }
+            ],
+            "bbox": [
+                172,
+                1642,
+                988,
+                2984
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "Gunff\n\n\nIs Sentenced",
+            "article": "Superior Court Judge Ross\ntold Allen CAN'T, Jr., 81, 1904\nw. Tonic, that he was vicious.\n\n\n\"The only thing to do with you\nIs to take you out of society\nwhere you can't harm people,\"\n\n\nCAN'T had pleaded guilty to\nfive armed robberies. He was\nsentenced to three consecutive\nprison terms Of $40 years each.\n\n\nHe robbed five people on Dec.\nrs. More than ST 700 In loot was\nrecovered and returned to his\nvictims. He was captured on the\nsame day Of the robberies.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 172,
+                    "y0": 514,
+                    "x1": 751,
+                    "y1": 718
+                },
+                {
+                    "x0": 177,
+                    "y0": 751,
+                    "x1": 999,
+                    "y1": 1625
+                }
+            ],
+            "bbox": [
+                172,
+                514,
+                999,
+                1625
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "TRAINING PROGRAM\nINTECRATED",
+            "article": "NEW YORK The New York\nState Assembly reversed its\nearlier decision and passed a\nmeasure, March \"a, to end dis\nelimination against Negroes and\nPuerto Ricans in apprenticeship\ntraining programs.\n\n\nPassage of this legislation was\none of the prime targets of the\nrecent March on Albany SPONSOR\ned by the National Association\nfor the Advancement of Colored\nPeople.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 2018,
+                    "x1": 2694,
+                    "y1": 2181
+                },
+                {
+                    "x0": 1958,
+                    "y0": 2197,
+                    "x1": 2769,
+                    "y1": 2950
+                }
+            ],
+            "bbox": [
+                1958,
+                2018,
+                2769,
+                2950
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                15,
+                5
+            ],
+            "headline": "IN The MAILBAG",
+            "article": "\n\n\nWhy is 1t that people label any proposal\nwhich they do being product\nmunsm7 These people said that the\nRussian They placed the stigma Of freedom\nmarch in Washington. They have branded the Civil Rights\nbeing communstc in substance\n\n\nThe Civil Rights BILL the contrary designed give liberties\nminority which has long been denied these rights\nsona liberty and freedom hand in hand freedom\nany be able and without discrimination\nhave freedom Of conscience and power choice.\nThat great humanitarian and Patrick Henry asked\nthese liberties when he said \"Cive liberty give\ndeath. No rise today and say\nprompted by though Of communsic deology To would\ndeny the very existence Of constitutions\nThe Civil Rights Bill liberties given to\nthe American Negro. The bill perfect passed.\nis time that aside preudice party differences\numertcan and uChrisan deny the Negro his rights\n\n\nJim Jones\n\n\n1920 No. End St.\n\n\nPhoani Ari1",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1964,
+                    "y0": 462,
+                    "x1": 2740,
+                    "y1": 579
+                },
+                {
+                    "x0": 1947,
+                    "y0": 618,
+                    "x1": 3619,
+                    "y1": 2001
+                }
+            ],
+            "bbox": [
+                1947,
+                462,
+                3619,
+                2001
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "I & M BARBER SHOP\nl205 w. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3705,
+                    "y0": 2931,
+                    "x1": 4273,
+                    "y1": 3071
+                }
+            ],
+            "bbox": [
+                3705,
+                2931,
+                4273,
+                3071
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Phoenix II, Ariz.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2421,
+                    "y0": 1977,
+                    "x1": 2960,
+                    "y1": 2019
+                }
+            ],
+            "bbox": [
+                2421,
+                1977,
+                2960,
+                2019
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3699,
+                    "y0": 2237,
+                    "x1": 4423,
+                    "y1": 2429
+                }
+            ],
+            "bbox": [
+                3699,
+                2237,
+                4423,
+                2429
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-04-03_pna_sn84021918_0041421695A_1964040301_0355.json"
+        }
+    ]
+}

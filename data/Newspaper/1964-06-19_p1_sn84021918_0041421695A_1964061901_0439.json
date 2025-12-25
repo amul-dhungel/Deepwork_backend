@@ -1,0 +1,269 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061901/0439.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4883
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1937,
+                "y0": 677,
+                "x1": 2766,
+                "y1": 2695
+            },
+            "class": "article",
+            "raw_text": "June Is = Dist. tournament,\nbase running. etc. -Shff School.\n\n\nMovies every Mondays pm.\nnext week-Fighting Man Of the\nPlains starring Randolph Scott\n\n\nWed. 7 pm. Slimnastics for\nladies-Beatrice Jackson.\n\n\nWed. 7 pm. Tennis lessons\nMoses Campbell\n\n\nWed. 4:30 pm. Youngsters\ngames-B. Jacks on and Ethel Dan\niels.\n\n\nWed. l:3o-3:3o pm. Drama\nLessons\n\n\nTues. 3:3O-4:30 pm. Special\ncrafts-Jerry Sanders\n\n\nMon. 6 pm. Boys baseball\ngames at diamond\n\n\nTues. 6p.m. Sewing classes for\ngirls B. Jackson\n\n\nThurs. 7 pm. Girls softball\nSat. 10 am. Free tap lessons\nClarence Jackson, director ur-\nges everyone to visit Eastlake\nPark this summer and take ad-\nvantage of the free program. He\nsaid to enjoy facilities at other\nparks in your neighborhood. too.\nThe day camp was very sue\ncessful and more than so young\nSterS attended.\n\n\nEastlake Park Is open five days\na week from 9 a.m.-lO pm.\nSat. and Sum-. 2 p.m.O pm.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1960,
+                "y0": 434,
+                "x1": 2401,
+                "y1": 644
+            },
+            "class": "headline",
+            "raw_text": "EustIuke\n\n\nPark News",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3733,
+                "y0": 2809,
+                "x1": 4545,
+                "y1": 3210
+            },
+            "class": "article",
+            "raw_text": "will coordinate program.\n\n\nRegistration will begin Mon\nday morning June ~, at 800\no'clock.\n\n\nThe Training School will end\nJune 26, and the Conference will\nend June %.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2847,
+                "y0": 2804,
+                "x1": 3670,
+                "y1": 3210
+            },
+            "class": "article",
+            "raw_text": "District Conference and the\nLeadership Training School will\nbegin Monday morning June p,\nat the Phillips Memorial C.M.E.\nChurch l40l E. Adams. Rev.\nl.. ]. Harper-presiding Elder,\nRev. A. Jones dean of school",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3235,
+                "y0": 2699,
+                "x1": 4093,
+                "y1": 2787
+            },
+            "class": "headline",
+            "raw_text": "Conference At 0E Church",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 187,
+                "y0": 1854,
+                "x1": 1863,
+                "y1": 2388
+            },
+            "class": "article",
+            "raw_text": "Shoeshne Robert Ruiz hands blur he shines chrome\nPublic Service Company install\nsomewhere in its service week. The speciay-coaed\nwill be the 250OO0h installed by the utility since\ndecessor company began serving gas in Arizona in 1885,\n\n\nWatching Ruiz work Thomas j. awey SRI of Phoenix,\nhead of the us gas department. 49, of the\nOldest rerees Robert shines shoes the during\nhis off-schoo hours.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2847,
+                "y0": 2247,
+                "x1": 4499,
+                "y1": 2689
+            },
+            "class": "article",
+            "raw_text": "Stepping with the march South Mountain\nHigh Schools 1864 senior Misses Sylvia Heard\nFrances Hayes.\n\n\nThey Joined of graduates filed the\nchallenged\n\n\nhe wrong picture South High Schools graduation march\ninserted weeks ediuon).",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-19"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                3
+            ],
+            "headline": "EustIuke\n\n\nPark News",
+            "article": "June Is = Dist. tournament,\nbase running. etc. -Shff School.\n\n\nMovies every Mondays pm.\nnext week-Fighting Man Of the\nPlains starring Randolph Scott\n\n\nWed. 7 pm. Slimnastics for\nladies-Beatrice Jackson.\n\n\nWed. 7 pm. Tennis lessons\nMoses Campbell\n\n\nWed. 4:30 pm. Youngsters\ngames-B. Jacks on and Ethel Dan\niels.\n\n\nWed. l:3o-3:3o pm. Drama\nLessons\n\n\nTues. 3:3O-4:30 pm. Special\ncrafts-Jerry Sanders\n\n\nMon. 6 pm. Boys baseball\ngames at diamond\n\n\nTues. 6p.m. Sewing classes for\ngirls B. Jackson\n\n\nThurs. 7 pm. Girls softball\nSat. 10 am. Free tap lessons\nClarence Jackson, director ur-\nges everyone to visit Eastlake\nPark this summer and take ad-\nvantage of the free program. He\nsaid to enjoy facilities at other\nparks in your neighborhood. too.\nThe day camp was very sue\ncessful and more than so young\nSterS attended.\n\n\nEastlake Park Is open five days\na week from 9 a.m.-lO pm.\nSat. and Sum-. 2 p.m.O pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1960,
+                    "y0": 434,
+                    "x1": 2401,
+                    "y1": 644
+                },
+                {
+                    "x0": 1937,
+                    "y0": 677,
+                    "x1": 2766,
+                    "y1": 2695
+                }
+            ],
+            "bbox": [
+                1937,
+                434,
+                2766,
+                2695
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-19_p1_sn84021918_0041421695A_1964061901_0439.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "will coordinate program.\n\n\nRegistration will begin Mon\nday morning June ~, at 800\no'clock.\n\n\nThe Training School will end\nJune 26, and the Conference will\nend June %.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3733,
+                    "y0": 2809,
+                    "x1": 4545,
+                    "y1": 3210
+                }
+            ],
+            "bbox": [
+                3733,
+                2809,
+                4545,
+                3210
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-19_p1_sn84021918_0041421695A_1964061901_0439.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "Conference At 0E Church",
+            "article": "District Conference and the\nLeadership Training School will\nbegin Monday morning June p,\nat the Phillips Memorial C.M.E.\nChurch l40l E. Adams. Rev.\nl.. ]. Harper-presiding Elder,\nRev. A. Jones dean of school",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3235,
+                    "y0": 2699,
+                    "x1": 4093,
+                    "y1": 2787
+                },
+                {
+                    "x0": 2847,
+                    "y0": 2804,
+                    "x1": 3670,
+                    "y1": 3210
+                }
+            ],
+            "bbox": [
+                2847,
+                2699,
+                4093,
+                3210
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-19_p1_sn84021918_0041421695A_1964061901_0439.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Shoeshne Robert Ruiz hands blur he shines chrome\nPublic Service Company install\nsomewhere in its service week. The speciay-coaed\nwill be the 250OO0h installed by the utility since\ndecessor company began serving gas in Arizona in 1885,\n\n\nWatching Ruiz work Thomas j. awey SRI of Phoenix,\nhead of the us gas department. 49, of the\nOldest rerees Robert shines shoes the during\nhis off-schoo hours.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 187,
+                    "y0": 1854,
+                    "x1": 1863,
+                    "y1": 2388
+                }
+            ],
+            "bbox": [
+                187,
+                1854,
+                1863,
+                2388
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-19_p1_sn84021918_0041421695A_1964061901_0439.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Stepping with the march South Mountain\nHigh Schools 1864 senior Misses Sylvia Heard\nFrances Hayes.\n\n\nThey Joined of graduates filed the\nchallenged\n\n\nhe wrong picture South High Schools graduation march\ninserted weeks ediuon).",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2847,
+                    "y0": 2247,
+                    "x1": 4499,
+                    "y1": 2689
+                }
+            ],
+            "bbox": [
+                2847,
+                2247,
+                4499,
+                2689
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-06-19_p1_sn84021918_0041421695A_1964061901_0439.json"
+        }
+    ]
+}

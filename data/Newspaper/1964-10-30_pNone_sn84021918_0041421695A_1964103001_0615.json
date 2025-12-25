@@ -1,0 +1,314 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4929,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0615.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1983,
+                "y0": 550,
+                "x1": 2807,
+                "y1": 1391
+            },
+            "class": "article",
+            "raw_text": "A novelty in food serving will\nbe the ia ste treats offered in the\nfirst Salad Spread which is\nscheduled at the Church of the\nLiving God PCT, l745 E. Mari\ncopa, Sat-, Nov. 7, TO pm.\n\n\nElder E. ]. Hudson is the\npa stor.\n\n\nMrs. Toles, publicity chair\nman, reports that dozen de-\nlicious and different salads will\nbe sold and served for you. The\nproceeds will aid the building\nfund. Donation ST..",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2018,
+                "y0": 306,
+                "x1": 2592,
+                "y1": 528
+            },
+            "class": "headline",
+            "raw_text": "Salad Spread\nat Church",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3559,
+                "y0": 2942,
+                "x1": 4620,
+                "y1": 3476
+            },
+            "class": "article",
+            "raw_text": "Combine coffee and chocolate in top Of double\nboiler Place over hot water until the chocolate\nmelts. Remove from heat and set aside to cool\nfor IS minutes or more.\n\n\nBeat the yoks until light in color, add sugar\nand continue beating until light and fluffy. Add\nthe chocolate and mix we'll. Beat the whites\nuntil stiff but not too dry and fold them slowly\nand carefully into the chocolate mixture. Whp\nthe cream and gently fold into the mixture.\nPour into unbuttered individual dishes. Chill for\nat least four hours.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 4173,
+                "y0": 2826,
+                "x1": 4620,
+                "y1": 2885
+            },
+            "class": "author",
+            "raw_text": "photo B. Heard",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1317,
+                "y0": 6782,
+                "x1": 2604,
+                "y1": 7067
+            },
+            "class": "article",
+            "raw_text": "2ools COMMITTEE Ed 1Oves so45 chOa Rd eso\nGordon 5sol Exeter Phosns Decao' ,o o1Gk\nSON. asa Gilbert Members Waiter ayeIll va vista sHo:\nCasa Grande Member Whiting BOX 45o risss'd' \"e0e''\nReed r. Welch 1886 Gale Corea Tucson, Member",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1306,
+                "y0": 6417,
+                "x1": 2645,
+                "y1": 6714
+            },
+            "class": "headline",
+            "raw_text": "2OO-YES",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2922,
+                "y0": 2982,
+                "x1": 3531,
+                "y1": 3424
+            },
+            "class": "article",
+            "raw_text": "CHOCOLATE MOUSSE\nz tablespoons brewed coffee\n3 ounces sweet chocolate\na egg yoIks\nVa cup sugar\n\n\na egg whites\nw cups heavy cream",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 379,
+                "y0": 6863,
+                "x1": 1191,
+                "y1": 7032
+            },
+            "class": "article",
+            "raw_text": "Want more information? Write to \"200.feS\nCommittee\" RIM. $50, Luhrs Central Bldg,\n1872 S. Central, Phoenix, or phone 254-4580.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 414,
+                "y0": 6423,
+                "x1": 878,
+                "y1": 6719
+            },
+            "class": "headline",
+            "raw_text": "v0 {",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964103001_0615",
+    "full articles": [
+        {
+            "object_ids": [
+                4,
+                0
+            ],
+            "headline": "Salad Spread\nat Church",
+            "article": "A novelty in food serving will\nbe the ia ste treats offered in the\nfirst Salad Spread which is\nscheduled at the Church of the\nLiving God PCT, l745 E. Mari\ncopa, Sat-, Nov. 7, TO pm.\n\n\nElder E. ]. Hudson is the\npa stor.\n\n\nMrs. Toles, publicity chair\nman, reports that dozen de-\nlicious and different salads will\nbe sold and served for you. The\nproceeds will aid the building\nfund. Donation ST..",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2018,
+                    "y0": 306,
+                    "x1": 2592,
+                    "y1": 528
+                },
+                {
+                    "x0": 1983,
+                    "y0": 550,
+                    "x1": 2807,
+                    "y1": 1391
+                }
+            ],
+            "bbox": [
+                1983,
+                306,
+                2807,
+                1391
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-30_pna_sn84021918_0041421695A_1964103001_0615.json"
+        },
+        {
+            "object_ids": [
+                18,
+                1
+            ],
+            "headline": "",
+            "article": "Combine coffee and chocolate in top Of double\nboiler Place over hot water until the chocolate\nmelts. Remove from heat and set aside to cool\nfor IS minutes or more.\n\n\nBeat the yoks until light in color, add sugar\nand continue beating until light and fluffy. Add\nthe chocolate and mix we'll. Beat the whites\nuntil stiff but not too dry and fold them slowly\nand carefully into the chocolate mixture. Whp\nthe cream and gently fold into the mixture.\nPour into unbuttered individual dishes. Chill for\nat least four hours.",
+            "byline": "photo B. Heard",
+            "bbox_list": [
+                {
+                    "x0": 4173,
+                    "y0": 2826,
+                    "x1": 4620,
+                    "y1": 2885
+                },
+                {
+                    "x0": 3559,
+                    "y0": 2942,
+                    "x1": 4620,
+                    "y1": 3476
+                }
+            ],
+            "bbox": [
+                3559,
+                2826,
+                4620,
+                3476
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-30_pna_sn84021918_0041421695A_1964103001_0615.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "2OO-YES",
+            "article": "2ools COMMITTEE Ed 1Oves so45 chOa Rd eso\nGordon 5sol Exeter Phosns Decao' ,o o1Gk\nSON. asa Gilbert Members Waiter ayeIll va vista sHo:\nCasa Grande Member Whiting BOX 45o risss'd' \"e0e''\nReed r. Welch 1886 Gale Corea Tucson, Member",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1306,
+                    "y0": 6417,
+                    "x1": 2645,
+                    "y1": 6714
+                },
+                {
+                    "x0": 1317,
+                    "y0": 6782,
+                    "x1": 2604,
+                    "y1": 7067
+                }
+            ],
+            "bbox": [
+                1306,
+                6417,
+                2645,
+                7067
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-30_pna_sn84021918_0041421695A_1964103001_0615.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "CHOCOLATE MOUSSE\nz tablespoons brewed coffee\n3 ounces sweet chocolate\na egg yoIks\nVa cup sugar\n\n\na egg whites\nw cups heavy cream",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2922,
+                    "y0": 2982,
+                    "x1": 3531,
+                    "y1": 3424
+                }
+            ],
+            "bbox": [
+                2922,
+                2982,
+                3531,
+                3424
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-10-30_pna_sn84021918_0041421695A_1964103001_0615.json"
+        },
+        {
+            "object_ids": [
+                16,
+                13
+            ],
+            "headline": "v0 {",
+            "article": "Want more information? Write to \"200.feS\nCommittee\" RIM. $50, Luhrs Central Bldg,\n1872 S. Central, Phoenix, or phone 254-4580.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 414,
+                    "y0": 6423,
+                    "x1": 878,
+                    "y1": 6719
+                },
+                {
+                    "x0": 379,
+                    "y0": 6863,
+                    "x1": 1191,
+                    "y1": 7032
+                }
+            ],
+            "bbox": [
+                379,
+                6423,
+                1191,
+                7032
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-10-30_pna_sn84021918_0041421695A_1964103001_0615.json"
+        }
+    ]
+}

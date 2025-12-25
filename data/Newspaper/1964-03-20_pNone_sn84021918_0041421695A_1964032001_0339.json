@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-20",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4787,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-20",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032001/0339.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 163,
+                "y0": 735,
+                "x1": 986,
+                "y1": 1281
+            },
+            "class": "article",
+            "raw_text": "Bishops and Ministerial Coun-\nell of the Church of the Living\nGod will convene Mar. 24-27 at\nthe church.\n\n\nSenior Choir will sponsor Sun\nrise Easter services, Sum-, Mar.\n20, $50 am on the church lawn.\n\n\nRev. E. Hudson invites all per-\nsons to attend these services.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 204,
+                "y0": 544,
+                "x1": 894,
+                "y1": 684
+            },
+            "class": "headline",
+            "raw_text": "CHURCH NEWS",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1072,
+                "y0": 2571,
+                "x1": 1867,
+                "y1": 2844
+            },
+            "class": "article",
+            "raw_text": "Tears are natures own eye\nwash. Never rub your eye when\nthere's a speck in it. Lift upper\nlid, pull over lower lid and let\ntears wash out the object.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1217,
+                "y0": 2490,
+                "x1": 1722,
+                "y1": 2555
+            },
+            "class": "headline",
+            "raw_text": "TIME FOR TEARS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1953,
+                "y0": 2600,
+                "x1": 2753,
+                "y1": 2844
+            },
+            "class": "article",
+            "raw_text": "In products ranging from pic\nmic plates to reading matter, 457\npounds of paper are used up by\nan average American in year.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2034,
+                "y0": 2450,
+                "x1": 2643,
+                "y1": 2566
+            },
+            "class": "headline",
+            "raw_text": "PAPER USE HIGH",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1096,
+                "y0": 1946,
+                "x1": 2776,
+                "y1": 2381
+            },
+            "class": "article",
+            "raw_text": "Others attending the AKA coffee siphonorng Mrs. Mitchell include\nseated from left Mesdame Ann Ford Smith, Maurice Moore\nPearl MITCHELL honoree, Jimmie Brooks and A. D. Hart.\n\n\nStanding left Mesdames William Hooks, William James,\nMiss Martha Clark Mesdames Lucas Leos Walter Venerable Bar\nRandall Travis Williams Sr Everett Snoden and Dorothy\nCrowley.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3702,
+                "y0": 2461,
+                "x1": 4537,
+                "y1": 2659
+            },
+            "class": "article",
+            "raw_text": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3702,
+                "y0": 2235,
+                "x1": 4502,
+                "y1": 2439
+            },
+            "class": "article",
+            "raw_text": "Soluble BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964032001_0339",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "CHURCH NEWS",
+            "article": "Bishops and Ministerial Coun-\nell of the Church of the Living\nGod will convene Mar. 24-27 at\nthe church.\n\n\nSenior Choir will sponsor Sun\nrise Easter services, Sum-, Mar.\n20, $50 am on the church lawn.\n\n\nRev. E. Hudson invites all per-\nsons to attend these services.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 204,
+                    "y0": 544,
+                    "x1": 894,
+                    "y1": 684
+                },
+                {
+                    "x0": 163,
+                    "y0": 735,
+                    "x1": 986,
+                    "y1": 1281
+                }
+            ],
+            "bbox": [
+                163,
+                544,
+                986,
+                1281
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-03-20_pna_sn84021918_0041421695A_1964032001_0339.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "TIME FOR TEARS",
+            "article": "Tears are natures own eye\nwash. Never rub your eye when\nthere's a speck in it. Lift upper\nlid, pull over lower lid and let\ntears wash out the object.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1217,
+                    "y0": 2490,
+                    "x1": 1722,
+                    "y1": 2555
+                },
+                {
+                    "x0": 1072,
+                    "y0": 2571,
+                    "x1": 1867,
+                    "y1": 2844
+                }
+            ],
+            "bbox": [
+                1072,
+                2490,
+                1867,
+                2844
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-03-20_pna_sn84021918_0041421695A_1964032001_0339.json"
+        },
+        {
+            "object_ids": [
+                12,
+                10
+            ],
+            "headline": "PAPER USE HIGH",
+            "article": "In products ranging from pic\nmic plates to reading matter, 457\npounds of paper are used up by\nan average American in year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2034,
+                    "y0": 2450,
+                    "x1": 2643,
+                    "y1": 2566
+                },
+                {
+                    "x0": 1953,
+                    "y0": 2600,
+                    "x1": 2753,
+                    "y1": 2844
+                }
+            ],
+            "bbox": [
+                1953,
+                2450,
+                2753,
+                2844
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-20_pna_sn84021918_0041421695A_1964032001_0339.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Others attending the AKA coffee siphonorng Mrs. Mitchell include\nseated from left Mesdame Ann Ford Smith, Maurice Moore\nPearl MITCHELL honoree, Jimmie Brooks and A. D. Hart.\n\n\nStanding left Mesdames William Hooks, William James,\nMiss Martha Clark Mesdames Lucas Leos Walter Venerable Bar\nRandall Travis Williams Sr Everett Snoden and Dorothy\nCrowley.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1096,
+                    "y0": 1946,
+                    "x1": 2776,
+                    "y1": 2381
+                }
+            ],
+            "bbox": [
+                1096,
+                1946,
+                2776,
+                2381
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-03-20_pna_sn84021918_0041421695A_1964032001_0339.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3702,
+                    "y0": 2461,
+                    "x1": 4537,
+                    "y1": 2659
+                }
+            ],
+            "bbox": [
+                3702,
+                2461,
+                4537,
+                2659
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-03-20_pna_sn84021918_0041421695A_1964032001_0339.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Soluble BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3702,
+                    "y0": 2235,
+                    "x1": 4502,
+                    "y1": 2439
+                }
+            ],
+            "bbox": [
+                3702,
+                2235,
+                4502,
+                2439
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-03-20_pna_sn84021918_0041421695A_1964032001_0339.json"
+        }
+    ]
+}

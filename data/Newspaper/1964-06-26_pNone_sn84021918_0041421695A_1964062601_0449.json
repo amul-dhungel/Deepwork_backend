@@ -1,0 +1,504 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-26",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4866,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-26",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964062601/0449.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1047,
+                "y0": 2950,
+                "x1": 1848,
+                "y1": 3785
+            },
+            "class": "article",
+            "raw_text": "49, Put overnight and on\nthe-road\" items in a tote bag\nwhich you can reach with ease\nas you stop for the night.\n\n\na. For any and all car-clean-\nup emergencies, n u d a\nsponge and a bottle of pine\ncleaner wrapped in a plastic\nbag.\n\n\n60 Unpack the glove conf\npartment, then repack it. In\nclude basics only 5000 necessary\nmaps, pencil and pad, flash\nlight, first-aid kit. facial It's\nsues, pre-moistened cleansing\ntissues for hands and face.\n\n\nHappy touring.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1951,
+                "y0": 631,
+                "x1": 2758,
+                "y1": 1160
+            },
+            "class": "article",
+            "raw_text": "All Valley students are invited\nto send in their original stories\nor poems to the Children's Cor\nner, Arizona Tribune, P.O. Box\n8248, Phoenix, Arizona 85O4O.\nEditor will select items for pub\nLEGATION and no manuscripts will\nbe returned or no fees paid for\nmaterial used.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1980,
+                "y0": 353,
+                "x1": 2700,
+                "y1": 603
+            },
+            "class": "headline",
+            "raw_text": "new FEATURE\nChiIdrens Corner",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1951,
+                "y0": 1280,
+                "x1": 2770,
+                "y1": 3235
+            },
+            "class": "article",
+            "raw_text": "One day Dick went to the Malt\nshop.\n\n\nDick said, \"Cive me a double\nlayer banana split and some gin\nger ale. | think | deserve 1t\nbecause l answered all the ques-\nlions in school this week.\"\nThen he heard two little girls\nasking questions of each other.\nOne girl said, \"How do you make\nginger aleT'\n\n\nExcuse me-\" said Dick. \"But\nl think heard you ask how to\nmake ginger ale\"\n\n\nEll did,\" she said.\n\n\n\"Well, I'll answer that\" re-\npiled Dick.\n\n\n\"Do it,\" the girl said.\n\n\n\"You pull the ginger and add\nthe ale,\" Dick said.\n\n\nThe girl shook her head and\nsaid, wrong, you pull the ale\noff the tree and bake some gin\ngerbread.\"\n\n\n\"Wrong,\" said Dick.\n\n\nHere how you do it. you pat\nyour back\" the girl answered.\nlust then Dick watched some gin\nger ale drift by him.\n\n\nwell, I'm not that smart, Twas\nwrong\" said Dick.\n\n\nMercedes Laing\n\n\nGRADE 8",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2021,
+                "y0": 1176,
+                "x1": 2677,
+                "y1": 1270
+            },
+            "class": "headline",
+            "raw_text": "A Ginger Ale Tale",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 195,
+                "y0": 3367,
+                "x1": 567,
+                "y1": 3814
+            },
+            "class": "article",
+            "raw_text": "tial items and\ncheck them off\nas you pack.\n\n\n(2.) D n t\noverpack\n\n\nk e e p clothes\na n d vacation\ngear to a mini\nmum. T h i S",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2827,
+                "y0": 2498,
+                "x1": 3633,
+                "y1": 2864
+            },
+            "class": "article",
+            "raw_text": "NEW YORK--Roy Campanella,\nformer Dodger baseball star,\nnow a liquor store owner, an\nnounced his marriage to Mrs.\nRoxy ]. Doles.\n\n\nMrs. Campanella's late hus-",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3215,
+                "y0": 2301,
+                "x1": 4097,
+                "y1": 2446
+            },
+            "class": "headline",
+            "raw_text": "Cumpy Weds Widow",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 184,
+                "y0": 3071,
+                "x1": 984,
+                "y1": 3368
+            },
+            "class": "article",
+            "raw_text": "AS 80 million of us move out\nof the household and on to the\nroad this summer, here are\nsome suggestions for lessening\nthe chore that is packing:\n\n\nH. Make a list of all essen",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 189,
+                "y0": 2660,
+                "x1": 747,
+                "y1": 3038
+            },
+            "class": "headline",
+            "raw_text": "+4c&lAekoM\n\n\n4uh by\nJoan March WOrden\nDirector, Pine Cleaner\nInformation Center.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3690,
+                "y0": 2503,
+                "x1": 4497,
+                "y1": 2852
+            },
+            "class": "article",
+            "raw_text": "band, an attorney. died suddenly\nlast month. She and Campy we're\nreported as longtime friends.\n\n\nHis three children by his de-\nceased wife are living with the\nneWlyWeds.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1059,
+                "y0": 2660,
+                "x1": 1437,
+                "y1": 2945
+            },
+            "class": "article",
+            "raw_text": "cut S d o w n\npesky unpack-\ning a n d un-\nn e c e S S a r Y\n$ e a r C h i n e\ntime.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2821,
+                "y0": 1773,
+                "x1": 4503,
+                "y1": 2255
+            },
+            "class": "article",
+            "raw_text": "The annual election the Moslem Temple held\nMasonic Temple Saturday night\n\n\nWilliam Oats abban James Christopher deputy\nof DESERT c. Evans ILL., William Mabry chief\nWalton, recorder and Levi Coleman,\nStanding Burton Laton Christopher\nJesse Davis Scott imperial advisor Walter Rsb Ernest\nWalker Irwin Tapp.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 160,
+                "y0": 2028,
+                "x1": 1842,
+                "y1": 2620
+            },
+            "class": "article",
+            "raw_text": "After his ST. Louis televson debut this spring with his\nvoice choir evangelist Cleophus Robinson signed sixmonh\nwith TV KPLR, manager\nMccormick watches.\n\n\nRev. Robinson and his choir Missionary\nfist Church. rsNegro church regularly\nTV show in St. Louis.\n\n\nResponse great\ntended it by five minutes and Rev. Robinson asked\nshort",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964062601_0449",
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "49, Put overnight and on\nthe-road\" items in a tote bag\nwhich you can reach with ease\nas you stop for the night.\n\n\na. For any and all car-clean-\nup emergencies, n u d a\nsponge and a bottle of pine\ncleaner wrapped in a plastic\nbag.\n\n\n60 Unpack the glove conf\npartment, then repack it. In\nclude basics only 5000 necessary\nmaps, pencil and pad, flash\nlight, first-aid kit. facial It's\nsues, pre-moistened cleansing\ntissues for hands and face.\n\n\nHappy touring.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1047,
+                    "y0": 2950,
+                    "x1": 1848,
+                    "y1": 3785
+                }
+            ],
+            "bbox": [
+                1047,
+                2950,
+                1848,
+                3785
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                10,
+                3
+            ],
+            "headline": "new FEATURE\nChiIdrens Corner",
+            "article": "All Valley students are invited\nto send in their original stories\nor poems to the Children's Cor\nner, Arizona Tribune, P.O. Box\n8248, Phoenix, Arizona 85O4O.\nEditor will select items for pub\nLEGATION and no manuscripts will\nbe returned or no fees paid for\nmaterial used.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1980,
+                    "y0": 353,
+                    "x1": 2700,
+                    "y1": 603
+                },
+                {
+                    "x0": 1951,
+                    "y0": 631,
+                    "x1": 2758,
+                    "y1": 1160
+                }
+            ],
+            "bbox": [
+                1951,
+                353,
+                2758,
+                1160
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                21,
+                4
+            ],
+            "headline": "A Ginger Ale Tale",
+            "article": "One day Dick went to the Malt\nshop.\n\n\nDick said, \"Cive me a double\nlayer banana split and some gin\nger ale. | think | deserve 1t\nbecause l answered all the ques-\nlions in school this week.\"\nThen he heard two little girls\nasking questions of each other.\nOne girl said, \"How do you make\nginger aleT'\n\n\nExcuse me-\" said Dick. \"But\nl think heard you ask how to\nmake ginger ale\"\n\n\nEll did,\" she said.\n\n\n\"Well, I'll answer that\" re-\npiled Dick.\n\n\n\"Do it,\" the girl said.\n\n\n\"You pull the ginger and add\nthe ale,\" Dick said.\n\n\nThe girl shook her head and\nsaid, wrong, you pull the ale\noff the tree and bake some gin\ngerbread.\"\n\n\n\"Wrong,\" said Dick.\n\n\nHere how you do it. you pat\nyour back\" the girl answered.\nlust then Dick watched some gin\nger ale drift by him.\n\n\nwell, I'm not that smart, Twas\nwrong\" said Dick.\n\n\nMercedes Laing\n\n\nGRADE 8",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2021,
+                    "y0": 1176,
+                    "x1": 2677,
+                    "y1": 1270
+                },
+                {
+                    "x0": 1951,
+                    "y0": 1280,
+                    "x1": 2770,
+                    "y1": 3235
+                }
+            ],
+            "bbox": [
+                1951,
+                1176,
+                2770,
+                3235
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "tial items and\ncheck them off\nas you pack.\n\n\n(2.) D n t\noverpack\n\n\nk e e p clothes\na n d vacation\ngear to a mini\nmum. T h i S",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 195,
+                    "y0": 3367,
+                    "x1": 567,
+                    "y1": 3814
+                }
+            ],
+            "bbox": [
+                195,
+                3367,
+                567,
+                3814
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                16,
+                9
+            ],
+            "headline": "Cumpy Weds Widow",
+            "article": "NEW YORK--Roy Campanella,\nformer Dodger baseball star,\nnow a liquor store owner, an\nnounced his marriage to Mrs.\nRoxy ]. Doles.\n\n\nMrs. Campanella's late hus-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3215,
+                    "y0": 2301,
+                    "x1": 4097,
+                    "y1": 2446
+                },
+                {
+                    "x0": 2827,
+                    "y0": 2498,
+                    "x1": 3633,
+                    "y1": 2864
+                }
+            ],
+            "bbox": [
+                2827,
+                2301,
+                4097,
+                2864
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                23,
+                13
+            ],
+            "headline": "+4c&lAekoM\n\n\n4uh by\nJoan March WOrden\nDirector, Pine Cleaner\nInformation Center.",
+            "article": "AS 80 million of us move out\nof the household and on to the\nroad this summer, here are\nsome suggestions for lessening\nthe chore that is packing:\n\n\nH. Make a list of all essen",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 189,
+                    "y0": 2660,
+                    "x1": 747,
+                    "y1": 3038
+                },
+                {
+                    "x0": 184,
+                    "y0": 3071,
+                    "x1": 984,
+                    "y1": 3368
+                }
+            ],
+            "bbox": [
+                184,
+                2660,
+                984,
+                3368
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "band, an attorney. died suddenly\nlast month. She and Campy we're\nreported as longtime friends.\n\n\nHis three children by his de-\nceased wife are living with the\nneWlyWeds.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3690,
+                    "y0": 2503,
+                    "x1": 4497,
+                    "y1": 2852
+                }
+            ],
+            "bbox": [
+                3690,
+                2503,
+                4497,
+                2852
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "cut S d o w n\npesky unpack-\ning a n d un-\nn e c e S S a r Y\n$ e a r C h i n e\ntime.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1059,
+                    "y0": 2660,
+                    "x1": 1437,
+                    "y1": 2945
+                }
+            ],
+            "bbox": [
+                1059,
+                2660,
+                1437,
+                2945
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "The annual election the Moslem Temple held\nMasonic Temple Saturday night\n\n\nWilliam Oats abban James Christopher deputy\nof DESERT c. Evans ILL., William Mabry chief\nWalton, recorder and Levi Coleman,\nStanding Burton Laton Christopher\nJesse Davis Scott imperial advisor Walter Rsb Ernest\nWalker Irwin Tapp.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2821,
+                    "y0": 1773,
+                    "x1": 4503,
+                    "y1": 2255
+                }
+            ],
+            "bbox": [
+                2821,
+                1773,
+                4503,
+                2255
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "After his ST. Louis televson debut this spring with his\nvoice choir evangelist Cleophus Robinson signed sixmonh\nwith TV KPLR, manager\nMccormick watches.\n\n\nRev. Robinson and his choir Missionary\nfist Church. rsNegro church regularly\nTV show in St. Louis.\n\n\nResponse great\ntended it by five minutes and Rev. Robinson asked\nshort",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 160,
+                    "y0": 2028,
+                    "x1": 1842,
+                    "y1": 2620
+                }
+            ],
+            "bbox": [
+                160,
+                2028,
+                1842,
+                2620
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-06-26_pna_sn84021918_0041421695A_1964062601_0449.json"
+        }
+    ]
+}

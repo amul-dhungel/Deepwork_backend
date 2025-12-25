@@ -1,0 +1,280 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964060501/0422.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3037,
+                "y0": 2323,
+                "x1": 4720,
+                "y1": 3740
+            },
+            "class": "article",
+            "raw_text": "Pennington born slave farm in Maryland and there\nbecame blacksmith by trade Upon reaching maturity he escaped\nthe North where he early embraced the opportunities for learn\nHe developed unusually bright scholar in Creek Latin\nand Cerman and manifested inclination for the study Of\ntheology which he showed much proficiency Impressed with his\nworth educated we'll trained for the ministry the Presby\nterans ordained him\nneccu where he served years. He later became the\nof the Shiloh Church in New York City.\n\n\nWhile DR.. Pennington did drift far from the ministry\ncolaboraors demand for work\nfields He three the capacity\nHis the occasion which he\nfor years. preaching ecng attending the Peace\nCongresses held Paris Bursses and London While Paris\nl849 invited conduct divine services the Protestant\nand\nEnglish delegates. His elegant production. left\nmarked impression his hearers and above all made\nlogical for the Negro. While Germany\nDoctor Divinity degree and worked zeaous and successfully\nfor the education and the moral Social and religious elevation\nof the race, until he Jamaica, where he died.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3089,
+                "y0": 2103,
+                "x1": 4148,
+                "y1": 2312
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nDr.. Penning ton",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2118,
+                "y0": 734,
+                "x1": 2957,
+                "y1": 4618
+            },
+            "class": "article",
+            "raw_text": "Office the IlESC Week III WAY\na hundred or more workers Of\nvarious trades and industries\nhave been either inside or out\nside our East Broadway domicile.\n\n\nUnder the supervision of Peter\nRoosen. designer and construc-\nton contractor and his brother,\nAdrien, the addition to our home\nis being completed. We are al\nready enjoying the spacious fam\nily-office room. am working In\n1t today. No longer will have\nto roll my faithful machine from\nthe office room, formerly bed\nroom through the living room.\n\n\nNow the bedroom will be re-\nfurnished as bedroom. The file\ncabinet waits to be moved and the\nlarge desk waits to be sold.\n\n\nRefurnishing the house and re-\nmodelling have made me a fur\nniture sales authority. Not only\nam | we'll versed in kinds Of\nwoods. types Of carpets, makes\nOf light fixtures. but am also\nbecoming a floor tile expert.\n\n\nAll houses are not homes until\nyou actually live in them. Give\nsome blood, sweat and tears over\nthem. Little by little the rec\ntangle of wood, mortar, bricks\nand glass takes over your entire\nbody. soul and mind.\n\n\nThe color Of wall, the tex\nture of a drape, the content\nof a piece of floor tile can make\nyou happy or make you sad.\n\n\nThe house located at 2137 East\nBroadway Road. resembled many\nother houses in the city. But,\nonce we started altering its ap-\npearances inside and outside\nsomething happened. No longer\nwas the place without life.\nThe house almost breathed.\n\n\nSuddenly nothing went right.\nThere was day when nothing\nwas correct. The tile was\ncrooked, the bell was soundless,\nthe light cord was broken when\ninstalled and the kitchen curtain\nwas not delivered.\n\n\nOh, we'll today is another day\nhome is not only sweet, but home\nis full Of my sweat and my\nspouses's fret. We only want to\nbe like Great Garbo--alone at\nhome.\n\n\nThe building Is we'll adapted\nto our existing part and all in\nall everything will turn out we'll.\nAfter all a little discomfort is\na small thing compared to the\ncomfort and beauty which we have\naround us now.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2165,
+                "y0": 306,
+                "x1": 2963,
+                "y1": 538
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOisE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2153,
+                "y0": 560,
+                "x1": 2697,
+                "y1": 671
+            },
+            "class": "headline",
+            "raw_text": "Sweet HON e",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3049,
+                "y0": 1028,
+                "x1": 4726,
+                "y1": 2093
+            },
+            "class": "article",
+            "raw_text": "Twenty June sixth thousands thousands\nOF pieces of matere against Hes forces from\nthe beaches Of Normandy, province in France\n\n\nThe Allies forward overwhelming\nthe end of the\ndable front. af7r\n\n\nThousands Of Allied killed and MANNED the first\nday. but their determination spite all odds\nfor the last year Of fighting in World War Two. III\n\n\nTwo decades have and the world has\nin however there danger troubled\nOnce before DDay many ignore warning signs\nof German aggression--these attitudes still prevail.\n\n\nWe afford Venam and lose 200\nwhile the knocking plans of neutrality\n\n\n\n\n\nThe lesson June 9th DDay should be remembered. Eventually\nsmall srmishes and small battles uncomfortable.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3569,
+                "y0": 398,
+                "x1": 4581,
+                "y1": 839
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIews\nAMo REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -3
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3789,
+                "y0": 768,
+                "x1": 4310,
+                "y1": 844
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3072,
+                "y0": 907,
+                "x1": 3847,
+                "y1": 1012
+            },
+            "class": "headline",
+            "raw_text": "Remem Der D-Duy",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964060501_0422",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "NEGRO HISTORY NOTES\nDr.. Penning ton",
+            "article": "Pennington born slave farm in Maryland and there\nbecame blacksmith by trade Upon reaching maturity he escaped\nthe North where he early embraced the opportunities for learn\nHe developed unusually bright scholar in Creek Latin\nand Cerman and manifested inclination for the study Of\ntheology which he showed much proficiency Impressed with his\nworth educated we'll trained for the ministry the Presby\nterans ordained him\nneccu where he served years. He later became the\nof the Shiloh Church in New York City.\n\n\nWhile DR.. Pennington did drift far from the ministry\ncolaboraors demand for work\nfields He three the capacity\nHis the occasion which he\nfor years. preaching ecng attending the Peace\nCongresses held Paris Bursses and London While Paris\nl849 invited conduct divine services the Protestant\nand\nEnglish delegates. His elegant production. left\nmarked impression his hearers and above all made\nlogical for the Negro. While Germany\nDoctor Divinity degree and worked zeaous and successfully\nfor the education and the moral Social and religious elevation\nof the race, until he Jamaica, where he died.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3089,
+                    "y0": 2103,
+                    "x1": 4148,
+                    "y1": 2312
+                },
+                {
+                    "x0": 3037,
+                    "y0": 2323,
+                    "x1": 4720,
+                    "y1": 3740
+                }
+            ],
+            "bbox": [
+                3037,
+                2103,
+                4720,
+                3740
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-05_pna_sn84021918_0041421695A_1964060501_0422.json"
+        },
+        {
+            "object_ids": [
+                13,
+                10,
+                2
+            ],
+            "headline": "Sights and Sounds\nELOisE BANKS\n\nSweet HON e",
+            "article": "Office the IlESC Week III WAY\na hundred or more workers Of\nvarious trades and industries\nhave been either inside or out\nside our East Broadway domicile.\n\n\nUnder the supervision of Peter\nRoosen. designer and construc-\nton contractor and his brother,\nAdrien, the addition to our home\nis being completed. We are al\nready enjoying the spacious fam\nily-office room. am working In\n1t today. No longer will have\nto roll my faithful machine from\nthe office room, formerly bed\nroom through the living room.\n\n\nNow the bedroom will be re-\nfurnished as bedroom. The file\ncabinet waits to be moved and the\nlarge desk waits to be sold.\n\n\nRefurnishing the house and re-\nmodelling have made me a fur\nniture sales authority. Not only\nam | we'll versed in kinds Of\nwoods. types Of carpets, makes\nOf light fixtures. but am also\nbecoming a floor tile expert.\n\n\nAll houses are not homes until\nyou actually live in them. Give\nsome blood, sweat and tears over\nthem. Little by little the rec\ntangle of wood, mortar, bricks\nand glass takes over your entire\nbody. soul and mind.\n\n\nThe color Of wall, the tex\nture of a drape, the content\nof a piece of floor tile can make\nyou happy or make you sad.\n\n\nThe house located at 2137 East\nBroadway Road. resembled many\nother houses in the city. But,\nonce we started altering its ap-\npearances inside and outside\nsomething happened. No longer\nwas the place without life.\nThe house almost breathed.\n\n\nSuddenly nothing went right.\nThere was day when nothing\nwas correct. The tile was\ncrooked, the bell was soundless,\nthe light cord was broken when\ninstalled and the kitchen curtain\nwas not delivered.\n\n\nOh, we'll today is another day\nhome is not only sweet, but home\nis full Of my sweat and my\nspouses's fret. We only want to\nbe like Great Garbo--alone at\nhome.\n\n\nThe building Is we'll adapted\nto our existing part and all in\nall everything will turn out we'll.\nAfter all a little discomfort is\na small thing compared to the\ncomfort and beauty which we have\naround us now.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2165,
+                    "y0": 306,
+                    "x1": 2963,
+                    "y1": 538
+                },
+                {
+                    "x0": 2153,
+                    "y0": 560,
+                    "x1": 2697,
+                    "y1": 671
+                },
+                {
+                    "x0": 2118,
+                    "y0": 734,
+                    "x1": 2957,
+                    "y1": 4618
+                }
+            ],
+            "bbox": [
+                2118,
+                306,
+                2963,
+                4618
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-05_pna_sn84021918_0041421695A_1964060501_0422.json"
+        },
+        {
+            "object_ids": [
+                5,
+                19,
+                8,
+                11
+            ],
+            "headline": "Views, pRevIews\nAMo REVIEWS\n\n\nEdward Banks\n\nRemem Der D-Duy",
+            "article": "Twenty June sixth thousands thousands\nOF pieces of matere against Hes forces from\nthe beaches Of Normandy, province in France\n\n\nThe Allies forward overwhelming\nthe end of the\ndable front. af7r\n\n\nThousands Of Allied killed and MANNED the first\nday. but their determination spite all odds\nfor the last year Of fighting in World War Two. III\n\n\nTwo decades have and the world has\nin however there danger troubled\nOnce before DDay many ignore warning signs\nof German aggression--these attitudes still prevail.\n\n\nWe afford Venam and lose 200\nwhile the knocking plans of neutrality\n\n\n\n\n\nThe lesson June 9th DDay should be remembered. Eventually\nsmall srmishes and small battles uncomfortable.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3569,
+                    "y0": 398,
+                    "x1": 4581,
+                    "y1": 839
+                },
+                {
+                    "x0": 3789,
+                    "y0": 768,
+                    "x1": 4310,
+                    "y1": 844
+                },
+                {
+                    "x0": 3072,
+                    "y0": 907,
+                    "x1": 3847,
+                    "y1": 1012
+                },
+                {
+                    "x0": 3049,
+                    "y0": 1028,
+                    "x1": 4726,
+                    "y1": 2093
+                }
+            ],
+            "bbox": [
+                3049,
+                398,
+                4726,
+                2093
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-06-05_pna_sn84021918_0041421695A_1964060501_0422.json"
+        }
+    ]
+}

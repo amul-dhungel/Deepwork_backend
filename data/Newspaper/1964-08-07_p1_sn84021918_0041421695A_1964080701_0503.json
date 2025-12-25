@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964080701/0503.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7460,
+        "width": 4959
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1885,
+                "y0": 635,
+                "x1": 2713,
+                "y1": 2786
+            },
+            "class": "article",
+            "raw_text": "COOLIDGE About two dozen\nNegroes picketed the Truckers\nCafe here after they we're refused\nservice inside, Police Chief Da-\nvid Satterfield reported.\n\n\nSatterfield said the demonstra-\nton was peaceful and the Negroes\nprevented no one from entering\nthe cafe.\n\n\nThe cafe owners. Mr.. and Mrs.\nlack Brakeman, told the Negroes\nthey could be served food to take\nout, but not to be eaten inside.\n\n\nThe Negroes we're members\nof the National Association for\nthe Advancement of Colored\nPeople.\n\n\nThe cafe was the scene of an\nincident between Negroes and\nwhites earlier this year.\n\n\nEarly in July. Roy M. Twitty.\nNegro from Tues on, filed COM\nplant with U. W. Atty. Carl A.\nMuecke in Phoenix, saying he had\nbeen refused service at the cafe.\n\n\nMuecke said he turned the COM\nplant over to the Federal Bureau\nof Investigation since the City Of\nCoolidge had no civil rights or\npublic accommodation ordinance.\n\n\nMuecke said, II met with Coo\nlidge city officials last Thursday\nin an attempt to get this matter\nworked out on a voluntary basis.\n| think that would be much better\nthan going to court.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1908,
+                "y0": 437,
+                "x1": 2369,
+                "y1": 618
+            },
+            "class": "headline",
+            "raw_text": "Coolidge Cafe\nPicketed",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2800,
+                "y0": 2640,
+                "x1": 3605,
+                "y1": 3596
+            },
+            "class": "article",
+            "raw_text": "Two bills recently signed into\nlaw by President Johnson will\nbenefit veterans who hold Ma\nuonal Service Life Insurance\npolicies, Wayne Sanders. Mana\nger Of VAS Arizona Regional\nOffice said.\n\n\nMore than 81 r. million World\nWar II and Korean veteran policy\nholders will benefit from an ex-\ntension of premium waiver pro-\nVisions. Now the law provides\nfor the waiver of premiums if\nthe insured becomes totally dis\nabled before his Goth birthday.\n\n\nThis second law also takes",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3691,
+                "y0": 2628,
+                "x1": 4502,
+                "y1": 3521
+            },
+            "class": "article",
+            "raw_text": "effect on January l, 1865.\n\n\nService disabled veterans\nholding \"RH\" insurance poll\ncies will not be eligible for this\nnew total disability income pro-\nvision.\n\n\nThose who are eligible mustb be\nin good health. They must file\nan application and must pay an\nadditional premium.\n\n\nSanders pointed out that appli-\ncation forms for the disability\nriders will be available this fall.\nCT policyholders affected will be\nadvised.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3277,
+                "y0": 2418,
+                "x1": 3931,
+                "y1": 2553
+            },
+            "class": "headline",
+            "raw_text": "Veterans News",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 119,
+                "y0": 3141,
+                "x1": 924,
+                "y1": 3381
+            },
+            "class": "article",
+            "raw_text": "Robert Brown Elliott, free\nNegro born in Boston on Aug. IL.\n1912, graduated from Elton Col\nlege in England.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 317,
+                "y0": 2960,
+                "x1": 1623,
+                "y1": 3095
+            },
+            "class": "headline",
+            "raw_text": "Eton Grad Served in Congress",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1028,
+                "y0": 3141,
+                "x1": 1845,
+                "y1": 3381
+            },
+            "class": "article",
+            "raw_text": "He served as congressman\nfrom South Carolina in the 42nd\nand 43rd sessions atWashington,\nD. c.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-08-07"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "Coolidge Cafe\nPicketed",
+            "article": "COOLIDGE About two dozen\nNegroes picketed the Truckers\nCafe here after they we're refused\nservice inside, Police Chief Da-\nvid Satterfield reported.\n\n\nSatterfield said the demonstra-\nton was peaceful and the Negroes\nprevented no one from entering\nthe cafe.\n\n\nThe cafe owners. Mr.. and Mrs.\nlack Brakeman, told the Negroes\nthey could be served food to take\nout, but not to be eaten inside.\n\n\nThe Negroes we're members\nof the National Association for\nthe Advancement of Colored\nPeople.\n\n\nThe cafe was the scene of an\nincident between Negroes and\nwhites earlier this year.\n\n\nEarly in July. Roy M. Twitty.\nNegro from Tues on, filed COM\nplant with U. W. Atty. Carl A.\nMuecke in Phoenix, saying he had\nbeen refused service at the cafe.\n\n\nMuecke said he turned the COM\nplant over to the Federal Bureau\nof Investigation since the City Of\nCoolidge had no civil rights or\npublic accommodation ordinance.\n\n\nMuecke said, II met with Coo\nlidge city officials last Thursday\nin an attempt to get this matter\nworked out on a voluntary basis.\n| think that would be much better\nthan going to court.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 437,
+                    "x1": 2369,
+                    "y1": 618
+                },
+                {
+                    "x0": 1885,
+                    "y0": 635,
+                    "x1": 2713,
+                    "y1": 2786
+                }
+            ],
+            "bbox": [
+                1885,
+                437,
+                2713,
+                2786
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-07_p1_sn84021918_0041421695A_1964080701_0503.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Two bills recently signed into\nlaw by President Johnson will\nbenefit veterans who hold Ma\nuonal Service Life Insurance\npolicies, Wayne Sanders. Mana\nger Of VAS Arizona Regional\nOffice said.\n\n\nMore than 81 r. million World\nWar II and Korean veteran policy\nholders will benefit from an ex-\ntension of premium waiver pro-\nVisions. Now the law provides\nfor the waiver of premiums if\nthe insured becomes totally dis\nabled before his Goth birthday.\n\n\nThis second law also takes",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2800,
+                    "y0": 2640,
+                    "x1": 3605,
+                    "y1": 3596
+                }
+            ],
+            "bbox": [
+                2800,
+                2640,
+                3605,
+                3596
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-07_p1_sn84021918_0041421695A_1964080701_0503.json"
+        },
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "Veterans News",
+            "article": "effect on January l, 1865.\n\n\nService disabled veterans\nholding \"RH\" insurance poll\ncies will not be eligible for this\nnew total disability income pro-\nvision.\n\n\nThose who are eligible mustb be\nin good health. They must file\nan application and must pay an\nadditional premium.\n\n\nSanders pointed out that appli-\ncation forms for the disability\nriders will be available this fall.\nCT policyholders affected will be\nadvised.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3277,
+                    "y0": 2418,
+                    "x1": 3931,
+                    "y1": 2553
+                },
+                {
+                    "x0": 3691,
+                    "y0": 2628,
+                    "x1": 4502,
+                    "y1": 3521
+                }
+            ],
+            "bbox": [
+                3277,
+                2418,
+                4502,
+                3521
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-07_p1_sn84021918_0041421695A_1964080701_0503.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "Eton Grad Served in Congress",
+            "article": "Robert Brown Elliott, free\nNegro born in Boston on Aug. IL.\n1912, graduated from Elton Col\nlege in England.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 317,
+                    "y0": 2960,
+                    "x1": 1623,
+                    "y1": 3095
+                },
+                {
+                    "x0": 119,
+                    "y0": 3141,
+                    "x1": 924,
+                    "y1": 3381
+                }
+            ],
+            "bbox": [
+                119,
+                2960,
+                1623,
+                3381
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-07_p1_sn84021918_0041421695A_1964080701_0503.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "He served as congressman\nfrom South Carolina in the 42nd\nand 43rd sessions atWashington,\nD. c.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1028,
+                    "y0": 3141,
+                    "x1": 1845,
+                    "y1": 3381
+                }
+            ],
+            "bbox": [
+                1028,
+                3141,
+                1845,
+                3381
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-08-07_p1_sn84021918_0041421695A_1964080701_0503.json"
+        }
+    ]
+}

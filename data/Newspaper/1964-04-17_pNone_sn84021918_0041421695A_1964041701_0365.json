@@ -1,0 +1,699 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7387,
+        "width": 4846,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041701/0365.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 4893,
+                "y0": 386,
+                "x1": 6123,
+                "y1": 5795
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1990,
+                "y0": 5113,
+                "x1": 2839,
+                "y1": 6060
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Rep. John ].\nRhodes. Republican Of Arizona,\nwants to have bill passed which\nwould enable Americans to mail\ntheir federal tax returns free.\n\n\nut would be a small thing\nbut would help take some of the\nsting out of the painful duty\" he\nsaid.\n\n\nRhodes continued, Somehow\nhaving to put that five cent stamp\non the envelope Is a kind of little\ninsult added to injury\nqq4e proposed to let taxpayers\nsign their name where the stomp\nshould d be placed.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1995,
+                "y0": 4778,
+                "x1": 2458,
+                "y1": 5062
+            },
+            "class": "headline",
+            "raw_text": "Rep. Rhodes\nw ants Free\n\n\nTax MuiIing",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3733,
+                "y0": 4691,
+                "x1": 4541,
+                "y1": 5887
+            },
+            "class": "article",
+            "raw_text": "ST. LOUIS = Fourteen person\nwere arrested at Bethlem Metho\ndist Church after police we're sum\nmoned to stop fighting.\n\n\nTwo factions In the church hav\nbeen quarreling for six months\nOne man, IS yrs. old was ir\njured.\n\n\nThe newly selected minister\nthe Rev. James A. Ewings wa\none of those arrested. He re\nplaced the Rev. Moses Lee, VIII\nwas ousted by court order /\nFebruary.\n\n\nRev. Lee and his family stil\nattend and the first arrests wei\nmade on Feb. 9. Every Sunday\ndisturbance occurs. The faction\nwill appear in court for hearir\nMay l8.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3767,
+                "y0": 4455,
+                "x1": 4345,
+                "y1": 4658
+            },
+            "class": "headline",
+            "raw_text": "Man Injured\n\n\nin Church Fight",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1995,
+                "y0": 6382,
+                "x1": 2833,
+                "y1": 7099
+            },
+            "class": "article",
+            "raw_text": "HOLLYWOOD = Sidney Potter.\noutstanding Negro actor, became\nthe first of his race to win the\ncoveted Oscar for best male actor\nof the 1868. He received the &C\nclaim at the annual Academy\nAwards program Monday night.\n\n\nPotter won the awards for his\nrole as a wandering Baptist work.\nerr who helped some Catholic nuns\nbuild a church, in the movie\n\"Lilies Of the Field.''",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2001,
+                "y0": 6128,
+                "x1": 2718,
+                "y1": 6343
+            },
+            "class": "headline",
+            "raw_text": "POTTER WINS\nTOP ACTING AWARD",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1955,
+                "y0": 1604,
+                "x1": 2781,
+                "y1": 4721
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The National\nASS ociation for the Advancement\nOf Colored People is seeking\nto raise one million dollars in\nwhat Roy Wilkins. the Associa-\ntion's executive secretary, des-\ncribed as the largest single fund.-\nraising project in the civil rights\nmovement.\n\n\nWilkins revealed this goal\nApril 10 when he announced the\n46 cities which will participate\nin the NAACP-spons ored nation\nwide closed circuit teleWsion\nspectacular. May IA, in observ-\nance Of the tenth anniversary\nOf the United State Supreme Court\nschool desegregation ruling of\nMay II, 1854.\n\n\nThe star studded two hour\nprogram will originate in New\nYork City and in Los Angeles.\nSixteen of the 46 cities are To-\nGated in the South.\n\n\nThe Freedom Spectacular\"\nMIR. wilkins said. proposes not\nonly to focus attention on the his\ntoric decision but also to serve\nas a massive protest against the\nslow implementation of the de-\ncree. Less than 10 per cent Of\nthe Negro school children in the\nborder and southern states and\nthe District of Columbia are now\nattending classes with white chill\ndren, he added.\n\n\nAuditoriums in the 46 cities\nseat a total Of $4,000 persons.\nA full house in each city, the\nNAACP leader said, would pro-\nvide an even larger indication\nof protest against the snail s pace\nof desegregation than the March\non Washington last August.\n\n\nAnother objective Of the pro-\ngram, Mr.. wilkins told news men,\nis the raising of funds to meet\nthe rising costs of carrying on\nthe civil rights struggle. He cited\nthe pressing need for bail bond\nmoney for persons arrested in\nanti segregation demonstra-\ntionS.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1990,
+                "y0": 1258,
+                "x1": 2556,
+                "y1": 1576
+            },
+            "class": "headline",
+            "raw_text": "NAACP\n\n\nSet . N iIIion\nDollar Goal",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2867,
+                "y0": 6434,
+                "x1": 3699,
+                "y1": 7145
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-The Congress of\nRacial Equality &c ORE) national\noffice said the Brooklyn chapter\nwhich was causing traffic tieups\non roads leading to the Worlds\nFair had been ousted.\n\n\nBrooklyn CORE members allow\ntheir cars to run out of gas there\nby creating traffic jams.\n\n\nCity officials announced new\nregulations which would fine per-\nsons who deliberately stall traffic.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2884,
+                "y0": 6284,
+                "x1": 3560,
+                "y1": 6401
+            },
+            "class": "headline",
+            "raw_text": "CORE UNIT 0UsTED",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 178,
+                "y0": 1442,
+                "x1": 1875,
+                "y1": 2811
+            },
+            "class": "article",
+            "raw_text": "Before the extra days Of this session of the\nArizona Legis latuye ended something should\nhaze been done TOWARD a civil right program.\nSome definite move for the state human Tela-\ntioas con1nissio aOas made, but nothing more\n1U0S eUOlUed.\n\n\nThere is q need for the state human Tela-\ntions commits sion and the legis latoys should\nrealize there are areas which need inabYOU-\ning in the daily lives Of minority groups beo-\npie.\n\n\nThis legis latuye has earned the title OF do\nmot1aing'' and it seems that the title wiH stick.\n\n\nLegis lntoys should knOW that their efforts\nwin be of prime importance at Uotirlg time IN\nNovember.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 466,
+                "y0": 1252,
+                "x1": 1564,
+                "y1": 1403
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2878,
+                "y0": 4553,
+                "x1": 3687,
+                "y1": 6256
+            },
+            "class": "article",
+            "raw_text": "Arizona motorists who have not\nyet had their cars inspected, are\nurged by the Motor Vehicle Dr.\nvision to do so without delay.\nContrary to what may have been\nheard, there was no extension by\nthe legislature, and the deadline\nwas March 81. Law enforcement\ngroups will decide a definite due\ndate very soon now.\n\n\nState officials remind all car\nowners that no matter how careful\nthe driver, or how safe the road,\na faulty vehicle creates an ever\npresent danger of accident or\ntragedy. 1t Is further pointed out\nby these officials that the pro-\ngram Is designed to save lives,\nmoney, and to make Arizona a\nsafer place in which to live and\ndrive. Similar efforts in other\nstates indicate many lives have\nbeen saved through inspection.\n\n\nAll officials connected with\nthis program. seek and appre-\nciate, the cooperation of the mot\noring public, and ask that we all\njoin together in this movement to\nsave lives in Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2902,
+                "y0": 4380,
+                "x1": 3422,
+                "y1": 4537
+            },
+            "class": "headline",
+            "raw_text": "Have Car\n\n\nInspected Soon",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3738,
+                "y0": 6330,
+                "x1": 4541,
+                "y1": 7059
+            },
+            "class": "article",
+            "raw_text": "CLEVELAND A doWntoW\nstore boycott failed to attract mar\ndemonstrators Tuesday after\ncampaign aimed to get more bacl\ning for civil rights flared la\nweek.\n\n\nThe citys 10000 Negroes wer\nasked to boycott two downtov\ndepartment stores, and the Cleve\nland Press newspaper. Next Nor\nday $4,000 Negro children hav\nbeen asked to boycott the schools",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3750,
+                "y0": 5955,
+                "x1": 4351,
+                "y1": 6274
+            },
+            "class": "headline",
+            "raw_text": "Negroes Continue\nTheir Boycott in\n\n\nCleveland, Ohio.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2884,
+                "y0": 1910,
+                "x1": 4547,
+                "y1": 2447
+            },
+            "class": "article",
+            "raw_text": "Boys Club awards presented than 200 young boys\nwho participated in club activities during past year.\n\n\nJerome Clardy of &c. Homes unit received trophy Coac\nof the Year.\n\n\nOthers honored the held last week include\nHenry Watkins, captain of senior basketball Harold Green\ngames Boy Year; Franklin capt.\nbasketball Steele Boy Of the Year Roger Worey\nVolunteer of the Year.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1124,
+                "y0": 6902,
+                "x1": 1933,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "traded by the Sox, will be used as\na spare outfielder and as the\nclubs No. | right-handed pinch\nbatter.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 235,
+                "y0": 6775,
+                "x1": 1500,
+                "y1": 6885
+            },
+            "class": "headline",
+            "raw_text": "Minoso w ins Pinch Hit Spot",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 224,
+                "y0": 6913,
+                "x1": 1056,
+                "y1": 7157
+            },
+            "class": "article",
+            "raw_text": "SARASOTA, Fla. Minnie Min\noso, a favorite in Chicago, was\nadded to the White Sox roster.\n\n\nThe 40-year-old Minoso, twice",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 224,
+                "y0": 6227,
+                "x1": 1904,
+                "y1": 6753
+            },
+            "class": "article",
+            "raw_text": "of the Phoenix Urban League Guild presented\nHail. Methodist Church. 1875 North Central Sum-\nApril IL.\n\n\nTop photo participants and\ndances from foreign lands.\n\n\nKhagendra NJ Baneree nda S. Alao Adgun of\nNigeria State University Miss Maria Pearce\nexchange and Hormoz\nof Irano",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041701_0365",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "Rep. Rhodes\nw ants Free\n\n\nTax MuiIing",
+            "article": "WASHINGTON Rep. John ].\nRhodes. Republican Of Arizona,\nwants to have bill passed which\nwould enable Americans to mail\ntheir federal tax returns free.\n\n\nut would be a small thing\nbut would help take some of the\nsting out of the painful duty\" he\nsaid.\n\n\nRhodes continued, Somehow\nhaving to put that five cent stamp\non the envelope Is a kind of little\ninsult added to injury\nqq4e proposed to let taxpayers\nsign their name where the stomp\nshould d be placed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1995,
+                    "y0": 4778,
+                    "x1": 2458,
+                    "y1": 5062
+                },
+                {
+                    "x0": 1990,
+                    "y0": 5113,
+                    "x1": 2839,
+                    "y1": 6060
+                }
+            ],
+            "bbox": [
+                1990,
+                4778,
+                2839,
+                6060
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "Man Injured\n\n\nin Church Fight",
+            "article": "ST. LOUIS = Fourteen person\nwere arrested at Bethlem Metho\ndist Church after police we're sum\nmoned to stop fighting.\n\n\nTwo factions In the church hav\nbeen quarreling for six months\nOne man, IS yrs. old was ir\njured.\n\n\nThe newly selected minister\nthe Rev. James A. Ewings wa\none of those arrested. He re\nplaced the Rev. Moses Lee, VIII\nwas ousted by court order /\nFebruary.\n\n\nRev. Lee and his family stil\nattend and the first arrests wei\nmade on Feb. 9. Every Sunday\ndisturbance occurs. The faction\nwill appear in court for hearir\nMay l8.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3767,
+                    "y0": 4455,
+                    "x1": 4345,
+                    "y1": 4658
+                },
+                {
+                    "x0": 3733,
+                    "y0": 4691,
+                    "x1": 4541,
+                    "y1": 5887
+                }
+            ],
+            "bbox": [
+                3733,
+                4455,
+                4541,
+                5887
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "POTTER WINS\nTOP ACTING AWARD",
+            "article": "HOLLYWOOD = Sidney Potter.\noutstanding Negro actor, became\nthe first of his race to win the\ncoveted Oscar for best male actor\nof the 1868. He received the &C\nclaim at the annual Academy\nAwards program Monday night.\n\n\nPotter won the awards for his\nrole as a wandering Baptist work.\nerr who helped some Catholic nuns\nbuild a church, in the movie\n\"Lilies Of the Field.''",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2001,
+                    "y0": 6128,
+                    "x1": 2718,
+                    "y1": 6343
+                },
+                {
+                    "x0": 1995,
+                    "y0": 6382,
+                    "x1": 2833,
+                    "y1": 7099
+                }
+            ],
+            "bbox": [
+                1995,
+                6128,
+                2833,
+                7099
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "NAACP\n\n\nSet . N iIIion\nDollar Goal",
+            "article": "NEW YORK The National\nASS ociation for the Advancement\nOf Colored People is seeking\nto raise one million dollars in\nwhat Roy Wilkins. the Associa-\ntion's executive secretary, des-\ncribed as the largest single fund.-\nraising project in the civil rights\nmovement.\n\n\nWilkins revealed this goal\nApril 10 when he announced the\n46 cities which will participate\nin the NAACP-spons ored nation\nwide closed circuit teleWsion\nspectacular. May IA, in observ-\nance Of the tenth anniversary\nOf the United State Supreme Court\nschool desegregation ruling of\nMay II, 1854.\n\n\nThe star studded two hour\nprogram will originate in New\nYork City and in Los Angeles.\nSixteen of the 46 cities are To-\nGated in the South.\n\n\nThe Freedom Spectacular\"\nMIR. wilkins said. proposes not\nonly to focus attention on the his\ntoric decision but also to serve\nas a massive protest against the\nslow implementation of the de-\ncree. Less than 10 per cent Of\nthe Negro school children in the\nborder and southern states and\nthe District of Columbia are now\nattending classes with white chill\ndren, he added.\n\n\nAuditoriums in the 46 cities\nseat a total Of $4,000 persons.\nA full house in each city, the\nNAACP leader said, would pro-\nvide an even larger indication\nof protest against the snail s pace\nof desegregation than the March\non Washington last August.\n\n\nAnother objective Of the pro-\ngram, Mr.. wilkins told news men,\nis the raising of funds to meet\nthe rising costs of carrying on\nthe civil rights struggle. He cited\nthe pressing need for bail bond\nmoney for persons arrested in\nanti segregation demonstra-\ntionS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1990,
+                    "y0": 1258,
+                    "x1": 2556,
+                    "y1": 1576
+                },
+                {
+                    "x0": 1955,
+                    "y0": 1604,
+                    "x1": 2781,
+                    "y1": 4721
+                }
+            ],
+            "bbox": [
+                1955,
+                1258,
+                2781,
+                4721
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                24,
+                8
+            ],
+            "headline": "CORE UNIT 0UsTED",
+            "article": "NEW YORK-The Congress of\nRacial Equality &c ORE) national\noffice said the Brooklyn chapter\nwhich was causing traffic tieups\non roads leading to the Worlds\nFair had been ousted.\n\n\nBrooklyn CORE members allow\ntheir cars to run out of gas there\nby creating traffic jams.\n\n\nCity officials announced new\nregulations which would fine per-\nsons who deliberately stall traffic.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2884,
+                    "y0": 6284,
+                    "x1": 3560,
+                    "y1": 6401
+                },
+                {
+                    "x0": 2867,
+                    "y0": 6434,
+                    "x1": 3699,
+                    "y1": 7145
+                }
+            ],
+            "bbox": [
+                2867,
+                6284,
+                3699,
+                7145
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                28,
+                9
+            ],
+            "headline": "",
+            "article": "Before the extra days Of this session of the\nArizona Legis latuye ended something should\nhaze been done TOWARD a civil right program.\nSome definite move for the state human Tela-\ntioas con1nissio aOas made, but nothing more\n1U0S eUOlUed.\n\n\nThere is q need for the state human Tela-\ntions commits sion and the legis latoys should\nrealize there are areas which need inabYOU-\ning in the daily lives Of minority groups beo-\npie.\n\n\nThis legis latuye has earned the title OF do\nmot1aing'' and it seems that the title wiH stick.\n\n\nLegis lntoys should knOW that their efforts\nwin be of prime importance at Uotirlg time IN\nNovember.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 466,
+                    "y0": 1252,
+                    "x1": 1564,
+                    "y1": 1403
+                },
+                {
+                    "x0": 178,
+                    "y0": 1442,
+                    "x1": 1875,
+                    "y1": 2811
+                }
+            ],
+            "bbox": [
+                178,
+                1252,
+                1875,
+                2811
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                19,
+                10
+            ],
+            "headline": "Have Car\n\n\nInspected Soon",
+            "article": "Arizona motorists who have not\nyet had their cars inspected, are\nurged by the Motor Vehicle Dr.\nvision to do so without delay.\nContrary to what may have been\nheard, there was no extension by\nthe legislature, and the deadline\nwas March 81. Law enforcement\ngroups will decide a definite due\ndate very soon now.\n\n\nState officials remind all car\nowners that no matter how careful\nthe driver, or how safe the road,\na faulty vehicle creates an ever\npresent danger of accident or\ntragedy. 1t Is further pointed out\nby these officials that the pro-\ngram Is designed to save lives,\nmoney, and to make Arizona a\nsafer place in which to live and\ndrive. Similar efforts in other\nstates indicate many lives have\nbeen saved through inspection.\n\n\nAll officials connected with\nthis program. seek and appre-\nciate, the cooperation of the mot\noring public, and ask that we all\njoin together in this movement to\nsave lives in Arizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2902,
+                    "y0": 4380,
+                    "x1": 3422,
+                    "y1": 4537
+                },
+                {
+                    "x0": 2878,
+                    "y0": 4553,
+                    "x1": 3687,
+                    "y1": 6256
+                }
+            ],
+            "bbox": [
+                2878,
+                4380,
+                3687,
+                6256
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                12,
+                11
+            ],
+            "headline": "Negroes Continue\nTheir Boycott in\n\n\nCleveland, Ohio.",
+            "article": "CLEVELAND A doWntoW\nstore boycott failed to attract mar\ndemonstrators Tuesday after\ncampaign aimed to get more bacl\ning for civil rights flared la\nweek.\n\n\nThe citys 10000 Negroes wer\nasked to boycott two downtov\ndepartment stores, and the Cleve\nland Press newspaper. Next Nor\nday $4,000 Negro children hav\nbeen asked to boycott the schools",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3750,
+                    "y0": 5955,
+                    "x1": 4351,
+                    "y1": 6274
+                },
+                {
+                    "x0": 3738,
+                    "y0": 6330,
+                    "x1": 4541,
+                    "y1": 7059
+                }
+            ],
+            "bbox": [
+                3738,
+                5955,
+                4541,
+                7059
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Boys Club awards presented than 200 young boys\nwho participated in club activities during past year.\n\n\nJerome Clardy of &c. Homes unit received trophy Coac\nof the Year.\n\n\nOthers honored the held last week include\nHenry Watkins, captain of senior basketball Harold Green\ngames Boy Year; Franklin capt.\nbasketball Steele Boy Of the Year Roger Worey\nVolunteer of the Year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2884,
+                    "y0": 1910,
+                    "x1": 4547,
+                    "y1": 2447
+                }
+            ],
+            "bbox": [
+                2884,
+                1910,
+                4547,
+                2447
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                31,
+                20
+            ],
+            "headline": "Minoso w ins Pinch Hit Spot",
+            "article": "traded by the Sox, will be used as\na spare outfielder and as the\nclubs No. | right-handed pinch\nbatter.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 235,
+                    "y0": 6775,
+                    "x1": 1500,
+                    "y1": 6885
+                },
+                {
+                    "x0": 1124,
+                    "y0": 6902,
+                    "x1": 1933,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                235,
+                6775,
+                1933,
+                7134
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "SARASOTA, Fla. Minnie Min\noso, a favorite in Chicago, was\nadded to the White Sox roster.\n\n\nThe 40-year-old Minoso, twice",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 224,
+                    "y0": 6913,
+                    "x1": 1056,
+                    "y1": 7157
+                }
+            ],
+            "bbox": [
+                224,
+                6913,
+                1056,
+                7157
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "of the Phoenix Urban League Guild presented\nHail. Methodist Church. 1875 North Central Sum-\nApril IL.\n\n\nTop photo participants and\ndances from foreign lands.\n\n\nKhagendra NJ Baneree nda S. Alao Adgun of\nNigeria State University Miss Maria Pearce\nexchange and Hormoz\nof Irano",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 224,
+                    "y0": 6227,
+                    "x1": 1904,
+                    "y1": 6753
+                }
+            ],
+            "bbox": [
+                224,
+                6227,
+                1904,
+                6753
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-04-17_pna_sn84021918_0041421695A_1964041701_0365.json"
+        }
+    ]
+}

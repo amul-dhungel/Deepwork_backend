@@ -1,0 +1,366 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964020701/0291.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4767
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2776,
+                "y0": 4060,
+                "x1": 3597,
+                "y1": 5384
+            },
+            "class": "article",
+            "raw_text": "MAM-Royal Crown Cola Co.\nplayed the role Of Santa Claus\nto the Morgan State College and\nFlorida A & M University foot\nball teams in the recent 3lst an\nnual Orange Blossom Classic\nand Festival.\n\n\nThe Columbus, Ga. soft drink\nfirm, and its Miami bottling at\nfiliate, in unprecedented activity\nin a Negro athletic promotion,\nintroduced three significant\n\"hrsts\" to spearhead the tie-in\nparticipation among several Of\nthe nations leading commercial\nfirms in America s top sepia pro-\nmotional event.\n\n\nA pioneer in the field Of ethnic\nmarketing. Royal Grown Cola\nCo. scored \"Classic\" \"firsts\"\nwith the entertainment Of the two\nteams at dinner, and with the put",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3192,
+                "y0": 3852,
+                "x1": 4030,
+                "y1": 4027
+            },
+            "class": "headline",
+            "raw_text": "ROYAL CROWN COLA\n\n\nDONATES BOWL GIFTS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3637,
+                "y0": 4066,
+                "x1": 4452,
+                "y1": 5367
+            },
+            "class": "article",
+            "raw_text": "ting into competition Of the first\nannual Orange Blossom Classic\nChampionship Trophy. Nehi-RC\nBottling Co. Inc, Of Miami\nscored its third First when 1t\nspearheaded the spoons orship Of\nthe first annual Post-Parade\nTeenage \"Platter Party\" which\nattracted nearly thousand.\nRoyal Crown Cola presented gift\nwatches for the second consecu-\ntive year to players and coaches\nOf both teams.\n\n\nPresentations were made by\nCharles j. Smith, RC special\nmarketing director.\n\n\nEdward B. Bell, assistant to\nthe director Of advertising and\nsales promotion, Atlantic Refin-\nIng Company, Philadelphia, was\nthe principal speaker at the din\nner.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 107,
+                "y0": 1646,
+                "x1": 951,
+                "y1": 4986
+            },
+            "class": "article",
+            "raw_text": "Fom the singing of spirituals\nby the unframed voices of for\nmer slaves to the footlights of\nthe Metropolitan Opera is, by\nany measurement, a long way.\nYet in a century of Negro free\ndom, this is precisely what has\nhappened, and the contribution\nof the American Negro to the\ncreative and performing arts,\nparticularly in the field Of music,\nhas been an undisputable one.\n\n\nThe spiritual, Americas only\ntruly indigenous art form, pro-\nvided perhaps the first medium\nof musical expression. Through\nthe years it's appeal was great\nly enhanced by the arranging\ngenius of such authorities as\nHarry T. Burleigh, Nathaniel\nDett, William Dawson and John\nWork, most Of whom were also\nresponsible for developing music\nin the Negro colleges.\n\n\nNot far removed from the\nspiritual form were the songs Of\nearly composer James A. Bland,\nwho was, in effect, the Negro\nStephen Foster. His most famous\nwork, \"Carry Me Back to Old\nVirginny,\" was adopted by the\nVirginia legislature as the Off\ncial State song in 1910.\n\n\nJazz, spawned by the spiritual,\ndeveloped into one of the ma\ntons. authentic artistic exports,\nand Negro instrumentalists were\namong the foremost opponents of\nthis, universally popular art\nform. With their trumpets, from\nbones, coronets, piano dexterity\nand sharp wit, such originators\nas Sidney Bechet, Jelly Roll\nMorton, King Oliver and Louis\nArmstrong helped pave the way\nforr-the acceptance of Negro\nmusicians. During the 1900's be-\nfore the broad acceptance of\njazz, blues singers such as Ma\nRainey, and her student Bessie\nSmith, Huddie Ledbetter, Mamie\nSmith, and \"Blind Lemon\" JEFF\nferson appeared and went on to\nbecome legend.\n\n\nBy far, the most indelible con-\ntribution to the whole field of\nthe blues during the First\nCentury of Negro freedom was\nmade by William Christopher\nHandy, internationally acclaimed\nFather Of the Blues\" Handy's",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 101,
+                "y0": 1380,
+                "x1": 1454,
+                "y1": 1612
+            },
+            "class": "headline",
+            "raw_text": "EnyiabIe Harvest In Fine Arts\nHiohIiqhtsl First Century Of Freedom",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 997,
+                "y0": 1652,
+                "x1": 1847,
+                "y1": 4986
+            },
+            "class": "article",
+            "raw_text": "fame rests on the blues he COM\nposed, and the earlier tunes he\ncollected and wrote down. His\nSt. Louis Blues\" Memphis\nBlues\" and others became stand\nards for instrumentalists and vo-\ncalists even before his death, and\nmany renditions of these have\nbeen recorded by RCA Victor.\n\n\nAS the First Century of Negro\nfreedom moved forward, jazz, the\nblues and other forms of popular\nmusic continued to witness an\nunbroken line of outstanding\nNegro artists, many of whose\nperformances spanned a genera\nton or more. Ethel Waters, who\nlaunched a many-faceted career\nOf night club tours, recordings,\nmotion pictures, musical revues\nand dramatic roles, Florence\nMills, featured in Sissle and\nBlake's \"Shuffle Along\" revue,\nthe Mills Brothers, Buck and\nBubbles, Josephine Baker, Cab\nGalloway, and Fats Waller were\namong these. The combined tai\nents and genius Of Edward Ken\nnedy Duke\" Ellington have won\nfor him an indisputable place at\nthe head of this list.\n\n\nNew talents rose in phalan&\nto take up the strains of music\nthat had it's beginnings in the.\nrural South. By the close Of\n1862, Negro performers had been\nnamed for awards in fifteen OF\nthe categories cited by the Ma\ntional Academy of Recording\nArts and Sciences.\n\n\nOne of the most meteoric rises\nto stardom has been that of Har-\nry Belafonte, who turned from\nthe singing Of popular ballads to\ncreate new interest in work\nsongs and traditional folk melo-\ndies from the world over. The\nvolatile, handsome artist has\n\"glorifed\" folk singing at night\nclubs, in motion pictures, on\nrecords, television, and on the\nartistically hallowed stage Of\nCarnegie Hall.\n\n\nThe First Century of Negro\nfreedom also saw that period OF\nculture, often referred to as\nthe \"Negro Renaissance\" which\nfiared in the middle twenties and\nduring which gifted figures\nemerged in art, letters and",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1869,
+                "y0": 387,
+                "x1": 2725,
+                "y1": 4639
+            },
+            "class": "article",
+            "raw_text": "classical music. The brothers,\nJames Weldon johnson and j.\nRosamond johnson wrote music\nplays and light operas; William\nGrant Still, Clarence Cameron\nWhite and Carl r. Diton COM:\nposed; and Tenor Roland Hayes\nsang his way into the hearts Of\nthousands and demonstrated, at\n72, in a Carnegie Hall Concert\nthat the years have not diminished\nhis talent.\n\n\nIf no other contribution had\nbeen made by Negroes to the\nfield of classical music, that\nracial group would still have\nmuch to be proud Of in the soft\nspoken, unassuming LADY from\nPhiladelphia\" hailed as the\n\"voice of a century,\" Marian\nAnderson, who rose from rela-\ntive obscurity in a church choir\nto apply her art to international\nunderstanding, long ago became\na major symbol of Negro a.\nchievement.\n\n\nThe ranks of Negroes in art\nand culture swelled over the\nyears with new names and new\ntalents, and Dorothy Maynor,\nPaul Robson, Todd Duncan\nwere among those who rose to\nprominence. They were later\nJoined by Muriel Smith, Anne\nBrown, Muriel Rain, Camilla\nWilliams and Lawrence Winters\nas well as by instrumentalists\nwho launched successful careers.\n\n\nThat the field of music has\nbeen won by Negroes is further\nevidenced by Mattiwilda Dobbs'\nappearances with La Scala, and\nAdele Addison and William War\nfields inspiring performances\nwith the New York Philhar-\nmonte. Too, 1862 saw 23-year-old\nSanford Allen capture a violin\nchair with the Philharmonic,\nMezzo-soprano Grace Bumbry re-\nturned in triumph to her home\ntown Of st. Louis and opened\nthe city's symphony orchestra\nseries and pianist Phillipa\nSchuyler, who has been astound-\ning audiences since she was\nthree, added yet another laurel\nwith a concert at New York's\nLincoln Center for the Perform\ning Arts.\n\n\nAnd finally, before the First\nCentury's end, came the coveted\ndream: the Met-the great\nMetropolitan Opera Company.\nMarian Anderson had sung Ul-\nRIGA in Verdi's Gun Bal Masque,\"\nRobert McFerran and Gloria\nDavey also made Met appear\nances, and more recently Leon\ntyne Price won five starring roles\nin a single Met season, and sang\nthe lead in an opening night per-\nTorrance. In 1862, Miss Price,\nan RCA Victor recording artist,\nwas named Musician Of the\nYear\" in a nationwide poll.\n\n\nThus, the Century's final cur\ntain falls on what has been an\nenviable harvest in the fine arts.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1892,
+                "y0": 4765,
+                "x1": 2707,
+                "y1": 5425
+            },
+            "class": "article",
+            "raw_text": "DR.. Charles H. Wesley. presi-\ndent Of the Association for the\nStudy of Negro Life and History.\nannounces that Negro History\nWeek will be observed through\nout the country Feb. o-l6. He\nurges schools, churches and civ\nic groups to give attention to the\ngreat strides made in civil lib\ncritics, but he cautions against\nforgetting about Negro history.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1915,
+                "y0": 4644,
+                "x1": 2707,
+                "y1": 4737
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY WEEK",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2764,
+                "y0": 2755,
+                "x1": 4458,
+                "y1": 3738
+            },
+            "class": "article",
+            "raw_text": "First Institutional Baptist Church filled with congratulations\nof praise faithful workers years Of service.\nMrs. Martha E. Billiard member Of the church since 1922\ncelebrated her S5 birthday JAM 21 She the the\nBusy Bee Mission Circle.\n\n\nClub chairman Mrs. billiard has devoted service\nthe church and the community\n\n\nSpecial guests Mr.. and Mrs. Fred Bell Of Memphis Tenn.\nShown Mrs. Dard honoree\nS5 birthday and her 4nd anniversary continuous church member\nship.\n\n\nShe is surrounded Mr.. and Mrs. Fred\nG. Kendick Mr.. and Mrs. Solomon Garrett Mr. Mrs. James\nHunter Mrs. Maggie Brown, Mrs. Maud Johnson L. Ashy\nMrs. Mary L. Watson.\n\n\nMrs. S. Boyer served as chairman of the program",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-02-07"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "ROYAL CROWN COLA\n\n\nDONATES BOWL GIFTS",
+            "article": "MAM-Royal Crown Cola Co.\nplayed the role Of Santa Claus\nto the Morgan State College and\nFlorida A & M University foot\nball teams in the recent 3lst an\nnual Orange Blossom Classic\nand Festival.\n\n\nThe Columbus, Ga. soft drink\nfirm, and its Miami bottling at\nfiliate, in unprecedented activity\nin a Negro athletic promotion,\nintroduced three significant\n\"hrsts\" to spearhead the tie-in\nparticipation among several Of\nthe nations leading commercial\nfirms in America s top sepia pro-\nmotional event.\n\n\nA pioneer in the field Of ethnic\nmarketing. Royal Grown Cola\nCo. scored \"Classic\" \"firsts\"\nwith the entertainment Of the two\nteams at dinner, and with the put",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3192,
+                    "y0": 3852,
+                    "x1": 4030,
+                    "y1": 4027
+                },
+                {
+                    "x0": 2776,
+                    "y0": 4060,
+                    "x1": 3597,
+                    "y1": 5384
+                }
+            ],
+            "bbox": [
+                2776,
+                3852,
+                4030,
+                5384
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-07_p1_sn84021918_0041421695A_1964020701_0291.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "ting into competition Of the first\nannual Orange Blossom Classic\nChampionship Trophy. Nehi-RC\nBottling Co. Inc, Of Miami\nscored its third First when 1t\nspearheaded the spoons orship Of\nthe first annual Post-Parade\nTeenage \"Platter Party\" which\nattracted nearly thousand.\nRoyal Crown Cola presented gift\nwatches for the second consecu-\ntive year to players and coaches\nOf both teams.\n\n\nPresentations were made by\nCharles j. Smith, RC special\nmarketing director.\n\n\nEdward B. Bell, assistant to\nthe director Of advertising and\nsales promotion, Atlantic Refin-\nIng Company, Philadelphia, was\nthe principal speaker at the din\nner.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3637,
+                    "y0": 4066,
+                    "x1": 4452,
+                    "y1": 5367
+                }
+            ],
+            "bbox": [
+                3637,
+                4066,
+                4452,
+                5367
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-07_p1_sn84021918_0041421695A_1964020701_0291.json"
+        },
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "EnyiabIe Harvest In Fine Arts\nHiohIiqhtsl First Century Of Freedom",
+            "article": "Fom the singing of spirituals\nby the unframed voices of for\nmer slaves to the footlights of\nthe Metropolitan Opera is, by\nany measurement, a long way.\nYet in a century of Negro free\ndom, this is precisely what has\nhappened, and the contribution\nof the American Negro to the\ncreative and performing arts,\nparticularly in the field Of music,\nhas been an undisputable one.\n\n\nThe spiritual, Americas only\ntruly indigenous art form, pro-\nvided perhaps the first medium\nof musical expression. Through\nthe years it's appeal was great\nly enhanced by the arranging\ngenius of such authorities as\nHarry T. Burleigh, Nathaniel\nDett, William Dawson and John\nWork, most Of whom were also\nresponsible for developing music\nin the Negro colleges.\n\n\nNot far removed from the\nspiritual form were the songs Of\nearly composer James A. Bland,\nwho was, in effect, the Negro\nStephen Foster. His most famous\nwork, \"Carry Me Back to Old\nVirginny,\" was adopted by the\nVirginia legislature as the Off\ncial State song in 1910.\n\n\nJazz, spawned by the spiritual,\ndeveloped into one of the ma\ntons. authentic artistic exports,\nand Negro instrumentalists were\namong the foremost opponents of\nthis, universally popular art\nform. With their trumpets, from\nbones, coronets, piano dexterity\nand sharp wit, such originators\nas Sidney Bechet, Jelly Roll\nMorton, King Oliver and Louis\nArmstrong helped pave the way\nforr-the acceptance of Negro\nmusicians. During the 1900's be-\nfore the broad acceptance of\njazz, blues singers such as Ma\nRainey, and her student Bessie\nSmith, Huddie Ledbetter, Mamie\nSmith, and \"Blind Lemon\" JEFF\nferson appeared and went on to\nbecome legend.\n\n\nBy far, the most indelible con-\ntribution to the whole field of\nthe blues during the First\nCentury of Negro freedom was\nmade by William Christopher\nHandy, internationally acclaimed\nFather Of the Blues\" Handy's",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 101,
+                    "y0": 1380,
+                    "x1": 1454,
+                    "y1": 1612
+                },
+                {
+                    "x0": 107,
+                    "y0": 1646,
+                    "x1": 951,
+                    "y1": 4986
+                }
+            ],
+            "bbox": [
+                101,
+                1380,
+                1454,
+                4986
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-07_p1_sn84021918_0041421695A_1964020701_0291.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "fame rests on the blues he COM\nposed, and the earlier tunes he\ncollected and wrote down. His\nSt. Louis Blues\" Memphis\nBlues\" and others became stand\nards for instrumentalists and vo-\ncalists even before his death, and\nmany renditions of these have\nbeen recorded by RCA Victor.\n\n\nAS the First Century of Negro\nfreedom moved forward, jazz, the\nblues and other forms of popular\nmusic continued to witness an\nunbroken line of outstanding\nNegro artists, many of whose\nperformances spanned a genera\nton or more. Ethel Waters, who\nlaunched a many-faceted career\nOf night club tours, recordings,\nmotion pictures, musical revues\nand dramatic roles, Florence\nMills, featured in Sissle and\nBlake's \"Shuffle Along\" revue,\nthe Mills Brothers, Buck and\nBubbles, Josephine Baker, Cab\nGalloway, and Fats Waller were\namong these. The combined tai\nents and genius Of Edward Ken\nnedy Duke\" Ellington have won\nfor him an indisputable place at\nthe head of this list.\n\n\nNew talents rose in phalan&\nto take up the strains of music\nthat had it's beginnings in the.\nrural South. By the close Of\n1862, Negro performers had been\nnamed for awards in fifteen OF\nthe categories cited by the Ma\ntional Academy of Recording\nArts and Sciences.\n\n\nOne of the most meteoric rises\nto stardom has been that of Har-\nry Belafonte, who turned from\nthe singing Of popular ballads to\ncreate new interest in work\nsongs and traditional folk melo-\ndies from the world over. The\nvolatile, handsome artist has\n\"glorifed\" folk singing at night\nclubs, in motion pictures, on\nrecords, television, and on the\nartistically hallowed stage Of\nCarnegie Hall.\n\n\nThe First Century of Negro\nfreedom also saw that period OF\nculture, often referred to as\nthe \"Negro Renaissance\" which\nfiared in the middle twenties and\nduring which gifted figures\nemerged in art, letters and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 997,
+                    "y0": 1652,
+                    "x1": 1847,
+                    "y1": 4986
+                }
+            ],
+            "bbox": [
+                997,
+                1652,
+                1847,
+                4986
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-07_p1_sn84021918_0041421695A_1964020701_0291.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "classical music. The brothers,\nJames Weldon johnson and j.\nRosamond johnson wrote music\nplays and light operas; William\nGrant Still, Clarence Cameron\nWhite and Carl r. Diton COM:\nposed; and Tenor Roland Hayes\nsang his way into the hearts Of\nthousands and demonstrated, at\n72, in a Carnegie Hall Concert\nthat the years have not diminished\nhis talent.\n\n\nIf no other contribution had\nbeen made by Negroes to the\nfield of classical music, that\nracial group would still have\nmuch to be proud Of in the soft\nspoken, unassuming LADY from\nPhiladelphia\" hailed as the\n\"voice of a century,\" Marian\nAnderson, who rose from rela-\ntive obscurity in a church choir\nto apply her art to international\nunderstanding, long ago became\na major symbol of Negro a.\nchievement.\n\n\nThe ranks of Negroes in art\nand culture swelled over the\nyears with new names and new\ntalents, and Dorothy Maynor,\nPaul Robson, Todd Duncan\nwere among those who rose to\nprominence. They were later\nJoined by Muriel Smith, Anne\nBrown, Muriel Rain, Camilla\nWilliams and Lawrence Winters\nas well as by instrumentalists\nwho launched successful careers.\n\n\nThat the field of music has\nbeen won by Negroes is further\nevidenced by Mattiwilda Dobbs'\nappearances with La Scala, and\nAdele Addison and William War\nfields inspiring performances\nwith the New York Philhar-\nmonte. Too, 1862 saw 23-year-old\nSanford Allen capture a violin\nchair with the Philharmonic,\nMezzo-soprano Grace Bumbry re-\nturned in triumph to her home\ntown Of st. Louis and opened\nthe city's symphony orchestra\nseries and pianist Phillipa\nSchuyler, who has been astound-\ning audiences since she was\nthree, added yet another laurel\nwith a concert at New York's\nLincoln Center for the Perform\ning Arts.\n\n\nAnd finally, before the First\nCentury's end, came the coveted\ndream: the Met-the great\nMetropolitan Opera Company.\nMarian Anderson had sung Ul-\nRIGA in Verdi's Gun Bal Masque,\"\nRobert McFerran and Gloria\nDavey also made Met appear\nances, and more recently Leon\ntyne Price won five starring roles\nin a single Met season, and sang\nthe lead in an opening night per-\nTorrance. In 1862, Miss Price,\nan RCA Victor recording artist,\nwas named Musician Of the\nYear\" in a nationwide poll.\n\n\nThus, the Century's final cur\ntain falls on what has been an\nenviable harvest in the fine arts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1869,
+                    "y0": 387,
+                    "x1": 2725,
+                    "y1": 4639
+                }
+            ],
+            "bbox": [
+                1869,
+                387,
+                2725,
+                4639
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-02-07_p1_sn84021918_0041421695A_1964020701_0291.json"
+        },
+        {
+            "object_ids": [
+                19,
+                11
+            ],
+            "headline": "NEGRO HISTORY WEEK",
+            "article": "DR.. Charles H. Wesley. presi-\ndent Of the Association for the\nStudy of Negro Life and History.\nannounces that Negro History\nWeek will be observed through\nout the country Feb. o-l6. He\nurges schools, churches and civ\nic groups to give attention to the\ngreat strides made in civil lib\ncritics, but he cautions against\nforgetting about Negro history.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1915,
+                    "y0": 4644,
+                    "x1": 2707,
+                    "y1": 4737
+                },
+                {
+                    "x0": 1892,
+                    "y0": 4765,
+                    "x1": 2707,
+                    "y1": 5425
+                }
+            ],
+            "bbox": [
+                1892,
+                4644,
+                2707,
+                5425
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-02-07_p1_sn84021918_0041421695A_1964020701_0291.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "First Institutional Baptist Church filled with congratulations\nof praise faithful workers years Of service.\nMrs. Martha E. Billiard member Of the church since 1922\ncelebrated her S5 birthday JAM 21 She the the\nBusy Bee Mission Circle.\n\n\nClub chairman Mrs. billiard has devoted service\nthe church and the community\n\n\nSpecial guests Mr.. and Mrs. Fred Bell Of Memphis Tenn.\nShown Mrs. Dard honoree\nS5 birthday and her 4nd anniversary continuous church member\nship.\n\n\nShe is surrounded Mr.. and Mrs. Fred\nG. Kendick Mr.. and Mrs. Solomon Garrett Mr. Mrs. James\nHunter Mrs. Maggie Brown, Mrs. Maud Johnson L. Ashy\nMrs. Mary L. Watson.\n\n\nMrs. S. Boyer served as chairman of the program",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2764,
+                    "y0": 2755,
+                    "x1": 4458,
+                    "y1": 3738
+                }
+            ],
+            "bbox": [
+                2764,
+                2755,
+                4458,
+                3738
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-02-07_p1_sn84021918_0041421695A_1964020701_0291.json"
+        }
+    ]
+}

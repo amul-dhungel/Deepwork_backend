@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022101/0306.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7411,
+        "width": 4820
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2838,
+                "y0": 2848,
+                "x1": 3661,
+                "y1": 3608
+            },
+            "class": "article",
+            "raw_text": "Pilgrim Rest Baptist Church,\nl4l7- E. Madison, Rev. H. Y.\nStevens on.\n\n\nPastor s aid program spon-\nsored by the society will be held\nSun. Mar. 8, 8 pm. Rev. E.A.\nHunter will be guest speaker.\nHe will be accompanied by choirs\nfrom New Home Baptist Church.\n\n\nMrs. Mary Hall, society presi-\ndent, announces chitterling and\nfish dinners will be sold after\nthe program.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2855,
+                "y0": 2651,
+                "x1": 3453,
+                "y1": 2826
+            },
+            "class": "headline",
+            "raw_text": "Pastors Aid Set\nOn March 9th",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2826,
+                "y0": 688,
+                "x1": 3650,
+                "y1": 2635
+            },
+            "class": "article",
+            "raw_text": "The 1864 Arizona Scholastic\nArt Exhibit-2lst annual edition\nof the state S show Of student art\nwill be open Feb. p Mar. l\nin the Fine Arts Building, State\nFairgrounds.\n\n\nHours are 9 am. to S pm.\ndaily Qncluding Saturdays) and\nnoon to E pm. Sundays.\n\n\nOn display will be some 1000\npainting, drawing, design, craft\nand sculpture pieces created by\nelementary. junior high and high\nschool students throughout the\nstate.\n\n\nSponsored by the Phoenix Un-\nion High School System and VAL\nley National Bank, the Scholastic\nArt Awards program is open to\nstudents without entry fee. There\nis no admission charge.\n\n\nMore than $500 entries we're\nreceived for this year show,\naccording to l.. Duane Henry of\nthe Valley Bank, Exhibit director.\n\n\nTeams of judges--made up of\nprominent Southwest artists\nselect work to be shown in the\nArizona Exhibit, award regional\nprizes and choose Arizona en-\ntries in the National High School\nArt Exhibition, held in New York\nCity.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2850,
+                "y0": 468,
+                "x1": 3354,
+                "y1": 649
+            },
+            "class": "headline",
+            "raw_text": "Scholastic Art\nExhibit Begins",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3718,
+                "y0": 3062,
+                "x1": 4564,
+                "y1": 3602
+            },
+            "class": "article",
+            "raw_text": "One of the very best ways to\nfeel like a new woman is to take\na refreshing bath every day! This\nis particularly important after\nexercising.\n\n\nUsing plenty of soapsuds to\nwash away perspiration and CRIME\nwill give you a good start toward\na pleasant day = or comfortable\nnight of sound sleep.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3741,
+                "y0": 2871,
+                "x1": 4310,
+                "y1": 3005
+            },
+            "class": "headline",
+            "raw_text": "I & M BARBER SHOP\n1905 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 157,
+                "y0": 2703,
+                "x1": 1860,
+                "y1": 3254
+            },
+            "class": "article",
+            "raw_text": "Links Phoenix chapter. sponsored fashion show Sat- Feb\nWilliam 526 S. 20 Place. Models\nTrulo. Marsha Sandoz Linda Hocheter Chery\nCharles Manne Anderson, Caty Rendah\nBarbara Doeler and Carolyn Warren.\n\n\nWatching the lovely fashions Link members Mines Maude\nDunno. Louise Phillips and Geraldine Solomon.\n\n\nHILL Helen John\nBoyns, William Smith, Aressie Johnson and several",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3735,
+                "y0": 2634,
+                "x1": 4350,
+                "y1": 2820
+            },
+            "class": "article",
+            "raw_text": "DOUG'S BARBER SHOP\n28ll E. Broadway\n276-lOO",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-02-21"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "Pastors Aid Set\nOn March 9th",
+            "article": "Pilgrim Rest Baptist Church,\nl4l7- E. Madison, Rev. H. Y.\nStevens on.\n\n\nPastor s aid program spon-\nsored by the society will be held\nSun. Mar. 8, 8 pm. Rev. E.A.\nHunter will be guest speaker.\nHe will be accompanied by choirs\nfrom New Home Baptist Church.\n\n\nMrs. Mary Hall, society presi-\ndent, announces chitterling and\nfish dinners will be sold after\nthe program.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2855,
+                    "y0": 2651,
+                    "x1": 3453,
+                    "y1": 2826
+                },
+                {
+                    "x0": 2838,
+                    "y0": 2848,
+                    "x1": 3661,
+                    "y1": 3608
+                }
+            ],
+            "bbox": [
+                2838,
+                2651,
+                3661,
+                3608
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-21_p1_sn84021918_0041421695A_1964022101_0306.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "Scholastic Art\nExhibit Begins",
+            "article": "The 1864 Arizona Scholastic\nArt Exhibit-2lst annual edition\nof the state S show Of student art\nwill be open Feb. p Mar. l\nin the Fine Arts Building, State\nFairgrounds.\n\n\nHours are 9 am. to S pm.\ndaily Qncluding Saturdays) and\nnoon to E pm. Sundays.\n\n\nOn display will be some 1000\npainting, drawing, design, craft\nand sculpture pieces created by\nelementary. junior high and high\nschool students throughout the\nstate.\n\n\nSponsored by the Phoenix Un-\nion High School System and VAL\nley National Bank, the Scholastic\nArt Awards program is open to\nstudents without entry fee. There\nis no admission charge.\n\n\nMore than $500 entries we're\nreceived for this year show,\naccording to l.. Duane Henry of\nthe Valley Bank, Exhibit director.\n\n\nTeams of judges--made up of\nprominent Southwest artists\nselect work to be shown in the\nArizona Exhibit, award regional\nprizes and choose Arizona en-\ntries in the National High School\nArt Exhibition, held in New York\nCity.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2850,
+                    "y0": 468,
+                    "x1": 3354,
+                    "y1": 649
+                },
+                {
+                    "x0": 2826,
+                    "y0": 688,
+                    "x1": 3650,
+                    "y1": 2635
+                }
+            ],
+            "bbox": [
+                2826,
+                468,
+                3650,
+                2635
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-21_p1_sn84021918_0041421695A_1964022101_0306.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "I & M BARBER SHOP\n1905 w. Buckeye",
+            "article": "One of the very best ways to\nfeel like a new woman is to take\na refreshing bath every day! This\nis particularly important after\nexercising.\n\n\nUsing plenty of soapsuds to\nwash away perspiration and CRIME\nwill give you a good start toward\na pleasant day = or comfortable\nnight of sound sleep.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3741,
+                    "y0": 2871,
+                    "x1": 4310,
+                    "y1": 3005
+                },
+                {
+                    "x0": 3718,
+                    "y0": 3062,
+                    "x1": 4564,
+                    "y1": 3602
+                }
+            ],
+            "bbox": [
+                3718,
+                2871,
+                4564,
+                3602
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-21_p1_sn84021918_0041421695A_1964022101_0306.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Links Phoenix chapter. sponsored fashion show Sat- Feb\nWilliam 526 S. 20 Place. Models\nTrulo. Marsha Sandoz Linda Hocheter Chery\nCharles Manne Anderson, Caty Rendah\nBarbara Doeler and Carolyn Warren.\n\n\nWatching the lovely fashions Link members Mines Maude\nDunno. Louise Phillips and Geraldine Solomon.\n\n\nHILL Helen John\nBoyns, William Smith, Aressie Johnson and several",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 157,
+                    "y0": 2703,
+                    "x1": 1860,
+                    "y1": 3254
+                }
+            ],
+            "bbox": [
+                157,
+                2703,
+                1860,
+                3254
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-02-21_p1_sn84021918_0041421695A_1964022101_0306.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "DOUG'S BARBER SHOP\n28ll E. Broadway\n276-lOO",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3735,
+                    "y0": 2634,
+                    "x1": 4350,
+                    "y1": 2820
+                }
+            ],
+            "bbox": [
+                3735,
+                2634,
+                4350,
+                2820
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-02-21_p1_sn84021918_0041421695A_1964022101_0306.json"
+        }
+    ]
+}

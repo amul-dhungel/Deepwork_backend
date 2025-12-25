@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121801/0669.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4872
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3723,
+                "y0": 2587,
+                "x1": 4531,
+                "y1": 4061
+            },
+            "class": "article",
+            "raw_text": "RICHMOND, Va. (ANPD =\nVirginia's massive school, re-\nsistance strategy received\ndeath blow from the five-man\nUnited States Court of Appeals\nfor the Fourth Circuit. With\nJudge Simon E. Sobeloff presid-\ning, the court struck down Vir-\nginia's system of paying tax-fi-\nnanced tuition grants to white\nstudents in segregated private\nschools in two of its school dis\ntricts as ga transparent evasion\nof the 18th Amendment\" The two\ndistricts affected are Prince Ed\nward and Surrey counties.\n\n\nVirginia's segregationists are\nnot expected to appeal the de-\ncision. The decision states in\npart: \"The defendants assert\nthat injunctions preventing the\nuse of tuition grants to maintain\na separate school for white pupils\nwill infringe on the white pupils\nright of association",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3764,
+                "y0": 2337,
+                "x1": 4368,
+                "y1": 2559
+            },
+            "class": "headline",
+            "raw_text": "School Policies\nDefeated",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1954,
+                "y0": 2291,
+                "x1": 2773,
+                "y1": 3301
+            },
+            "class": "article",
+            "raw_text": "SAGINAW, Mich. = (ANPD =\nA young attorney, Henry Marsh,\nhas been appointed assistant to\nthe prosecutor of the welfare de-\npartment.\n\n\nMarsh, who is also City\nCouncilman becomes the first\nNegro to serve on the Saginaw\nprosecutor S staff.\n\n\nWith the increase of the staff,\nCurrie also announced he would\nrecommend elimination of the\nposition of County civil counsel\nbecause FL feel that this office\nwill now be able to represent\nSaginaw County in all criminal\nand civil Matters",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1966,
+                "y0": 2030,
+                "x1": 2698,
+                "y1": 2263
+            },
+            "class": "headline",
+            "raw_text": "NEGRO IS\nWELFARE LAWYER",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3706,
+                "y0": 910,
+                "x1": 4513,
+                "y1": 2199
+            },
+            "class": "article",
+            "raw_text": "Well Folks\n\n\nAre you ready with the\nChristmas Spirits\" We at\nREDDY'S CORNER are \"RED-\nDY'' to help you'll\n\n\nOf course we have our usual\nfine selection of beverages, but\nabove that we were able to get\nbig shipment of rum and brandy\nthat we can sell at unbelievably\nlow prices.\n\n\nlima CINE a FULL QUART of\nRUM Nationally advertised) for\nonly $500. Half pints as LOW\nas 89&.\n\n\nNow is the time to stock up for\nthe holidays. We have lot of\nmerchandise for low prices, how\never, it can't last very long.\n\n\nAS Always,\n\n\nJust Freddy",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3723,
+                "y0": 371,
+                "x1": 4496,
+                "y1": 813
+            },
+            "class": "headline",
+            "raw_text": "A STOP AT\nI7;z737151|;;z;j|,;2|;'l\n3!k57 JEFFERSON IalaI",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2813,
+                "y0": 1815,
+                "x1": 3643,
+                "y1": 3730
+            },
+            "class": "article",
+            "raw_text": "FORT HUACHUCA Cheryl\nGoodwin, l9, daughter of>Lt. Col.\nand Mrs. Felix L. Goodwin, Tue\nson, Ariz., was awarded Uni\nversity Scholarship Honors at a\nUniversity of Arizona Honors\nConvocation last month.\n\n\nA senior at the u of A, Cheryrs\nscholastic average was IA. She\nis majoring in special education.\n\n\nHer father, a regular Army\nofficer with Is years service, is\nthe Information Officer at the\nUS. Army Electronic Proving\nGround, Fort Huachuca, Ariz. He\nis also attending the u of A\nafter duty hors. He will COM\nplete his studies for a masters\ndegree in public administration\nthis semester.\n\n\nMrs. Goodwin, graduate of\nthe Atlanta University School for\nSocial Work, is a social worker\nwith the Arizona Children's\nHome, Tucson. Both she and\nCheryl are members of Alpha\nKappa Alpha sorority. Colonel\nGoodwin belongs to Alpha Phi\nAlpha Fraternity.\n\n\nThe Goodwin family including\ntwo other children, Sylvia, Is,\nand Judy IL, reside in Tucson\n- 0AI Z C@~1Na c.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 185,
+                "y0": 1925,
+                "x1": 1880,
+                "y1": 2419
+            },
+            "class": "article",
+            "raw_text": "following the marriage\nBaptist Church from left Willis\nTurner Douglass Lane Nelson Johnny Benjamin. ushers of\nAmarillo, Luther Berry, Mrs. Luther o1s)\nBerry, bride, Liz Fields of honor Misses Jewel\nCartwright Jackie Barbara Colbert bridesmaids\n\n\nBerry ring and Judy Berry the flower\ngirl. Photo Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "School Policies\nDefeated",
+            "article": "RICHMOND, Va. (ANPD =\nVirginia's massive school, re-\nsistance strategy received\ndeath blow from the five-man\nUnited States Court of Appeals\nfor the Fourth Circuit. With\nJudge Simon E. Sobeloff presid-\ning, the court struck down Vir-\nginia's system of paying tax-fi-\nnanced tuition grants to white\nstudents in segregated private\nschools in two of its school dis\ntricts as ga transparent evasion\nof the 18th Amendment\" The two\ndistricts affected are Prince Ed\nward and Surrey counties.\n\n\nVirginia's segregationists are\nnot expected to appeal the de-\ncision. The decision states in\npart: \"The defendants assert\nthat injunctions preventing the\nuse of tuition grants to maintain\na separate school for white pupils\nwill infringe on the white pupils\nright of association",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3764,
+                    "y0": 2337,
+                    "x1": 4368,
+                    "y1": 2559
+                },
+                {
+                    "x0": 3723,
+                    "y0": 2587,
+                    "x1": 4531,
+                    "y1": 4061
+                }
+            ],
+            "bbox": [
+                3723,
+                2337,
+                4531,
+                4061
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-18_p1_sn84021918_0041421695A_1964121801_0669.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "NEGRO IS\nWELFARE LAWYER",
+            "article": "SAGINAW, Mich. = (ANPD =\nA young attorney, Henry Marsh,\nhas been appointed assistant to\nthe prosecutor of the welfare de-\npartment.\n\n\nMarsh, who is also City\nCouncilman becomes the first\nNegro to serve on the Saginaw\nprosecutor S staff.\n\n\nWith the increase of the staff,\nCurrie also announced he would\nrecommend elimination of the\nposition of County civil counsel\nbecause FL feel that this office\nwill now be able to represent\nSaginaw County in all criminal\nand civil Matters",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1966,
+                    "y0": 2030,
+                    "x1": 2698,
+                    "y1": 2263
+                },
+                {
+                    "x0": 1954,
+                    "y0": 2291,
+                    "x1": 2773,
+                    "y1": 3301
+                }
+            ],
+            "bbox": [
+                1954,
+                2030,
+                2773,
+                3301
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-18_p1_sn84021918_0041421695A_1964121801_0669.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "A STOP AT\nI7;z737151|;;z;j|,;2|;'l\n3!k57 JEFFERSON IalaI",
+            "article": "Well Folks\n\n\nAre you ready with the\nChristmas Spirits\" We at\nREDDY'S CORNER are \"RED-\nDY'' to help you'll\n\n\nOf course we have our usual\nfine selection of beverages, but\nabove that we were able to get\nbig shipment of rum and brandy\nthat we can sell at unbelievably\nlow prices.\n\n\nlima CINE a FULL QUART of\nRUM Nationally advertised) for\nonly $500. Half pints as LOW\nas 89&.\n\n\nNow is the time to stock up for\nthe holidays. We have lot of\nmerchandise for low prices, how\never, it can't last very long.\n\n\nAS Always,\n\n\nJust Freddy",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3723,
+                    "y0": 371,
+                    "x1": 4496,
+                    "y1": 813
+                },
+                {
+                    "x0": 3706,
+                    "y0": 910,
+                    "x1": 4513,
+                    "y1": 2199
+                }
+            ],
+            "bbox": [
+                3706,
+                371,
+                4513,
+                2199
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-18_p1_sn84021918_0041421695A_1964121801_0669.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "FORT HUACHUCA Cheryl\nGoodwin, l9, daughter of>Lt. Col.\nand Mrs. Felix L. Goodwin, Tue\nson, Ariz., was awarded Uni\nversity Scholarship Honors at a\nUniversity of Arizona Honors\nConvocation last month.\n\n\nA senior at the u of A, Cheryrs\nscholastic average was IA. She\nis majoring in special education.\n\n\nHer father, a regular Army\nofficer with Is years service, is\nthe Information Officer at the\nUS. Army Electronic Proving\nGround, Fort Huachuca, Ariz. He\nis also attending the u of A\nafter duty hors. He will COM\nplete his studies for a masters\ndegree in public administration\nthis semester.\n\n\nMrs. Goodwin, graduate of\nthe Atlanta University School for\nSocial Work, is a social worker\nwith the Arizona Children's\nHome, Tucson. Both she and\nCheryl are members of Alpha\nKappa Alpha sorority. Colonel\nGoodwin belongs to Alpha Phi\nAlpha Fraternity.\n\n\nThe Goodwin family including\ntwo other children, Sylvia, Is,\nand Judy IL, reside in Tucson\n- 0AI Z C@~1Na c.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2813,
+                    "y0": 1815,
+                    "x1": 3643,
+                    "y1": 3730
+                }
+            ],
+            "bbox": [
+                2813,
+                1815,
+                3643,
+                3730
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-12-18_p1_sn84021918_0041421695A_1964121801_0669.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "following the marriage\nBaptist Church from left Willis\nTurner Douglass Lane Nelson Johnny Benjamin. ushers of\nAmarillo, Luther Berry, Mrs. Luther o1s)\nBerry, bride, Liz Fields of honor Misses Jewel\nCartwright Jackie Barbara Colbert bridesmaids\n\n\nBerry ring and Judy Berry the flower\ngirl. Photo Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 185,
+                    "y0": 1925,
+                    "x1": 1880,
+                    "y1": 2419
+                }
+            ],
+            "bbox": [
+                185,
+                1925,
+                1880,
+                2419
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-12-18_p1_sn84021918_0041421695A_1964121801_0669.json"
+        }
+    ]
+}

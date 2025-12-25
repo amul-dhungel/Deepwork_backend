@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964111301/0633.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7435,
+        "width": 4844
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2811,
+                "y0": 2311,
+                "x1": 3625,
+                "y1": 3962
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Lt.Gen. Lewis\nB. Hershey, Director of Selective\nService, has announced the recent\nappointment of Col. Campbell c.\nJohns on to be Assistant Director\nof the Selective Service System.\nColonel Johnson served as Ex-\necutive Assistant to the Director,\nlo4O-l948, and as Assistant to the\nDirector, I948-1o64.\n\n\nA native of the District Of\nColumbia, Colonel johnson has\nbeen a leader in civic and social\nwelfare activities in the National\nCapital throughout his career.\nAmong his other activities. he\nformerly served as Chairman of\nthe District of Columbia Par ole\nBoard; holds office in the YMCA,\nis Vice Chairman of the National\nCapital Housing Authority; and\ntaught at Howard University. He\nis a member of the Bar of the\nDistrict of Columbia and North\nCarolina. He holds the Army\nDistinguished Service Medal for\nhis work with the Selective Ser\nvice System.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2828,
+                "y0": 2015,
+                "x1": 3387,
+                "y1": 2283
+            },
+            "class": "headline",
+            "raw_text": "Nam ed To\nDraft Post",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3670,
+                "y0": 2224,
+                "x1": 4490,
+                "y1": 2998
+            },
+            "class": "article",
+            "raw_text": "MIR. and Mrs. George Diggs,\nJr., 1914 E. Monroe, Apt. 10,\nannounce the birth their daugh-\nter on Oct. 26 at Good Samaritan\nHospital.\n\n\nPaternal grandparents areMr.f\nand Mrs. Robert Carr, l247 w.\nWatkins.\n\n\nMaternal grandparents are Mr..\nand Mrs. George Diggs, 1914 E.\nMonroe.\n\n\nThe babyweighed E lbs, 10 ozs.\nat birth. 'i@1'@-'7",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3723,
+                "y0": 1940,
+                "x1": 4241,
+                "y1": 2208
+            },
+            "class": "headline",
+            "raw_text": "STORKINC\nROUND",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 121,
+                "y0": 3165,
+                "x1": 1830,
+                "y1": 4607
+            },
+            "class": "article",
+            "raw_text": "welcomed the Sheraton Park mode homes\nshow barbe Sunday 22nd ST. and E. Roeser\nOn hand to from left Mesdames\n(Katie) William heresa) Ltleton Mrs. Clyde Webb\nMessrs. Webb, Williams Sr. and D. W. Williams\nPark developed by Williams and Jones\nhomes sold by the Webb Williams and Berry\nreal brokers'\n\n\nthe deluxe color televsion set which was\nof the day. won by Virgil Taylor OF\n1926 w. Buckeye Rd. Two visitors admire it,\n\n\nMoore Webb Williams and Berry, discusses building\nplans guests.\n\n\nSigning few OF the persons VINO aunoeo\nand prize drawing.\n\n\nSeated are Mrs. Travis Williams and Tease.\nBill Franklin salesman welcomes friends the FEAST he\nthe arbe photoS-B Heard\n\n\nComing and Going\nLee Thompson 2l26 So 7 WORTH Lubbock Spur and spend\nAve.. Texas Wednes week with his\nextended vacation Eliza Johnson in Ell\nHe will stop in Dallas Fl Paso.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 121,
+                "y0": 4350,
+                "x1": 936,
+                "y1": 4595
+            },
+            "class": "article",
+            "raw_text": "Lee Thompson, 2l26 So. 9TH\nAve., motored to Texa S Wednes-\nday for an extended vacation.\n\n\nHe will stop in Dallas. Fl.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 720,
+                "y0": 4251,
+                "x1": 1278,
+                "y1": 4328
+            },
+            "class": "headline",
+            "raw_text": "Coming and Going",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1022,
+                "y0": 4350,
+                "x1": 1842,
+                "y1": 4595
+            },
+            "class": "article",
+            "raw_text": "Worth, Lubbock, Spur, and spend\na week or more with his sister,\nMrs. Eliza Jane Johnson in Ell\nPa so.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-11-13"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "Nam ed To\nDraft Post",
+            "article": "WASHINGTON Lt.Gen. Lewis\nB. Hershey, Director of Selective\nService, has announced the recent\nappointment of Col. Campbell c.\nJohns on to be Assistant Director\nof the Selective Service System.\nColonel Johnson served as Ex-\necutive Assistant to the Director,\nlo4O-l948, and as Assistant to the\nDirector, I948-1o64.\n\n\nA native of the District Of\nColumbia, Colonel johnson has\nbeen a leader in civic and social\nwelfare activities in the National\nCapital throughout his career.\nAmong his other activities. he\nformerly served as Chairman of\nthe District of Columbia Par ole\nBoard; holds office in the YMCA,\nis Vice Chairman of the National\nCapital Housing Authority; and\ntaught at Howard University. He\nis a member of the Bar of the\nDistrict of Columbia and North\nCarolina. He holds the Army\nDistinguished Service Medal for\nhis work with the Selective Ser\nvice System.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2828,
+                    "y0": 2015,
+                    "x1": 3387,
+                    "y1": 2283
+                },
+                {
+                    "x0": 2811,
+                    "y0": 2311,
+                    "x1": 3625,
+                    "y1": 3962
+                }
+            ],
+            "bbox": [
+                2811,
+                2015,
+                3625,
+                3962
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-13_p1_sn84021918_0041421695A_1964111301_0633.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "STORKINC\nROUND",
+            "article": "MIR. and Mrs. George Diggs,\nJr., 1914 E. Monroe, Apt. 10,\nannounce the birth their daugh-\nter on Oct. 26 at Good Samaritan\nHospital.\n\n\nPaternal grandparents areMr.f\nand Mrs. Robert Carr, l247 w.\nWatkins.\n\n\nMaternal grandparents are Mr..\nand Mrs. George Diggs, 1914 E.\nMonroe.\n\n\nThe babyweighed E lbs, 10 ozs.\nat birth. 'i@1'@-'7",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3723,
+                    "y0": 1940,
+                    "x1": 4241,
+                    "y1": 2208
+                },
+                {
+                    "x0": 3670,
+                    "y0": 2224,
+                    "x1": 4490,
+                    "y1": 2998
+                }
+            ],
+            "bbox": [
+                3670,
+                1940,
+                4490,
+                2998
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-13_p1_sn84021918_0041421695A_1964111301_0633.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "welcomed the Sheraton Park mode homes\nshow barbe Sunday 22nd ST. and E. Roeser\nOn hand to from left Mesdames\n(Katie) William heresa) Ltleton Mrs. Clyde Webb\nMessrs. Webb, Williams Sr. and D. W. Williams\nPark developed by Williams and Jones\nhomes sold by the Webb Williams and Berry\nreal brokers'\n\n\nthe deluxe color televsion set which was\nof the day. won by Virgil Taylor OF\n1926 w. Buckeye Rd. Two visitors admire it,\n\n\nMoore Webb Williams and Berry, discusses building\nplans guests.\n\n\nSigning few OF the persons VINO aunoeo\nand prize drawing.\n\n\nSeated are Mrs. Travis Williams and Tease.\nBill Franklin salesman welcomes friends the FEAST he\nthe arbe photoS-B Heard\n\n\nComing and Going\nLee Thompson 2l26 So 7 WORTH Lubbock Spur and spend\nAve.. Texas Wednes week with his\nextended vacation Eliza Johnson in Ell\nHe will stop in Dallas Fl Paso.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 121,
+                    "y0": 3165,
+                    "x1": 1830,
+                    "y1": 4607
+                }
+            ],
+            "bbox": [
+                121,
+                3165,
+                1830,
+                4607
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-11-13_p1_sn84021918_0041421695A_1964111301_0633.json"
+        },
+        {
+            "object_ids": [
+                22,
+                18
+            ],
+            "headline": "Coming and Going",
+            "article": "Lee Thompson, 2l26 So. 9TH\nAve., motored to Texa S Wednes-\nday for an extended vacation.\n\n\nHe will stop in Dallas. Fl.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 720,
+                    "y0": 4251,
+                    "x1": 1278,
+                    "y1": 4328
+                },
+                {
+                    "x0": 121,
+                    "y0": 4350,
+                    "x1": 936,
+                    "y1": 4595
+                }
+            ],
+            "bbox": [
+                121,
+                4251,
+                1278,
+                4595
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-11-13_p1_sn84021918_0041421695A_1964111301_0633.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Worth, Lubbock, Spur, and spend\na week or more with his sister,\nMrs. Eliza Jane Johnson in Ell\nPa so.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1022,
+                    "y0": 4350,
+                    "x1": 1842,
+                    "y1": 4595
+                }
+            ],
+            "bbox": [
+                1022,
+                4350,
+                1842,
+                4595
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-11-13_p1_sn84021918_0041421695A_1964111301_0633.json"
+        }
+    ]
+}

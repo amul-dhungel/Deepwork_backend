@@ -1,0 +1,606 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964081401/0509.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7443,
+        "width": 4893
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1865,
+                "y0": 5855,
+                "x1": 2685,
+                "y1": 7100
+            },
+            "class": "article",
+            "raw_text": "ATLANTA Lester Maddox,\navowed segregationist, defied the\nnew civil rights law again by re-\nfusing to permit three Negroes\nto enter his restaurant.\n\n\nA crowd of 500 jeering and\ncheering whites supported him\nvocally as traffic was tied up.\n\n\nMaddox told the trio ofNAACP\nrepresentatives, including two\nministers that you're not about\nto enter. If you live 100 years\nyou'll never get a piece of fried\nchicken here\"\n\n\nHe also called his II Negro\nemployees to help block the en-\ntrance and told the men seeking\nservice that they all would lose\ntheir jobs If they entered. Some\nof Maddox's employees asked the\nmen to leave.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1899,
+                "y0": 5576,
+                "x1": 2656,
+                "y1": 5827
+            },
+            "class": "headline",
+            "raw_text": "N uddox Defies\n\n\nRights Law Again",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 981,
+                "y0": 5907,
+                "x1": 1802,
+                "y1": 7089
+            },
+            "class": "article",
+            "raw_text": "HOLLYWOOD NPD Oscar\nwinner Sidney Potter will play\na FBI agent assigned to track\ndown kidnapper on the East\nCoast, in a new film called The\nSeven File,' which will be filmed\nsoon.\n\n\nPoitier's role in the new film\nwas announced last week by CO.\nproducers Ralph Nels on and Fred\nEngel. Nelson and Engel will\nproduce the film for United\nArtists.\n\n\n\"The Seven File\" will team\nPotter and Nels on in their second\neffort in recent months. They\nwere also teamed in \"Lillies of\nthe Field\" which won Potter\nHOLLYWOOD coveted \"best\nactor\" Academy award.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1010,
+                "y0": 5524,
+                "x1": 1656,
+                "y1": 5862
+            },
+            "class": "headline",
+            "raw_text": "PORTER to\nPlay FIJI\n\n\nAgent in Film",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 74,
+                "y0": 5692,
+                "x1": 894,
+                "y1": 7159
+            },
+            "class": "article",
+            "raw_text": "PITTSBURGH, Pa. Gene\nMulberry was named retail\nsales representative with Gulf\nOTIS New York marketing d.\nvision. He will service sales\naccounts in the Bronx-Manhattan\nsales area.\n\n\nA native of Philadelphia, MIR.\nMulberry was graduated in 1860\nfrom Howard University, where\nhe ajored in psychology. At\nHoward, he was president of\nKappa Sigma debating society\nand of the Wesley Foundation.\nA member of the Army Reserve\nOfficers Training Corps, he later\nserved as a second lieutenant\nof artillery at Forts Sill and\nDix. upon discharge, he worked\nfor the US. Post Office, the\nPhiladelphia Board of Education,\nand Department of Public As\nsistance prior to joining Gulf\nas a sales trainee in December,\n1868.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 85,
+                "y0": 5343,
+                "x1": 615,
+                "y1": 5664
+            },
+            "class": "headline",
+            "raw_text": "Gulf N an, es\nNegro to\n\n\nSales Post",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2760,
+                "y0": 4890,
+                "x1": 3569,
+                "y1": 5664
+            },
+            "class": "article",
+            "raw_text": "Police said friends of Cleve-\nland Menefield, found him\nkneeling on the floor ofhis apart\nment at 1926 E. Jefferson, his\nhead resting on his bed.\n\n\nOfficers said Menefield was\nbeaten with an instrument which\nleft two small holes In the top\nof his head.\n\n\nA neighbor told police he saw\nMenefield in that position at about\n8:45 pm. Saturday, but thought\nthe victim was alive.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2783,
+                "y0": 4663,
+                "x1": 3494,
+                "y1": 4850
+            },
+            "class": "headline",
+            "raw_text": "MAN FOUND\nDEAD IN APARTMENT",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2754,
+                "y0": 5902,
+                "x1": 3563,
+                "y1": 6438
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Several bull\nlets from a 38 caliber pistol\nare being checked in the FBI\nlaboratories. The bullets were\nfound in the bodies of the three\nslain civil rights workers who\nwe're killed near Philadelphia,\nMiss.\n\n\nNo arrests have been made.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2777,
+                "y0": 5686,
+                "x1": 3313,
+                "y1": 5873
+            },
+            "class": "headline",
+            "raw_text": "FBI CHECKS\nDEATH BULLETS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1865,
+                "y0": 1535,
+                "x1": 2685,
+                "y1": 3094
+            },
+            "class": "article",
+            "raw_text": "ATHENS. Ga. = FBI spokes-\nmen say the four Athens men\ncharged in the death of Lemuel\nPenn, Washington. D. c., edu-\nGator did not know him. They\nhad planned to kill Negroes to\nkeep them from using the new\ncivil rights law.\n\n\nMurder warrants for them may\nbe filed, but they are impris oned\non federal charges of violating\nprovisions in the Civil Rights\nAct recently passed.\n\n\nEvidence against the prisoners\nwill be presented during the week\nof Aug. \"a.\n\n\nThe fatal shooting of the Negro\neducator, who was returning from\nduty with the army reserves oc-\nCured on July IL.\n\n\nHeld in the salying are James\nS.. Lackey, %: HerbertGuest. 81:\nCecil William Myers, Is. and\nHoward Sims. Al. They are\nmembers of a local Ku LUX\nKlan unit.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1894,
+                "y0": 1267,
+                "x1": 2528,
+                "y1": 1483
+            },
+            "class": "headline",
+            "raw_text": "VICTIM UNKNOWN\nBY 4 KILLERS",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 74,
+                "y0": 3448,
+                "x1": 894,
+                "y1": 5327
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Roy wilkins,\nexecutive secretary of the Ma\ntional Association for the Adj\nvancement of Colored People, has\nbeen notified by White House\nauthorities that emergency first\naid and medical services in\nfederal hospital and health\nfacilities in Mississippi will be\nmade available to civil rights\nworkers in that state.\n\n\nLee White, a presidential aide,\nin a letter, said the President\nhad asked him to investigate the\nmatter following receipt of\ntelegram from Mr.. Wilkins, DR..\nKenneth w. Clement, president,\nNational Medical Association:\nand DR.. Alonzo VERIFY president,\nNew York City Public Health As\nISOLATION.\n\n\nWhite said that under existing\npolicies of those Federal\nagencies which operate medical\nfacilities, treatment is available\nfor emergency patients.\n\n\nThe wire was sent to Presi-\ndent Johns on after night-riders\nhad shot into a church in Moss\nPoint, Mississippi, where a civil\nrights meeting was being held,\nwounding l6-year-old girl.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 91,
+                "y0": 3163,
+                "x1": 790,
+                "y1": 3437
+            },
+            "class": "headline",
+            "raw_text": "Federal Hospital Aid\nFor Rights Workers\nin Mississippi",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3655,
+                "y0": 5029,
+                "x1": 4471,
+                "y1": 7042
+            },
+            "class": "article",
+            "raw_text": "JACKSONVILLE = (NPD A\ncase against an elderly Negro\ncouple, did not realize they were\nwere signing a mortgage on their\nhome when they obtained loan.\nwas dismissed here last week In\ncircuit court.\n\n\nIn the hearing before Judge\nlyric A. Boyer, 1t was revealed\nthat the defendants, Mr.. and Mrs.\nBenjamin Dowdell, had limited\neducation and we're not aware they\nsigned a $4,000 mortgage on\ntheir home when they obtained\nloan from the Argus Corporation\non Jan. %, 1868.\n\n\nArgus later assigned the mort\ngage to the Florida Mortgage\nProperties, Ltd, who sued the\ncouple.\n\n\nThe Dowdells wanted the money\nto repaint their house, which\nfigures show cost 81 SOL .03.\n\n\nThe difference between this\nfigure and the $4,000 was\nexplained as a payment by Argus\nof $3.50 to an attorney, which\nwas later applied toward $l40\nin delinquent payments on an\nother mortgage. The remaining\n$40 was for an unexplained fee.\nIn addition the suit listed\n$ll3.97 in redemption of tax\ncertificates.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3655,
+                "y0": 4721,
+                "x1": 4412,
+                "y1": 4995
+            },
+            "class": "headline",
+            "raw_text": "Elderly Couple\nAlmost Lose Home\nSigning Mortgage Note",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2772,
+                "y0": 6681,
+                "x1": 3581,
+                "y1": 7164
+            },
+            "class": "article",
+            "raw_text": "The trial of Clyde Sutton, Is\nof Somerton on a first-degree\nmurder charge has been reset\nfor Sept. 20 from Aug. 81.\n\n\nSutton Is accused of shooting\nto death Roy Lee Waugh, lo,\n1912 S. 18th ST., April 26 in\ncafe at 1913 w. Buckeye Road.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2777,
+                "y0": 6471,
+                "x1": 3430,
+                "y1": 6653
+            },
+            "class": "headline",
+            "raw_text": "Sutton Trial\n\n\nReset to Sept. 70",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2789,
+                "y0": 3802,
+                "x1": 4459,
+                "y1": 4629
+            },
+            "class": "article",
+            "raw_text": "Governor Paul j. Fannn, turned the first shovel of dirt\nmarking of construction the 81 million\nPlayground Coliseum The l500sea\nfacility will be completed by the November 1865 Arizona State\nFair The largest check Arizona for bonded building\n\n\n787 presented Blyth\nand Company of Los Angeles for bonds purchased by\nthe firm\n\n\nDgnaries included left Fair Commission Chair\nRoer Treasurer Milton Huskey Phoenix:\nConner. McCleand, Tue\nCharles Garland executive secretary\ncommission John Dckman of\nConstruction Co., low bidder the facility",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-08-14"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                3
+            ],
+            "headline": "N uddox Defies\n\n\nRights Law Again",
+            "article": "ATLANTA Lester Maddox,\navowed segregationist, defied the\nnew civil rights law again by re-\nfusing to permit three Negroes\nto enter his restaurant.\n\n\nA crowd of 500 jeering and\ncheering whites supported him\nvocally as traffic was tied up.\n\n\nMaddox told the trio ofNAACP\nrepresentatives, including two\nministers that you're not about\nto enter. If you live 100 years\nyou'll never get a piece of fried\nchicken here\"\n\n\nHe also called his II Negro\nemployees to help block the en-\ntrance and told the men seeking\nservice that they all would lose\ntheir jobs If they entered. Some\nof Maddox's employees asked the\nmen to leave.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1899,
+                    "y0": 5576,
+                    "x1": 2656,
+                    "y1": 5827
+                },
+                {
+                    "x0": 1865,
+                    "y0": 5855,
+                    "x1": 2685,
+                    "y1": 7100
+                }
+            ],
+            "bbox": [
+                1865,
+                5576,
+                2685,
+                7100
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "PORTER to\nPlay FIJI\n\n\nAgent in Film",
+            "article": "HOLLYWOOD NPD Oscar\nwinner Sidney Potter will play\na FBI agent assigned to track\ndown kidnapper on the East\nCoast, in a new film called The\nSeven File,' which will be filmed\nsoon.\n\n\nPoitier's role in the new film\nwas announced last week by CO.\nproducers Ralph Nels on and Fred\nEngel. Nelson and Engel will\nproduce the film for United\nArtists.\n\n\n\"The Seven File\" will team\nPotter and Nels on in their second\neffort in recent months. They\nwere also teamed in \"Lillies of\nthe Field\" which won Potter\nHOLLYWOOD coveted \"best\nactor\" Academy award.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1010,
+                    "y0": 5524,
+                    "x1": 1656,
+                    "y1": 5862
+                },
+                {
+                    "x0": 981,
+                    "y0": 5907,
+                    "x1": 1802,
+                    "y1": 7089
+                }
+            ],
+            "bbox": [
+                981,
+                5524,
+                1802,
+                7089
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "Gulf N an, es\nNegro to\n\n\nSales Post",
+            "article": "PITTSBURGH, Pa. Gene\nMulberry was named retail\nsales representative with Gulf\nOTIS New York marketing d.\nvision. He will service sales\naccounts in the Bronx-Manhattan\nsales area.\n\n\nA native of Philadelphia, MIR.\nMulberry was graduated in 1860\nfrom Howard University, where\nhe ajored in psychology. At\nHoward, he was president of\nKappa Sigma debating society\nand of the Wesley Foundation.\nA member of the Army Reserve\nOfficers Training Corps, he later\nserved as a second lieutenant\nof artillery at Forts Sill and\nDix. upon discharge, he worked\nfor the US. Post Office, the\nPhiladelphia Board of Education,\nand Department of Public As\nsistance prior to joining Gulf\nas a sales trainee in December,\n1868.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 85,
+                    "y0": 5343,
+                    "x1": 615,
+                    "y1": 5664
+                },
+                {
+                    "x0": 74,
+                    "y0": 5692,
+                    "x1": 894,
+                    "y1": 7159
+                }
+            ],
+            "bbox": [
+                74,
+                5343,
+                894,
+                7159
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                22,
+                7
+            ],
+            "headline": "MAN FOUND\nDEAD IN APARTMENT",
+            "article": "Police said friends of Cleve-\nland Menefield, found him\nkneeling on the floor ofhis apart\nment at 1926 E. Jefferson, his\nhead resting on his bed.\n\n\nOfficers said Menefield was\nbeaten with an instrument which\nleft two small holes In the top\nof his head.\n\n\nA neighbor told police he saw\nMenefield in that position at about\n8:45 pm. Saturday, but thought\nthe victim was alive.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2783,
+                    "y0": 4663,
+                    "x1": 3494,
+                    "y1": 4850
+                },
+                {
+                    "x0": 2760,
+                    "y0": 4890,
+                    "x1": 3569,
+                    "y1": 5664
+                }
+            ],
+            "bbox": [
+                2760,
+                4663,
+                3569,
+                5664
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "FBI CHECKS\nDEATH BULLETS",
+            "article": "WASHINGTON Several bull\nlets from a 38 caliber pistol\nare being checked in the FBI\nlaboratories. The bullets were\nfound in the bodies of the three\nslain civil rights workers who\nwe're killed near Philadelphia,\nMiss.\n\n\nNo arrests have been made.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2777,
+                    "y0": 5686,
+                    "x1": 3313,
+                    "y1": 5873
+                },
+                {
+                    "x0": 2754,
+                    "y0": 5902,
+                    "x1": 3563,
+                    "y1": 6438
+                }
+            ],
+            "bbox": [
+                2754,
+                5686,
+                3563,
+                6438
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                20,
+                9
+            ],
+            "headline": "VICTIM UNKNOWN\nBY 4 KILLERS",
+            "article": "ATHENS. Ga. = FBI spokes-\nmen say the four Athens men\ncharged in the death of Lemuel\nPenn, Washington. D. c., edu-\nGator did not know him. They\nhad planned to kill Negroes to\nkeep them from using the new\ncivil rights law.\n\n\nMurder warrants for them may\nbe filed, but they are impris oned\non federal charges of violating\nprovisions in the Civil Rights\nAct recently passed.\n\n\nEvidence against the prisoners\nwill be presented during the week\nof Aug. \"a.\n\n\nThe fatal shooting of the Negro\neducator, who was returning from\nduty with the army reserves oc-\nCured on July IL.\n\n\nHeld in the salying are James\nS.. Lackey, %: HerbertGuest. 81:\nCecil William Myers, Is. and\nHoward Sims. Al. They are\nmembers of a local Ku LUX\nKlan unit.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1894,
+                    "y0": 1267,
+                    "x1": 2528,
+                    "y1": 1483
+                },
+                {
+                    "x0": 1865,
+                    "y0": 1535,
+                    "x1": 2685,
+                    "y1": 3094
+                }
+            ],
+            "bbox": [
+                1865,
+                1267,
+                2685,
+                3094
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                18,
+                10
+            ],
+            "headline": "Federal Hospital Aid\nFor Rights Workers\nin Mississippi",
+            "article": "NEW YORK = Roy wilkins,\nexecutive secretary of the Ma\ntional Association for the Adj\nvancement of Colored People, has\nbeen notified by White House\nauthorities that emergency first\naid and medical services in\nfederal hospital and health\nfacilities in Mississippi will be\nmade available to civil rights\nworkers in that state.\n\n\nLee White, a presidential aide,\nin a letter, said the President\nhad asked him to investigate the\nmatter following receipt of\ntelegram from Mr.. Wilkins, DR..\nKenneth w. Clement, president,\nNational Medical Association:\nand DR.. Alonzo VERIFY president,\nNew York City Public Health As\nISOLATION.\n\n\nWhite said that under existing\npolicies of those Federal\nagencies which operate medical\nfacilities, treatment is available\nfor emergency patients.\n\n\nThe wire was sent to Presi-\ndent Johns on after night-riders\nhad shot into a church in Moss\nPoint, Mississippi, where a civil\nrights meeting was being held,\nwounding l6-year-old girl.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 91,
+                    "y0": 3163,
+                    "x1": 790,
+                    "y1": 3437
+                },
+                {
+                    "x0": 74,
+                    "y0": 3448,
+                    "x1": 894,
+                    "y1": 5327
+                }
+            ],
+            "bbox": [
+                74,
+                3163,
+                894,
+                5327
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                14,
+                11
+            ],
+            "headline": "Elderly Couple\nAlmost Lose Home\nSigning Mortgage Note",
+            "article": "JACKSONVILLE = (NPD A\ncase against an elderly Negro\ncouple, did not realize they were\nwere signing a mortgage on their\nhome when they obtained loan.\nwas dismissed here last week In\ncircuit court.\n\n\nIn the hearing before Judge\nlyric A. Boyer, 1t was revealed\nthat the defendants, Mr.. and Mrs.\nBenjamin Dowdell, had limited\neducation and we're not aware they\nsigned a $4,000 mortgage on\ntheir home when they obtained\nloan from the Argus Corporation\non Jan. %, 1868.\n\n\nArgus later assigned the mort\ngage to the Florida Mortgage\nProperties, Ltd, who sued the\ncouple.\n\n\nThe Dowdells wanted the money\nto repaint their house, which\nfigures show cost 81 SOL .03.\n\n\nThe difference between this\nfigure and the $4,000 was\nexplained as a payment by Argus\nof $3.50 to an attorney, which\nwas later applied toward $l40\nin delinquent payments on an\nother mortgage. The remaining\n$40 was for an unexplained fee.\nIn addition the suit listed\n$ll3.97 in redemption of tax\ncertificates.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3655,
+                    "y0": 4721,
+                    "x1": 4412,
+                    "y1": 4995
+                },
+                {
+                    "x0": 3655,
+                    "y0": 5029,
+                    "x1": 4471,
+                    "y1": 7042
+                }
+            ],
+            "bbox": [
+                3655,
+                4721,
+                4471,
+                7042
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                21,
+                12
+            ],
+            "headline": "Sutton Trial\n\n\nReset to Sept. 70",
+            "article": "The trial of Clyde Sutton, Is\nof Somerton on a first-degree\nmurder charge has been reset\nfor Sept. 20 from Aug. 81.\n\n\nSutton Is accused of shooting\nto death Roy Lee Waugh, lo,\n1912 S. 18th ST., April 26 in\ncafe at 1913 w. Buckeye Road.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2777,
+                    "y0": 6471,
+                    "x1": 3430,
+                    "y1": 6653
+                },
+                {
+                    "x0": 2772,
+                    "y0": 6681,
+                    "x1": 3581,
+                    "y1": 7164
+                }
+            ],
+            "bbox": [
+                2772,
+                6471,
+                3581,
+                7164
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Governor Paul j. Fannn, turned the first shovel of dirt\nmarking of construction the 81 million\nPlayground Coliseum The l500sea\nfacility will be completed by the November 1865 Arizona State\nFair The largest check Arizona for bonded building\n\n\n787 presented Blyth\nand Company of Los Angeles for bonds purchased by\nthe firm\n\n\nDgnaries included left Fair Commission Chair\nRoer Treasurer Milton Huskey Phoenix:\nConner. McCleand, Tue\nCharles Garland executive secretary\ncommission John Dckman of\nConstruction Co., low bidder the facility",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2789,
+                    "y0": 3802,
+                    "x1": 4459,
+                    "y1": 4629
+                }
+            ],
+            "bbox": [
+                2789,
+                3802,
+                4459,
+                4629
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-08-14_p1_sn84021918_0041421695A_1964081401_0509.json"
+        }
+    ]
+}

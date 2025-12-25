@@ -1,0 +1,484 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964010301/0249.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4805
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1044,
+                "y0": 3681,
+                "x1": 1860,
+                "y1": 4936
+            },
+            "class": "article",
+            "raw_text": "Les Femmes dart held its\nfirst dance at Convention Center,\nSafari Hotel, Sat-, Dec. %. -\n\n\nOfficers include Mesdames\nWilliam C. Smith, Jr., president;\nAubrey C. Aldridge, vice presi-\ndent; Alton Thomas, treasurer:\nHomer Roberts, secretary; Low\nell C. Wormley, asst. secretary;\nJohn S. Jones, parliamentarian;\nCirce, Mcclellan, historian and\nGerald Swain, reporter.\n\n\nMrs. Robert Harper was dance\nchairman and she was assisted\nby Mrs. A. D. Hart.\n\n\nOther members are Mesdames\nWilliam Bennett, William Corbin,\nHayzel B. Daniels, Lwrence\nFields, Frank HUFF, William Lit\nTeton, Leonard E. Wilburn, Fred\nWilliams and D. w. Williams.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1061,
+                "y0": 3421,
+                "x1": 1675,
+                "y1": 3653
+            },
+            "class": "headline",
+            "raw_text": "ART CLUB\n\n\nHOLDS FIRST\nHOLIDAY DANCE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1922,
+                "y0": 583,
+                "x1": 2744,
+                "y1": 3364
+            },
+            "class": "article",
+            "raw_text": "SPECIAL NOTTCEl DIT. Mary\nThompson, chairman of the Pur-\npie and White formal committee,\nreports her purse disappeared\nfrom the lodge kitchen. She would\nlike to have her important, per-\nsonal papers and Identification\ncards returned. Please mail or\nreturn purse and papers to the\nw. H. Patterson Elks Lodge, 1907\nSo. 9TH Ave. No questions asked.\n\n\nDIT. Essie Richie attended fun\neral services for her cousin,\nLille Mae Richie in Los Angeles,\nDec. 26.\n\n\nMildred Gerton, 1912 w. Apa-\nche, is recuperating at Memorial\nHospital, ] West R, %. Mrs.\nCordie Cotton who was injured\nat the same time is also in the\nsame room.\n\n\nMrs. Gerton' S daughter, Mar\ngo, 10, Is in the children s wing\nat Memorial.\n\n\nThey were injured in an auto\ntrain wreck early Christmas\nmorning at 18th Ave and Maricopa\nFreeway.\n\n\nCalendar Jan. 8 = Regular\nDaughter meeting; Jan g. PDRC\ninstallation wear full regalia;\nJan. IA = Joint installation, all\nmembers should be present; Jan.\n\"a PISA convention committee\nmeet, 4 pm.\n\n\nOfficers elected by w. H. Pat\nterson Lodge VAT or 1864 are\nIsiah Ward, exalted ruler; Wal\nlace Croomes, est. leading\nknight; Charles Williams, secre-\ntary: S. L. Carr, treasurer; Tony\nShoals, esquire; David McClam-\nmy, tiler: Homer Kennedy, inner\nguard; Arthur Blackshear, Virgil\nBerry, Eldridge Gonoway, James\nMcElroy and Japalee Harrison,\ntrustees.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1963,
+                "y0": 312,
+                "x1": 2657,
+                "y1": 555
+            },
+            "class": "headline",
+            "raw_text": "ELKS CORNER\nCHARLESETTA\nMCC MT-R EPORTER",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 148,
+                "y0": 3710,
+                "x1": 970,
+                "y1": 4850
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON About ESQ mil\nlion dollars year Of public as\nsistance money goes to support\n$50 thousand families whose faith\ners have deserted them.\n\n\nActing Director John Hurley\nof the Bureau of Family Services\ngave that figure Wednesday in\nmaking public a report of a\nnational meeting of law enforce\nment and public welfare officials.\n\n\n\"The ideal solution, of course,\nis to locate the DESERVING father,\nattempt to get him to join his\nfamily or. failing that, obtain his\ncontribution to the support his\nchildren\" Mr.. Hurley said.\n\n\nBut he said many deserving\nfathers slip through the net.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 154,
+                "y0": 3508,
+                "x1": 831,
+                "y1": 3676
+            },
+            "class": "headline",
+            "raw_text": "ABSENT FATHERS\nARE COSTLY",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1934,
+                "y0": 3629,
+                "x1": 2756,
+                "y1": 5526
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = Mrs. Jessie\nJones, Is, a small Negro mother,\nis petitioning the Federal Court\nof Appeals to ouash the order\nof Judge j. Sicily Wright. which\ndirected hospital authorities to\ngive her a TRANSMISSION on Sept.\nII.\n\n\nMrs. Jones and her husband\nare Jehovah s Witnesses. When\nhe rushed her toGeorgetown Uni\nversity Hospital last September,\ndoctors said she would die from\na bleeding ulcer unless she re-\nceived blood.\n\n\nThey refused to authorize the\nTRANSMISSION and the hospital\nsought a court order. The first\nrequest was rejected, but Judge\nWright granted the request. Mrs.\nJones received the TRANSMISSION\nand recovered.\n\n\nNow she wants to make sure\nthat she will never be forced to\nhave a blood TRANSMISSION again.\nA devout woman, Mrs. Jones\nsaid, sit is better to keep God 8\nlaw than to compromise ones\nbeliefs\"\n\n\nShe and her husband say they\nare fighting for their religious\nrights.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1951,
+                "y0": 3456,
+                "x1": 2756,
+                "y1": 3613
+            },
+            "class": "headline",
+            "raw_text": "WOMAN WANTS\n\n\nTRANSMISSION RULING",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1945,
+                "y0": 5652,
+                "x1": 2756,
+                "y1": 6006
+            },
+            "class": "article",
+            "raw_text": "The largest prison is the Khar-\nkov Jail in the U.S.S.R., which\nonce housed 10000 prisoners.\nThe smallest is on the Isle of\nSark in the Channel Islands, which\nhas a capacity of two.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2859,
+                "y0": 4144,
+                "x1": 4489,
+                "y1": 5405
+            },
+            "class": "article",
+            "raw_text": "Discovered South of the border This richly thick decously\nspicy brought back the border recipe\neveryone enjoy it. It's excellent\nwith whipped your favorite whipped topping\nvanilla ice\n\n\npie deectabe fairly hearty\nafter and salad meal different accompaniment\nof hot coffee exciting substitute for\nbirthday cake.\n\n\nSpicy Coconut Pie\n1-1/3 cups (about) faxed 1 teaspoon ground\n\n\ncinnamon\n1 unbaked 9-inch pie shell 1 teaspoon ground nutmeg\ntablespoons butter 1 teaspoon vanilla\ngranulated 1 extract\neggs, beaten Whipped cream, prepared\n1 cup dark corn syrup dessert topping,\n1/8 teaspoon salt vanilla ice cream .\n\n\nFlaked coconut (optional)\nSprinkle unbaked she'll Cream together\nbutter and Add remaining ngred\nWE'LL then pour coconut pie she'll Bake in\nminutes Serve with \"crescents of\nwhipped prinked with additional faxed coconu Makes\nto 8 servings.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 142,
+                "y0": 2294,
+                "x1": 1837,
+                "y1": 3387
+            },
+            "class": "article",
+            "raw_text": "Baptist Church. 245 Chapman Rd the setting for\nwedding ceremony Carol Jackson and War\nrem Livingston.\n\n\nReid, pastor, ofcated the marriage\nwhich performed Sat-. Dec %.\n\n\nFrom left are Misses Gipson Dolores Gordon,\nbridesmaids Mrs Fay Pete honor Mrs Lv\nngston MIR. Livingston and Patricia Jackson Glen Jackson\nring bearer.\n\n\nThe bride is University\nis majoring in elementary education\n\n\nThe is graduate of the University of Arizona and is\n\n\nmember of the Dallas Cowboys professional ooball\nSecond hotor and Mrs Moody Jackson 2736 Roeser Rd\nparents of the bride, pose the reception.\n\n\nThe newlywed in front the cake, while the groom\nparents Mr. and Mrs L. B. Livingston Mesa watch from the\nright",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2830,
+                "y0": 1496,
+                "x1": 4524,
+                "y1": 2359
+            },
+            "class": "article",
+            "raw_text": "Chisom-Wise wedding party\nMisses Mary Charlene DARRELL Ethel Daniels\nnell Wise, apo and Mrs. Richard Gibson, Alex\nWISE Larry Hemphill and Dewayne Harrel.\n\n\nThe bride ASU majoring secondary\nHer parents Mr.. and Mrs. Ruben Wise, Mesa.\n\n\nThe is stationed Williams Air Force Base His\nare Mr.. and Mrs. Richard Gibson, Sr., of Manu. Fla.\n\n\nNEW SALEM CHURCH BEING BUILT\nNew Salem Baptist Church is pastor, wishes that\nunder 1850 services WILL be nelo as soon as\nE. Grant St. Rev. S. G. Marshall possible",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3708,
+                "y0": 2161,
+                "x1": 4524,
+                "y1": 2335
+            },
+            "class": "article",
+            "raw_text": "pastor. wishes to announce that\nservices will be held as soon as\npossible.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3067,
+                "y0": 2040,
+                "x1": 4333,
+                "y1": 2122
+            },
+            "class": "headline",
+            "raw_text": "NEW SALEM CHURCH BEING BUILT",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-01-03"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "ART CLUB\n\n\nHOLDS FIRST\nHOLIDAY DANCE",
+            "article": "Les Femmes dart held its\nfirst dance at Convention Center,\nSafari Hotel, Sat-, Dec. %. -\n\n\nOfficers include Mesdames\nWilliam C. Smith, Jr., president;\nAubrey C. Aldridge, vice presi-\ndent; Alton Thomas, treasurer:\nHomer Roberts, secretary; Low\nell C. Wormley, asst. secretary;\nJohn S. Jones, parliamentarian;\nCirce, Mcclellan, historian and\nGerald Swain, reporter.\n\n\nMrs. Robert Harper was dance\nchairman and she was assisted\nby Mrs. A. D. Hart.\n\n\nOther members are Mesdames\nWilliam Bennett, William Corbin,\nHayzel B. Daniels, Lwrence\nFields, Frank HUFF, William Lit\nTeton, Leonard E. Wilburn, Fred\nWilliams and D. w. Williams.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1061,
+                    "y0": 3421,
+                    "x1": 1675,
+                    "y1": 3653
+                },
+                {
+                    "x0": 1044,
+                    "y0": 3681,
+                    "x1": 1860,
+                    "y1": 4936
+                }
+            ],
+            "bbox": [
+                1044,
+                3421,
+                1860,
+                4936
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "ELKS CORNER\nCHARLESETTA\nMCC MT-R EPORTER",
+            "article": "SPECIAL NOTTCEl DIT. Mary\nThompson, chairman of the Pur-\npie and White formal committee,\nreports her purse disappeared\nfrom the lodge kitchen. She would\nlike to have her important, per-\nsonal papers and Identification\ncards returned. Please mail or\nreturn purse and papers to the\nw. H. Patterson Elks Lodge, 1907\nSo. 9TH Ave. No questions asked.\n\n\nDIT. Essie Richie attended fun\neral services for her cousin,\nLille Mae Richie in Los Angeles,\nDec. 26.\n\n\nMildred Gerton, 1912 w. Apa-\nche, is recuperating at Memorial\nHospital, ] West R, %. Mrs.\nCordie Cotton who was injured\nat the same time is also in the\nsame room.\n\n\nMrs. Gerton' S daughter, Mar\ngo, 10, Is in the children s wing\nat Memorial.\n\n\nThey were injured in an auto\ntrain wreck early Christmas\nmorning at 18th Ave and Maricopa\nFreeway.\n\n\nCalendar Jan. 8 = Regular\nDaughter meeting; Jan g. PDRC\ninstallation wear full regalia;\nJan. IA = Joint installation, all\nmembers should be present; Jan.\n\"a PISA convention committee\nmeet, 4 pm.\n\n\nOfficers elected by w. H. Pat\nterson Lodge VAT or 1864 are\nIsiah Ward, exalted ruler; Wal\nlace Croomes, est. leading\nknight; Charles Williams, secre-\ntary: S. L. Carr, treasurer; Tony\nShoals, esquire; David McClam-\nmy, tiler: Homer Kennedy, inner\nguard; Arthur Blackshear, Virgil\nBerry, Eldridge Gonoway, James\nMcElroy and Japalee Harrison,\ntrustees.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1963,
+                    "y0": 312,
+                    "x1": 2657,
+                    "y1": 555
+                },
+                {
+                    "x0": 1922,
+                    "y0": 583,
+                    "x1": 2744,
+                    "y1": 3364
+                }
+            ],
+            "bbox": [
+                1922,
+                312,
+                2744,
+                3364
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                13,
+                6
+            ],
+            "headline": "ABSENT FATHERS\nARE COSTLY",
+            "article": "WASHINGTON About ESQ mil\nlion dollars year Of public as\nsistance money goes to support\n$50 thousand families whose faith\ners have deserted them.\n\n\nActing Director John Hurley\nof the Bureau of Family Services\ngave that figure Wednesday in\nmaking public a report of a\nnational meeting of law enforce\nment and public welfare officials.\n\n\n\"The ideal solution, of course,\nis to locate the DESERVING father,\nattempt to get him to join his\nfamily or. failing that, obtain his\ncontribution to the support his\nchildren\" Mr.. Hurley said.\n\n\nBut he said many deserving\nfathers slip through the net.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 154,
+                    "y0": 3508,
+                    "x1": 831,
+                    "y1": 3676
+                },
+                {
+                    "x0": 148,
+                    "y0": 3710,
+                    "x1": 970,
+                    "y1": 4850
+                }
+            ],
+            "bbox": [
+                148,
+                3508,
+                970,
+                4850
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "WOMAN WANTS\n\n\nTRANSMISSION RULING",
+            "article": "WASHINGTON = Mrs. Jessie\nJones, Is, a small Negro mother,\nis petitioning the Federal Court\nof Appeals to ouash the order\nof Judge j. Sicily Wright. which\ndirected hospital authorities to\ngive her a TRANSMISSION on Sept.\nII.\n\n\nMrs. Jones and her husband\nare Jehovah s Witnesses. When\nhe rushed her toGeorgetown Uni\nversity Hospital last September,\ndoctors said she would die from\na bleeding ulcer unless she re-\nceived blood.\n\n\nThey refused to authorize the\nTRANSMISSION and the hospital\nsought a court order. The first\nrequest was rejected, but Judge\nWright granted the request. Mrs.\nJones received the TRANSMISSION\nand recovered.\n\n\nNow she wants to make sure\nthat she will never be forced to\nhave a blood TRANSMISSION again.\nA devout woman, Mrs. Jones\nsaid, sit is better to keep God 8\nlaw than to compromise ones\nbeliefs\"\n\n\nShe and her husband say they\nare fighting for their religious\nrights.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1951,
+                    "y0": 3456,
+                    "x1": 2756,
+                    "y1": 3613
+                },
+                {
+                    "x0": 1934,
+                    "y0": 3629,
+                    "x1": 2756,
+                    "y1": 5526
+                }
+            ],
+            "bbox": [
+                1934,
+                3456,
+                2756,
+                5526
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "The largest prison is the Khar-\nkov Jail in the U.S.S.R., which\nonce housed 10000 prisoners.\nThe smallest is on the Isle of\nSark in the Channel Islands, which\nhas a capacity of two.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1945,
+                    "y0": 5652,
+                    "x1": 2756,
+                    "y1": 6006
+                }
+            ],
+            "bbox": [
+                1945,
+                5652,
+                2756,
+                6006
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Discovered South of the border This richly thick decously\nspicy brought back the border recipe\neveryone enjoy it. It's excellent\nwith whipped your favorite whipped topping\nvanilla ice\n\n\npie deectabe fairly hearty\nafter and salad meal different accompaniment\nof hot coffee exciting substitute for\nbirthday cake.\n\n\nSpicy Coconut Pie\n1-1/3 cups (about) faxed 1 teaspoon ground\n\n\ncinnamon\n1 unbaked 9-inch pie shell 1 teaspoon ground nutmeg\ntablespoons butter 1 teaspoon vanilla\ngranulated 1 extract\neggs, beaten Whipped cream, prepared\n1 cup dark corn syrup dessert topping,\n1/8 teaspoon salt vanilla ice cream .\n\n\nFlaked coconut (optional)\nSprinkle unbaked she'll Cream together\nbutter and Add remaining ngred\nWE'LL then pour coconut pie she'll Bake in\nminutes Serve with \"crescents of\nwhipped prinked with additional faxed coconu Makes\nto 8 servings.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2859,
+                    "y0": 4144,
+                    "x1": 4489,
+                    "y1": 5405
+                }
+            ],
+            "bbox": [
+                2859,
+                4144,
+                4489,
+                5405
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Baptist Church. 245 Chapman Rd the setting for\nwedding ceremony Carol Jackson and War\nrem Livingston.\n\n\nReid, pastor, ofcated the marriage\nwhich performed Sat-. Dec %.\n\n\nFrom left are Misses Gipson Dolores Gordon,\nbridesmaids Mrs Fay Pete honor Mrs Lv\nngston MIR. Livingston and Patricia Jackson Glen Jackson\nring bearer.\n\n\nThe bride is University\nis majoring in elementary education\n\n\nThe is graduate of the University of Arizona and is\n\n\nmember of the Dallas Cowboys professional ooball\nSecond hotor and Mrs Moody Jackson 2736 Roeser Rd\nparents of the bride, pose the reception.\n\n\nThe newlywed in front the cake, while the groom\nparents Mr. and Mrs L. B. Livingston Mesa watch from the\nright",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 142,
+                    "y0": 2294,
+                    "x1": 1837,
+                    "y1": 3387
+                }
+            ],
+            "bbox": [
+                142,
+                2294,
+                1837,
+                3387
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Chisom-Wise wedding party\nMisses Mary Charlene DARRELL Ethel Daniels\nnell Wise, apo and Mrs. Richard Gibson, Alex\nWISE Larry Hemphill and Dewayne Harrel.\n\n\nThe bride ASU majoring secondary\nHer parents Mr.. and Mrs. Ruben Wise, Mesa.\n\n\nThe is stationed Williams Air Force Base His\nare Mr.. and Mrs. Richard Gibson, Sr., of Manu. Fla.\n\n\nNEW SALEM CHURCH BEING BUILT\nNew Salem Baptist Church is pastor, wishes that\nunder 1850 services WILL be nelo as soon as\nE. Grant St. Rev. S. G. Marshall possible",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2830,
+                    "y0": 1496,
+                    "x1": 4524,
+                    "y1": 2359
+                }
+            ],
+            "bbox": [
+                2830,
+                1496,
+                4524,
+                2359
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        },
+        {
+            "object_ids": [
+                21,
+                23
+            ],
+            "headline": "NEW SALEM CHURCH BEING BUILT",
+            "article": "pastor. wishes to announce that\nservices will be held as soon as\npossible.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3067,
+                    "y0": 2040,
+                    "x1": 4333,
+                    "y1": 2122
+                },
+                {
+                    "x0": 3708,
+                    "y0": 2161,
+                    "x1": 4524,
+                    "y1": 2335
+                }
+            ],
+            "bbox": [
+                3067,
+                2040,
+                4524,
+                2335
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-01-03_p1_sn84021918_0041421695A_1964010301_0249.json"
+        }
+    ]
+}

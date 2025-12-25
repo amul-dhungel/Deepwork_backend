@@ -1,0 +1,613 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-25",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7465,
+        "width": 4909,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-25",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964122501/0680.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3078,
+                "y0": 2455,
+                "x1": 4764,
+                "y1": 4479
+            },
+            "class": "article",
+            "raw_text": "cluttered with unsolicited and nwaned mail Of\nthe Junk VARIETY your is probably\nmailing which sold rented commercial\nmailers.\n\n\nyou this flood of advertisements and solicitations\nabout 7 No is required accept such MALL\nback the posman mark refused and drop\nin any Office will then destroy return\ncharge him eight cents for its return the\nenvelope is marked Return requested!\n\n\nOf you sender name\nmailing but he buys the list from others\nthis Is probably useless.\n\n\nincludes postagepad envelope\ncard reply. reply card blank filled m that returned\nfor ordinary mail and eight cents for\nEnvelopes returned and ten cents respec\nlively househoders envelopes or blank\npunish the recipient by making him pay for useless\nreplies, but this doesn't get his off the mailing list\n\n\npeople very resen this unwanted flood OF\nmall CHASING of their personal privacy and as\nannoying telephone solicitor Thus there are increasing pro-\nthe practice Caught in the middle\nsuffering effects such increased postal rates. Is the\nwelcome third class mail such church and\nlodge bulletins newsleters.\n\n\nmail advertising mostly third class postage rates.\noaed IL billion pieces last year. nearly\n85% Advertising This almost and half times the volume\n0% which Is advertising No wonder\nyour mailbox is bursting at the seamsl\n\n\nThis legal public service under supervision\nof Arizona and is written to INFORM not to adse",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3078,
+                "y0": 2233,
+                "x1": 4100,
+                "y1": 2438
+            },
+            "class": "headline",
+            "raw_text": "DISCUSSING ARIZONA LAW\nRefusina MuiI",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2209,
+                "y0": 6047,
+                "x1": 3027,
+                "y1": 7151
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS = (ANPD In\nletter sent to, and made public by\nboth local daily newspaper (New\nOrleans States Item) and tele-\nvision station (MDSU-TV) a white\ncouple, DR.. and Mrs. M. Miller\nhave urged an end to the Louisi-\nana grants-in-aid program which\nis currently used to make itpos-\nsible for white children to attend\nsegregated schools. Declaring\nthat the grant-in-aid program has\nbeen subject to many complaints\nof misuse and abuse of funds, the\nletter asserted, Louisiana has a\nresponsibility to provide its\nchildren the best in public educa-\nton. Let's meet this RESPONSE\nbility.\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2197,
+                "y0": 5692,
+                "x1": 2852,
+                "y1": 6037
+            },
+            "class": "headline",
+            "raw_text": "COUPLE URGES\nENDING WHITE\nPUPIL AID",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3072,
+                "y0": 1073,
+                "x1": 4753,
+                "y1": 2205
+            },
+            "class": "article",
+            "raw_text": "Troubles in Southeast Asia continue plague the United States\nsupplies reaching\nstrategic points unable full strength because\nof advisory aides.\n\n\nunlikely forces fighting against the side\nassisting they little because\nof unlimited supply of men.\n\n\nBefore the year begins careful planning and\nthe United States is let of our\nsoldiers advisory would be off\nwithdraw all support.\n\n\nThe made much of impression\nforget that all lives precious even\ncalling action advisory\nmissions\n\n\nThere predicted Vetnam surround\ning of Red China be overlooked\nshould ounder policies the constant\nof turmoil in the southeastern part of the world",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3743,
+                "y0": 390,
+                "x1": 4613,
+                "y1": 834
+            },
+            "class": "headline",
+            "raw_text": "VIEWS, PREvIEWs\nAND REVIEWS\n\n\nEdward Bonks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3434,
+                "y0": 938,
+                "x1": 4315,
+                "y1": 1050
+            },
+            "class": "headline",
+            "raw_text": "Our Southeast Woes",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1317,
+                "y0": 6875,
+                "x1": 2134,
+                "y1": 7168
+            },
+            "class": "article",
+            "raw_text": "The four boys and a girl were\nborn to Mrs. Felisberto Mutan-\nqua, wife of an African farmer\nwho lives near the port of In\nhambane.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 424,
+                "y0": 6741,
+                "x1": 2111,
+                "y1": 6853
+            },
+            "class": "headline",
+            "raw_text": "AFRICAN CUNTS IMPROVING STEADILY",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2174,
+                "y0": 670,
+                "x1": 3015,
+                "y1": 5687
+            },
+            "class": "article",
+            "raw_text": "Twas TOUR Gays before LIZ ISL\nmas and all through the Bankses\nhouse was confusion. No, we we're\nnot in a state of utter confusion,\nnor was it bedlam. We we're pre-\npairing for our long awaited trip\nto Europe, while finishing the\nChristmas edition and making\nlast minute plans.\n\n\nFor the past three weeks, my\nspouse has been battling his bron-\nchial condition. When he i'm\nproved--it seems as though my\nwhite corpuscles decided to let\ndown their guard. Every mag\nUnable allergen present came\nnear and invaded my body.\n\n\nhad been inwardly pleased\nwith my excellent summer. l\nhad been bothered less with the\nallergies than in any time past.\nThis was partly due to the new\nyear round air conditioning which\nwe had installed.\n\n\nWithin the past two weeks while.\nrushing and making harried trips\nto shop, to the printer, to the\nbakery and to the cleaners, |\ndeveloped rash on my hands.\n\n\nQuickly soothed it with some\nointment prescribed by our ply\nstefan. This eaSed the condition\nand l was hopeful that my hands\nwould be clear before we de-\nparted.\n\n\nAlas, when JOY comes watch\nout for sorrow One night had\na terrific breathing episode and\nl managed to get immediate re-\nlief.\n\n\nThree days ago the allergy bug\nstruck again. This time the fumes\nfrom roofing job attacked my\nrespiratory organs and within\nthree hours | was almost speech\nless.\n\n\nFor two days I used sign Ian\nqua ge, wrote notes and whispered\nin a deep bass. My husband said\nhe liked the peace but he missed\nmy dulcet tones. After several\nbright yellow capsules and a nose\nspray, l resumed my good voice\nand now l am pushed trying to\nwind up another week paper with\nmy husband s help. We are doing\nthree things at once.\n\n\nWe have our bags open all over\nthe house, we put in various ar\nticles from time to time. We find\ncopy for the next editions, we\nmake notes for those kind souls\nwho will publish the paper while\nwe are away.\n\n\nSunday was a not so typical\nday. We arose early and the &C\ntivity started with the usual fruit\nJuice, cereal and tea. My hus-\nband was reading the mornings\npaper when he decided we should\nchoose and pack some items\nwe would want.\n\n\nBetween the telephone calls,\nvisits, radio programs, reading\npapers, tipping notes, addressing\ncards, emptying trash, making\nlunch, shining shoes and washing\nclothes - l barely managed to\ndrop into bed an hour after mid\nnight.\n\n\nWednesday, Dec. %, our date\nof departure seems close--how-\never, from the number Of things\nwe must do surely it's more\nthan two days away.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2192,
+                "y0": 332,
+                "x1": 2962,
+                "y1": 642
+            },
+            "class": "headline",
+            "raw_text": "Sights und Sounds\nEIoise Bunks\nMaking Haste",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 413,
+                "y0": 6881,
+                "x1": 1230,
+                "y1": 7180
+            },
+            "class": "article",
+            "raw_text": "LISBON, Portugal Africa's\nquintuplets, born prematurely in\nmozambique a ninth ago, left\n\n\ntheir incubators and their par\nents soon will take them home.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 401,
+                "y0": 5266,
+                "x1": 2123,
+                "y1": 6707
+            },
+            "class": "article",
+            "raw_text": "Though 1t is not an original HOught--He\npublishers and editors Of The Arizona Tribune\nextend best 1Oishes Of the season to all OF our\nreaders, advertisers and carriers. We hope\nthat this Yuletide 1Oill be the WeYY7eSt one\nYOU haze ever exbe Y1enced.\n\n\nThe sbi11t of Christmas Wiu echo through\nthe city, through the state and the ent1Te\nnation We should remember TO maze open\nhearts and open minds all during the year,\nnot only at this season.\n\n\nHelp make this Christmas more JOYFUL by\ngiving just a small gift. The most inexpensive\ngift Of all is saying \"MeT7y Christmas.\n\n\nAS ne celebrate our holiday in England, our\nthoughts 10il keep the seasons cheer IN Phoe-\nmix. too.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 751,
+                "y0": 5091,
+                "x1": 1726,
+                "y1": 5238
+            },
+            "class": "headline",
+            "raw_text": "GREETINGS TO ALL",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 366,
+                "y0": 2087,
+                "x1": 2111,
+                "y1": 5039
+            },
+            "class": "article",
+            "raw_text": "Announcement of a Sbe eta cuLaY southwest\ne1n COME renee on the problems of the poverty\nstricken was made and a cOnside ruble amount\nof money wiH be used to support 1T.\n\n\nHalf or more of several thousands Of dol\nlars Will be disbuYSed IN transportation and\nlodging expenses. There WiH be many persons\nattending the conference and many meetings\nwiH be held. Findings Of this gigantic con-\nference, hailed by its chairman, Robert\nChoate, wil be used to binbOint and discover\nareas where the antibOUe7ty program can be\nutilized.\n\n\nappears that many cities and states haze\nalready had endless surveys. Many c0mnatu-\nity agencies haze files and files Of infoY11d-\ntion. We haze more Information gathered by\nne lfaYe units of our municipal, state and fed\ne1ul organizations.\n\n\nIs there need to taste thousands Of dol\nlars on a regional COME renee Uhen the anti\npoverty programs must in the end be aug\nmented ON a state or city basis\n\n\nThe problems of ca oh area 1Oit]1in the\nsouthwest are too diverse and of such mag\nnitude that this conference Wiu probably\ndissOlUe as another glorious attempt TO Ie0d\nthe Negroes, the Indians and the MexiCan--\nAmer cans into more similar activities IN\nthe future.\n\n\nThose thousands of dollars which Wiu be\nspent at the conference could be more Uisely\nused to feed, clothe, shelter or educate some\nof those the conference uiH study and discuss.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 483,
+                "y0": 1650,
+                "x1": 1160,
+                "y1": 1803
+            },
+            "class": "author",
+            "raw_text": "~ h,s Rswspspss 10 ~s~er 81\nANz6NA NEWSPAPERS ASSOCIATION\n. Fss Greater PsbI'c $svVtes",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 780,
+                "y0": 1912,
+                "x1": 1767,
+                "y1": 2053
+            },
+            "class": "headline",
+            "raw_text": "WHY AND WHENCE",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 407,
+                "y0": 886,
+                "x1": 2053,
+                "y1": 1838
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, PUBL shER-Eo'ToR\nELOISE BANKS, ASSISTANT EDITOR\nJULY 10, 1888\nPUBLISHED THURSDAY\n\n\nPUBLISHING COMPANY INC\naI37 ROAD 27e-23oI So so TR\nNAIL ADDRESS p. BOX s2@o, PHOENIX, ARiz' s'oAo\nSECOND CLASS PHOENIX, ARIZONA\nFLAT NEEDED EVILS OF OUR\nTINES Is TO DO JUSTICE FREEDOM.\nREPRESENTATIVE\nn.\n\n\n\nN.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 407,
+                "y0": 355,
+                "x1": 2006,
+                "y1": 794
+            },
+            "class": "headline",
+            "raw_text": "Artzntm1a4l9rihu.t.e\n\n\nAY aAz = rs S1l;Szz llCZs1aE2 AA",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1019,
+                "y0": 816,
+                "x1": 1563,
+                "y1": 887
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. \"a",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964122501_0680",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "DISCUSSING ARIZONA LAW\nRefusina MuiI",
+            "article": "cluttered with unsolicited and nwaned mail Of\nthe Junk VARIETY your is probably\nmailing which sold rented commercial\nmailers.\n\n\nyou this flood of advertisements and solicitations\nabout 7 No is required accept such MALL\nback the posman mark refused and drop\nin any Office will then destroy return\ncharge him eight cents for its return the\nenvelope is marked Return requested!\n\n\nOf you sender name\nmailing but he buys the list from others\nthis Is probably useless.\n\n\nincludes postagepad envelope\ncard reply. reply card blank filled m that returned\nfor ordinary mail and eight cents for\nEnvelopes returned and ten cents respec\nlively househoders envelopes or blank\npunish the recipient by making him pay for useless\nreplies, but this doesn't get his off the mailing list\n\n\npeople very resen this unwanted flood OF\nmall CHASING of their personal privacy and as\nannoying telephone solicitor Thus there are increasing pro-\nthe practice Caught in the middle\nsuffering effects such increased postal rates. Is the\nwelcome third class mail such church and\nlodge bulletins newsleters.\n\n\nmail advertising mostly third class postage rates.\noaed IL billion pieces last year. nearly\n85% Advertising This almost and half times the volume\n0% which Is advertising No wonder\nyour mailbox is bursting at the seamsl\n\n\nThis legal public service under supervision\nof Arizona and is written to INFORM not to adse",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3078,
+                    "y0": 2233,
+                    "x1": 4100,
+                    "y1": 2438
+                },
+                {
+                    "x0": 3078,
+                    "y0": 2455,
+                    "x1": 4764,
+                    "y1": 4479
+                }
+            ],
+            "bbox": [
+                3078,
+                2233,
+                4764,
+                4479
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                4,
+                1
+            ],
+            "headline": "COUPLE URGES\nENDING WHITE\nPUPIL AID",
+            "article": "NEW ORLEANS = (ANPD In\nletter sent to, and made public by\nboth local daily newspaper (New\nOrleans States Item) and tele-\nvision station (MDSU-TV) a white\ncouple, DR.. and Mrs. M. Miller\nhave urged an end to the Louisi-\nana grants-in-aid program which\nis currently used to make itpos-\nsible for white children to attend\nsegregated schools. Declaring\nthat the grant-in-aid program has\nbeen subject to many complaints\nof misuse and abuse of funds, the\nletter asserted, Louisiana has a\nresponsibility to provide its\nchildren the best in public educa-\nton. Let's meet this RESPONSE\nbility.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2197,
+                    "y0": 5692,
+                    "x1": 2852,
+                    "y1": 6037
+                },
+                {
+                    "x0": 2209,
+                    "y0": 6047,
+                    "x1": 3027,
+                    "y1": 7151
+                }
+            ],
+            "bbox": [
+                2197,
+                5692,
+                3027,
+                7151
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                9,
+                18,
+                2
+            ],
+            "headline": "VIEWS, PREvIEWs\nAND REVIEWS\n\n\nEdward Bonks\n\nOur Southeast Woes",
+            "article": "Troubles in Southeast Asia continue plague the United States\nsupplies reaching\nstrategic points unable full strength because\nof advisory aides.\n\n\nunlikely forces fighting against the side\nassisting they little because\nof unlimited supply of men.\n\n\nBefore the year begins careful planning and\nthe United States is let of our\nsoldiers advisory would be off\nwithdraw all support.\n\n\nThe made much of impression\nforget that all lives precious even\ncalling action advisory\nmissions\n\n\nThere predicted Vetnam surround\ning of Red China be overlooked\nshould ounder policies the constant\nof turmoil in the southeastern part of the world",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3743,
+                    "y0": 390,
+                    "x1": 4613,
+                    "y1": 834
+                },
+                {
+                    "x0": 3434,
+                    "y0": 938,
+                    "x1": 4315,
+                    "y1": 1050
+                },
+                {
+                    "x0": 3072,
+                    "y0": 1073,
+                    "x1": 4753,
+                    "y1": 2205
+                }
+            ],
+            "bbox": [
+                3072,
+                390,
+                4753,
+                2205
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                15,
+                5
+            ],
+            "headline": "AFRICAN CUNTS IMPROVING STEADILY",
+            "article": "The four boys and a girl were\nborn to Mrs. Felisberto Mutan-\nqua, wife of an African farmer\nwho lives near the port of In\nhambane.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 424,
+                    "y0": 6741,
+                    "x1": 2111,
+                    "y1": 6853
+                },
+                {
+                    "x0": 1317,
+                    "y0": 6875,
+                    "x1": 2134,
+                    "y1": 7168
+                }
+            ],
+            "bbox": [
+                424,
+                6741,
+                2134,
+                7168
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                3,
+                7
+            ],
+            "headline": "Sights und Sounds\nEIoise Bunks\nMaking Haste",
+            "article": "Twas TOUR Gays before LIZ ISL\nmas and all through the Bankses\nhouse was confusion. No, we we're\nnot in a state of utter confusion,\nnor was it bedlam. We we're pre-\npairing for our long awaited trip\nto Europe, while finishing the\nChristmas edition and making\nlast minute plans.\n\n\nFor the past three weeks, my\nspouse has been battling his bron-\nchial condition. When he i'm\nproved--it seems as though my\nwhite corpuscles decided to let\ndown their guard. Every mag\nUnable allergen present came\nnear and invaded my body.\n\n\nhad been inwardly pleased\nwith my excellent summer. l\nhad been bothered less with the\nallergies than in any time past.\nThis was partly due to the new\nyear round air conditioning which\nwe had installed.\n\n\nWithin the past two weeks while.\nrushing and making harried trips\nto shop, to the printer, to the\nbakery and to the cleaners, |\ndeveloped rash on my hands.\n\n\nQuickly soothed it with some\nointment prescribed by our ply\nstefan. This eaSed the condition\nand l was hopeful that my hands\nwould be clear before we de-\nparted.\n\n\nAlas, when JOY comes watch\nout for sorrow One night had\na terrific breathing episode and\nl managed to get immediate re-\nlief.\n\n\nThree days ago the allergy bug\nstruck again. This time the fumes\nfrom roofing job attacked my\nrespiratory organs and within\nthree hours | was almost speech\nless.\n\n\nFor two days I used sign Ian\nqua ge, wrote notes and whispered\nin a deep bass. My husband said\nhe liked the peace but he missed\nmy dulcet tones. After several\nbright yellow capsules and a nose\nspray, l resumed my good voice\nand now l am pushed trying to\nwind up another week paper with\nmy husband s help. We are doing\nthree things at once.\n\n\nWe have our bags open all over\nthe house, we put in various ar\nticles from time to time. We find\ncopy for the next editions, we\nmake notes for those kind souls\nwho will publish the paper while\nwe are away.\n\n\nSunday was a not so typical\nday. We arose early and the &C\ntivity started with the usual fruit\nJuice, cereal and tea. My hus-\nband was reading the mornings\npaper when he decided we should\nchoose and pack some items\nwe would want.\n\n\nBetween the telephone calls,\nvisits, radio programs, reading\npapers, tipping notes, addressing\ncards, emptying trash, making\nlunch, shining shoes and washing\nclothes - l barely managed to\ndrop into bed an hour after mid\nnight.\n\n\nWednesday, Dec. %, our date\nof departure seems close--how-\never, from the number Of things\nwe must do surely it's more\nthan two days away.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2192,
+                    "y0": 332,
+                    "x1": 2962,
+                    "y1": 642
+                },
+                {
+                    "x0": 2174,
+                    "y0": 670,
+                    "x1": 3015,
+                    "y1": 5687
+                }
+            ],
+            "bbox": [
+                2174,
+                332,
+                3015,
+                5687
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "LISBON, Portugal Africa's\nquintuplets, born prematurely in\nmozambique a ninth ago, left\n\n\ntheir incubators and their par\nents soon will take them home.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 413,
+                    "y0": 6881,
+                    "x1": 1230,
+                    "y1": 7180
+                }
+            ],
+            "bbox": [
+                413,
+                6881,
+                1230,
+                7180
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                16,
+                12
+            ],
+            "headline": "GREETINGS TO ALL",
+            "article": "Though 1t is not an original HOught--He\npublishers and editors Of The Arizona Tribune\nextend best 1Oishes Of the season to all OF our\nreaders, advertisers and carriers. We hope\nthat this Yuletide 1Oill be the WeYY7eSt one\nYOU haze ever exbe Y1enced.\n\n\nThe sbi11t of Christmas Wiu echo through\nthe city, through the state and the ent1Te\nnation We should remember TO maze open\nhearts and open minds all during the year,\nnot only at this season.\n\n\nHelp make this Christmas more JOYFUL by\ngiving just a small gift. The most inexpensive\ngift Of all is saying \"MeT7y Christmas.\n\n\nAS ne celebrate our holiday in England, our\nthoughts 10il keep the seasons cheer IN Phoe-\nmix. too.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 751,
+                    "y0": 5091,
+                    "x1": 1726,
+                    "y1": 5238
+                },
+                {
+                    "x0": 401,
+                    "y0": 5266,
+                    "x1": 2123,
+                    "y1": 6707
+                }
+            ],
+            "bbox": [
+                401,
+                5091,
+                2123,
+                6707
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                27,
+                13,
+                14
+            ],
+            "headline": "WHY AND WHENCE",
+            "article": "Announcement of a Sbe eta cuLaY southwest\ne1n COME renee on the problems of the poverty\nstricken was made and a cOnside ruble amount\nof money wiH be used to support 1T.\n\n\nHalf or more of several thousands Of dol\nlars Will be disbuYSed IN transportation and\nlodging expenses. There WiH be many persons\nattending the conference and many meetings\nwiH be held. Findings Of this gigantic con-\nference, hailed by its chairman, Robert\nChoate, wil be used to binbOint and discover\nareas where the antibOUe7ty program can be\nutilized.\n\n\nappears that many cities and states haze\nalready had endless surveys. Many c0mnatu-\nity agencies haze files and files Of infoY11d-\ntion. We haze more Information gathered by\nne lfaYe units of our municipal, state and fed\ne1ul organizations.\n\n\nIs there need to taste thousands Of dol\nlars on a regional COME renee Uhen the anti\npoverty programs must in the end be aug\nmented ON a state or city basis\n\n\nThe problems of ca oh area 1Oit]1in the\nsouthwest are too diverse and of such mag\nnitude that this conference Wiu probably\ndissOlUe as another glorious attempt TO Ie0d\nthe Negroes, the Indians and the MexiCan--\nAmer cans into more similar activities IN\nthe future.\n\n\nThose thousands of dollars which Wiu be\nspent at the conference could be more Uisely\nused to feed, clothe, shelter or educate some\nof those the conference uiH study and discuss.",
+            "byline": "~ h,s Rswspspss 10 ~s~er 81\nANz6NA NEWSPAPERS ASSOCIATION\n. Fss Greater PsbI'c $svVtes",
+            "bbox_list": [
+                {
+                    "x0": 483,
+                    "y0": 1650,
+                    "x1": 1160,
+                    "y1": 1803
+                },
+                {
+                    "x0": 780,
+                    "y0": 1912,
+                    "x1": 1767,
+                    "y1": 2053
+                },
+                {
+                    "x0": 366,
+                    "y0": 2087,
+                    "x1": 2111,
+                    "y1": 5039
+                }
+            ],
+            "bbox": [
+                366,
+                1650,
+                2111,
+                5039
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        },
+        {
+            "object_ids": [
+                19,
+                23,
+                20
+            ],
+            "headline": "Artzntm1a4l9rihu.t.e\n\n\nAY aAz = rs S1l;Szz llCZs1aE2 AA",
+            "article": "EDWARD BANKS, PUBL shER-Eo'ToR\nELOISE BANKS, ASSISTANT EDITOR\nJULY 10, 1888\nPUBLISHED THURSDAY\n\n\nPUBLISHING COMPANY INC\naI37 ROAD 27e-23oI So so TR\nNAIL ADDRESS p. BOX s2@o, PHOENIX, ARiz' s'oAo\nSECOND CLASS PHOENIX, ARIZONA\nFLAT NEEDED EVILS OF OUR\nTINES Is TO DO JUSTICE FREEDOM.\nREPRESENTATIVE\nn.\n\n\n\nN.",
+            "byline": "VOL. 7, NO. \"a",
+            "bbox_list": [
+                {
+                    "x0": 407,
+                    "y0": 355,
+                    "x1": 2006,
+                    "y1": 794
+                },
+                {
+                    "x0": 1019,
+                    "y0": 816,
+                    "x1": 1563,
+                    "y1": 887
+                },
+                {
+                    "x0": 407,
+                    "y0": 886,
+                    "x1": 2053,
+                    "y1": 1838
+                }
+            ],
+            "bbox": [
+                407,
+                355,
+                2053,
+                1838
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-12-25_pna_sn84021918_0041421695A_1964122501_0680.json"
+        }
+    ]
+}

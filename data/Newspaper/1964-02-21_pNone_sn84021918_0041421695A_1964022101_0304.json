@@ -1,0 +1,310 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-21",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7408,
+        "width": 4798,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-21",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022101/0304.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1160,
+                "y0": 3223,
+                "x1": 1983,
+                "y1": 3757
+            },
+            "class": "article",
+            "raw_text": "Fellowship Musical. Sat-, Feb.\n%, I45 pm.\n\n\nMusic Clinic, Fri, Feb. y,\n$50 PM; Choir clinic-Feb. %,\n2 PM: Mrs. Ruby Stuart is\nchurch director of music.\n\n\nCourtesy cars can be ordered\nby calling AL 8-O365, AL 1924\nor AL 2-44oO.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 269,
+                "y0": 2315,
+                "x1": 1971,
+                "y1": 3155
+            },
+            "class": "article",
+            "raw_text": "Members of the Delta Sigma Theta Sorority enjoyed Valentine\nparty, Friday of MIR. and Mrs. William Var\n526 S. 20 Place.\n\n\nSoors for Tribune from left front\nGrevenberg Cleo Mooehead Mamie Island Gus\nMavis Edwards Bertha Solomon and Mary Greenfield\nSecond rows Arlena Senenca Mesdames 1nez Rosser Maui\nParker Mabel Nrre Gladys Roberts Odessa Reed Eleanor\nRagsdale Irene King and Miss Gertrude Murrell.\n\n\nDelta shown in the bottom photographs E. Roberts,\nLevoyd Moorehead William Warren. Joseph Island Dr.. c. o.\nGreenfield, and ]. F. Edwards\n\n\nAlso pictured H. RUSSELL NJ E. King James Reed, JL\nJoe Parker Sam Solomon and Hadey Murrell.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2057,
+                "y0": 2575,
+                "x1": 2880,
+                "y1": 3658
+            },
+            "class": "article",
+            "raw_text": "Church of the Living God,\nCWFF, 3l37 E. Broadway, Rev.\nPercy Moore, pastor.\n\n\nMissionary sisters honored\nRev. and Mrs. Elmo Wooten,\n1910 W. Pima, with a surprise\nparty. Mrs. Alma Barnett at\ntended.\n\n\nMrs. Sizz Ann Cook, Rev. Woo\ntens niece, from Los Angeles,\nis visiting the city.\n\n\nRev. Joe McCory of San Fran\ncisco, is visiting, also.\n\n\nA Youth Sunday will be held,\nSUM-, Feb. %, 8 pm. Sponsors\nare Jeanette Howard, Gloria\nBruce and Cora Washington.\n\n\nRev. Queen is church pianist.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2109,
+                "y0": 2349,
+                "x1": 2816,
+                "y1": 2553
+            },
+            "class": "headline",
+            "raw_text": "CHURCH CHRONICLE\n\n\nNARY HALL",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2948,
+                "y0": 2384,
+                "x1": 3765,
+                "y1": 3213
+            },
+            "class": "article",
+            "raw_text": "Carl Kent has been named state\nchairman for the 1854 Easter\nSeal campaign, announced Mrs.\nR. C. OHara, board president\nof Arizona Society for Crippled\nChildren and Adults, Inc.\n\n\nKent Is co-woner of Kent and\nHollaender Advertising, Inc. He\nserved as fund campaign leader\nfor the society last year.\n\n\n\"This organization\" he said,\n\"is the Oldest in the state dedi-\nGated to aiding crippled persons\nand those who are temporarily",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 251,
+                "y0": 3298,
+                "x1": 1074,
+                "y1": 3774
+            },
+            "class": "article",
+            "raw_text": "House of Prayer of All Ma\nlions, Church of God in Christ.\nl402 S. IL Ave., Elder George\nJohns on, pastor.\n\n\nRevival week will be held Feb.\n1920 under the direction of Nine.\nAnna Broy Corckett Ford. of\nChicago. Some events planned are",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 257,
+                "y0": 3188,
+                "x1": 721,
+                "y1": 3282
+            },
+            "class": "headline",
+            "raw_text": "REVIVAL SET",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3834,
+                "y0": 2390,
+                "x1": 4657,
+                "y1": 3172
+            },
+            "class": "article",
+            "raw_text": "disabled through accident, stroke\nor illness.\n\n\n\"Nearly 10000 Arizonans\nwe're aided by Easter Seal funds\nduring 1868 - aid that ranged\nfrom speech and hearing clinics\nfor deaf children to orthopedic\nbraces and homebound therapy\nfor adult accident victims\"\n\n\nThe Easter Seal Parade, the\ndoor-to-door campaign conduct\ned by 1000 volunteers. will be\nSunday, March Is.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964022101_0304",
+    "full articles": [
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Fellowship Musical. Sat-, Feb.\n%, I45 pm.\n\n\nMusic Clinic, Fri, Feb. y,\n$50 PM; Choir clinic-Feb. %,\n2 PM: Mrs. Ruby Stuart is\nchurch director of music.\n\n\nCourtesy cars can be ordered\nby calling AL 8-O365, AL 1924\nor AL 2-44oO.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1160,
+                    "y0": 3223,
+                    "x1": 1983,
+                    "y1": 3757
+                }
+            ],
+            "bbox": [
+                1160,
+                3223,
+                1983,
+                3757
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-21_pna_sn84021918_0041421695A_1964022101_0304.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Members of the Delta Sigma Theta Sorority enjoyed Valentine\nparty, Friday of MIR. and Mrs. William Var\n526 S. 20 Place.\n\n\nSoors for Tribune from left front\nGrevenberg Cleo Mooehead Mamie Island Gus\nMavis Edwards Bertha Solomon and Mary Greenfield\nSecond rows Arlena Senenca Mesdames 1nez Rosser Maui\nParker Mabel Nrre Gladys Roberts Odessa Reed Eleanor\nRagsdale Irene King and Miss Gertrude Murrell.\n\n\nDelta shown in the bottom photographs E. Roberts,\nLevoyd Moorehead William Warren. Joseph Island Dr.. c. o.\nGreenfield, and ]. F. Edwards\n\n\nAlso pictured H. RUSSELL NJ E. King James Reed, JL\nJoe Parker Sam Solomon and Hadey Murrell.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 269,
+                    "y0": 2315,
+                    "x1": 1971,
+                    "y1": 3155
+                }
+            ],
+            "bbox": [
+                269,
+                2315,
+                1971,
+                3155
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-21_pna_sn84021918_0041421695A_1964022101_0304.json"
+        },
+        {
+            "object_ids": [
+                14,
+                4
+            ],
+            "headline": "CHURCH CHRONICLE\n\n\nNARY HALL",
+            "article": "Church of the Living God,\nCWFF, 3l37 E. Broadway, Rev.\nPercy Moore, pastor.\n\n\nMissionary sisters honored\nRev. and Mrs. Elmo Wooten,\n1910 W. Pima, with a surprise\nparty. Mrs. Alma Barnett at\ntended.\n\n\nMrs. Sizz Ann Cook, Rev. Woo\ntens niece, from Los Angeles,\nis visiting the city.\n\n\nRev. Joe McCory of San Fran\ncisco, is visiting, also.\n\n\nA Youth Sunday will be held,\nSUM-, Feb. %, 8 pm. Sponsors\nare Jeanette Howard, Gloria\nBruce and Cora Washington.\n\n\nRev. Queen is church pianist.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2109,
+                    "y0": 2349,
+                    "x1": 2816,
+                    "y1": 2553
+                },
+                {
+                    "x0": 2057,
+                    "y0": 2575,
+                    "x1": 2880,
+                    "y1": 3658
+                }
+            ],
+            "bbox": [
+                2057,
+                2349,
+                2880,
+                3658
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-21_pna_sn84021918_0041421695A_1964022101_0304.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Carl Kent has been named state\nchairman for the 1854 Easter\nSeal campaign, announced Mrs.\nR. C. OHara, board president\nof Arizona Society for Crippled\nChildren and Adults, Inc.\n\n\nKent Is co-woner of Kent and\nHollaender Advertising, Inc. He\nserved as fund campaign leader\nfor the society last year.\n\n\n\"This organization\" he said,\n\"is the Oldest in the state dedi-\nGated to aiding crippled persons\nand those who are temporarily",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2948,
+                    "y0": 2384,
+                    "x1": 3765,
+                    "y1": 3213
+                }
+            ],
+            "bbox": [
+                2948,
+                2384,
+                3765,
+                3213
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-02-21_pna_sn84021918_0041421695A_1964022101_0304.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "REVIVAL SET",
+            "article": "House of Prayer of All Ma\nlions, Church of God in Christ.\nl402 S. IL Ave., Elder George\nJohns on, pastor.\n\n\nRevival week will be held Feb.\n1920 under the direction of Nine.\nAnna Broy Corckett Ford. of\nChicago. Some events planned are",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 257,
+                    "y0": 3188,
+                    "x1": 721,
+                    "y1": 3282
+                },
+                {
+                    "x0": 251,
+                    "y0": 3298,
+                    "x1": 1074,
+                    "y1": 3774
+                }
+            ],
+            "bbox": [
+                251,
+                3188,
+                1074,
+                3774
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-21_pna_sn84021918_0041421695A_1964022101_0304.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "disabled through accident, stroke\nor illness.\n\n\n\"Nearly 10000 Arizonans\nwe're aided by Easter Seal funds\nduring 1868 - aid that ranged\nfrom speech and hearing clinics\nfor deaf children to orthopedic\nbraces and homebound therapy\nfor adult accident victims\"\n\n\nThe Easter Seal Parade, the\ndoor-to-door campaign conduct\ned by 1000 volunteers. will be\nSunday, March Is.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3834,
+                    "y0": 2390,
+                    "x1": 4657,
+                    "y1": 3172
+                }
+            ],
+            "bbox": [
+                3834,
+                2390,
+                4657,
+                3172
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-02-21_pna_sn84021918_0041421695A_1964022101_0304.json"
+        }
+    ]
+}

@@ -1,0 +1,762 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964081401/0514.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7392,
+        "width": 4854
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3853,
+                "y0": 525,
+                "x1": 4657,
+                "y1": 1069
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS = The presi-\ndent of the Louisiana Undertaking\nCo., Rivers Fredericks III, \"a,\nreported to police he was shot\ntwice in the neck by a white\n\n\nman who objected to him being\nin sandwich shop. Police are\nsearching for the man. The\nvictim was not injured seriously.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3876,
+                "y0": 340,
+                "x1": 4426,
+                "y1": 509
+            },
+            "class": "headline",
+            "raw_text": "Man Shot For\n\n\nEating Sand witch",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2092,
+                "y0": 2875,
+                "x1": 2907,
+                "y1": 3650
+            },
+            "class": "article",
+            "raw_text": "TALLAHASSEE, Fla. Six\nwhite and three Negro clergymen\nJailed since Aug. 3 on three\nvear-old \"Freedom Rider\" con-\nvictions, were released Thurs\nday night.\n\n\nMunicipal Judge John Rudd.\nwho convicted the men of unlaw-\nfull assembly in 1861, committed\nthe 6O-day sentences to time\nserved.\n\n\nHe urged them to GO back\nnorth where they have riots\"",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2092,
+                "y0": 2656,
+                "x1": 2635,
+                "y1": 2848
+            },
+            "class": "headline",
+            "raw_text": "2 Clergymen\n\n\nFreed In Florida",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2964,
+                "y0": 589,
+                "x1": 3785,
+                "y1": 1069
+            },
+            "class": "article",
+            "raw_text": "TUSKBCEE, Ala. The Macon\nCounty school board here will\nopen Tuskegee High School next\nmonth under an increased In\ntegration plan.\n\n\nThe school was closed early\nthis year when federal court\nordered 1t desegregated.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2975,
+                "y0": 369,
+                "x1": 3513,
+                "y1": 561
+            },
+            "class": "headline",
+            "raw_text": "Tuskegee High\n\n\nSchool To Open",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 4142,
+                "y0": 1114,
+                "x1": 4691,
+                "y1": 1346
+            },
+            "class": "article",
+            "raw_text": "expulsion. and their rights,\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2068,
+                "y0": 2061,
+                "x1": 2889,
+                "y1": 2605
+            },
+            "class": "article",
+            "raw_text": "NC. Stewart, SO, of lll8\nE. jefferson, invited friend in\nto watch a baseball game on tele-\nvision last week.\n\n\nStewart slept briefly during the\ngame. When he awoke, his friend\nand his television set we're gone.\n\n\nPolice are seeking Stewards\nfriend.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2109,
+                "y0": 1917,
+                "x1": 2872,
+                "y1": 2033
+            },
+            "class": "headline",
+            "raw_text": "FRIEND TAKES 1V SET",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 4142,
+                "y0": 1461,
+                "x1": 4686,
+                "y1": 2172
+            },
+            "class": "article",
+            "raw_text": "All Of the following named\npersons. acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected as\nAdvisory Members Of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\n\n\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\n\n\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\n\n\nMr.. Ted Gianas",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 4153,
+                "y0": 1374,
+                "x1": 4391,
+                "y1": 1433
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE VII",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 4171,
+                "y0": 2269,
+                "x1": 4697,
+                "y1": 2478
+            },
+            "class": "article",
+            "raw_text": "Mr.. ]. D. Holmes, l4S9 East\n\n\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nIs appointed Statutory Agent.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 4176,
+                "y0": 2200,
+                "x1": 4455,
+                "y1": 2247
+            },
+            "class": "headline",
+            "raw_text": "Statutory Agent:",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 948,
+                "y0": 6208,
+                "x1": 2012,
+                "y1": 7046
+            },
+            "class": "article",
+            "raw_text": "At play and at work, in The home and\nil the garden, The average Arizona\nfamily uses 500 gallons Of water every\nday. Vast amounts are also required\nby agriculture and industry. Because\nrain and surface waters caiinot meet\nAll the growing demands under.\nground reserves are being heavily\ncalled upon q supplement surface\nwater supplies",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3558,
+                "y0": 3366,
+                "x1": 4102,
+                "y1": 3581
+            },
+            "class": "article",
+            "raw_text": "The Debonairs may organize\nas provided by laws. The\nqualifications Of members and\nofficers and the conditions Of\ntheir election, suspension and",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3564,
+                "y0": 3291,
+                "x1": 3785,
+                "y1": 3344
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE vi",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2958,
+                "y0": 1108,
+                "x1": 3519,
+                "y1": 3593
+            },
+            "class": "article",
+            "raw_text": "ARTICLE OF INCORPORATION\n\n\nOF\n\n\nDEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\n\n\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors Of the\nDebonairs Social and Art Club,\ndo hereby ass ociate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:\n\n\nARTCLEI\n\n\nThe name of the Corporation\nwill be Debonairs Social and\nArt Club, and the principal place\nOf business will be In Phoenix,\nArizona.\n\n\nARTICLE II\n\n\nThe purpose of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nto solicit funds and enter toCon-\ntracts for the solicitation of funds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose Of the Corpora\nton and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient.\nincidental or advisable In con-\nnection herewith.\n\n\nARTICLE III\n\n\nAll of the following named per-\nsons, acting as incorporators\nherein, we're duly elected Direc-\ntors of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit. on June\n\"a. 1864, at Masonic Temple.\nFourth Street and Jefferson,\nPhoenix. Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 2958,
+                "y0": 1131,
+                "x1": 3496,
+                "y1": 1184
+            },
+            "class": "author",
+            "raw_text": "ARTICLE OF INCORPORATION",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 4142,
+                "y0": 2575,
+                "x1": 4703,
+                "y1": 3581
+            },
+            "class": "article",
+            "raw_text": "The private and individual pro-\nperty Of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora l.. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson. a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\n10. 1865.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 4159,
+                "y0": 2506,
+                "x1": 4426,
+                "y1": 2559
+            },
+            "class": "headline",
+            "raw_text": "ARTICLES VIII",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3553,
+                "y0": 1126,
+                "x1": 4102,
+                "y1": 2120
+            },
+            "class": "article",
+            "raw_text": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix. Arizona\n\n\nMrs. Ardella Calbreath = 1926\nE. Adams Phoenix, Arizona\n\n\nMrs. Alvin Vera Richie : 1889\nw. Monroe Phoenix, Arizona\n\n\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. Phoenix, Arizona\n\n\nMrs. Flora Ruffin 1919 E.\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher 1888 E.\nMadison Phoenix, Arizona\nARTICLE w\n\n\nThat the time Of the Com\nmencement Of this Corporation\nshall be the date these Articles\nare filed In the office Of the Ari-\nIONA Corporation Commission Of\nthe State of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter, with\nthe privilege Of renewal, as\nprovided by law.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3558,
+                "y0": 2234,
+                "x1": 4108,
+                "y1": 3263
+            },
+            "class": "article",
+            "raw_text": "The affairs of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist of less than five (5) or more\nthan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday In January Of each year.\nThe members Of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore.\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board Of Dr.\nrectors and Advisory Board oc-\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nto serve until the next annual\nmeeting of the Debonairs Social\nand Art Club.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3564,
+                "y0": 1634,
+                "x1": 3785,
+                "y1": 1681
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE w",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3564,
+                "y0": 2159,
+                "x1": 3773,
+                "y1": 2212
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE v",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-08-14"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "Man Shot For\n\n\nEating Sand witch",
+            "article": "NEW ORLEANS = The presi-\ndent of the Louisiana Undertaking\nCo., Rivers Fredericks III, \"a,\nreported to police he was shot\ntwice in the neck by a white\n\n\nman who objected to him being\nin sandwich shop. Police are\nsearching for the man. The\nvictim was not injured seriously.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3876,
+                    "y0": 340,
+                    "x1": 4426,
+                    "y1": 509
+                },
+                {
+                    "x0": 3853,
+                    "y0": 525,
+                    "x1": 4657,
+                    "y1": 1069
+                }
+            ],
+            "bbox": [
+                3853,
+                340,
+                4657,
+                1069
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                6,
+                2
+            ],
+            "headline": "2 Clergymen\n\n\nFreed In Florida",
+            "article": "TALLAHASSEE, Fla. Six\nwhite and three Negro clergymen\nJailed since Aug. 3 on three\nvear-old \"Freedom Rider\" con-\nvictions, were released Thurs\nday night.\n\n\nMunicipal Judge John Rudd.\nwho convicted the men of unlaw-\nfull assembly in 1861, committed\nthe 6O-day sentences to time\nserved.\n\n\nHe urged them to GO back\nnorth where they have riots\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2092,
+                    "y0": 2656,
+                    "x1": 2635,
+                    "y1": 2848
+                },
+                {
+                    "x0": 2092,
+                    "y0": 2875,
+                    "x1": 2907,
+                    "y1": 3650
+                }
+            ],
+            "bbox": [
+                2092,
+                2656,
+                2907,
+                3650
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                4,
+                3
+            ],
+            "headline": "Tuskegee High\n\n\nSchool To Open",
+            "article": "TUSKBCEE, Ala. The Macon\nCounty school board here will\nopen Tuskegee High School next\nmonth under an increased In\ntegration plan.\n\n\nThe school was closed early\nthis year when federal court\nordered 1t desegregated.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2975,
+                    "y0": 369,
+                    "x1": 3513,
+                    "y1": 561
+                },
+                {
+                    "x0": 2964,
+                    "y0": 589,
+                    "x1": 3785,
+                    "y1": 1069
+                }
+            ],
+            "bbox": [
+                2964,
+                369,
+                3785,
+                1069
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "expulsion. and their rights,\npowers and authority shall be\nset out in the Bylaws Of the\nCorporation, and only the\namended or changed as therein\nprovided,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4142,
+                    "y0": 1114,
+                    "x1": 4691,
+                    "y1": 1346
+                }
+            ],
+            "bbox": [
+                4142,
+                1114,
+                4691,
+                1346
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                16,
+                9
+            ],
+            "headline": "FRIEND TAKES 1V SET",
+            "article": "NC. Stewart, SO, of lll8\nE. jefferson, invited friend in\nto watch a baseball game on tele-\nvision last week.\n\n\nStewart slept briefly during the\ngame. When he awoke, his friend\nand his television set we're gone.\n\n\nPolice are seeking Stewards\nfriend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2109,
+                    "y0": 1917,
+                    "x1": 2872,
+                    "y1": 2033
+                },
+                {
+                    "x0": 2068,
+                    "y0": 2061,
+                    "x1": 2889,
+                    "y1": 2605
+                }
+            ],
+            "bbox": [
+                2068,
+                1917,
+                2889,
+                2605
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                18,
+                11
+            ],
+            "headline": "ARTICLE VII",
+            "article": "All Of the following named\npersons. acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected as\nAdvisory Members Of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\n\n\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\n\n\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\n\n\nMr.. Ted Gianas",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4153,
+                    "y0": 1374,
+                    "x1": 4391,
+                    "y1": 1433
+                },
+                {
+                    "x0": 4142,
+                    "y0": 1461,
+                    "x1": 4686,
+                    "y1": 2172
+                }
+            ],
+            "bbox": [
+                4142,
+                1374,
+                4686,
+                2172
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                20,
+                14
+            ],
+            "headline": "Statutory Agent:",
+            "article": "Mr.. ]. D. Holmes, l4S9 East\n\n\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\nIs appointed Statutory Agent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4176,
+                    "y0": 2200,
+                    "x1": 4455,
+                    "y1": 2247
+                },
+                {
+                    "x0": 4171,
+                    "y0": 2269,
+                    "x1": 4697,
+                    "y1": 2478
+                }
+            ],
+            "bbox": [
+                4171,
+                2200,
+                4697,
+                2478
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "At play and at work, in The home and\nil the garden, The average Arizona\nfamily uses 500 gallons Of water every\nday. Vast amounts are also required\nby agriculture and industry. Because\nrain and surface waters caiinot meet\nAll the growing demands under.\nground reserves are being heavily\ncalled upon q supplement surface\nwater supplies",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 948,
+                    "y0": 6208,
+                    "x1": 2012,
+                    "y1": 7046
+                }
+            ],
+            "bbox": [
+                948,
+                6208,
+                2012,
+                7046
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                27,
+                19
+            ],
+            "headline": "ARTICLE vi",
+            "article": "The Debonairs may organize\nas provided by laws. The\nqualifications Of members and\nofficers and the conditions Of\ntheir election, suspension and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3564,
+                    "y0": 3291,
+                    "x1": 3785,
+                    "y1": 3344
+                },
+                {
+                    "x0": 3558,
+                    "y0": 3366,
+                    "x1": 4102,
+                    "y1": 3581
+                }
+            ],
+            "bbox": [
+                3558,
+                3291,
+                4102,
+                3581
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                32,
+                21
+            ],
+            "headline": "",
+            "article": "ARTICLE OF INCORPORATION\n\n\nOF\n\n\nDEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\n\n\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors Of the\nDebonairs Social and Art Club,\ndo hereby ass ociate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:\n\n\nARTCLEI\n\n\nThe name of the Corporation\nwill be Debonairs Social and\nArt Club, and the principal place\nOf business will be In Phoenix,\nArizona.\n\n\nARTICLE II\n\n\nThe purpose of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nto solicit funds and enter toCon-\ntracts for the solicitation of funds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose Of the Corpora\nton and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient.\nincidental or advisable In con-\nnection herewith.\n\n\nARTICLE III\n\n\nAll of the following named per-\nsons, acting as incorporators\nherein, we're duly elected Direc-\ntors of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit. on June\n\"a. 1864, at Masonic Temple.\nFourth Street and Jefferson,\nPhoenix. Arizona.",
+            "byline": "ARTICLE OF INCORPORATION",
+            "bbox_list": [
+                {
+                    "x0": 2958,
+                    "y0": 1131,
+                    "x1": 3496,
+                    "y1": 1184
+                },
+                {
+                    "x0": 2958,
+                    "y0": 1108,
+                    "x1": 3519,
+                    "y1": 3593
+                }
+            ],
+            "bbox": [
+                2958,
+                1108,
+                3519,
+                3593
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                30,
+                23
+            ],
+            "headline": "ARTICLES VIII",
+            "article": "The private and individual pro-\nperty Of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties Of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora l.. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson. a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\n10. 1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4159,
+                    "y0": 2506,
+                    "x1": 4426,
+                    "y1": 2559
+                },
+                {
+                    "x0": 4142,
+                    "y0": 2575,
+                    "x1": 4703,
+                    "y1": 3581
+                }
+            ],
+            "bbox": [
+                4142,
+                2506,
+                4703,
+                3581
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix. Arizona\n\n\nMrs. Ardella Calbreath = 1926\nE. Adams Phoenix, Arizona\n\n\nMrs. Alvin Vera Richie : 1889\nw. Monroe Phoenix, Arizona\n\n\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. Phoenix, Arizona\n\n\nMrs. Flora Ruffin 1919 E.\nAdams Phoenix, Arizona\n\n\nMrs. Lille Belcher 1888 E.\nMadison Phoenix, Arizona\nARTICLE w\n\n\nThat the time Of the Com\nmencement Of this Corporation\nshall be the date these Articles\nare filed In the office Of the Ari-\nIONA Corporation Commission Of\nthe State of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter, with\nthe privilege Of renewal, as\nprovided by law.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3553,
+                    "y0": 1126,
+                    "x1": 4102,
+                    "y1": 2120
+                }
+            ],
+            "bbox": [
+                3553,
+                1126,
+                4102,
+                2120
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        },
+        {
+            "object_ids": [
+                31,
+                22,
+                26
+            ],
+            "headline": "ARTICLE w\n\nARTICLE v",
+            "article": "The affairs of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist of less than five (5) or more\nthan seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday In January Of each year.\nThe members Of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore.\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board Of Dr.\nrectors and Advisory Board oc-\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nto serve until the next annual\nmeeting of the Debonairs Social\nand Art Club.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3564,
+                    "y0": 1634,
+                    "x1": 3785,
+                    "y1": 1681
+                },
+                {
+                    "x0": 3564,
+                    "y0": 2159,
+                    "x1": 3773,
+                    "y1": 2212
+                },
+                {
+                    "x0": 3558,
+                    "y0": 2234,
+                    "x1": 4108,
+                    "y1": 3263
+                }
+            ],
+            "bbox": [
+                3558,
+                1634,
+                4108,
+                3263
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-08-14_p1_sn84021918_0041421695A_1964081401_0514.json"
+        }
+    ]
+}

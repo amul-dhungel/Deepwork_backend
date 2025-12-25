@@ -1,0 +1,238 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964111301/0631.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7452,
+        "width": 4904
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1992,
+                "y0": 704,
+                "x1": 2819,
+                "y1": 2818
+            },
+            "class": "article",
+            "raw_text": "Carl T. Rowan, Director of the\nUS. Information Agency, an\nnounced today that two USlA\nmotion pictures won top awards\nin international film festivals\nin October.\n\n\n''Nine from Little Rock\" di-\nrected by Charles Cuggenheim,\nreceived the Golden Gate Award,\nfirst prize in its class, at the San\nFrancisco International Film\nFestival October l4-27. The\nfilm portrays the useful and re-\nsponsible roles in American life\nassumed by the nine Negro STU\ndents originally integrated into\nCentral High School, Little Rock,\nArkansas, in 1857.\n\n\n''The March\" won the Miqueldo\nde Orc, first prize at the In\nternational Film Festival at Bill\nbao, Spain, October 2 7, as\nwe'll special citation from the\nInternational Committee of Films\nEducation and Culture. The docu-\nmentary participation of whites\nin the march on Wa shington on\nAugust %, 1868.\n\n\n\"The March was directed for\nthe US. Information Agency by\nJames Blue, whose earlier USlA\nFilms on the Alliance for Prog\nress, Letter from Colombia\"\nand \"The School at Rincon\nSanto,\" received top honors at\nthe Venice Film Festival.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2067,
+                "y0": 419,
+                "x1": 2639,
+                "y1": 682
+            },
+            "class": "headline",
+            "raw_text": "2 USIA\nFilms Cited",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 216,
+                "y0": 2491,
+                "x1": 1055,
+                "y1": 3092
+            },
+            "class": "article",
+            "raw_text": "When making your own draper\nles, be sure to choose findings\"\nas safely washable as the fabric\nitself. One such is a non-woven\ndrapery header material, strong\nand stiff enough to add support\nto even heavy drapery tops. This\nis said to be easy to handle, form,\nand sew and will retain it's\nstiffness through repeated\nlaunderings.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2906,
+                "y0": 2014,
+                "x1": 4589,
+                "y1": 2679
+            },
+            "class": "article",
+            "raw_text": "Phillips CINE Church. 1401 E. Adams St. will sponsor\nits sixth annual and banquet, Dec. IL and 10.\nbanquet will Knda Hail. Central Methodist Church.\nCentral 1870 and the Coronation Tea will be\nheld Sum-, Dec. l3 at Phillips CINE Church.\nseated Mrs. Ihema\nManns chairman Josephine Bruce banquet chairman Seth\nStein chairman Mrs. Blanche Christopher general\nchairman\n\n\nRev. Melvin Harrison, pa stor, is standing.\n\n\nFred Banks",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 204,
+                "y0": 2026,
+                "x1": 1026,
+                "y1": 2341
+            },
+            "class": "article",
+            "raw_text": "Mrs. Eloise McCreary wa s\nhonored on her birthday by mem\nbers of the Medallions Club re-\nGently. Each month lucky lady\nreceives gifts. Photo Lab",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3901,
+                "y0": 3137,
+                "x1": 4554,
+                "y1": 4664
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3138,
+                "y0": 2689,
+                "x1": 4205,
+                "y1": 2807
+            },
+            "class": "headline",
+            "raw_text": "Putronize Our Advertisers",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-11-13"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "2 USIA\nFilms Cited",
+            "article": "Carl T. Rowan, Director of the\nUS. Information Agency, an\nnounced today that two USlA\nmotion pictures won top awards\nin international film festivals\nin October.\n\n\n''Nine from Little Rock\" di-\nrected by Charles Cuggenheim,\nreceived the Golden Gate Award,\nfirst prize in its class, at the San\nFrancisco International Film\nFestival October l4-27. The\nfilm portrays the useful and re-\nsponsible roles in American life\nassumed by the nine Negro STU\ndents originally integrated into\nCentral High School, Little Rock,\nArkansas, in 1857.\n\n\n''The March\" won the Miqueldo\nde Orc, first prize at the In\nternational Film Festival at Bill\nbao, Spain, October 2 7, as\nwe'll special citation from the\nInternational Committee of Films\nEducation and Culture. The docu-\nmentary participation of whites\nin the march on Wa shington on\nAugust %, 1868.\n\n\n\"The March was directed for\nthe US. Information Agency by\nJames Blue, whose earlier USlA\nFilms on the Alliance for Prog\nress, Letter from Colombia\"\nand \"The School at Rincon\nSanto,\" received top honors at\nthe Venice Film Festival.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2067,
+                    "y0": 419,
+                    "x1": 2639,
+                    "y1": 682
+                },
+                {
+                    "x0": 1992,
+                    "y0": 704,
+                    "x1": 2819,
+                    "y1": 2818
+                }
+            ],
+            "bbox": [
+                1992,
+                419,
+                2819,
+                2818
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-13_p1_sn84021918_0041421695A_1964111301_0631.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "When making your own draper\nles, be sure to choose findings\"\nas safely washable as the fabric\nitself. One such is a non-woven\ndrapery header material, strong\nand stiff enough to add support\nto even heavy drapery tops. This\nis said to be easy to handle, form,\nand sew and will retain it's\nstiffness through repeated\nlaunderings.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 216,
+                    "y0": 2491,
+                    "x1": 1055,
+                    "y1": 3092
+                }
+            ],
+            "bbox": [
+                216,
+                2491,
+                1055,
+                3092
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-13_p1_sn84021918_0041421695A_1964111301_0631.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Phillips CINE Church. 1401 E. Adams St. will sponsor\nits sixth annual and banquet, Dec. IL and 10.\nbanquet will Knda Hail. Central Methodist Church.\nCentral 1870 and the Coronation Tea will be\nheld Sum-, Dec. l3 at Phillips CINE Church.\nseated Mrs. Ihema\nManns chairman Josephine Bruce banquet chairman Seth\nStein chairman Mrs. Blanche Christopher general\nchairman\n\n\nRev. Melvin Harrison, pa stor, is standing.\n\n\nFred Banks",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2906,
+                    "y0": 2014,
+                    "x1": 4589,
+                    "y1": 2679
+                }
+            ],
+            "bbox": [
+                2906,
+                2014,
+                4589,
+                2679
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-13_p1_sn84021918_0041421695A_1964111301_0631.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Mrs. Eloise McCreary wa s\nhonored on her birthday by mem\nbers of the Medallions Club re-\nGently. Each month lucky lady\nreceives gifts. Photo Lab",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 204,
+                    "y0": 2026,
+                    "x1": 1026,
+                    "y1": 2341
+                }
+            ],
+            "bbox": [
+                204,
+                2026,
+                1026,
+                2341
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-11-13_p1_sn84021918_0041421695A_1964111301_0631.json"
+        }
+    ]
+}

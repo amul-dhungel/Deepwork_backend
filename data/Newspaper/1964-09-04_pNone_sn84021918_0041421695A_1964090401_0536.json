@@ -1,0 +1,293 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-04",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4846,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-04",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964090401/0536.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2196,
+                "y0": 440,
+                "x1": 3021,
+                "y1": 2425
+            },
+            "class": "article",
+            "raw_text": "ROOSEVELT SCHOOL DISTRICT\nNEWS\n\n\nRegistration for all classes\nwill be Fri, Sept. A, and classes\nwill open Tues. Sept. 8 at\nscheduled time.\n\n\nJULIAN Sept. 4 registration\no-l2; l-3. The bus will run\nschedule at $3.50 am: 9 am.\nand l pm.\n\n\nGrades 3-8 will be held at\nJulian this year. Grades 80\n2:3O; Grades 40 1920: and\nGrades 7-8 8:2O-3:20 pm.\n\n\nTwo new teachers have been\nadded Mrs. Ella Pearl Phil\nlips. graduate of Prairie View\nCollege grade S; and Alvin\nLyles. graduate Arizona State\nCollege at Flagstaff. band.\n\n\nPALMDALE One new tea\ncher added Miss Ethel Daniels,\ngrade 8. Mrs. Irma Coleman\nreturning and Mrs. Sandra Mo-\nmen, nurse.\n\n\nSHERATON PARK PRIMARY -\nRegistration Sept. 4 = 8:30-3:30.\nNew faculty members include\nMrs. Karen Baillon, librarian;\nMesdames Gloria Jones, Ann\nHolland, and Irma Saunders.\n\n\nMrs. Betty Wills on is the nurse.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2237,
+                "y0": 324,
+                "x1": 2690,
+                "y1": 418
+            },
+            "class": "headline",
+            "raw_text": "SCHOOL NEWS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2196,
+                "y0": 2691,
+                "x1": 3021,
+                "y1": 4339
+            },
+            "class": "article",
+            "raw_text": "FORT WORTH. Tex. NAACP\nrepresentatives asked the school\nboard to adopt policy of full\nintegration for the public schools.\n\n\nDR.. George D. Flemmings,\npresident Of the NAACP Fort\nWoth branch. requested that the\nNAACP recommendations be\nadopted.\n\n\nThe request said that Negroes\nshould attend schools near where\nthey live. The NAACP also called\nfor the opening of the Techni-\ncal High School to all students\non the same basis.\n\n\nDR.. Flemmings reminded the\nBoard that they have \"a court\ndirective that dates back l0years\nand a national policy declared in\nthe recent Civil Rights Acts to\nsupport your decision\n\n\nFirst President to ride to his\ninauguration ceremonies in an\nautomobile Theodore Roo\nsevelt.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2219,
+                "y0": 2482,
+                "x1": 2928,
+                "y1": 2669
+            },
+            "class": "headline",
+            "raw_text": "FULL SCHOOL\nINTERROGATION SOUGHT",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3977,
+                "y0": 2540,
+                "x1": 4779,
+                "y1": 2831
+            },
+            "class": "article",
+            "raw_text": "SPARTANSBURG. sc. -Adri-\nenne Douglas. daughter Of a Negro\ndoctor, was the only one of her\nrace to enter a white school. She\nis in the eleventh grade.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3414,
+                "y0": 2418,
+                "x1": 4454,
+                "y1": 2518
+            },
+            "class": "headline",
+            "raw_text": "Negro Pupils Enter Schools in Dixie",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3101,
+                "y0": 2575,
+                "x1": 3920,
+                "y1": 2820
+            },
+            "class": "article",
+            "raw_text": "AUGUSTA, Ga. = Four Negro\npupils registered at previously\nall white schools here without\nany trouble.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3113,
+                "y0": 1850,
+                "x1": 4790,
+                "y1": 2344
+            },
+            "class": "article",
+            "raw_text": "Chapel AME Church the marriage\nMiss Jean Allen and Altman George E. Dove.\n\n\nThe performed Sat- Aug %. Rev. L. Williams\noficiaed.\n\n\nThe bride the daughter of Mr. and Mrs. Robert Allen 1914\nShe High Chicago\nThe groom the of Rev. and Mrs. L. Dove of Prescott\nArkansas. He is stationed at Luke Air Force Base.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964090401_0536",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "SCHOOL NEWS",
+            "article": "ROOSEVELT SCHOOL DISTRICT\nNEWS\n\n\nRegistration for all classes\nwill be Fri, Sept. A, and classes\nwill open Tues. Sept. 8 at\nscheduled time.\n\n\nJULIAN Sept. 4 registration\no-l2; l-3. The bus will run\nschedule at $3.50 am: 9 am.\nand l pm.\n\n\nGrades 3-8 will be held at\nJulian this year. Grades 80\n2:3O; Grades 40 1920: and\nGrades 7-8 8:2O-3:20 pm.\n\n\nTwo new teachers have been\nadded Mrs. Ella Pearl Phil\nlips. graduate of Prairie View\nCollege grade S; and Alvin\nLyles. graduate Arizona State\nCollege at Flagstaff. band.\n\n\nPALMDALE One new tea\ncher added Miss Ethel Daniels,\ngrade 8. Mrs. Irma Coleman\nreturning and Mrs. Sandra Mo-\nmen, nurse.\n\n\nSHERATON PARK PRIMARY -\nRegistration Sept. 4 = 8:30-3:30.\nNew faculty members include\nMrs. Karen Baillon, librarian;\nMesdames Gloria Jones, Ann\nHolland, and Irma Saunders.\n\n\nMrs. Betty Wills on is the nurse.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2237,
+                    "y0": 324,
+                    "x1": 2690,
+                    "y1": 418
+                },
+                {
+                    "x0": 2196,
+                    "y0": 440,
+                    "x1": 3021,
+                    "y1": 2425
+                }
+            ],
+            "bbox": [
+                2196,
+                324,
+                3021,
+                2425
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-04_pna_sn84021918_0041421695A_1964090401_0536.json"
+        },
+        {
+            "object_ids": [
+                6,
+                3
+            ],
+            "headline": "FULL SCHOOL\nINTERROGATION SOUGHT",
+            "article": "FORT WORTH. Tex. NAACP\nrepresentatives asked the school\nboard to adopt policy of full\nintegration for the public schools.\n\n\nDR.. George D. Flemmings,\npresident Of the NAACP Fort\nWoth branch. requested that the\nNAACP recommendations be\nadopted.\n\n\nThe request said that Negroes\nshould attend schools near where\nthey live. The NAACP also called\nfor the opening of the Techni-\ncal High School to all students\non the same basis.\n\n\nDR.. Flemmings reminded the\nBoard that they have \"a court\ndirective that dates back l0years\nand a national policy declared in\nthe recent Civil Rights Acts to\nsupport your decision\n\n\nFirst President to ride to his\ninauguration ceremonies in an\nautomobile Theodore Roo\nsevelt.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2219,
+                    "y0": 2482,
+                    "x1": 2928,
+                    "y1": 2669
+                },
+                {
+                    "x0": 2196,
+                    "y0": 2691,
+                    "x1": 3021,
+                    "y1": 4339
+                }
+            ],
+            "bbox": [
+                2196,
+                2482,
+                3021,
+                4339
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-04_pna_sn84021918_0041421695A_1964090401_0536.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "Negro Pupils Enter Schools in Dixie",
+            "article": "SPARTANSBURG. sc. -Adri-\nenne Douglas. daughter Of a Negro\ndoctor, was the only one of her\nrace to enter a white school. She\nis in the eleventh grade.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3414,
+                    "y0": 2418,
+                    "x1": 4454,
+                    "y1": 2518
+                },
+                {
+                    "x0": 3977,
+                    "y0": 2540,
+                    "x1": 4779,
+                    "y1": 2831
+                }
+            ],
+            "bbox": [
+                3414,
+                2418,
+                4779,
+                2831
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-04_pna_sn84021918_0041421695A_1964090401_0536.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "AUGUSTA, Ga. = Four Negro\npupils registered at previously\nall white schools here without\nany trouble.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3101,
+                    "y0": 2575,
+                    "x1": 3920,
+                    "y1": 2820
+                }
+            ],
+            "bbox": [
+                3101,
+                2575,
+                3920,
+                2820
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-04_pna_sn84021918_0041421695A_1964090401_0536.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Chapel AME Church the marriage\nMiss Jean Allen and Altman George E. Dove.\n\n\nThe performed Sat- Aug %. Rev. L. Williams\noficiaed.\n\n\nThe bride the daughter of Mr. and Mrs. Robert Allen 1914\nShe High Chicago\nThe groom the of Rev. and Mrs. L. Dove of Prescott\nArkansas. He is stationed at Luke Air Force Base.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3113,
+                    "y0": 1850,
+                    "x1": 4790,
+                    "y1": 2344
+                }
+            ],
+            "bbox": [
+                3113,
+                1850,
+                4790,
+                2344
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-09-04_pna_sn84021918_0041421695A_1964090401_0536.json"
+        }
+    ]
+}

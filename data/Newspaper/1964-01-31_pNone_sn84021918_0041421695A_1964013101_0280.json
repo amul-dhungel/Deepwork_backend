@@ -1,0 +1,234 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7436,
+        "width": 4806,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964013101/0280.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2954,
+                "y0": 1893,
+                "x1": 4640,
+                "y1": 2429
+            },
+            "class": "article",
+            "raw_text": "Rev. Charles Favors right gift presented him\nby Dr. Boara Messrs Kahon Gosa of Punab who we're\nguests at the Robert Bankses home Sunday\nThe gift finely cotton\npants.\n\n\nThe Punjab visitors departed Monday Tucson.\n\n\nFOR PHOTOS CALL\n\n\n276-23OIoR 276-4329",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2048,
+                "y0": 819,
+                "x1": 2874,
+                "y1": 2121
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON j Five outstand-\ning graduates Of Howard Univer-\nsity will receive alumni achieve\nment awards Mar. at the 9th\nanniversary founding celebra-\nton.\n\n\nAwardees will be DR.. Roy A.\nAnduze. a 1889 graduate, chief\nsurgeon at Knud-Hansen Memo\nrial Hospital, Virgin Islands: DR..\nErrold D. Collymore. 19l8grad-\nuate Of the defunct Howard Acad-\nenvy. civic and political leader\nfor 80 years: James Farmer,\norganizer of CORE; DR.. Lillian\nLewis. 1925 graduate, professor\nOf biology atWinston-Salem State\nTeachers College, and Miss\nFlake Pinkett, President of the\nPinkett Real Estate Co., and\nvice president Of the Washington\nReal Estate Brokers Assn.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2054,
+                "y0": 505,
+                "x1": 2845,
+                "y1": 791
+            },
+            "class": "headline",
+            "raw_text": "S GRADUATES TO\n\n\nBE HONORED AT 9th\nHOWARD UNIVERSITY\nFOUNDING PROGRAM",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2019,
+                "y0": 2143,
+                "x1": 2862,
+                "y1": 2417
+            },
+            "class": "article",
+            "raw_text": "Almost all white silks are safely\nsudsable, but do tend to yellow\nfrom heat. So iron silk on the\nwrong side using a cool iron over\na clean cloth.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1119,
+                "y0": 2980,
+                "x1": 1956,
+                "y1": 5014
+            },
+            "class": "article",
+            "raw_text": "JACKSON, Miss. = Stars Of the\ntelevision show bonanza\" have\nrefused to make a scheduled per-\nsonal appearance here February\nIL. after being notified by the\nNAACP that the audience would\nbe segregated.\n\n\nLorne Greene, Michael Landon\nand Dan Blocker wired show pro-\nmotors, which is to be staged\nat the State Fair Coliseum, they\nwill not come to Jackson unless\nthey are guaranteed the spec\ntators will be unsegregated.\n\n\nDan Blocker, who plays\n\"Hoss,\" also made known his\nstand in a personal letter to\nCharles Evers, NAACP Missis-\nsippi field secretary, who had\ncalled upon the trio to cancel\nthe engagement in view of the\nsegregation.\n\n\nIL have long been in sympathy\nwith the Negro struggle for total\ncitizenship\" wrote MIR. Blocker,\ntherefore, | would find an ap-\npearance of any sort before a\nsegregated house completely in\ncompatible with my moral con-\ncepts. indeed repugnant.\"\n\n\nBlocker said he and the others\nwe're assured when they signed\nthe contract that the audience\nwould be integrated.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1142,
+                "y0": 2712,
+                "x1": 1875,
+                "y1": 2952
+            },
+            "class": "headline",
+            "raw_text": "BONAZA STARS\n\n\nREFUSE TO PLAY\nSEGREGATED SHOW",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964013101_0280",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "S GRADUATES TO\n\n\nBE HONORED AT 9th\nHOWARD UNIVERSITY\nFOUNDING PROGRAM",
+            "article": "WASHINGTON j Five outstand-\ning graduates Of Howard Univer-\nsity will receive alumni achieve\nment awards Mar. at the 9th\nanniversary founding celebra-\nton.\n\n\nAwardees will be DR.. Roy A.\nAnduze. a 1889 graduate, chief\nsurgeon at Knud-Hansen Memo\nrial Hospital, Virgin Islands: DR..\nErrold D. Collymore. 19l8grad-\nuate Of the defunct Howard Acad-\nenvy. civic and political leader\nfor 80 years: James Farmer,\norganizer of CORE; DR.. Lillian\nLewis. 1925 graduate, professor\nOf biology atWinston-Salem State\nTeachers College, and Miss\nFlake Pinkett, President of the\nPinkett Real Estate Co., and\nvice president Of the Washington\nReal Estate Brokers Assn.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2054,
+                    "y0": 505,
+                    "x1": 2845,
+                    "y1": 791
+                },
+                {
+                    "x0": 2048,
+                    "y0": 819,
+                    "x1": 2874,
+                    "y1": 2121
+                }
+            ],
+            "bbox": [
+                2048,
+                505,
+                2874,
+                2121
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-31_pna_sn84021918_0041421695A_1964013101_0280.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "Rev. Charles Favors right gift presented him\nby Dr. Boara Messrs Kahon Gosa of Punab who we're\nguests at the Robert Bankses home Sunday\nThe gift finely cotton\npants.\n\n\nThe Punjab visitors departed Monday Tucson.\n\n\nFOR PHOTOS CALL\n\n\n276-23OIoR 276-4329",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2954,
+                    "y0": 1893,
+                    "x1": 4640,
+                    "y1": 2429
+                }
+            ],
+            "bbox": [
+                2954,
+                1893,
+                4640,
+                2429
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-01-31_pna_sn84021918_0041421695A_1964013101_0280.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Almost all white silks are safely\nsudsable, but do tend to yellow\nfrom heat. So iron silk on the\nwrong side using a cool iron over\na clean cloth.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2019,
+                    "y0": 2143,
+                    "x1": 2862,
+                    "y1": 2417
+                }
+            ],
+            "bbox": [
+                2019,
+                2143,
+                2862,
+                2417
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-01-31_pna_sn84021918_0041421695A_1964013101_0280.json"
+        },
+        {
+            "object_ids": [
+                9,
+                5
+            ],
+            "headline": "BONAZA STARS\n\n\nREFUSE TO PLAY\nSEGREGATED SHOW",
+            "article": "JACKSON, Miss. = Stars Of the\ntelevision show bonanza\" have\nrefused to make a scheduled per-\nsonal appearance here February\nIL. after being notified by the\nNAACP that the audience would\nbe segregated.\n\n\nLorne Greene, Michael Landon\nand Dan Blocker wired show pro-\nmotors, which is to be staged\nat the State Fair Coliseum, they\nwill not come to Jackson unless\nthey are guaranteed the spec\ntators will be unsegregated.\n\n\nDan Blocker, who plays\n\"Hoss,\" also made known his\nstand in a personal letter to\nCharles Evers, NAACP Missis-\nsippi field secretary, who had\ncalled upon the trio to cancel\nthe engagement in view of the\nsegregation.\n\n\nIL have long been in sympathy\nwith the Negro struggle for total\ncitizenship\" wrote MIR. Blocker,\ntherefore, | would find an ap-\npearance of any sort before a\nsegregated house completely in\ncompatible with my moral con-\ncepts. indeed repugnant.\"\n\n\nBlocker said he and the others\nwe're assured when they signed\nthe contract that the audience\nwould be integrated.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1142,
+                    "y0": 2712,
+                    "x1": 1875,
+                    "y1": 2952
+                },
+                {
+                    "x0": 1119,
+                    "y0": 2980,
+                    "x1": 1956,
+                    "y1": 5014
+                }
+            ],
+            "bbox": [
+                1119,
+                2712,
+                1956,
+                5014
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-31_pna_sn84021918_0041421695A_1964013101_0280.json"
+        }
+    ]
+}

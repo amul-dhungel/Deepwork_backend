@@ -1,0 +1,551 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0318.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7414,
+        "width": 4772
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2947,
+                "y0": 4714,
+                "x1": 4628,
+                "y1": 6650
+            },
+            "class": "article",
+            "raw_text": "Probably noted Negro personality before the rise Of\nFrederick Douglass Charles Lenox Remond He free\nNegro Of Salem, Massachusetts, Remond born February\n$780, John and Nancy Reond His father native Cur\nwho America early and served hair\nMay 1911. a citizen by\nof the Essex County Court His children Sara and Charles\neducated in the public schools Of Salem.\n\n\nCharles Remond anslavery lecturer and he\nlikewise Later she became physician\nFor years of the Essex County Anti\nSlavery Society lecture in various parts OF the country In this\nsphere he attained his greatest distinction.\n\n\nAn Remond impressive He black six feet\nhigh distinguished by strong and energetic He\nOf the effective in his sphere Sometimes\nhis eoquence for him the right Of when mobs tried\nbreak his meetings and drive him from One secret\nhis that he directed his his hearers\nunderstanding rather than their imagination. Says $50\nforcby did he take Of understanding that the\nYIELDED In other words ideas formed the basis Reonds\nHe only braved opposition and psoke aessed\nin America but ecred also in Jamaica and England\nRemond had sufficient Independent his action and\nthinking While suffering from distinctions in spite OF his\nfreedom he could but the struggle for liberty for\nthe Negro Remond deeply interested in the beraen OF the\nslaves Of day leave the impression that\nhis chief the disabilities from which the\nfree Negroes popularity apparently decned but prior that time\nwith. ',-3\"''1' 80\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2959,
+                "y0": 4471,
+                "x1": 4014,
+                "y1": 4681
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nCharles Remond",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2936,
+                "y0": 2612,
+                "x1": 4634,
+                "y1": 4449
+            },
+            "class": "article",
+            "raw_text": "Under both the federal and the constitutions\nexcessbe BAIL AS rule BAIL whchs forfeit\npunishment make appears trial.\n\n\nCalifornia of appeal found that Judge had bail\nhigh order punish accused drunkenness for asking\nfor jury trial.\n\n\nThe appeals the from $500 SIS.\n\n\nThe facts: the charged with being drunk\npublic place. s+@ s E@\n\n\n\"No guilty. he said. 48\n\n\ndo you know hwat my policy is, the Judge asked IF\nyou plead guilty and demand trial and then the jury finds\nyou gulty7''\n\n\n'rd like to know, said the\n\n\nwell, you going 90 days in jail\n\n\nthe Judge bail $500 instead of the usual SIS\nscheduled in such misdemeanor\n\n\nUnable $780, the went back his CELL But he asked\nthe appeals for Wrof abeas Corpus He claimed he\nwrongfuy excessive he could\nBesides he said he being punished for asking\nfor his right jury trial guaranteed by the constitution\nWhen the prisoner asked his trial pending the abeas\nCorpus hearing the Judge had him charged also with\nand his bail for yet another $500.\n\n\nThe of appeal ordered bail the drunk charge cut\n$25 and turned him loose his recognzance on the vag\nrancy charge.\n\n\nh legal column issued public service under\nthe State Bar of Arizona and is written inform\no",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3277,
+                "y0": 2455,
+                "x1": 4333,
+                "y1": 2584
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2930,
+                "y0": 1986,
+                "x1": 3753,
+                "y1": 2410
+            },
+            "class": "article",
+            "raw_text": "But one thing takes some of\nthe JOY out of my pastry shop\nvisit-Those little pink pills have\nto take after eating just aren't\nthe same as will power.\n\n\nrecommend that you visit the\npastry shop or 60 bake cake or",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3532,
+                "y0": 1888,
+                "x1": 4124,
+                "y1": 1970
+            },
+            "class": "headline",
+            "raw_text": "SIGHTS = coNT'D",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 237,
+                "y0": 4656,
+                "x1": 1958,
+                "y1": 6383
+            },
+            "class": "article",
+            "raw_text": "President johnson signed the federal income\ntax cut last week with several pens. Before the\nink could dry other expenditures for defense\nand foreign aid rose higher.\n\n\nThe baycheck Of many salaYied employees\nwiH be larger for the next pay periods, but\nthe increase viii be almost unnOticed in many\ncases. Unfortunately the tax cut came at the\ntime Mhen the johnson admins tyatiOn has de-\ncided to spend aOlaile cutting the budget.\n\n\nhaeQuities in the federal income tax SChed-\nules should be studied and a revised tax bro\ngram should be made to include more persons.\nA llouunceS for children should be Increased\nfrom scant 5000. Medical expenses should\nbe allowed for the fun amounts.\n\n\nThe tax cut is not enough to spark the econ\nonay as many persons predict. is too small\nand there are too many spending programs\nbeing planned by LBJ",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 422,
+                "y0": 4459,
+                "x1": 1767,
+                "y1": 4617
+            },
+            "class": "headline",
+            "raw_text": "TAX CUT NOT ENOUGH",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3822,
+                "y0": 1986,
+                "x1": 4645,
+                "y1": 2398
+            },
+            "class": "article",
+            "raw_text": "a pie today. There's no fun so\ngreat as getting a bang out Of\nfilling your sweet tooth. f6W\n\n\nHang the calories. Forget the\nextra pounds. Drat the will\npower-but don't misplace your\npills. IS",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2942,
+                "y0": 1112,
+                "x1": 4640,
+                "y1": 1854
+            },
+            "class": "article",
+            "raw_text": "State Legislature will final days and\nthe handwriting the wall. The\neffective passed made but little DONE \"A\nbill caused much acythe repeal mooruehics\ninspection law become front story Other\n\n\n\nignored. m\n\n\nWith pressing problems in the legislators\nagain earned the title of the DO Nohngs.|\n\n\nNearly bills introduced few Important measures\npassed. Perhaps ip both the house and\nthe believe that law is better than bad one",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3480,
+                "y0": 463,
+                "x1": 4530,
+                "y1": 927
+            },
+            "class": "headline",
+            "raw_text": "views,p REvIews'.\n\n\nAND REVIEWS . !.\n\n\nEdward Banks :, , ..~-.'",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -3
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3689,
+                "y0": 834,
+                "x1": 4223,
+                "y1": 916
+            },
+            "class": "headline",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3225,
+                "y0": 978,
+                "x1": 4240,
+                "y1": 1089
+            },
+            "class": "headline",
+            "raw_text": "Legislature Does Little",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2015,
+                "y0": 845,
+                "x1": 2856,
+                "y1": 6389
+            },
+            "class": "article",
+            "raw_text": "\n\n\nstore evokes the usual mild in\nterest. A new store can cause\nfurry of patrons if 1t dispenses\nsomething novel, valuable or\ncheap.\n\n\nSeveral weeks ago a new shop\nopened on North Central Avenue.\nThere was nothing novel, valuable\nnor cheap displayed. The shop\nbore a simple almost drab ap-\npearance. There we're no costly\ntrappings nor elegantly suited\nfloor walkers. There we're no\nelaborate decorations nor pres\ntige requirements.\n\n\nThe place had to be found for\nit was practically hidden in\nrow of offices. The front parking\narea was small and the sign\nwas nearly obscure.\n\n\nThe first time | went to find\nthe place = | drove by and had\nto circle the block. Going inside\nbrought some sensations. The\naromas of pastries filled the air.\n\n\nThe rows of delicacies shone\nunderneath the cleaning count\nerglass. The clerks deity placed\nflaky pies, rolls or cookies in\nboxes. A special order of blue\nand white cake squares stared at\nme invitingly.\n\n\n| stood and let my eyes move\nfrom one section of the display\ncases to another. The taste buds\ntingled and | wished that | was\nnot allergic to the varieties of\nfruit bedecked sweets | saw.\n\n\nhave always loved to bake and\neat pastries. My favorites must\nbe plain because am allergic\nto fruits and choc olates. In wilder\nmoments will press my luck\nand treat myself to bit Of cho-\ncolate.\n\n\nThere we're Choux a la creme\nCream filled buns), cellars,\nmadeleines (tea cakes), brooches,\nbllets doux (custard squares),\nbigoudens diamond biscuits),\ntarte aux pommes ct cerises\n(open apple and cherry pies) and\nnapoleons Qayered pastry\ncrusts).\n\n\nThree women came in and one\nratified loudly in German saying\nthat these we're really German\npastries. Then she laughed and\nsaid some we're of Austrian orr\ngin. The manager smiled and\nanswered her that these we're\nFrench pastries, but every coun-\ntry called them by a different\nname and claimed them as ma\ntional dessert.\n\n\nl had intended merely to look\nat the delicacies and purchase\nnothing. AS | hesitated calling\nupon my second force of will\npower. my eyes Veered toward\nthe cellars. Before could catch\nmy breath, | had opened my purse\nand was preparing to pay for an\neclair. The quarter was in the\nbottom of my coin purse-this gave\nme time to ask for a second\none.\n\n\nA dizziness came over me and\nin a flash | had ordered a ma\npoleon. Clutching my box of for\nhidden goodies--I got in my car\nand drove homeward. All the way\nl felt like a naughty kid who has\nsneaked off and bought something\nshe had been warned against\nbuying.\n\n\nVisions of the cellars danced\nin my head and | recalled how\nl felt the same way when Edward\nand | we're in Paris and Madrid\nseveral years ago. After each\nlunch or dinner meal a huge\ndessert cart was wheeled around\nthe dining room. 1t was loaded",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2050,
+                "y0": 405,
+                "x1": 2844,
+                "y1": 626
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOlsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2142,
+                "y0": 666,
+                "x1": 2676,
+                "y1": 771
+            },
+            "class": "headline",
+            "raw_text": "Will Power",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 248,
+                "y0": 2253,
+                "x1": 1964,
+                "y1": 4414
+            },
+            "class": "article",
+            "raw_text": "Critics on all sides haze found a common\nwhibbi,ag b0y-the American public school\nsystem. During the past de cade myriad Of\nreports from all angles haze been Oyitten to\npoint ont the faults Of the education system,\nthe school admins traitors and teachers.\n\n\nOnce a year at this time Public School\nWeek is Observed I'm many cities as time to\ngiUe bit of credit WheYe credit is due.\n\n\nThere is q great deal right with the public\nschool system in the United States. There are\nmany positive features Which are grossly\nignored BY the critics and denOunceYS WhO\nusually seek to dis credit the schools.\n\n\nNever before haze so many pupils from\nall uulks of life been sent to public school\nsystem. Never in the annals of any ciUiIz0-\ntion has such a great task been undertaken\nBY men and WOnaen 1OhO haze devoted their\ntime and effort to teaching our youth.\n\n\nThe success Of any education system\ndefends upon the amount of support 1t gets\nfrom the community and the persons who hUe\nthere. If you haven't uisited school IN your\narea lateU-go and see What is being done.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 422,
+                "y0": 2038,
+                "x1": 1749,
+                "y1": 2213
+            },
+            "class": "headline",
+            "raw_text": "PUBLIC SCHOOL WEEK",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-03-06"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "NEGRO HISTORY NOTES\nCharles Remond",
+            "article": "Probably noted Negro personality before the rise Of\nFrederick Douglass Charles Lenox Remond He free\nNegro Of Salem, Massachusetts, Remond born February\n$780, John and Nancy Reond His father native Cur\nwho America early and served hair\nMay 1911. a citizen by\nof the Essex County Court His children Sara and Charles\neducated in the public schools Of Salem.\n\n\nCharles Remond anslavery lecturer and he\nlikewise Later she became physician\nFor years of the Essex County Anti\nSlavery Society lecture in various parts OF the country In this\nsphere he attained his greatest distinction.\n\n\nAn Remond impressive He black six feet\nhigh distinguished by strong and energetic He\nOf the effective in his sphere Sometimes\nhis eoquence for him the right Of when mobs tried\nbreak his meetings and drive him from One secret\nhis that he directed his his hearers\nunderstanding rather than their imagination. Says $50\nforcby did he take Of understanding that the\nYIELDED In other words ideas formed the basis Reonds\nHe only braved opposition and psoke aessed\nin America but ecred also in Jamaica and England\nRemond had sufficient Independent his action and\nthinking While suffering from distinctions in spite OF his\nfreedom he could but the struggle for liberty for\nthe Negro Remond deeply interested in the beraen OF the\nslaves Of day leave the impression that\nhis chief the disabilities from which the\nfree Negroes popularity apparently decned but prior that time\nwith. ',-3\"''1' 80\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2959,
+                    "y0": 4471,
+                    "x1": 4014,
+                    "y1": 4681
+                },
+                {
+                    "x0": 2947,
+                    "y0": 4714,
+                    "x1": 4628,
+                    "y1": 6650
+                }
+            ],
+            "bbox": [
+                2947,
+                4471,
+                4628,
+                6650
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        },
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "Discussing Arizona Law",
+            "article": "Under both the federal and the constitutions\nexcessbe BAIL AS rule BAIL whchs forfeit\npunishment make appears trial.\n\n\nCalifornia of appeal found that Judge had bail\nhigh order punish accused drunkenness for asking\nfor jury trial.\n\n\nThe appeals the from $500 SIS.\n\n\nThe facts: the charged with being drunk\npublic place. s+@ s E@\n\n\n\"No guilty. he said. 48\n\n\ndo you know hwat my policy is, the Judge asked IF\nyou plead guilty and demand trial and then the jury finds\nyou gulty7''\n\n\n'rd like to know, said the\n\n\nwell, you going 90 days in jail\n\n\nthe Judge bail $500 instead of the usual SIS\nscheduled in such misdemeanor\n\n\nUnable $780, the went back his CELL But he asked\nthe appeals for Wrof abeas Corpus He claimed he\nwrongfuy excessive he could\nBesides he said he being punished for asking\nfor his right jury trial guaranteed by the constitution\nWhen the prisoner asked his trial pending the abeas\nCorpus hearing the Judge had him charged also with\nand his bail for yet another $500.\n\n\nThe of appeal ordered bail the drunk charge cut\n$25 and turned him loose his recognzance on the vag\nrancy charge.\n\n\nh legal column issued public service under\nthe State Bar of Arizona and is written inform\no",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3277,
+                    "y0": 2455,
+                    "x1": 4333,
+                    "y1": 2584
+                },
+                {
+                    "x0": 2936,
+                    "y0": 2612,
+                    "x1": 4634,
+                    "y1": 4449
+                }
+            ],
+            "bbox": [
+                2936,
+                2455,
+                4634,
+                4449
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        },
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "SIGHTS = coNT'D",
+            "article": "But one thing takes some of\nthe JOY out of my pastry shop\nvisit-Those little pink pills have\nto take after eating just aren't\nthe same as will power.\n\n\nrecommend that you visit the\npastry shop or 60 bake cake or",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3532,
+                    "y0": 1888,
+                    "x1": 4124,
+                    "y1": 1970
+                },
+                {
+                    "x0": 2930,
+                    "y0": 1986,
+                    "x1": 3753,
+                    "y1": 2410
+                }
+            ],
+            "bbox": [
+                2930,
+                1888,
+                4124,
+                2410
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        },
+        {
+            "object_ids": [
+                21,
+                4
+            ],
+            "headline": "TAX CUT NOT ENOUGH",
+            "article": "President johnson signed the federal income\ntax cut last week with several pens. Before the\nink could dry other expenditures for defense\nand foreign aid rose higher.\n\n\nThe baycheck Of many salaYied employees\nwiH be larger for the next pay periods, but\nthe increase viii be almost unnOticed in many\ncases. Unfortunately the tax cut came at the\ntime Mhen the johnson admins tyatiOn has de-\ncided to spend aOlaile cutting the budget.\n\n\nhaeQuities in the federal income tax SChed-\nules should be studied and a revised tax bro\ngram should be made to include more persons.\nA llouunceS for children should be Increased\nfrom scant 5000. Medical expenses should\nbe allowed for the fun amounts.\n\n\nThe tax cut is not enough to spark the econ\nonay as many persons predict. is too small\nand there are too many spending programs\nbeing planned by LBJ",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 422,
+                    "y0": 4459,
+                    "x1": 1767,
+                    "y1": 4617
+                },
+                {
+                    "x0": 237,
+                    "y0": 4656,
+                    "x1": 1958,
+                    "y1": 6383
+                }
+            ],
+            "bbox": [
+                237,
+                4459,
+                1958,
+                6383
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "a pie today. There's no fun so\ngreat as getting a bang out Of\nfilling your sweet tooth. f6W\n\n\nHang the calories. Forget the\nextra pounds. Drat the will\npower-but don't misplace your\npills. IS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3822,
+                    "y0": 1986,
+                    "x1": 4645,
+                    "y1": 2398
+                }
+            ],
+            "bbox": [
+                3822,
+                1986,
+                4645,
+                2398
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        },
+        {
+            "object_ids": [
+                16,
+                22,
+                15,
+                7
+            ],
+            "headline": "views,p REvIews'.\n\n\nAND REVIEWS . !.\n\n\nEdward Banks :, , ..~-.'\n\nEdward Banks\n\nLegislature Does Little",
+            "article": "State Legislature will final days and\nthe handwriting the wall. The\neffective passed made but little DONE \"A\nbill caused much acythe repeal mooruehics\ninspection law become front story Other\n\n\n\nignored. m\n\n\nWith pressing problems in the legislators\nagain earned the title of the DO Nohngs.|\n\n\nNearly bills introduced few Important measures\npassed. Perhaps ip both the house and\nthe believe that law is better than bad one",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3480,
+                    "y0": 463,
+                    "x1": 4530,
+                    "y1": 927
+                },
+                {
+                    "x0": 3689,
+                    "y0": 834,
+                    "x1": 4223,
+                    "y1": 916
+                },
+                {
+                    "x0": 3225,
+                    "y0": 978,
+                    "x1": 4240,
+                    "y1": 1089
+                },
+                {
+                    "x0": 2942,
+                    "y0": 1112,
+                    "x1": 4640,
+                    "y1": 1854
+                }
+            ],
+            "bbox": [
+                2942,
+                463,
+                4640,
+                1854
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        },
+        {
+            "object_ids": [
+                8,
+                13,
+                9
+            ],
+            "headline": "Sights and Sounds\nELOlsE BANKS\n\nWill Power",
+            "article": "\n\n\nstore evokes the usual mild in\nterest. A new store can cause\nfurry of patrons if 1t dispenses\nsomething novel, valuable or\ncheap.\n\n\nSeveral weeks ago a new shop\nopened on North Central Avenue.\nThere was nothing novel, valuable\nnor cheap displayed. The shop\nbore a simple almost drab ap-\npearance. There we're no costly\ntrappings nor elegantly suited\nfloor walkers. There we're no\nelaborate decorations nor pres\ntige requirements.\n\n\nThe place had to be found for\nit was practically hidden in\nrow of offices. The front parking\narea was small and the sign\nwas nearly obscure.\n\n\nThe first time | went to find\nthe place = | drove by and had\nto circle the block. Going inside\nbrought some sensations. The\naromas of pastries filled the air.\n\n\nThe rows of delicacies shone\nunderneath the cleaning count\nerglass. The clerks deity placed\nflaky pies, rolls or cookies in\nboxes. A special order of blue\nand white cake squares stared at\nme invitingly.\n\n\n| stood and let my eyes move\nfrom one section of the display\ncases to another. The taste buds\ntingled and | wished that | was\nnot allergic to the varieties of\nfruit bedecked sweets | saw.\n\n\nhave always loved to bake and\neat pastries. My favorites must\nbe plain because am allergic\nto fruits and choc olates. In wilder\nmoments will press my luck\nand treat myself to bit Of cho-\ncolate.\n\n\nThere we're Choux a la creme\nCream filled buns), cellars,\nmadeleines (tea cakes), brooches,\nbllets doux (custard squares),\nbigoudens diamond biscuits),\ntarte aux pommes ct cerises\n(open apple and cherry pies) and\nnapoleons Qayered pastry\ncrusts).\n\n\nThree women came in and one\nratified loudly in German saying\nthat these we're really German\npastries. Then she laughed and\nsaid some we're of Austrian orr\ngin. The manager smiled and\nanswered her that these we're\nFrench pastries, but every coun-\ntry called them by a different\nname and claimed them as ma\ntional dessert.\n\n\nl had intended merely to look\nat the delicacies and purchase\nnothing. AS | hesitated calling\nupon my second force of will\npower. my eyes Veered toward\nthe cellars. Before could catch\nmy breath, | had opened my purse\nand was preparing to pay for an\neclair. The quarter was in the\nbottom of my coin purse-this gave\nme time to ask for a second\none.\n\n\nA dizziness came over me and\nin a flash | had ordered a ma\npoleon. Clutching my box of for\nhidden goodies--I got in my car\nand drove homeward. All the way\nl felt like a naughty kid who has\nsneaked off and bought something\nshe had been warned against\nbuying.\n\n\nVisions of the cellars danced\nin my head and | recalled how\nl felt the same way when Edward\nand | we're in Paris and Madrid\nseveral years ago. After each\nlunch or dinner meal a huge\ndessert cart was wheeled around\nthe dining room. 1t was loaded",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2050,
+                    "y0": 405,
+                    "x1": 2844,
+                    "y1": 626
+                },
+                {
+                    "x0": 2142,
+                    "y0": 666,
+                    "x1": 2676,
+                    "y1": 771
+                },
+                {
+                    "x0": 2015,
+                    "y0": 845,
+                    "x1": 2856,
+                    "y1": 6389
+                }
+            ],
+            "bbox": [
+                2015,
+                405,
+                2856,
+                6389
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        },
+        {
+            "object_ids": [
+                17,
+                10
+            ],
+            "headline": "PUBLIC SCHOOL WEEK",
+            "article": "Critics on all sides haze found a common\nwhibbi,ag b0y-the American public school\nsystem. During the past de cade myriad Of\nreports from all angles haze been Oyitten to\npoint ont the faults Of the education system,\nthe school admins traitors and teachers.\n\n\nOnce a year at this time Public School\nWeek is Observed I'm many cities as time to\ngiUe bit of credit WheYe credit is due.\n\n\nThere is q great deal right with the public\nschool system in the United States. There are\nmany positive features Which are grossly\nignored BY the critics and denOunceYS WhO\nusually seek to dis credit the schools.\n\n\nNever before haze so many pupils from\nall uulks of life been sent to public school\nsystem. Never in the annals of any ciUiIz0-\ntion has such a great task been undertaken\nBY men and WOnaen 1OhO haze devoted their\ntime and effort to teaching our youth.\n\n\nThe success Of any education system\ndefends upon the amount of support 1t gets\nfrom the community and the persons who hUe\nthere. If you haven't uisited school IN your\narea lateU-go and see What is being done.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 422,
+                    "y0": 2038,
+                    "x1": 1749,
+                    "y1": 2213
+                },
+                {
+                    "x0": 248,
+                    "y0": 2253,
+                    "x1": 1964,
+                    "y1": 4414
+                }
+            ],
+            "bbox": [
+                248,
+                2038,
+                1964,
+                4414
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-06_p1_sn84021918_0041421695A_1964030601_0318.json"
+        }
+    ]
+}

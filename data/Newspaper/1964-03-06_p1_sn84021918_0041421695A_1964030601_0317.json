@@ -1,0 +1,522 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0317.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4778
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 145,
+                "y0": 5537,
+                "x1": 963,
+                "y1": 7080
+            },
+            "class": "article",
+            "raw_text": "CAMBRIDGE, Mass. South\nern segregationists are saying\nwhat their representatives said\nin 1887, that the matter of human\nrights-Negro human rights, that\nisis one for the states, not for\nthe Federal government\"\nNAACP Executive Secretary Roy\nWilkins told Harvard men in an\naddress at Quincy House dinner\nGetting.\n\n\nIn his Quincy House address,\nMr.. wilkins warned that the Ne\ngro \"can be expected to react\nstrongly to Congressional denial\nof his oneness with the rest of\nhumankind if the public accom-\nmodations section of the pending\ncivil rights bill is impaired.\n\n\nDenial of equal access to public\naccommodations. he said, is an\naffront to (the Negro 81 humanity\n...no longer bearable.\"\n\n\nMIR. wilkins traced the devel-\nopment of the southern way of\nlife' and cited the impact of the",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 266,
+                "y0": 5218,
+                "x1": 1624,
+                "y1": 5515
+            },
+            "class": "headline",
+            "raw_text": "WILKINS SAYS NEGRO RIGHTS\nARE MOST IMPORTANT NOW",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1020,
+                "y0": 5543,
+                "x1": 1839,
+                "y1": 7075
+            },
+            "class": "article",
+            "raw_text": "US. Supreme Court anti-segre-\ncation rulings on the Southern\nEstablishment.\n\n\n\"Racial segregation under the\nConstitution was groggy in 1854\"\nhe said. \"The thing that brought\nabout BROWN (the school deseg-\nregation decision) was not Chief\nJustice Earl Warren or any of\nthe other favorite whipping boys;\nit was the slow, but memorable\nmarch of free men down century\nfos striving in a national eli\nmate and in a changing world\nwhice gave moral blessing to\ntheir struggle.\n\n\neff in 1854 the South lost the\nbasis of its society, then that\nbasis is we'll lost, for no people\nis made great by reliance upon\nSO mean and lowly a dogma as\nskin color and the accompanying\nsocietal contrivances and decep-\nlively comforting myths that blot\nout, now and again, the unlovely\nrealities\"",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3653,
+                "y0": 4743,
+                "x1": 4471,
+                "y1": 6344
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The Supreme\nCourt let stand decision bar\nring racial segregation in hos\npitals built with help of federal\nfunds.\n\n\nThis action could end segre-\nCATION in hospitals in the South.\n\n\nThe decision involves around\nthe 1916 Halliburton Act which\nsupports state hospital construc-\nton programs with federal funds.\n\n\nIn 1862. ii Negro doctors.\ndentists and patients in Green's\nboro. NC, filed a suit against\nWesley Long Community. and\nMoses H. Cone hospitals.\n\n\nThey asked for an antisegre-\ncation order along with the re-\nlection of the Separate but\nequal facilities provision that\nwas written into the Halliburton\nAct.\n\n\nThe circuit court ruled that the\nhospitals would have to admit\nNegro doctors to staff positions\nand provide unsegregated facil-\ntiles for Negro patients.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3670,
+                "y0": 4482,
+                "x1": 4378,
+                "y1": 4709
+            },
+            "class": "headline",
+            "raw_text": "HOSPITAL RULING\nIS BLOW TO SOUTH",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2777,
+                "y0": 4754,
+                "x1": 3596,
+                "y1": 6350
+            },
+            "class": "article",
+            "raw_text": "Second half of 1868 taxes are\npayable now County Treasurer\nJohn Foote reported.\n\n\nTaxpayers have nine weeks\nto pay the remaining half of last\nyears tax bill before it becomes\ndelinquent on May 4.\n\n\nPayment may be mailed to\nCounty Treasurer, P. o. Box\n6410, Phoenix 85OO5, or over the\ncounter at 1925 w. Durango.\nFoote assured taxpayers his staff\nwill give prompt service either\nway.\n\n\nResidents are reminded they\nwill not be billed for their second\nhalf taxes. Checks should be &C\ncompanied by a receipt of the\nfirst half payment. If the re-\nceipt has been lost, taxpayers\namy call the County Treasurer's\nOffice, AL 8-96ll, for the amount\ndue.\n\n\nDelinquent taxes are assessed\na ten percent interest penalty\nprorated monthly on the unpaid\nbalance.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2789,
+                "y0": 4487,
+                "x1": 3364,
+                "y1": 4726
+            },
+            "class": "headline",
+            "raw_text": "End Half Of\nTaxes Due",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1907,
+                "y0": 2661,
+                "x1": 2732,
+                "y1": 5515
+            },
+            "class": "article",
+            "raw_text": "Whitney M. Young, Jr.. exc\ncutive director of the National\nUrban League. will address the\n10Th annual meeting of the Phoe-\nnix Urban League Fri. March\n20, $50 pm at the Safari Ho-\ntel in Scottsdale.\n\n\nYoung is one of the nations\nmost dynamic and effective lead\ners in interracial relations. The\nSt. Louis Post-Dispatch stated\nthat he \"...has put the National\nUrban League in the forefront\nof those who are urging special\ncompensatory programs to make\nup for the disadvantages Amer\nlean Negroes have suffered for\nso many years.\n\n\n''He also has brought new\nsense of urgency to the League.\nPerhaps the most professional\nbut least demonstrative of civil\nrights groups, the 54-year-old.\norganization specializes in job\ntraining and social welfare\"\n\n\nYoung, 43 has been his pres\nent position since October, 1861.\nPrior to that time he was Dean\nof the School of Social Work at\nAtlanta University. He received\nhis bachelor degree from Ken\nlucky State College at the age\nof Is, received his masters\ndegree in social work from the\nUniversity of MINES ota. and was\ngiven an honorary doctorate by\nNorth Carolina A. & T. College.\n\n\nHe has been a Visiting Schol-\nar at Harvard, recipient of the\nLasker Award for outstanding\nachievement in social work and of\nthe Outstanding Alumnus Award\nfrom the University of MINES ota.\nA frequent White House visitor,\nYoung has been advisor to a\nnumber of committees in the Ken\nnedy administration as well as\nto many universities and social\nwork agencies.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1913,
+                "y0": 5705,
+                "x1": 2726,
+                "y1": 7162
+            },
+            "class": "article",
+            "raw_text": "Samuel Dewitt Proctor, one of\nthe nations leading Negro edu-\nGators, will return to the Peace\nCorps in the key position of\nAssociate Director for Volun-\nteers, Peace Corps Director Sar-\ngent Shriver announced.\n\n\neve can consider ourselves\nfortunate that we we're able to\npersuade man of DR.. Proctor's\nabilities to come back to US\nespecially to a position in which\nhe himself set many of the pol\nicies,\" Shriver said.\n\n\nAS associate director for VOL\nunteers, the 42-year-old Proctor\nwill supervise the selection of\nprospective volunteers from\namong the applicants and direct\ntheir training.\n\n\nHe will assume his duties on\nMarch %, upon resignation leave\nas President of North Carolina\nAgricultural and Technical Col\nlege, Greensboro, NC.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1925,
+                "y0": 5531,
+                "x1": 2447,
+                "y1": 5689
+            },
+            "class": "headline",
+            "raw_text": "Proctor Reioins\nPeace Corp",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2800,
+                "y0": 6575,
+                "x1": 3590,
+                "y1": 7150
+            },
+            "class": "article",
+            "raw_text": "Seven Negroes have held the\nworlds heavyweight boxing title.\nl. Jack Johnson Dec. 26,\n1908 = Apr. S, 1915.\n2. Joe Louis June %, 1887\nMarch p, l949 (retired)\n3. Ezzard Charles June %,\nl949- July Is, 1851.\n4. Joe Walcott- July lS. 1851\nSept. 1852.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3658,
+                "y0": 6569,
+                "x1": 4454,
+                "y1": 7144
+            },
+            "class": "article",
+            "raw_text": "S. Floyd Patterson-Nov. 80,\n\n\n1856 June 70, 1859; June,\n\n\nlo60-Sept. 1862.\n\n\nE. Sonny Liston-Sept. 1862\n\n\nFeb. 1864.\n\n\n7. Cassius Clay-Feb. 1864.\nAccording to the record books\nJoe Louis defended his title a\ntotal of Is times, more than any\nother champion.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3003,
+                "y0": 6424,
+                "x1": 4251,
+                "y1": 6535
+            },
+            "class": "headline",
+            "raw_text": "7 NEcR0s HAVE BEEN CHAMPIONS",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2783,
+                "y0": 1843,
+                "x1": 4465,
+                "y1": 2575
+            },
+            "class": "article",
+            "raw_text": "Bidding farewell nationally known evangelist officers\nof the Church O God association.\n\n\nleft Mrs. Mary Huchings state president; Mrs.\nRiley Panhandle Texas assistant director of the Ma\ntonal Scholarship Counci Crockett Ford evangelist\nChicago Mrs. Ruby Stuart 1884 W. Cocoah hostess and\npresident.\n\n\nrevival the House of Prayer\nChurch of God in Christ Elder George John\nis the church pastor.\n\n\nChoirs from Winsow Flagstaff and Tucson participated in\ngrand musical program Saturday night",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 121,
+                "y0": 4401,
+                "x1": 1798,
+                "y1": 5121
+            },
+            "class": "article",
+            "raw_text": "The second Coronation Ball held\nEks Lodge #477 Sat-\n\n\nNarraors Grand District Deputy Maple L. Pratt and\nWilliams.\n\n\n<Shown Roscoe Patterson, exalted ruler,\nBible bearer, Arneta Burton\nBackhear presents CROWN Esther McEroy Ball\nQueen, Grand Dist Deputy James McEoy Letha Ross,\nLisa\n\n\nMrs. McEroy received the award for her outstanding\nservice and contribution Grand Canyon Temple 437, Eks\nHary unit",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-03-06"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                3
+            ],
+            "headline": "WILKINS SAYS NEGRO RIGHTS\nARE MOST IMPORTANT NOW",
+            "article": "CAMBRIDGE, Mass. South\nern segregationists are saying\nwhat their representatives said\nin 1887, that the matter of human\nrights-Negro human rights, that\nisis one for the states, not for\nthe Federal government\"\nNAACP Executive Secretary Roy\nWilkins told Harvard men in an\naddress at Quincy House dinner\nGetting.\n\n\nIn his Quincy House address,\nMr.. wilkins warned that the Ne\ngro \"can be expected to react\nstrongly to Congressional denial\nof his oneness with the rest of\nhumankind if the public accom-\nmodations section of the pending\ncivil rights bill is impaired.\n\n\nDenial of equal access to public\naccommodations. he said, is an\naffront to (the Negro 81 humanity\n...no longer bearable.\"\n\n\nMIR. wilkins traced the devel-\nopment of the southern way of\nlife' and cited the impact of the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 266,
+                    "y0": 5218,
+                    "x1": 1624,
+                    "y1": 5515
+                },
+                {
+                    "x0": 145,
+                    "y0": 5537,
+                    "x1": 963,
+                    "y1": 7080
+                }
+            ],
+            "bbox": [
+                145,
+                5218,
+                1624,
+                7080
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "US. Supreme Court anti-segre-\ncation rulings on the Southern\nEstablishment.\n\n\n\"Racial segregation under the\nConstitution was groggy in 1854\"\nhe said. \"The thing that brought\nabout BROWN (the school deseg-\nregation decision) was not Chief\nJustice Earl Warren or any of\nthe other favorite whipping boys;\nit was the slow, but memorable\nmarch of free men down century\nfos striving in a national eli\nmate and in a changing world\nwhice gave moral blessing to\ntheir struggle.\n\n\neff in 1854 the South lost the\nbasis of its society, then that\nbasis is we'll lost, for no people\nis made great by reliance upon\nSO mean and lowly a dogma as\nskin color and the accompanying\nsocietal contrivances and decep-\nlively comforting myths that blot\nout, now and again, the unlovely\nrealities\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1020,
+                    "y0": 5543,
+                    "x1": 1839,
+                    "y1": 7075
+                }
+            ],
+            "bbox": [
+                1020,
+                5543,
+                1839,
+                7075
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "HOSPITAL RULING\nIS BLOW TO SOUTH",
+            "article": "WASHINGTON The Supreme\nCourt let stand decision bar\nring racial segregation in hos\npitals built with help of federal\nfunds.\n\n\nThis action could end segre-\nCATION in hospitals in the South.\n\n\nThe decision involves around\nthe 1916 Halliburton Act which\nsupports state hospital construc-\nton programs with federal funds.\n\n\nIn 1862. ii Negro doctors.\ndentists and patients in Green's\nboro. NC, filed a suit against\nWesley Long Community. and\nMoses H. Cone hospitals.\n\n\nThey asked for an antisegre-\ncation order along with the re-\nlection of the Separate but\nequal facilities provision that\nwas written into the Halliburton\nAct.\n\n\nThe circuit court ruled that the\nhospitals would have to admit\nNegro doctors to staff positions\nand provide unsegregated facil-\ntiles for Negro patients.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3670,
+                    "y0": 4482,
+                    "x1": 4378,
+                    "y1": 4709
+                },
+                {
+                    "x0": 3653,
+                    "y0": 4743,
+                    "x1": 4471,
+                    "y1": 6344
+                }
+            ],
+            "bbox": [
+                3653,
+                4482,
+                4471,
+                6344
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                13,
+                8
+            ],
+            "headline": "End Half Of\nTaxes Due",
+            "article": "Second half of 1868 taxes are\npayable now County Treasurer\nJohn Foote reported.\n\n\nTaxpayers have nine weeks\nto pay the remaining half of last\nyears tax bill before it becomes\ndelinquent on May 4.\n\n\nPayment may be mailed to\nCounty Treasurer, P. o. Box\n6410, Phoenix 85OO5, or over the\ncounter at 1925 w. Durango.\nFoote assured taxpayers his staff\nwill give prompt service either\nway.\n\n\nResidents are reminded they\nwill not be billed for their second\nhalf taxes. Checks should be &C\ncompanied by a receipt of the\nfirst half payment. If the re-\nceipt has been lost, taxpayers\namy call the County Treasurer's\nOffice, AL 8-96ll, for the amount\ndue.\n\n\nDelinquent taxes are assessed\na ten percent interest penalty\nprorated monthly on the unpaid\nbalance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2789,
+                    "y0": 4487,
+                    "x1": 3364,
+                    "y1": 4726
+                },
+                {
+                    "x0": 2777,
+                    "y0": 4754,
+                    "x1": 3596,
+                    "y1": 6350
+                }
+            ],
+            "bbox": [
+                2777,
+                4487,
+                3596,
+                6350
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Whitney M. Young, Jr.. exc\ncutive director of the National\nUrban League. will address the\n10Th annual meeting of the Phoe-\nnix Urban League Fri. March\n20, $50 pm at the Safari Ho-\ntel in Scottsdale.\n\n\nYoung is one of the nations\nmost dynamic and effective lead\ners in interracial relations. The\nSt. Louis Post-Dispatch stated\nthat he \"...has put the National\nUrban League in the forefront\nof those who are urging special\ncompensatory programs to make\nup for the disadvantages Amer\nlean Negroes have suffered for\nso many years.\n\n\n''He also has brought new\nsense of urgency to the League.\nPerhaps the most professional\nbut least demonstrative of civil\nrights groups, the 54-year-old.\norganization specializes in job\ntraining and social welfare\"\n\n\nYoung, 43 has been his pres\nent position since October, 1861.\nPrior to that time he was Dean\nof the School of Social Work at\nAtlanta University. He received\nhis bachelor degree from Ken\nlucky State College at the age\nof Is, received his masters\ndegree in social work from the\nUniversity of MINES ota. and was\ngiven an honorary doctorate by\nNorth Carolina A. & T. College.\n\n\nHe has been a Visiting Schol-\nar at Harvard, recipient of the\nLasker Award for outstanding\nachievement in social work and of\nthe Outstanding Alumnus Award\nfrom the University of MINES ota.\nA frequent White House visitor,\nYoung has been advisor to a\nnumber of committees in the Ken\nnedy administration as well as\nto many universities and social\nwork agencies.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1907,
+                    "y0": 2661,
+                    "x1": 2732,
+                    "y1": 5515
+                }
+            ],
+            "bbox": [
+                1907,
+                2661,
+                2732,
+                5515
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                17,
+                10
+            ],
+            "headline": "Proctor Reioins\nPeace Corp",
+            "article": "Samuel Dewitt Proctor, one of\nthe nations leading Negro edu-\nGators, will return to the Peace\nCorps in the key position of\nAssociate Director for Volun-\nteers, Peace Corps Director Sar-\ngent Shriver announced.\n\n\neve can consider ourselves\nfortunate that we we're able to\npersuade man of DR.. Proctor's\nabilities to come back to US\nespecially to a position in which\nhe himself set many of the pol\nicies,\" Shriver said.\n\n\nAS associate director for VOL\nunteers, the 42-year-old Proctor\nwill supervise the selection of\nprospective volunteers from\namong the applicants and direct\ntheir training.\n\n\nHe will assume his duties on\nMarch %, upon resignation leave\nas President of North Carolina\nAgricultural and Technical Col\nlege, Greensboro, NC.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1925,
+                    "y0": 5531,
+                    "x1": 2447,
+                    "y1": 5689
+                },
+                {
+                    "x0": 1913,
+                    "y0": 5705,
+                    "x1": 2726,
+                    "y1": 7162
+                }
+            ],
+            "bbox": [
+                1913,
+                5531,
+                2726,
+                7162
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Seven Negroes have held the\nworlds heavyweight boxing title.\nl. Jack Johnson Dec. 26,\n1908 = Apr. S, 1915.\n2. Joe Louis June %, 1887\nMarch p, l949 (retired)\n3. Ezzard Charles June %,\nl949- July Is, 1851.\n4. Joe Walcott- July lS. 1851\nSept. 1852.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2800,
+                    "y0": 6575,
+                    "x1": 3590,
+                    "y1": 7150
+                }
+            ],
+            "bbox": [
+                2800,
+                6575,
+                3590,
+                7150
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                24,
+                12
+            ],
+            "headline": "7 NEcR0s HAVE BEEN CHAMPIONS",
+            "article": "S. Floyd Patterson-Nov. 80,\n\n\n1856 June 70, 1859; June,\n\n\nlo60-Sept. 1862.\n\n\nE. Sonny Liston-Sept. 1862\n\n\nFeb. 1864.\n\n\n7. Cassius Clay-Feb. 1864.\nAccording to the record books\nJoe Louis defended his title a\ntotal of Is times, more than any\nother champion.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3003,
+                    "y0": 6424,
+                    "x1": 4251,
+                    "y1": 6535
+                },
+                {
+                    "x0": 3658,
+                    "y0": 6569,
+                    "x1": 4454,
+                    "y1": 7144
+                }
+            ],
+            "bbox": [
+                3003,
+                6424,
+                4454,
+                7144
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "Bidding farewell nationally known evangelist officers\nof the Church O God association.\n\n\nleft Mrs. Mary Huchings state president; Mrs.\nRiley Panhandle Texas assistant director of the Ma\ntonal Scholarship Counci Crockett Ford evangelist\nChicago Mrs. Ruby Stuart 1884 W. Cocoah hostess and\npresident.\n\n\nrevival the House of Prayer\nChurch of God in Christ Elder George John\nis the church pastor.\n\n\nChoirs from Winsow Flagstaff and Tucson participated in\ngrand musical program Saturday night",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2783,
+                    "y0": 1843,
+                    "x1": 4465,
+                    "y1": 2575
+                }
+            ],
+            "bbox": [
+                2783,
+                1843,
+                4465,
+                2575
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "The second Coronation Ball held\nEks Lodge #477 Sat-\n\n\nNarraors Grand District Deputy Maple L. Pratt and\nWilliams.\n\n\n<Shown Roscoe Patterson, exalted ruler,\nBible bearer, Arneta Burton\nBackhear presents CROWN Esther McEroy Ball\nQueen, Grand Dist Deputy James McEoy Letha Ross,\nLisa\n\n\nMrs. McEroy received the award for her outstanding\nservice and contribution Grand Canyon Temple 437, Eks\nHary unit",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 121,
+                    "y0": 4401,
+                    "x1": 1798,
+                    "y1": 5121
+                }
+            ],
+            "bbox": [
+                121,
+                4401,
+                1798,
+                5121
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-03-06_p1_sn84021918_0041421695A_1964030601_0317.json"
+        }
+    ]
+}

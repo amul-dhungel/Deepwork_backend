@@ -1,0 +1,395 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100201/0568.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7384,
+        "width": 4912
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3061,
+                "y0": 1003,
+                "x1": 4741,
+                "y1": 2308
+            },
+            "class": "article",
+            "raw_text": "by the city council which established space and\nfunds to build library Central Southern should\nall parents, Students teachers all interested\npersons in the\n\n\nelementary secondary students who\nregular branch library situated in central\narea The library bookmoe have made\nquate large region generally known South Phoenix\n\n\nand retired will be able visit the library\nMany could hope reach the main branch\nNorth Central the small Harmon branch.\n\n\ndeveloping recreation under the city\nshould be accelerated The south\nchildren who need swimming\nball playing and general fun areas.\n\n\nDespite committee meetings held In and around\ncthe outstanding problems for imme-\nhas been than since\nPhoenix annexed of the City Of Phoenix\nparks Fairgrounds excellent places keep growing\ndeveloping off Of the and Of vacant\nlots.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3598,
+                "y0": 363,
+                "x1": 4568,
+                "y1": 808
+            },
+            "class": "headline",
+            "raw_text": "Views, PREvIews\nAMo REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3823,
+                "y0": 726,
+                "x1": 4331,
+                "y1": 808
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3067,
+                "y0": 865,
+                "x1": 3853,
+                "y1": 975
+            },
+            "class": "headline",
+            "raw_text": "After The Library",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3055,
+                "y0": 2549,
+                "x1": 3876,
+                "y1": 3219
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON DR.. Victor\nH. Berry. a graduate Of the\nTuskegee Institute School of\nVeterinary Medicine. has been\nnamed staff officer of the labels\nand standards section of the US.\nDepartment of Agriculture meat\ninspection division.\n\n\nDR.. Berry was promoted to this\nposition from St. Paul, Mimi,\nwhere he had served since 1902.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3932,
+                "y0": 2532,
+                "x1": 4741,
+                "y1": 3144
+            },
+            "class": "article",
+            "raw_text": "as circuit supervisor OF meat1n-\nspection work. He succeeds DR..\n]. D. Hatton who has been adj\nvanced to the plants and equip\nment section.\n\n\nThe new staff officer was born\nand reared in Wichita. Rams. He\ncame to work for the Depart\nment's meat inspection service in\nMilwaukee, Wis.,, in 1855.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3211,
+                "y0": 2347,
+                "x1": 4493,
+                "y1": 2510
+            },
+            "class": "headline",
+            "raw_text": "Dr.. Perry Is Promoted",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 350,
+                "y0": 2070,
+                "x1": 2087,
+                "y1": 4990
+            },
+            "class": "article",
+            "raw_text": "Tuo REPORTS weye made to the nation during\nthe bast week. The long aataited Warren RepoT\nconcerning the tragedy in Dallas W0S hailed as\ny fact,.al and odequate report Of the assassl-\nnation of the late President Kennedy by q men,\ntnllv unstable person with cO'anaunist1c Team\niugs. Lee Osmuh Mus named as the sole person\nconnected NTH the fatal shooting.\n\n\nThere woS no evidence to cOn,lec ct Jack Ruby,\nthe slayer of OsMuld. He acted alone, also.\n\n\nDespite attempts by wy1ters to make the\ntragedy I'm Dallas a sinister plot OF uaenoum\npersons, the Warren report should erase\nsuch baseless thoughts.\n\n\nThe second report of national interest MuS\nthat of j. Edgar Hoover. He unmarked tsnd-\nings of the Federal Bureau of Investigation\ncey,.ing the summer race riots in northern\nregions.\n\n\nHIS conclusions shoaO that the riots we're\nnot linked by a master plot nor we're they\npart of any conanaunistic plan. Though some\nfringe activities might haze been in OPERATION\nbefore or du1Ing the riots, no evidence IS\navailable which would shoW that Negroes we're\ninvolved In great numbers.\n\n\nThere IS a tendency among certain groups\nI'm our country to blame the communists t0r\nall kinds of wrongs or problems. We must\nshake loose this easy way of explaining our\noama errors and shortcomings.\n\n\nSUBSCRIBE ARIZONA TRIBUNE",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1042,
+                "y0": 749,
+                "x1": 1528,
+                "y1": 825
+            },
+            "class": "author",
+            "raw_text": "VOL, NO. IL",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 759,
+                "y0": 1851,
+                "x1": 1597,
+                "y1": 2020
+            },
+            "class": "headline",
+            "raw_text": "TWO REPORTS",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2144,
+                "y0": 657,
+                "x1": 2987,
+                "y1": 6173
+            },
+            "class": "article",
+            "raw_text": "An exciting and fanciful part Of\nthe magic of childhood is rapidly\ndisappearing from the American\nscene. The wide avenues of fan\ntasy which we're travelled from\nthe toddling stage to the long\npants days have slowly and al\nmost completely gone from our\nview.\n\n\nTime was when young children,\nand believe. many adults awaited\nthat rare time when mother,\ngrandmother, father, aunt, uncle\nor an older brother would take\ntime from the daily routine and\ntell ghost story or read scary\ntale. Even Little Red Riding\nHood brought squeals of excite\nment though the wee ones\nknew 1t by head and heart.\n\n\nThe horrible yet heroic deed\nOf the valiant knights of olden\ndays kept many children in a\nplace not quite on earth nor in\nheaven. How many have recalled\nthe eerie picture Of a strange\nhand holding King Arthur's\nsword, the Excalibur out in the\nmiddle of lake7 How many have\nrecoiled at the sirupy tones of the\nwicked stepmother as she led\npoor Hansel and Gretel into the\ndark forest7\n\n\nThe story Of the three billy\ngoats even held a bit of romance\nfor the less sophisticated tastes\nOf the youngsters. Jack and all\nkinds of giants, Aladdin and his\nlamp. Ali Baba. and any number\nof fantastic characters kept\nchildhood one delightful state.\n\n\nThose horrors of a writer's\nimagination, including Franken-\nstein, Dracula and the various\nwerewolves demanded adult re-\nactions. but the kids, bless them\nrefused to succumb to mere fear.\n\n\nWhat has become of the big\nbad wolves7 Where have the\nwicked witches gomez Whence did\nthe monster Of DR.. Frankenstein\ndepart7 When did Dracula dis\nsolver Whittier goest the wolves\nthat we're Werewolves7\n\n\nAfter watching the one-eyed\nwide screened monster in our\nworkroo ! have discovered\nwhy no one is afraid Of those\nout OF the world creatures today.\nThe moviemakers have overdone\nthe themes. The class F movies\nare being shown with monsters\nranging from the pure wolf type\nto the dinosaur types Of pre-\nhistoric eras.\n\n\nDuring the past few weeks |\nhave caught portions of monsters\nin Japan, werewolves in Tibet\nand London, sea monsters, fire\neaters and believe or not a great\ndramatic star Claude Rains was\nhunting for some in a lost world.\n\n\nTo top off the downfall of mon\nsters Casper the kind ghost ap-\npeared and this television seas on\ninitiated The Adams Family.\nThese sad faced creatures we're\ncreated by Charles Adams.\nbrilliant cartoonist. They live in\na haunted house, in fact, they are\nhaunted shells themselves.\n\n\nLife will never be the same\nchildren are now mis- sing S many\nparts of the unreal world which\nonce could be left to ones imagin-\nalton. Now everything is pro-\nduced in living sound and the mon\nsters are too realistic and COM\nmonplace to brighten even a man\nwith a milk toast heart.\n\n\nKEEP AMERICAS\n\n\nWAITED TIEAN",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2173,
+                "y0": 299,
+                "x1": 2958,
+                "y1": 520
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOtsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2167,
+                "y0": 548,
+                "x1": 2751,
+                "y1": 658
+            },
+            "class": "headline",
+            "raw_text": "No Witches?",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-02"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                3,
+                20,
+                13,
+                0
+            ],
+            "headline": "Views, PREvIews\nAMo REVIEWS\n\n\nEdward Banks\n\nAfter The Library",
+            "article": "by the city council which established space and\nfunds to build library Central Southern should\nall parents, Students teachers all interested\npersons in the\n\n\nelementary secondary students who\nregular branch library situated in central\narea The library bookmoe have made\nquate large region generally known South Phoenix\n\n\nand retired will be able visit the library\nMany could hope reach the main branch\nNorth Central the small Harmon branch.\n\n\ndeveloping recreation under the city\nshould be accelerated The south\nchildren who need swimming\nball playing and general fun areas.\n\n\nDespite committee meetings held In and around\ncthe outstanding problems for imme-\nhas been than since\nPhoenix annexed of the City Of Phoenix\nparks Fairgrounds excellent places keep growing\ndeveloping off Of the and Of vacant\nlots.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3598,
+                    "y0": 363,
+                    "x1": 4568,
+                    "y1": 808
+                },
+                {
+                    "x0": 3823,
+                    "y0": 726,
+                    "x1": 4331,
+                    "y1": 808
+                },
+                {
+                    "x0": 3067,
+                    "y0": 865,
+                    "x1": 3853,
+                    "y1": 975
+                },
+                {
+                    "x0": 3061,
+                    "y0": 1003,
+                    "x1": 4741,
+                    "y1": 2308
+                }
+            ],
+            "bbox": [
+                3061,
+                363,
+                4741,
+                2308
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-02_p1_sn84021918_0041421695A_1964100201_0568.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "WASHINGTON DR.. Victor\nH. Berry. a graduate Of the\nTuskegee Institute School of\nVeterinary Medicine. has been\nnamed staff officer of the labels\nand standards section of the US.\nDepartment of Agriculture meat\ninspection division.\n\n\nDR.. Berry was promoted to this\nposition from St. Paul, Mimi,\nwhere he had served since 1902.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3055,
+                    "y0": 2549,
+                    "x1": 3876,
+                    "y1": 3219
+                }
+            ],
+            "bbox": [
+                3055,
+                2549,
+                3876,
+                3219
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-02_p1_sn84021918_0041421695A_1964100201_0568.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Dr.. Perry Is Promoted",
+            "article": "as circuit supervisor OF meat1n-\nspection work. He succeeds DR..\n]. D. Hatton who has been adj\nvanced to the plants and equip\nment section.\n\n\nThe new staff officer was born\nand reared in Wichita. Rams. He\ncame to work for the Depart\nment's meat inspection service in\nMilwaukee, Wis.,, in 1855.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3211,
+                    "y0": 2347,
+                    "x1": 4493,
+                    "y1": 2510
+                },
+                {
+                    "x0": 3932,
+                    "y0": 2532,
+                    "x1": 4741,
+                    "y1": 3144
+                }
+            ],
+            "bbox": [
+                3211,
+                2347,
+                4741,
+                3144
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-02_p1_sn84021918_0041421695A_1964100201_0568.json"
+        },
+        {
+            "object_ids": [
+                21,
+                12,
+                6
+            ],
+            "headline": "TWO REPORTS",
+            "article": "Tuo REPORTS weye made to the nation during\nthe bast week. The long aataited Warren RepoT\nconcerning the tragedy in Dallas W0S hailed as\ny fact,.al and odequate report Of the assassl-\nnation of the late President Kennedy by q men,\ntnllv unstable person with cO'anaunist1c Team\niugs. Lee Osmuh Mus named as the sole person\nconnected NTH the fatal shooting.\n\n\nThere woS no evidence to cOn,lec ct Jack Ruby,\nthe slayer of OsMuld. He acted alone, also.\n\n\nDespite attempts by wy1ters to make the\ntragedy I'm Dallas a sinister plot OF uaenoum\npersons, the Warren report should erase\nsuch baseless thoughts.\n\n\nThe second report of national interest MuS\nthat of j. Edgar Hoover. He unmarked tsnd-\nings of the Federal Bureau of Investigation\ncey,.ing the summer race riots in northern\nregions.\n\n\nHIS conclusions shoaO that the riots we're\nnot linked by a master plot nor we're they\npart of any conanaunistic plan. Though some\nfringe activities might haze been in OPERATION\nbefore or du1Ing the riots, no evidence IS\navailable which would shoW that Negroes we're\ninvolved In great numbers.\n\n\nThere IS a tendency among certain groups\nI'm our country to blame the communists t0r\nall kinds of wrongs or problems. We must\nshake loose this easy way of explaining our\noama errors and shortcomings.\n\n\nSUBSCRIBE ARIZONA TRIBUNE",
+            "byline": "VOL, NO. IL",
+            "bbox_list": [
+                {
+                    "x0": 1042,
+                    "y0": 749,
+                    "x1": 1528,
+                    "y1": 825
+                },
+                {
+                    "x0": 759,
+                    "y0": 1851,
+                    "x1": 1597,
+                    "y1": 2020
+                },
+                {
+                    "x0": 350,
+                    "y0": 2070,
+                    "x1": 2087,
+                    "y1": 4990
+                }
+            ],
+            "bbox": [
+                350,
+                749,
+                2087,
+                4990
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-02_p1_sn84021918_0041421695A_1964100201_0568.json"
+        },
+        {
+            "object_ids": [
+                15,
+                11,
+                8
+            ],
+            "headline": "Sights and Sounds\nELOtsE BANKS\n\nNo Witches?",
+            "article": "An exciting and fanciful part Of\nthe magic of childhood is rapidly\ndisappearing from the American\nscene. The wide avenues of fan\ntasy which we're travelled from\nthe toddling stage to the long\npants days have slowly and al\nmost completely gone from our\nview.\n\n\nTime was when young children,\nand believe. many adults awaited\nthat rare time when mother,\ngrandmother, father, aunt, uncle\nor an older brother would take\ntime from the daily routine and\ntell ghost story or read scary\ntale. Even Little Red Riding\nHood brought squeals of excite\nment though the wee ones\nknew 1t by head and heart.\n\n\nThe horrible yet heroic deed\nOf the valiant knights of olden\ndays kept many children in a\nplace not quite on earth nor in\nheaven. How many have recalled\nthe eerie picture Of a strange\nhand holding King Arthur's\nsword, the Excalibur out in the\nmiddle of lake7 How many have\nrecoiled at the sirupy tones of the\nwicked stepmother as she led\npoor Hansel and Gretel into the\ndark forest7\n\n\nThe story Of the three billy\ngoats even held a bit of romance\nfor the less sophisticated tastes\nOf the youngsters. Jack and all\nkinds of giants, Aladdin and his\nlamp. Ali Baba. and any number\nof fantastic characters kept\nchildhood one delightful state.\n\n\nThose horrors of a writer's\nimagination, including Franken-\nstein, Dracula and the various\nwerewolves demanded adult re-\nactions. but the kids, bless them\nrefused to succumb to mere fear.\n\n\nWhat has become of the big\nbad wolves7 Where have the\nwicked witches gomez Whence did\nthe monster Of DR.. Frankenstein\ndepart7 When did Dracula dis\nsolver Whittier goest the wolves\nthat we're Werewolves7\n\n\nAfter watching the one-eyed\nwide screened monster in our\nworkroo ! have discovered\nwhy no one is afraid Of those\nout OF the world creatures today.\nThe moviemakers have overdone\nthe themes. The class F movies\nare being shown with monsters\nranging from the pure wolf type\nto the dinosaur types Of pre-\nhistoric eras.\n\n\nDuring the past few weeks |\nhave caught portions of monsters\nin Japan, werewolves in Tibet\nand London, sea monsters, fire\neaters and believe or not a great\ndramatic star Claude Rains was\nhunting for some in a lost world.\n\n\nTo top off the downfall of mon\nsters Casper the kind ghost ap-\npeared and this television seas on\ninitiated The Adams Family.\nThese sad faced creatures we're\ncreated by Charles Adams.\nbrilliant cartoonist. They live in\na haunted house, in fact, they are\nhaunted shells themselves.\n\n\nLife will never be the same\nchildren are now mis- sing S many\nparts of the unreal world which\nonce could be left to ones imagin-\nalton. Now everything is pro-\nduced in living sound and the mon\nsters are too realistic and COM\nmonplace to brighten even a man\nwith a milk toast heart.\n\n\nKEEP AMERICAS\n\n\nWAITED TIEAN",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2173,
+                    "y0": 299,
+                    "x1": 2958,
+                    "y1": 520
+                },
+                {
+                    "x0": 2167,
+                    "y0": 548,
+                    "x1": 2751,
+                    "y1": 658
+                },
+                {
+                    "x0": 2144,
+                    "y0": 657,
+                    "x1": 2987,
+                    "y1": 6173
+                }
+            ],
+            "bbox": [
+                2144,
+                299,
+                2987,
+                6173
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-02_p1_sn84021918_0041421695A_1964100201_0568.json"
+        }
+    ]
+}

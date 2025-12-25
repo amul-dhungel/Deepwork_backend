@@ -1,0 +1,75 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121101/0661.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7400,
+        "width": 4920
+    },
+    "bboxes": [
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2864,
+                "y0": 1982,
+                "x1": 4530,
+                "y1": 2405
+            },
+            "class": "article",
+            "raw_text": "special organ recital presented Sum- Dec Tanner\nChapel AME Church. located 9th St. Jefferson.\nAdmitting the newly installed organ seated\nMRS. John A. Ward organ1st standing from Morgan\nmember of the Phoenix Organ Guild guest sooist Miss Roberta\nLewis, church pianist and Rev. L. K. Williams.\n\n\nINV",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-11"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "special organ recital presented Sum- Dec Tanner\nChapel AME Church. located 9th St. Jefferson.\nAdmitting the newly installed organ seated\nMRS. John A. Ward organ1st standing from Morgan\nmember of the Phoenix Organ Guild guest sooist Miss Roberta\nLewis, church pianist and Rev. L. K. Williams.\n\n\nINV",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2864,
+                    "y0": 1982,
+                    "x1": 4530,
+                    "y1": 2405
+                }
+            ],
+            "bbox": [
+                2864,
+                1982,
+                4530,
+                2405
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-12-11_p1_sn84021918_0041421695A_1964121101_0661.json"
+        }
+    ]
+}

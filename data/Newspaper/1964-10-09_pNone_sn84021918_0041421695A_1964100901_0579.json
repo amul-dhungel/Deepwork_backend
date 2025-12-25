@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7443,
+        "width": 4866,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100901/0579.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2113,
+                "y0": 581,
+                "x1": 2934,
+                "y1": 1477
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = At the opening\nsession of the second American\nNegro Leadership Conference on\nAfrica, DR.. James H. Robinson,\nfounder and director of Operation\nCrossroads Africa. charged the\nconference with the \"responsi-\nbility of serving as a catalytic\nagent in helping to relate Africa\nand America\"\n\n\nG. Mennen Williams, Assistant\nSecretary of State for African\nAffairs. also appeared. He re-\nviewed the history of American\nNegro interest in Africa citing",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2345,
+                "y0": 436,
+                "x1": 3451,
+                "y1": 541
+            },
+            "class": "headline",
+            "raw_text": "DR.. ROBINSON URGES AFRICAN AID",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 328,
+                "y0": 2913,
+                "x1": 1131,
+                "y1": 3687
+            },
+            "class": "article",
+            "raw_text": "MOSCOW Miss Leontyne\nPrice was applauded thr ough l6\ncurtain calls and almost mobbed\nby fans at her Mos COW debut last\nweek. She sang while suffering\nfrom bronchitis.\n\n\na 26-minute ovation for the\nNegro opera singer from Laurel.\nMISS, was one of the longest\never given a visiting artist at the\nBolshoi Theatre. Mrs. Nina\nMrushchev, the premier's wife,\nJoined in the applause.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 380,
+                "y0": 2674,
+                "x1": 1084,
+                "y1": 2890
+            },
+            "class": "headline",
+            "raw_text": "Leontyne Price\nThrills Russians",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3875,
+                "y0": 465,
+                "x1": 4690,
+                "y1": 1460
+            },
+            "class": "article",
+            "raw_text": "DR.. Robinson said the con-\nference must keep before both\nthe legislative and executive\nbranches Of government. as well\nas the people of the United\nStates. the need to improve.\nstrengthen and enlarge our con-\nstructive policies towards Afri-\nca. 1t has the responsibility Of\ndeveloping better communica-\nlions and relations between the\nAmerican Negro community and\nAfrica and of devising an\neffective strategy for transform\ning its aims and detectives into\npositive and constructive\naction\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2997,
+                "y0": 598,
+                "x1": 3812,
+                "y1": 1472
+            },
+            "class": "article",
+            "raw_text": "particularly the monumental\nwork of the late WEB. Dubois,\na founder of the National Associa-\ntion for the Advancement of\nColored People and. through the\nNAACP. pioneer in the es-\nEstablishment Of the Pan-African\nCongress.\n\n\nThe United States, Mr.. Will\nliams said, does not propose to\ntell African states how to run\ntheir affairs, nor does this coun-\ntry propose to see non-African\nnations intervening into African\naffairs.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1235,
+                "y0": 2919,
+                "x1": 2044,
+                "y1": 3507
+            },
+            "class": "article",
+            "raw_text": "BOSTON Joe Louis Barrow.\nIT., son of the former heavy\nweight boxing champion Joe\nLouis, is a freshman at Boston\nUniversity.\n\n\nA graduate of the University OF\nChicagos high school division.\nBarrow is enr oiled in the G ollege\nof Basic Studies. He plans to\nenter law or medicine.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1235,
+                "y0": 2721,
+                "x1": 1887,
+                "y1": 2896
+            },
+            "class": "headline",
+            "raw_text": "Joe Louis, Jr.\nAt Boston University",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2741,
+                "y0": 2238,
+                "x1": 4428,
+                "y1": 7112
+            },
+            "class": "article",
+            "raw_text": "M#\nPROPOSED ANTI-FEATHERBEDDINC LAW\nDe GREEN LIGHT has been given Americas railroads to gradually\ntain fireman and brakeman positions which longer required\n:ent operation of freight trains.\nENTS President Dwight Eisenhower and the late President John\nM e to H about w Th I and Just SETTLE\nAppeals and the Supreme Court is based the conclusion\neddng on the railroads obsolete unused and contrary to the\nalready abolished this costly antquaed practice The\n@ @ conn eI oad se H dse9 their e9s us Until\nnoted or elect to retire.\nARzoN This practical and wholly satisfactory plan into\nenacted back the time Of statehood 1912 before the\nlocomotives and modern air brake systems.\nBOSSES masqueang Czens for Public Safety have\nProposition 2ooYes is less than progressive for state\nreally blame Them it's only stay the gravy train\n= the who pays for the eathebedders soft ride you'll\nsides carefully and let your good sense rule over the mott gs\nhe excess crew law on the books!\n\n\ns.s rsss n s se ss\n~: an extra pair of watchful eyes.\n\n\nossrsSs e. tos @ net s:SG IS the safe\n\n\nil is report to sa PRESIDENT John F. Kennedy\n\n\nUnder Proposition 2ooYEs there would still be two men in the\n\n\na sospste W U\n\n\nthe they always hsvsl And the fact remains number\n\n\nfails to exercise normal Caution\nA: Fireman has important mechanical duties to perform the\nmaintenance OF power and in the correction OF mauncuon\n\n\nreview Of the mechanical duties\n\n\nformed freight and yard deses that\nsmall proportion Of the total time on duty are\n\n\nrelatively and not essential to safe operation\n\n\nPresidential Railroad Commission\n\n\nn is report to oa PRESIDENT John F. Kennedy\n\n\nSuch minor mafunctons handled easily the head\n\n\nbrakeman\n\n\nunemployment the hundreds of fire.\n~. brakemen laid-off under this law.\n\n\nOf in Arizona, handful\nImmediately affected And these few young fire.\n\n\nwith less than two years parme service Will receive gen.\n\n\nerous severance pay\n\n\noffered comparable employment with no reduc-\n\n\nfor at least years.\n\n\nFirenen than 10 years service will remain in rail-\n\n\nroad employment until they promoted or elect to retire\n\n\nthem positions will not be refIed however, as the\n\n\njobs vacated\nARY\n\n\n,OOYES is designed bad situation The proposition\nthose directly involved of great benefit to all Arizona citizens\nrailroad safety with eventual streamnng OF costs that Will allow\nMTEE Ed Towea oo45 Scottsdale Chairman\nn Phoenix Director Jack Whteman 7o02 57h P scottsdae\nr. Morrison 1884, Gilbert Member Walter Aver val vista\nande Whiting, Box AGO. Flagstaff Member Reed r.\nGale Goietta, Tucson Member\n\n\naton about Proposition Committee Room 25o\nIdg, S Central Phoenix. Or Phone 254458O\n- E!|!zl$9 l \"a isSS &Si!!!",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964100901_0579",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "DR.. ROBINSON URGES AFRICAN AID",
+            "article": "WASHINGTON = At the opening\nsession of the second American\nNegro Leadership Conference on\nAfrica, DR.. James H. Robinson,\nfounder and director of Operation\nCrossroads Africa. charged the\nconference with the \"responsi-\nbility of serving as a catalytic\nagent in helping to relate Africa\nand America\"\n\n\nG. Mennen Williams, Assistant\nSecretary of State for African\nAffairs. also appeared. He re-\nviewed the history of American\nNegro interest in Africa citing",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2345,
+                    "y0": 436,
+                    "x1": 3451,
+                    "y1": 541
+                },
+                {
+                    "x0": 2113,
+                    "y0": 581,
+                    "x1": 2934,
+                    "y1": 1477
+                }
+            ],
+            "bbox": [
+                2113,
+                436,
+                3451,
+                1477
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-09_pna_sn84021918_0041421695A_1964100901_0579.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Leontyne Price\nThrills Russians",
+            "article": "MOSCOW Miss Leontyne\nPrice was applauded thr ough l6\ncurtain calls and almost mobbed\nby fans at her Mos COW debut last\nweek. She sang while suffering\nfrom bronchitis.\n\n\na 26-minute ovation for the\nNegro opera singer from Laurel.\nMISS, was one of the longest\never given a visiting artist at the\nBolshoi Theatre. Mrs. Nina\nMrushchev, the premier's wife,\nJoined in the applause.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 380,
+                    "y0": 2674,
+                    "x1": 1084,
+                    "y1": 2890
+                },
+                {
+                    "x0": 328,
+                    "y0": 2913,
+                    "x1": 1131,
+                    "y1": 3687
+                }
+            ],
+            "bbox": [
+                328,
+                2674,
+                1131,
+                3687
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-09_pna_sn84021918_0041421695A_1964100901_0579.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "DR.. Robinson said the con-\nference must keep before both\nthe legislative and executive\nbranches Of government. as well\nas the people of the United\nStates. the need to improve.\nstrengthen and enlarge our con-\nstructive policies towards Afri-\nca. 1t has the responsibility Of\ndeveloping better communica-\nlions and relations between the\nAmerican Negro community and\nAfrica and of devising an\neffective strategy for transform\ning its aims and detectives into\npositive and constructive\naction\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3875,
+                    "y0": 465,
+                    "x1": 4690,
+                    "y1": 1460
+                }
+            ],
+            "bbox": [
+                3875,
+                465,
+                4690,
+                1460
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-09_pna_sn84021918_0041421695A_1964100901_0579.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "particularly the monumental\nwork of the late WEB. Dubois,\na founder of the National Associa-\ntion for the Advancement of\nColored People and. through the\nNAACP. pioneer in the es-\nEstablishment Of the Pan-African\nCongress.\n\n\nThe United States, Mr.. Will\nliams said, does not propose to\ntell African states how to run\ntheir affairs, nor does this coun-\ntry propose to see non-African\nnations intervening into African\naffairs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2997,
+                    "y0": 598,
+                    "x1": 3812,
+                    "y1": 1472
+                }
+            ],
+            "bbox": [
+                2997,
+                598,
+                3812,
+                1472
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-09_pna_sn84021918_0041421695A_1964100901_0579.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "Joe Louis, Jr.\nAt Boston University",
+            "article": "BOSTON Joe Louis Barrow.\nIT., son of the former heavy\nweight boxing champion Joe\nLouis, is a freshman at Boston\nUniversity.\n\n\nA graduate of the University OF\nChicagos high school division.\nBarrow is enr oiled in the G ollege\nof Basic Studies. He plans to\nenter law or medicine.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1235,
+                    "y0": 2721,
+                    "x1": 1887,
+                    "y1": 2896
+                },
+                {
+                    "x0": 1235,
+                    "y0": 2919,
+                    "x1": 2044,
+                    "y1": 3507
+                }
+            ],
+            "bbox": [
+                1235,
+                2721,
+                2044,
+                3507
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-09_pna_sn84021918_0041421695A_1964100901_0579.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "M#\nPROPOSED ANTI-FEATHERBEDDINC LAW\nDe GREEN LIGHT has been given Americas railroads to gradually\ntain fireman and brakeman positions which longer required\n:ent operation of freight trains.\nENTS President Dwight Eisenhower and the late President John\nM e to H about w Th I and Just SETTLE\nAppeals and the Supreme Court is based the conclusion\neddng on the railroads obsolete unused and contrary to the\nalready abolished this costly antquaed practice The\n@ @ conn eI oad se H dse9 their e9s us Until\nnoted or elect to retire.\nARzoN This practical and wholly satisfactory plan into\nenacted back the time Of statehood 1912 before the\nlocomotives and modern air brake systems.\nBOSSES masqueang Czens for Public Safety have\nProposition 2ooYes is less than progressive for state\nreally blame Them it's only stay the gravy train\n= the who pays for the eathebedders soft ride you'll\nsides carefully and let your good sense rule over the mott gs\nhe excess crew law on the books!\n\n\ns.s rsss n s se ss\n~: an extra pair of watchful eyes.\n\n\nossrsSs e. tos @ net s:SG IS the safe\n\n\nil is report to sa PRESIDENT John F. Kennedy\n\n\nUnder Proposition 2ooYEs there would still be two men in the\n\n\na sospste W U\n\n\nthe they always hsvsl And the fact remains number\n\n\nfails to exercise normal Caution\nA: Fireman has important mechanical duties to perform the\nmaintenance OF power and in the correction OF mauncuon\n\n\nreview Of the mechanical duties\n\n\nformed freight and yard deses that\nsmall proportion Of the total time on duty are\n\n\nrelatively and not essential to safe operation\n\n\nPresidential Railroad Commission\n\n\nn is report to oa PRESIDENT John F. Kennedy\n\n\nSuch minor mafunctons handled easily the head\n\n\nbrakeman\n\n\nunemployment the hundreds of fire.\n~. brakemen laid-off under this law.\n\n\nOf in Arizona, handful\nImmediately affected And these few young fire.\n\n\nwith less than two years parme service Will receive gen.\n\n\nerous severance pay\n\n\noffered comparable employment with no reduc-\n\n\nfor at least years.\n\n\nFirenen than 10 years service will remain in rail-\n\n\nroad employment until they promoted or elect to retire\n\n\nthem positions will not be refIed however, as the\n\n\njobs vacated\nARY\n\n\n,OOYES is designed bad situation The proposition\nthose directly involved of great benefit to all Arizona citizens\nrailroad safety with eventual streamnng OF costs that Will allow\nMTEE Ed Towea oo45 Scottsdale Chairman\nn Phoenix Director Jack Whteman 7o02 57h P scottsdae\nr. Morrison 1884, Gilbert Member Walter Aver val vista\nande Whiting, Box AGO. Flagstaff Member Reed r.\nGale Goietta, Tucson Member\n\n\naton about Proposition Committee Room 25o\nIdg, S Central Phoenix. Or Phone 254458O\n- E!|!zl$9 l \"a isSS &Si!!!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2741,
+                    "y0": 2238,
+                    "x1": 4428,
+                    "y1": 7112
+                }
+            ],
+            "bbox": [
+                2741,
+                2238,
+                4428,
+                7112
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-10-09_pna_sn84021918_0041421695A_1964100901_0579.json"
+        }
+    ]
+}

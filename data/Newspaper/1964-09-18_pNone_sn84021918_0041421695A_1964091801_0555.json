@@ -1,0 +1,640 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7444,
+        "width": 4833,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0555.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 142,
+                "y0": 511,
+                "x1": 957,
+                "y1": 1437
+            },
+            "class": "article",
+            "raw_text": "The Maricopa County Council\nfor Retarded Children needs the\nnames of retarded persons, SIX\nteen or older, who are willing\nand able to participate job\ntraining program. Possible\nareas of training will be jani-\ntorial and domestic services,\nlaundry workers. nurserymen\nand gardener aides, and food\nhandling.\n\n\nIf enough pers ons respond, the\nprogram may start soon. Names\nshould be listed at the council\noffice. $50 West Indian School\nRoad, 277-76O5.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 165,
+                "y0": 314,
+                "x1": 818,
+                "y1": 495
+            },
+            "class": "headline",
+            "raw_text": "Retarded Job\nProgram Planned",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1032,
+                "y0": 2372,
+                "x1": 1847,
+                "y1": 3502
+            },
+            "class": "article",
+            "raw_text": "Phoenicians attending the AGA\n18th annual state convention were\nBetty Walton and Charlesetta\nLee. National Beauty Salon Week\nprograms were planned for Feb\nruary.\n\n\nwas elected as district rep\nresentative of the fourth district.\n\n\nGlenn Holden and G. w. Brown\nof Winslow enjoyed their visit\nto our city.\n\n\nMiss Margaret Bolton gave a\ngood speech at the graduating ex-\nercises of the Practical Nurses\nat Phoenix Union last week. Her\ntopic was \"The Challenge\"\n\n\nMrs. Louis B. Smith of Little\nRock, Ark, is visiting relatives\nhere.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1061,
+                "y0": 2140,
+                "x1": 1754,
+                "y1": 2350
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1927,
+                "y0": 1581,
+                "x1": 2748,
+                "y1": 2873
+            },
+            "class": "article",
+            "raw_text": "ATLANTA Mrs. Coretta S.\nKing, wife of civil rights leader,\nDR.. Martin L. King. Jr.. will\npresent a series of concert lee\nture appearances this fall across\nthe nation. She began her concert\ncareer nine years ago.\n\n\nA graduate Of Antioch College.\nYellow Springs, Ohio. Mrs. King\nmajored in music and elementary\neducation. She has studied voice\nat the New England Conservatory\nand holds bachelor Of music\nfrom that school.\n\n\nShe will present songs related\nto the freedom movement and\ntrace the present social revolu-\nton in words.\n\n\nMrs. King said. IL feel that\n| have something to say about\nthe freedom struggle 80. none\nof us is doing enough\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1044,
+                "y0": 610,
+                "x1": 1865,
+                "y1": 1989
+            },
+            "class": "article",
+            "raw_text": "DIT. Ruby Blackshear attended\nthe weekend End annual con-\nference of the Arizona Credit\nUnion League at Casa Grande.\n\n\nAntler Guard call meeting Sept.\nFL, at lodge 7 pm.\n\n\nSick List: Bro. Bobbie Young\nis in Memorial Hospital BIZ.\nRobert Harris, husband of DIT.\nIrma Harris is in county hospital.\n\n\nSept. IT PERC and PDRC\nwill meet in Flagstaff. Achar-\ntered bus will leave the lodge at\nl am. Round trip is only So.\nWe will go via Grand Canyon.\nFor further information or res\nervations call Bros. T. ]. Pratt\nor Charles Williams.\n\n\nThe 1865 grand convention is\nscheduled for Philadelphia.\n\n\nWe wish to thank everyone who\nhelped make our annual bathing\nbeauty and talent show a success.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1078,
+                "y0": 389,
+                "x1": 1580,
+                "y1": 518
+            },
+            "class": "headline",
+            "raw_text": "ELKs CORNER",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1927,
+                "y0": 3000,
+                "x1": 2748,
+                "y1": 3618
+            },
+            "class": "article",
+            "raw_text": "James Netherland, Fl, Of l22O\nS. 18th Ave., was arrensted in the\n200 block of W. Washington after\nfive parking meters we're opened\nand the money removed.\n\n\nNetherland showed officers\nhow he opened the meters with\na dime.\n\n\nHe was booked for vagrancy\nand theft from coin operated ma\nchimes.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1991,
+                "y0": 2896,
+                "x1": 2568,
+                "y1": 2984
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3701,
+                "y0": 331,
+                "x1": 4516,
+                "y1": 698
+            },
+            "class": "article",
+            "raw_text": "Heavy Duty Mechanis-S470-550\nBldg. Equip. Operator-S430-550\nHuman Relations Director-$85o-\n100 month coordinate human\nrelations and public accommoda-\ntions program of the city.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2922,
+                "y0": 6449,
+                "x1": 4365,
+                "y1": 6985
+            },
+            "class": "article",
+            "raw_text": "Want \"2ooYes Committee Luhrs Central\nBldg, 1872 S. Central. Phoenix Or Phone 254458o.\n\n\n2ooYEs COMMITTEE: eo45 choIa Rdp scottsdae\nDirector Charman Laird Racey 5736 NJ End Ave., Phoenix\nDirector secy Gordon Marshall 5sol Exeter Phoenix\nDirector Whteman, 1902 57th P Scottsdae Member\nMarvin Morrison, P Q. Box 4e4 Gilbert Member Walter Ayel\nVal Bvd Gande Member Jack Newman, 3205 9Th\nSt. tucson Member Reed WEIGH 1886 Gale coea Tucson,\nMember",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3602,
+                "y0": 6106,
+                "x1": 4307,
+                "y1": 6258
+            },
+            "class": "headline",
+            "raw_text": "2OO-YES",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2928,
+                "y0": 6344,
+                "x1": 4348,
+                "y1": 6444
+            },
+            "class": "headline",
+            "raw_text": "To ELIMINATE COSTLY FEATHERBEDDING",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2829,
+                "y0": 360,
+                "x1": 3638,
+                "y1": 646
+            },
+            "class": "article",
+            "raw_text": "Job Opportunities\n\n\nCity of Phoenix; apply at Isl\nw. Washington St. Administra-\ntive Service Supervisor: $685.\n$3.50 mo.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 2846,
+                "y0": 348,
+                "x1": 3289,
+                "y1": 408
+            },
+            "class": "headline",
+            "raw_text": "Job Opportunities",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2928,
+                "y0": 4995,
+                "x1": 4383,
+                "y1": 5985
+            },
+            "class": "article",
+            "raw_text": "THESE RULINGS HAVE BEEN\nUPHELD BY THE u. S. COURT OF\nAPPEALS, THE SUPREME COURT\nAND ARE IN EFFECT IN MOST STATES\n\n\nBUT ARIZONA is STILL\n\n\nHAMPERED BY AN OUTMODED\n\n\nEXCESS CREW LAW!\nOnly the voters can wipe this COSTLY obsolete law at the\npolls! PROPOSITION 2OO-YES is safe, fair progressive\nanswer to the featherbeddng problem. 1t deserves your\nsupport.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3730,
+                "y0": 3041,
+                "x1": 4377,
+                "y1": 3711
+            },
+            "class": "article",
+            "raw_text": "A Presidential Railroad\nCommission, appointed by\nDwight D. Eisenhower,\nfound that firemen are\nunnecessary on diesel\npowered freight trains and\nrecommended their\nelimination and the adoption\nof procedures for reducing\nthe number of brakemen\nin some instances.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2980,
+                "y0": 1895,
+                "x1": 4377,
+                "y1": 2850
+            },
+            "class": "headline",
+            "raw_text": "TWO PRESIDENTS\n\n\nAGREED.\n\n\nFEbTHERBEDD|NC\nIS CONTRARY TO THE\nNATIONAL Welfare!",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3730,
+                "y0": 4129,
+                "x1": 4359,
+                "y1": 4769
+            },
+            "class": "article",
+            "raw_text": "An Arbitration Board, under\nJohn F. Kennedy, called\nfor elimination, with certain\nrestrictions, of fireinen on\neseI-powered freight\ntrains, and provided for\nnegotiation between\n\n\nindividual railroads and\nbrotherhoods on the\nnumber of brakemen.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 4835,
+                "y0": 418,
+                "x1": 6145,
+                "y1": 5828
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091801_0555",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                0
+            ],
+            "headline": "Retarded Job\nProgram Planned",
+            "article": "The Maricopa County Council\nfor Retarded Children needs the\nnames of retarded persons, SIX\nteen or older, who are willing\nand able to participate job\ntraining program. Possible\nareas of training will be jani-\ntorial and domestic services,\nlaundry workers. nurserymen\nand gardener aides, and food\nhandling.\n\n\nIf enough pers ons respond, the\nprogram may start soon. Names\nshould be listed at the council\noffice. $50 West Indian School\nRoad, 277-76O5.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 165,
+                    "y0": 314,
+                    "x1": 818,
+                    "y1": 495
+                },
+                {
+                    "x0": 142,
+                    "y0": 511,
+                    "x1": 957,
+                    "y1": 1437
+                }
+            ],
+            "bbox": [
+                142,
+                314,
+                957,
+                1437
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "All Around\n\n\nBY FLORA RUFFIN",
+            "article": "Phoenicians attending the AGA\n18th annual state convention were\nBetty Walton and Charlesetta\nLee. National Beauty Salon Week\nprograms were planned for Feb\nruary.\n\n\nwas elected as district rep\nresentative of the fourth district.\n\n\nGlenn Holden and G. w. Brown\nof Winslow enjoyed their visit\nto our city.\n\n\nMiss Margaret Bolton gave a\ngood speech at the graduating ex-\nercises of the Practical Nurses\nat Phoenix Union last week. Her\ntopic was \"The Challenge\"\n\n\nMrs. Louis B. Smith of Little\nRock, Ark, is visiting relatives\nhere.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1061,
+                    "y0": 2140,
+                    "x1": 1754,
+                    "y1": 2350
+                },
+                {
+                    "x0": 1032,
+                    "y0": 2372,
+                    "x1": 1847,
+                    "y1": 3502
+                }
+            ],
+            "bbox": [
+                1032,
+                2140,
+                1847,
+                3502
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "ATLANTA Mrs. Coretta S.\nKing, wife of civil rights leader,\nDR.. Martin L. King. Jr.. will\npresent a series of concert lee\nture appearances this fall across\nthe nation. She began her concert\ncareer nine years ago.\n\n\nA graduate Of Antioch College.\nYellow Springs, Ohio. Mrs. King\nmajored in music and elementary\neducation. She has studied voice\nat the New England Conservatory\nand holds bachelor Of music\nfrom that school.\n\n\nShe will present songs related\nto the freedom movement and\ntrace the present social revolu-\nton in words.\n\n\nMrs. King said. IL feel that\n| have something to say about\nthe freedom struggle 80. none\nof us is doing enough\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1927,
+                    "y0": 1581,
+                    "x1": 2748,
+                    "y1": 2873
+                }
+            ],
+            "bbox": [
+                1927,
+                1581,
+                2748,
+                2873
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                14,
+                4
+            ],
+            "headline": "ELKs CORNER",
+            "article": "DIT. Ruby Blackshear attended\nthe weekend End annual con-\nference of the Arizona Credit\nUnion League at Casa Grande.\n\n\nAntler Guard call meeting Sept.\nFL, at lodge 7 pm.\n\n\nSick List: Bro. Bobbie Young\nis in Memorial Hospital BIZ.\nRobert Harris, husband of DIT.\nIrma Harris is in county hospital.\n\n\nSept. IT PERC and PDRC\nwill meet in Flagstaff. Achar-\ntered bus will leave the lodge at\nl am. Round trip is only So.\nWe will go via Grand Canyon.\nFor further information or res\nervations call Bros. T. ]. Pratt\nor Charles Williams.\n\n\nThe 1865 grand convention is\nscheduled for Philadelphia.\n\n\nWe wish to thank everyone who\nhelped make our annual bathing\nbeauty and talent show a success.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1078,
+                    "y0": 389,
+                    "x1": 1580,
+                    "y1": 518
+                },
+                {
+                    "x0": 1044,
+                    "y0": 610,
+                    "x1": 1865,
+                    "y1": 1989
+                }
+            ],
+            "bbox": [
+                1044,
+                389,
+                1865,
+                1989
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                17,
+                5
+            ],
+            "headline": "",
+            "article": "James Netherland, Fl, Of l22O\nS. 18th Ave., was arrensted in the\n200 block of W. Washington after\nfive parking meters we're opened\nand the money removed.\n\n\nNetherland showed officers\nhow he opened the meters with\na dime.\n\n\nHe was booked for vagrancy\nand theft from coin operated ma\nchimes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1991,
+                    "y0": 2896,
+                    "x1": 2568,
+                    "y1": 2984
+                },
+                {
+                    "x0": 1927,
+                    "y0": 3000,
+                    "x1": 2748,
+                    "y1": 3618
+                }
+            ],
+            "bbox": [
+                1927,
+                2896,
+                2748,
+                3618
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Heavy Duty Mechanis-S470-550\nBldg. Equip. Operator-S430-550\nHuman Relations Director-$85o-\n100 month coordinate human\nrelations and public accommoda-\ntions program of the city.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3701,
+                    "y0": 331,
+                    "x1": 4516,
+                    "y1": 698
+                }
+            ],
+            "bbox": [
+                3701,
+                331,
+                4516,
+                698
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                22,
+                21,
+                11
+            ],
+            "headline": "2OO-YES\n\nTo ELIMINATE COSTLY FEATHERBEDDING",
+            "article": "Want \"2ooYes Committee Luhrs Central\nBldg, 1872 S. Central. Phoenix Or Phone 254458o.\n\n\n2ooYEs COMMITTEE: eo45 choIa Rdp scottsdae\nDirector Charman Laird Racey 5736 NJ End Ave., Phoenix\nDirector secy Gordon Marshall 5sol Exeter Phoenix\nDirector Whteman, 1902 57th P Scottsdae Member\nMarvin Morrison, P Q. Box 4e4 Gilbert Member Walter Ayel\nVal Bvd Gande Member Jack Newman, 3205 9Th\nSt. tucson Member Reed WEIGH 1886 Gale coea Tucson,\nMember",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3602,
+                    "y0": 6106,
+                    "x1": 4307,
+                    "y1": 6258
+                },
+                {
+                    "x0": 2928,
+                    "y0": 6344,
+                    "x1": 4348,
+                    "y1": 6444
+                },
+                {
+                    "x0": 2922,
+                    "y0": 6449,
+                    "x1": 4365,
+                    "y1": 6985
+                }
+            ],
+            "bbox": [
+                2922,
+                6106,
+                4365,
+                6985
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                26,
+                12
+            ],
+            "headline": "Job Opportunities",
+            "article": "Job Opportunities\n\n\nCity of Phoenix; apply at Isl\nw. Washington St. Administra-\ntive Service Supervisor: $685.\n$3.50 mo.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2846,
+                    "y0": 348,
+                    "x1": 3289,
+                    "y1": 408
+                },
+                {
+                    "x0": 2829,
+                    "y0": 360,
+                    "x1": 3638,
+                    "y1": 646
+                }
+            ],
+            "bbox": [
+                2829,
+                348,
+                3638,
+                646
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "THESE RULINGS HAVE BEEN\nUPHELD BY THE u. S. COURT OF\nAPPEALS, THE SUPREME COURT\nAND ARE IN EFFECT IN MOST STATES\n\n\nBUT ARIZONA is STILL\n\n\nHAMPERED BY AN OUTMODED\n\n\nEXCESS CREW LAW!\nOnly the voters can wipe this COSTLY obsolete law at the\npolls! PROPOSITION 2OO-YES is safe, fair progressive\nanswer to the featherbeddng problem. 1t deserves your\nsupport.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2928,
+                    "y0": 4995,
+                    "x1": 4383,
+                    "y1": 5985
+                }
+            ],
+            "bbox": [
+                2928,
+                4995,
+                4383,
+                5985
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                24,
+                20
+            ],
+            "headline": "TWO PRESIDENTS\n\n\nAGREED.\n\n\nFEbTHERBEDD|NC\nIS CONTRARY TO THE\nNATIONAL Welfare!",
+            "article": "A Presidential Railroad\nCommission, appointed by\nDwight D. Eisenhower,\nfound that firemen are\nunnecessary on diesel\npowered freight trains and\nrecommended their\nelimination and the adoption\nof procedures for reducing\nthe number of brakemen\nin some instances.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2980,
+                    "y0": 1895,
+                    "x1": 4377,
+                    "y1": 2850
+                },
+                {
+                    "x0": 3730,
+                    "y0": 3041,
+                    "x1": 4377,
+                    "y1": 3711
+                }
+            ],
+            "bbox": [
+                2980,
+                1895,
+                4377,
+                3711
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "An Arbitration Board, under\nJohn F. Kennedy, called\nfor elimination, with certain\nrestrictions, of fireinen on\neseI-powered freight\ntrains, and provided for\nnegotiation between\n\n\nindividual railroads and\nbrotherhoods on the\nnumber of brakemen.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3730,
+                    "y0": 4129,
+                    "x1": 4359,
+                    "y1": 4769
+                }
+            ],
+            "bbox": [
+                3730,
+                4129,
+                4359,
+                4769
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-09-18_pna_sn84021918_0041421695A_1964091801_0555.json"
+        }
+    ]
+}

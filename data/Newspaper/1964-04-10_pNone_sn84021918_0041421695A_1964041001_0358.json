@@ -1,0 +1,377 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4863,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041001/0358.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2934,
+                "y0": 1029,
+                "x1": 4608,
+                "y1": 2465
+            },
+            "class": "article",
+            "raw_text": "vhe he he might\nhave had second chance time for second thought young\nCleveland participated\nidea\n\n\nWhile crowd med around huge of machinery\nprotest While others blocked budozer\nthe young clergyman fell the ground At the\nbudozer pulled the backward position The\nyoung instantly crushed into the earth. s.ss\n\n\nseries of fights broke and police had all of their force\nbudozer He had unable\nthe young minister who in the vehicles path.\n\n\nDo such this anyhng2 We in the United States\npride ourselves being products of civilization We\nshuddered when Buddhist monks themselves are.\n\n\nhonestly\nthe minority and majority in have failed\nmuch that unhnng and tragic such the\nwhich happened Tuesday in Cleveland, Ohio.\n\n\nother hand believe that police actions using vicious\ndogs fire equally perspective\nwith tines",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3467,
+                "y0": 358,
+                "x1": 4451,
+                "y1": 805
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIews\nAMo REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3681,
+                "y0": 729,
+                "x1": 4208,
+                "y1": 811
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2934,
+                "y0": 879,
+                "x1": 4064,
+                "y1": 1001
+            },
+            "class": "headline",
+            "raw_text": "We NEED TO RECONSIDER",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 215,
+                "y0": 2140,
+                "x1": 1946,
+                "y1": 4380
+            },
+            "class": "article",
+            "raw_text": "Within less than a week tho names of top\nathletes from Arizona State University made\nnatiO,lGk headlines. Henry Carr, the fleet\nfooted runner made sports news by outdis-\ntanciHg his competition. He also re Gently made\nnews by marrying. Carr broke one Of his oa0n\nrecords and proved has stamina and ability by\nhis great performance with an injured leg.\n\n\nCaYH defeated AdOlbh Plummey as he broke\nthe aOofld's go yard dash re- cord for the third\ntime mi t1Oo SEARS. @A%\n\n\nIn the hoop and bail field, Joe Cad10eH, the\nhighest coreT OH any AyizOna State University\nbasketball team Il ,528 points in three years.,\nWOn a berth on the Olymbics squad.\n\n\nCaldwell could only Win honorable mention\non the An AMeYican Sc lie ctiOn but he dis\nplayed rare form and accurate shooting abil-\nity at Nezo YORK. last z6eeR. ~S ~\n\n\nAYiz3nQns sS7h1uM be 1lghDaHly proud Of ~\nthe exec client aath Re e s@agaOs carry the name\nof the state as they Win honOys on the track\nand basketball court.\n\n\nWe congratulate Henry Carr and Joe C0d-\nVeu as outstanding athletes Of this year and\nmany years to follow.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 365,
+                "y0": 1677,
+                "x1": 1067,
+                "y1": 1840
+            },
+            "class": "author",
+            "raw_text": "~ This newspaper is q member Of\nAsIz&1NEwspApfRs ASSOCIATION\n~ For Greater Public Service",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 267,
+                "y0": 1944,
+                "x1": 1923,
+                "y1": 2101
+            },
+            "class": "headline",
+            "raw_text": "Kudos5S 1To4cCurr And Caldwell",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2014,
+                "y0": 676,
+                "x1": 2849,
+                "y1": 6191
+            },
+            "class": "article",
+            "raw_text": "There is a popular song often\nheard which contains the words\nwhat will it matter a hundred\nyears from today\"\n\n\nHave you ever stopped and\nthought that some small incident\nmight be written and recalled\ncentury from today. Some item\nof little consequence at this mo-\nment will be remembered when\nall of our epitaphs have been\nworn away by winds and rains.\n\n\nThings which are prominent\nnow will have vanished. Days\nwhich are SO important now will\nhave been forgotten. Events\nwhich we hold near and dear will\nbe less than the wisp of smoke\nwhich rises from a faraway CHM\nney.\n\n\nWhile browsing through his\ntorical summary in our bookcase,\nturned to several pages con-\ntanning notes on 1864. There we're\nrecorded events of three hundred\nyears past which we're startling.\n\n\nOur country which is such a\nworld power today was mere\nterritory being settled by people\nfrom France, England. Holland\nand Spain.\n\n\nNew France and New Neither\nlands had been duly organized.\nNew Netherlands stretched from\nConnecticut to the Delaware Ri\nvers. 1t included parts of Maine\noutward to Cape Cod.\n\n\nNew France was vast expanse\nof land including part Of Canada\nand most of the Central and some\nareas of the South.\n\n\nBefore 1864 ended the Dutch\nlost control of the New Neither\nlands and the English won con-\ntroll. England renamed the area\nNew York honoring the King\nJames brother, the Duke ofYork.\n\n\nJust for the record Fort Orange\nwhich held the area guards and\nsoldiers of the Dutch colony was\nrenamed Albany as the English\nmade haste to erase the Dutch\ntitles.\n\n\nThe city of New Amsterdam\nbecame New York and the start\nof a great urban center began.\n\n\nToday New York is probably\nthe greatest metropolitan area\nin the United States loops. my Los\nAngeles and San Francisco\nfriends are dissenting).\n\n\nAll roads lead to 1t. All routes\nof transportation can originate\nor terminate there. Even though\nHollywood is the mecca for would\nbe film actors and actresses.\n\n\nNew York has a monopoly on\nlegitimate theaters and opera and\nbooks and novels and jazz bands\nand ballet and skyscrapers and\n. 0\n\n\nNew York is a wonderful town.\nAS the Worlds Fair fever grows\n= New York will again become\nthe main attraction not only for\nthe 8 millions who live there\nbut for 80 millions more who\nwill visit the fair.\n\n\nWhen the historical Summar-\nles of 1854 are studied l wonder\nwhat will New York be called7\nwonder what will be written\non a page or town about the great\ncity, Will todays newscast have\nthe item7 Will the gigantic fair\nbecome lost in the shuttle of the\npages Of timer\n\n\nAre the time capsules and his\ntory keeping vaults worth all Of\nour efforts7 Will the men of\nthree centuries in the future be\nable to decipher our language7\n\n\nMORAL-You can be sure\nno one will care one hundred.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2055,
+                "y0": 277,
+                "x1": 2843,
+                "y1": 498
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nELoIsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2055,
+                "y0": 526,
+                "x1": 2565,
+                "y1": 637
+            },
+            "class": "headline",
+            "raw_text": "800 YEARS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1147,
+                "y0": 1660,
+                "x1": 1963,
+                "y1": 1864
+            },
+            "class": "article",
+            "raw_text": "NATIONAL RESENTATIVE\nAMALGAMATEO PUBLISHERS\n$40 MADISON AVE.\n\n\nNEW YORK \", NY.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 4618,
+                "y0": 3101,
+                "x1": 4804,
+                "y1": 3258
+            },
+            "class": "article",
+            "raw_text": "a.. TT\n\n\n- -\n1iD1Jf 10",
+            "legibility": "Questionable",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041001_0358",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                15,
+                11,
+                0
+            ],
+            "headline": "Views, pRevIews\nAMo REVIEWS\n\n\nEdward Banks\n\nWe NEED TO RECONSIDER",
+            "article": "vhe he he might\nhave had second chance time for second thought young\nCleveland participated\nidea\n\n\nWhile crowd med around huge of machinery\nprotest While others blocked budozer\nthe young clergyman fell the ground At the\nbudozer pulled the backward position The\nyoung instantly crushed into the earth. s.ss\n\n\nseries of fights broke and police had all of their force\nbudozer He had unable\nthe young minister who in the vehicles path.\n\n\nDo such this anyhng2 We in the United States\npride ourselves being products of civilization We\nshuddered when Buddhist monks themselves are.\n\n\nhonestly\nthe minority and majority in have failed\nmuch that unhnng and tragic such the\nwhich happened Tuesday in Cleveland, Ohio.\n\n\nother hand believe that police actions using vicious\ndogs fire equally perspective\nwith tines",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3467,
+                    "y0": 358,
+                    "x1": 4451,
+                    "y1": 805
+                },
+                {
+                    "x0": 3681,
+                    "y0": 729,
+                    "x1": 4208,
+                    "y1": 811
+                },
+                {
+                    "x0": 2934,
+                    "y0": 879,
+                    "x1": 4064,
+                    "y1": 1001
+                },
+                {
+                    "x0": 2934,
+                    "y0": 1029,
+                    "x1": 4608,
+                    "y1": 2465
+                }
+            ],
+            "bbox": [
+                2934,
+                358,
+                4608,
+                2465
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-10_pna_sn84021918_0041421695A_1964041001_0358.json"
+        },
+        {
+            "object_ids": [
+                17,
+                12,
+                3
+            ],
+            "headline": "Kudos5S 1To4cCurr And Caldwell",
+            "article": "Within less than a week tho names of top\nathletes from Arizona State University made\nnatiO,lGk headlines. Henry Carr, the fleet\nfooted runner made sports news by outdis-\ntanciHg his competition. He also re Gently made\nnews by marrying. Carr broke one Of his oa0n\nrecords and proved has stamina and ability by\nhis great performance with an injured leg.\n\n\nCaYH defeated AdOlbh Plummey as he broke\nthe aOofld's go yard dash re- cord for the third\ntime mi t1Oo SEARS. @A%\n\n\nIn the hoop and bail field, Joe Cad10eH, the\nhighest coreT OH any AyizOna State University\nbasketball team Il ,528 points in three years.,\nWOn a berth on the Olymbics squad.\n\n\nCaldwell could only Win honorable mention\non the An AMeYican Sc lie ctiOn but he dis\nplayed rare form and accurate shooting abil-\nity at Nezo YORK. last z6eeR. ~S ~\n\n\nAYiz3nQns sS7h1uM be 1lghDaHly proud Of ~\nthe exec client aath Re e s@agaOs carry the name\nof the state as they Win honOys on the track\nand basketball court.\n\n\nWe congratulate Henry Carr and Joe C0d-\nVeu as outstanding athletes Of this year and\nmany years to follow.",
+            "byline": "~ This newspaper is q member Of\nAsIz&1NEwspApfRs ASSOCIATION\n~ For Greater Public Service",
+            "bbox_list": [
+                {
+                    "x0": 365,
+                    "y0": 1677,
+                    "x1": 1067,
+                    "y1": 1840
+                },
+                {
+                    "x0": 267,
+                    "y0": 1944,
+                    "x1": 1923,
+                    "y1": 2101
+                },
+                {
+                    "x0": 215,
+                    "y0": 2140,
+                    "x1": 1946,
+                    "y1": 4380
+                }
+            ],
+            "bbox": [
+                215,
+                1677,
+                1946,
+                4380
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-10_pna_sn84021918_0041421695A_1964041001_0358.json"
+        },
+        {
+            "object_ids": [
+                9,
+                14,
+                10
+            ],
+            "headline": "Siqhts and Sounds\nELoIsE BANKS\n\n800 YEARS",
+            "article": "There is a popular song often\nheard which contains the words\nwhat will it matter a hundred\nyears from today\"\n\n\nHave you ever stopped and\nthought that some small incident\nmight be written and recalled\ncentury from today. Some item\nof little consequence at this mo-\nment will be remembered when\nall of our epitaphs have been\nworn away by winds and rains.\n\n\nThings which are prominent\nnow will have vanished. Days\nwhich are SO important now will\nhave been forgotten. Events\nwhich we hold near and dear will\nbe less than the wisp of smoke\nwhich rises from a faraway CHM\nney.\n\n\nWhile browsing through his\ntorical summary in our bookcase,\nturned to several pages con-\ntanning notes on 1864. There we're\nrecorded events of three hundred\nyears past which we're startling.\n\n\nOur country which is such a\nworld power today was mere\nterritory being settled by people\nfrom France, England. Holland\nand Spain.\n\n\nNew France and New Neither\nlands had been duly organized.\nNew Netherlands stretched from\nConnecticut to the Delaware Ri\nvers. 1t included parts of Maine\noutward to Cape Cod.\n\n\nNew France was vast expanse\nof land including part Of Canada\nand most of the Central and some\nareas of the South.\n\n\nBefore 1864 ended the Dutch\nlost control of the New Neither\nlands and the English won con-\ntroll. England renamed the area\nNew York honoring the King\nJames brother, the Duke ofYork.\n\n\nJust for the record Fort Orange\nwhich held the area guards and\nsoldiers of the Dutch colony was\nrenamed Albany as the English\nmade haste to erase the Dutch\ntitles.\n\n\nThe city of New Amsterdam\nbecame New York and the start\nof a great urban center began.\n\n\nToday New York is probably\nthe greatest metropolitan area\nin the United States loops. my Los\nAngeles and San Francisco\nfriends are dissenting).\n\n\nAll roads lead to 1t. All routes\nof transportation can originate\nor terminate there. Even though\nHollywood is the mecca for would\nbe film actors and actresses.\n\n\nNew York has a monopoly on\nlegitimate theaters and opera and\nbooks and novels and jazz bands\nand ballet and skyscrapers and\n. 0\n\n\nNew York is a wonderful town.\nAS the Worlds Fair fever grows\n= New York will again become\nthe main attraction not only for\nthe 8 millions who live there\nbut for 80 millions more who\nwill visit the fair.\n\n\nWhen the historical Summar-\nles of 1854 are studied l wonder\nwhat will New York be called7\nwonder what will be written\non a page or town about the great\ncity, Will todays newscast have\nthe item7 Will the gigantic fair\nbecome lost in the shuttle of the\npages Of timer\n\n\nAre the time capsules and his\ntory keeping vaults worth all Of\nour efforts7 Will the men of\nthree centuries in the future be\nable to decipher our language7\n\n\nMORAL-You can be sure\nno one will care one hundred.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2055,
+                    "y0": 277,
+                    "x1": 2843,
+                    "y1": 498
+                },
+                {
+                    "x0": 2055,
+                    "y0": 526,
+                    "x1": 2565,
+                    "y1": 637
+                },
+                {
+                    "x0": 2014,
+                    "y0": 676,
+                    "x1": 2849,
+                    "y1": 6191
+                }
+            ],
+            "bbox": [
+                2014,
+                277,
+                2849,
+                6191
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-04-10_pna_sn84021918_0041421695A_1964041001_0358.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "NATIONAL RESENTATIVE\nAMALGAMATEO PUBLISHERS\n$40 MADISON AVE.\n\n\nNEW YORK \", NY.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1147,
+                    "y0": 1660,
+                    "x1": 1963,
+                    "y1": 1864
+                }
+            ],
+            "bbox": [
+                1147,
+                1660,
+                1963,
+                1864
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-04-10_pna_sn84021918_0041421695A_1964041001_0358.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "a.. TT\n\n\n- -\n1iD1Jf 10",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4618,
+                    "y0": 3101,
+                    "x1": 4804,
+                    "y1": 3258
+                }
+            ],
+            "bbox": [
+                4618,
+                3101,
+                4804,
+                3258
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-04-10_pna_sn84021918_0041421695A_1964041001_0358.json"
+        }
+    ]
+}

@@ -1,0 +1,699 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-20",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7430,
+        "width": 4724,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-20",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032001/0335.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 4776,
+                "y0": 446,
+                "x1": 6083,
+                "y1": 5811
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 980,
+                "y0": 655,
+                "x1": 1805,
+                "y1": 2560
+            },
+            "class": "article",
+            "raw_text": "NASHVILLE, Tenn.-Hopes that\nWilma Rudolph (Ward) Eldridge\nmight represent the United States\nin the Olympic Games in Tokyo\nnext October we're just about\ncrushed last week when she an\nnounced that she is expecting a\nchild in June.\n\n\nThe wife of athlete Robert FL\nbridge of Clarksville, whom she\nmarried last July 20 after di-\nvorcing her first husband, VIII\nliam Ward, the triple gold\nmedal winning star Of the 1860\nOlympics in Rome, said she was\nnot completely ruling out par\nticipation in the Tokyo Games,\nbut doubts that she'll be able to\nget herself in shape in time.\nWON 8 MEDALS IN ROME\n\n\nU. S. Olympic officials and\nWilma's millions of fans had been\nhoping against hope that she'd\nbe able to participate in the\nToyko Games to give the Ameri-\ncan women's team the boost 1t\nso badly needs. Recognized as\n1.-THE worlds fastest woman\"\nMrs. Eldridge won three medals\nin the Rome Games, becoming the\nonly American besides Jesse\nOvens to accomplish the feat.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 992,
+                "y0": 435,
+                "x1": 1585,
+                "y1": 627
+            },
+            "class": "headline",
+            "raw_text": "Wilma Will Miss\nTokyo Comes",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3644,
+                "y0": 2316,
+                "x1": 4458,
+                "y1": 3309
+            },
+            "class": "article",
+            "raw_text": "now a series Is the. furthest\nthing from my mind\"\n\n\nwith television, as with\neverything else in life. you must\nknow what you want and where\nyou re going\" opines Cole,\nyou're either a 'TV star or\na guest performer consider\nmyself to be in the latter cate\ngory.\"\n\n\nCole varies his activities\ngreatly. He is one of the top\nnightclub attractions in the ma\ntion. He has been one Of the top\nselling recording artists for\nyears. He even stars in an &C.\ncasional motion picture.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2768,
+                "y0": 2159,
+                "x1": 4145,
+                "y1": 2293
+            },
+            "class": "headline",
+            "raw_text": "Nat Cole Show Opens Nor. 30",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 74,
+                "y0": 690,
+                "x1": 888,
+                "y1": 1353
+            },
+            "class": "article",
+            "raw_text": "Phoenix police we're investi-\neating another sniper attack in\nwhich a bullet was fired through\nthe window of a Southeast Phoe-\nnix home.\n\n\nMrs. Geneva Mosley, \"a, of\n3225 S. 10th ST., told police she\nheard the front window of her\nhome crack about 9:40 o'clock\nMonday night and discovered a\nbullet had been fired through 1t.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 74,
+                "y0": 470,
+                "x1": 784,
+                "y1": 662
+            },
+            "class": "headline",
+            "raw_text": "SOUTHSIDERS HOME\nhit BY BULLET",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2745,
+                "y0": 2327,
+                "x1": 3564,
+                "y1": 3332
+            },
+            "class": "article",
+            "raw_text": "\"a television series Is like\na favorite DESSERT\" says Nat\nKing Cole, scheduled to appear\n\n\nat the Phoenix Star Theatre.\nMarch 80 = April S, with his\nnewest variety show, Sights and\nSounds a. eff it's available\nevery week 1t soon loses its\nfascination and charm and you\nsoon search for new DESSERT\"\n\n\nThe popular entertainer has\nappeared on all Of television' s\ntop musical programs. He was\nalso the star Of his own net\nwork show. ga few years ago.\"\ncontinues Cole, 81 wanted a ser\nles of my own badly. But right",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 980,
+                "y0": 2815,
+                "x1": 1794,
+                "y1": 3007
+            },
+            "class": "article",
+            "raw_text": "The average taxpayer works\nIII days a year to meet Fed\neral, state and local taxes.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1003,
+                "y0": 2658,
+                "x1": 1753,
+                "y1": 2781
+            },
+            "class": "headline",
+            "raw_text": "WORKING FOR TAXES",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1735,
+                "y0": 3813,
+                "x1": 2537,
+                "y1": 4238
+            },
+            "class": "article",
+            "raw_text": "naturally costs less than electricity,\nwhile special summer gas air con-\nditioning rate means even bigger\nsavings. And, with gas air condition\ning energy consumption does not in\ncrease with the units age. Your\nair conditioning cost starts low -\nstays low.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1798,
+                "y0": 3726,
+                "x1": 2444,
+                "y1": 3808
+            },
+            "class": "headline",
+            "raw_text": "LOWER OPERATING COST.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1746,
+                "y0": 5456,
+                "x1": 2554,
+                "y1": 5788
+            },
+            "class": "article",
+            "raw_text": "ANU. There's no loss of efficiency\nwith gas air conditioning. Even after\nyears of operation, even during\nmost extreme weather, you always\nget the cooling cheating capacity you\npaid for",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1758,
+                "y0": 5346,
+                "x1": 2542,
+                "y1": 5439
+            },
+            "class": "headline",
+            "raw_text": "4. CONSTANT PEAK PERFORM",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1740,
+                "y0": 4974,
+                "x1": 2548,
+                "y1": 5184
+            },
+            "class": "article",
+            "raw_text": "moving parts to break down or wear\nout means big savings in mainte.\nnance, repair and replacement costs\nover the years.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1746,
+                "y0": 4875,
+                "x1": 2548,
+                "y1": 4969
+            },
+            "class": "headline",
+            "raw_text": "J. LOWER maintenance. No",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1752,
+                "y0": 6042,
+                "x1": 2560,
+                "y1": 6571
+            },
+            "class": "article",
+            "raw_text": "dition to an unmatched factory war;\nranty, gas air conditioning is backed\nby service policy available from\nArizona Public Service Company.\nTo learn how modern gas air condi.\ntioning can cool your home five ways\nbetter, call or visit\n\n\nArizona Public Service Cos",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1781,
+                "y0": 5949,
+                "x1": 2409,
+                "y1": 6032
+            },
+            "class": "headline",
+            "raw_text": "j. WARRANTY /SERVICE.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1729,
+                "y0": 3117,
+                "x1": 2554,
+                "y1": 3565
+            },
+            "class": "article",
+            "raw_text": "If you are buying. building, remodel\ning or converting from your present\nair conditioning system, be sure to\ninvestigate the many advantages OF\nmodern gas absorption air condition\ning. It's the practical way to year.\nround cooling and heating for your\nhome.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1735,
+                "y0": 4341,
+                "x1": 2542,
+                "y1": 4726
+            },
+            "class": "article",
+            "raw_text": "4. LONGER LIFE. Gas absorption\nair conditioning lasts a to S times\nlonger than other units because there\nare no moving parts; no compressor\nin the cooling /heating cycle.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1862,
+                "y0": 1991,
+                "x1": 2682,
+                "y1": 3065
+            },
+            "class": "article",
+            "raw_text": "The 1864 edition of VA Fact\nSheet ISL, Federal Benefits\nfor Veterans and Dependents\"\nis now on sale at the U. S.Govern-\nment Printing Office in Washing\nton, D. c.\n\n\nThis booklet lists all major\nbenefits available to u. S. vet\nGrams, explains eligibility re-\nquirements for veterans or their\ndependents and describes the ma\nture Of the benefits and where\napplication should be made.\n\n\nA single copy may be purchased\nfrom the printing office for IS\ncents. Organizations or indiW-\nduals desiring copies in quantity\nmay obtain discount rates.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1874,
+                "y0": 1787,
+                "x1": 2479,
+                "y1": 1968
+            },
+            "class": "headline",
+            "raw_text": "VA BOOKLET\n\n\nAVAILABLE NOW",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964032001_0335",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "Wilma Will Miss\nTokyo Comes",
+            "article": "NASHVILLE, Tenn.-Hopes that\nWilma Rudolph (Ward) Eldridge\nmight represent the United States\nin the Olympic Games in Tokyo\nnext October we're just about\ncrushed last week when she an\nnounced that she is expecting a\nchild in June.\n\n\nThe wife of athlete Robert FL\nbridge of Clarksville, whom she\nmarried last July 20 after di-\nvorcing her first husband, VIII\nliam Ward, the triple gold\nmedal winning star Of the 1860\nOlympics in Rome, said she was\nnot completely ruling out par\nticipation in the Tokyo Games,\nbut doubts that she'll be able to\nget herself in shape in time.\nWON 8 MEDALS IN ROME\n\n\nU. S. Olympic officials and\nWilma's millions of fans had been\nhoping against hope that she'd\nbe able to participate in the\nToyko Games to give the Ameri-\ncan women's team the boost 1t\nso badly needs. Recognized as\n1.-THE worlds fastest woman\"\nMrs. Eldridge won three medals\nin the Rome Games, becoming the\nonly American besides Jesse\nOvens to accomplish the feat.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 992,
+                    "y0": 435,
+                    "x1": 1585,
+                    "y1": 627
+                },
+                {
+                    "x0": 980,
+                    "y0": 655,
+                    "x1": 1805,
+                    "y1": 2560
+                }
+            ],
+            "bbox": [
+                980,
+                435,
+                1805,
+                2560
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "Nat Cole Show Opens Nor. 30",
+            "article": "now a series Is the. furthest\nthing from my mind\"\n\n\nwith television, as with\neverything else in life. you must\nknow what you want and where\nyou re going\" opines Cole,\nyou're either a 'TV star or\na guest performer consider\nmyself to be in the latter cate\ngory.\"\n\n\nCole varies his activities\ngreatly. He is one of the top\nnightclub attractions in the ma\ntion. He has been one Of the top\nselling recording artists for\nyears. He even stars in an &C.\ncasional motion picture.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2768,
+                    "y0": 2159,
+                    "x1": 4145,
+                    "y1": 2293
+                },
+                {
+                    "x0": 3644,
+                    "y0": 2316,
+                    "x1": 4458,
+                    "y1": 3309
+                }
+            ],
+            "bbox": [
+                2768,
+                2159,
+                4458,
+                3309
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "SOUTHSIDERS HOME\nhit BY BULLET",
+            "article": "Phoenix police we're investi-\neating another sniper attack in\nwhich a bullet was fired through\nthe window of a Southeast Phoe-\nnix home.\n\n\nMrs. Geneva Mosley, \"a, of\n3225 S. 10th ST., told police she\nheard the front window of her\nhome crack about 9:40 o'clock\nMonday night and discovered a\nbullet had been fired through 1t.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 74,
+                    "y0": 470,
+                    "x1": 784,
+                    "y1": 662
+                },
+                {
+                    "x0": 74,
+                    "y0": 690,
+                    "x1": 888,
+                    "y1": 1353
+                }
+            ],
+            "bbox": [
+                74,
+                470,
+                888,
+                1353
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "\"a television series Is like\na favorite DESSERT\" says Nat\nKing Cole, scheduled to appear\n\n\nat the Phoenix Star Theatre.\nMarch 80 = April S, with his\nnewest variety show, Sights and\nSounds a. eff it's available\nevery week 1t soon loses its\nfascination and charm and you\nsoon search for new DESSERT\"\n\n\nThe popular entertainer has\nappeared on all Of television' s\ntop musical programs. He was\nalso the star Of his own net\nwork show. ga few years ago.\"\ncontinues Cole, 81 wanted a ser\nles of my own badly. But right",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2745,
+                    "y0": 2327,
+                    "x1": 3564,
+                    "y1": 3332
+                }
+            ],
+            "bbox": [
+                2745,
+                2327,
+                3564,
+                3332
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                17,
+                15
+            ],
+            "headline": "WORKING FOR TAXES",
+            "article": "The average taxpayer works\nIII days a year to meet Fed\neral, state and local taxes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1003,
+                    "y0": 2658,
+                    "x1": 1753,
+                    "y1": 2781
+                },
+                {
+                    "x0": 980,
+                    "y0": 2815,
+                    "x1": 1794,
+                    "y1": 3007
+                }
+            ],
+            "bbox": [
+                980,
+                2658,
+                1794,
+                3007
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                24,
+                16
+            ],
+            "headline": "LOWER OPERATING COST.",
+            "article": "naturally costs less than electricity,\nwhile special summer gas air con-\nditioning rate means even bigger\nsavings. And, with gas air condition\ning energy consumption does not in\ncrease with the units age. Your\nair conditioning cost starts low -\nstays low.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1798,
+                    "y0": 3726,
+                    "x1": 2444,
+                    "y1": 3808
+                },
+                {
+                    "x0": 1735,
+                    "y0": 3813,
+                    "x1": 2537,
+                    "y1": 4238
+                }
+            ],
+            "bbox": [
+                1735,
+                3726,
+                2537,
+                4238
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                21,
+                18
+            ],
+            "headline": "4. CONSTANT PEAK PERFORM",
+            "article": "ANU. There's no loss of efficiency\nwith gas air conditioning. Even after\nyears of operation, even during\nmost extreme weather, you always\nget the cooling cheating capacity you\npaid for",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1758,
+                    "y0": 5346,
+                    "x1": 2542,
+                    "y1": 5439
+                },
+                {
+                    "x0": 1746,
+                    "y0": 5456,
+                    "x1": 2554,
+                    "y1": 5788
+                }
+            ],
+            "bbox": [
+                1746,
+                5346,
+                2554,
+                5788
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                28,
+                20
+            ],
+            "headline": "J. LOWER maintenance. No",
+            "article": "moving parts to break down or wear\nout means big savings in mainte.\nnance, repair and replacement costs\nover the years.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1746,
+                    "y0": 4875,
+                    "x1": 2548,
+                    "y1": 4969
+                },
+                {
+                    "x0": 1740,
+                    "y0": 4974,
+                    "x1": 2548,
+                    "y1": 5184
+                }
+            ],
+            "bbox": [
+                1740,
+                4875,
+                2548,
+                5184
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                30,
+                22
+            ],
+            "headline": "j. WARRANTY /SERVICE.",
+            "article": "dition to an unmatched factory war;\nranty, gas air conditioning is backed\nby service policy available from\nArizona Public Service Company.\nTo learn how modern gas air condi.\ntioning can cool your home five ways\nbetter, call or visit\n\n\nArizona Public Service Cos",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1781,
+                    "y0": 5949,
+                    "x1": 2409,
+                    "y1": 6032
+                },
+                {
+                    "x0": 1752,
+                    "y0": 6042,
+                    "x1": 2560,
+                    "y1": 6571
+                }
+            ],
+            "bbox": [
+                1752,
+                5949,
+                2560,
+                6571
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "If you are buying. building, remodel\ning or converting from your present\nair conditioning system, be sure to\ninvestigate the many advantages OF\nmodern gas absorption air condition\ning. It's the practical way to year.\nround cooling and heating for your\nhome.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1729,
+                    "y0": 3117,
+                    "x1": 2554,
+                    "y1": 3565
+                }
+            ],
+            "bbox": [
+                1729,
+                3117,
+                2554,
+                3565
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "4. LONGER LIFE. Gas absorption\nair conditioning lasts a to S times\nlonger than other units because there\nare no moving parts; no compressor\nin the cooling /heating cycle.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1735,
+                    "y0": 4341,
+                    "x1": 2542,
+                    "y1": 4726
+                }
+            ],
+            "bbox": [
+                1735,
+                4341,
+                2542,
+                4726
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        },
+        {
+            "object_ids": [
+                8,
+                26
+            ],
+            "headline": "VA BOOKLET\n\n\nAVAILABLE NOW",
+            "article": "The 1864 edition of VA Fact\nSheet ISL, Federal Benefits\nfor Veterans and Dependents\"\nis now on sale at the U. S.Govern-\nment Printing Office in Washing\nton, D. c.\n\n\nThis booklet lists all major\nbenefits available to u. S. vet\nGrams, explains eligibility re-\nquirements for veterans or their\ndependents and describes the ma\nture Of the benefits and where\napplication should be made.\n\n\nA single copy may be purchased\nfrom the printing office for IS\ncents. Organizations or indiW-\nduals desiring copies in quantity\nmay obtain discount rates.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1874,
+                    "y0": 1787,
+                    "x1": 2479,
+                    "y1": 1968
+                },
+                {
+                    "x0": 1862,
+                    "y0": 1991,
+                    "x1": 2682,
+                    "y1": 3065
+                }
+            ],
+            "bbox": [
+                1862,
+                1787,
+                2682,
+                3065
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-03-20_pna_sn84021918_0041421695A_1964032001_0335.json"
+        }
+    ]
+}

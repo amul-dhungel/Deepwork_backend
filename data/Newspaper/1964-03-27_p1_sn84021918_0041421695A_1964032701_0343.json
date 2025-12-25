@@ -1,0 +1,155 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032701/0343.jp2",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7424,
+        "width": 4869
+    },
+    "bboxes": [
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1976,
+                "y0": 6652,
+                "x1": 2777,
+                "y1": 6955
+            },
+            "class": "article",
+            "raw_text": "Americans are not wholly ded-\nicated to home-cooked meals.\nOne-fourth of funds spent for\nfood in this country is spent in\nrestaurants.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2144,
+                "y0": 6501,
+                "x1": 2563,
+                "y1": 6624
+            },
+            "class": "headline",
+            "raw_text": "Eating Out",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1912,
+                "y0": 835,
+                "x1": 2742,
+                "y1": 6392
+            },
+            "class": "article",
+            "raw_text": "legal OulPOSlS W give Oll-ulS\nspot assistance to those arrested\nin civil rights cases will soon\nbe established in Atlanta, Geor-\ngia.\n\n\nThe project has been made\npossible by the NAACP Legal De-\ntense and Educational Fund with\nthe financial aid of the United\nPresbyterian Commission on Re-\nligion and Race.\n\n\nThe Rev. Gayraud S. Wilmore,\nr., the commission executive\ndirector, presented a check for\n$4,000 to Jack Greenberg, di-\nrector-counsel of the Legal De-\ntense and Educational Fund.\n\n\n\"Our commitment to this new\nprogram is but another tangible\nexpression that our church be-\nlieves that the Gospel demands\nequal justice before the law for\nALL\" Mr.. Wilmore said. ITO\nbelieve less would be to be un-\nfaithful to Him whom we con-\nTESS to be Lord of ALL\"\n\n\nMr.. Greenberg said the illegal\noutpost program will make it\npossible to retain a full-time\nattorney in Atlanta, who will be\nable to move into even other\nareas of the South and represent\ndefendants in civil rights cases.\n\n\nThe initial phase of the pro-\ngram also calls for the acquisi-\nton of Federal law library\nand the rental of office space.\n\n\neve do not know of single\nNegro lawyer in the South who\npossesses a complete library on\nFederal law\" Mr.. Greenberg\nnoted. \"Once these books have\nbeen purchased, we intend to keep\nthe library up-to-date.\"\n\n\nThe urgency of the project\ngrew out of recognition that\ncivil rights law has now become\nan intricate specially and that\nlegal activity in the field has\nmushroomed in the last decade,\nGreenberg said.\n\n\nUntil now, the Legal Defense\nand Educational Fund has been\naided by some 100\" Cooperating\nlawyers in the defense of more\nthan 10000 persons arrested in\ndemonstrations against segrega-\nton and discrimination in 1868\nalone, he said.\n\n\nHowever, he added, it has be-\ncome apparent that there is a\nneed for on the scene attorneys\nto assist those involved in direct\naction movements and in the\noverall racial struggle as it\ninvolves more and more local\ncommunities.\n\n\n\"Almost no white lawyers in\nthe South can or will take civil\nrights cases.\" he said. \"while\nwe are fortunate that sub\nstantial number of very highly\nqualified Negro lawyers have\nconsistently worked with us over\nthe years, there is nevertheless\na marked shortage willing and\nable to handle civil rights cases\nin the South\n\n\nEarlier, the nations 81 mil\nlion United Presbyterians we're\nasked to contribute to special\nfund to aid the victims of the\nstruggle for racial Justice.\n\n\nA minimum of $500, 900 is be-\ning sought through special Of\nfering in the denomination S 5000\nchurches. A portion of the funds\nwill be used to provide bail\nmoney for those arrested in civil\nrights demonstrations and to\nmeet the cost of legal aid for\nsuch persons.\n\n\nPlans are to establish other\nillegal outposts'' in other crucial\nareas of the South as funds and\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1906,
+                "y0": 487,
+                "x1": 2528,
+                "y1": 667
+            },
+            "class": "headline",
+            "raw_text": "LEGAL OUTPOST\n\n\nPROJECT STARTED",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-03-27"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                21,
+                10
+            ],
+            "headline": "Eating Out",
+            "article": "Americans are not wholly ded-\nicated to home-cooked meals.\nOne-fourth of funds spent for\nfood in this country is spent in\nrestaurants.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2144,
+                    "y0": 6501,
+                    "x1": 2563,
+                    "y1": 6624
+                },
+                {
+                    "x0": 1976,
+                    "y0": 6652,
+                    "x1": 2777,
+                    "y1": 6955
+                }
+            ],
+            "bbox": [
+                1976,
+                6501,
+                2777,
+                6955
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-03-27_p1_sn84021918_0041421695A_1964032701_0343.json"
+        },
+        {
+            "object_ids": [
+                9,
+                12
+            ],
+            "headline": "LEGAL OUTPOST\n\n\nPROJECT STARTED",
+            "article": "legal OulPOSlS W give Oll-ulS\nspot assistance to those arrested\nin civil rights cases will soon\nbe established in Atlanta, Geor-\ngia.\n\n\nThe project has been made\npossible by the NAACP Legal De-\ntense and Educational Fund with\nthe financial aid of the United\nPresbyterian Commission on Re-\nligion and Race.\n\n\nThe Rev. Gayraud S. Wilmore,\nr., the commission executive\ndirector, presented a check for\n$4,000 to Jack Greenberg, di-\nrector-counsel of the Legal De-\ntense and Educational Fund.\n\n\n\"Our commitment to this new\nprogram is but another tangible\nexpression that our church be-\nlieves that the Gospel demands\nequal justice before the law for\nALL\" Mr.. Wilmore said. ITO\nbelieve less would be to be un-\nfaithful to Him whom we con-\nTESS to be Lord of ALL\"\n\n\nMr.. Greenberg said the illegal\noutpost program will make it\npossible to retain a full-time\nattorney in Atlanta, who will be\nable to move into even other\nareas of the South and represent\ndefendants in civil rights cases.\n\n\nThe initial phase of the pro-\ngram also calls for the acquisi-\nton of Federal law library\nand the rental of office space.\n\n\neve do not know of single\nNegro lawyer in the South who\npossesses a complete library on\nFederal law\" Mr.. Greenberg\nnoted. \"Once these books have\nbeen purchased, we intend to keep\nthe library up-to-date.\"\n\n\nThe urgency of the project\ngrew out of recognition that\ncivil rights law has now become\nan intricate specially and that\nlegal activity in the field has\nmushroomed in the last decade,\nGreenberg said.\n\n\nUntil now, the Legal Defense\nand Educational Fund has been\naided by some 100\" Cooperating\nlawyers in the defense of more\nthan 10000 persons arrested in\ndemonstrations against segrega-\nton and discrimination in 1868\nalone, he said.\n\n\nHowever, he added, it has be-\ncome apparent that there is a\nneed for on the scene attorneys\nto assist those involved in direct\naction movements and in the\noverall racial struggle as it\ninvolves more and more local\ncommunities.\n\n\n\"Almost no white lawyers in\nthe South can or will take civil\nrights cases.\" he said. \"while\nwe are fortunate that sub\nstantial number of very highly\nqualified Negro lawyers have\nconsistently worked with us over\nthe years, there is nevertheless\na marked shortage willing and\nable to handle civil rights cases\nin the South\n\n\nEarlier, the nations 81 mil\nlion United Presbyterians we're\nasked to contribute to special\nfund to aid the victims of the\nstruggle for racial Justice.\n\n\nA minimum of $500, 900 is be-\ning sought through special Of\nfering in the denomination S 5000\nchurches. A portion of the funds\nwill be used to provide bail\nmoney for those arrested in civil\nrights demonstrations and to\nmeet the cost of legal aid for\nsuch persons.\n\n\nPlans are to establish other\nillegal outposts'' in other crucial\nareas of the South as funds and\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1906,
+                    "y0": 487,
+                    "x1": 2528,
+                    "y1": 667
+                },
+                {
+                    "x0": 1912,
+                    "y0": 835,
+                    "x1": 2742,
+                    "y1": 6392
+                }
+            ],
+            "bbox": [
+                1906,
+                487,
+                2742,
+                6392
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-03-27_p1_sn84021918_0041421695A_1964032701_0343.json"
+        }
+    ]
+}

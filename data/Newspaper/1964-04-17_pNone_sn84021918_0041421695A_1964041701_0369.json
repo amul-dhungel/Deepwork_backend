@@ -1,0 +1,314 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7411,
+        "width": 4906,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041701/0369.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2088,
+                "y0": 4568,
+                "x1": 2894,
+                "y1": 5495
+            },
+            "class": "article",
+            "raw_text": "The new post office building\nin Phoenix will be located on the\nsoutheast corner of 18th Street\nand Buckeye Road. Preliminary\nplans call for l9l 400 SO. tt.\nOf floor space, with an area Of\n3S8.325 SO. #. for parking and\nmovement Of postal vehicles.\n\n\nPostal space in the Parcel Post\nAnnex on North 18th Avenue and\nSoutheast Station on East Mo-\nhave Street will be made avail\nable for other purposes. Space\nwill be retained in the present\nPost Office Building, North Cen\ntrail Avenue and Fillmore.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2076,
+                "y0": 4458,
+                "x1": 2743,
+                "y1": 4551
+            },
+            "class": "headline",
+            "raw_text": "NEW POST OFFICE",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2030,
+                "y0": 1806,
+                "x1": 2888,
+                "y1": 4441
+            },
+            "class": "article",
+            "raw_text": "April IL Regular Temple\nmeeting.\n\n\nApril l8 Temple will hold\nadditions for Talent Show, 6-8p.n.\nThe show will be on May 2.\n\n\nApril 1919 Grand District\ndeputy James McElroy makes his\nannual inspection tour to Bert Will\nliams Lodge at Douglas and the\nPilgrim Rest Lodge at Tucson.\n\n\nHe will be accompanied by\nRosie Truman. travelling deputy,\ngr., gr. dist. deputy Maple Pratt,\nMrs. McElroy and Arthur Black\nshear.\n\n\nApril % Past Exalted Rulers\nCouncil and Past Daughter Rulers\nCouncil will meet at Lodge.\n\n\nApril 1876 = Pacific States\nAssn. Presidents inspection tour\nfor PISA convention.\n\n\nApril 26 Elks of the Year\nbanquet at 6 pm. Donation 81.\n\n\nApril 20 = Regular Lodge meet\ning.\n\n\nMay = Regular temple meeting.\n\n\nMay 8 = Local oratorical contest\nat Southminster Presbyterian\nChurch, 8 pm.\n\n\nMay IL = State Oratorical Con-\ntest.\n\n\nDispensation ends June 80. Any\nman or woman who wishes to join\nshould contact any, members Of\nthe lodge or temple.\n\n\nMrs. Esther McElroy and Joe\nLucero meet with their youth\ndrill team each Saturday at 4\npm. on the lodges parking lot.\n\n\nDaughters on the sick list In\ncludes Senolia Johns on. Marie Glib\nson, Lois P. Mitchell. Emma\nhurry, Gertrude Albert, Eliza\nbeth Turner, Beatrice Jackson, and\nHelen Walker.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2076,
+                "y0": 1586,
+                "x1": 2708,
+                "y1": 1795
+            },
+            "class": "headline",
+            "raw_text": "ELKs CORNER\n{. McCIum nv",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 258,
+                "y0": 2009,
+                "x1": 1104,
+                "y1": 2542
+            },
+            "class": "article",
+            "raw_text": "SAN FRANCISCO = The human\nrelations committee failed in an\nattempt to negotiate truce to end\npicketing at automobile agencies.\n\n\nPicket leaders demand agencies\nhire from 1870 percent minority\ngroup workers.\n\n\nAgencies say they refuse tohire\nunsNlled persons.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 270,
+                "y0": 1812,
+                "x1": 960,
+                "y1": 1992
+            },
+            "class": "headline",
+            "raw_text": "Auto Agencies\n\n\nTargets Of Negroes",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1150,
+                "y0": 2038,
+                "x1": 1990,
+                "y1": 2519
+            },
+            "class": "article",
+            "raw_text": "Young Missionaries of the House\nof Prayer Church of God. l4O2 S.\n18th Ave-, are sponsoring re-\nvival. Services start nightly at\n8 pm.\n\n\nElder George Johnson is the\npastor. Mrs. Ruby Stuart Is in\ncharge of the revival.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1179,
+                "y0": 1835,
+                "x1": 1637,
+                "y1": 2015
+            },
+            "class": "headline",
+            "raw_text": "Missionaries\n\n\nHold Revival",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2968,
+                "y0": 2507,
+                "x1": 4642,
+                "y1": 2930
+            },
+            "class": "article",
+            "raw_text": "The birthday Harper Mr. and Mrs. Luther Harper\nM celebrated Sunday Shown Verdell\nPhillips, Mark, 2. honoree and Ronnie, Jr\n\n\nSecond photo includes Marks partDavd\nPhillips Rogers Debora nsley KayGton Ada cCon\nnell Cox Jones' DeAda Shivers Richard Works. and\nNina Groves.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041701_0369",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "NEW POST OFFICE",
+            "article": "The new post office building\nin Phoenix will be located on the\nsoutheast corner of 18th Street\nand Buckeye Road. Preliminary\nplans call for l9l 400 SO. tt.\nOf floor space, with an area Of\n3S8.325 SO. #. for parking and\nmovement Of postal vehicles.\n\n\nPostal space in the Parcel Post\nAnnex on North 18th Avenue and\nSoutheast Station on East Mo-\nhave Street will be made avail\nable for other purposes. Space\nwill be retained in the present\nPost Office Building, North Cen\ntrail Avenue and Fillmore.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2076,
+                    "y0": 4458,
+                    "x1": 2743,
+                    "y1": 4551
+                },
+                {
+                    "x0": 2088,
+                    "y0": 4568,
+                    "x1": 2894,
+                    "y1": 5495
+                }
+            ],
+            "bbox": [
+                2076,
+                4458,
+                2894,
+                5495
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-17_pna_sn84021918_0041421695A_1964041701_0369.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "ELKs CORNER\n{. McCIum nv",
+            "article": "April IL Regular Temple\nmeeting.\n\n\nApril l8 Temple will hold\nadditions for Talent Show, 6-8p.n.\nThe show will be on May 2.\n\n\nApril 1919 Grand District\ndeputy James McElroy makes his\nannual inspection tour to Bert Will\nliams Lodge at Douglas and the\nPilgrim Rest Lodge at Tucson.\n\n\nHe will be accompanied by\nRosie Truman. travelling deputy,\ngr., gr. dist. deputy Maple Pratt,\nMrs. McElroy and Arthur Black\nshear.\n\n\nApril % Past Exalted Rulers\nCouncil and Past Daughter Rulers\nCouncil will meet at Lodge.\n\n\nApril 1876 = Pacific States\nAssn. Presidents inspection tour\nfor PISA convention.\n\n\nApril 26 Elks of the Year\nbanquet at 6 pm. Donation 81.\n\n\nApril 20 = Regular Lodge meet\ning.\n\n\nMay = Regular temple meeting.\n\n\nMay 8 = Local oratorical contest\nat Southminster Presbyterian\nChurch, 8 pm.\n\n\nMay IL = State Oratorical Con-\ntest.\n\n\nDispensation ends June 80. Any\nman or woman who wishes to join\nshould contact any, members Of\nthe lodge or temple.\n\n\nMrs. Esther McElroy and Joe\nLucero meet with their youth\ndrill team each Saturday at 4\npm. on the lodges parking lot.\n\n\nDaughters on the sick list In\ncludes Senolia Johns on. Marie Glib\nson, Lois P. Mitchell. Emma\nhurry, Gertrude Albert, Eliza\nbeth Turner, Beatrice Jackson, and\nHelen Walker.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2076,
+                    "y0": 1586,
+                    "x1": 2708,
+                    "y1": 1795
+                },
+                {
+                    "x0": 2030,
+                    "y0": 1806,
+                    "x1": 2888,
+                    "y1": 4441
+                }
+            ],
+            "bbox": [
+                2030,
+                1586,
+                2888,
+                4441
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-17_pna_sn84021918_0041421695A_1964041701_0369.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "Auto Agencies\n\n\nTargets Of Negroes",
+            "article": "SAN FRANCISCO = The human\nrelations committee failed in an\nattempt to negotiate truce to end\npicketing at automobile agencies.\n\n\nPicket leaders demand agencies\nhire from 1870 percent minority\ngroup workers.\n\n\nAgencies say they refuse tohire\nunsNlled persons.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 270,
+                    "y0": 1812,
+                    "x1": 960,
+                    "y1": 1992
+                },
+                {
+                    "x0": 258,
+                    "y0": 2009,
+                    "x1": 1104,
+                    "y1": 2542
+                }
+            ],
+            "bbox": [
+                258,
+                1812,
+                1104,
+                2542
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-17_pna_sn84021918_0041421695A_1964041701_0369.json"
+        },
+        {
+            "object_ids": [
+                7,
+                6
+            ],
+            "headline": "Missionaries\n\n\nHold Revival",
+            "article": "Young Missionaries of the House\nof Prayer Church of God. l4O2 S.\n18th Ave-, are sponsoring re-\nvival. Services start nightly at\n8 pm.\n\n\nElder George Johnson is the\npastor. Mrs. Ruby Stuart Is in\ncharge of the revival.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1179,
+                    "y0": 1835,
+                    "x1": 1637,
+                    "y1": 2015
+                },
+                {
+                    "x0": 1150,
+                    "y0": 2038,
+                    "x1": 1990,
+                    "y1": 2519
+                }
+            ],
+            "bbox": [
+                1150,
+                1835,
+                1990,
+                2519
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-17_pna_sn84021918_0041421695A_1964041701_0369.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "The birthday Harper Mr. and Mrs. Luther Harper\nM celebrated Sunday Shown Verdell\nPhillips, Mark, 2. honoree and Ronnie, Jr\n\n\nSecond photo includes Marks partDavd\nPhillips Rogers Debora nsley KayGton Ada cCon\nnell Cox Jones' DeAda Shivers Richard Works. and\nNina Groves.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2968,
+                    "y0": 2507,
+                    "x1": 4642,
+                    "y1": 2930
+                }
+            ],
+            "bbox": [
+                2968,
+                2507,
+                4642,
+                2930
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-04-17_pna_sn84021918_0041421695A_1964041701_0369.json"
+        }
+    ]
+}

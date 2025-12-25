@@ -1,0 +1,648 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082801/0526.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7411,
+        "width": 4901
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3046,
+                "y0": 5372,
+                "x1": 3864,
+                "y1": 6491
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Roy Wilkins,\nexecutive secretary Of the\nNational ASS ociation for the Ad-\nvancement of Colored People, has\nannounced the assignment Of Miss\nAlthea T. L. Simmons as coordin-\nator of the associations nation\nwide voter registration drive.\n\n\nMiss Simmons, an NAACP field\nsecretary for the southern and\nsouthwest areas of the West c cast\nregion, was transferred to the\nassociation national office here\nto devote full time to the regis\ntration drive until the election in\nNovember.\n\n\nA longtime NAACP member\nand volunteer worker, Miss Sim\nmons was executive secretary Of",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3938,
+                "y0": 5361,
+                "x1": 4744,
+                "y1": 6479
+            },
+            "class": "article",
+            "raw_text": "the Texas State Conference Of\nNAACP branches, lo5o-60, also\nserved as chairman Of the exc\ncutive committee Of the Dallas\nNAACP Branch. She joined the\nnational staff in 1861 when she\nwas appointed field secretary\nworking out the NAACP sub\nregional office in Los Angeles.\n\n\nA former college teacher and\nnewspaperwoman, Miss Simmons\nwas graduated from Southern\nUniversity in Baton Rouge. La,\nand holds an MS. degree from\nthe University ofIllinois, an LIB\nfrom the Howard University Scool\nof Law, and diploma in por-\ntraiture from the New York In\nstitute of Photography.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3232,
+                "y0": 5251,
+                "x1": 4553,
+                "y1": 5339
+            },
+            "class": "headline",
+            "raw_text": "Miss Simmons is Promoted By NAACP",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3052,
+                "y0": 1163,
+                "x1": 4732,
+                "y1": 2357
+            },
+            "class": "article",
+            "raw_text": "For the past four years this has scholar\nships entering freshmen in city high schools The\nencouraging because majority of the failed\nduring their first year. Many poor\npoor grades.\n\n\nThese students chosen from their respective eighth grade\nthey according\nscholastic and activity achievements.\n\n\nAS the high school year begins that those students\nwho receive financial assistance from the Arizona Tribune\nany other organization will earnestly stay school\nand do their BEST\n\n\nIn discussions with other of groups who have\ncontributed funds for deserving scholars high school college\nthere that students scholarships\nand take their school responsibilities lightly.\n\n\nFar few Negroes receive scholarships and the individuals\nwho receive them should their BEST Those students who do\nwin scholarships should likewise work hard their\nmerit and learn much they",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3585,
+                "y0": 503,
+                "x1": 4564,
+                "y1": 950
+            },
+            "class": "headline",
+            "raw_text": "Views, pRFvIFwS\nANO REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3805,
+                "y0": 868,
+                "x1": 4321,
+                "y1": 950
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3075,
+                "y0": 1019,
+                "x1": 3939,
+                "y1": 1130
+            },
+            "class": "headline",
+            "raw_text": "Scholarships Wasted",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2178,
+                "y0": 6750,
+                "x1": 2995,
+                "y1": 7249
+            },
+            "class": "article",
+            "raw_text": "The Worlds Fair Corporation\nitself built only seven of the $50\nFair pavilions: the us. Post Of\nfee, the administration building,\nthe press building, the Worlds\nFair Pavilion and the security,\nentrance and maintenance build.\nings. All other structures at the\nFair were built by exhibitors.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2247,
+                "y0": 6652,
+                "x1": 2920,
+                "y1": 6728
+            },
+            "class": "headline",
+            "raw_text": "BUILT BY EXHIBITORS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3932,
+                "y0": 6745,
+                "x1": 4744,
+                "y1": 7226
+            },
+            "class": "article",
+            "raw_text": "Dance proceeds will be given\nthe Maryvale Lions Sight\nConservation and Community\nBetterment Fund.\n\n\nLive entertainment at the dance\nwill include three different bands\nand Hollywood recording stars,\namong them the 5lendelis.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3400,
+                "y0": 6507,
+                "x1": 4408,
+                "y1": 6728
+            },
+            "class": "headline",
+            "raw_text": "KRUx Sponsors Charity\nBack To School Dance",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3058,
+                "y0": 6768,
+                "x1": 3870,
+                "y1": 7191
+            },
+            "class": "article",
+            "raw_text": "Valley teen-agers are invited\nto a charity \"Back to School\nBlast\" spoons ored by KRUX radio\nstation, Sum-, Sept. E, S-l2 pm.\nin the Exhibition Building at the\nArizona State Playground, 10Th\nAvenue and Mcdowell.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3070,
+                "y0": 2669,
+                "x1": 4692,
+                "y1": 5339
+            },
+            "class": "article",
+            "raw_text": "The efforts of the Mississippi Freedom\nParty at the Democratic National COnUen-\ntiOn in Atlantic City is a major step in the\nnew look in politics. The emphasis ON\ncomplete citizenship in the United States\nmust be brought to its full measure at the\nballot box and within the polling booths.\n\n\nNegroes in many states are derehct\nin their CHIC duties. They often ignore 5f\nthe political world which surrounds them. +\nUnfortunately Negro UoteY registrations\nhaze not only Jagged in the South, but eia\nNegroes haze failed to register and cote = 8\nin many states where no barriers haze d1ia\nbeen placed. ~\n\n\nGreat interest is focused on the national j,\npolitical scene at the expense Of local con-.\ntests. This year in our oMm state an 0tn'oS-\nbheTe Of ina ctivity is noticed as the last\nfen weeks approach before the primary\nelections.\n\n\nNo person should be content to we INT\nlegts lattve district or county district and\nbe unawave of the candidates or issues IN\nUOlUed\n\n\nThere should be more action on the local\nleuel in politics and all persons regardless\nof race, creed, color or national origin\nshould pledge themselves to making better\ng0Ue 17anaent a reality.\n\n\nMiss Simmons is Promoted By NAAcP",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3544,
+                "y0": 2437,
+                "x1": 4200,
+                "y1": 2612
+            },
+            "class": "headline",
+            "raw_text": "new LOOK",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2137,
+                "y0": 856,
+                "x1": 2984,
+                "y1": 6387
+            },
+            "class": "article",
+            "raw_text": "\n\n\nGeneral Of these United States Of\nAmerica, produced an amaz-\ning medical report. He and his\nassociates prepared and released\na report which most Of our In\nhabitants had already known. He\nrevealed to millions of United\nStaters that cigarette smoking\nwas detrimental to the health\nof the people.\n\n\nThe cry and the howl arose\nfrom all sources before the re-\nport was re- reSearched. The\ncigarette manufacturers yelled\n\"foul.\" The tobacco growing\nstates produced dissenting views.\nThe smokers themselves turned\nsome deaf ears; few responded\nand took the oath to abstain from\nthe deadly leaf.\n\n\nClaims and counterclaims\nagainst and In favor Of the In\nnocent looking dried weed\nswathed in white paper ragged.\nAdvertisers we're instructed that\nthe federal government would\nhenceforth regulate cigarette ad-\nvertising. Packs ofsmokes we're\nto contain statements about them\nbeing dangerous to ones health.\nSome persons suggested that each\npackage should have skull and\ncrossbones on the label.\n\n\nDaily millions of buffers tried\nto satiate the desire for smoke.\nLeading cigarette manufacturers\nnoted declines in their sales and\nsales of their stocks diminished.\nAfter less than three months the\nbig scare is off. More smokers\nhave withstood the truth and again\nputting is back to its regular\nschedule.\n\n\nCigarettes are now produced\nwith more filter, more menthol,\nmore mint, more colorful paper\nwrappings and more sizes; how\never, the one real thing which\nremains unchanged is that\ncigarette smoking is not healthy.\n\n\nAdvertising specialists make\nsmoking appeal to even the non\nsmokers. Would you believe 1T\nGreat athletes smoke while\nscaling mountains or after SWIM\nming the English Channel. Others\nmust grab a flag or two after\ndinner or while preparing to pro-\npose.\n\n\nOne bright advertiser took ad-\nvantage Of the names offspring\nand \"tempe.\" These new\nsounding names give cigarettes a\nnew sound. saw one package\nlabeled Frappe. This gives the\nsound Of a delicious drink.\n\n\nFree cigarettes have been\nhalted for distribution at colleges\nand some hospitals. One group\nof hospital workers in an eastern\ncity rebelled when the vending\nmachines we're removed.\n\n\nBeing nonsmoker, Ihave only\none law which I would like to have\npassed No Smoking in stores,\nbuses, trains and airplanes.\n\n\nThe aroma Of cigar smoke is no\nmore enjoyable than cigarette\nsmoking. If cigarettes 60 out of\nuse cigars will be the next\non the list. Our women cold be\nfashionable putting on corn cob\npipes think there would be\nnew market opening for miniature\ncorn cobs of every color to match\nmiladys dress.\n\n\nEfforts to halt smoking have\ngone through the usual stages,\nperhaps, statement attributed to\nVIC. Fields Is truer now more\nthan ever. The bulb nose comic\nrepeatedly said that everything\nhe liked was either immoral, IL\nlocal or- fafteninO",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2149,
+                "y0": 428,
+                "x1": 2943,
+                "y1": 637
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELoJsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2149,
+                "y0": 671,
+                "x1": 2793,
+                "y1": 782
+            },
+            "class": "headline",
+            "raw_text": "Smoke Signals",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 389,
+                "y0": 978,
+                "x1": 2017,
+                "y1": 1911
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, eusL'sHER-Eo'ToR\nELOISE BANKS,\n10, 1888\n\n\n\n\n\nPUBLISHING COMPANY INC\nRROA YR.\no. szAe, PHOENIX, ARtz! ssoAo\nSECOND CLASS POSTAGE A PHOENIX, ARIZONA\nAL THAT EVILS OUR\nTIMES Is TO DO JUSTICE FREEDOM.\nsmsmS~ NATIONAL REPRESENTATIVE\nAssociAuoN AMAL0AMATED\n\n\n\n@~>1 NEW YORK N.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 400,
+                "y0": 434,
+                "x1": 1982,
+                "y1": 869
+            },
+            "class": "headline",
+            "raw_text": "ArtzutntaATATrthune\n\n\nAAY - y \"a Ssszz1sIz - Lax",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 968,
+                "y0": 885,
+                "x1": 1496,
+                "y1": 967
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. 7",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 308,
+                "y0": 1696,
+                "x1": 2075,
+                "y1": 7058
+            },
+            "class": "article",
+            "raw_text": "sH4 rsXMA7 7seT sys ss[s\n\n\nJ ~s\"\"~ '\"\"< '-\"*' &c ~ 19sS ATEs.Y\n\n\nNUMBER THREE\n\n\nTwo weeks ago the list of candidates mho\npassed the bar examinations Of the state was\npublished. Rubin SalteY a 28 year old Negro,\nbecame the first of his race to practice LAM\nin Tucson.\n\n\nCongratulations to NM. SaHeY, 1Uh0 told re-\nborteys that he wants to Practice not only\ndiscrimination cases, but all kinds of LAM.\nWe wish him great success.\n\n\nFor several gears Negro applicants haze\nunsuccess tully sat for the state bar exanain-\natoms. RumOYs of yu cial dis elimination or\npolitical influence haze been giUen as the\nreasons for their failures. There is little to\njustify such claims.\n\n\nThe story of the first Negro attorney ab-\nbearing in the daily paper contained a glar1mg\nerror. mentioned that there as only one\nother Negro attorney IN Arizona a Ted\nLaYRin of Phoenix. This is false, there are\ntho other Negro attorneys bructicing in\nPhoenix Hayzel Daniels and Carl SteWuT.\ninjuries haze shoam that Ted LaYkin is not\nlisted in the area.\n\n\nThese three haze demonstrated their ability\nto pass the state bar requirements and they\nare proud to be called attorneys, not Negro\nattorneys.\n\n\nRemember TO Vote Sept. 9th\nTan Tpicsk&&a:<\n| 21f!!!k?y(|\n{ So\nNJ 4 4 pI-~\nIT CAN'T BEAR TO SEE A LADY STAND",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-08-28"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "NEW YORK = Roy Wilkins,\nexecutive secretary Of the\nNational ASS ociation for the Ad-\nvancement of Colored People, has\nannounced the assignment Of Miss\nAlthea T. L. Simmons as coordin-\nator of the associations nation\nwide voter registration drive.\n\n\nMiss Simmons, an NAACP field\nsecretary for the southern and\nsouthwest areas of the West c cast\nregion, was transferred to the\nassociation national office here\nto devote full time to the regis\ntration drive until the election in\nNovember.\n\n\nA longtime NAACP member\nand volunteer worker, Miss Sim\nmons was executive secretary Of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3046,
+                    "y0": 5372,
+                    "x1": 3864,
+                    "y1": 6491
+                }
+            ],
+            "bbox": [
+                3046,
+                5372,
+                3864,
+                6491
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                23,
+                1
+            ],
+            "headline": "Miss Simmons is Promoted By NAACP",
+            "article": "the Texas State Conference Of\nNAACP branches, lo5o-60, also\nserved as chairman Of the exc\ncutive committee Of the Dallas\nNAACP Branch. She joined the\nnational staff in 1861 when she\nwas appointed field secretary\nworking out the NAACP sub\nregional office in Los Angeles.\n\n\nA former college teacher and\nnewspaperwoman, Miss Simmons\nwas graduated from Southern\nUniversity in Baton Rouge. La,\nand holds an MS. degree from\nthe University ofIllinois, an LIB\nfrom the Howard University Scool\nof Law, and diploma in por-\ntraiture from the New York In\nstitute of Photography.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3232,
+                    "y0": 5251,
+                    "x1": 4553,
+                    "y1": 5339
+                },
+                {
+                    "x0": 3938,
+                    "y0": 5361,
+                    "x1": 4744,
+                    "y1": 6479
+                }
+            ],
+            "bbox": [
+                3232,
+                5251,
+                4744,
+                6479
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                9,
+                22,
+                14,
+                2
+            ],
+            "headline": "Views, pRFvIFwS\nANO REVIEWS\n\n\nEdward Banks\n\nScholarships Wasted",
+            "article": "For the past four years this has scholar\nships entering freshmen in city high schools The\nencouraging because majority of the failed\nduring their first year. Many poor\npoor grades.\n\n\nThese students chosen from their respective eighth grade\nthey according\nscholastic and activity achievements.\n\n\nAS the high school year begins that those students\nwho receive financial assistance from the Arizona Tribune\nany other organization will earnestly stay school\nand do their BEST\n\n\nIn discussions with other of groups who have\ncontributed funds for deserving scholars high school college\nthere that students scholarships\nand take their school responsibilities lightly.\n\n\nFar few Negroes receive scholarships and the individuals\nwho receive them should their BEST Those students who do\nwin scholarships should likewise work hard their\nmerit and learn much they",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3585,
+                    "y0": 503,
+                    "x1": 4564,
+                    "y1": 950
+                },
+                {
+                    "x0": 3805,
+                    "y0": 868,
+                    "x1": 4321,
+                    "y1": 950
+                },
+                {
+                    "x0": 3075,
+                    "y0": 1019,
+                    "x1": 3939,
+                    "y1": 1130
+                },
+                {
+                    "x0": 3052,
+                    "y0": 1163,
+                    "x1": 4732,
+                    "y1": 2357
+                }
+            ],
+            "bbox": [
+                3052,
+                503,
+                4732,
+                2357
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "BUILT BY EXHIBITORS",
+            "article": "The Worlds Fair Corporation\nitself built only seven of the $50\nFair pavilions: the us. Post Of\nfee, the administration building,\nthe press building, the Worlds\nFair Pavilion and the security,\nentrance and maintenance build.\nings. All other structures at the\nFair were built by exhibitors.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2247,
+                    "y0": 6652,
+                    "x1": 2920,
+                    "y1": 6728
+                },
+                {
+                    "x0": 2178,
+                    "y0": 6750,
+                    "x1": 2995,
+                    "y1": 7249
+                }
+            ],
+            "bbox": [
+                2178,
+                6652,
+                2995,
+                7249
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                6,
+                4
+            ],
+            "headline": "KRUx Sponsors Charity\nBack To School Dance",
+            "article": "Dance proceeds will be given\nthe Maryvale Lions Sight\nConservation and Community\nBetterment Fund.\n\n\nLive entertainment at the dance\nwill include three different bands\nand Hollywood recording stars,\namong them the 5lendelis.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3400,
+                    "y0": 6507,
+                    "x1": 4408,
+                    "y1": 6728
+                },
+                {
+                    "x0": 3932,
+                    "y0": 6745,
+                    "x1": 4744,
+                    "y1": 7226
+                }
+            ],
+            "bbox": [
+                3400,
+                6507,
+                4744,
+                7226
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Valley teen-agers are invited\nto a charity \"Back to School\nBlast\" spoons ored by KRUX radio\nstation, Sum-, Sept. E, S-l2 pm.\nin the Exhibition Building at the\nArizona State Playground, 10Th\nAvenue and Mcdowell.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3058,
+                    "y0": 6768,
+                    "x1": 3870,
+                    "y1": 7191
+                }
+            ],
+            "bbox": [
+                3058,
+                6768,
+                3870,
+                7191
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                10,
+                8
+            ],
+            "headline": "new LOOK",
+            "article": "The efforts of the Mississippi Freedom\nParty at the Democratic National COnUen-\ntiOn in Atlantic City is a major step in the\nnew look in politics. The emphasis ON\ncomplete citizenship in the United States\nmust be brought to its full measure at the\nballot box and within the polling booths.\n\n\nNegroes in many states are derehct\nin their CHIC duties. They often ignore 5f\nthe political world which surrounds them. +\nUnfortunately Negro UoteY registrations\nhaze not only Jagged in the South, but eia\nNegroes haze failed to register and cote = 8\nin many states where no barriers haze d1ia\nbeen placed. ~\n\n\nGreat interest is focused on the national j,\npolitical scene at the expense Of local con-.\ntests. This year in our oMm state an 0tn'oS-\nbheTe Of ina ctivity is noticed as the last\nfen weeks approach before the primary\nelections.\n\n\nNo person should be content to we INT\nlegts lattve district or county district and\nbe unawave of the candidates or issues IN\nUOlUed\n\n\nThere should be more action on the local\nleuel in politics and all persons regardless\nof race, creed, color or national origin\nshould pledge themselves to making better\ng0Ue 17anaent a reality.\n\n\nMiss Simmons is Promoted By NAAcP",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3544,
+                    "y0": 2437,
+                    "x1": 4200,
+                    "y1": 2612
+                },
+                {
+                    "x0": 3070,
+                    "y0": 2669,
+                    "x1": 4692,
+                    "y1": 5339
+                }
+            ],
+            "bbox": [
+                3070,
+                2437,
+                4692,
+                5339
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                20,
+                16,
+                11
+            ],
+            "headline": "Sights and Sounds\nELoJsE BANKS\n\nSmoke Signals",
+            "article": "\n\n\nGeneral Of these United States Of\nAmerica, produced an amaz-\ning medical report. He and his\nassociates prepared and released\na report which most Of our In\nhabitants had already known. He\nrevealed to millions of United\nStaters that cigarette smoking\nwas detrimental to the health\nof the people.\n\n\nThe cry and the howl arose\nfrom all sources before the re-\nport was re- reSearched. The\ncigarette manufacturers yelled\n\"foul.\" The tobacco growing\nstates produced dissenting views.\nThe smokers themselves turned\nsome deaf ears; few responded\nand took the oath to abstain from\nthe deadly leaf.\n\n\nClaims and counterclaims\nagainst and In favor Of the In\nnocent looking dried weed\nswathed in white paper ragged.\nAdvertisers we're instructed that\nthe federal government would\nhenceforth regulate cigarette ad-\nvertising. Packs ofsmokes we're\nto contain statements about them\nbeing dangerous to ones health.\nSome persons suggested that each\npackage should have skull and\ncrossbones on the label.\n\n\nDaily millions of buffers tried\nto satiate the desire for smoke.\nLeading cigarette manufacturers\nnoted declines in their sales and\nsales of their stocks diminished.\nAfter less than three months the\nbig scare is off. More smokers\nhave withstood the truth and again\nputting is back to its regular\nschedule.\n\n\nCigarettes are now produced\nwith more filter, more menthol,\nmore mint, more colorful paper\nwrappings and more sizes; how\never, the one real thing which\nremains unchanged is that\ncigarette smoking is not healthy.\n\n\nAdvertising specialists make\nsmoking appeal to even the non\nsmokers. Would you believe 1T\nGreat athletes smoke while\nscaling mountains or after SWIM\nming the English Channel. Others\nmust grab a flag or two after\ndinner or while preparing to pro-\npose.\n\n\nOne bright advertiser took ad-\nvantage Of the names offspring\nand \"tempe.\" These new\nsounding names give cigarettes a\nnew sound. saw one package\nlabeled Frappe. This gives the\nsound Of a delicious drink.\n\n\nFree cigarettes have been\nhalted for distribution at colleges\nand some hospitals. One group\nof hospital workers in an eastern\ncity rebelled when the vending\nmachines we're removed.\n\n\nBeing nonsmoker, Ihave only\none law which I would like to have\npassed No Smoking in stores,\nbuses, trains and airplanes.\n\n\nThe aroma Of cigar smoke is no\nmore enjoyable than cigarette\nsmoking. If cigarettes 60 out of\nuse cigars will be the next\non the list. Our women cold be\nfashionable putting on corn cob\npipes think there would be\nnew market opening for miniature\ncorn cobs of every color to match\nmiladys dress.\n\n\nEfforts to halt smoking have\ngone through the usual stages,\nperhaps, statement attributed to\nVIC. Fields Is truer now more\nthan ever. The bulb nose comic\nrepeatedly said that everything\nhe liked was either immoral, IL\nlocal or- fafteninO",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2149,
+                    "y0": 428,
+                    "x1": 2943,
+                    "y1": 637
+                },
+                {
+                    "x0": 2149,
+                    "y0": 671,
+                    "x1": 2793,
+                    "y1": 782
+                },
+                {
+                    "x0": 2137,
+                    "y0": 856,
+                    "x1": 2984,
+                    "y1": 6387
+                }
+            ],
+            "bbox": [
+                2137,
+                428,
+                2984,
+                6387
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                19,
+                21,
+                15
+            ],
+            "headline": "ArtzutntaATATrthune\n\n\nAAY - y \"a Ssszz1sIz - Lax",
+            "article": "EDWARD BANKS, eusL'sHER-Eo'ToR\nELOISE BANKS,\n10, 1888\n\n\n\n\n\nPUBLISHING COMPANY INC\nRROA YR.\no. szAe, PHOENIX, ARtz! ssoAo\nSECOND CLASS POSTAGE A PHOENIX, ARIZONA\nAL THAT EVILS OUR\nTIMES Is TO DO JUSTICE FREEDOM.\nsmsmS~ NATIONAL REPRESENTATIVE\nAssociAuoN AMAL0AMATED\n\n\n\n@~>1 NEW YORK N.",
+            "byline": "VOL. 7, NO. 7",
+            "bbox_list": [
+                {
+                    "x0": 400,
+                    "y0": 434,
+                    "x1": 1982,
+                    "y1": 869
+                },
+                {
+                    "x0": 968,
+                    "y0": 885,
+                    "x1": 1496,
+                    "y1": 967
+                },
+                {
+                    "x0": 389,
+                    "y0": 978,
+                    "x1": 2017,
+                    "y1": 1911
+                }
+            ],
+            "bbox": [
+                389,
+                434,
+                2017,
+                1911
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "sH4 rsXMA7 7seT sys ss[s\n\n\nJ ~s\"\"~ '\"\"< '-\"*' &c ~ 19sS ATEs.Y\n\n\nNUMBER THREE\n\n\nTwo weeks ago the list of candidates mho\npassed the bar examinations Of the state was\npublished. Rubin SalteY a 28 year old Negro,\nbecame the first of his race to practice LAM\nin Tucson.\n\n\nCongratulations to NM. SaHeY, 1Uh0 told re-\nborteys that he wants to Practice not only\ndiscrimination cases, but all kinds of LAM.\nWe wish him great success.\n\n\nFor several gears Negro applicants haze\nunsuccess tully sat for the state bar exanain-\natoms. RumOYs of yu cial dis elimination or\npolitical influence haze been giUen as the\nreasons for their failures. There is little to\njustify such claims.\n\n\nThe story of the first Negro attorney ab-\nbearing in the daily paper contained a glar1mg\nerror. mentioned that there as only one\nother Negro attorney IN Arizona a Ted\nLaYRin of Phoenix. This is false, there are\ntho other Negro attorneys bructicing in\nPhoenix Hayzel Daniels and Carl SteWuT.\ninjuries haze shoam that Ted LaYkin is not\nlisted in the area.\n\n\nThese three haze demonstrated their ability\nto pass the state bar requirements and they\nare proud to be called attorneys, not Negro\nattorneys.\n\n\nRemember TO Vote Sept. 9th\nTan Tpicsk&&a:<\n| 21f!!!k?y(|\n{ So\nNJ 4 4 pI-~\nIT CAN'T BEAR TO SEE A LADY STAND",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 308,
+                    "y0": 1696,
+                    "x1": 2075,
+                    "y1": 7058
+                }
+            ],
+            "bbox": [
+                308,
+                1696,
+                2075,
+                7058
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-08-28_p1_sn84021918_0041421695A_1964082801_0526.json"
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964102301/0601.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7480,
+        "width": 4775
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1832,
+                "y0": 642,
+                "x1": 2645,
+                "y1": 2917
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Thirteen\nbranches of the NAACP will\nobserve their 5Oth anniversary\nthis year. Local branches char\ntered so years ago include Alton.\nILL: Buffalo. N. Y: Ell Paso.\nTexas,\n\n\nTexas: Harrisburg. Pa: Los An\ngeles. Calf: Louisville, KY:\nMinneapolis. Mimi: Newark. N.\nj.: Pittsburgh, Pa; Shreveport.\nLa; and Wilmington. Del. Also.\nin 1914 an NAACP college chap\nter was organized on the campus\nOf Virginia Union University in\nRichmond. others include St.\nLouis and Portland, Ore.\n\n\nThere are an additional 81\nbranches and two college chap\ntiers that we're chartered more\nthan half century ago. The,\nChicago branch was organized in\n1910. The New York City branch\nwas started in 1911.\n\n\nOther early branches include\nBaltimore, Boston, Detroit and\nthe District Of Columbia. 1912;\nand the following established In\n1913: Indianapolis. Kansas City,\nMo-: Cleveland. Philadelphia.\nSeattle, Northern California,\nQuincy, ILL.,: Tacoma. WASH:\nMuskogee. Okla; Orange, NJ:\nProvidence. RI; St. Paul. MIMI:\nTalladega. Ala: Topeka. Kans.;\nand Trenton, NJ.\n\n\nAlso chartered in 1913 were\nNAACP chapters at Cornell Uni\nversity and Howard University.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1873,
+                "y0": 414,
+                "x1": 2622,
+                "y1": 626
+            },
+            "class": "headline",
+            "raw_text": "Is NAACP Branches\nAre 50 Years Old",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1838,
+                "y0": 3196,
+                "x1": 2645,
+                "y1": 3723
+            },
+            "class": "article",
+            "raw_text": "CHICAGO = Howard Spooner,\nNegro. city policeman, received\none of the two highest city awards\nfor heroiSm.\n\n\nSpooner was cited for wounding\nand capturing an armed robber\nduring a liquor store robbery\nLa st March. He was off duty\nat the time.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1902,
+                "y0": 2956,
+                "x1": 2552,
+                "y1": 3174
+            },
+            "class": "headline",
+            "raw_text": "Policeman Wins\nHero Award",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2808,
+                "y0": 3506,
+                "x1": 4340,
+                "y1": 3694
+            },
+            "class": "article",
+            "raw_text": "When selecting retirement choose location suited to\nyour financial mental aid physical requirements Don't buy from\nCatalogues Select place where your\nbe most happy taking part activities within physical capacity",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2849,
+                "y0": 3366,
+                "x1": 4276,
+                "y1": 3483
+            },
+            "class": "headline",
+            "raw_text": "RETIRE WISELY AND ENJOY IT",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2743,
+                "y0": 2401,
+                "x1": 4404,
+                "y1": 3331
+            },
+            "class": "article",
+            "raw_text": "Missionary Society of South Phoenix Baptist Church held its\nannual dinner at Neghborhood House. CLOS S. Seventh ST. Sat\nurday, Oct. H.\n\n\nSeated president and Mary Peters\nfinance chairman.\n\n\nStanding Mesdames Thelma Smith, Georgia Bullock and\nDavis Rev. Topps Jr. Mesdames LIE\nJordan and Yvonne Barrett.\n\n\nProviding Missionary Society dinner OF the Soun\nPhoenix Baptist Moisse Caon pianist seated\nClarence Davis and Miss Judy Williams, sooists.\n\n\nRed Circle Baptist Church assisted the 1000\ncommittee.\n\n\nFrom Marge Colbert Alfredo Brooks Deborah BROWN\nPatricia Arnold Barbara Colbert.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 172,
+                "y0": 4388,
+                "x1": 4392,
+                "y1": 7106
+            },
+            "class": "article",
+            "raw_text": "drundG\nMust have m'mu\" \"\ndoreein eIehie siernsh\nfields eommv\"sa'o\nand must have m\"\"\"\nshoo\nOf hunssor\nudiv posho\nleast 'h'ho\ndeH' exp\"e\"\nis\nrite sending complete p ?\n\n\n\n\n\nBoz\n\n\n\n\n\nAn Opportunity Employer",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-23"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                3,
+                0
+            ],
+            "headline": "Is NAACP Branches\nAre 50 Years Old",
+            "article": "NEW YORK Thirteen\nbranches of the NAACP will\nobserve their 5Oth anniversary\nthis year. Local branches char\ntered so years ago include Alton.\nILL: Buffalo. N. Y: Ell Paso.\nTexas,\n\n\nTexas: Harrisburg. Pa: Los An\ngeles. Calf: Louisville, KY:\nMinneapolis. Mimi: Newark. N.\nj.: Pittsburgh, Pa; Shreveport.\nLa; and Wilmington. Del. Also.\nin 1914 an NAACP college chap\nter was organized on the campus\nOf Virginia Union University in\nRichmond. others include St.\nLouis and Portland, Ore.\n\n\nThere are an additional 81\nbranches and two college chap\ntiers that we're chartered more\nthan half century ago. The,\nChicago branch was organized in\n1910. The New York City branch\nwas started in 1911.\n\n\nOther early branches include\nBaltimore, Boston, Detroit and\nthe District Of Columbia. 1912;\nand the following established In\n1913: Indianapolis. Kansas City,\nMo-: Cleveland. Philadelphia.\nSeattle, Northern California,\nQuincy, ILL.,: Tacoma. WASH:\nMuskogee. Okla; Orange, NJ:\nProvidence. RI; St. Paul. MIMI:\nTalladega. Ala: Topeka. Kans.;\nand Trenton, NJ.\n\n\nAlso chartered in 1913 were\nNAACP chapters at Cornell Uni\nversity and Howard University.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1873,
+                    "y0": 414,
+                    "x1": 2622,
+                    "y1": 626
+                },
+                {
+                    "x0": 1832,
+                    "y0": 642,
+                    "x1": 2645,
+                    "y1": 2917
+                }
+            ],
+            "bbox": [
+                1832,
+                414,
+                2645,
+                2917
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-23_p1_sn84021918_0041421695A_1964102301_0601.json"
+        },
+        {
+            "object_ids": [
+                5,
+                2
+            ],
+            "headline": "Policeman Wins\nHero Award",
+            "article": "CHICAGO = Howard Spooner,\nNegro. city policeman, received\none of the two highest city awards\nfor heroiSm.\n\n\nSpooner was cited for wounding\nand capturing an armed robber\nduring a liquor store robbery\nLa st March. He was off duty\nat the time.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1902,
+                    "y0": 2956,
+                    "x1": 2552,
+                    "y1": 3174
+                },
+                {
+                    "x0": 1838,
+                    "y0": 3196,
+                    "x1": 2645,
+                    "y1": 3723
+                }
+            ],
+            "bbox": [
+                1838,
+                2956,
+                2645,
+                3723
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-23_p1_sn84021918_0041421695A_1964102301_0601.json"
+        },
+        {
+            "object_ids": [
+                11,
+                9
+            ],
+            "headline": "RETIRE WISELY AND ENJOY IT",
+            "article": "When selecting retirement choose location suited to\nyour financial mental aid physical requirements Don't buy from\nCatalogues Select place where your\nbe most happy taking part activities within physical capacity",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2849,
+                    "y0": 3366,
+                    "x1": 4276,
+                    "y1": 3483
+                },
+                {
+                    "x0": 2808,
+                    "y0": 3506,
+                    "x1": 4340,
+                    "y1": 3694
+                }
+            ],
+            "bbox": [
+                2808,
+                3366,
+                4340,
+                3694
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-23_p1_sn84021918_0041421695A_1964102301_0601.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Missionary Society of South Phoenix Baptist Church held its\nannual dinner at Neghborhood House. CLOS S. Seventh ST. Sat\nurday, Oct. H.\n\n\nSeated president and Mary Peters\nfinance chairman.\n\n\nStanding Mesdames Thelma Smith, Georgia Bullock and\nDavis Rev. Topps Jr. Mesdames LIE\nJordan and Yvonne Barrett.\n\n\nProviding Missionary Society dinner OF the Soun\nPhoenix Baptist Moisse Caon pianist seated\nClarence Davis and Miss Judy Williams, sooists.\n\n\nRed Circle Baptist Church assisted the 1000\ncommittee.\n\n\nFrom Marge Colbert Alfredo Brooks Deborah BROWN\nPatricia Arnold Barbara Colbert.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2743,
+                    "y0": 2401,
+                    "x1": 4404,
+                    "y1": 3331
+                }
+            ],
+            "bbox": [
+                2743,
+                2401,
+                4404,
+                3331
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-10-23_p1_sn84021918_0041421695A_1964102301_0601.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "drundG\nMust have m'mu\" \"\ndoreein eIehie siernsh\nfields eommv\"sa'o\nand must have m\"\"\"\nshoo\nOf hunssor\nudiv posho\nleast 'h'ho\ndeH' exp\"e\"\nis\nrite sending complete p ?\n\n\n\n\n\nBoz\n\n\n\n\n\nAn Opportunity Employer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 172,
+                    "y0": 4388,
+                    "x1": 4392,
+                    "y1": 7106
+                }
+            ],
+            "bbox": [
+                172,
+                4388,
+                4392,
+                7106
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-10-23_p1_sn84021918_0041421695A_1964102301_0601.json"
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7376,
+        "width": 4866,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964120401/0652.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3020,
+                "y0": 1014,
+                "x1": 4704,
+                "y1": 2190
+            },
+            "class": "article",
+            "raw_text": "While the Downtown Merchants groups\ninterested promoting preserving\nsit and study--a grave injustice is being done.\nEach hundreds of motorists park their beside\nthey offices while\nred flags the tickets\nYou spend minutes searching for parking\nwhere the least hour The majority the\nwithin busiest\nfour minutes hardly gives time enough\nPhoenix downtown is dying and partly the\nsufficient parking Many offer\nparking with minimum purchase of dollars however, often\nonly quarter purchase\nThe mless parking afforded by the large shopping\nfor heri increased growth expense\nof the city.\n\n\nAll \"a minute parking should abolished\n\n\n\n\n\nfor nickel.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3562,
+                "y0": 368,
+                "x1": 4531,
+                "y1": 709
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIEws\n\n\nAND Reviews",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3694,
+                "y0": 726,
+                "x1": 4214,
+                "y1": 813
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3043,
+                "y0": 881,
+                "x1": 4548,
+                "y1": 992
+            },
+            "class": "headline",
+            "raw_text": "PARKING TIME SHOULD BE LONGER",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2121,
+                "y0": 582,
+                "x1": 2946,
+                "y1": 3106
+            },
+            "class": "article",
+            "raw_text": "gave up years ago keeping\na diary. When | was very young\nlit seemed cons at times), at\ntempted to keep a day to day\nrecord Of my life. 1t proved futile\nand frustrating. There were al\nways so many activities, includ-\ning scrapes and tantrums, that\nthose small pages were made\nquate. Also, there were many\nevents that one does not want\nto record.\n\n\nFor the past week l have been\ninvolved in such a wide circle\nof happenings that | feel one\nmore incident would be too much.\n\n\nThe words of a famous Scot\nfish poet, Robert Burns, who said\n\"the best laid plans of mice\nand men often go astray,\"\nshould become our family mot\nTO.\n\n\nLast Thursday was to be the\ntime for a gala Thanksgiving\ndinner at our home. We had in\nvited a friend from England and\nanother from Sweden to partake\nof our goose and trimmings.\n\n\nAn invitation from the owners\nof the Comeback Inn was accept\ned and we agreed to postpone our\nThanksgiving dinner until the fol-\nlowing Sunday. Our English friend\npopped in for short visit on\nThanksgiving Day, but a virus\nfelled my spouse and | went to\nthe Comeback Inn alone for\ndinner.\n\n\n! was seated at the hosts\ntable, Mr.. and Mrs. Jack Stew\nart, who are two of the most\naffable persons l have ever met,\ncoNT'D p.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2150,
+                "y0": 270,
+                "x1": 2923,
+                "y1": 559
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELotse BANKS\n\n\nAll, LIFE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2323,
+                "y0": 4846,
+                "x1": 3430,
+                "y1": 5705
+            },
+            "class": "article",
+            "raw_text": "Your picturesque and practical gasIIght\nheightens the beauty Of your home. Its\nlovely glow radates a circle Of soft light\nthat only gasIight can give creates\ncharming beacon for your home. 1t eIn1i-\nmates dark shadow places around your\nhome, and shines a gracious welcome to\nfamily and friends.\n\n\nModern gasIights come in a wide variety\nOf styles to match the grace Of your home\n:. both post mounted and wall mounted.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 300,
+                "y0": 1999,
+                "x1": 2059,
+                "y1": 4818
+            },
+            "class": "article",
+            "raw_text": "Alex Qa1aiSOn- Sa cRey, an mage looking,\nd0 YRsRipped man, speaks with a decided Eng\nhsh accent, but his UieWs and interests are\nde cidedly byoAfY5can AS the United Nations\nAmbassador from Ghann, Quais0n- Sackey,\nbecomes the first fYiCon Negro to become\npresident Of the U.N. General Assembly.\nHe game red another first by being the young\nest. At 40, he has he Id many positions IN his\nascending career He has served as the head\nof his cOM1t1y's delegation to the world body\nsince 1869. He has served also as Amb0S S0dOY\nTO Cuba.\n\n\nAn able speaker and politician, Quais0n-\nSackey, received his early schooling IN Gha'm\nand entered local politics lchile IN college. He\nstudied politics and la1O in England. Later he\nentered the foreign service Of GIonn.\nAfrica contains both WhiteS and bl0 cRS, and\nall groups waH their freedom. The struggle\nfor INDEPENDENCE IN the african countries\nvheYe education uus available haze produced\nmore recognized and intelligent leaders.\nThe election of Alex Quais0u- Sa ckey mi\ntiates the neW era of an jntegruted leader\nship of world diplomats.\n\n\nMUSICAL SCHEDULED SUNDAY\nChurch the Living PCT Maricop Elder E. ]. 1ud\nson, pastor.\n\n\nsponsored by\nwill be 30pn will Shine Me-.\nThe Junior Choir will Wardel Moore is the choir\ndirector and Mrs. Jessie Johnson is the accompans\nMrs. Zelma Wade is senior choir president.\n\n\nOzela Toler, church reporter.\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 963,
+                "y0": 743,
+                "x1": 1517,
+                "y1": 819
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. FL",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 565,
+                "y0": 1555,
+                "x1": 1102,
+                "y1": 1706
+            },
+            "class": "author",
+            "raw_text": ". The Nsvppsps- 10 . @e~bs. Of\n4 NEWsPAPtRs ASSOCIATION\n\n\nFor Greater PsblIe SeSvt<s",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 531,
+                "y0": 1815,
+                "x1": 1898,
+                "y1": 1971
+            },
+            "class": "headline",
+            "raw_text": "AFRICAN IN TOP UN SEAT",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964120401_0652",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                14,
+                8,
+                0
+            ],
+            "headline": "Views, pRevIEws\n\n\nAND Reviews\n\nPARKING TIME SHOULD BE LONGER",
+            "article": "While the Downtown Merchants groups\ninterested promoting preserving\nsit and study--a grave injustice is being done.\nEach hundreds of motorists park their beside\nthey offices while\nred flags the tickets\nYou spend minutes searching for parking\nwhere the least hour The majority the\nwithin busiest\nfour minutes hardly gives time enough\nPhoenix downtown is dying and partly the\nsufficient parking Many offer\nparking with minimum purchase of dollars however, often\nonly quarter purchase\nThe mless parking afforded by the large shopping\nfor heri increased growth expense\nof the city.\n\n\nAll \"a minute parking should abolished\n\n\n\n\n\nfor nickel.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3562,
+                    "y0": 368,
+                    "x1": 4531,
+                    "y1": 709
+                },
+                {
+                    "x0": 3694,
+                    "y0": 726,
+                    "x1": 4214,
+                    "y1": 813
+                },
+                {
+                    "x0": 3043,
+                    "y0": 881,
+                    "x1": 4548,
+                    "y1": 992
+                },
+                {
+                    "x0": 3020,
+                    "y0": 1014,
+                    "x1": 4704,
+                    "y1": 2190
+                }
+            ],
+            "bbox": [
+                3020,
+                368,
+                4704,
+                2190
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-04_pna_sn84021918_0041421695A_1964120401_0652.json"
+        },
+        {
+            "object_ids": [
+                5,
+                2
+            ],
+            "headline": "Sights and Sounds\nELotse BANKS\n\n\nAll, LIFE",
+            "article": "gave up years ago keeping\na diary. When | was very young\nlit seemed cons at times), at\ntempted to keep a day to day\nrecord Of my life. 1t proved futile\nand frustrating. There were al\nways so many activities, includ-\ning scrapes and tantrums, that\nthose small pages were made\nquate. Also, there were many\nevents that one does not want\nto record.\n\n\nFor the past week l have been\ninvolved in such a wide circle\nof happenings that | feel one\nmore incident would be too much.\n\n\nThe words of a famous Scot\nfish poet, Robert Burns, who said\n\"the best laid plans of mice\nand men often go astray,\"\nshould become our family mot\nTO.\n\n\nLast Thursday was to be the\ntime for a gala Thanksgiving\ndinner at our home. We had in\nvited a friend from England and\nanother from Sweden to partake\nof our goose and trimmings.\n\n\nAn invitation from the owners\nof the Comeback Inn was accept\ned and we agreed to postpone our\nThanksgiving dinner until the fol-\nlowing Sunday. Our English friend\npopped in for short visit on\nThanksgiving Day, but a virus\nfelled my spouse and | went to\nthe Comeback Inn alone for\ndinner.\n\n\n! was seated at the hosts\ntable, Mr.. and Mrs. Jack Stew\nart, who are two of the most\naffable persons l have ever met,\ncoNT'D p.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2150,
+                    "y0": 270,
+                    "x1": 2923,
+                    "y1": 559
+                },
+                {
+                    "x0": 2121,
+                    "y0": 582,
+                    "x1": 2946,
+                    "y1": 3106
+                }
+            ],
+            "bbox": [
+                2121,
+                270,
+                2946,
+                3106
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-04_pna_sn84021918_0041421695A_1964120401_0652.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Your picturesque and practical gasIIght\nheightens the beauty Of your home. Its\nlovely glow radates a circle Of soft light\nthat only gasIight can give creates\ncharming beacon for your home. 1t eIn1i-\nmates dark shadow places around your\nhome, and shines a gracious welcome to\nfamily and friends.\n\n\nModern gasIights come in a wide variety\nOf styles to match the grace Of your home\n:. both post mounted and wall mounted.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2323,
+                    "y0": 4846,
+                    "x1": 3430,
+                    "y1": 5705
+                }
+            ],
+            "bbox": [
+                2323,
+                4846,
+                3430,
+                5705
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-12-04_pna_sn84021918_0041421695A_1964120401_0652.json"
+        },
+        {
+            "object_ids": [
+                16,
+                20,
+                7,
+                6
+            ],
+            "headline": "AFRICAN IN TOP UN SEAT",
+            "article": "Alex Qa1aiSOn- Sa cRey, an mage looking,\nd0 YRsRipped man, speaks with a decided Eng\nhsh accent, but his UieWs and interests are\nde cidedly byoAfY5can AS the United Nations\nAmbassador from Ghann, Quais0n- Sackey,\nbecomes the first fYiCon Negro to become\npresident Of the U.N. General Assembly.\nHe game red another first by being the young\nest. At 40, he has he Id many positions IN his\nascending career He has served as the head\nof his cOM1t1y's delegation to the world body\nsince 1869. He has served also as Amb0S S0dOY\nTO Cuba.\n\n\nAn able speaker and politician, Quais0n-\nSackey, received his early schooling IN Gha'm\nand entered local politics lchile IN college. He\nstudied politics and la1O in England. Later he\nentered the foreign service Of GIonn.\nAfrica contains both WhiteS and bl0 cRS, and\nall groups waH their freedom. The struggle\nfor INDEPENDENCE IN the african countries\nvheYe education uus available haze produced\nmore recognized and intelligent leaders.\nThe election of Alex Quais0u- Sa ckey mi\ntiates the neW era of an jntegruted leader\nship of world diplomats.\n\n\nMUSICAL SCHEDULED SUNDAY\nChurch the Living PCT Maricop Elder E. ]. 1ud\nson, pastor.\n\n\nsponsored by\nwill be 30pn will Shine Me-.\nThe Junior Choir will Wardel Moore is the choir\ndirector and Mrs. Jessie Johnson is the accompans\nMrs. Zelma Wade is senior choir president.\n\n\nOzela Toler, church reporter.\n\n\n",
+            "byline": "VOL. 7, NO. FL\n\n. The Nsvppsps- 10 . @e~bs. Of\n4 NEWsPAPtRs ASSOCIATION\n\n\nFor Greater PsblIe SeSvt<s",
+            "bbox_list": [
+                {
+                    "x0": 963,
+                    "y0": 743,
+                    "x1": 1517,
+                    "y1": 819
+                },
+                {
+                    "x0": 565,
+                    "y0": 1555,
+                    "x1": 1102,
+                    "y1": 1706
+                },
+                {
+                    "x0": 531,
+                    "y0": 1815,
+                    "x1": 1898,
+                    "y1": 1971
+                },
+                {
+                    "x0": 300,
+                    "y0": 1999,
+                    "x1": 2059,
+                    "y1": 4818
+                }
+            ],
+            "bbox": [
+                300,
+                743,
+                2059,
+                4818
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-04_pna_sn84021918_0041421695A_1964120401_0652.json"
+        }
+    ]
+}

@@ -1,0 +1,425 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0499.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7413,
+        "width": 4883
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2812,
+                "y0": 1627,
+                "x1": 3623,
+                "y1": 2943
+            },
+            "class": "article",
+            "raw_text": "TUCSON The citys civil\nrights ordinance became eff\nfective this week and 1t covers\ndiscrimination in places Of public\naccommodation.\n\n\nThe National Association for\nthe Advancement of Colored\nPeople and the Congress of Racial\nEquality have no plans to test the\nordinance. Both groups are\ncritical of 1t.\n\n\nCORE president Roy Twitty\nsaid his group is interested pri-\nmarily in a voter registration\ndrive and there we're no plans\nto test a motel or restaurant.\n\n\nCasper Glenn, minister and\npresident of the local NAACP\nChapter summarized the or\ndinance as weak, although itpro-\nvides some local avenues of\naction.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2835,
+                "y0": 1366,
+                "x1": 3548,
+                "y1": 1587
+            },
+            "class": "headline",
+            "raw_text": "TUesOn's Civil Rights\nLaw Is Effective",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1914,
+                "y0": 660,
+                "x1": 2743,
+                "y1": 3788
+            },
+            "class": "article",
+            "raw_text": "he says, 81 didn't see how |\ncould honestly preach the Gospel\nof Christ in church that\npracticed discrimination\nBut | never abandoned His\nteaching.\n\n\nFrom l94I to l945 he served\nas race relations secretary Of the\nFellowship of Reconciliation.\nFrom 1916 to 1913 he took part\nin the organizing drive in the\nSouth Of the Upholsterers' In\nternational Union. Later he\nserved as international repre-\nsentative Of the State, County and\nMunicipal Employees Union, and\nin 1858 he was designated one Of\na five man delegation from the\nInternational Confederation Of\nFree Trade Unions to fifteen\nAfrican countries. farmer also\nserved as a Program Director\nfor NAACP and was COM\nmentator on radio and television.\n\n\nIn 1912, with group of students\nat the University of Chicago,\nFarmer organized the first chap\nter of CORE. The group intended,\nin his words, Ito substitute\nbodies for exhortations\" and\nto apply to the struggle for racial\nequality in the United States the\ntechniques of nonviolence and\npassive resistance that Gandhi\nused SO successfully in India's\nstruggle for independence.\n\n\nAS National Director ofCORE,\nFarmer not only plans projects\nbut also participates in carrying\nmany of them out. He was one\nof the original Freedom Riders,\nand, like most of the group. he\nspent forty days in Jail in 1901.\nHe was next impris oned in August\n1868, for leading a civil rights\ndemonstration in Plaquemine,\nLouisiana. On April y, 1864\nhe and 800 other CORE members\nwe're arrested in New York while\nprotesting segregation and dis\nelimination practiced by many\nstates exhibiting at the Worlds\nFair.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1144,
+                "y0": 486,
+                "x1": 2564,
+                "y1": 638
+            },
+            "class": "headline",
+            "raw_text": "Farmer Is Top CORE Man",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 113,
+                "y0": 1841,
+                "x1": 948,
+                "y1": 4373
+            },
+            "class": "article",
+            "raw_text": "John Robert Lewis Is the only\nleader Of a civil rights organiza-\nton elected by civil rights\nactivists.\n\n\nLewis a \"a year old ALBANIAN\nIs the son of laundress, and a\nfarmer.\n\n\nHe attended the public schools\nOf Troy and Pike County. and\nwas graduated from the Ameri-\ncan Baptist Seminary in Nash\nVile, Tennessee with an BA de-\ngree in religion in 1861. He\nhas continued studies toward an\nBA degree in philos ophy at Fish\nUniversity.\n\n\nLewis has been arrested 81\ntimes. He was an organizer of\nthe Nashville Student Movement\nand an original Freedom Rider.\nHe was instrumental in continuing\nthe rides after othe civil rights\ngroups withdrew their support\ncontending the rides we're too\ndangerous\" He suffered\nbeating from mob when his\nbus arrived at Montgomery. Ala\nbama on Mothers Day, 1861.\n\n\nSince assuming SNCC's chair\nmanship, Lewis has visited and\nparticipated in SNCC projects in\nMississippi, Arkansas, Georgia\nand Alabama.\n\n\nHe was once of leaders at the\nAugust 1868 March on Washing\nton. His speech at that time\nkicked offSNCC's widespreadus\nof the African slogan, Zone Man\nOne Vote,'' which describes\nSNCC's Southwide program\naimed at removing all barriers\nto the vote except age and resi-\ndence.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1028,
+                "y0": 1679,
+                "x1": 1851,
+                "y1": 3765
+            },
+            "class": "article",
+            "raw_text": "James Farmer was one Of the\ngroup that founded Congress Of\nRacial Equality (CORE) In 1912.\nHe was its first National Chair\nman and became Its National d.\nrector in 1861. In the spring\nof 1861, he led CORES first\nFreedom Ride: as result. he was\nheld in Mississippi iails for more\nthan a month. Farmer has also\nworked for the Fellowship of Re-\nCancellation, the NAACP, and\nseveral labor unions.\n\n\nJames Farmer was born In\nMarshall, Texas on January IL,\n1920, the son of scholar and\nthe grandson of a slave. He\nearned his BIS. degree in\nchemistry from Wiley College\nwhen he was only eighteen years\nold. He enrolled in the School of\nReligion of Howard University,\nWashington, DC, to prepare\nfor the Methodist ministry. AS\na student he was active in the\nChristian Youth Movement,\nserving as Vice Chairman of the\nNational Council of Methodist\nYouth and the Christian Youth\nCouncil of North america. Far\nmer received the degree of\nBachelor of Divinity in l94l,\nbut declined ordination. Re-\ncalling that the Methodist Church\nin the South was then segregated,",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1034,
+                "y0": 3845,
+                "x1": 1851,
+                "y1": 4385
+            },
+            "class": "article",
+            "raw_text": "About 2.7 million are employed\nin science and technology in the\nu. ST. About half a million per-\nsons are working as scientists,\nnearly million as engineers, a\nmillion as technicians, and\nquarter of million as teachers\nof science and mathematics in\nsecondary schools.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3704,
+                "y0": 608,
+                "x1": 4515,
+                "y1": 1199
+            },
+            "class": "article",
+            "raw_text": "will be added and SIS old patrol\ncars will be replaced.\n\n\nHe stated that the officers\npatrol more than E million miles\nand answer 100000 calls\nannually.\n\n\nThe increased police Depart\nment budget this year will pro-\nvide $4,000 for merit pay raises\nfor patrolmen every six months.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3032,
+                "y0": 463,
+                "x1": 4255,
+                "y1": 574
+            },
+            "class": "headline",
+            "raw_text": "MAYOR TELLS OF POLICE INCREASES",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2817,
+                "y0": 613,
+                "x1": 3635,
+                "y1": 1280
+            },
+            "class": "article",
+            "raw_text": "Mayor Milton Graham an\nnounced that II additional police\nmen and four civilians will be\nemployed by the city police de-\npartment by Jan. l..\n\n\nThis will increase the force\nto 824 including more than 100\ncivilian employees.\n\n\nGraham said that the mobile\nradio communications system\nwill be impr owed, more vehicles",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3704,
+                "y0": 1499,
+                "x1": 4510,
+                "y1": 1674
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n141e e. Washington\n25S-05l1",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3738,
+                "y0": 1233,
+                "x1": 4463,
+                "y1": 1477
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-07-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "TUesOn's Civil Rights\nLaw Is Effective",
+            "article": "TUCSON The citys civil\nrights ordinance became eff\nfective this week and 1t covers\ndiscrimination in places Of public\naccommodation.\n\n\nThe National Association for\nthe Advancement of Colored\nPeople and the Congress of Racial\nEquality have no plans to test the\nordinance. Both groups are\ncritical of 1t.\n\n\nCORE president Roy Twitty\nsaid his group is interested pri-\nmarily in a voter registration\ndrive and there we're no plans\nto test a motel or restaurant.\n\n\nCasper Glenn, minister and\npresident of the local NAACP\nChapter summarized the or\ndinance as weak, although itpro-\nvides some local avenues of\naction.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2835,
+                    "y0": 1366,
+                    "x1": 3548,
+                    "y1": 1587
+                },
+                {
+                    "x0": 2812,
+                    "y0": 1627,
+                    "x1": 3623,
+                    "y1": 2943
+                }
+            ],
+            "bbox": [
+                2812,
+                1366,
+                3623,
+                2943
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        },
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "Farmer Is Top CORE Man",
+            "article": "he says, 81 didn't see how |\ncould honestly preach the Gospel\nof Christ in church that\npracticed discrimination\nBut | never abandoned His\nteaching.\n\n\nFrom l94I to l945 he served\nas race relations secretary Of the\nFellowship of Reconciliation.\nFrom 1916 to 1913 he took part\nin the organizing drive in the\nSouth Of the Upholsterers' In\nternational Union. Later he\nserved as international repre-\nsentative Of the State, County and\nMunicipal Employees Union, and\nin 1858 he was designated one Of\na five man delegation from the\nInternational Confederation Of\nFree Trade Unions to fifteen\nAfrican countries. farmer also\nserved as a Program Director\nfor NAACP and was COM\nmentator on radio and television.\n\n\nIn 1912, with group of students\nat the University of Chicago,\nFarmer organized the first chap\nter of CORE. The group intended,\nin his words, Ito substitute\nbodies for exhortations\" and\nto apply to the struggle for racial\nequality in the United States the\ntechniques of nonviolence and\npassive resistance that Gandhi\nused SO successfully in India's\nstruggle for independence.\n\n\nAS National Director ofCORE,\nFarmer not only plans projects\nbut also participates in carrying\nmany of them out. He was one\nof the original Freedom Riders,\nand, like most of the group. he\nspent forty days in Jail in 1901.\nHe was next impris oned in August\n1868, for leading a civil rights\ndemonstration in Plaquemine,\nLouisiana. On April y, 1864\nhe and 800 other CORE members\nwe're arrested in New York while\nprotesting segregation and dis\nelimination practiced by many\nstates exhibiting at the Worlds\nFair.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1144,
+                    "y0": 486,
+                    "x1": 2564,
+                    "y1": 638
+                },
+                {
+                    "x0": 1914,
+                    "y0": 660,
+                    "x1": 2743,
+                    "y1": 3788
+                }
+            ],
+            "bbox": [
+                1144,
+                486,
+                2743,
+                3788
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "John Robert Lewis Is the only\nleader Of a civil rights organiza-\nton elected by civil rights\nactivists.\n\n\nLewis a \"a year old ALBANIAN\nIs the son of laundress, and a\nfarmer.\n\n\nHe attended the public schools\nOf Troy and Pike County. and\nwas graduated from the Ameri-\ncan Baptist Seminary in Nash\nVile, Tennessee with an BA de-\ngree in religion in 1861. He\nhas continued studies toward an\nBA degree in philos ophy at Fish\nUniversity.\n\n\nLewis has been arrested 81\ntimes. He was an organizer of\nthe Nashville Student Movement\nand an original Freedom Rider.\nHe was instrumental in continuing\nthe rides after othe civil rights\ngroups withdrew their support\ncontending the rides we're too\ndangerous\" He suffered\nbeating from mob when his\nbus arrived at Montgomery. Ala\nbama on Mothers Day, 1861.\n\n\nSince assuming SNCC's chair\nmanship, Lewis has visited and\nparticipated in SNCC projects in\nMississippi, Arkansas, Georgia\nand Alabama.\n\n\nHe was once of leaders at the\nAugust 1868 March on Washing\nton. His speech at that time\nkicked offSNCC's widespreadus\nof the African slogan, Zone Man\nOne Vote,'' which describes\nSNCC's Southwide program\naimed at removing all barriers\nto the vote except age and resi-\ndence.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 113,
+                    "y0": 1841,
+                    "x1": 948,
+                    "y1": 4373
+                }
+            ],
+            "bbox": [
+                113,
+                1841,
+                948,
+                4373
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "James Farmer was one Of the\ngroup that founded Congress Of\nRacial Equality (CORE) In 1912.\nHe was its first National Chair\nman and became Its National d.\nrector in 1861. In the spring\nof 1861, he led CORES first\nFreedom Ride: as result. he was\nheld in Mississippi iails for more\nthan a month. Farmer has also\nworked for the Fellowship of Re-\nCancellation, the NAACP, and\nseveral labor unions.\n\n\nJames Farmer was born In\nMarshall, Texas on January IL,\n1920, the son of scholar and\nthe grandson of a slave. He\nearned his BIS. degree in\nchemistry from Wiley College\nwhen he was only eighteen years\nold. He enrolled in the School of\nReligion of Howard University,\nWashington, DC, to prepare\nfor the Methodist ministry. AS\na student he was active in the\nChristian Youth Movement,\nserving as Vice Chairman of the\nNational Council of Methodist\nYouth and the Christian Youth\nCouncil of North america. Far\nmer received the degree of\nBachelor of Divinity in l94l,\nbut declined ordination. Re-\ncalling that the Methodist Church\nin the South was then segregated,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1028,
+                    "y0": 1679,
+                    "x1": 1851,
+                    "y1": 3765
+                }
+            ],
+            "bbox": [
+                1028,
+                1679,
+                1851,
+                3765
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "About 2.7 million are employed\nin science and technology in the\nu. ST. About half a million per-\nsons are working as scientists,\nnearly million as engineers, a\nmillion as technicians, and\nquarter of million as teachers\nof science and mathematics in\nsecondary schools.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1034,
+                    "y0": 3845,
+                    "x1": 1851,
+                    "y1": 4385
+                }
+            ],
+            "bbox": [
+                1034,
+                3845,
+                1851,
+                4385
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        },
+        {
+            "object_ids": [
+                16,
+                6
+            ],
+            "headline": "MAYOR TELLS OF POLICE INCREASES",
+            "article": "will be added and SIS old patrol\ncars will be replaced.\n\n\nHe stated that the officers\npatrol more than E million miles\nand answer 100000 calls\nannually.\n\n\nThe increased police Depart\nment budget this year will pro-\nvide $4,000 for merit pay raises\nfor patrolmen every six months.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3032,
+                    "y0": 463,
+                    "x1": 4255,
+                    "y1": 574
+                },
+                {
+                    "x0": 3704,
+                    "y0": 608,
+                    "x1": 4515,
+                    "y1": 1199
+                }
+            ],
+            "bbox": [
+                3032,
+                463,
+                4515,
+                1199
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Mayor Milton Graham an\nnounced that II additional police\nmen and four civilians will be\nemployed by the city police de-\npartment by Jan. l..\n\n\nThis will increase the force\nto 824 including more than 100\ncivilian employees.\n\n\nGraham said that the mobile\nradio communications system\nwill be impr owed, more vehicles",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2817,
+                    "y0": 613,
+                    "x1": 3635,
+                    "y1": 1280
+                }
+            ],
+            "bbox": [
+                2817,
+                613,
+                3635,
+                1280
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        },
+        {
+            "object_ids": [
+                18,
+                22
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n141e e. Washington\n25S-05l1",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3738,
+                    "y0": 1233,
+                    "x1": 4463,
+                    "y1": 1477
+                },
+                {
+                    "x0": 3704,
+                    "y0": 1499,
+                    "x1": 4510,
+                    "y1": 1674
+                }
+            ],
+            "bbox": [
+                3704,
+                1233,
+                4510,
+                1674
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-07-31_p1_sn84021918_0041421695A_1964073101_0499.json"
+        }
+    ]
+}

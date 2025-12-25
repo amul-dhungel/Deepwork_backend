@@ -1,0 +1,585 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061901/0437.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4926
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3702,
+                "y0": 4913,
+                "x1": 4509,
+                "y1": 6026
+            },
+            "class": "article",
+            "raw_text": "TUCSON The City Council\nordered preparation of public\naccommodations ordinance by a\nspecial committee within two\nweeks.\n\n\nAction came at a hearing at\nwhich representatives of 20 or\nCARNATIONS, plus three individ-\nuals, spoke favoring the proposed\nordinance to prohibit discrimina-\nton because of race, creed or\nnational origin in such places as\nrestaurants, taverns and hotels.\n\n\nCouncilmen James Corbett and\nM. J. Southland, City Manager\nMark Keane and City Attorney\nCalvin Webster we're appointed\nas the committee to draft the\nordinance.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 4050,
+                "y0": 2172,
+                "x1": 4491,
+                "y1": 2237
+            },
+            "class": "author",
+            "raw_text": "Photo-Fred Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3726,
+                "y0": 4646,
+                "x1": 4381,
+                "y1": 4896
+            },
+            "class": "headline",
+            "raw_text": "Tucson Prepares\nFor Accommodu fion\nBill Passage",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2828,
+                "y0": 4918,
+                "x1": 3634,
+                "y1": 6235
+            },
+            "class": "article",
+            "raw_text": "The Presbytery Of Phoenix, of\nthe United Presbyterian Church\npassed unanimously decision to\noppose the initiative petition be-\ning circulated which would for\nbid the public school instruction\nof \"such specified theories as\nare designated \"arheism defined\nas sectarian doctrine.''\n\n\nThe statement continued, 1--WE\ncommend to our congregations\nthe responsible nurture of our\npeople in the Christian faith. We\nwould maintain for our public\nschools a climate where our\nchildren and teachers can pursue\nfreely search for truth without\nrigid legal restrictions or ar\nbitrary theological perspectives.\nTo this end, we urge the members\nof our local congregations not to\nsign this petition",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2851,
+                "y0": 4681,
+                "x1": 3518,
+                "y1": 4896
+            },
+            "class": "headline",
+            "raw_text": "PresbyterY Opposes\nSchool Petition",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1935,
+                "y0": 4136,
+                "x1": 2759,
+                "y1": 7208
+            },
+            "class": "article",
+            "raw_text": "City Countil has endorsed\nprogram designed to help the\nmost \"disadvantaged area\" of the\ncity. Formerly known as elmer\nCity, the program was renamed\nOperation LEAP\" designating\nLeadership and Education for\nthe Advancement of Phoenix\"\nMayor Graham reported the fol-\nlowing figures:\n\n\n/. One out of 4 residents lives\nin the \"project area\"\n\n\n2. More than l out of every\n3 houses in the area is dete-\nriorated or diplapidated.\n\n\n8. The residents of this area\nearn an average of $500 less\nper family per year than those\nin the rest of the community.\n\n\n4. There is 2 W times more\nunemployment in this area than\nin the rest of the community.\n\n\nS. Nearly \"a of every 100\nyoungsters in this area live in\none-parent families.\n\n\nGraham noted additional sta\ntistics. but pointed out the phil\nosophy of Operation LEAP is\nsuch that all activities and pro-\ngrams are to be \"planned and\nacted upon with, not for. the af-\nfected persons in the area\"\n\n\nThe majority membership OF\nall committees, 1t was noted,\nwill be residents of the area.\nOperation LEAP will have the\nfollowing task forces or working\ncommittees: Education: Business\nand Industrial Development;\nYouth Council: Housing: Health,\nWelfare and Recreation; and\nNeighborhood Councils.\n\n\nMayor Graham indicated that\ntechnical assistance to the COM\nmittees will be provided by such\ngroups as Community Council,\nPhoenix Union High School Sys-\ntenn, State Employment Service,\nChamber of Commerce. Urban\nLeague, Phoenix Project for Pu-\npil Motivation, and Arizona State\nUniversity.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1964,
+                "y0": 3765,
+                "x1": 2504,
+                "y1": 4114
+            },
+            "class": "headline",
+            "raw_text": "-s---..---v~\nCity Coun Gil\nGives Nod\n\n\nTo LEAP",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3702,
+                "y0": 6315,
+                "x1": 4509,
+                "y1": 7150
+            },
+            "class": "article",
+            "raw_text": "DENVER-The first Negro ever\nto win the Miss Denver contest\nwas a girl, Ernesdyne Elizabeth\nToliver l9, who won over IL\nother candidates. She was award\ned a set of luggage and $500\nscholarship. 1t was her first con-\ntest.\n\n\nHer father, Ernest H. Toliver\nis a Houston, Tex. accountant.\n\n\nMiss Toliver, a sophomore\nma joring in English at the Uni\nversity of Denver, Is S feet 4,\nweighs lis and shapely.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3714,
+                "y0": 6060,
+                "x1": 4341,
+                "y1": 6269
+            },
+            "class": "headline",
+            "raw_text": "Negro Girl Wins\nMiss Denver Title",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 186,
+                "y0": 6732,
+                "x1": 998,
+                "y1": 7202
+            },
+            "class": "article",
+            "raw_text": "Mrs. Leona Huntley. l443 E.\nWashington. was driving her auto\nacross the railroad crossing at\n10th Street near Jackson on June\ns when the train hit her car.\n\n\nShe had started to cross after\nwatching a train and engine pass.\nBefore she could cross another",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 301,
+                "y0": 6570,
+                "x1": 1612,
+                "y1": 6704
+            },
+            "class": "headline",
+            "raw_text": "Women Car Wrecked By Train",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1060,
+                "y0": 6732,
+                "x1": 1873,
+                "y1": 7191
+            },
+            "class": "article",
+            "raw_text": "train approached.\n\n\nThe impact threw Mrs. Hunt\nley into her windshield. she was\ntaken to Good Samaritan Hospital\nfor observation.\n\n\nMrs. Huntley received minor\nbruises. but her car was total\nloss.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2822,
+                "y0": 6552,
+                "x1": 3628,
+                "y1": 7138
+            },
+            "class": "article",
+            "raw_text": "The Arizona fund drive for the\nJohn F. Kennedy Memorial Ii\nbrary began June Is. Contribu-\nlions should be mailed to P.O.\nBox ll50.\n\n\nThe Arizona state committee is\nheaded by Stewart Udall, Sec\nrotary of the interior, honorary\nchairman; and George Gavin,\nchairman.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2839,
+                "y0": 6280,
+                "x1": 3344,
+                "y1": 6530
+            },
+            "class": "headline",
+            "raw_text": "JFK MEMORIAL\nLIBRARY FUND\nDRIVE OPENS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 133,
+                "y0": 1564,
+                "x1": 1867,
+                "y1": 4381
+            },
+            "class": "article",
+            "raw_text": "The Phoenix city Council voted unanimously\nto byovide an ordinance which would OUTLAW dis\nelimination of persons in places Of public &C.\ncomnOdations because Of race, creed, color,\nnational origin or ancestry.\n\n\nThis ordinance covers places Of public SER\nvice, recreation, amusement, hotels, motels\nand restaurants.\n\n\nOn July %, the public accommodations or\ndiponce becomes effective. This measure uOiH\nbe enforced by a f5Ue member human Tel0-\nti0ns committee 1OlaO Will hold hearings brought\nto them on alleged violations. Penalties rang\ni,zg from $25 to $500 can be melted out after\nconviction on criminal charges for UiOl0tiOn\nof the ordinance.\n\n\nPhoenix noaO joins those cities s0hO are STEP\nping forward and Yeakziag that the Improve\nment of human re lotions must start aOitzim the\nboundaries of our neighbOyhOOdS.\n\n\nThere wll be no rush by minority groups\nto oveyyun certain places Of public accom-\nmqodations because Of the ordinance. No1O\nperson Wiu know that he can stop for sand\nmich and that a city lam is on the books to as\nsure him the right to ask for service.\n\n\nIndications from Tucson point sto1oayd the\npassage of a similar ordinance Within the\nnext fen weeks. surely the next state legis-\nlatuye will stop buyyi,ag their heads in the\nsands and pass state public accommodate\ntons lnaO and create a state human relations\ncommits sion.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 313,
+                "y0": 1349,
+                "x1": 1676,
+                "y1": 1524
+            },
+            "class": "headline",
+            "raw_text": "PHOENIX LEADS THE WAY",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1935,
+                "y0": 2786,
+                "x1": 2753,
+                "y1": 3691
+            },
+            "class": "article",
+            "raw_text": "Shelia Dianne Chappell. 10,\ndaughter Of Mrs. Omega Chap\npell. 3l35 E. Belleview. is the\nArizona Tribune scholarship\naward winner from Booker T.\nWashington School.\n\n\nShelia is active In many school\nactivities and served as the vice\npresident of the school, S Careers\nfor Youth club.\n\n\nShe is an avid reader and would\nlike to be kindergarten teacher.\n\n\nA member of First Institutional\nBaptist Church, is active in sew\neral youth groups. too.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 191,
+                "y0": 6152,
+                "x1": 1867,
+                "y1": 6530
+            },
+            "class": "article",
+            "raw_text": "Civic Club held its annual dance the\nMas Hall, $50 E. Jefferson. Friday night.\n\n\nMesdame Hubert Boyer Betty bbs Chester\nTed McCreary Isaac Jones' BURNS Brooks\nGeorge Johnson Dasher Marshall Mckerson Betty Young\nDolle Boyer. Photo-Lonnie Bilops",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-19"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                28,
+                15,
+                2
+            ],
+            "headline": "Tucson Prepares\nFor Accommodu fion\nBill Passage",
+            "article": "TUCSON The City Council\nordered preparation of public\naccommodations ordinance by a\nspecial committee within two\nweeks.\n\n\nAction came at a hearing at\nwhich representatives of 20 or\nCARNATIONS, plus three individ-\nuals, spoke favoring the proposed\nordinance to prohibit discrimina-\nton because of race, creed or\nnational origin in such places as\nrestaurants, taverns and hotels.\n\n\nCouncilmen James Corbett and\nM. J. Southland, City Manager\nMark Keane and City Attorney\nCalvin Webster we're appointed\nas the committee to draft the\nordinance.",
+            "byline": "Photo-Fred Banks",
+            "bbox_list": [
+                {
+                    "x0": 4050,
+                    "y0": 2172,
+                    "x1": 4491,
+                    "y1": 2237
+                },
+                {
+                    "x0": 3726,
+                    "y0": 4646,
+                    "x1": 4381,
+                    "y1": 4896
+                },
+                {
+                    "x0": 3702,
+                    "y0": 4913,
+                    "x1": 4509,
+                    "y1": 6026
+                }
+            ],
+            "bbox": [
+                3702,
+                2172,
+                4509,
+                6026
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "PresbyterY Opposes\nSchool Petition",
+            "article": "The Presbytery Of Phoenix, of\nthe United Presbyterian Church\npassed unanimously decision to\noppose the initiative petition be-\ning circulated which would for\nbid the public school instruction\nof \"such specified theories as\nare designated \"arheism defined\nas sectarian doctrine.''\n\n\nThe statement continued, 1--WE\ncommend to our congregations\nthe responsible nurture of our\npeople in the Christian faith. We\nwould maintain for our public\nschools a climate where our\nchildren and teachers can pursue\nfreely search for truth without\nrigid legal restrictions or ar\nbitrary theological perspectives.\nTo this end, we urge the members\nof our local congregations not to\nsign this petition",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2851,
+                    "y0": 4681,
+                    "x1": 3518,
+                    "y1": 4896
+                },
+                {
+                    "x0": 2828,
+                    "y0": 4918,
+                    "x1": 3634,
+                    "y1": 6235
+                }
+            ],
+            "bbox": [
+                2828,
+                4681,
+                3634,
+                6235
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "-s---..---v~\nCity Coun Gil\nGives Nod\n\n\nTo LEAP",
+            "article": "City Countil has endorsed\nprogram designed to help the\nmost \"disadvantaged area\" of the\ncity. Formerly known as elmer\nCity, the program was renamed\nOperation LEAP\" designating\nLeadership and Education for\nthe Advancement of Phoenix\"\nMayor Graham reported the fol-\nlowing figures:\n\n\n/. One out of 4 residents lives\nin the \"project area\"\n\n\n2. More than l out of every\n3 houses in the area is dete-\nriorated or diplapidated.\n\n\n8. The residents of this area\nearn an average of $500 less\nper family per year than those\nin the rest of the community.\n\n\n4. There is 2 W times more\nunemployment in this area than\nin the rest of the community.\n\n\nS. Nearly \"a of every 100\nyoungsters in this area live in\none-parent families.\n\n\nGraham noted additional sta\ntistics. but pointed out the phil\nosophy of Operation LEAP is\nsuch that all activities and pro-\ngrams are to be \"planned and\nacted upon with, not for. the af-\nfected persons in the area\"\n\n\nThe majority membership OF\nall committees, 1t was noted,\nwill be residents of the area.\nOperation LEAP will have the\nfollowing task forces or working\ncommittees: Education: Business\nand Industrial Development;\nYouth Council: Housing: Health,\nWelfare and Recreation; and\nNeighborhood Councils.\n\n\nMayor Graham indicated that\ntechnical assistance to the COM\nmittees will be provided by such\ngroups as Community Council,\nPhoenix Union High School Sys-\ntenn, State Employment Service,\nChamber of Commerce. Urban\nLeague, Phoenix Project for Pu-\npil Motivation, and Arizona State\nUniversity.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1964,
+                    "y0": 3765,
+                    "x1": 2504,
+                    "y1": 4114
+                },
+                {
+                    "x0": 1935,
+                    "y0": 4136,
+                    "x1": 2759,
+                    "y1": 7208
+                }
+            ],
+            "bbox": [
+                1935,
+                3765,
+                2759,
+                7208
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "Negro Girl Wins\nMiss Denver Title",
+            "article": "DENVER-The first Negro ever\nto win the Miss Denver contest\nwas a girl, Ernesdyne Elizabeth\nToliver l9, who won over IL\nother candidates. She was award\ned a set of luggage and $500\nscholarship. 1t was her first con-\ntest.\n\n\nHer father, Ernest H. Toliver\nis a Houston, Tex. accountant.\n\n\nMiss Toliver, a sophomore\nma joring in English at the Uni\nversity of Denver, Is S feet 4,\nweighs lis and shapely.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3714,
+                    "y0": 6060,
+                    "x1": 4341,
+                    "y1": 6269
+                },
+                {
+                    "x0": 3702,
+                    "y0": 6315,
+                    "x1": 4509,
+                    "y1": 7150
+                }
+            ],
+            "bbox": [
+                3702,
+                6060,
+                4509,
+                7150
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                20,
+                8
+            ],
+            "headline": "Women Car Wrecked By Train",
+            "article": "Mrs. Leona Huntley. l443 E.\nWashington. was driving her auto\nacross the railroad crossing at\n10th Street near Jackson on June\ns when the train hit her car.\n\n\nShe had started to cross after\nwatching a train and engine pass.\nBefore she could cross another",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 301,
+                    "y0": 6570,
+                    "x1": 1612,
+                    "y1": 6704
+                },
+                {
+                    "x0": 186,
+                    "y0": 6732,
+                    "x1": 998,
+                    "y1": 7202
+                }
+            ],
+            "bbox": [
+                186,
+                6570,
+                1612,
+                7202
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "train approached.\n\n\nThe impact threw Mrs. Hunt\nley into her windshield. she was\ntaken to Good Samaritan Hospital\nfor observation.\n\n\nMrs. Huntley received minor\nbruises. but her car was total\nloss.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1060,
+                    "y0": 6732,
+                    "x1": 1873,
+                    "y1": 7191
+                }
+            ],
+            "bbox": [
+                1060,
+                6732,
+                1873,
+                7191
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                11,
+                10
+            ],
+            "headline": "JFK MEMORIAL\nLIBRARY FUND\nDRIVE OPENS",
+            "article": "The Arizona fund drive for the\nJohn F. Kennedy Memorial Ii\nbrary began June Is. Contribu-\nlions should be mailed to P.O.\nBox ll50.\n\n\nThe Arizona state committee is\nheaded by Stewart Udall, Sec\nrotary of the interior, honorary\nchairman; and George Gavin,\nchairman.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2839,
+                    "y0": 6280,
+                    "x1": 3344,
+                    "y1": 6530
+                },
+                {
+                    "x0": 2822,
+                    "y0": 6552,
+                    "x1": 3628,
+                    "y1": 7138
+                }
+            ],
+            "bbox": [
+                2822,
+                6280,
+                3628,
+                7138
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                25,
+                13
+            ],
+            "headline": "PHOENIX LEADS THE WAY",
+            "article": "The Phoenix city Council voted unanimously\nto byovide an ordinance which would OUTLAW dis\nelimination of persons in places Of public &C.\ncomnOdations because Of race, creed, color,\nnational origin or ancestry.\n\n\nThis ordinance covers places Of public SER\nvice, recreation, amusement, hotels, motels\nand restaurants.\n\n\nOn July %, the public accommodations or\ndiponce becomes effective. This measure uOiH\nbe enforced by a f5Ue member human Tel0-\nti0ns committee 1OlaO Will hold hearings brought\nto them on alleged violations. Penalties rang\ni,zg from $25 to $500 can be melted out after\nconviction on criminal charges for UiOl0tiOn\nof the ordinance.\n\n\nPhoenix noaO joins those cities s0hO are STEP\nping forward and Yeakziag that the Improve\nment of human re lotions must start aOitzim the\nboundaries of our neighbOyhOOdS.\n\n\nThere wll be no rush by minority groups\nto oveyyun certain places Of public accom-\nmqodations because Of the ordinance. No1O\nperson Wiu know that he can stop for sand\nmich and that a city lam is on the books to as\nsure him the right to ask for service.\n\n\nIndications from Tucson point sto1oayd the\npassage of a similar ordinance Within the\nnext fen weeks. surely the next state legis-\nlatuye will stop buyyi,ag their heads in the\nsands and pass state public accommodate\ntons lnaO and create a state human relations\ncommits sion.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 313,
+                    "y0": 1349,
+                    "x1": 1676,
+                    "y1": 1524
+                },
+                {
+                    "x0": 133,
+                    "y0": 1564,
+                    "x1": 1867,
+                    "y1": 4381
+                }
+            ],
+            "bbox": [
+                133,
+                1349,
+                1867,
+                4381
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Shelia Dianne Chappell. 10,\ndaughter Of Mrs. Omega Chap\npell. 3l35 E. Belleview. is the\nArizona Tribune scholarship\naward winner from Booker T.\nWashington School.\n\n\nShelia is active In many school\nactivities and served as the vice\npresident of the school, S Careers\nfor Youth club.\n\n\nShe is an avid reader and would\nlike to be kindergarten teacher.\n\n\nA member of First Institutional\nBaptist Church, is active in sew\neral youth groups. too.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1935,
+                    "y0": 2786,
+                    "x1": 2753,
+                    "y1": 3691
+                }
+            ],
+            "bbox": [
+                1935,
+                2786,
+                2753,
+                3691
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "Civic Club held its annual dance the\nMas Hall, $50 E. Jefferson. Friday night.\n\n\nMesdame Hubert Boyer Betty bbs Chester\nTed McCreary Isaac Jones' BURNS Brooks\nGeorge Johnson Dasher Marshall Mckerson Betty Young\nDolle Boyer. Photo-Lonnie Bilops",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 191,
+                    "y0": 6152,
+                    "x1": 1867,
+                    "y1": 6530
+                }
+            ],
+            "bbox": [
+                191,
+                6152,
+                1867,
+                6530
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-06-19_p1_sn84021918_0041421695A_1964061901_0437.json"
+        }
+    ]
+}

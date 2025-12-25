@@ -1,0 +1,577 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4816,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011701/0264.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 4854,
+                "y0": 417,
+                "x1": 6124,
+                "y1": 5815
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1967,
+                "y0": 3814,
+                "x1": 2791,
+                "y1": 4939
+            },
+            "class": "article",
+            "raw_text": "ALBANY, Ga. An interra-\ncial group of nine Cuba bound\n\"peace marchers\" was convicted\nOf illegal parading through this\nSouth Georgia city.\n\n\nCity Judge a. N. burden Or\ndered three Negroes and six\nwhites to pay STOP each or spend\nIS days in Jail.\n\n\nFive other marchers, who re-\nfused TO leave their cells below\nthe courtroom, we're cited for\ncontempt of court and sentenced\nto seven days each.\n\n\nThey we're arrested Dec. %\non charges of deviating from a\nprescribed parade route, dis\nobeying police order and dis\norderly conduct.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1984,
+                "y0": 3611,
+                "x1": 2675,
+                "y1": 3774
+            },
+            "class": "headline",
+            "raw_text": "MARCHERS\nCONVICTED IN GA.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3758,
+                "y0": 579,
+                "x1": 4588,
+                "y1": 2058
+            },
+            "class": "article",
+            "raw_text": "JENNINGS, Mo, A special\npolice guard outside the home\nOF a woman editor who received\na telephoned threat she had only\n\"a hours to live.\n\n\nMrs. Jean Gardner, mother Of\nfour and publisher Of the weekly\nJennings News In this racially\ntroubled St. Louis suburg, said\na man phoned her home.\n\n\n1t was the fifth threat by tele-\nphone Mrs. Gardner had received\nin 3O-hour period, but the first\nthat threatened her life. Two\nother calls threatened damage to\nher newspaper shop.\n\n\nThe calls came after this\nweeks Issue of the News was\npublished with a headline, ERA\ncial Problem Gives Jennings a\nBlack Eye\n\n\nThe story blamed teen-age\nhoodlumism for the firecrack-\ners and window smashing which\nplagued Negro family.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3770,
+                "y0": 347,
+                "x1": 4455,
+                "y1": 557
+            },
+            "class": "headline",
+            "raw_text": "EDITOR 1@G\nTHREATENED FOR\nRACE STORY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1973,
+                "y0": 2399,
+                "x1": 2797,
+                "y1": 3542
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES The legal\nprofession is \"the worst inte-\ngrated and worst segregated\ngroup in our society, said U. S.\nSecretary of Labor Willard\nWrit. He spoke at the recent\nconvention of the Association of\nAmerican Law Schools in Los\nAngeles.\n\n\nNot more than 35 of the nation S\nprincipal law firms are inte-\ngrated, he charged.\n\n\nWrit said further that a Negro\nhas almost no chance to be ad-\nmitted to major law firm.\n\n\nThe barriers that he encount-\ners in trying to get In is ex-\ncceded only by \"that of. female\nand poorly groomed applicants\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1979,
+                "y0": 2162,
+                "x1": 2652,
+                "y1": 2377
+            },
+            "class": "headline",
+            "raw_text": "WRIT SAYS\n\n\nLAW PROFESSION\nIS MOST BIASED",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2871,
+                "y0": 591,
+                "x1": 3695,
+                "y1": 1850
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The US. Su-\npreme Court struck down a\nLouisiana law requiring the race\nof candidates for all state cleo\ntive offices.\n\n\nThe decision wa handed down on\nan appeal by two Negroes who\nwe're unsucces sful candidates for\nnomination on the school board of\nEast Baton Rouge parish in a\nDemocratic primary on July %,\n1862.\n\n\nDeputy H. Anderson and Acie\nJ. Bolton, the two Negroes said\nthe RECRUITMENT was unconstitu-\ntional and made racial discrimi-\nnation possible.\n\n\nJustice Clark rendering the\nunanimous decision said a racial\nlabel on candidate furnishes a\nvehicle to arouse prejudices.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2894,
+                "y0": 347,
+                "x1": 3666,
+                "y1": 563
+            },
+            "class": "headline",
+            "raw_text": "SUPREME COURT\n\n\nSTRIKES DOWN RACE\nTAG ON CANDIDATES",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1063,
+                "y0": 2452,
+                "x1": 1887,
+                "y1": 3287
+            },
+            "class": "article",
+            "raw_text": "The Southminster Presbyer-\nian Church, 1923 l.. Broadway,\nwill present \"The Battle Of the\nChoirs\" on Sun. Jan. 10 3 pm.\n\n\nSeveral Valley choirs will ap-\npear. This program launches the\ncclebrationn of the tenth ami\nversary of the church.\n\n\nPrograms will aid financing\nin a new building project, which\nwill consist of youth center,\nfellowship hall for public use\nand Sunday School classrooms.\n\n\nThe public is invited to attend.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1080,
+                "y0": 2197,
+                "x1": 1527,
+                "y1": 2424
+            },
+            "class": "headline",
+            "raw_text": "SONG FEST\nPLANNED\n\n\nAT CHURCH",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 205,
+                "y0": 2005,
+                "x1": 1029,
+                "y1": 2238
+            },
+            "class": "article",
+            "raw_text": "LADY EBONEE BEAUTY\nCENTER, 9l7 W. Buckeye Rd.\nALI -2642",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 193,
+                "y0": 2295,
+                "x1": 1023,
+                "y1": 2458
+            },
+            "class": "article",
+            "raw_text": "SOUBL ETS BEAUTY SHOP\n\n\n20l4 E. Broadway I}R 6-3964",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 193,
+                "y0": 2521,
+                "x1": 1035,
+                "y1": 2673
+            },
+            "class": "article",
+            "raw_text": "DOUG'S BARBER SHOP\n\n\n-9ll f.. Broadway 276-l000",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 193,
+                "y0": 2707,
+                "x1": 1017,
+                "y1": 2934
+            },
+            "class": "article",
+            "raw_text": "IACKSONS BEAUTY SIIOPPE\n1898 T.. Madison\nAL 2-954l",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 199,
+                "y0": 1739,
+                "x1": 1017,
+                "y1": 1954
+            },
+            "class": "article",
+            "raw_text": "KOZY COTTAGE BEAUTY SHOP\n1910 w. Sherman st.\nAL 8-O2O6",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3028,
+                "y0": 5976,
+                "x1": 4403,
+                "y1": 6586
+            },
+            "class": "article",
+            "raw_text": "You put your left foot out and kick away your cothespms Then\nyou put your right foot out and kick out the Clothesne From\n\n\nthen steps easy onet\"othree Step one: Toss\nload Of clothes your gas dryer Step two: Turn the DIAL Step\nRelax Your clothes dry minutes spnngtme fresh\nneeding ironing than when dried the old sunscorch\nEven in Arizona gas clothes dryer is an important discovery\nany hoemaker keeps your delicate fabrics safe from\ndust and whipping winds And think OF the precious hours you'll\nsave! Come in and learn 10 waltz through washday today",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964011701_0264",
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                1
+            ],
+            "headline": "MARCHERS\nCONVICTED IN GA.",
+            "article": "ALBANY, Ga. An interra-\ncial group of nine Cuba bound\n\"peace marchers\" was convicted\nOf illegal parading through this\nSouth Georgia city.\n\n\nCity Judge a. N. burden Or\ndered three Negroes and six\nwhites to pay STOP each or spend\nIS days in Jail.\n\n\nFive other marchers, who re-\nfused TO leave their cells below\nthe courtroom, we're cited for\ncontempt of court and sentenced\nto seven days each.\n\n\nThey we're arrested Dec. %\non charges of deviating from a\nprescribed parade route, dis\nobeying police order and dis\norderly conduct.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1984,
+                    "y0": 3611,
+                    "x1": 2675,
+                    "y1": 3774
+                },
+                {
+                    "x0": 1967,
+                    "y0": 3814,
+                    "x1": 2791,
+                    "y1": 4939
+                }
+            ],
+            "bbox": [
+                1967,
+                3611,
+                2791,
+                4939
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "EDITOR 1@G\nTHREATENED FOR\nRACE STORY",
+            "article": "JENNINGS, Mo, A special\npolice guard outside the home\nOF a woman editor who received\na telephoned threat she had only\n\"a hours to live.\n\n\nMrs. Jean Gardner, mother Of\nfour and publisher Of the weekly\nJennings News In this racially\ntroubled St. Louis suburg, said\na man phoned her home.\n\n\n1t was the fifth threat by tele-\nphone Mrs. Gardner had received\nin 3O-hour period, but the first\nthat threatened her life. Two\nother calls threatened damage to\nher newspaper shop.\n\n\nThe calls came after this\nweeks Issue of the News was\npublished with a headline, ERA\ncial Problem Gives Jennings a\nBlack Eye\n\n\nThe story blamed teen-age\nhoodlumism for the firecrack-\ners and window smashing which\nplagued Negro family.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3770,
+                    "y0": 347,
+                    "x1": 4455,
+                    "y1": 557
+                },
+                {
+                    "x0": 3758,
+                    "y0": 579,
+                    "x1": 4588,
+                    "y1": 2058
+                }
+            ],
+            "bbox": [
+                3758,
+                347,
+                4588,
+                2058
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "WRIT SAYS\n\n\nLAW PROFESSION\nIS MOST BIASED",
+            "article": "LOS ANGELES The legal\nprofession is \"the worst inte-\ngrated and worst segregated\ngroup in our society, said U. S.\nSecretary of Labor Willard\nWrit. He spoke at the recent\nconvention of the Association of\nAmerican Law Schools in Los\nAngeles.\n\n\nNot more than 35 of the nation S\nprincipal law firms are inte-\ngrated, he charged.\n\n\nWrit said further that a Negro\nhas almost no chance to be ad-\nmitted to major law firm.\n\n\nThe barriers that he encount-\ners in trying to get In is ex-\ncceded only by \"that of. female\nand poorly groomed applicants\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1979,
+                    "y0": 2162,
+                    "x1": 2652,
+                    "y1": 2377
+                },
+                {
+                    "x0": 1973,
+                    "y0": 2399,
+                    "x1": 2797,
+                    "y1": 3542
+                }
+            ],
+            "bbox": [
+                1973,
+                2162,
+                2797,
+                3542
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "SUPREME COURT\n\n\nSTRIKES DOWN RACE\nTAG ON CANDIDATES",
+            "article": "WASHINGTON The US. Su-\npreme Court struck down a\nLouisiana law requiring the race\nof candidates for all state cleo\ntive offices.\n\n\nThe decision wa handed down on\nan appeal by two Negroes who\nwe're unsucces sful candidates for\nnomination on the school board of\nEast Baton Rouge parish in a\nDemocratic primary on July %,\n1862.\n\n\nDeputy H. Anderson and Acie\nJ. Bolton, the two Negroes said\nthe RECRUITMENT was unconstitu-\ntional and made racial discrimi-\nnation possible.\n\n\nJustice Clark rendering the\nunanimous decision said a racial\nlabel on candidate furnishes a\nvehicle to arouse prejudices.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2894,
+                    "y0": 347,
+                    "x1": 3666,
+                    "y1": 563
+                },
+                {
+                    "x0": 2871,
+                    "y0": 591,
+                    "x1": 3695,
+                    "y1": 1850
+                }
+            ],
+            "bbox": [
+                2871,
+                347,
+                3695,
+                1850
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "SONG FEST\nPLANNED\n\n\nAT CHURCH",
+            "article": "The Southminster Presbyer-\nian Church, 1923 l.. Broadway,\nwill present \"The Battle Of the\nChoirs\" on Sun. Jan. 10 3 pm.\n\n\nSeveral Valley choirs will ap-\npear. This program launches the\ncclebrationn of the tenth ami\nversary of the church.\n\n\nPrograms will aid financing\nin a new building project, which\nwill consist of youth center,\nfellowship hall for public use\nand Sunday School classrooms.\n\n\nThe public is invited to attend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1080,
+                    "y0": 2197,
+                    "x1": 1527,
+                    "y1": 2424
+                },
+                {
+                    "x0": 1063,
+                    "y0": 2452,
+                    "x1": 1887,
+                    "y1": 3287
+                }
+            ],
+            "bbox": [
+                1063,
+                2197,
+                1887,
+                3287
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "LADY EBONEE BEAUTY\nCENTER, 9l7 W. Buckeye Rd.\nALI -2642",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 205,
+                    "y0": 2005,
+                    "x1": 1029,
+                    "y1": 2238
+                }
+            ],
+            "bbox": [
+                205,
+                2005,
+                1029,
+                2238
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "SOUBL ETS BEAUTY SHOP\n\n\n20l4 E. Broadway I}R 6-3964",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 193,
+                    "y0": 2295,
+                    "x1": 1023,
+                    "y1": 2458
+                }
+            ],
+            "bbox": [
+                193,
+                2295,
+                1023,
+                2458
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "DOUG'S BARBER SHOP\n\n\n-9ll f.. Broadway 276-l000",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 193,
+                    "y0": 2521,
+                    "x1": 1035,
+                    "y1": 2673
+                }
+            ],
+            "bbox": [
+                193,
+                2521,
+                1035,
+                2673
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "IACKSONS BEAUTY SIIOPPE\n1898 T.. Madison\nAL 2-954l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 193,
+                    "y0": 2707,
+                    "x1": 1017,
+                    "y1": 2934
+                }
+            ],
+            "bbox": [
+                193,
+                2707,
+                1017,
+                2934
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "KOZY COTTAGE BEAUTY SHOP\n1910 w. Sherman st.\nAL 8-O2O6",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 199,
+                    "y0": 1739,
+                    "x1": 1017,
+                    "y1": 1954
+                }
+            ],
+            "bbox": [
+                199,
+                1739,
+                1017,
+                1954
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "You put your left foot out and kick away your cothespms Then\nyou put your right foot out and kick out the Clothesne From\n\n\nthen steps easy onet\"othree Step one: Toss\nload Of clothes your gas dryer Step two: Turn the DIAL Step\nRelax Your clothes dry minutes spnngtme fresh\nneeding ironing than when dried the old sunscorch\nEven in Arizona gas clothes dryer is an important discovery\nany hoemaker keeps your delicate fabrics safe from\ndust and whipping winds And think OF the precious hours you'll\nsave! Come in and learn 10 waltz through washday today",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3028,
+                    "y0": 5976,
+                    "x1": 4403,
+                    "y1": 6586
+                }
+            ],
+            "bbox": [
+                3028,
+                5976,
+                4403,
+                6586
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-01-17_pna_sn84021918_0041421695A_1964011701_0264.json"
+        }
+    ]
+}

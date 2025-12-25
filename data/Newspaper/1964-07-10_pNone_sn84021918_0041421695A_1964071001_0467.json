@@ -1,0 +1,335 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7446,
+        "width": 4871,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071001/0467.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3738,
+                "y0": 3362,
+                "x1": 4553,
+                "y1": 4602
+            },
+            "class": "article",
+            "raw_text": "In memory of our beloved hus-\nband. father and grandfather, Ed\nward Harris, who departed from\nthis world, June 27. 1868.\n1t was one year ago\nSince you left us here below.\nWe have thought about you each\nday\nRemembering some of the words\nyou say\nKnowing you are happy wher-\never you are.\nThe depths you left cannot be\nfilled,\nAlthough we have travelled so far.\nSleep on dear and take your rest.\n\n\nWe loved you,\nBut. God loved you best.\n\n\nMrs. L. G.. Harris,\n\n\nRev. and Mrs. R. ]. N. Jones\n\n\nand family",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3825,
+                "y0": 3222,
+                "x1": 4361,
+                "y1": 3334
+            },
+            "class": "headline",
+            "raw_text": "IN MEM0RIAM",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3721,
+                "y0": 587,
+                "x1": 4542,
+                "y1": 3177
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The NAACP\nlegal defense fund praised the\nPlayboy Club Of New Orleans for\nit's suit against Louisiana laws\nprohibiting Negroes from attend\ning the club.\n\n\nJack Creenberg, director\ncounsel. called the Playboy suit\na major legal step by private\nfirm aimed at breaking down\nracial barriers In the south.\n\n\n''lt Is encouraging to see a\nprivate corporation invoke the\nUS. Constitution in seeking to\nopen Its entertainment facilities\nto all citizens\" MIR. Greenberg\nsaid.\n\n\nThe Playboy suit also asks the\nCourt to issue an injunction re-\nstraining the defendants. who in\nclude Governor John McKeithen,\nMayor Victor Schiro, and other\nstate and city officials. from\nenforcing the discriminatory\nlaws or the segregationist pol\nicies they embody.\n\n\nPlayboy International. which\nsupervises the operations Of the\nPlayboy Clubs in eight cities.\nhas 100000 \"key holders\" in\nthe nation including many Me-\ngroes.\n\n\nAny \"key holder\" is entitled\nto the full privileges Of all Play\nboy Clubs. regardless ofhis place\nOf residence. The Louisiana stat\nute and New Orleans ordinance\nchallenged this week make tim\npossible for the New Orleans\nClub or its manager to admit\nNegroes without riskng fines\nfrom $l00 to $1,000, jail term\nranging from 90 days to one\nyear, and loss of liquor license.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3744,
+                "y0": 372,
+                "x1": 4228,
+                "y1": 553
+            },
+            "class": "headline",
+            "raw_text": "Plu yboy Club\nSued For Bios",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1981,
+                "y0": 2437,
+                "x1": 2791,
+                "y1": 4009
+            },
+            "class": "article",
+            "raw_text": "COOK, VS., $3.50 PER HOUR\nApply at: Davis-Monthan Air\nForce Base, Arizona and other\nfederal agencies in the Tucson\narea.\n\n\nExperience Requirements: APP\nplicants must have had one year\nof progressively responsible ex-\nperience in general cooking in a\nrestaurant. hotel, hospital. resi-\ndent school, or institution, which\nmust have included six months\nexperience in Quantity cook\ning. Quantity cooking is de-\nfined as experience In cooking\nwhich required the preparation\nand serving Of at least 200 meals\ndaily.\n\n\nSubmit completed SF-57 Jap\nplication for Federal Employ\nment) and GAG Card Form 500l\nBE to: Executive Secretary,\nBoard of US. Civil Service Ex-\naminers, Davis-Monthan Air\nForce Base, Arizona. 85707.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1993,
+                "y0": 2332,
+                "x1": 2663,
+                "y1": 2438
+            },
+            "class": "headline",
+            "raw_text": "JOB OPPORTUNITIES",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2825,
+                "y0": 634,
+                "x1": 3658,
+                "y1": 3386
+            },
+            "class": "article",
+            "raw_text": "Mrs. Jay Frame. Of Marion,\nOhio. spent two weeks with her\nson and daughter in law. Mr.. and\nMrs. Martin Stevens on.\n\n\nMisses Dorothy Echols, Sharon\nBrooks, Loretta Orme and Jackie\nLaster, spent the 4th Of July in\nPayson.\n\n\nMr.. and Mrs. Leroy alker and\nson are on their way to Chicago.\nThey will spend few days in\nFresno, Calf.\n\n\nMrs. Ernestine Davis, Of Las\nVegas, Is visiting the L. G. Rus\nsell family.\n\n\nMiss Annetta Faye Hawkins at\ntended family reunion at Flag\nstaff, Arizona.\n\n\nMrs. Pearl Norman went home\nto San Diego by way of San An\ntonic, Tex.\n\n\nThe Debonairs appreciate the\nsupport of all who made our an\nnual dance a success.\n\n\nAll Debonairs take their hats\noff to our vice president who took\nover club leadership so quickly\nwhen our president Mrs. Demtra\nVann was called out Of the city\nbecause Of her fathers illness.\n\n\nWe congratulate vice president\nBessie Cook and hope Demtra will\nhurry home.\n\n\nMr.. and Mrs. Wesley Conner\nand their family motored to Flag\nstaff to enjoy the all Indian pow\nWOW.\n\n\nThe new growth of the year--a\nyoung lady in her twenties Is cut\nting teeth. She had one pulled and\nanother Is coming out. This\nseems to run In the family--the\nsame thing has happened to one\nof her sisters.\n\n\nGive me a call for news items\nin this column: days AL. 8-05ll\nand 258-OOO5 evenings.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2848,
+                "y0": 413,
+                "x1": 3524,
+                "y1": 600
+            },
+            "class": "headline",
+            "raw_text": "All Around\nBY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2860,
+                "y0": 3507,
+                "x1": 3681,
+                "y1": 4264
+            },
+            "class": "article",
+            "raw_text": "If you re watching your weight.\nbut can't resist snacks, the US.\nDepartment of Agriculture sug-\ngests you MUNICH carrot strips,\ncelery, caulif1ower, or melba\ntoast.\n\n\nIf you crave something sweet.\ntry whatever fresh fruits are in\nseason. strawberries, pears,\npeaches, a strip of cantaloupe\nor watermelon. They're high on\ntaste and nutrition and low on\ncalorieS.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3040,
+                "y0": 3403,
+                "x1": 3460,
+                "y1": 3491
+            },
+            "class": "headline",
+            "raw_text": "Weight Tips",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964071001_0467",
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                0
+            ],
+            "headline": "IN MEM0RIAM",
+            "article": "In memory of our beloved hus-\nband. father and grandfather, Ed\nward Harris, who departed from\nthis world, June 27. 1868.\n1t was one year ago\nSince you left us here below.\nWe have thought about you each\nday\nRemembering some of the words\nyou say\nKnowing you are happy wher-\never you are.\nThe depths you left cannot be\nfilled,\nAlthough we have travelled so far.\nSleep on dear and take your rest.\n\n\nWe loved you,\nBut. God loved you best.\n\n\nMrs. L. G.. Harris,\n\n\nRev. and Mrs. R. ]. N. Jones\n\n\nand family",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3825,
+                    "y0": 3222,
+                    "x1": 4361,
+                    "y1": 3334
+                },
+                {
+                    "x0": 3738,
+                    "y0": 3362,
+                    "x1": 4553,
+                    "y1": 4602
+                }
+            ],
+            "bbox": [
+                3738,
+                3222,
+                4553,
+                4602
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-10_pna_sn84021918_0041421695A_1964071001_0467.json"
+        },
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "Plu yboy Club\nSued For Bios",
+            "article": "NEW YORK The NAACP\nlegal defense fund praised the\nPlayboy Club Of New Orleans for\nit's suit against Louisiana laws\nprohibiting Negroes from attend\ning the club.\n\n\nJack Creenberg, director\ncounsel. called the Playboy suit\na major legal step by private\nfirm aimed at breaking down\nracial barriers In the south.\n\n\n''lt Is encouraging to see a\nprivate corporation invoke the\nUS. Constitution in seeking to\nopen Its entertainment facilities\nto all citizens\" MIR. Greenberg\nsaid.\n\n\nThe Playboy suit also asks the\nCourt to issue an injunction re-\nstraining the defendants. who in\nclude Governor John McKeithen,\nMayor Victor Schiro, and other\nstate and city officials. from\nenforcing the discriminatory\nlaws or the segregationist pol\nicies they embody.\n\n\nPlayboy International. which\nsupervises the operations Of the\nPlayboy Clubs in eight cities.\nhas 100000 \"key holders\" in\nthe nation including many Me-\ngroes.\n\n\nAny \"key holder\" is entitled\nto the full privileges Of all Play\nboy Clubs. regardless ofhis place\nOf residence. The Louisiana stat\nute and New Orleans ordinance\nchallenged this week make tim\npossible for the New Orleans\nClub or its manager to admit\nNegroes without riskng fines\nfrom $l00 to $1,000, jail term\nranging from 90 days to one\nyear, and loss of liquor license.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3744,
+                    "y0": 372,
+                    "x1": 4228,
+                    "y1": 553
+                },
+                {
+                    "x0": 3721,
+                    "y0": 587,
+                    "x1": 4542,
+                    "y1": 3177
+                }
+            ],
+            "bbox": [
+                3721,
+                372,
+                4542,
+                3177
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-10_pna_sn84021918_0041421695A_1964071001_0467.json"
+        },
+        {
+            "object_ids": [
+                18,
+                5
+            ],
+            "headline": "JOB OPPORTUNITIES",
+            "article": "COOK, VS., $3.50 PER HOUR\nApply at: Davis-Monthan Air\nForce Base, Arizona and other\nfederal agencies in the Tucson\narea.\n\n\nExperience Requirements: APP\nplicants must have had one year\nof progressively responsible ex-\nperience in general cooking in a\nrestaurant. hotel, hospital. resi-\ndent school, or institution, which\nmust have included six months\nexperience in Quantity cook\ning. Quantity cooking is de-\nfined as experience In cooking\nwhich required the preparation\nand serving Of at least 200 meals\ndaily.\n\n\nSubmit completed SF-57 Jap\nplication for Federal Employ\nment) and GAG Card Form 500l\nBE to: Executive Secretary,\nBoard of US. Civil Service Ex-\naminers, Davis-Monthan Air\nForce Base, Arizona. 85707.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1993,
+                    "y0": 2332,
+                    "x1": 2663,
+                    "y1": 2438
+                },
+                {
+                    "x0": 1981,
+                    "y0": 2437,
+                    "x1": 2791,
+                    "y1": 4009
+                }
+            ],
+            "bbox": [
+                1981,
+                2332,
+                2791,
+                4009
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-10_pna_sn84021918_0041421695A_1964071001_0467.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "All Around\nBY FLORA RUFFIN",
+            "article": "Mrs. Jay Frame. Of Marion,\nOhio. spent two weeks with her\nson and daughter in law. Mr.. and\nMrs. Martin Stevens on.\n\n\nMisses Dorothy Echols, Sharon\nBrooks, Loretta Orme and Jackie\nLaster, spent the 4th Of July in\nPayson.\n\n\nMr.. and Mrs. Leroy alker and\nson are on their way to Chicago.\nThey will spend few days in\nFresno, Calf.\n\n\nMrs. Ernestine Davis, Of Las\nVegas, Is visiting the L. G. Rus\nsell family.\n\n\nMiss Annetta Faye Hawkins at\ntended family reunion at Flag\nstaff, Arizona.\n\n\nMrs. Pearl Norman went home\nto San Diego by way of San An\ntonic, Tex.\n\n\nThe Debonairs appreciate the\nsupport of all who made our an\nnual dance a success.\n\n\nAll Debonairs take their hats\noff to our vice president who took\nover club leadership so quickly\nwhen our president Mrs. Demtra\nVann was called out Of the city\nbecause Of her fathers illness.\n\n\nWe congratulate vice president\nBessie Cook and hope Demtra will\nhurry home.\n\n\nMr.. and Mrs. Wesley Conner\nand their family motored to Flag\nstaff to enjoy the all Indian pow\nWOW.\n\n\nThe new growth of the year--a\nyoung lady in her twenties Is cut\nting teeth. She had one pulled and\nanother Is coming out. This\nseems to run In the family--the\nsame thing has happened to one\nof her sisters.\n\n\nGive me a call for news items\nin this column: days AL. 8-05ll\nand 258-OOO5 evenings.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2848,
+                    "y0": 413,
+                    "x1": 3524,
+                    "y1": 600
+                },
+                {
+                    "x0": 2825,
+                    "y0": 634,
+                    "x1": 3658,
+                    "y1": 3386
+                }
+            ],
+            "bbox": [
+                2825,
+                413,
+                3658,
+                3386
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-10_pna_sn84021918_0041421695A_1964071001_0467.json"
+        },
+        {
+            "object_ids": [
+                13,
+                12
+            ],
+            "headline": "Weight Tips",
+            "article": "If you re watching your weight.\nbut can't resist snacks, the US.\nDepartment of Agriculture sug-\ngests you MUNICH carrot strips,\ncelery, caulif1ower, or melba\ntoast.\n\n\nIf you crave something sweet.\ntry whatever fresh fruits are in\nseason. strawberries, pears,\npeaches, a strip of cantaloupe\nor watermelon. They're high on\ntaste and nutrition and low on\ncalorieS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3040,
+                    "y0": 3403,
+                    "x1": 3460,
+                    "y1": 3491
+                },
+                {
+                    "x0": 2860,
+                    "y0": 3507,
+                    "x1": 3681,
+                    "y1": 4264
+                }
+            ],
+            "bbox": [
+                2860,
+                3403,
+                3681,
+                4264
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-07-10_pna_sn84021918_0041421695A_1964071001_0467.json"
+        }
+    ]
+}

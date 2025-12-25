@@ -1,0 +1,276 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4907,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112001/0639.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3705,
+                "y0": 434,
+                "x1": 4523,
+                "y1": 1548
+            },
+            "class": "article",
+            "raw_text": "Antler Guard meet S every third\nTue sday at 8 pm in the lodge hall.\nPlan to attend the gala floor\nshow and dance at the Elks Nov.\nl the star will be Beverly Har-\nris, star of Stage, screen, and\ntelevision. Donation ST. so.\n\n\nNov. 24-Regular lodge meet\ning: Nov. 70 Thanksgiving Dance\nsponsored by the Bills: Nov. d\nHobo Party sponsored by the\nDaughters.\n\n\nWelsey Jackson is home re-\ncuperating at 1917 w. Pima.\nYour reporter has been i'll\nsuffering from bronchitis, arth-\nritis and electionitis. But I'm\nback on the job.\n\n\nCharles tta McClammy",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3734,
+                "y0": 272,
+                "x1": 4257,
+                "y1": 389
+            },
+            "class": "headline",
+            "raw_text": "EIks Corner",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1954,
+                "y0": 2115,
+                "x1": 2773,
+                "y1": 2702
+            },
+            "class": "article",
+            "raw_text": "Phoenix Alumni chapter, Kap-\npa Alpha Psi Fraternity will\nsponsor a wives cocktail party\nNov. 20 at the Desert Rose Mo-\ntel.\n\n\nFinal plans have been made\nfor the Kappas annual Black and\nWhite formal which will be held\nat the Executive House, Scots\ndale, Dec. %.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1943,
+                "y0": 1895,
+                "x1": 2437,
+                "y1": 2099
+            },
+            "class": "headline",
+            "raw_text": "K apps To\n\n\nHost Wives",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 163,
+                "y0": 2428,
+                "x1": 982,
+                "y1": 2719
+            },
+            "class": "article",
+            "raw_text": "A special Thanksgiving. Day\nprogram will be held at First\nInstitutional Baptist Church, Sun.\nNov. u. All members and\nfriends are urged to attend.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 181,
+                "y0": 2139,
+                "x1": 831,
+                "y1": 2400
+            },
+            "class": "headline",
+            "raw_text": "Thanksgiving\n\n\nProgram Set",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1062,
+                "y0": 2318,
+                "x1": 1880,
+                "y1": 2713
+            },
+            "class": "article",
+            "raw_text": "The mine owner was seeking\na OO,OOO loan from the bank.\n\"That' S a lot of money!\" said the\nbank president. \"Can you give\nme Statement7\"\n\n\nEYES,\" replied the miner.\n\"r, optimistic\"",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1068,
+                "y0": 2208,
+                "x1": 1625,
+                "y1": 2302
+            },
+            "class": "headline",
+            "raw_text": "CHUCKLE TIME",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112001_0639",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "EIks Corner",
+            "article": "Antler Guard meet S every third\nTue sday at 8 pm in the lodge hall.\nPlan to attend the gala floor\nshow and dance at the Elks Nov.\nl the star will be Beverly Har-\nris, star of Stage, screen, and\ntelevision. Donation ST. so.\n\n\nNov. 24-Regular lodge meet\ning: Nov. 70 Thanksgiving Dance\nsponsored by the Bills: Nov. d\nHobo Party sponsored by the\nDaughters.\n\n\nWelsey Jackson is home re-\ncuperating at 1917 w. Pima.\nYour reporter has been i'll\nsuffering from bronchitis, arth-\nritis and electionitis. But I'm\nback on the job.\n\n\nCharles tta McClammy",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3734,
+                    "y0": 272,
+                    "x1": 4257,
+                    "y1": 389
+                },
+                {
+                    "x0": 3705,
+                    "y0": 434,
+                    "x1": 4523,
+                    "y1": 1548
+                }
+            ],
+            "bbox": [
+                3705,
+                272,
+                4523,
+                1548
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-11-20_pna_sn84021918_0041421695A_1964112001_0639.json"
+        },
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "K apps To\n\n\nHost Wives",
+            "article": "Phoenix Alumni chapter, Kap-\npa Alpha Psi Fraternity will\nsponsor a wives cocktail party\nNov. 20 at the Desert Rose Mo-\ntel.\n\n\nFinal plans have been made\nfor the Kappas annual Black and\nWhite formal which will be held\nat the Executive House, Scots\ndale, Dec. %.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1943,
+                    "y0": 1895,
+                    "x1": 2437,
+                    "y1": 2099
+                },
+                {
+                    "x0": 1954,
+                    "y0": 2115,
+                    "x1": 2773,
+                    "y1": 2702
+                }
+            ],
+            "bbox": [
+                1943,
+                1895,
+                2773,
+                2702
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-20_pna_sn84021918_0041421695A_1964112001_0639.json"
+        },
+        {
+            "object_ids": [
+                6,
+                9
+            ],
+            "headline": "Thanksgiving\n\n\nProgram Set",
+            "article": "A special Thanksgiving. Day\nprogram will be held at First\nInstitutional Baptist Church, Sun.\nNov. u. All members and\nfriends are urged to attend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 181,
+                    "y0": 2139,
+                    "x1": 831,
+                    "y1": 2400
+                },
+                {
+                    "x0": 163,
+                    "y0": 2428,
+                    "x1": 982,
+                    "y1": 2719
+                }
+            ],
+            "bbox": [
+                163,
+                2139,
+                982,
+                2719
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-11-20_pna_sn84021918_0041421695A_1964112001_0639.json"
+        },
+        {
+            "object_ids": [
+                12,
+                8
+            ],
+            "headline": "CHUCKLE TIME",
+            "article": "The mine owner was seeking\na OO,OOO loan from the bank.\n\"That' S a lot of money!\" said the\nbank president. \"Can you give\nme Statement7\"\n\n\nEYES,\" replied the miner.\n\"r, optimistic\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1068,
+                    "y0": 2208,
+                    "x1": 1625,
+                    "y1": 2302
+                },
+                {
+                    "x0": 1062,
+                    "y0": 2318,
+                    "x1": 1880,
+                    "y1": 2713
+                }
+            ],
+            "bbox": [
+                1062,
+                2208,
+                1880,
+                2713
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-11-20_pna_sn84021918_0041421695A_1964112001_0639.json"
+        }
+    ]
+}

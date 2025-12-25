@@ -1,0 +1,619 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7405,
+        "width": 4850,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112701/0643.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2766,
+                "y0": 5542,
+                "x1": 3583,
+                "y1": 6422
+            },
+            "class": "article",
+            "raw_text": "Mrs. Cla ssie CAN'T, an employe\nof the Maricopa County attor-\nney's office for the past nine\nyears, was appointed clerk ofthe\nnew Division l Court of Appeals.\n\n\nMrs. CAN'T, %, of 728 S. Third\nSt. assumes the $8,400-a year\njob Jan. 4.\n\n\nShe received her elementary\nand secondary education in Yuma\nand attended Arizona State Col\nlege. In 1855 she completed a\nsecretarial course in Phoenix.\nShe was hired by the county at\ntorney office in November 1855.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2783,
+                "y0": 5166,
+                "x1": 3438,
+                "y1": 5514
+            },
+            "class": "headline",
+            "raw_text": "MRS. CAN'T\nAPPOINTED AS\nCOURT CLERK",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1886,
+                "y0": 5438,
+                "x1": 2697,
+                "y1": 6208
+            },
+            "class": "article",
+            "raw_text": "Library Club Of Palmdale\nSchool presented a Thanksgiving\nprogram, Nov. %.\n\n\nSpeaker of the day was Rev.\nc.. B. Brooks, board member of\nRoosevelt School District.\n\n\nAlbina Martinez read the late\nPresident Kennedys 1868\nThanksgiving Proclamation.\n\n\nMrs. Evangline Cook directed\nglee club musical selections.\n\n\nMrs. D. Newton, librarian is\nclub sponsor.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1904,
+                "y0": 5200,
+                "x1": 2402,
+                "y1": 5410
+            },
+            "class": "headline",
+            "raw_text": "Thanksgiving\n\n\nProgram Held",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3639,
+                "y0": 4905,
+                "x1": 4462,
+                "y1": 7122
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = James Farmer,\ndirector of the Congress of Rae\nial Equality announced general\nplan for \"a more meaningful\nmilitancy' that would involve\nCORE members more directly\nin the political, economic and\nsocial life of ghetto communities.\n\n\nHe announced the creation of\na new CORE executive position,\nassociated national director, to\nbe held by DR.. George A. Wiley,\nfounder of the CORE chapter in\nSyracuse and an assistant pro-\nlessor of chemistry at Syracuse\nUniversity.\n\n\nThe announcements we're made\nduring news conference at\nCORE headquarters here. Far\nmer said that the national CORE\nwas not abandoning its direct\naction\" policy of demonstrations\nand civil disobedience.\n\n\n\"There will still be street de-\nmonstrations where they are\ncalled for, but under our new\ncommunity action program we\nhope to have block by block In\nfluence and the ability to rally\nentire communities to protest not\nmerely our own members, Far\nmer said.\n\n\nHe said CORE would encourage\nrent strikes, urban renewal pro-\niects, the formation of coopera-\ntives by ghetto residents, and\nparticipation in local political\nactivities.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3674,
+                "y0": 4645,
+                "x1": 4398,
+                "y1": 4872
+            },
+            "class": "headline",
+            "raw_text": "CORE To\n\n\nKeep Aggressive",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1881,
+                "y0": 1405,
+                "x1": 2709,
+                "y1": 3107
+            },
+            "class": "article",
+            "raw_text": "NEW YORK--Jack Creenberg,\ndirector council of the NAACP\nLegal Defense Fund today an\nnounced that Clyde Harvey. Miss\nissippi Civil Rights supporter.\nhas been freed from Jail.\n\n\nMr.. Harvey had served two\nmonths of a 9O-day term for\npossession of two cans Of beer.\nMississippi is dry state.\n\n\nPending decision of the case\nChief Judge Ebert P. futile of\nthe u. S. Court Of Appeals for the\n5th Circuit ordered Mr.. Harvey\nrelea Sc on bail. Federal District\nJudge Sidney Mize had denied\nLegal Defense Fund motions ON\nMr.. Harvey S behalf on October\nIA.\n\n\nMr.. Harvey, an illiterate far\nmer and father of 6, was ares\nted on July 10, relea sed on bond\nand told by local judge he would\nbe informed of further proceed\nings. Then on Sept. 9. he was\nsted and told he had been\nconvicted on July % and senten-\nced to pay a $500 fine andto serve\n\n90 days in Jail.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1927,
+                "y0": 1209,
+                "x1": 2356,
+                "y1": 1389
+            },
+            "class": "headline",
+            "raw_text": "JuiIed For\nH owing Beer",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1898,
+                "y0": 6566,
+                "x1": 2703,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = Negro pupils\nnow account for 87.o per cent of\nthe enrolment in District Of\nColumbia public schools.\n\n\nSchool census figures relea sed\nyesterday show an increas of\n$3.50 Negro pupils over last\nyear, and a decrea sc of 2,283\nwhite pupils. Total enrolment\nis l42 $50.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1956,
+                "y0": 6323,
+                "x1": 2483,
+                "y1": 6544
+            },
+            "class": "headline",
+            "raw_text": "N egro\n\n\nPupils Cain",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2772,
+                "y0": 6560,
+                "x1": 3588,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "An explosion at the home OF\nHerman Johnson, 80, ISIS W.\nWa shington, last Friday started\na fire that burned the interior\nof the house, firemen said yes\nterday.\n\n\nPolice said Johnson told them\nthat he and his son, Bobbie Lee\nJohnson, 6, we're away from home\nat the time of the blaze.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2812,
+                "y0": 6438,
+                "x1": 3548,
+                "y1": 6544
+            },
+            "class": "headline",
+            "raw_text": "HOUSE ExPLODES",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 87,
+                "y0": 1428,
+                "x1": 1731,
+                "y1": 4808
+            },
+            "class": "article",
+            "raw_text": "Henry C0biYuc, JY., newly 0bbOmted\ndire ctOY of the Phoenix Human Re t0t1onS\nCommission, announced taOO prime targets\nhe viii alta ok in the initial program. He\ncites inequities in job opportunities and\nhousing conditions as areas pOhlch mil\nreceive concentrated efforts.\n\n\nFor many years no dire ct program on\n} the part of the nauuicibal goUe y7anaent has\nteyiahzed in these areas. Job obboY-\ntunities haze been increased slowly to\nthose of the minority groups, including\nNegroes, Mexican-Ame Y1cans and Indians.\nEmployers Of many businesses and in\ndust11es haze followed the dictates OF\ntheir Ygsbe ctive boards of dire ct0TS.\nSeveral firms haze made outstanding\nprogress TOWARD increasing equal en-\nbloyment, but too many haze completely\nIGNORED the problem, or they haze made\nfeeble attempts.\n\n\nA dylve through the city glayingly points\nout the poor and inadequate housing con-\nditions. Not only are persons of minority\ngroups forced to Hve in substond0rd\ndue llings, but Coucasioms Of loW income\ngroups also Iue there.\n\n\nInfo Ytunotely, the city housing code\nmus repealed due to the misdiTe cted en-\nthusiosm of some NARROW men and women,\n]. uOho felt the right to not hUe IN sqat0toT\nuoS undemocTuti\n\n\nThe City of Phoenix needs an effective\nand an enforceable housing code. NO caty\ncan permit the building Of more Subst0nd0Y1\nhomes, nor the maintaining Of them, too.\nWe Welcome nv. C0biYuc to the city and\nsupport his program to the fullest extent.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 521,
+                "y0": 1272,
+                "x1": 1390,
+                "y1": 1412
+            },
+            "class": "headline",
+            "raw_text": "STARTING RIGHT",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 122,
+                "y0": 6334,
+                "x1": 1801,
+                "y1": 6763
+            },
+            "class": "article",
+            "raw_text": "Valley National Bank made its 2,0O00 O0h nstalmen\nweek. by marking Loan\nPAID canceing 1t. Loan hadbeen Mr. Mrs William\nA. Zeer Sunnyslope shown here 10 Abbott\n\n\nvice president gives them the happy charge the bank\nstatewide nstalmen lending operations Abbott 100000\nloans represent than ST. rs billion in credit",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2766,
+                "y0": 2447,
+                "x1": 4462,
+                "y1": 3032
+            },
+            "class": "article",
+            "raw_text": "may looking publicly displayed work of famous\nartist.\n\n\nMarian Lynn T. daughter Mrs Robert Brewer 1913\nproudly her self portrait which has been on\nhbt at Phoenix Museum, 1925 North Central.\nSchool, Marian creation made\nfirst grader and other ma terpleces OF\nPhoenix pupils shown during the months\n\n\n\nPhoto Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1007,
+                "y0": 6832,
+                "x1": 1830,
+                "y1": 7145
+            },
+            "class": "article",
+            "raw_text": "HELP FIGHT TB AND\nOTHER RESPIRATORY\nDISEASES. BUY\n\n\nAND USE XMAS SEALS",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1881,
+                "y0": 4633,
+                "x1": 3559,
+                "y1": 5132
+            },
+            "class": "article",
+            "raw_text": "Helping several families enjoy better Thanksgiving Day are\nMoselm Temple 470 of Shrners Prince Hall af\nhliation.\n\n\nCollecting preparing basket which will be distributed before\nfrom left Walter Risby Otis Christopher Will\nMabry Willie Walton Thomas Evans ustriou potentate\nLevi Voleman Jack Johnson Ernest Walker and Will\nliam Oatis. Photo Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 4895,
+                "y0": 399,
+                "x1": 6134,
+                "y1": 5797
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112701_0643",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "MRS. CAN'T\nAPPOINTED AS\nCOURT CLERK",
+            "article": "Mrs. Cla ssie CAN'T, an employe\nof the Maricopa County attor-\nney's office for the past nine\nyears, was appointed clerk ofthe\nnew Division l Court of Appeals.\n\n\nMrs. CAN'T, %, of 728 S. Third\nSt. assumes the $8,400-a year\njob Jan. 4.\n\n\nShe received her elementary\nand secondary education in Yuma\nand attended Arizona State Col\nlege. In 1855 she completed a\nsecretarial course in Phoenix.\nShe was hired by the county at\ntorney office in November 1855.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2783,
+                    "y0": 5166,
+                    "x1": 3438,
+                    "y1": 5514
+                },
+                {
+                    "x0": 2766,
+                    "y0": 5542,
+                    "x1": 3583,
+                    "y1": 6422
+                }
+            ],
+            "bbox": [
+                2766,
+                5166,
+                3583,
+                6422
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "Thanksgiving\n\n\nProgram Held",
+            "article": "Library Club Of Palmdale\nSchool presented a Thanksgiving\nprogram, Nov. %.\n\n\nSpeaker of the day was Rev.\nc.. B. Brooks, board member of\nRoosevelt School District.\n\n\nAlbina Martinez read the late\nPresident Kennedys 1868\nThanksgiving Proclamation.\n\n\nMrs. Evangline Cook directed\nglee club musical selections.\n\n\nMrs. D. Newton, librarian is\nclub sponsor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1904,
+                    "y0": 5200,
+                    "x1": 2402,
+                    "y1": 5410
+                },
+                {
+                    "x0": 1886,
+                    "y0": 5438,
+                    "x1": 2697,
+                    "y1": 6208
+                }
+            ],
+            "bbox": [
+                1886,
+                5200,
+                2697,
+                6208
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                15,
+                5
+            ],
+            "headline": "CORE To\n\n\nKeep Aggressive",
+            "article": "NEW YORK = James Farmer,\ndirector of the Congress of Rae\nial Equality announced general\nplan for \"a more meaningful\nmilitancy' that would involve\nCORE members more directly\nin the political, economic and\nsocial life of ghetto communities.\n\n\nHe announced the creation of\na new CORE executive position,\nassociated national director, to\nbe held by DR.. George A. Wiley,\nfounder of the CORE chapter in\nSyracuse and an assistant pro-\nlessor of chemistry at Syracuse\nUniversity.\n\n\nThe announcements we're made\nduring news conference at\nCORE headquarters here. Far\nmer said that the national CORE\nwas not abandoning its direct\naction\" policy of demonstrations\nand civil disobedience.\n\n\n\"There will still be street de-\nmonstrations where they are\ncalled for, but under our new\ncommunity action program we\nhope to have block by block In\nfluence and the ability to rally\nentire communities to protest not\nmerely our own members, Far\nmer said.\n\n\nHe said CORE would encourage\nrent strikes, urban renewal pro-\niects, the formation of coopera-\ntives by ghetto residents, and\nparticipation in local political\nactivities.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3674,
+                    "y0": 4645,
+                    "x1": 4398,
+                    "y1": 4872
+                },
+                {
+                    "x0": 3639,
+                    "y0": 4905,
+                    "x1": 4462,
+                    "y1": 7122
+                }
+            ],
+            "bbox": [
+                3639,
+                4645,
+                4462,
+                7122
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                13,
+                6
+            ],
+            "headline": "JuiIed For\nH owing Beer",
+            "article": "NEW YORK--Jack Creenberg,\ndirector council of the NAACP\nLegal Defense Fund today an\nnounced that Clyde Harvey. Miss\nissippi Civil Rights supporter.\nhas been freed from Jail.\n\n\nMr.. Harvey had served two\nmonths of a 9O-day term for\npossession of two cans Of beer.\nMississippi is dry state.\n\n\nPending decision of the case\nChief Judge Ebert P. futile of\nthe u. S. Court Of Appeals for the\n5th Circuit ordered Mr.. Harvey\nrelea Sc on bail. Federal District\nJudge Sidney Mize had denied\nLegal Defense Fund motions ON\nMr.. Harvey S behalf on October\nIA.\n\n\nMr.. Harvey, an illiterate far\nmer and father of 6, was ares\nted on July 10, relea sed on bond\nand told by local judge he would\nbe informed of further proceed\nings. Then on Sept. 9. he was\nsted and told he had been\nconvicted on July % and senten-\nced to pay a $500 fine andto serve\n\n90 days in Jail.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1927,
+                    "y0": 1209,
+                    "x1": 2356,
+                    "y1": 1389
+                },
+                {
+                    "x0": 1881,
+                    "y0": 1405,
+                    "x1": 2709,
+                    "y1": 3107
+                }
+            ],
+            "bbox": [
+                1881,
+                1209,
+                2709,
+                3107
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                12,
+                7
+            ],
+            "headline": "N egro\n\n\nPupils Cain",
+            "article": "WASHINGTON = Negro pupils\nnow account for 87.o per cent of\nthe enrolment in District Of\nColumbia public schools.\n\n\nSchool census figures relea sed\nyesterday show an increas of\n$3.50 Negro pupils over last\nyear, and a decrea sc of 2,283\nwhite pupils. Total enrolment\nis l42 $50.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1956,
+                    "y0": 6323,
+                    "x1": 2483,
+                    "y1": 6544
+                },
+                {
+                    "x0": 1898,
+                    "y0": 6566,
+                    "x1": 2703,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                1898,
+                6323,
+                2703,
+                7134
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                17,
+                8
+            ],
+            "headline": "HOUSE ExPLODES",
+            "article": "An explosion at the home OF\nHerman Johnson, 80, ISIS W.\nWa shington, last Friday started\na fire that burned the interior\nof the house, firemen said yes\nterday.\n\n\nPolice said Johnson told them\nthat he and his son, Bobbie Lee\nJohnson, 6, we're away from home\nat the time of the blaze.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2812,
+                    "y0": 6438,
+                    "x1": 3548,
+                    "y1": 6544
+                },
+                {
+                    "x0": 2772,
+                    "y0": 6560,
+                    "x1": 3588,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                2772,
+                6438,
+                3588,
+                7134
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                19,
+                11
+            ],
+            "headline": "STARTING RIGHT",
+            "article": "Henry C0biYuc, JY., newly 0bbOmted\ndire ctOY of the Phoenix Human Re t0t1onS\nCommission, announced taOO prime targets\nhe viii alta ok in the initial program. He\ncites inequities in job opportunities and\nhousing conditions as areas pOhlch mil\nreceive concentrated efforts.\n\n\nFor many years no dire ct program on\n} the part of the nauuicibal goUe y7anaent has\nteyiahzed in these areas. Job obboY-\ntunities haze been increased slowly to\nthose of the minority groups, including\nNegroes, Mexican-Ame Y1cans and Indians.\nEmployers Of many businesses and in\ndust11es haze followed the dictates OF\ntheir Ygsbe ctive boards of dire ct0TS.\nSeveral firms haze made outstanding\nprogress TOWARD increasing equal en-\nbloyment, but too many haze completely\nIGNORED the problem, or they haze made\nfeeble attempts.\n\n\nA dylve through the city glayingly points\nout the poor and inadequate housing con-\nditions. Not only are persons of minority\ngroups forced to Hve in substond0rd\ndue llings, but Coucasioms Of loW income\ngroups also Iue there.\n\n\nInfo Ytunotely, the city housing code\nmus repealed due to the misdiTe cted en-\nthusiosm of some NARROW men and women,\n]. uOho felt the right to not hUe IN sqat0toT\nuoS undemocTuti\n\n\nThe City of Phoenix needs an effective\nand an enforceable housing code. NO caty\ncan permit the building Of more Subst0nd0Y1\nhomes, nor the maintaining Of them, too.\nWe Welcome nv. C0biYuc to the city and\nsupport his program to the fullest extent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 521,
+                    "y0": 1272,
+                    "x1": 1390,
+                    "y1": 1412
+                },
+                {
+                    "x0": 87,
+                    "y0": 1428,
+                    "x1": 1731,
+                    "y1": 4808
+                }
+            ],
+            "bbox": [
+                87,
+                1272,
+                1731,
+                4808
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Valley National Bank made its 2,0O00 O0h nstalmen\nweek. by marking Loan\nPAID canceing 1t. Loan hadbeen Mr. Mrs William\nA. Zeer Sunnyslope shown here 10 Abbott\n\n\nvice president gives them the happy charge the bank\nstatewide nstalmen lending operations Abbott 100000\nloans represent than ST. rs billion in credit",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 122,
+                    "y0": 6334,
+                    "x1": 1801,
+                    "y1": 6763
+                }
+            ],
+            "bbox": [
+                122,
+                6334,
+                1801,
+                6763
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "may looking publicly displayed work of famous\nartist.\n\n\nMarian Lynn T. daughter Mrs Robert Brewer 1913\nproudly her self portrait which has been on\nhbt at Phoenix Museum, 1925 North Central.\nSchool, Marian creation made\nfirst grader and other ma terpleces OF\nPhoenix pupils shown during the months\n\n\n\nPhoto Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2766,
+                    "y0": 2447,
+                    "x1": 4462,
+                    "y1": 3032
+                }
+            ],
+            "bbox": [
+                2766,
+                2447,
+                4462,
+                3032
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "HELP FIGHT TB AND\nOTHER RESPIRATORY\nDISEASES. BUY\n\n\nAND USE XMAS SEALS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1007,
+                    "y0": 6832,
+                    "x1": 1830,
+                    "y1": 7145
+                }
+            ],
+            "bbox": [
+                1007,
+                6832,
+                1830,
+                7145
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "Helping several families enjoy better Thanksgiving Day are\nMoselm Temple 470 of Shrners Prince Hall af\nhliation.\n\n\nCollecting preparing basket which will be distributed before\nfrom left Walter Risby Otis Christopher Will\nMabry Willie Walton Thomas Evans ustriou potentate\nLevi Voleman Jack Johnson Ernest Walker and Will\nliam Oatis. Photo Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1881,
+                    "y0": 4633,
+                    "x1": 3559,
+                    "y1": 5132
+                }
+            ],
+            "bbox": [
+                1881,
+                4633,
+                3559,
+                5132
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-11-27_pna_sn84021918_0041421695A_1964112701_0643.json"
+        }
+    ]
+}

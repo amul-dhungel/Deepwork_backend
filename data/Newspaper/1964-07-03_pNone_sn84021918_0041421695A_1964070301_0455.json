@@ -1,0 +1,293 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7428,
+        "width": 4912,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964070301/0455.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2850,
+                "y0": 2495,
+                "x1": 3658,
+                "y1": 3767
+            },
+            "class": "article",
+            "raw_text": "Vacationers, business travel\ners, \"Sunday\" drivers (even\nwhen it's only Saturday, are out\non the highways in full force. AS\nan aid to motorists, the Sentry\nSafety Council of the Sentry In\nsurance companies has compiled\nthese safe driving tips:\n\n\nHave your car safety checked.\nLights, tires, steering, brakes,\nexhaust system, wipers, horn,\nshould all be in safe condition.\nLeave DRIFTING to astronauts.\nInstall and use seat belts.\n\"Hold your horses\" on super\nhighways. Beware of tendency\n\n\nto speed up.\n\n\n. Keep whole traffic scene in\nview-watch all objects for\nblock ahead in town, half a\nmile in country.\n\n\nTailgating is dangerous. Drop\n\n\nback at least one car length for\n\n\neach ten miles of speed.\n. Before changing lanes, make\n\n\nsure another driver isn't start",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2989,
+                "y0": 2402,
+                "x1": 3507,
+                "y1": 2484
+            },
+            "class": "headline",
+            "raw_text": "Safe Trip Tips",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1939,
+                "y0": 2338,
+                "x1": 2752,
+                "y1": 3349
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Author James Bald\nwin has listed ten literary works\nwhich he thinks helped him ma\nture. He believes literature is one\nway of breaking through the con-\nfines of ghetto life. This list Is\nbeing distributed to schools and\nLibraries in the country.\n\n\nA tale of Two Cities, Dickens;\nCrime and Punishment, The Pos\nsessed and The Brothers Kar-\nmanzov, Dostoevsku: Portrait Of\na Larry, Henry James; The Mes\nsenger, Wright: Invisible Man,\nEllison: Black Boy. Wright: Prin-\ncess Cass Amassina, James; and\nUncle Toms Cabin, Stowe.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1962,
+                "y0": 2089,
+                "x1": 2515,
+                "y1": 2293
+            },
+            "class": "headline",
+            "raw_text": "Bold win Lists\n\n\nBooks To Reed",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 157,
+                "y0": 2501,
+                "x1": 971,
+                "y1": 3390
+            },
+            "class": "article",
+            "raw_text": "A new RCA Victor 'Vintage\nSeries\" created to bring to the\npublic recordings Of historic and\nartistic importance not available\nfor some years, was introduced\nby RCA Victor Records this June.\nJune.\n\n\nComprised of carefully selec-\nted performances by great per-\nsonalities of the popular, jazz and\nfolk music worlds, the series will\nserve as a highly valuable the\nsaurus of collector items\"\nspanning the full history Of the\nrecording industry.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 157,
+                "y0": 2385,
+                "x1": 924,
+                "y1": 2484
+            },
+            "class": "headline",
+            "raw_text": "Juzz Albums Release",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1040,
+                "y0": 2431,
+                "x1": 1859,
+                "y1": 3378
+            },
+            "class": "article",
+            "raw_text": "Showcased among the first four\nalbums in the Vintage Series is\nthe widely acclaimed \"Body and\nSoul, the Jazz Autobiography Of\nColeman Hawkins\"\n\n\nAS an added feature Of the new\nseries, playing time has BENIN\ncreased with Vintage albums Of\nten containing the equivalent Of 10\nrather than IL selections. All\nrecordings in the series will have\nbeen re-mastered with the latest\nrecording techniques, but the ar\ntistic values Of the performances\nwill be the only consideration for\ninclusion.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3726,
+                "y0": 2425,
+                "x1": 4522,
+                "y1": 3755
+            },
+            "class": "article",
+            "raw_text": "ing to pass you.\n\n\nPull to the right and stop when\nyou hear a siren or see flash\ning red light reminds the\nSentry Safety Council.\n\n\nEveryone knows dangers of\ndriving while under influence\nof alcohol. Users of drugs like\n\"pep pills, tranquilizers, anti\nhistamines, are a threat to safe\nty. Ask your doctor about driv-\ning after taking medication.\n. If something goes wrong with\nyour car, pull off highway;\nraise hood; tie white cloth on\ndoor nearest road.\n\n\nAlways make sure your driv-\ner's license is up to date and\nyour insurance Identification\ncard is tucked in your billfold\nFinally, the Sentry Safety\nCouncil says you never drive\nalone. Your passengers, people\nin oncoming cars, cars you pass,\npedestrians who cross your path,\nfamily members at home, all de-\npend upon yomr driving actions.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964070301_0455",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "Safe Trip Tips",
+            "article": "Vacationers, business travel\ners, \"Sunday\" drivers (even\nwhen it's only Saturday, are out\non the highways in full force. AS\nan aid to motorists, the Sentry\nSafety Council of the Sentry In\nsurance companies has compiled\nthese safe driving tips:\n\n\nHave your car safety checked.\nLights, tires, steering, brakes,\nexhaust system, wipers, horn,\nshould all be in safe condition.\nLeave DRIFTING to astronauts.\nInstall and use seat belts.\n\"Hold your horses\" on super\nhighways. Beware of tendency\n\n\nto speed up.\n\n\n. Keep whole traffic scene in\nview-watch all objects for\nblock ahead in town, half a\nmile in country.\n\n\nTailgating is dangerous. Drop\n\n\nback at least one car length for\n\n\neach ten miles of speed.\n. Before changing lanes, make\n\n\nsure another driver isn't start",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2989,
+                    "y0": 2402,
+                    "x1": 3507,
+                    "y1": 2484
+                },
+                {
+                    "x0": 2850,
+                    "y0": 2495,
+                    "x1": 3658,
+                    "y1": 3767
+                }
+            ],
+            "bbox": [
+                2850,
+                2402,
+                3658,
+                3767
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-03_pna_sn84021918_0041421695A_1964070301_0455.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Bold win Lists\n\n\nBooks To Reed",
+            "article": "NEW YORK-Author James Bald\nwin has listed ten literary works\nwhich he thinks helped him ma\nture. He believes literature is one\nway of breaking through the con-\nfines of ghetto life. This list Is\nbeing distributed to schools and\nLibraries in the country.\n\n\nA tale of Two Cities, Dickens;\nCrime and Punishment, The Pos\nsessed and The Brothers Kar-\nmanzov, Dostoevsku: Portrait Of\na Larry, Henry James; The Mes\nsenger, Wright: Invisible Man,\nEllison: Black Boy. Wright: Prin-\ncess Cass Amassina, James; and\nUncle Toms Cabin, Stowe.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1962,
+                    "y0": 2089,
+                    "x1": 2515,
+                    "y1": 2293
+                },
+                {
+                    "x0": 1939,
+                    "y0": 2338,
+                    "x1": 2752,
+                    "y1": 3349
+                }
+            ],
+            "bbox": [
+                1939,
+                2089,
+                2752,
+                3349
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-03_pna_sn84021918_0041421695A_1964070301_0455.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "Juzz Albums Release",
+            "article": "A new RCA Victor 'Vintage\nSeries\" created to bring to the\npublic recordings Of historic and\nartistic importance not available\nfor some years, was introduced\nby RCA Victor Records this June.\nJune.\n\n\nComprised of carefully selec-\nted performances by great per-\nsonalities of the popular, jazz and\nfolk music worlds, the series will\nserve as a highly valuable the\nsaurus of collector items\"\nspanning the full history Of the\nrecording industry.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 157,
+                    "y0": 2385,
+                    "x1": 924,
+                    "y1": 2484
+                },
+                {
+                    "x0": 157,
+                    "y0": 2501,
+                    "x1": 971,
+                    "y1": 3390
+                }
+            ],
+            "bbox": [
+                157,
+                2385,
+                971,
+                3390
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-03_pna_sn84021918_0041421695A_1964070301_0455.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Showcased among the first four\nalbums in the Vintage Series is\nthe widely acclaimed \"Body and\nSoul, the Jazz Autobiography Of\nColeman Hawkins\"\n\n\nAS an added feature Of the new\nseries, playing time has BENIN\ncreased with Vintage albums Of\nten containing the equivalent Of 10\nrather than IL selections. All\nrecordings in the series will have\nbeen re-mastered with the latest\nrecording techniques, but the ar\ntistic values Of the performances\nwill be the only consideration for\ninclusion.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1040,
+                    "y0": 2431,
+                    "x1": 1859,
+                    "y1": 3378
+                }
+            ],
+            "bbox": [
+                1040,
+                2431,
+                1859,
+                3378
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-03_pna_sn84021918_0041421695A_1964070301_0455.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "ing to pass you.\n\n\nPull to the right and stop when\nyou hear a siren or see flash\ning red light reminds the\nSentry Safety Council.\n\n\nEveryone knows dangers of\ndriving while under influence\nof alcohol. Users of drugs like\n\"pep pills, tranquilizers, anti\nhistamines, are a threat to safe\nty. Ask your doctor about driv-\ning after taking medication.\n. If something goes wrong with\nyour car, pull off highway;\nraise hood; tie white cloth on\ndoor nearest road.\n\n\nAlways make sure your driv-\ner's license is up to date and\nyour insurance Identification\ncard is tucked in your billfold\nFinally, the Sentry Safety\nCouncil says you never drive\nalone. Your passengers, people\nin oncoming cars, cars you pass,\npedestrians who cross your path,\nfamily members at home, all de-\npend upon yomr driving actions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3726,
+                    "y0": 2425,
+                    "x1": 4522,
+                    "y1": 3755
+                }
+            ],
+            "bbox": [
+                3726,
+                2425,
+                4522,
+                3755
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-03_pna_sn84021918_0041421695A_1964070301_0455.json"
+        }
+    ]
+}

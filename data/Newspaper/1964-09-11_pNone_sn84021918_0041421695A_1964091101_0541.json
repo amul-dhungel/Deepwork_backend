@@ -1,0 +1,584 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7436,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091101/0541.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1896,
+                "y0": 6024,
+                "x1": 2704,
+                "y1": 7193
+            },
+            "class": "article",
+            "raw_text": "NEW HAVEN The New Haven\nbranch of the National Associa-\nton for the Advancement of\nColored People Is currently\nmaking plans for an expanded\ncommunity action program in\nGuiding a voter registration cam\npaign, Gloster B. Current, di-\nrector of branches, announced\nthis week.\n\n\nAt meeting with the executive\ncommittee of the branch, Mr..\nCurrent and Thomas Allen,\nNAACP field secretary for the\nNew York-New England area,\nmapped plans for the new pro-\ngram. Plans we're also for\nmulated for membership drive\nand for election of officers of the\nbranch in December.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1942,
+                "y0": 5879,
+                "x1": 2658,
+                "y1": 6002
+            },
+            "class": "headline",
+            "raw_text": "VOTE DRIVE BEGINS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1025,
+                "y0": 6134,
+                "x1": 1839,
+                "y1": 7071
+            },
+            "class": "article",
+            "raw_text": "An open charge of murder has\nbeen filed against 4O-year-old\nwoman accused of fatally stabbing\nher common-law husband in a\nPhoenix tavern.\n\n\nCharged in a complaint filed\nbefore Justice of the Peace Ida\nWestfall was Johnnie Mae Turner\nof 1907 w. Tonic. She is accused\nof killing Johnnie Stewart, 43, in\nthe Star Tavern, 1927 E. Wash\nington. after he allegedly showed\nher, last Friday night.\n\n\nShe said the argument started\nafter she pleaded with him to\ncome home with her.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1065,
+                "y0": 5855,
+                "x1": 1775,
+                "y1": 6112
+            },
+            "class": "headline",
+            "raw_text": "Woman Accused\nof Murder",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2779,
+                "y0": 4717,
+                "x1": 3593,
+                "y1": 6118
+            },
+            "class": "article",
+            "raw_text": "County legislative district poll\nresults gave seats to Cloves\nCampbell, IT. incumbent: Leo\nnard Calderon. Jr.. #10; Leon\nThompson, #9. incumbent; and\nDR.. John Carney, #6. all are\nDemocrats.\n\n\nTallies for each district were:\n\n\nDistrict 6 David M. Valen-\nzela, (D) $40. DR.. John R. Car\nney (D) 764, Bolton Hodges O)\n70S; Elmer King D) 297. Huey\nJohnson (D) 322, Herb Hall (R)\n500. Carl B. Kinsley (R) 237.\n\n\nDistrict 7 = Estle Pruett (D)\n547, Cloves C. Campbell O) 1886.\nBilly G. Vanderpool D) 474, Lo-\nwe'll Burton (D) 229, Roosevelt\nB. Willis (D) 1872. Charles ].\nFurhrman (R) 1868.\n\n\nDistrict 10 Leonard Calderon\nJr. O) 900. id. Holmes O)639.\nSherman R. Dent (D) 473, Horace\nE. Owens (D) Alb.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2825,
+                "y0": 4298,
+                "x1": 3332,
+                "y1": 4700
+            },
+            "class": "headline",
+            "raw_text": "z Negro\n\n\nLegislators\nHold Seats",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2773,
+                "y0": 6425,
+                "x1": 3582,
+                "y1": 7181
+            },
+            "class": "article",
+            "raw_text": "GAINESVILLE, Ca. = An all\nwhite jury has acquitted two for\nmer Ku Klux Klansmen charged\nwith numbering Lemuel Penn, a\nNegro educator from Washington.\n\n\nThe jury deliberated three\nhours and Is minutes last night\nbefore acquitting Joseph Howard\nSims, Al, and Cecil William\nMyers. %.\n\n\nBoth men still face federal\ncharges of conspiracy and are\nunder SIS, 900 bond.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2791,
+                "y0": 6146,
+                "x1": 3535,
+                "y1": 6408
+            },
+            "class": "headline",
+            "raw_text": "2 Acquitted in\nStaying Of Negro",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3674,
+                "y0": 6628,
+                "x1": 4476,
+                "y1": 7169
+            },
+            "class": "article",
+            "raw_text": "PAISLEY, Scotland Wick\nLeahy, 29-year-old British mid\ndleweight champion. out-pointed\nformer world champion Sugar\nRay Robinson in a 10 round fight\nlast week.\n\n\nSugar Ray, now A. could not\nland on Leahy even when the\nopenings we're there.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3703,
+                "y0": 6448,
+                "x1": 4430,
+                "y1": 6600
+            },
+            "class": "headline",
+            "raw_text": "Sugar Ray Loses",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 118,
+                "y0": 5065,
+                "x1": 944,
+                "y1": 7123
+            },
+            "class": "article",
+            "raw_text": "Fletcher A. Wiley. FL, senior\nat the United States Air Force\nAcademy, in Colorado. spent the\nLabor Day weekend as the guests\nof Mr.. and Mrs. Edward Banks.\n\n\nCadet Wiley graduated from\nShortridge High School. Indiana\npolls, Ind, 1860. He enrolled\nat the Air Force Academy in July.\n1861.\n\n\nDuring his three years there\nhe has maintained a high scholar\nship index and is presently on the\nsuperintendent list for high\ngrades and military excellence.\n\n\nHe played football for two\nyears, and is member of the\nchoir and the international af-\nfairs forum.\n\n\nHe is entered in the masters\nprogram which will enable him to\nreceive credits toward a mas\nter's degree before completing\nhis four years at the Academy.\n\n\nWiley toured Europe last year\nwith the choir and he spent five\nweeks there this summer on a\nprivate trip. He hopes to return\nto Coventry, England this fall.\n\n\nAfter completing his cadet\ntraining he plans to pursue law\nstudies ateither Yale or Harvard.\n\n\nHe is the son of Mrs. Mildred\nWiley, 1880 Congress, Indiana\npolls.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2808,
+                "y0": 1818,
+                "x1": 4482,
+                "y1": 2307
+            },
+            "class": "article",
+            "raw_text": "Nupa repeated Park South Church Of God\nfather ociated the marriage of his The\nmony held Sat- Sept. S.\n\n\nFrom left Rev. and Mrs. Charles Wilson, of the\nbride Davis\nparents of the groom\n\n\nThe bride the Miss Joy Wilson, She her husband\nliving in Los Angeles.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 153,
+                "y0": 3131,
+                "x1": 1850,
+                "y1": 3771
+            },
+            "class": "article",
+            "raw_text": "delegates and visitors the annual conference\nmeeting Chapel AME Church. 9th and E. Jefferson\nSt.\n\n\nL. Williams pastor the host Presiding Bishop H. T.\nPrimm, 5 Episcopal District by welcoming\ncommittee.\n\n\nShown left Mesdames Charles Wheeler\nGreenfield Roberts, Bishop Mesdames Robert\nClaybrooks. c. Brice j. Island. and L. K. Williams.\n\n\nCalvin Levoyd Moorehead B. Cross\nM.Gr H.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3668,
+                "y0": 5972,
+                "x1": 4482,
+                "y1": 6391
+            },
+            "class": "article",
+            "raw_text": "Pvt. Jerry D. Harris, son Of\nMr.. and Mrs. Donald Ward, 486l\nS. 2Ist ST., is stationed with the\nUS. Army at Frankfurt, Ger\nmany.\n\n\n]. D. left Phoenix last Janu-\nairy for his tour of duty.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1896,
+                "y0": 3386,
+                "x1": 2710,
+                "y1": 3637
+            },
+            "class": "article",
+            "raw_text": "First President elected for a\nthird (and then a fourth) term\nof office Franklin Delano Roo\nSevelt.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1902,
+                "y0": 3154,
+                "x1": 2507,
+                "y1": 3370
+            },
+            "class": "headline",
+            "raw_text": "FDR Chosen For\nTerms 8 and 4",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 1030,
+                "y0": 5309,
+                "x1": 2710,
+                "y1": 5810
+            },
+            "class": "article",
+            "raw_text": "RAISING THE Valley National Bank office\n10Th Buckeye Rd staff members Qrom lefty Eleanor\nCanez secretary Dick Wright\nHermann officer Ralph Scarga assistant mana\nger, and MILFORD Hanins, teller\n\n\nopens Monday The public is invited\nhouse. i'll coincide with regular banking hours\npm Monday Thursday and 10 Friday",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091101_0541",
+    "full articles": [
+        {
+            "object_ids": [
+                23,
+                1
+            ],
+            "headline": "VOTE DRIVE BEGINS",
+            "article": "NEW HAVEN The New Haven\nbranch of the National Associa-\nton for the Advancement of\nColored People Is currently\nmaking plans for an expanded\ncommunity action program in\nGuiding a voter registration cam\npaign, Gloster B. Current, di-\nrector of branches, announced\nthis week.\n\n\nAt meeting with the executive\ncommittee of the branch, Mr..\nCurrent and Thomas Allen,\nNAACP field secretary for the\nNew York-New England area,\nmapped plans for the new pro-\ngram. Plans we're also for\nmulated for membership drive\nand for election of officers of the\nbranch in December.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1942,
+                    "y0": 5879,
+                    "x1": 2658,
+                    "y1": 6002
+                },
+                {
+                    "x0": 1896,
+                    "y0": 6024,
+                    "x1": 2704,
+                    "y1": 7193
+                }
+            ],
+            "bbox": [
+                1896,
+                5879,
+                2704,
+                7193
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "Woman Accused\nof Murder",
+            "article": "An open charge of murder has\nbeen filed against 4O-year-old\nwoman accused of fatally stabbing\nher common-law husband in a\nPhoenix tavern.\n\n\nCharged in a complaint filed\nbefore Justice of the Peace Ida\nWestfall was Johnnie Mae Turner\nof 1907 w. Tonic. She is accused\nof killing Johnnie Stewart, 43, in\nthe Star Tavern, 1927 E. Wash\nington. after he allegedly showed\nher, last Friday night.\n\n\nShe said the argument started\nafter she pleaded with him to\ncome home with her.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1065,
+                    "y0": 5855,
+                    "x1": 1775,
+                    "y1": 6112
+                },
+                {
+                    "x0": 1025,
+                    "y0": 6134,
+                    "x1": 1839,
+                    "y1": 7071
+                }
+            ],
+            "bbox": [
+                1025,
+                5855,
+                1839,
+                7071
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                12,
+                7
+            ],
+            "headline": "z Negro\n\n\nLegislators\nHold Seats",
+            "article": "County legislative district poll\nresults gave seats to Cloves\nCampbell, IT. incumbent: Leo\nnard Calderon. Jr.. #10; Leon\nThompson, #9. incumbent; and\nDR.. John Carney, #6. all are\nDemocrats.\n\n\nTallies for each district were:\n\n\nDistrict 6 David M. Valen-\nzela, (D) $40. DR.. John R. Car\nney (D) 764, Bolton Hodges O)\n70S; Elmer King D) 297. Huey\nJohnson (D) 322, Herb Hall (R)\n500. Carl B. Kinsley (R) 237.\n\n\nDistrict 7 = Estle Pruett (D)\n547, Cloves C. Campbell O) 1886.\nBilly G. Vanderpool D) 474, Lo-\nwe'll Burton (D) 229, Roosevelt\nB. Willis (D) 1872. Charles ].\nFurhrman (R) 1868.\n\n\nDistrict 10 Leonard Calderon\nJr. O) 900. id. Holmes O)639.\nSherman R. Dent (D) 473, Horace\nE. Owens (D) Alb.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2825,
+                    "y0": 4298,
+                    "x1": 3332,
+                    "y1": 4700
+                },
+                {
+                    "x0": 2779,
+                    "y0": 4717,
+                    "x1": 3593,
+                    "y1": 6118
+                }
+            ],
+            "bbox": [
+                2779,
+                4298,
+                3593,
+                6118
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "2 Acquitted in\nStaying Of Negro",
+            "article": "GAINESVILLE, Ca. = An all\nwhite jury has acquitted two for\nmer Ku Klux Klansmen charged\nwith numbering Lemuel Penn, a\nNegro educator from Washington.\n\n\nThe jury deliberated three\nhours and Is minutes last night\nbefore acquitting Joseph Howard\nSims, Al, and Cecil William\nMyers. %.\n\n\nBoth men still face federal\ncharges of conspiracy and are\nunder SIS, 900 bond.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2791,
+                    "y0": 6146,
+                    "x1": 3535,
+                    "y1": 6408
+                },
+                {
+                    "x0": 2773,
+                    "y0": 6425,
+                    "x1": 3582,
+                    "y1": 7181
+                }
+            ],
+            "bbox": [
+                2773,
+                6146,
+                3582,
+                7181
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                21,
+                10
+            ],
+            "headline": "Sugar Ray Loses",
+            "article": "PAISLEY, Scotland Wick\nLeahy, 29-year-old British mid\ndleweight champion. out-pointed\nformer world champion Sugar\nRay Robinson in a 10 round fight\nlast week.\n\n\nSugar Ray, now A. could not\nland on Leahy even when the\nopenings we're there.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3703,
+                    "y0": 6448,
+                    "x1": 4430,
+                    "y1": 6600
+                },
+                {
+                    "x0": 3674,
+                    "y0": 6628,
+                    "x1": 4476,
+                    "y1": 7169
+                }
+            ],
+            "bbox": [
+                3674,
+                6448,
+                4476,
+                7169
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Fletcher A. Wiley. FL, senior\nat the United States Air Force\nAcademy, in Colorado. spent the\nLabor Day weekend as the guests\nof Mr.. and Mrs. Edward Banks.\n\n\nCadet Wiley graduated from\nShortridge High School. Indiana\npolls, Ind, 1860. He enrolled\nat the Air Force Academy in July.\n1861.\n\n\nDuring his three years there\nhe has maintained a high scholar\nship index and is presently on the\nsuperintendent list for high\ngrades and military excellence.\n\n\nHe played football for two\nyears, and is member of the\nchoir and the international af-\nfairs forum.\n\n\nHe is entered in the masters\nprogram which will enable him to\nreceive credits toward a mas\nter's degree before completing\nhis four years at the Academy.\n\n\nWiley toured Europe last year\nwith the choir and he spent five\nweeks there this summer on a\nprivate trip. He hopes to return\nto Coventry, England this fall.\n\n\nAfter completing his cadet\ntraining he plans to pursue law\nstudies ateither Yale or Harvard.\n\n\nHe is the son of Mrs. Mildred\nWiley, 1880 Congress, Indiana\npolls.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 118,
+                    "y0": 5065,
+                    "x1": 944,
+                    "y1": 7123
+                }
+            ],
+            "bbox": [
+                118,
+                5065,
+                944,
+                7123
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Nupa repeated Park South Church Of God\nfather ociated the marriage of his The\nmony held Sat- Sept. S.\n\n\nFrom left Rev. and Mrs. Charles Wilson, of the\nbride Davis\nparents of the groom\n\n\nThe bride the Miss Joy Wilson, She her husband\nliving in Los Angeles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2808,
+                    "y0": 1818,
+                    "x1": 4482,
+                    "y1": 2307
+                }
+            ],
+            "bbox": [
+                2808,
+                1818,
+                4482,
+                2307
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "delegates and visitors the annual conference\nmeeting Chapel AME Church. 9th and E. Jefferson\nSt.\n\n\nL. Williams pastor the host Presiding Bishop H. T.\nPrimm, 5 Episcopal District by welcoming\ncommittee.\n\n\nShown left Mesdames Charles Wheeler\nGreenfield Roberts, Bishop Mesdames Robert\nClaybrooks. c. Brice j. Island. and L. K. Williams.\n\n\nCalvin Levoyd Moorehead B. Cross\nM.Gr H.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 153,
+                    "y0": 3131,
+                    "x1": 1850,
+                    "y1": 3771
+                }
+            ],
+            "bbox": [
+                153,
+                3131,
+                1850,
+                3771
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "Pvt. Jerry D. Harris, son Of\nMr.. and Mrs. Donald Ward, 486l\nS. 2Ist ST., is stationed with the\nUS. Army at Frankfurt, Ger\nmany.\n\n\n]. D. left Phoenix last Janu-\nairy for his tour of duty.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3668,
+                    "y0": 5972,
+                    "x1": 4482,
+                    "y1": 6391
+                }
+            ],
+            "bbox": [
+                3668,
+                5972,
+                4482,
+                6391
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                30,
+                28
+            ],
+            "headline": "FDR Chosen For\nTerms 8 and 4",
+            "article": "First President elected for a\nthird (and then a fourth) term\nof office Franklin Delano Roo\nSevelt.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1902,
+                    "y0": 3154,
+                    "x1": 2507,
+                    "y1": 3370
+                },
+                {
+                    "x0": 1896,
+                    "y0": 3386,
+                    "x1": 2710,
+                    "y1": 3637
+                }
+            ],
+            "bbox": [
+                1896,
+                3154,
+                2710,
+                3637
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "RAISING THE Valley National Bank office\n10Th Buckeye Rd staff members Qrom lefty Eleanor\nCanez secretary Dick Wright\nHermann officer Ralph Scarga assistant mana\nger, and MILFORD Hanins, teller\n\n\nopens Monday The public is invited\nhouse. i'll coincide with regular banking hours\npm Monday Thursday and 10 Friday",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1030,
+                    "y0": 5309,
+                    "x1": 2710,
+                    "y1": 5810
+                }
+            ],
+            "bbox": [
+                1030,
+                5309,
+                2710,
+                5810
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-09-11_pna_sn84021918_0041421695A_1964091101_0541.json"
+        }
+    ]
+}

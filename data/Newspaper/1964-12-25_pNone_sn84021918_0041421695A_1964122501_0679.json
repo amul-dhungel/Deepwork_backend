@@ -1,0 +1,404 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-25",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7391,
+        "width": 4860,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-25",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964122501/0679.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 992,
+                "y0": 5722,
+                "x1": 1813,
+                "y1": 7120
+            },
+            "class": "article",
+            "raw_text": "ATLANTIC CITY, N.J.- Clay\nClaiborne, aide to the Republican\nNational Committee, had his bail\ncontinued here when he pleaded\nnot guilty to an indictment charg-\ning him with aiding and abetting\nviolators of the election laws.\n\n\nThe plea was entered before\nAtlantic County Judge Paul M.\nSalzburg who agreed to allow Cla-\nborne to remain free on $4,000\nbond. Claiborne was accused of\nbeing responsible for printing\nalmost million and a half bro\nchures urging citizens to write\nin the name of the Rev. Martin\nLuther King, Jr., in the last\npresidential election.\n\n\n\"The pamphlets we're printed\nto attempt to divide the Negro\nvote and to slow down the cleo\ntive procedure\" it was charged\nby New Jersey Attorney General\nArthur ]. Stills.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1021,
+                "y0": 5456,
+                "x1": 1836,
+                "y1": 5705
+            },
+            "class": "headline",
+            "raw_text": "Not Guilty\n\n\nPleads COP Aide",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1864,
+                "y0": 3880,
+                "x1": 2690,
+                "y1": 7085
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The National\nAssociation for the Advancement\nof Colored People has called\nupon investment houses. banking\ninstitutions, insurance compan-\nles and pension funds \"to de-\ncline to participate\" in bidding\non three Mississippi bond issues\ntotaling $32,650.0O0.\n\n\nIn a memorandum of Dec. ii\nto so leading financial institu-\ntions in New York City, RoyWil-\nkins asked withholding of bids\nfrom the following issues: Pearl\nRiver Water Supply District.\n$24, 100000 revenue refunding\nbonds for bidding: and two school\nbond issues, general obligation\nof the state, totaling $4,000. 900\nfor bidding.\n\n\nLeake and Scott counties, two\nof the five in the Pearl River\nValley district. border Neshoba\nCounty where three civil rights\nworkers were lynched last June\nnear Philadelphia, the county\nseat.\n\n\nMIR. wilkins memorandum cit\ned a resolution adopted by $500\ndelegates to the Association an\nnual convention in Washington,\nDC, last June. The resolution\nurged action by the Association,\nits branches and members to see\nthat \"no bank or other financial\ninstitution or public entity -.\nseek, bid for, or buy bonds, notes\nor other obligation of the State\nof Mississippi or of its munich\npalities.\"\n\n\n1.-The brutal discrimination\nvisited by Mississippi upon its\nNegro citizens requires no elab-\nGrafton here\" the memorandum\ncontinued. \"Nor does 1t need to\nbe documented that the money\nraised by Mississippi borrowing\nwill be spent in discriminatory\nmanner\"\n\n\nThe State of Mississippi. &C\ncording to the state auditor, on\nJune 30, 1868, had bonded debt\nof 1891 ,672,7l8 outstanding, in\nGuiding obligations of its 81 coun-\nties and 262 municipalities.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1910,
+                "y0": 3193,
+                "x1": 2610,
+                "y1": 3840
+            },
+            "class": "headline",
+            "raw_text": "NAACP\n\n\nASK BROKERS\nTO IGNORE\nMISSISSIPPI\ninvestments",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 91,
+                "y0": 5676,
+                "x1": 912,
+                "y1": 7132
+            },
+            "class": "article",
+            "raw_text": "Phoenix Trotting Park w. Van\nBuren, and Cotton Lane, has been\nvoted racing dates of March Is\n20, 1865, on the Grand Circuit,\nharness racings major league\nroad show.\n\n\nThis is the first time the Board\nof Stewards of the Grand Circuit\nhave ever approved dates for\nharness race track in its inaug-\nural season. Phoenix Trotting\nPark opens its 60-night season\nJan. IL, 1865.\n\n\nThe Grand Circuit is the equiv\nalent Of the world series in base\nball.\n\n\nPhoenix Trotting Park will be\nthe second stop on the Grand\nCircuit, in which the nation\ntop 2-year-old and 3-year-old\ntrotters and PAGERS compete.\n\n\nThe Grand Circuit was founded\nin 1873 and includes in its dates\nsuch famed races as The Ham\nbletonian.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 160,
+                "y0": 5462,
+                "x1": 768,
+                "y1": 5659
+            },
+            "class": "headline",
+            "raw_text": "Trotting Park\nDates Given",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3654,
+                "y0": 6628,
+                "x1": 4457,
+                "y1": 7080
+            },
+            "class": "article",
+            "raw_text": "Commission Chairman JohnW.\nMacy Jr., announcing the policy,\nsaid the effective date was set\nat July l. 1868, to allow agencies\nwhich might be disqualified \"a\nreas enable opportunity to con-\nslider a change in governing pol\nicies.\"",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3030,
+                "y0": 6363,
+                "x1": 4249,
+                "y1": 6624
+            },
+            "class": "headline",
+            "raw_text": "SOLICITORS MUST HAVE\nINTECRATED PROGRAM",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2759,
+                "y0": 6646,
+                "x1": 3562,
+                "y1": 7051
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The Civil Ser\nvice Commission said only chari-\ntable agencies that operate under\nnondiscriminatory rules will be\nallowed in the future to solicit\ndonations at federal offices or\nmilitary duty stations.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2788,
+                "y0": 5912,
+                "x1": 4463,
+                "y1": 6341
+            },
+            "class": "article",
+            "raw_text": "Members of the Board photographed the 5th annual\n\n\nov Convocaon of Church of God in Christ Memphis Tenn\nSeated left to rights Bishop A. B. McEwen chairman Bishop OIL\n1ones Senior Bishop Bishop j. o. Patterson General Secy\nStanding right Bishops John White W. G. Shipman Z. E\nBennett S. M. Crouch o. M. Kelly BS Lyle Wyoming Wells\nc. H. Brewer and L. H. Ford",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2776,
+                "y0": 2407,
+                "x1": 4469,
+                "y1": 2784
+            },
+            "class": "article",
+            "raw_text": "Mrs. James Boozer, $3.50 E. Superior Ave.\n18th wedding anniversary cake Festivities held\nEks Lodge 1907 South Seventh Ave., Friday night\n\n\nmarried in Arkansas and they have\nn Arizona since 1915.\n\n\ndaughter. Photo Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 4895,
+                "y0": 421,
+                "x1": 6132,
+                "y1": 5780
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964122501_0679",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                2
+            ],
+            "headline": "Not Guilty\n\n\nPleads COP Aide",
+            "article": "ATLANTIC CITY, N.J.- Clay\nClaiborne, aide to the Republican\nNational Committee, had his bail\ncontinued here when he pleaded\nnot guilty to an indictment charg-\ning him with aiding and abetting\nviolators of the election laws.\n\n\nThe plea was entered before\nAtlantic County Judge Paul M.\nSalzburg who agreed to allow Cla-\nborne to remain free on $4,000\nbond. Claiborne was accused of\nbeing responsible for printing\nalmost million and a half bro\nchures urging citizens to write\nin the name of the Rev. Martin\nLuther King, Jr., in the last\npresidential election.\n\n\n\"The pamphlets we're printed\nto attempt to divide the Negro\nvote and to slow down the cleo\ntive procedure\" it was charged\nby New Jersey Attorney General\nArthur ]. Stills.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1021,
+                    "y0": 5456,
+                    "x1": 1836,
+                    "y1": 5705
+                },
+                {
+                    "x0": 992,
+                    "y0": 5722,
+                    "x1": 1813,
+                    "y1": 7120
+                }
+            ],
+            "bbox": [
+                992,
+                5456,
+                1836,
+                7120
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-25_pna_sn84021918_0041421695A_1964122501_0679.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "NAACP\n\n\nASK BROKERS\nTO IGNORE\nMISSISSIPPI\ninvestments",
+            "article": "NEW YORK The National\nAssociation for the Advancement\nof Colored People has called\nupon investment houses. banking\ninstitutions, insurance compan-\nles and pension funds \"to de-\ncline to participate\" in bidding\non three Mississippi bond issues\ntotaling $32,650.0O0.\n\n\nIn a memorandum of Dec. ii\nto so leading financial institu-\ntions in New York City, RoyWil-\nkins asked withholding of bids\nfrom the following issues: Pearl\nRiver Water Supply District.\n$24, 100000 revenue refunding\nbonds for bidding: and two school\nbond issues, general obligation\nof the state, totaling $4,000. 900\nfor bidding.\n\n\nLeake and Scott counties, two\nof the five in the Pearl River\nValley district. border Neshoba\nCounty where three civil rights\nworkers were lynched last June\nnear Philadelphia, the county\nseat.\n\n\nMIR. wilkins memorandum cit\ned a resolution adopted by $500\ndelegates to the Association an\nnual convention in Washington,\nDC, last June. The resolution\nurged action by the Association,\nits branches and members to see\nthat \"no bank or other financial\ninstitution or public entity -.\nseek, bid for, or buy bonds, notes\nor other obligation of the State\nof Mississippi or of its munich\npalities.\"\n\n\n1.-The brutal discrimination\nvisited by Mississippi upon its\nNegro citizens requires no elab-\nGrafton here\" the memorandum\ncontinued. \"Nor does 1t need to\nbe documented that the money\nraised by Mississippi borrowing\nwill be spent in discriminatory\nmanner\"\n\n\nThe State of Mississippi. &C\ncording to the state auditor, on\nJune 30, 1868, had bonded debt\nof 1891 ,672,7l8 outstanding, in\nGuiding obligations of its 81 coun-\nties and 262 municipalities.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1910,
+                    "y0": 3193,
+                    "x1": 2610,
+                    "y1": 3840
+                },
+                {
+                    "x0": 1864,
+                    "y0": 3880,
+                    "x1": 2690,
+                    "y1": 7085
+                }
+            ],
+            "bbox": [
+                1864,
+                3193,
+                2690,
+                7085
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-25_pna_sn84021918_0041421695A_1964122501_0679.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "Trotting Park\nDates Given",
+            "article": "Phoenix Trotting Park w. Van\nBuren, and Cotton Lane, has been\nvoted racing dates of March Is\n20, 1865, on the Grand Circuit,\nharness racings major league\nroad show.\n\n\nThis is the first time the Board\nof Stewards of the Grand Circuit\nhave ever approved dates for\nharness race track in its inaug-\nural season. Phoenix Trotting\nPark opens its 60-night season\nJan. IL, 1865.\n\n\nThe Grand Circuit is the equiv\nalent Of the world series in base\nball.\n\n\nPhoenix Trotting Park will be\nthe second stop on the Grand\nCircuit, in which the nation\ntop 2-year-old and 3-year-old\ntrotters and PAGERS compete.\n\n\nThe Grand Circuit was founded\nin 1873 and includes in its dates\nsuch famed races as The Ham\nbletonian.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 160,
+                    "y0": 5462,
+                    "x1": 768,
+                    "y1": 5659
+                },
+                {
+                    "x0": 91,
+                    "y0": 5676,
+                    "x1": 912,
+                    "y1": 7132
+                }
+            ],
+            "bbox": [
+                91,
+                5462,
+                912,
+                7132
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-25_pna_sn84021918_0041421695A_1964122501_0679.json"
+        },
+        {
+            "object_ids": [
+                13,
+                8
+            ],
+            "headline": "SOLICITORS MUST HAVE\nINTECRATED PROGRAM",
+            "article": "Commission Chairman JohnW.\nMacy Jr., announcing the policy,\nsaid the effective date was set\nat July l. 1868, to allow agencies\nwhich might be disqualified \"a\nreas enable opportunity to con-\nslider a change in governing pol\nicies.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3030,
+                    "y0": 6363,
+                    "x1": 4249,
+                    "y1": 6624
+                },
+                {
+                    "x0": 3654,
+                    "y0": 6628,
+                    "x1": 4457,
+                    "y1": 7080
+                }
+            ],
+            "bbox": [
+                3030,
+                6363,
+                4457,
+                7080
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-12-25_pna_sn84021918_0041421695A_1964122501_0679.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "WASHINGTON The Civil Ser\nvice Commission said only chari-\ntable agencies that operate under\nnondiscriminatory rules will be\nallowed in the future to solicit\ndonations at federal offices or\nmilitary duty stations.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2759,
+                    "y0": 6646,
+                    "x1": 3562,
+                    "y1": 7051
+                }
+            ],
+            "bbox": [
+                2759,
+                6646,
+                3562,
+                7051
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-12-25_pna_sn84021918_0041421695A_1964122501_0679.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Members of the Board photographed the 5th annual\n\n\nov Convocaon of Church of God in Christ Memphis Tenn\nSeated left to rights Bishop A. B. McEwen chairman Bishop OIL\n1ones Senior Bishop Bishop j. o. Patterson General Secy\nStanding right Bishops John White W. G. Shipman Z. E\nBennett S. M. Crouch o. M. Kelly BS Lyle Wyoming Wells\nc. H. Brewer and L. H. Ford",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2788,
+                    "y0": 5912,
+                    "x1": 4463,
+                    "y1": 6341
+                }
+            ],
+            "bbox": [
+                2788,
+                5912,
+                4463,
+                6341
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-12-25_pna_sn84021918_0041421695A_1964122501_0679.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Mrs. James Boozer, $3.50 E. Superior Ave.\n18th wedding anniversary cake Festivities held\nEks Lodge 1907 South Seventh Ave., Friday night\n\n\nmarried in Arkansas and they have\nn Arizona since 1915.\n\n\ndaughter. Photo Bobby Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2776,
+                    "y0": 2407,
+                    "x1": 4469,
+                    "y1": 2784
+                }
+            ],
+            "bbox": [
+                2776,
+                2407,
+                4469,
+                2784
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-12-25_pna_sn84021918_0041421695A_1964122501_0679.json"
+        }
+    ]
+}

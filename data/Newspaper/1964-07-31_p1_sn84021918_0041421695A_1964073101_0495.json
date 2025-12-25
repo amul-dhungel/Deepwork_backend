@@ -1,0 +1,481 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0495.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4906
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 4932,
+                "y0": 388,
+                "x1": 6167,
+                "y1": 5586
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1027,
+                "y0": 2421,
+                "x1": 1845,
+                "y1": 3483
+            },
+            "class": "article",
+            "raw_text": "GREENWOOD. Miss. = Three\nGreenwood white men we're ar\nrested by the FBI and charged\nwith a civil rights conspiracy to\nstop a Negro from entering a\ndowntown movie house.\n\n\nThese are the first arrests\nbased on the new federal civil\nrights law covering public &C\ncommodations.\n\n\nSilas McGhee, a Negro. stag\ngered into the Greenwood FBl\noffice on July 10, bleeding from\nhead wounds and suffering from\nshock.\n\n\nWillie A. Belk, At, his son\nJimmy Belk. l9 and Sam Shaffer,\n40, we're arrested.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1045,
+                "y0": 2149,
+                "x1": 1625,
+                "y1": 2388
+            },
+            "class": "headline",
+            "raw_text": "3 Men\n\n\nArrested By FBl\nFor Beating Mon",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3681,
+                "y0": 469,
+                "x1": 4504,
+                "y1": 2897
+            },
+            "class": "article",
+            "raw_text": "Follow four simple rules, and\nthe solid wood paneling In your\nhome will remain in perfect con-\ndition without maintenance for 20\nyears or longer.\n\n\nEarl Cox, president Of the Ari-\nIONA Wood Council. reports state\nlumbermen are now offering such\ninformation to home owners as\npart of their normal customer\nservice. Proper selection and\napplication Of paneling not only\nbeautified rooms, but also makes\na trouble-free permanent install\nlation.\n\n\nThe four rules, Cox says, are\nthese:\n\n\n|. Have the dealer help you\nchoose a species with natural\nwear resistance and nail-holding\npower.\n\n\n2. Make certain paneling Is\nproperly easoned. All grades of\nArizona-grown pine have strict\nlimits on moisture content, so\nthat the wood cannot shrink or\nswell.\n\n\n8. When the paneling Is de-\nlivered, stack 1t on narrow sep\narator sticks with all sides ex-\nposed, preferably In the room\nwhere it Is to be used. This will\ncondition 1t to the prevailing\nhumidity.\n\n\n4. Treat backs and ends with\na penetrating sealer or other\nmoismre-resistant coating. This\nwill protect 1t against such house.\nhold activities as cooking and\nlaundering, which generate heat\nand humidity.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3698,
+                "y0": 330,
+                "x1": 4476,
+                "y1": 435
+            },
+            "class": "headline",
+            "raw_text": "Wood Panel Need Care",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3692,
+                "y0": 3348,
+                "x1": 4504,
+                "y1": 5111
+            },
+            "class": "article",
+            "raw_text": "At their eleventh annual dinner\nmeeting held in June, The Mari\ncopa County Council for Retarded\nChildren elected the following\nofficers and directors: lst Vice\nPresident, Mrs. Charlotte Lep-\npla End Vice-President,\nMaurice Kerbel: Secretary,\nMiss Annette Engel; Treasurer.\nMrs. Clarence Teeters.\n\n\nDirectors include: Mrs. Mel\nwin Allen, Marvin Brown. DR..\nWilliam Fielder, Miss Dorothy\nGerard, DR.. Clarence Laing,\nJudge Warren Mccarthy. DR.. R.\nK. Trueblood, Mrs. William\nAsher, John Frank, Mrs. II. R.\nHink, David Shirley, R. D. A.\nPuckle, Rev. Thomas Barker.\nMrs. Joseph J. Dambrova, Mrs.\nMartin Marich, Mrs. Russell\nRoeder, Mrs. Louis Wunderlich,\nMrs. Floyd L. Theobald. Mr..\nLouis Ride.\n\n\nThe councils objective are ex-\npansion of the pre-school pro-\ngram and facilities, and the es-\nEstablishment of a sheltered work\nshop and /or an employment and\nwork evaluation center.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3716,
+                "y0": 2943,
+                "x1": 4481,
+                "y1": 3303
+            },
+            "class": "headline",
+            "raw_text": "Council For\nRetarded Children\nElects Officers",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1914,
+                "y0": 2271,
+                "x1": 2743,
+                "y1": 3656
+            },
+            "class": "article",
+            "raw_text": "Fora Foley, heavyweight\nfighter of Chandler, Ariz.. is now\nranked No. 8 by Ring Magazine\nand No. S by the World Boxing\nAssociation. Foley was ranked\nNo. for two years while Floyd\nPatterson was champion but\nnever got chance to fight him.\n\n\nThe Arizonan has been In the\nfirst ten rankings since 1856 and\nhe has never had an offer ofight\nfor the crown.\n\n\n1t is rumored that promoters\nare trying to arrange a match\nfor him and Patterson in San\nFrancisco's Cow Palace in Sep\nTENDER.\n\n\nFora has been boxing pro-\nfessionally since 1853. His\nrecord is 90 wins, E draws and 2\nlosses. This year he had had\nfive fights. winning four and\ndrawing one.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1914,
+                "y0": 2137,
+                "x1": 2714,
+                "y1": 2243
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2818,
+                "y0": 4513,
+                "x1": 3630,
+                "y1": 5111
+            },
+            "class": "article",
+            "raw_text": "1885 Committee for Industrial\nOrganization Qater the Congress\nof Industrial Organizations)\nformed by several AFL interna-\ntional unions. Provisions made\nfor formation of a civil rights\ncommittee and the National Com\nmittee to Abolish Discrimina-\nton was in peak operation by\n1914.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2806,
+                "y0": 625,
+                "x1": 3630,
+                "y1": 4456
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Roy wilkins,\nexecutive secretary Of the Ma\ntional Association for the Ad-\nvancement of Colored People,\nreleased the text of telegram\nwhich he sent to the five other\njor civil rights leaders on July\nu. proposing a meeting to dis\ncuss how to oppose the election\nof Sen. G oldwater.\n\n\nThe wire sent to the Rev. Mar\ntin Luther King, Jr., president\nof the Southern Chris dan Leader\nship Conference; James L. Far\nmer, national director Of the\nCongress of Racial Equality;\nWhitney Nj. Young, Jr., executive\ndirector of the National Urban\nLeague; A. Philip Randolph.\nchairman of the Negro American\nLabor Council: and John Lewis,\nchairman of the Student Non\nviolent Coordinating Committee,\nreads:\n\n\nNothing could be palmer than\nthat each battle won imposes\nnew challenges until final VIC\ntory is achieved. The events\nof the past u hours, including\nthe tragic violence in Harlem\nand the end of the Wallace\ncandidacy for president. hard\non the heels of the G oldwater\nnomination, are all linked to-\ngether In ways that may pro-\nduce the sternest challenge we\nhave yet seen. The promise\nof the Civil Rights Act Of\n1864 could we'll be diminished\nor nullified and a decade of\nincreasingly violent and futile\ndisorder ushered in If we do\nnot play our hand coolly and\nintelligently. There is no\nsafety in assumptions that\nGoldwater cannot win the cleo\nton. He can win it and he\ncan be helped to win it If\nenough wrong moves are made.\n1t is of highest importance we\ntake counsel at earliest\nmoment to ensure that with\nout modifying any essential\nposition we do nothing to pro-\nduce votes for G oldwater. None\nof us will knowingly jeopardize\nthe prospects we have gainedby\nsuch massive sacrifices and we\ncan best ensure against such\ndangers by close and precise\nagreement among our\norganizations.\n\n\nThe leaders responded and on\nJuly % a cease order for further\ndemonstrations was issued.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2812,
+                "y0": 376,
+                "x1": 3340,
+                "y1": 586
+            },
+            "class": "headline",
+            "raw_text": "LEADERS CALL\nOFF MARCHERS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 112,
+                "y0": 915,
+                "x1": 930,
+                "y1": 3477
+            },
+            "class": "article",
+            "raw_text": "After studying \"do's\" and\n\"dont's\" of safe driving, safety\nexperts of Sentry Insurance an\nnounce the 10 most important\nprecautions for motorists. Sur\nveys show vast majority of\ndrivers think of themselves as\n\"better than average drivers\"\nYet, most traffic accidents are a\nresult of violation of the law or\ncommon-sense rule of safe driv-\ning.\n\n\nSlow down and enjoy your trip.\n\"Speed too fast\" is number one\nkiller. Adjust speed to road con-\nditions. In heavy rain, front\nwheels actually leave road at 80\nm.p.h. and skim on rain film.\nStay on your side. Allow plenty\nof time and distance for passing.\nDon't pass on an intersection,\ncurve, bridge, railroad tracks.\nYield right of way. An intersec-\nton is a danger zone, proceed\nwith caution.\n\n\nIf you're driving, don't drink.\nTwo drinks can blunt refexes.\nAvoid driving under influence of\ndrugs. Effects Of \"pep pills.\"\ntranquilizers, other medicines,\ncan be dangerous behind the\nwheel. Ask your doctor about eff\nfects of remedies prescribed.\nKeep your distance. Allow at least\none car length between you and\ncar ahead for each 10 m.p.h.\nMake exit gracefully. Get in right\nlane early when leaving super\nhighway. Turn into \"speed\nchange\" exit lane without slack\nening speed, then accelerate\nrapidly.\n\n\nUse directional signals. Failure\nto do so may bring a traffic ticket.\nObey traffic signals. Passing of\nSTOP signs is a common acct\ndent cause according to Sentry\nInsurance findings.\n\n\nFinally, check up before starting\nup. Lights, signals, brakes, tires,\nsteering, exhaust system, wipers,\nhorn and rear-view mirrors\nshould be in top condition.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 106,
+                "y0": 382,
+                "x1": 930,
+                "y1": 904
+            },
+            "class": "headline",
+            "raw_text": "q ....... THE\n\n\ng. SAT- ETY.\nIL SENTRY\n\n\ng BY JANE DAVIS\nDriving Dos\" & Don't S 5\"",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1919,
+                "y0": 3754,
+                "x1": 2749,
+                "y1": 3998
+            },
+            "class": "article",
+            "raw_text": "1925 : The Brotherhood of Sleep\ning Car Porters was organized in\nAugust with headquarters in New\nYork City.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-31"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                1
+            ],
+            "headline": "3 Men\n\n\nArrested By FBl\nFor Beating Mon",
+            "article": "GREENWOOD. Miss. = Three\nGreenwood white men we're ar\nrested by the FBI and charged\nwith a civil rights conspiracy to\nstop a Negro from entering a\ndowntown movie house.\n\n\nThese are the first arrests\nbased on the new federal civil\nrights law covering public &C\ncommodations.\n\n\nSilas McGhee, a Negro. stag\ngered into the Greenwood FBl\noffice on July 10, bleeding from\nhead wounds and suffering from\nshock.\n\n\nWillie A. Belk, At, his son\nJimmy Belk. l9 and Sam Shaffer,\n40, we're arrested.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1045,
+                    "y0": 2149,
+                    "x1": 1625,
+                    "y1": 2388
+                },
+                {
+                    "x0": 1027,
+                    "y0": 2421,
+                    "x1": 1845,
+                    "y1": 3483
+                }
+            ],
+            "bbox": [
+                1027,
+                2149,
+                1845,
+                3483
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        },
+        {
+            "object_ids": [
+                23,
+                2
+            ],
+            "headline": "Wood Panel Need Care",
+            "article": "Follow four simple rules, and\nthe solid wood paneling In your\nhome will remain in perfect con-\ndition without maintenance for 20\nyears or longer.\n\n\nEarl Cox, president Of the Ari-\nIONA Wood Council. reports state\nlumbermen are now offering such\ninformation to home owners as\npart of their normal customer\nservice. Proper selection and\napplication Of paneling not only\nbeautified rooms, but also makes\na trouble-free permanent install\nlation.\n\n\nThe four rules, Cox says, are\nthese:\n\n\n|. Have the dealer help you\nchoose a species with natural\nwear resistance and nail-holding\npower.\n\n\n2. Make certain paneling Is\nproperly easoned. All grades of\nArizona-grown pine have strict\nlimits on moisture content, so\nthat the wood cannot shrink or\nswell.\n\n\n8. When the paneling Is de-\nlivered, stack 1t on narrow sep\narator sticks with all sides ex-\nposed, preferably In the room\nwhere it Is to be used. This will\ncondition 1t to the prevailing\nhumidity.\n\n\n4. Treat backs and ends with\na penetrating sealer or other\nmoismre-resistant coating. This\nwill protect 1t against such house.\nhold activities as cooking and\nlaundering, which generate heat\nand humidity.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3698,
+                    "y0": 330,
+                    "x1": 4476,
+                    "y1": 435
+                },
+                {
+                    "x0": 3681,
+                    "y0": 469,
+                    "x1": 4504,
+                    "y1": 2897
+                }
+            ],
+            "bbox": [
+                3681,
+                330,
+                4504,
+                2897
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        },
+        {
+            "object_ids": [
+                15,
+                3
+            ],
+            "headline": "Council For\nRetarded Children\nElects Officers",
+            "article": "At their eleventh annual dinner\nmeeting held in June, The Mari\ncopa County Council for Retarded\nChildren elected the following\nofficers and directors: lst Vice\nPresident, Mrs. Charlotte Lep-\npla End Vice-President,\nMaurice Kerbel: Secretary,\nMiss Annette Engel; Treasurer.\nMrs. Clarence Teeters.\n\n\nDirectors include: Mrs. Mel\nwin Allen, Marvin Brown. DR..\nWilliam Fielder, Miss Dorothy\nGerard, DR.. Clarence Laing,\nJudge Warren Mccarthy. DR.. R.\nK. Trueblood, Mrs. William\nAsher, John Frank, Mrs. II. R.\nHink, David Shirley, R. D. A.\nPuckle, Rev. Thomas Barker.\nMrs. Joseph J. Dambrova, Mrs.\nMartin Marich, Mrs. Russell\nRoeder, Mrs. Louis Wunderlich,\nMrs. Floyd L. Theobald. Mr..\nLouis Ride.\n\n\nThe councils objective are ex-\npansion of the pre-school pro-\ngram and facilities, and the es-\nEstablishment of a sheltered work\nshop and /or an employment and\nwork evaluation center.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3716,
+                    "y0": 2943,
+                    "x1": 4481,
+                    "y1": 3303
+                },
+                {
+                    "x0": 3692,
+                    "y0": 3348,
+                    "x1": 4504,
+                    "y1": 5111
+                }
+            ],
+            "bbox": [
+                3692,
+                2943,
+                4504,
+                5111
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        },
+        {
+            "object_ids": [
+                24,
+                4
+            ],
+            "headline": "",
+            "article": "Fora Foley, heavyweight\nfighter of Chandler, Ariz.. is now\nranked No. 8 by Ring Magazine\nand No. S by the World Boxing\nAssociation. Foley was ranked\nNo. for two years while Floyd\nPatterson was champion but\nnever got chance to fight him.\n\n\nThe Arizonan has been In the\nfirst ten rankings since 1856 and\nhe has never had an offer ofight\nfor the crown.\n\n\n1t is rumored that promoters\nare trying to arrange a match\nfor him and Patterson in San\nFrancisco's Cow Palace in Sep\nTENDER.\n\n\nFora has been boxing pro-\nfessionally since 1853. His\nrecord is 90 wins, E draws and 2\nlosses. This year he had had\nfive fights. winning four and\ndrawing one.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1914,
+                    "y0": 2137,
+                    "x1": 2714,
+                    "y1": 2243
+                },
+                {
+                    "x0": 1914,
+                    "y0": 2271,
+                    "x1": 2743,
+                    "y1": 3656
+                }
+            ],
+            "bbox": [
+                1914,
+                2137,
+                2743,
+                3656
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "1885 Committee for Industrial\nOrganization Qater the Congress\nof Industrial Organizations)\nformed by several AFL interna-\ntional unions. Provisions made\nfor formation of a civil rights\ncommittee and the National Com\nmittee to Abolish Discrimina-\nton was in peak operation by\n1914.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2818,
+                    "y0": 4513,
+                    "x1": 3630,
+                    "y1": 5111
+                }
+            ],
+            "bbox": [
+                2818,
+                4513,
+                3630,
+                5111
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "LEADERS CALL\nOFF MARCHERS",
+            "article": "NEW YORK Roy wilkins,\nexecutive secretary Of the Ma\ntional Association for the Ad-\nvancement of Colored People,\nreleased the text of telegram\nwhich he sent to the five other\njor civil rights leaders on July\nu. proposing a meeting to dis\ncuss how to oppose the election\nof Sen. G oldwater.\n\n\nThe wire sent to the Rev. Mar\ntin Luther King, Jr., president\nof the Southern Chris dan Leader\nship Conference; James L. Far\nmer, national director Of the\nCongress of Racial Equality;\nWhitney Nj. Young, Jr., executive\ndirector of the National Urban\nLeague; A. Philip Randolph.\nchairman of the Negro American\nLabor Council: and John Lewis,\nchairman of the Student Non\nviolent Coordinating Committee,\nreads:\n\n\nNothing could be palmer than\nthat each battle won imposes\nnew challenges until final VIC\ntory is achieved. The events\nof the past u hours, including\nthe tragic violence in Harlem\nand the end of the Wallace\ncandidacy for president. hard\non the heels of the G oldwater\nnomination, are all linked to-\ngether In ways that may pro-\nduce the sternest challenge we\nhave yet seen. The promise\nof the Civil Rights Act Of\n1864 could we'll be diminished\nor nullified and a decade of\nincreasingly violent and futile\ndisorder ushered in If we do\nnot play our hand coolly and\nintelligently. There is no\nsafety in assumptions that\nGoldwater cannot win the cleo\nton. He can win it and he\ncan be helped to win it If\nenough wrong moves are made.\n1t is of highest importance we\ntake counsel at earliest\nmoment to ensure that with\nout modifying any essential\nposition we do nothing to pro-\nduce votes for G oldwater. None\nof us will knowingly jeopardize\nthe prospects we have gainedby\nsuch massive sacrifices and we\ncan best ensure against such\ndangers by close and precise\nagreement among our\norganizations.\n\n\nThe leaders responded and on\nJuly % a cease order for further\ndemonstrations was issued.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2812,
+                    "y0": 376,
+                    "x1": 3340,
+                    "y1": 586
+                },
+                {
+                    "x0": 2806,
+                    "y0": 625,
+                    "x1": 3630,
+                    "y1": 4456
+                }
+            ],
+            "bbox": [
+                2806,
+                376,
+                3630,
+                4456
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        },
+        {
+            "object_ids": [
+                26,
+                9
+            ],
+            "headline": "q ....... THE\n\n\ng. SAT- ETY.\nIL SENTRY\n\n\ng BY JANE DAVIS\nDriving Dos\" & Don't S 5\"",
+            "article": "After studying \"do's\" and\n\"dont's\" of safe driving, safety\nexperts of Sentry Insurance an\nnounce the 10 most important\nprecautions for motorists. Sur\nveys show vast majority of\ndrivers think of themselves as\n\"better than average drivers\"\nYet, most traffic accidents are a\nresult of violation of the law or\ncommon-sense rule of safe driv-\ning.\n\n\nSlow down and enjoy your trip.\n\"Speed too fast\" is number one\nkiller. Adjust speed to road con-\nditions. In heavy rain, front\nwheels actually leave road at 80\nm.p.h. and skim on rain film.\nStay on your side. Allow plenty\nof time and distance for passing.\nDon't pass on an intersection,\ncurve, bridge, railroad tracks.\nYield right of way. An intersec-\nton is a danger zone, proceed\nwith caution.\n\n\nIf you're driving, don't drink.\nTwo drinks can blunt refexes.\nAvoid driving under influence of\ndrugs. Effects Of \"pep pills.\"\ntranquilizers, other medicines,\ncan be dangerous behind the\nwheel. Ask your doctor about eff\nfects of remedies prescribed.\nKeep your distance. Allow at least\none car length between you and\ncar ahead for each 10 m.p.h.\nMake exit gracefully. Get in right\nlane early when leaving super\nhighway. Turn into \"speed\nchange\" exit lane without slack\nening speed, then accelerate\nrapidly.\n\n\nUse directional signals. Failure\nto do so may bring a traffic ticket.\nObey traffic signals. Passing of\nSTOP signs is a common acct\ndent cause according to Sentry\nInsurance findings.\n\n\nFinally, check up before starting\nup. Lights, signals, brakes, tires,\nsteering, exhaust system, wipers,\nhorn and rear-view mirrors\nshould be in top condition.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 106,
+                    "y0": 382,
+                    "x1": 930,
+                    "y1": 904
+                },
+                {
+                    "x0": 112,
+                    "y0": 915,
+                    "x1": 930,
+                    "y1": 3477
+                }
+            ],
+            "bbox": [
+                106,
+                382,
+                930,
+                3477
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "1925 : The Brotherhood of Sleep\ning Car Porters was organized in\nAugust with headquarters in New\nYork City.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1919,
+                    "y0": 3754,
+                    "x1": 2749,
+                    "y1": 3998
+                }
+            ],
+            "bbox": [
+                1919,
+                3754,
+                2749,
+                3998
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-07-31_p1_sn84021918_0041421695A_1964073101_0495.json"
+        }
+    ]
+}

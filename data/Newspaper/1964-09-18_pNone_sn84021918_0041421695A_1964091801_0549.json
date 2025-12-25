@@ -1,0 +1,567 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7472,
+        "width": 4904,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0549.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2825,
+                "y0": 4261,
+                "x1": 3643,
+                "y1": 6206
+            },
+            "class": "article",
+            "raw_text": "CANTON. Miss. = A dynamite\nblast destroyed a white-owned\ngrocery in a Negro neighbor-\nhood. Eight sticks of dynamite\nwe're found in another store in the\nneighborhood.\n\n\nNo injuries we're reported in\nthe explosion. FBI gents in\nvestigated the blast in this cen\ntrail Mississippi town where civil\nrights leaders claim a Negro\nboycott of downtown merchants\n. has been \"85 percent effective\"\n\n\nGeorge Raymond. Negro direc-\ntor of the Council of Federated\nOrganizations activities in Can\nton, said the hull of the con-\ncrete block building was left\nstanding but the interior was\nExtensively damaged\"\n\n\nAll the windows we're blown\nout, and the street was covered\nwith pieces of block, wood and\nglass;\" Raymond said. He said\nmuch of the merchandise was\ndestroyed.\n\n\nRaymond said the FBI and\nsheriff's deputies removed eight\nsticks of unexploded dynamite\nfrom under the George Washing\nton Grocery after the Negro\nowner, George Washington, saw\na cable leading under the building.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2866,
+                "y0": 4039,
+                "x1": 3381,
+                "y1": 4227
+            },
+            "class": "headline",
+            "raw_text": "mite\nWrecks Store",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1074,
+                "y0": 6158,
+                "x1": 1892,
+                "y1": 7151
+            },
+            "class": "article",
+            "raw_text": "PICKENS, Miss. = Civil rights\nworkers reported the body of a\nNegro youth who was a worker\nfor the Congress of Racial\nEquality had been found in the\nBig Black River near here.\n\n\nThe youth was identified as\nHenry Orsby. IA, of New Or\nleans, who was visiting his\ngrandparents in Pickens.\n\n\nFBI agents and state officers\nmoved into the investigation. The\nc Council of Federated Organi-\ncations said he had not been\nactive in civil rights work in\nMississippi. although he was a\nCORE worker in New Orleans.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1097,
+                "y0": 5878,
+                "x1": 1659,
+                "y1": 6130
+            },
+            "class": "headline",
+            "raw_text": "Boys\nBody Found",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 181,
+                "y0": 6228,
+                "x1": 993,
+                "y1": 7163
+            },
+            "class": "article",
+            "raw_text": "A police car rear window was\nbroken by rocks Sunday by a\nlarge group of Negro juveniles\nat Ninth Avenue and Buckeye\nRoad.\n\n\nPatrolman Earl Wrather and\nreserve officer Ray Fields said\nthey stopped car for a traffic\nviolation at Ninth Avenue and\nBuckeye.\n\n\nRocks we're thrown after Of\nficers told youth not to loi-\nter around the police acr. The\ncrowd was dispersed when addi-\ntional officers arrived. There\nwere no arrests.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 210,
+                "y0": 5930,
+                "x1": 830,
+                "y1": 6206
+            },
+            "class": "headline",
+            "raw_text": "Youths Stone\nPolice Car",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1979,
+                "y0": 5539,
+                "x1": 2791,
+                "y1": 6760
+            },
+            "class": "article",
+            "raw_text": "Four men were wounded dur\ning gun fight at the Trot Inn,\n2432 E. Broadway Sunday night.\n\n\nInjured when they scuffled near\nsome drums we're Johnnie Jones,\n81. 1913 l n E. letters on, drum\nmer at the tavern and Willie B.\nWilliams, 33. 1880 E. Adams,\nia, a customer, who had been\nplaying Jones' drums.\n\n\nThe men tussled and each one\npulled a hidden revolver and\nfired at each other. Jones was\nshot in the back and Williams\nwas struck in the left ankle.\n\n\nTwo patrons Ralph Flores, 81,\n5l8 w. Fifth ST.. Tempe, and\nGeorge Johns on, 48. 200 E.\nBroadway, we're injured. also.\nFlores was wounded in the back\nand Johns on's right foot was hit.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2014,
+                "y0": 5335,
+                "x1": 2464,
+                "y1": 5517
+            },
+            "class": "headline",
+            "raw_text": "4 Men Shot\nat Trot Inn",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3707,
+                "y0": 5545,
+                "x1": 4525,
+                "y1": 6661
+            },
+            "class": "article",
+            "raw_text": "Emmett Race. newly appointed\nmanager of the Arizona State Fair\nColiseum, was greeted by more\nthan 400 civic leaders at well\ncome dinner, Fri, Sept. IL,\nThunderbird Room, Hotel West\nward Ho.\n\n\nMr.. Race, former manager of\nthe VIII Rogers Memorial Coli\nscum, Fort Worth, Texas, said\nthe building would attract more\ntourists and 1t would accommo-\ndate national travelling shows,\ntoo. The state fair coliseum will\nbe finished in November 1865.\n\n\nHe invited all Arizonans to\nassist the chamber of commerce\nin bringing more conventions to\nthe state.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2843,
+                "y0": 6491,
+                "x1": 3643,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "A charge of ars on was lodged\nagainst Lilly Mae Archer, 27,\nof 1901 E. Elwood.\n\n\nPolice said She admitted buy\ning a can of gasoline at a SER\nvice station and using it in an\nattempt to burn down a house\nat 9O2 E. Monroe Sunday morn\ning after an argument with Rob-\nert Jack Banks, 26, one of two\ntenants.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2854,
+                "y0": 6257,
+                "x1": 3503,
+                "y1": 6468
+            },
+            "class": "headline",
+            "raw_text": "ARSON CHARGED\n\n\nTO MRS ARCHER",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 163,
+                "y0": 1395,
+                "x1": 1863,
+                "y1": 3491
+            },
+            "class": "article",
+            "raw_text": "The report of President JoKanson's signing\na covenant restricting resale of some pro-\nbeyty he purchased should not be surprising.\nThe property Wus neUeY to be sold to Negroes\nof Jews. This type Of agreement IS wtdety\nused in different areas Of the country. 1t IS\noften employed by real estate dealers to\nkeep community all Wlaite, free from Jews\nor Negroes and any other groups considered\nundesirable.\n\n\nnv. johnson had not previously been a\nstaunch supporter Of civil rights until 1t\nbecame politically Mise to do so. He has\nclearly shooOn that he mill alter his position\nsOken ne ceSS0Yy.\n\n\nDuring the 1860 Democratic national con-\nvention held in Los Angeles, his nomination\nas the vice presidential candidate aOus not\nsupported by Negroes or the liberal faction\nof the party. HIS record had little to indicate\nhe uas any different from other senators from\nthe South.\n\n\nMr.. johnson has made many YeUersals, and\nno doubt more MILl be revealed",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 741,
+                "y0": 1220,
+                "x1": 1320,
+                "y1": 1361
+            },
+            "class": "headline",
+            "raw_text": "IN REVERSE",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1973,
+                "y0": 6917,
+                "x1": 2779,
+                "y1": 7151
+            },
+            "class": "article",
+            "raw_text": "1t is incumbent upon every\nperson of every description to\ncontribute to his country's well\nfare. George Washington",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2025,
+                "y0": 6794,
+                "x1": 2692,
+                "y1": 6889
+            },
+            "class": "headline",
+            "raw_text": "Words of Wis dom",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1938,
+                "y0": 2673,
+                "x1": 2750,
+                "y1": 3229
+            },
+            "class": "article",
+            "raw_text": "Harry E. Crawford, 1908 West\nSonora, Phoenix, was named\nbranch office representative of\nthe East Broadway office of Ari-\niona Public Service Company,\nat 17l2 East Broadway. A 10\nyear veteran with APPS, Crawford\nhas served as a customer ser\nviceman since 1861",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2848,
+                "y0": 1862,
+                "x1": 4525,
+                "y1": 2242
+            },
+            "class": "article",
+            "raw_text": "awards banquet the bowling league w. H. Pat\nGrand Canyon Temple 49, BPOEW\nheld Sunday at the lodge hall.\n\n\nSponsors trophies awarded Mr. Isiah Ward exalted\nruler and Mrs. Ruby Blackshear. daughter ruler.\n\n\nDorothy Clark league secretary presented the awards",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091801_0549",
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                3
+            ],
+            "headline": "mite\nWrecks Store",
+            "article": "CANTON. Miss. = A dynamite\nblast destroyed a white-owned\ngrocery in a Negro neighbor-\nhood. Eight sticks of dynamite\nwe're found in another store in the\nneighborhood.\n\n\nNo injuries we're reported in\nthe explosion. FBI gents in\nvestigated the blast in this cen\ntrail Mississippi town where civil\nrights leaders claim a Negro\nboycott of downtown merchants\n. has been \"85 percent effective\"\n\n\nGeorge Raymond. Negro direc-\ntor of the Council of Federated\nOrganizations activities in Can\nton, said the hull of the con-\ncrete block building was left\nstanding but the interior was\nExtensively damaged\"\n\n\nAll the windows we're blown\nout, and the street was covered\nwith pieces of block, wood and\nglass;\" Raymond said. He said\nmuch of the merchandise was\ndestroyed.\n\n\nRaymond said the FBI and\nsheriff's deputies removed eight\nsticks of unexploded dynamite\nfrom under the George Washing\nton Grocery after the Negro\nowner, George Washington, saw\na cable leading under the building.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2866,
+                    "y0": 4039,
+                    "x1": 3381,
+                    "y1": 4227
+                },
+                {
+                    "x0": 2825,
+                    "y0": 4261,
+                    "x1": 3643,
+                    "y1": 6206
+                }
+            ],
+            "bbox": [
+                2825,
+                4039,
+                3643,
+                6206
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "Boys\nBody Found",
+            "article": "PICKENS, Miss. = Civil rights\nworkers reported the body of a\nNegro youth who was a worker\nfor the Congress of Racial\nEquality had been found in the\nBig Black River near here.\n\n\nThe youth was identified as\nHenry Orsby. IA, of New Or\nleans, who was visiting his\ngrandparents in Pickens.\n\n\nFBI agents and state officers\nmoved into the investigation. The\nc Council of Federated Organi-\ncations said he had not been\nactive in civil rights work in\nMississippi. although he was a\nCORE worker in New Orleans.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1097,
+                    "y0": 5878,
+                    "x1": 1659,
+                    "y1": 6130
+                },
+                {
+                    "x0": 1074,
+                    "y0": 6158,
+                    "x1": 1892,
+                    "y1": 7151
+                }
+            ],
+            "bbox": [
+                1074,
+                5878,
+                1892,
+                7151
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "Youths Stone\nPolice Car",
+            "article": "A police car rear window was\nbroken by rocks Sunday by a\nlarge group of Negro juveniles\nat Ninth Avenue and Buckeye\nRoad.\n\n\nPatrolman Earl Wrather and\nreserve officer Ray Fields said\nthey stopped car for a traffic\nviolation at Ninth Avenue and\nBuckeye.\n\n\nRocks we're thrown after Of\nficers told youth not to loi-\nter around the police acr. The\ncrowd was dispersed when addi-\ntional officers arrived. There\nwere no arrests.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 210,
+                    "y0": 5930,
+                    "x1": 830,
+                    "y1": 6206
+                },
+                {
+                    "x0": 181,
+                    "y0": 6228,
+                    "x1": 993,
+                    "y1": 7163
+                }
+            ],
+            "bbox": [
+                181,
+                5930,
+                993,
+                7163
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "4 Men Shot\nat Trot Inn",
+            "article": "Four men were wounded dur\ning gun fight at the Trot Inn,\n2432 E. Broadway Sunday night.\n\n\nInjured when they scuffled near\nsome drums we're Johnnie Jones,\n81. 1913 l n E. letters on, drum\nmer at the tavern and Willie B.\nWilliams, 33. 1880 E. Adams,\nia, a customer, who had been\nplaying Jones' drums.\n\n\nThe men tussled and each one\npulled a hidden revolver and\nfired at each other. Jones was\nshot in the back and Williams\nwas struck in the left ankle.\n\n\nTwo patrons Ralph Flores, 81,\n5l8 w. Fifth ST.. Tempe, and\nGeorge Johns on, 48. 200 E.\nBroadway, we're injured. also.\nFlores was wounded in the back\nand Johns on's right foot was hit.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2014,
+                    "y0": 5335,
+                    "x1": 2464,
+                    "y1": 5517
+                },
+                {
+                    "x0": 1979,
+                    "y0": 5539,
+                    "x1": 2791,
+                    "y1": 6760
+                }
+            ],
+            "bbox": [
+                1979,
+                5335,
+                2791,
+                6760
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Emmett Race. newly appointed\nmanager of the Arizona State Fair\nColiseum, was greeted by more\nthan 400 civic leaders at well\ncome dinner, Fri, Sept. IL,\nThunderbird Room, Hotel West\nward Ho.\n\n\nMr.. Race, former manager of\nthe VIII Rogers Memorial Coli\nscum, Fort Worth, Texas, said\nthe building would attract more\ntourists and 1t would accommo-\ndate national travelling shows,\ntoo. The state fair coliseum will\nbe finished in November 1865.\n\n\nHe invited all Arizonans to\nassist the chamber of commerce\nin bringing more conventions to\nthe state.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3707,
+                    "y0": 5545,
+                    "x1": 4525,
+                    "y1": 6661
+                }
+            ],
+            "bbox": [
+                3707,
+                5545,
+                4525,
+                6661
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                14,
+                9
+            ],
+            "headline": "ARSON CHARGED\n\n\nTO MRS ARCHER",
+            "article": "A charge of ars on was lodged\nagainst Lilly Mae Archer, 27,\nof 1901 E. Elwood.\n\n\nPolice said She admitted buy\ning a can of gasoline at a SER\nvice station and using it in an\nattempt to burn down a house\nat 9O2 E. Monroe Sunday morn\ning after an argument with Rob-\nert Jack Banks, 26, one of two\ntenants.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2854,
+                    "y0": 6257,
+                    "x1": 3503,
+                    "y1": 6468
+                },
+                {
+                    "x0": 2843,
+                    "y0": 6491,
+                    "x1": 3643,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                2843,
+                6257,
+                3643,
+                7134
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                30,
+                11
+            ],
+            "headline": "IN REVERSE",
+            "article": "The report of President JoKanson's signing\na covenant restricting resale of some pro-\nbeyty he purchased should not be surprising.\nThe property Wus neUeY to be sold to Negroes\nof Jews. This type Of agreement IS wtdety\nused in different areas Of the country. 1t IS\noften employed by real estate dealers to\nkeep community all Wlaite, free from Jews\nor Negroes and any other groups considered\nundesirable.\n\n\nnv. johnson had not previously been a\nstaunch supporter Of civil rights until 1t\nbecame politically Mise to do so. He has\nclearly shooOn that he mill alter his position\nsOken ne ceSS0Yy.\n\n\nDuring the 1860 Democratic national con-\nvention held in Los Angeles, his nomination\nas the vice presidential candidate aOus not\nsupported by Negroes or the liberal faction\nof the party. HIS record had little to indicate\nhe uas any different from other senators from\nthe South.\n\n\nMr.. johnson has made many YeUersals, and\nno doubt more MILl be revealed",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 741,
+                    "y0": 1220,
+                    "x1": 1320,
+                    "y1": 1361
+                },
+                {
+                    "x0": 163,
+                    "y0": 1395,
+                    "x1": 1863,
+                    "y1": 3491
+                }
+            ],
+            "bbox": [
+                163,
+                1220,
+                1863,
+                3491
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                25,
+                15
+            ],
+            "headline": "Words of Wis dom",
+            "article": "1t is incumbent upon every\nperson of every description to\ncontribute to his country's well\nfare. George Washington",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2025,
+                    "y0": 6794,
+                    "x1": 2692,
+                    "y1": 6889
+                },
+                {
+                    "x0": 1973,
+                    "y0": 6917,
+                    "x1": 2779,
+                    "y1": 7151
+                }
+            ],
+            "bbox": [
+                1973,
+                6794,
+                2779,
+                7151
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Harry E. Crawford, 1908 West\nSonora, Phoenix, was named\nbranch office representative of\nthe East Broadway office of Ari-\niona Public Service Company,\nat 17l2 East Broadway. A 10\nyear veteran with APPS, Crawford\nhas served as a customer ser\nviceman since 1861",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1938,
+                    "y0": 2673,
+                    "x1": 2750,
+                    "y1": 3229
+                }
+            ],
+            "bbox": [
+                1938,
+                2673,
+                2750,
+                3229
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "awards banquet the bowling league w. H. Pat\nGrand Canyon Temple 49, BPOEW\nheld Sunday at the lodge hall.\n\n\nSponsors trophies awarded Mr. Isiah Ward exalted\nruler and Mrs. Ruby Blackshear. daughter ruler.\n\n\nDorothy Clark league secretary presented the awards",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2848,
+                    "y0": 1862,
+                    "x1": 4525,
+                    "y1": 2242
+                }
+            ],
+            "bbox": [
+                2848,
+                1862,
+                4525,
+                2242
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-09-18_pna_sn84021918_0041421695A_1964091801_0549.json"
+        }
+    ]
+}

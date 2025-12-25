@@ -1,0 +1,328 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964051501/0401.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7430,
+        "width": 4827
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3754,
+                "y0": 3355,
+                "x1": 4573,
+                "y1": 4644
+            },
+            "class": "article",
+            "raw_text": "Married Folks; 80 to As year old\n\n\nPLANNED RETIREMENT\nDid you know 1t costs more a\nmonth than most of us earn to\nPAY the premium on a Life In\nsurance Policy that would letyou\nretire in only l9 short years\nat $4,000 a month or lump sum\nsavings of $7O.OOO.O0. You can\ndo just THIS by trading in your\nhome (paid for or noD or paying\nlow down payment on 10 new\nrefrigerated units. 8 furnished\nand all rented. Presently under\nmanagement: but you manage and\nmake even more extra SS$$ per\nm onth. Check this chance for\nplanned retirement now.\n277-766o. P. o. Box lO422, Phoe-\nnix Is, Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3829,
+                "y0": 3105,
+                "x1": 4422,
+                "y1": 3315
+            },
+            "class": "headline",
+            "raw_text": "REAL ESTATE\nIN VESTMENT",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3760,
+                "y0": 3349,
+                "x1": 4573,
+                "y1": 3425
+            },
+            "class": "author",
+            "raw_text": "Married Folks; 80 to As year old",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3748,
+                "y0": 2675,
+                "x1": 4568,
+                "y1": 3094
+            },
+            "class": "article",
+            "raw_text": "J& M BARBER SHOP\nl205 W. Buckeye\n\n\nDRIVER WANTED\nFREE Observation-Disclosures\ndrive to Oklahoma. Leave the\nfirst week in .lune APP $500",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3736,
+                "y0": 2176,
+                "x1": 4451,
+                "y1": 2369
+            },
+            "class": "article",
+            "raw_text": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3736,
+                "y0": 2408,
+                "x1": 4562,
+                "y1": 2607
+            },
+            "class": "article",
+            "raw_text": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3736,
+                "y0": 667,
+                "x1": 4568,
+                "y1": 860
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\nl418 E. Washington\n258-O5ll",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3760,
+                "y0": 394,
+                "x1": 4533,
+                "y1": 639
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3736,
+                "y0": 1892,
+                "x1": 4382,
+                "y1": 2142
+            },
+            "class": "article",
+            "raw_text": "LADY EBONEE BEAUTY\nCENTER\n\n\ne17W. Buckeye Rd.\nAL 2-2642",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-15"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                25,
+                3
+            ],
+            "headline": "REAL ESTATE\nIN VESTMENT",
+            "article": "Married Folks; 80 to As year old\n\n\nPLANNED RETIREMENT\nDid you know 1t costs more a\nmonth than most of us earn to\nPAY the premium on a Life In\nsurance Policy that would letyou\nretire in only l9 short years\nat $4,000 a month or lump sum\nsavings of $7O.OOO.O0. You can\ndo just THIS by trading in your\nhome (paid for or noD or paying\nlow down payment on 10 new\nrefrigerated units. 8 furnished\nand all rented. Presently under\nmanagement: but you manage and\nmake even more extra SS$$ per\nm onth. Check this chance for\nplanned retirement now.\n277-766o. P. o. Box lO422, Phoe-\nnix Is, Arizona.",
+            "byline": "Married Folks; 80 to As year old",
+            "bbox_list": [
+                {
+                    "x0": 3829,
+                    "y0": 3105,
+                    "x1": 4422,
+                    "y1": 3315
+                },
+                {
+                    "x0": 3760,
+                    "y0": 3349,
+                    "x1": 4573,
+                    "y1": 3425
+                },
+                {
+                    "x0": 3754,
+                    "y0": 3355,
+                    "x1": 4573,
+                    "y1": 4644
+                }
+            ],
+            "bbox": [
+                3754,
+                3105,
+                4573,
+                4644
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-15_p1_sn84021918_0041421695A_1964051501_0401.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "J& M BARBER SHOP\nl205 W. Buckeye\n\n\nDRIVER WANTED\nFREE Observation-Disclosures\ndrive to Oklahoma. Leave the\nfirst week in .lune APP $500",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3748,
+                    "y0": 2675,
+                    "x1": 4568,
+                    "y1": 3094
+                }
+            ],
+            "bbox": [
+                3748,
+                2675,
+                4568,
+                3094
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-05-15_p1_sn84021918_0041421695A_1964051501_0401.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "SOUBLETS BEAUTY SHOP\n20l4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3736,
+                    "y0": 2176,
+                    "x1": 4451,
+                    "y1": 2369
+                }
+            ],
+            "bbox": [
+                3736,
+                2176,
+                4451,
+                2369
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-05-15_p1_sn84021918_0041421695A_1964051501_0401.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3736,
+                    "y0": 2408,
+                    "x1": 4562,
+                    "y1": 2607
+                }
+            ],
+            "bbox": [
+                3736,
+                2408,
+                4562,
+                2607
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-05-15_p1_sn84021918_0041421695A_1964051501_0401.json"
+        },
+        {
+            "object_ids": [
+                23,
+                28
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\nl418 E. Washington\n258-O5ll",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3760,
+                    "y0": 394,
+                    "x1": 4533,
+                    "y1": 639
+                },
+                {
+                    "x0": 3736,
+                    "y0": 667,
+                    "x1": 4568,
+                    "y1": 860
+                }
+            ],
+            "bbox": [
+                3736,
+                394,
+                4568,
+                860
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-05-15_p1_sn84021918_0041421695A_1964051501_0401.json"
+        },
+        {
+            "object_ids": [
+                30
+            ],
+            "headline": "",
+            "article": "LADY EBONEE BEAUTY\nCENTER\n\n\ne17W. Buckeye Rd.\nAL 2-2642",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3736,
+                    "y0": 1892,
+                    "x1": 4382,
+                    "y1": 2142
+                }
+            ],
+            "bbox": [
+                3736,
+                1892,
+                4382,
+                2142
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-05-15_p1_sn84021918_0041421695A_1964051501_0401.json"
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0594.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4820
+    },
+    "bboxes": [
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2421,
+                "y0": 4739,
+                "x1": 4295,
+                "y1": 7046
+            },
+            "class": "article",
+            "raw_text": "If you over IS, fac\ning medical expense and\ncan't pay for it it's\nyours for the asking, al\nready provided for by\nlaw The Kerr-Mils Act\noffers Health Opportu-\nnifty Program for the Ell\nderly with the federal\nand state governments\nsharing the cost.\n\n\nIn most states this\ncare is far far greater\nthan that offered by\nMediocre proposals :.\nand additional tax is\nnecessary\n\n\nIf you are elderly,\nand without funds for\nneeded medical care, ask\nyour doctor about the\nHealth Opportunity Pro-\ngram for the Elderly, or\ncall your local medical\nsociety,\"\nHEALTH OPPORTUNITY PROGRAM FOR THE ELDERLY\nHELPS THOSE NEED\nMARICOPA COUNTY MEDICAL SOCIETY",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3005,
+                "y0": 2242,
+                "x1": 3821,
+                "y1": 2896
+            },
+            "class": "article",
+            "raw_text": "TUCSON-Dick Gregory, Negro\ncomedian and civil rights worker,\nsaid at a Tucson Press Club for\nUNI Malco x is Americas No.\nl strong man, and he will be\nstronger when he returns to the\nUnited States after his Middle\nEast visit.\n\n\nGregory is on a 30-day tour of\nthe United States. spoons ored by\nthe Congress of Racial Equality.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3016,
+                "y0": 2109,
+                "x1": 3717,
+                "y1": 2220
+            },
+            "class": "headline",
+            "raw_text": "Gregory Appears",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2132,
+                "y0": 2311,
+                "x1": 2942,
+                "y1": 2896
+            },
+            "class": "article",
+            "raw_text": "Beekeeping must be an es-\npecially sweet business this year.\n\n\nAccording to the US. Depart\nment of Agriculture, the number\nof bees in this country is at a\nrecord high. AS of July l., bee\nkeepers had 5,645 900 colonies of\nbees. Averaging about $4,000\nper colony, that's 1885,\n100000 bees more or less.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2144,
+                "y0": 2178,
+                "x1": 2775,
+                "y1": 2283
+            },
+            "class": "headline",
+            "raw_text": "BEES ARE BUSY",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-16"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "BEES ARE BUSY",
+            "article": "Beekeeping must be an es-\npecially sweet business this year.\n\n\nAccording to the US. Depart\nment of Agriculture, the number\nof bees in this country is at a\nrecord high. AS of July l., bee\nkeepers had 5,645 900 colonies of\nbees. Averaging about $4,000\nper colony, that's 1885,\n100000 bees more or less.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2144,
+                    "y0": 2178,
+                    "x1": 2775,
+                    "y1": 2283
+                },
+                {
+                    "x0": 2132,
+                    "y0": 2311,
+                    "x1": 2942,
+                    "y1": 2896
+                }
+            ],
+            "bbox": [
+                2132,
+                2178,
+                2942,
+                2896
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-16_p1_sn84021918_0041421695A_1964101601_0594.json"
+        },
+        {
+            "object_ids": [
+                6,
+                2
+            ],
+            "headline": "Gregory Appears",
+            "article": "TUCSON-Dick Gregory, Negro\ncomedian and civil rights worker,\nsaid at a Tucson Press Club for\nUNI Malco x is Americas No.\nl strong man, and he will be\nstronger when he returns to the\nUnited States after his Middle\nEast visit.\n\n\nGregory is on a 30-day tour of\nthe United States. spoons ored by\nthe Congress of Racial Equality.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3016,
+                    "y0": 2109,
+                    "x1": 3717,
+                    "y1": 2220
+                },
+                {
+                    "x0": 3005,
+                    "y0": 2242,
+                    "x1": 3821,
+                    "y1": 2896
+                }
+            ],
+            "bbox": [
+                3005,
+                2109,
+                3821,
+                2896
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-16_p1_sn84021918_0041421695A_1964101601_0594.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "If you over IS, fac\ning medical expense and\ncan't pay for it it's\nyours for the asking, al\nready provided for by\nlaw The Kerr-Mils Act\noffers Health Opportu-\nnifty Program for the Ell\nderly with the federal\nand state governments\nsharing the cost.\n\n\nIn most states this\ncare is far far greater\nthan that offered by\nMediocre proposals :.\nand additional tax is\nnecessary\n\n\nIf you are elderly,\nand without funds for\nneeded medical care, ask\nyour doctor about the\nHealth Opportunity Pro-\ngram for the Elderly, or\ncall your local medical\nsociety,\"\nHEALTH OPPORTUNITY PROGRAM FOR THE ELDERLY\nHELPS THOSE NEED\nMARICOPA COUNTY MEDICAL SOCIETY",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2421,
+                    "y0": 4739,
+                    "x1": 4295,
+                    "y1": 7046
+                }
+            ],
+            "bbox": [
+                2421,
+                4739,
+                4295,
+                7046
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-10-16_p1_sn84021918_0041421695A_1964101601_0594.json"
+        }
+    ]
+}

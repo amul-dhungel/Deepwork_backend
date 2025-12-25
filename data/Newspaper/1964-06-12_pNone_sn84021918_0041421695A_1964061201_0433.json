@@ -1,0 +1,390 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7413,
+        "width": 4887,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061201/0433.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1985,
+                "y0": 671,
+                "x1": 2820,
+                "y1": 2809
+            },
+            "class": "article",
+            "raw_text": "Jenny A. oliver, of Phoenix\nUnion High School is attending\nBoys State at Flagstaff.\n\n\nIt will be double celebration\nSum-, June IL, pm. at the\nMonroe School, located at 7th\nSt. and Monroe, when June McRae\nis honored on her birthday. The\nfirst anniver sary Of the Velvet\nTones, a gospel singing group\nwill be observed, too. James\nCleveland, singer from Chicago\nwill be a guest artist.\n\n\nYour reporter is serving as\nprogram chairman.\nMiss Lee Eta Keys will marry\nWillis Turner on June 20 at\nPilgrim Rest Baptist Church at\n6 pm.\nMiss Charlene McDaniels has\ngraduated from fashion designing\nschool. She will marry Donald\nWalker in Los Angeles this week.\nend.\n\n\n\n\n\nMr.. and Mrs. RI. Using, of\nLong Beach, Calf, were guests\nOf Mr.. and Mrs. Wesley Conner,\n2115 E. Madison St.\n\n\nMiss Faye Johnsonis attending\nY-Teen meeting in Albuquerque.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1997,
+                "y0": 405,
+                "x1": 2554,
+                "y1": 626
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBy FIora Ruffin",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1082,
+                "y0": 2750,
+                "x1": 1900,
+                "y1": 3342
+            },
+            "class": "article",
+            "raw_text": "ST. AUGUSTINE, Fla. - The\nsummer cottage rented by DR..\nMartin l.. King was set afire\nby vandalS. ,.g...4-s-\n\n\nFurniture was destroyed and\nthe fire was started in the bed.\nNo one was injured.\n\n\nDR.. King had recently visited\nthe city to supervise civil rights\ndemonstrations",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1082,
+                "y0": 2629,
+                "x1": 1830,
+                "y1": 2734
+            },
+            "class": "headline",
+            "raw_text": "King Cottage Set Afire",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 179,
+                "y0": 2803,
+                "x1": 996,
+                "y1": 3331
+            },
+            "class": "article",
+            "raw_text": "Again as inpast years, Reddy's\nCorner, located at 18th st. and\nE. Jeffer son, offers free paper\nfans to all chur cheS.\n\n\nReddy says, appoint a mem\nDer from your church to come\nby Reddy's Corner and ask for\nthe number needed at your\nchurch.,",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 184,
+                "y0": 2617,
+                "x1": 776,
+                "y1": 2786
+            },
+            "class": "headline",
+            "raw_text": "Reddy Hos Free\n\n\nFuns. For Churches",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1991,
+                "y0": 2855,
+                "x1": 2803,
+                "y1": 3342
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Tommie Jewell,\nJr., and family visited their par\nents, Mr.. and Mrs. Tommie Jew\nell, Sr., of 1920 S. 10th Ave.\n\n\nThey left last week for Tall\nlahassee Florida, where Mr..\njewell will teach summer school\nagain.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2883,
+                "y0": 2866,
+                "x1": 4540,
+                "y1": 3406
+            },
+            "class": "article",
+            "raw_text": "Although did graduate had\nthe party held the home of Mr. and\nMrs. Herman Mathews, ITO w. Mohave.\n\n\nLarry Mathews, LeVon Robinson, Robert\nMathews Mcfarland Parean Doss Charene Cobb Joyce\nGilbert Patterson Carol Gentry, Betty Doss Herman\nMathews Ronald Gabreah Otis Wing and Jesse Underwood\n\n\nSecond photo Al Battle and his swinging The\nEchoes made lively sounds for the part.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1383,
+                "y0": 4042,
+                "x1": 2444,
+                "y1": 6058
+            },
+            "class": "article",
+            "raw_text": "For SIS invested in PHOENIX,\nhe recovered $3.50 in TOKYO\nOver 5000 miles from home, while\ntouring the Orient, Mr.. Paterik had\n$3.50 stolen from him in American\nExpress Travellers Checks\n\n\nMr.. Paterik reported his loss to an\nAmerican Express Office in Tokyo, and\nthat same day received a refund of the\nfull $3.50\n\n\nThe cost to Mr. Paterik of getting his\nmoney back was only Sl8O penny\nper-dollar of the value of the Travellers\nChecks paid when he purchased them\nfrom the Valley Bank.\n\n\nWhen you travel, play it safe by\ncarrying your funds in AMERICAN\nEXPRESS TRAVELLERS CHECKS\navailable at all s3 Valley Bank\nOffices. They're better than money\nARE accepted all over the world.\nAnd if lost, stolen or destroyed,\nyour money will be speedily\nfunded by the neares It\nAMERICAN EXPRESS office.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1337,
+                "y0": 3440,
+                "x1": 2444,
+                "y1": 3591
+            },
+            "class": "headline",
+            "raw_text": "The story OF Ronald Henry Patcrih:'",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 190,
+                "y0": 1986,
+                "x1": 1865,
+                "y1": 2595
+            },
+            "class": "article",
+            "raw_text": "Proud Saturday\ncongratulate graduating from Phoenix Union\nHigh School,\n\n\nCLYDE Fairfax scholarship award and\nPhoenix Co., scholarship.\n\n\nShown above Shelby James, 2311 Wier,\nsister, Clyde Wright his father, of Lockhart Texas;\nHill, sister, Phoenix and Clyde Joe Wright\n\n\ngraduation celebration and family reunion held at the\nof Mr. Mrs. Shelby James.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964061201_0433",
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "All Around\n\n\nBy FIora Ruffin",
+            "article": "Jenny A. oliver, of Phoenix\nUnion High School is attending\nBoys State at Flagstaff.\n\n\nIt will be double celebration\nSum-, June IL, pm. at the\nMonroe School, located at 7th\nSt. and Monroe, when June McRae\nis honored on her birthday. The\nfirst anniver sary Of the Velvet\nTones, a gospel singing group\nwill be observed, too. James\nCleveland, singer from Chicago\nwill be a guest artist.\n\n\nYour reporter is serving as\nprogram chairman.\nMiss Lee Eta Keys will marry\nWillis Turner on June 20 at\nPilgrim Rest Baptist Church at\n6 pm.\nMiss Charlene McDaniels has\ngraduated from fashion designing\nschool. She will marry Donald\nWalker in Los Angeles this week.\nend.\n\n\n\n\n\nMr.. and Mrs. RI. Using, of\nLong Beach, Calf, were guests\nOf Mr.. and Mrs. Wesley Conner,\n2115 E. Madison St.\n\n\nMiss Faye Johnsonis attending\nY-Teen meeting in Albuquerque.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1997,
+                    "y0": 405,
+                    "x1": 2554,
+                    "y1": 626
+                },
+                {
+                    "x0": 1985,
+                    "y0": 671,
+                    "x1": 2820,
+                    "y1": 2809
+                }
+            ],
+            "bbox": [
+                1985,
+                405,
+                2820,
+                2809
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-12_pna_sn84021918_0041421695A_1964061201_0433.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "King Cottage Set Afire",
+            "article": "ST. AUGUSTINE, Fla. - The\nsummer cottage rented by DR..\nMartin l.. King was set afire\nby vandalS. ,.g...4-s-\n\n\nFurniture was destroyed and\nthe fire was started in the bed.\nNo one was injured.\n\n\nDR.. King had recently visited\nthe city to supervise civil rights\ndemonstrations",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1082,
+                    "y0": 2629,
+                    "x1": 1830,
+                    "y1": 2734
+                },
+                {
+                    "x0": 1082,
+                    "y0": 2750,
+                    "x1": 1900,
+                    "y1": 3342
+                }
+            ],
+            "bbox": [
+                1082,
+                2629,
+                1900,
+                3342
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-06-12_pna_sn84021918_0041421695A_1964061201_0433.json"
+        },
+        {
+            "object_ids": [
+                9,
+                6
+            ],
+            "headline": "Reddy Hos Free\n\n\nFuns. For Churches",
+            "article": "Again as inpast years, Reddy's\nCorner, located at 18th st. and\nE. Jeffer son, offers free paper\nfans to all chur cheS.\n\n\nReddy says, appoint a mem\nDer from your church to come\nby Reddy's Corner and ask for\nthe number needed at your\nchurch.,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 184,
+                    "y0": 2617,
+                    "x1": 776,
+                    "y1": 2786
+                },
+                {
+                    "x0": 179,
+                    "y0": 2803,
+                    "x1": 996,
+                    "y1": 3331
+                }
+            ],
+            "bbox": [
+                179,
+                2617,
+                996,
+                3331
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-12_pna_sn84021918_0041421695A_1964061201_0433.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Mr.. and Mrs. Tommie Jewell,\nJr., and family visited their par\nents, Mr.. and Mrs. Tommie Jew\nell, Sr., of 1920 S. 10th Ave.\n\n\nThey left last week for Tall\nlahassee Florida, where Mr..\njewell will teach summer school\nagain.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1991,
+                    "y0": 2855,
+                    "x1": 2803,
+                    "y1": 3342
+                }
+            ],
+            "bbox": [
+                1991,
+                2855,
+                2803,
+                3342
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-12_pna_sn84021918_0041421695A_1964061201_0433.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Although did graduate had\nthe party held the home of Mr. and\nMrs. Herman Mathews, ITO w. Mohave.\n\n\nLarry Mathews, LeVon Robinson, Robert\nMathews Mcfarland Parean Doss Charene Cobb Joyce\nGilbert Patterson Carol Gentry, Betty Doss Herman\nMathews Ronald Gabreah Otis Wing and Jesse Underwood\n\n\nSecond photo Al Battle and his swinging The\nEchoes made lively sounds for the part.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2883,
+                    "y0": 2866,
+                    "x1": 4540,
+                    "y1": 3406
+                }
+            ],
+            "bbox": [
+                2883,
+                2866,
+                4540,
+                3406
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-06-12_pna_sn84021918_0041421695A_1964061201_0433.json"
+        },
+        {
+            "object_ids": [
+                21,
+                12
+            ],
+            "headline": "The story OF Ronald Henry Patcrih:'",
+            "article": "For SIS invested in PHOENIX,\nhe recovered $3.50 in TOKYO\nOver 5000 miles from home, while\ntouring the Orient, Mr.. Paterik had\n$3.50 stolen from him in American\nExpress Travellers Checks\n\n\nMr.. Paterik reported his loss to an\nAmerican Express Office in Tokyo, and\nthat same day received a refund of the\nfull $3.50\n\n\nThe cost to Mr. Paterik of getting his\nmoney back was only Sl8O penny\nper-dollar of the value of the Travellers\nChecks paid when he purchased them\nfrom the Valley Bank.\n\n\nWhen you travel, play it safe by\ncarrying your funds in AMERICAN\nEXPRESS TRAVELLERS CHECKS\navailable at all s3 Valley Bank\nOffices. They're better than money\nARE accepted all over the world.\nAnd if lost, stolen or destroyed,\nyour money will be speedily\nfunded by the neares It\nAMERICAN EXPRESS office.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1337,
+                    "y0": 3440,
+                    "x1": 2444,
+                    "y1": 3591
+                },
+                {
+                    "x0": 1383,
+                    "y0": 4042,
+                    "x1": 2444,
+                    "y1": 6058
+                }
+            ],
+            "bbox": [
+                1337,
+                3440,
+                2444,
+                6058
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-06-12_pna_sn84021918_0041421695A_1964061201_0433.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Proud Saturday\ncongratulate graduating from Phoenix Union\nHigh School,\n\n\nCLYDE Fairfax scholarship award and\nPhoenix Co., scholarship.\n\n\nShown above Shelby James, 2311 Wier,\nsister, Clyde Wright his father, of Lockhart Texas;\nHill, sister, Phoenix and Clyde Joe Wright\n\n\ngraduation celebration and family reunion held at the\nof Mr. Mrs. Shelby James.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 190,
+                    "y0": 1986,
+                    "x1": 1865,
+                    "y1": 2595
+                }
+            ],
+            "bbox": [
+                190,
+                1986,
+                1865,
+                2595
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-06-12_pna_sn84021918_0041421695A_1964061201_0433.json"
+        }
+    ]
+}

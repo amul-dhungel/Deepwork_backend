@@ -1,0 +1,137 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-21",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4920,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-21",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082101/0520.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3949,
+                "y0": 1982,
+                "x1": 4768,
+                "y1": 3595
+            },
+            "class": "article",
+            "raw_text": "Brenda Moore, IA, daughter of\nMr.. and Mrs. Wardell Moore,\nlib West Grant, was selected\nto represent Phoenix Union High\nSchool freshman girls on Sears\nTeen Fashion Board.\n\n\nShe is pictured modelling a\nback to school fashion at re-\ncent program.\n\n\nBrenda graduated from the\neighth grade of Booker T. Wash\nington School this June. She plans\nto become a medical technician\nafter completing high school.\n\n\nShe is interested in music and\nplays piano for the youth choir\nat The Church of the Living God\nPCT. She enjoys her dancing and\npiano lessons.\n\n\nActive in the activities of Girl\nScouts Troop S, Brenda served\nas youth counselor, also. Her\nfavorite composer is Bach and\nher favorite musician in the\nmodern manner is Ramsey\nLewis. Debbie Reynolds is her\nfavorite movie star.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3955,
+                "y0": 3959,
+                "x1": 4779,
+                "y1": 7125
+            },
+            "class": "article",
+            "raw_text": "Welcome back to all vaca-\ntoners.\n\n\nMrs. Roscoe H. Adams of St.\nLouis, Mo-, is the houseguest of\nMoss Gwen Reed.\n\n\nSandra and Sherry Vance Of Po-\nmona, Calf, are visiting their\ngrandparents, Mr.. and Mrs. VIII\nGalloway.\n\n\nSgt. and Mrs. Arthur Robertson\nand children have visited his\nparents, Mr.. and Mrs. Preston\nRobertson of Duquesne, Pa, and\ntheir uncle and aunt, Mr.. and Mrs.\nC. Collier of Imperial, Kansas.\n\n\nRev. and Mrs. Rufus McClain\nof Odessa, Texas, are visiting\nRev. and Mrs. L. ]. Dunbar.\nHe was one of the guest speakers\nat the Dunbars' anniversary pro-\ngram.\n\n\nRev. and Mrs. Allison Reid\nhave returned from their vaca-\nton in California.\n\n\nFor the first time in Phoenix,\na singing convention by the Gospel\nVelvet Tones will be held at\nEmmanuel Church Of God in\nChrist, 18th and E. Madison,\nAug. \"a = 80.\n\n\nArizona State Baptist BTU and\nSunday School Congress IS\nholding sessions at St. John\nBaptist Church. The public is\ninvited to attend the annual presi-\ndents address Friday, Aug. FL,\n1870 pm.\n\n\nRev. C. N. HALLS the president\nand Rev. F. ]. Winbush Of Tucson\nis the general president.\n\n\nThe most enjoyment Of the\nweekend was at the Debonairs\nSouth Mountain Park partyS atur-\nday night. Everyone enjoyed\ndelicious barbecued steaks and\nchickens.\n\n\nThe youth of Union Baptist\nChurch, 2845 E. Chapman are\nraising funds at a car wash\nSaturday at the church. Stop\nand help them.\n\n\nThought of the week Too\nmuch disputing puts the truth\nto flight. Italian proverb.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3955,
+                "y0": 3704,
+                "x1": 4646,
+                "y1": 3913
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964082101_0520",
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "Brenda Moore, IA, daughter of\nMr.. and Mrs. Wardell Moore,\nlib West Grant, was selected\nto represent Phoenix Union High\nSchool freshman girls on Sears\nTeen Fashion Board.\n\n\nShe is pictured modelling a\nback to school fashion at re-\ncent program.\n\n\nBrenda graduated from the\neighth grade of Booker T. Wash\nington School this June. She plans\nto become a medical technician\nafter completing high school.\n\n\nShe is interested in music and\nplays piano for the youth choir\nat The Church of the Living God\nPCT. She enjoys her dancing and\npiano lessons.\n\n\nActive in the activities of Girl\nScouts Troop S, Brenda served\nas youth counselor, also. Her\nfavorite composer is Bach and\nher favorite musician in the\nmodern manner is Ramsey\nLewis. Debbie Reynolds is her\nfavorite movie star.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3949,
+                    "y0": 1982,
+                    "x1": 4768,
+                    "y1": 3595
+                }
+            ],
+            "bbox": [
+                3949,
+                1982,
+                4768,
+                3595
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-21_pna_sn84021918_0041421695A_1964082101_0520.json"
+        },
+        {
+            "object_ids": [
+                3,
+                1
+            ],
+            "headline": "All Around\n\n\nBY FLORA RUFFIN",
+            "article": "Welcome back to all vaca-\ntoners.\n\n\nMrs. Roscoe H. Adams of St.\nLouis, Mo-, is the houseguest of\nMoss Gwen Reed.\n\n\nSandra and Sherry Vance Of Po-\nmona, Calf, are visiting their\ngrandparents, Mr.. and Mrs. VIII\nGalloway.\n\n\nSgt. and Mrs. Arthur Robertson\nand children have visited his\nparents, Mr.. and Mrs. Preston\nRobertson of Duquesne, Pa, and\ntheir uncle and aunt, Mr.. and Mrs.\nC. Collier of Imperial, Kansas.\n\n\nRev. and Mrs. Rufus McClain\nof Odessa, Texas, are visiting\nRev. and Mrs. L. ]. Dunbar.\nHe was one of the guest speakers\nat the Dunbars' anniversary pro-\ngram.\n\n\nRev. and Mrs. Allison Reid\nhave returned from their vaca-\nton in California.\n\n\nFor the first time in Phoenix,\na singing convention by the Gospel\nVelvet Tones will be held at\nEmmanuel Church Of God in\nChrist, 18th and E. Madison,\nAug. \"a = 80.\n\n\nArizona State Baptist BTU and\nSunday School Congress IS\nholding sessions at St. John\nBaptist Church. The public is\ninvited to attend the annual presi-\ndents address Friday, Aug. FL,\n1870 pm.\n\n\nRev. C. N. HALLS the president\nand Rev. F. ]. Winbush Of Tucson\nis the general president.\n\n\nThe most enjoyment Of the\nweekend was at the Debonairs\nSouth Mountain Park partyS atur-\nday night. Everyone enjoyed\ndelicious barbecued steaks and\nchickens.\n\n\nThe youth of Union Baptist\nChurch, 2845 E. Chapman are\nraising funds at a car wash\nSaturday at the church. Stop\nand help them.\n\n\nThought of the week Too\nmuch disputing puts the truth\nto flight. Italian proverb.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3955,
+                    "y0": 3704,
+                    "x1": 4646,
+                    "y1": 3913
+                },
+                {
+                    "x0": 3955,
+                    "y0": 3959,
+                    "x1": 4779,
+                    "y1": 7125
+                }
+            ],
+            "bbox": [
+                3955,
+                3704,
+                4779,
+                7125
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-21_pna_sn84021918_0041421695A_1964082101_0520.json"
+        }
+    ]
+}

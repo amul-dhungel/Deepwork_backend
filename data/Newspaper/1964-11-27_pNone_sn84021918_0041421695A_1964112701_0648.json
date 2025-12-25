@@ -1,0 +1,318 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4872,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112701/0648.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3875,
+                "y0": 705,
+                "x1": 4698,
+                "y1": 2400
+            },
+            "class": "article",
+            "raw_text": "MCCOMB, Miss. : Twenty Ne\ngroes, led by Charles Eers state\nfield director of the National AS\nISOLATION for the Advancement of\nColored People, quietly desegre-\ngated two hotels, movie theater,\nrestaurants and drug store lunch\ncounters Nov. 10.\n\n\nIn McComb, whites watched ST.\nlently as the group entered the\nestablishments in a test of the\nlaw. All we're served without\nincident. A force of 40 state\npatrolmen and 20 FBI agents\njoined local police in watching\nover the group.\n\n\nDesegregation of the facilities\nfollowed publication of a state\nment signed by $50 leading Nc\nComb, residents calling for re-\nestablishment of order and re-\nspect for law.\n\n\nBusiness places desegregated\nincluded the lunch counter in\nWoolworth's and dining and\nrooming facilities in the Con-\ntinental Hotel and Holiday Inn\nMotel.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3899,
+                "y0": 416,
+                "x1": 4657,
+                "y1": 660
+            },
+            "class": "headline",
+            "raw_text": "IMMIGRATION\nTRIED IN McCOMB",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2973,
+                "y0": 555,
+                "x1": 3807,
+                "y1": 3505
+            },
+            "class": "article",
+            "raw_text": "Hats off to the Grand Canyon\nTemple 437 of Elks who brought\nthat fine show to the club la st\nSaturday. Beverly Harris. sing\ner and dancer was very talented.\n\n\nIf you are suffering from BE\ngo down to the VFW on Mondays\nand enjoy some spicy chilli while\nlistening to the jazz sessions.\n\n\nThe subteen unit of Jack and\njill Club will ice skate Nov. %,\nIA.\n\n\nMiss Estelle Voner, laboratory\ntechnician of New York, is the\nhouseguest of MIR. and Mrs. Cla-\nrenee Green.\n\n\nDebonairs Social and Art Club\nwill hold its annual Christina\nparty for underprivileged young\nsters on Dec. H..\n\n\nArizona State Baptist Conven-\nton is meeting Nov. 24-2o at\nMt. Calvary Baptist Church.\n\n\nMIR. and Mrs. Jimmy Thomas\nand family of San Francisco, are\nvisiting his parents S, Mr.. and Mrs.\nLeroy Engram.\n\n\nMrs. Thomas was happy to see\nher sisters, Miss Blenda Thomas\nand Mrs. Wanda Collins, too.\nHurry and get we'll wishes are\nextended to Lille (Bunch) Conley\nwho is in Good Samaritan Hos\npital.\n\n\nThose Merry Mixers are spon-\nsoring the 18th annual dance,\nThurs, Nov. 26 at the Ma sonic\nTemple.\n\n\nYoung ladies', employed in\nbusiness or industry or college\nstudents are asked to volunteer\nand help entertain many young\nservicemen and women located\nin the Valley.\n\n\nWCA program director Shir-\nley Dunklebarger-AM. ,4-38ll,\ncan give you further information.\nThought of the Week--Kind\nhearts are more than coronets.\n\n\nTennyson",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3060,
+                "y0": 341,
+                "x1": 3448,
+                "y1": 452
+            },
+            "class": "headline",
+            "raw_text": "All Around",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3077,
+                "y0": 468,
+                "x1": 3610,
+                "y1": 527
+            },
+            "class": "author",
+            "raw_text": "BY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2060,
+                "y0": 2567,
+                "x1": 2905,
+                "y1": 3204
+            },
+            "class": "article",
+            "raw_text": "DR.. Richard E. Faust has stated\nthat: \"Of all topical measures, the\nuse of soap and water is perhaps\nthe most important, and should be\nconsidered the cornerstone of all\nacne therapy.\"\n\n\nCall your teenager's attention\nto this assurance that routine of\nseveral face-washings with soap\nand warm water every day is\nsound treatment for blemished\nskin.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2083,
+                "y0": 2388,
+                "x1": 2876,
+                "y1": 2557
+            },
+            "class": "headline",
+            "raw_text": "Soap Plays Beneficial\nRole In Treating Acne",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 307,
+                "y0": 2862,
+                "x1": 1980,
+                "y1": 3383
+            },
+            "class": "article",
+            "raw_text": "SAGITTARS November y December Ply.\nsign of The Centaur mentally\nsicay active Your cheerful amabe\nall your company spirits. deep\nsuch abundance responsible for your basic\noptimism hope You quick your\nshifting the blame else Choose your\nunder the sign of Cemn Leo Thursday lucky\n3, your lucky number.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1481,
+                "y0": 2636,
+                "x1": 1991,
+                "y1": 2695
+            },
+            "class": "author",
+            "raw_text": "Photo = Fred Banks",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 874,
+                "y0": 2700,
+                "x1": 1471,
+                "y1": 2840
+            },
+            "class": "headline",
+            "raw_text": "Horoscope",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112701_0648",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "IMMIGRATION\nTRIED IN McCOMB",
+            "article": "MCCOMB, Miss. : Twenty Ne\ngroes, led by Charles Eers state\nfield director of the National AS\nISOLATION for the Advancement of\nColored People, quietly desegre-\ngated two hotels, movie theater,\nrestaurants and drug store lunch\ncounters Nov. 10.\n\n\nIn McComb, whites watched ST.\nlently as the group entered the\nestablishments in a test of the\nlaw. All we're served without\nincident. A force of 40 state\npatrolmen and 20 FBI agents\njoined local police in watching\nover the group.\n\n\nDesegregation of the facilities\nfollowed publication of a state\nment signed by $50 leading Nc\nComb, residents calling for re-\nestablishment of order and re-\nspect for law.\n\n\nBusiness places desegregated\nincluded the lunch counter in\nWoolworth's and dining and\nrooming facilities in the Con-\ntinental Hotel and Holiday Inn\nMotel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3899,
+                    "y0": 416,
+                    "x1": 4657,
+                    "y1": 660
+                },
+                {
+                    "x0": 3875,
+                    "y0": 705,
+                    "x1": 4698,
+                    "y1": 2400
+                }
+            ],
+            "bbox": [
+                3875,
+                416,
+                4698,
+                2400
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-27_pna_sn84021918_0041421695A_1964112701_0648.json"
+        },
+        {
+            "object_ids": [
+                11,
+                13,
+                2
+            ],
+            "headline": "All Around",
+            "article": "Hats off to the Grand Canyon\nTemple 437 of Elks who brought\nthat fine show to the club la st\nSaturday. Beverly Harris. sing\ner and dancer was very talented.\n\n\nIf you are suffering from BE\ngo down to the VFW on Mondays\nand enjoy some spicy chilli while\nlistening to the jazz sessions.\n\n\nThe subteen unit of Jack and\njill Club will ice skate Nov. %,\nIA.\n\n\nMiss Estelle Voner, laboratory\ntechnician of New York, is the\nhouseguest of MIR. and Mrs. Cla-\nrenee Green.\n\n\nDebonairs Social and Art Club\nwill hold its annual Christina\nparty for underprivileged young\nsters on Dec. H..\n\n\nArizona State Baptist Conven-\nton is meeting Nov. 24-2o at\nMt. Calvary Baptist Church.\n\n\nMIR. and Mrs. Jimmy Thomas\nand family of San Francisco, are\nvisiting his parents S, Mr.. and Mrs.\nLeroy Engram.\n\n\nMrs. Thomas was happy to see\nher sisters, Miss Blenda Thomas\nand Mrs. Wanda Collins, too.\nHurry and get we'll wishes are\nextended to Lille (Bunch) Conley\nwho is in Good Samaritan Hos\npital.\n\n\nThose Merry Mixers are spon-\nsoring the 18th annual dance,\nThurs, Nov. 26 at the Ma sonic\nTemple.\n\n\nYoung ladies', employed in\nbusiness or industry or college\nstudents are asked to volunteer\nand help entertain many young\nservicemen and women located\nin the Valley.\n\n\nWCA program director Shir-\nley Dunklebarger-AM. ,4-38ll,\ncan give you further information.\nThought of the Week--Kind\nhearts are more than coronets.\n\n\nTennyson",
+            "byline": "BY FLORA RUFFIN",
+            "bbox_list": [
+                {
+                    "x0": 3060,
+                    "y0": 341,
+                    "x1": 3448,
+                    "y1": 452
+                },
+                {
+                    "x0": 3077,
+                    "y0": 468,
+                    "x1": 3610,
+                    "y1": 527
+                },
+                {
+                    "x0": 2973,
+                    "y0": 555,
+                    "x1": 3807,
+                    "y1": 3505
+                }
+            ],
+            "bbox": [
+                2973,
+                341,
+                3807,
+                3505
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-27_pna_sn84021918_0041421695A_1964112701_0648.json"
+        },
+        {
+            "object_ids": [
+                19,
+                15,
+                6
+            ],
+            "headline": "Horoscope",
+            "article": "SAGITTARS November y December Ply.\nsign of The Centaur mentally\nsicay active Your cheerful amabe\nall your company spirits. deep\nsuch abundance responsible for your basic\noptimism hope You quick your\nshifting the blame else Choose your\nunder the sign of Cemn Leo Thursday lucky\n3, your lucky number.",
+            "byline": "Photo = Fred Banks",
+            "bbox_list": [
+                {
+                    "x0": 1481,
+                    "y0": 2636,
+                    "x1": 1991,
+                    "y1": 2695
+                },
+                {
+                    "x0": 874,
+                    "y0": 2700,
+                    "x1": 1471,
+                    "y1": 2840
+                },
+                {
+                    "x0": 307,
+                    "y0": 2862,
+                    "x1": 1980,
+                    "y1": 3383
+                }
+            ],
+            "bbox": [
+                307,
+                2636,
+                1991,
+                3383
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-27_pna_sn84021918_0041421695A_1964112701_0648.json"
+        },
+        {
+            "object_ids": [
+                18,
+                14
+            ],
+            "headline": "Soap Plays Beneficial\nRole In Treating Acne",
+            "article": "DR.. Richard E. Faust has stated\nthat: \"Of all topical measures, the\nuse of soap and water is perhaps\nthe most important, and should be\nconsidered the cornerstone of all\nacne therapy.\"\n\n\nCall your teenager's attention\nto this assurance that routine of\nseveral face-washings with soap\nand warm water every day is\nsound treatment for blemished\nskin.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2083,
+                    "y0": 2388,
+                    "x1": 2876,
+                    "y1": 2557
+                },
+                {
+                    "x0": 2060,
+                    "y0": 2567,
+                    "x1": 2905,
+                    "y1": 3204
+                }
+            ],
+            "bbox": [
+                2060,
+                2388,
+                2905,
+                3204
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-11-27_pna_sn84021918_0041421695A_1964112701_0648.json"
+        }
+    ]
+}

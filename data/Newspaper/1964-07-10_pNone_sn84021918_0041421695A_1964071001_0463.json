@@ -1,0 +1,352 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7413,
+        "width": 4871,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071001/0463.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1896,
+                "y0": 515,
+                "x1": 2708,
+                "y1": 1454
+            },
+            "class": "article",
+            "raw_text": "TUCSON-For the first time a\nNegro was elected to head a\nKnights of Columbus 4th degree\nIn Arizona.\n\n\nJames Aikens was named faith.\nfull navigator of the Archbishop\nDaniel Cercke General Assembly\n4th Degree Knights Of Columbus\nlast week.\n\n\nHe previously held every chair\nposition in this degree which is\nthe honorary and highest degree\nin the Knights of Columbus.\n\n\nThe Knights of Columbus Is an\nAmerican organization of Roman\nCatholic men.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1931,
+                "y0": 295,
+                "x1": 2523,
+                "y1": 481
+            },
+            "class": "headline",
+            "raw_text": "Negro Gets High\nK Of { Chair",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2782,
+                "y0": 590,
+                "x1": 3600,
+                "y1": 1761
+            },
+            "class": "article",
+            "raw_text": "Judge Laurens L. Henderson\nwill seek reelection to the Super\nfor Court in the Republican pri-\nmary Sept. 9th.\n\n\nPresently presiding in Division\n9. Judge Henderson was named\nto activate the new Court ofCon-\nciliation in Maricopa County\nwhich is being established to re-\nconcile married couples, partic-\nularly those having children.\n\n\nHe was appointed to the bench\nin 1859 by Gov. Paul Fannin and\nhe was elected to a four year\nterm in 1860.\n\n\nA graduate of Dartmouth, Judge\nHenderson has practiced law\nfrom 1925 until being appointed\nto the bench. He has lived In\nArizona since 1898.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2806,
+                "y0": 347,
+                "x1": 3403,
+                "y1": 551
+            },
+            "class": "headline",
+            "raw_text": "Judge Hend erson\n\n\nSeeks Seat Again",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1896,
+                "y0": 1685,
+                "x1": 2714,
+                "y1": 3221
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON-Minnie Harris\nfield, a member of the Veterans\nAdministration Nursing Ser\nvice since 1889, has been ap-\npointed psychiatric nursing spec\nialist for the Nursing Appraisal\nand Program Development Dr.\nvision here.\n\n\nShe is the first Negro nurse\nto be named to a top position\non the central office staff Of\ndirector of nursing Cecilia H.\nHauge.\n\n\nA graduate of Tuskegee Insti-\ntute, Mrs. Hartsfield received\nher masters degree in nursing\neducation at Columbia Univer-\nsity.\n\n\nShe was associated with the\nVAS research program in Chi\ncago before accepting this posi-\nton on July l. Previously she\nhad been at the Danville, ILL\nnois; Salisbury, North Carolina;\nDowney. Illinois; and Tuskegee\nVA Hospitals.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1920,
+                "y0": 1476,
+                "x1": 2390,
+                "y1": 1657
+            },
+            "class": "headline",
+            "raw_text": "Negro Nurse\n\n\nlst On Stuff",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 999,
+                "y0": 469,
+                "x1": 1811,
+                "y1": 1304
+            },
+            "class": "article",
+            "raw_text": "Within an hour we we're heading\neast on Broadway. Home never\nlooked so great. like to roam\nlike to go--but | will let you know\nthere's just no place like homel\n\n\ndidn't leave my heart in San\nFrancisco---instead left my\nsmog red eyes. My husband\nreturns there Sunday for the\nNational Republican Convention.\n| know the city has changed with\nso many people there for the COP\naffair. I'll return another time.\nperhaps next spring.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1010,
+                "y0": 318,
+                "x1": 1805,
+                "y1": 435
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 118,
+                "y0": 1714,
+                "x1": 936,
+                "y1": 3278
+            },
+            "class": "article",
+            "raw_text": "Miss Jacqueline Frances Smith\nwill marry DR.. Rowell S. Ash\nford August 7 at Southminster\nPresbyterian Church. 1923 E.\nBroadway Rd.\n\n\nMiss Smith attended Trinity\nUniversity, San Antonio. Texas\nfor two years and she received\nher bachelors degree from Ari-\nIONA State University this June.\nShe majored in education.\n\n\nShe was affiliated with Or\nchests Dance honorary society,\nGee and Kappa Delta Pi.\n\n\nHer parents are Mr.. and Mrs.\n]. Ford Smith, 5025 So. 21st\nWay.\n\n\nHer fiance attended Fisk Uni\nversiy and received his medical\ndegree from Meharry Medical\nCollege in Nashville, Tenn.\n\n\nHe is presently a captain in\nthe USAF, stationed at Luke Air\nForce Base.\n\n\nHis parents are MIR. and Mrs.\nThomas Ashford, of Birmingham.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3669,
+                "y0": 1650,
+                "x1": 4480,
+                "y1": 2647
+            },
+            "class": "article",
+            "raw_text": "JoEtta Griffin, II, daughter\nof Mrs. Cora McCline and Jo-\nseph P. Griffin. received the\nPhoenix Links scholarship to the\nAll State High School Music\nCamp. She attended sessions at\nArizona State University.\n\n\nJoEtta is studying voice and she\nhad classes in ballet, choral\ngroup singing and ceramics.\n\n\nShe completed her junior year\nin high school and she spends\nmuch Of her time singing as a\nmember of two choirs, the Phoe-\nnix Union High School A Capella\nand Tanner AME Church youth\nchoir.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964071001_0463",
+    "full articles": [
+        {
+            "object_ids": [
+                16,
+                0
+            ],
+            "headline": "Negro Gets High\nK Of { Chair",
+            "article": "TUCSON-For the first time a\nNegro was elected to head a\nKnights of Columbus 4th degree\nIn Arizona.\n\n\nJames Aikens was named faith.\nfull navigator of the Archbishop\nDaniel Cercke General Assembly\n4th Degree Knights Of Columbus\nlast week.\n\n\nHe previously held every chair\nposition in this degree which is\nthe honorary and highest degree\nin the Knights of Columbus.\n\n\nThe Knights of Columbus Is an\nAmerican organization of Roman\nCatholic men.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1931,
+                    "y0": 295,
+                    "x1": 2523,
+                    "y1": 481
+                },
+                {
+                    "x0": 1896,
+                    "y0": 515,
+                    "x1": 2708,
+                    "y1": 1454
+                }
+            ],
+            "bbox": [
+                1896,
+                295,
+                2708,
+                1454
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-10_pna_sn84021918_0041421695A_1964071001_0463.json"
+        },
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "Judge Hend erson\n\n\nSeeks Seat Again",
+            "article": "Judge Laurens L. Henderson\nwill seek reelection to the Super\nfor Court in the Republican pri-\nmary Sept. 9th.\n\n\nPresently presiding in Division\n9. Judge Henderson was named\nto activate the new Court ofCon-\nciliation in Maricopa County\nwhich is being established to re-\nconcile married couples, partic-\nularly those having children.\n\n\nHe was appointed to the bench\nin 1859 by Gov. Paul Fannin and\nhe was elected to a four year\nterm in 1860.\n\n\nA graduate of Dartmouth, Judge\nHenderson has practiced law\nfrom 1925 until being appointed\nto the bench. He has lived In\nArizona since 1898.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2806,
+                    "y0": 347,
+                    "x1": 3403,
+                    "y1": 551
+                },
+                {
+                    "x0": 2782,
+                    "y0": 590,
+                    "x1": 3600,
+                    "y1": 1761
+                }
+            ],
+            "bbox": [
+                2782,
+                347,
+                3600,
+                1761
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-10_pna_sn84021918_0041421695A_1964071001_0463.json"
+        },
+        {
+            "object_ids": [
+                15,
+                2
+            ],
+            "headline": "Negro Nurse\n\n\nlst On Stuff",
+            "article": "WASHINGTON-Minnie Harris\nfield, a member of the Veterans\nAdministration Nursing Ser\nvice since 1889, has been ap-\npointed psychiatric nursing spec\nialist for the Nursing Appraisal\nand Program Development Dr.\nvision here.\n\n\nShe is the first Negro nurse\nto be named to a top position\non the central office staff Of\ndirector of nursing Cecilia H.\nHauge.\n\n\nA graduate of Tuskegee Insti-\ntute, Mrs. Hartsfield received\nher masters degree in nursing\neducation at Columbia Univer-\nsity.\n\n\nShe was associated with the\nVAS research program in Chi\ncago before accepting this posi-\nton on July l. Previously she\nhad been at the Danville, ILL\nnois; Salisbury, North Carolina;\nDowney. Illinois; and Tuskegee\nVA Hospitals.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1920,
+                    "y0": 1476,
+                    "x1": 2390,
+                    "y1": 1657
+                },
+                {
+                    "x0": 1896,
+                    "y0": 1685,
+                    "x1": 2714,
+                    "y1": 3221
+                }
+            ],
+            "bbox": [
+                1896,
+                1476,
+                2714,
+                3221
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-10_pna_sn84021918_0041421695A_1964071001_0463.json"
+        },
+        {
+            "object_ids": [
+                17,
+                3
+            ],
+            "headline": "Sights and Sounds",
+            "article": "Within an hour we we're heading\neast on Broadway. Home never\nlooked so great. like to roam\nlike to go--but | will let you know\nthere's just no place like homel\n\n\ndidn't leave my heart in San\nFrancisco---instead left my\nsmog red eyes. My husband\nreturns there Sunday for the\nNational Republican Convention.\n| know the city has changed with\nso many people there for the COP\naffair. I'll return another time.\nperhaps next spring.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1010,
+                    "y0": 318,
+                    "x1": 1805,
+                    "y1": 435
+                },
+                {
+                    "x0": 999,
+                    "y0": 469,
+                    "x1": 1811,
+                    "y1": 1304
+                }
+            ],
+            "bbox": [
+                999,
+                318,
+                1811,
+                1304
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-10_pna_sn84021918_0041421695A_1964071001_0463.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Miss Jacqueline Frances Smith\nwill marry DR.. Rowell S. Ash\nford August 7 at Southminster\nPresbyterian Church. 1923 E.\nBroadway Rd.\n\n\nMiss Smith attended Trinity\nUniversity, San Antonio. Texas\nfor two years and she received\nher bachelors degree from Ari-\nIONA State University this June.\nShe majored in education.\n\n\nShe was affiliated with Or\nchests Dance honorary society,\nGee and Kappa Delta Pi.\n\n\nHer parents are Mr.. and Mrs.\n]. Ford Smith, 5025 So. 21st\nWay.\n\n\nHer fiance attended Fisk Uni\nversiy and received his medical\ndegree from Meharry Medical\nCollege in Nashville, Tenn.\n\n\nHe is presently a captain in\nthe USAF, stationed at Luke Air\nForce Base.\n\n\nHis parents are MIR. and Mrs.\nThomas Ashford, of Birmingham.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 118,
+                    "y0": 1714,
+                    "x1": 936,
+                    "y1": 3278
+                }
+            ],
+            "bbox": [
+                118,
+                1714,
+                936,
+                3278
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-10_pna_sn84021918_0041421695A_1964071001_0463.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "JoEtta Griffin, II, daughter\nof Mrs. Cora McCline and Jo-\nseph P. Griffin. received the\nPhoenix Links scholarship to the\nAll State High School Music\nCamp. She attended sessions at\nArizona State University.\n\n\nJoEtta is studying voice and she\nhad classes in ballet, choral\ngroup singing and ceramics.\n\n\nShe completed her junior year\nin high school and she spends\nmuch Of her time singing as a\nmember of two choirs, the Phoe-\nnix Union High School A Capella\nand Tanner AME Church youth\nchoir.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3669,
+                    "y0": 1650,
+                    "x1": 4480,
+                    "y1": 2647
+                }
+            ],
+            "bbox": [
+                3669,
+                1650,
+                4480,
+                2647
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-10_pna_sn84021918_0041421695A_1964071001_0463.json"
+        }
+    ]
+}

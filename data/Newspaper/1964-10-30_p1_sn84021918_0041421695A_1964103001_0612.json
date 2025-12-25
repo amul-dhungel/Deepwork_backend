@@ -1,0 +1,113 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0612.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7417,
+        "width": 4912
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3018,
+                "y0": 2404,
+                "x1": 4716,
+                "y1": 2909
+            },
+            "class": "article",
+            "raw_text": "sponsors pose for the Pad Hall\nSunday night the Debonairs first annual\n\n\nMargaret Jackson Mrs. Adela Galbreath Theresa\nWilliams Mrs. Alvin Richie Katherine Vann and Mrs. Demetra\nVann. B. Heard-photo\n\n\nHall enjoying the Debonairs Social and Civic Club\nfirst Matthew Manuel cquelne Col\nbert, Janet Smith, and Jerry Oliver.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 294,
+                "y0": 1935,
+                "x1": 2010,
+                "y1": 2399
+            },
+            "class": "article",
+            "raw_text": "Alpha Kappa Alpha pictured the health part OF\n\n\nincludes from left seated Mines Lois Brooks\nWyatt Snowden Venerable Doris oten uan\nPatterson and Ann Taylor.\n\n\nStanding Phillips Aldrdge ra Leos\nDorothy Crowley Williams Ozella James, Ruth Wheeler\nMerdne Williams Marriott McFradde Martin MaryWiams\nand",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-30"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "sponsors pose for the Pad Hall\nSunday night the Debonairs first annual\n\n\nMargaret Jackson Mrs. Adela Galbreath Theresa\nWilliams Mrs. Alvin Richie Katherine Vann and Mrs. Demetra\nVann. B. Heard-photo\n\n\nHall enjoying the Debonairs Social and Civic Club\nfirst Matthew Manuel cquelne Col\nbert, Janet Smith, and Jerry Oliver.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3018,
+                    "y0": 2404,
+                    "x1": 4716,
+                    "y1": 2909
+                }
+            ],
+            "bbox": [
+                3018,
+                2404,
+                4716,
+                2909
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-30_p1_sn84021918_0041421695A_1964103001_0612.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Alpha Kappa Alpha pictured the health part OF\n\n\nincludes from left seated Mines Lois Brooks\nWyatt Snowden Venerable Doris oten uan\nPatterson and Ann Taylor.\n\n\nStanding Phillips Aldrdge ra Leos\nDorothy Crowley Williams Ozella James, Ruth Wheeler\nMerdne Williams Marriott McFradde Martin MaryWiams\nand",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 294,
+                    "y0": 1935,
+                    "x1": 2010,
+                    "y1": 2399
+                }
+            ],
+            "bbox": [
+                294,
+                1935,
+                2010,
+                2399
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-30_p1_sn84021918_0041421695A_1964103001_0612.json"
+        }
+    ]
+}

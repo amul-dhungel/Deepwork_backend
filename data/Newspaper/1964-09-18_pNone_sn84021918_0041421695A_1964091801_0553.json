@@ -1,0 +1,154 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7471,
+        "width": 4754,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-18",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0553.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1880,
+                "y0": 1610,
+                "x1": 2704,
+                "y1": 3193
+            },
+            "class": "article",
+            "raw_text": "Becky Shaw, II. 1864 grad\nuate of North High School, re-\nGently enrolled in the freshman\nclass at Spelman College, at\nAtlanta, Ga.\n\n\nWhile in high school she was\nactive in the YWCA and attended\nan international convention in\nHawaii, as a delegate.\n\n\nShe also participated in the\nGirls League and served as a\nmember of the Rhodes Store\nfashion board.\n\n\nMiss Shaw is the recipient of\na $625 Field Scholarship. She\nis the daughter Of Mr.. and Mrs.\nAugustus H. Shaw. 1447 E.\nCor onado.\n\n\nHere's another breakfast tip.\nIt's easy to cook eggs and bacon\nat the same time-and save dish\nwashing-with my new Club\nAluminium divided fry pan.\nThere are three sections, so you\ncan fry your egg while you\nscramble mine. Or you can do\nbacon and sausage at the same\ntiYooo",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 77,
+                "y0": 408,
+                "x1": 901,
+                "y1": 713
+            },
+            "class": "article",
+            "raw_text": "Year after year Americans eat\nrecord amounts of cheese.\nDuring 1868 consumption rose to\nan all time high of o.4 pounds\nper person. This yearly per",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 993,
+                "y0": 385,
+                "x1": 1811,
+                "y1": 742
+            },
+            "class": "article",
+            "raw_text": "capita increase has been going on\nalmost continuously over the last\ntwo decades. In fact, since the\nend of World War II, cheese con-\nsumption has risen by more than\none-third.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091801_0553",
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Becky Shaw, II. 1864 grad\nuate of North High School, re-\nGently enrolled in the freshman\nclass at Spelman College, at\nAtlanta, Ga.\n\n\nWhile in high school she was\nactive in the YWCA and attended\nan international convention in\nHawaii, as a delegate.\n\n\nShe also participated in the\nGirls League and served as a\nmember of the Rhodes Store\nfashion board.\n\n\nMiss Shaw is the recipient of\na $625 Field Scholarship. She\nis the daughter Of Mr.. and Mrs.\nAugustus H. Shaw. 1447 E.\nCor onado.\n\n\nHere's another breakfast tip.\nIt's easy to cook eggs and bacon\nat the same time-and save dish\nwashing-with my new Club\nAluminium divided fry pan.\nThere are three sections, so you\ncan fry your egg while you\nscramble mine. Or you can do\nbacon and sausage at the same\ntiYooo",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1880,
+                    "y0": 1610,
+                    "x1": 2704,
+                    "y1": 3193
+                }
+            ],
+            "bbox": [
+                1880,
+                1610,
+                2704,
+                3193
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-18_pna_sn84021918_0041421695A_1964091801_0553.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Year after year Americans eat\nrecord amounts of cheese.\nDuring 1868 consumption rose to\nan all time high of o.4 pounds\nper person. This yearly per",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 77,
+                    "y0": 408,
+                    "x1": 901,
+                    "y1": 713
+                }
+            ],
+            "bbox": [
+                77,
+                408,
+                901,
+                713
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-18_pna_sn84021918_0041421695A_1964091801_0553.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "capita increase has been going on\nalmost continuously over the last\ntwo decades. In fact, since the\nend of World War II, cheese con-\nsumption has risen by more than\none-third.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 993,
+                    "y0": 385,
+                    "x1": 1811,
+                    "y1": 742
+                }
+            ],
+            "bbox": [
+                993,
+                385,
+                1811,
+                742
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-18_pna_sn84021918_0041421695A_1964091801_0553.json"
+        }
+    ]
+}

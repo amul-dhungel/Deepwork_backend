@@ -1,0 +1,484 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121801/0674.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7408,
+        "width": 4865
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2183,
+                "y0": 572,
+                "x1": 3018,
+                "y1": 2495
+            },
+            "class": "article",
+            "raw_text": "NEW YORK James R. Dump\nson, a Negro, has been serving\nas the city welfare commissioner\nsince 1859. At IS. he is in charge\nof % welfare offices, whose per-\nsonnet distributes assistance to\nmore than 100000 persons. This\nload increases by 5000 cases\nmonthly.\n\n\nDumpson has been nicknamed\nLittle Dynamite\" because ofhis\nlong hours at his desk.\n\n\nOf those getting welfare aid.\nfood. rent or medical care, nearly\nrs per cent are Negroes and\nPuerto Ricans. The total New\nYork City population is estimated\nat 5000. 900: 100000 are Me-\ngroes and 675, 900 are Puerto Ri\ncans.\n\n\nThe ma jor cause for the num-\nDer of Negroes and Puerto Ricans\non the welfare rolls is caused by\nthe continuous flow of unskilled\nand poorly educated Negroes\nfrom the South and Puerto Ricans\nfrom Puerto Rico.\n\n\nThe commissioner states that\nNobody has too much respect\nfor dependency. land we attack\npeople who are dependent, rather\nthan the cause of their depen-\ndency.\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2218,
+                "y0": 353,
+                "x1": 2948,
+                "y1": 550
+            },
+            "class": "headline",
+            "raw_text": "Negro Heads NY\nW eIfure Dept.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2183,
+                "y0": 2749,
+                "x1": 3023,
+                "y1": 4463
+            },
+            "class": "article",
+            "raw_text": "CHICAGO-N P) Plans to ship\nby air 10000 turkeys to Negroes\nin Mississippi for Christmas\nhave been arranged by Dick Gre\nCORY, nationally known comedian,\nand Mrs. Fannie Lou Hamer,\nwho addressed the Democratic\nNational Convention concerning\nthe terrible Mississippi condi-\ntons.\n\n\nMrs. Hamer said that she was\nAl years old and had eaten only\none turkey in her life and that\nwas more than five years ago.\n\n\nShe continued that she bought\nthe bird on the insta llment plan\nand 1t took eight months to pay\nfor 1t. The white man who owned\nthe store where she got credit\nis no longer In business.\n\n\nGregory commented that cot\nton picking was scarce because\nof the bad weather and that most\nof the Negroes living In the rural\nareas are penniless and hungry.\n\n\nInquiries and donations should\nbe mailed to Christmas for Mis-\nsissippi, P. O. Box 1897, Chi\ncago, Illinois.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2224,
+                "y0": 2505,
+                "x1": 2792,
+                "y1": 2726
+            },
+            "class": "headline",
+            "raw_text": "Turkey Gifts\nFor N egroes",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3966,
+                "y0": 509,
+                "x1": 4806,
+                "y1": 2854
+            },
+            "class": "article",
+            "raw_text": "Hope, Ark, is visiting her son\nin law and daughter, Mr.. and Mrs.\nFred Holloway.\n\n\nMrs. Barbara Osborne of\nHouston spent a few days here\nbefore going to Los Angeles.\nPlan to attend the annual Sun\nceray Social Clubs New Years\nEve dance. President Bernice.\nOates said it will be the best\naffair of the new year.\n\n\nMrs. Asava Woods, president,\nannounces the women 8 auxiliary\nOF the Veterans of Foreign War,\nPost l7l0, will hold It's annual\nChristmas party, Dec. 40, for\nchildren only.\n\n\nThe Debonairs will hold IT'S\nholiday party and birthday party\nSat-, Dec. 10. They would like\nto get in contact with all patrons\nwho attended the Sadie Hawkins\nDance. The members have a\nsurprise for them. Contact a\nDebonair as soon as you can.\n\n\nThanks for making the first\nweekly sing of the Willing Work\ners a success. Everyone was\ngrand to pitch in.\n\n\nThought of the week Good\nthings are not cheap and cheap\nthings are not good.\n\n\nSign of Times\n\n\nThe following sign is post\ned on the marquee of his\ntoric Los Angeles theater,\ncurrently being razed: \"Now\nPlaying, Cleveland Wreck\ning Co., Show With a Bang\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3676,
+                "y0": 347,
+                "x1": 4053,
+                "y1": 435
+            },
+            "class": "headline",
+            "raw_text": "All Around",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3694,
+                "y0": 468,
+                "x1": 4216,
+                "y1": 516
+            },
+            "class": "headline",
+            "raw_text": "BY FLORA RuFFIN",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1286,
+                "y0": 2922,
+                "x1": 2115,
+                "y1": 3178
+            },
+            "class": "article",
+            "raw_text": "Telephone Directory Delivery\nWorkers are needed. Interviews\nwill be held Tues, Dec. %, Sam\n5 pm. (only). 438 w. Adams St.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3080,
+                "y0": 538,
+                "x1": 3909,
+                "y1": 2362
+            },
+            "class": "article",
+            "raw_text": "Congratulations and best\nwishes for success to Rosie\nTurman, newly elected exalted\nruler of w. H. Patterson Elks\nLodge. and Mrs. Lillian Fit,\nnew daughter ruler.\n\n\nHats off to the Merry Mixers\nthey donated SIS to the St. Vim\ncent de Paul Society for Christ\nmas charity.\n\n\nSixty youngsters enjoyed the\nDebonairs annual Christina par\nty Saturday at Eastlake Park.\nSanta was Robert Price, Jr., who\nwas assisted in giving gifts by\nTeresa Williams, club Miss\nTeen.\n\n\nEach child received two toys\nand plenty of refreshments.\n\n\nMrs. Celia Lewis has returned\nhome from attending funeral rites\nof her father, Rev. Miles Clark\nin Arkansas.\n\n\nMrs. Blanche Hunter, mother\nof Bonnie Hunter passed away\nin California. Her rites will be\nheld in Phoenix.\n\n\nJerry Oliver has received a\nscholarship to Arizona State\nUniversity. Good Luck.\n\n\nMrs. Clardene Bradley of",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 366,
+                "y0": 2332,
+                "x1": 2080,
+                "y1": 2871
+            },
+            "class": "article",
+            "raw_text": "Presented recording with Peacock\nRecord outstanding performance choir soos\nduring recording Evangelist Ceophus Robinson\nLouis Haynes from Rev. ROBINSON\nooist the recording OF jesus\nselection Rev. Robinsons newest\nalbum. of 00voice radio-TV choir of the\nBethlehem Missionary Baptist Church in ST. Louis under Robin\n",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3080,
+                "y0": 2442,
+                "x1": 3903,
+                "y1": 2645
+            },
+            "class": "article",
+            "raw_text": "FOR RENT : Unfinished D\nBdrm. Apt.\n\n\n2343 E. Pueblo Call 276-o675",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 383,
+                "y0": 2963,
+                "x1": 1194,
+                "y1": 3160
+            },
+            "class": "article",
+            "raw_text": "CLAY. 2-Sea Dragon.\n3-May not. 4-Bolivian. s.\nFailed. 6-Mignini.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 511,
+                "y0": 2887,
+                "x1": 1079,
+                "y1": 2964
+            },
+            "class": "headline",
+            "raw_text": "DECIDED Intelligram",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3074,
+                "y0": 2673,
+                "x1": 3891,
+                "y1": 2871
+            },
+            "class": "article",
+            "raw_text": "Stuff chicken with a cored\napple to keep meat moist andto\nadd piquancy to flavor.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-12-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "Negro Heads NY\nW eIfure Dept.",
+            "article": "NEW YORK James R. Dump\nson, a Negro, has been serving\nas the city welfare commissioner\nsince 1859. At IS. he is in charge\nof % welfare offices, whose per-\nsonnet distributes assistance to\nmore than 100000 persons. This\nload increases by 5000 cases\nmonthly.\n\n\nDumpson has been nicknamed\nLittle Dynamite\" because ofhis\nlong hours at his desk.\n\n\nOf those getting welfare aid.\nfood. rent or medical care, nearly\nrs per cent are Negroes and\nPuerto Ricans. The total New\nYork City population is estimated\nat 5000. 900: 100000 are Me-\ngroes and 675, 900 are Puerto Ri\ncans.\n\n\nThe ma jor cause for the num-\nDer of Negroes and Puerto Ricans\non the welfare rolls is caused by\nthe continuous flow of unskilled\nand poorly educated Negroes\nfrom the South and Puerto Ricans\nfrom Puerto Rico.\n\n\nThe commissioner states that\nNobody has too much respect\nfor dependency. land we attack\npeople who are dependent, rather\nthan the cause of their depen-\ndency.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2218,
+                    "y0": 353,
+                    "x1": 2948,
+                    "y1": 550
+                },
+                {
+                    "x0": 2183,
+                    "y0": 572,
+                    "x1": 3018,
+                    "y1": 2495
+                }
+            ],
+            "bbox": [
+                2183,
+                353,
+                3018,
+                2495
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                5,
+                2
+            ],
+            "headline": "Turkey Gifts\nFor N egroes",
+            "article": "CHICAGO-N P) Plans to ship\nby air 10000 turkeys to Negroes\nin Mississippi for Christmas\nhave been arranged by Dick Gre\nCORY, nationally known comedian,\nand Mrs. Fannie Lou Hamer,\nwho addressed the Democratic\nNational Convention concerning\nthe terrible Mississippi condi-\ntons.\n\n\nMrs. Hamer said that she was\nAl years old and had eaten only\none turkey in her life and that\nwas more than five years ago.\n\n\nShe continued that she bought\nthe bird on the insta llment plan\nand 1t took eight months to pay\nfor 1t. The white man who owned\nthe store where she got credit\nis no longer In business.\n\n\nGregory commented that cot\nton picking was scarce because\nof the bad weather and that most\nof the Negroes living In the rural\nareas are penniless and hungry.\n\n\nInquiries and donations should\nbe mailed to Christmas for Mis-\nsissippi, P. O. Box 1897, Chi\ncago, Illinois.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2224,
+                    "y0": 2505,
+                    "x1": 2792,
+                    "y1": 2726
+                },
+                {
+                    "x0": 2183,
+                    "y0": 2749,
+                    "x1": 3023,
+                    "y1": 4463
+                }
+            ],
+            "bbox": [
+                2183,
+                2505,
+                3023,
+                4463
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                13,
+                23,
+                4
+            ],
+            "headline": "All Around\n\nBY FLORA RuFFIN",
+            "article": "Hope, Ark, is visiting her son\nin law and daughter, Mr.. and Mrs.\nFred Holloway.\n\n\nMrs. Barbara Osborne of\nHouston spent a few days here\nbefore going to Los Angeles.\nPlan to attend the annual Sun\nceray Social Clubs New Years\nEve dance. President Bernice.\nOates said it will be the best\naffair of the new year.\n\n\nMrs. Asava Woods, president,\nannounces the women 8 auxiliary\nOF the Veterans of Foreign War,\nPost l7l0, will hold It's annual\nChristmas party, Dec. 40, for\nchildren only.\n\n\nThe Debonairs will hold IT'S\nholiday party and birthday party\nSat-, Dec. 10. They would like\nto get in contact with all patrons\nwho attended the Sadie Hawkins\nDance. The members have a\nsurprise for them. Contact a\nDebonair as soon as you can.\n\n\nThanks for making the first\nweekly sing of the Willing Work\ners a success. Everyone was\ngrand to pitch in.\n\n\nThought of the week Good\nthings are not cheap and cheap\nthings are not good.\n\n\nSign of Times\n\n\nThe following sign is post\ned on the marquee of his\ntoric Los Angeles theater,\ncurrently being razed: \"Now\nPlaying, Cleveland Wreck\ning Co., Show With a Bang\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3676,
+                    "y0": 347,
+                    "x1": 4053,
+                    "y1": 435
+                },
+                {
+                    "x0": 3694,
+                    "y0": 468,
+                    "x1": 4216,
+                    "y1": 516
+                },
+                {
+                    "x0": 3966,
+                    "y0": 509,
+                    "x1": 4806,
+                    "y1": 2854
+                }
+            ],
+            "bbox": [
+                3676,
+                347,
+                4806,
+                2854
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Telephone Directory Delivery\nWorkers are needed. Interviews\nwill be held Tues, Dec. %, Sam\n5 pm. (only). 438 w. Adams St.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1286,
+                    "y0": 2922,
+                    "x1": 2115,
+                    "y1": 3178
+                }
+            ],
+            "bbox": [
+                1286,
+                2922,
+                2115,
+                3178
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Congratulations and best\nwishes for success to Rosie\nTurman, newly elected exalted\nruler of w. H. Patterson Elks\nLodge. and Mrs. Lillian Fit,\nnew daughter ruler.\n\n\nHats off to the Merry Mixers\nthey donated SIS to the St. Vim\ncent de Paul Society for Christ\nmas charity.\n\n\nSixty youngsters enjoyed the\nDebonairs annual Christina par\nty Saturday at Eastlake Park.\nSanta was Robert Price, Jr., who\nwas assisted in giving gifts by\nTeresa Williams, club Miss\nTeen.\n\n\nEach child received two toys\nand plenty of refreshments.\n\n\nMrs. Celia Lewis has returned\nhome from attending funeral rites\nof her father, Rev. Miles Clark\nin Arkansas.\n\n\nMrs. Blanche Hunter, mother\nof Bonnie Hunter passed away\nin California. Her rites will be\nheld in Phoenix.\n\n\nJerry Oliver has received a\nscholarship to Arizona State\nUniversity. Good Luck.\n\n\nMrs. Clardene Bradley of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3080,
+                    "y0": 538,
+                    "x1": 3909,
+                    "y1": 2362
+                }
+            ],
+            "bbox": [
+                3080,
+                538,
+                3909,
+                2362
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Presented recording with Peacock\nRecord outstanding performance choir soos\nduring recording Evangelist Ceophus Robinson\nLouis Haynes from Rev. ROBINSON\nooist the recording OF jesus\nselection Rev. Robinsons newest\nalbum. of 00voice radio-TV choir of the\nBethlehem Missionary Baptist Church in ST. Louis under Robin\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 366,
+                    "y0": 2332,
+                    "x1": 2080,
+                    "y1": 2871
+                }
+            ],
+            "bbox": [
+                366,
+                2332,
+                2080,
+                2871
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "FOR RENT : Unfinished D\nBdrm. Apt.\n\n\n2343 E. Pueblo Call 276-o675",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3080,
+                    "y0": 2442,
+                    "x1": 3903,
+                    "y1": 2645
+                }
+            ],
+            "bbox": [
+                3080,
+                2442,
+                3903,
+                2645
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                24,
+                20
+            ],
+            "headline": "DECIDED Intelligram",
+            "article": "CLAY. 2-Sea Dragon.\n3-May not. 4-Bolivian. s.\nFailed. 6-Mignini.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 511,
+                    "y0": 2887,
+                    "x1": 1079,
+                    "y1": 2964
+                },
+                {
+                    "x0": 383,
+                    "y0": 2963,
+                    "x1": 1194,
+                    "y1": 3160
+                }
+            ],
+            "bbox": [
+                383,
+                2887,
+                1194,
+                3160
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Stuff chicken with a cored\napple to keep meat moist andto\nadd piquancy to flavor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3074,
+                    "y0": 2673,
+                    "x1": 3891,
+                    "y1": 2871
+                }
+            ],
+            "bbox": [
+                3074,
+                2673,
+                3891,
+                2871
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-12-18_p1_sn84021918_0041421695A_1964121801_0674.json"
+        }
+    ]
+}

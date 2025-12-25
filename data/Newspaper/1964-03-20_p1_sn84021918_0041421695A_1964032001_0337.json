@@ -1,0 +1,214 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032001/0337.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4835
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1112,
+                "y0": 4402,
+                "x1": 1931,
+                "y1": 4595
+            },
+            "class": "article",
+            "raw_text": "The tax on a gallon of gas\noline counting both state and\nFederal levies, average 10 cents.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1123,
+                "y0": 4269,
+                "x1": 1722,
+                "y1": 4374
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1988,
+                "y0": 620,
+                "x1": 2807,
+                "y1": 2327
+            },
+            "class": "article",
+            "raw_text": "NEW YORK. - Ed Sullivan\nwill serve with Sammy Davis, Jr.,\nas East Coast co-chairman Of\nthe NAACP nationwide closed\ncircuit teleMsion spectacular on\nMay IA. Roy wilkins. NAACP ex-\necutive secretary announced.\n\n\nServing as West Coast CO.\nchairmen for the two-hour pro-\ngram in observance Of the 10th\nanniversary of the US. Supreme\nCourt decision in the school seq\nregation cases are Lena Horne\nand Steve Allen. The program\nwill originate in Madison Square\nGarden. New York City. and the\nSports Arena, Los Angeles.\n\n\nAmong others who have agreed\nto appear on the star-studded\nprogram are Sidney Potter,\nMarion Brando, Ossie Davis,\nRuby Dee, Fredric March, Gloria\nFoster. now playing the lead in\nthe off-Broadway hit, \"In White\nAmerica\" and Garry Moore who\nwill NC. the West Coast section\nof the program. Music will be\nfurnished by Duke Ellington and\nhis band.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2011,
+                "y0": 481,
+                "x1": 2708,
+                "y1": 592
+            },
+            "class": "headline",
+            "raw_text": "nv SHOW PLANNED",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2893,
+                "y0": 2163,
+                "x1": 3700,
+                "y1": 2651
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Jazz trumpeter\nLouis (Satchmo) Armstrong is\nundergoing treatment here for a\nheart ailment.\n\n\nArmstrong entered Beth Is\nrael Hospital last week. The g.\nyear-old singer-trumpeter was\nreported \"doing very nicely\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2898,
+                "y0": 1954,
+                "x1": 3410,
+                "y1": 2147
+            },
+            "class": "headline",
+            "raw_text": "Suteh mo AiIing\nIn Hospital",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-03-20"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "",
+            "article": "The tax on a gallon of gas\noline counting both state and\nFederal levies, average 10 cents.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1123,
+                    "y0": 4269,
+                    "x1": 1722,
+                    "y1": 4374
+                },
+                {
+                    "x0": 1112,
+                    "y0": 4402,
+                    "x1": 1931,
+                    "y1": 4595
+                }
+            ],
+            "bbox": [
+                1112,
+                4269,
+                1931,
+                4595
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-03-20_p1_sn84021918_0041421695A_1964032001_0337.json"
+        },
+        {
+            "object_ids": [
+                10,
+                3
+            ],
+            "headline": "nv SHOW PLANNED",
+            "article": "NEW YORK. - Ed Sullivan\nwill serve with Sammy Davis, Jr.,\nas East Coast co-chairman Of\nthe NAACP nationwide closed\ncircuit teleMsion spectacular on\nMay IA. Roy wilkins. NAACP ex-\necutive secretary announced.\n\n\nServing as West Coast CO.\nchairmen for the two-hour pro-\ngram in observance Of the 10th\nanniversary of the US. Supreme\nCourt decision in the school seq\nregation cases are Lena Horne\nand Steve Allen. The program\nwill originate in Madison Square\nGarden. New York City. and the\nSports Arena, Los Angeles.\n\n\nAmong others who have agreed\nto appear on the star-studded\nprogram are Sidney Potter,\nMarion Brando, Ossie Davis,\nRuby Dee, Fredric March, Gloria\nFoster. now playing the lead in\nthe off-Broadway hit, \"In White\nAmerica\" and Garry Moore who\nwill NC. the West Coast section\nof the program. Music will be\nfurnished by Duke Ellington and\nhis band.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2011,
+                    "y0": 481,
+                    "x1": 2708,
+                    "y1": 592
+                },
+                {
+                    "x0": 1988,
+                    "y0": 620,
+                    "x1": 2807,
+                    "y1": 2327
+                }
+            ],
+            "bbox": [
+                1988,
+                481,
+                2807,
+                2327
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-20_p1_sn84021918_0041421695A_1964032001_0337.json"
+        },
+        {
+            "object_ids": [
+                7,
+                4
+            ],
+            "headline": "Suteh mo AiIing\nIn Hospital",
+            "article": "NEW YORK = Jazz trumpeter\nLouis (Satchmo) Armstrong is\nundergoing treatment here for a\nheart ailment.\n\n\nArmstrong entered Beth Is\nrael Hospital last week. The g.\nyear-old singer-trumpeter was\nreported \"doing very nicely\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2898,
+                    "y0": 1954,
+                    "x1": 3410,
+                    "y1": 2147
+                },
+                {
+                    "x0": 2893,
+                    "y0": 2163,
+                    "x1": 3700,
+                    "y1": 2651
+                }
+            ],
+            "bbox": [
+                2893,
+                1954,
+                3700,
+                2651
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-20_p1_sn84021918_0041421695A_1964032001_0337.json"
+        }
+    ]
+}

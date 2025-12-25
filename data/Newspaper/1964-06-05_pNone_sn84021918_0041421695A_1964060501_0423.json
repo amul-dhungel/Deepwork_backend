@@ -1,0 +1,508 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4894,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964060501/0423.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1886,
+                "y0": 2827,
+                "x1": 2754,
+                "y1": 3863
+            },
+            "class": "article",
+            "raw_text": "William T. (Bill) Brooks is this\nweek making announcement of\nhis candidacy for the office of\nState Corporation Commissioner,\nsubject to the will of the voters in\nthe Democratic primary election\nSeptember 8, 1864.\n\n\nIn announcing his candidacy,\nBrooks declared his pledge of\ncompliance with the, expressed\nneed, on the part of Arizona resi-\ndents in all walks of life, for\nfortnight administration of the\naffairs of that vitality important\nstate department.\n\n\nHe stresses his qualifications,\nboth from the standpoint of ex-",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1903,
+                "y0": 2613,
+                "x1": 2517,
+                "y1": 2799
+            },
+            "class": "headline",
+            "raw_text": "Brooks Announces\nMis- Candidacy",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 93,
+                "y0": 572,
+                "x1": 1788,
+                "y1": 2637
+            },
+            "class": "article",
+            "raw_text": "Legal Aid is defined the organized effort the bar and the\ncommunity provide the lawyers free who\ncannot afford pay attorneys fee.\n\n\nlawyers generously of their time and Skill to\nservice clients who the number of people needing\nfree legal advise is be handled unoganzed\nindividual basis. This where legal aid office fits\nLegal aid maintains central place which ell\ngbe referred by and the agencies\nor to which people accord seek legal\n\n\n\n\n\nEligibility for legal aid dependent several factors Family\nincome generally considered starting point Ohe factors\ninclude bank ownership of property debts unemployment\ndependents But Standards and the point which\nup for consideration, from city city,\ncriterion when all these all taken into\ncount whether the applicant afford\nceptable fee for private attorney.\n\n\nMany of the people who legal aid office not eligible\nfor legal They have because they mis-\nlawyers they do know how choose\n\n\nClients who for services\nlawyer which suggests\nfor them consult.\n\n\nThe lawyer referra plan method by which persons needing\nlegal advice and help directly and properly brought into contact\nlawyers who willing them The lawyer charges\n\n\nmoderate fee for consultation legal problem, and\nlegal for reasonable fee If such service\nnecessary The lawyer reerra system fills the between\nlegal aid and regular private law practice\n\n\nhs legal column issued public service under super\nthe State Bar Arizona and is written inform not\nadvise.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 116,
+                "y0": 341,
+                "x1": 1146,
+                "y1": 556
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law\nlequI Aid",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 128,
+                "y0": 2897,
+                "x1": 1817,
+                "y1": 3858
+            },
+            "class": "article",
+            "raw_text": "Mrs. c. NJ Neal president Arizona State Baptist\non senior womens division speaker the annual\nWomans Day held Sum- May 81 Mt Olive Baptist Church\nin Chandler Rev. P. R. McDanes of the church.\n\n\nHer topic was Leaders for These Troubled Tines\n\n\nMrs. Neal also addressed the Bible Missionary Baptist Church.\nin the afternoon. Her Trnng and Christian Education\nin the Home.'\n\n\nThe annual Chdrens Day program will be held Sum-, June\n\n\nSt. Marks Unity Temple. 18th and W. Tono Bishop A.\nJohnson Topic the day will be Tran Child AS You\nWould Have Him Co..\n\n\nRev. and Mrs. c. NJ Neal motoring points the\nand for long vacation They plan The Worlds Fair\nin New York.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 122,
+                "y0": 2665,
+                "x1": 666,
+                "y1": 2886
+            },
+            "class": "headline",
+            "raw_text": "All Around\n\n\nBy FIoru Ruffin",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3667,
+                "y0": 5563,
+                "x1": 4471,
+                "y1": 7125
+            },
+            "class": "article",
+            "raw_text": "A few charcoal briquets will\nhelp remove stubborn food odors\nfrom your refrigerator. Put\nthree or four pieces in a dispos-\nable small pie-tin in your refrig-\norator and it will remain odor-\nfree.\n\n\nThe more frequent showers\nand baths you will be taking dur\ning the hot summer will be more\npleasant if your water is soft.\nLindsay company experts say\nsoft water is more refreshing\nbecause it washes away all the\nsoap and dirt instead of leaving\na thin film of scum on the skin\nas hard water does. You'll use\nless soap with soft water, too.\n\n\nBefore you wash any throw\nrug, haste a piece of fabric such\nas an old torn sheet to one edge.\n1t makes it easier to pin on the\nclothesline.\n\n\nLine your vegetable crisper\nwith paper toweling to prevent\nvegetable spoilage. The towels\nabsorb any moisture which ac-\ncumulates at the bottom.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3672,
+                "y0": 5430,
+                "x1": 4333,
+                "y1": 5529
+            },
+            "class": "headline",
+            "raw_text": "FOR WOMEN ONLY",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3672,
+                "y0": 2960,
+                "x1": 4477,
+                "y1": 3806
+            },
+            "class": "article",
+            "raw_text": "VISIT YOUR NEW LUMBER\nYARD THIS WEEKENDOPENNG\nSPECIALS:\n\n\n90 x 40 aluminium picture WIN\ndows 1898\n80 x 6-8 mahogany door 6.o5\n235 lb. top quality asbestos\nshingles 50. 7.eS\nI6 D box nails 50lb. bx. $40\n\n\nKONKLER LUMBER &\n\n\nSUPPLY\n\n\n4608 So. 10th Street",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3655,
+                "y0": 2631,
+                "x1": 4229,
+                "y1": 2776
+            },
+            "class": "headline",
+            "raw_text": "10 M BARBER SHOP\nl205 W. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3678,
+                "y0": 2833,
+                "x1": 4310,
+                "y1": 2932
+            },
+            "class": "headline",
+            "raw_text": "LUMBER SUPPLIES",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2770,
+                "y0": 2706,
+                "x1": 3639,
+                "y1": 3858
+            },
+            "class": "article",
+            "raw_text": "perience and dependability, and\nurges thorough appraisal of such\nrequirements by all voters in the\ncoming Democratic primary, and\nalso the ensuing general election\nin November.\n\n\nHe has been a resident of\nChandler continuously for the\npast A years, is married and the\nfather of two sons. In the past he\nhas served both as State Treas\nurer and Corporation Commits\nSioner.\n\n\nAS member of Mathew B.\nJuan Post, American Legion, he\nhas been elected Commander\nthree times, and also served one\nterm as Commander of Legion\nDistrict No. 8.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1897,
+                "y0": 1763,
+                "x1": 3587,
+                "y1": 2574
+            },
+            "class": "article",
+            "raw_text": "Making several members Of the Leagues Julian Yanks\nhappv are the Debonairs Social and Art Club.\n\n\nThe club recently $l35 for baseball uniforms and\nequipment to the team.\n\n\nShown front row Webb, Melvin Mnnifed, Marvin\nBrooks and Herbert Johnson.\n\n\nmembers shown visiting the team are Mes\ndanes Rufin and Lille Belcher.\n\n\nStanding Charles James Michael Graves\nDwight Warren, Ray Brandon, Dan Young Bill Sims travis VIII\nliams and\n\n\nChdres Of the Julian Yanks Coaches are\nTed and Rudy Jackson.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3649,
+                "y0": 2139,
+                "x1": 4362,
+                "y1": 2325
+            },
+            "class": "article",
+            "raw_text": "SOUBLETS BEAUTY SHOP\n2Ol4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3644,
+                "y0": 2365,
+                "x1": 4460,
+                "y1": 2562
+            },
+            "class": "article",
+            "raw_text": "IACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964060501_0423",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "Brooks Announces\nMis- Candidacy",
+            "article": "William T. (Bill) Brooks is this\nweek making announcement of\nhis candidacy for the office of\nState Corporation Commissioner,\nsubject to the will of the voters in\nthe Democratic primary election\nSeptember 8, 1864.\n\n\nIn announcing his candidacy,\nBrooks declared his pledge of\ncompliance with the, expressed\nneed, on the part of Arizona resi-\ndents in all walks of life, for\nfortnight administration of the\naffairs of that vitality important\nstate department.\n\n\nHe stresses his qualifications,\nboth from the standpoint of ex-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1903,
+                    "y0": 2613,
+                    "x1": 2517,
+                    "y1": 2799
+                },
+                {
+                    "x0": 1886,
+                    "y0": 2827,
+                    "x1": 2754,
+                    "y1": 3863
+                }
+            ],
+            "bbox": [
+                1886,
+                2613,
+                2754,
+                3863
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                11,
+                2
+            ],
+            "headline": "Discussing Arizona Law\nlequI Aid",
+            "article": "Legal Aid is defined the organized effort the bar and the\ncommunity provide the lawyers free who\ncannot afford pay attorneys fee.\n\n\nlawyers generously of their time and Skill to\nservice clients who the number of people needing\nfree legal advise is be handled unoganzed\nindividual basis. This where legal aid office fits\nLegal aid maintains central place which ell\ngbe referred by and the agencies\nor to which people accord seek legal\n\n\n\n\n\nEligibility for legal aid dependent several factors Family\nincome generally considered starting point Ohe factors\ninclude bank ownership of property debts unemployment\ndependents But Standards and the point which\nup for consideration, from city city,\ncriterion when all these all taken into\ncount whether the applicant afford\nceptable fee for private attorney.\n\n\nMany of the people who legal aid office not eligible\nfor legal They have because they mis-\nlawyers they do know how choose\n\n\nClients who for services\nlawyer which suggests\nfor them consult.\n\n\nThe lawyer referra plan method by which persons needing\nlegal advice and help directly and properly brought into contact\nlawyers who willing them The lawyer charges\n\n\nmoderate fee for consultation legal problem, and\nlegal for reasonable fee If such service\nnecessary The lawyer reerra system fills the between\nlegal aid and regular private law practice\n\n\nhs legal column issued public service under super\nthe State Bar Arizona and is written inform not\nadvise.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 116,
+                    "y0": 341,
+                    "x1": 1146,
+                    "y1": 556
+                },
+                {
+                    "x0": 93,
+                    "y0": 572,
+                    "x1": 1788,
+                    "y1": 2637
+                }
+            ],
+            "bbox": [
+                93,
+                341,
+                1788,
+                2637
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                6,
+                3
+            ],
+            "headline": "All Around\n\n\nBy FIoru Ruffin",
+            "article": "Mrs. c. NJ Neal president Arizona State Baptist\non senior womens division speaker the annual\nWomans Day held Sum- May 81 Mt Olive Baptist Church\nin Chandler Rev. P. R. McDanes of the church.\n\n\nHer topic was Leaders for These Troubled Tines\n\n\nMrs. Neal also addressed the Bible Missionary Baptist Church.\nin the afternoon. Her Trnng and Christian Education\nin the Home.'\n\n\nThe annual Chdrens Day program will be held Sum-, June\n\n\nSt. Marks Unity Temple. 18th and W. Tono Bishop A.\nJohnson Topic the day will be Tran Child AS You\nWould Have Him Co..\n\n\nRev. and Mrs. c. NJ Neal motoring points the\nand for long vacation They plan The Worlds Fair\nin New York.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 122,
+                    "y0": 2665,
+                    "x1": 666,
+                    "y1": 2886
+                },
+                {
+                    "x0": 128,
+                    "y0": 2897,
+                    "x1": 1817,
+                    "y1": 3858
+                }
+            ],
+            "bbox": [
+                122,
+                2665,
+                1817,
+                3858
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "FOR WOMEN ONLY",
+            "article": "A few charcoal briquets will\nhelp remove stubborn food odors\nfrom your refrigerator. Put\nthree or four pieces in a dispos-\nable small pie-tin in your refrig-\norator and it will remain odor-\nfree.\n\n\nThe more frequent showers\nand baths you will be taking dur\ning the hot summer will be more\npleasant if your water is soft.\nLindsay company experts say\nsoft water is more refreshing\nbecause it washes away all the\nsoap and dirt instead of leaving\na thin film of scum on the skin\nas hard water does. You'll use\nless soap with soft water, too.\n\n\nBefore you wash any throw\nrug, haste a piece of fabric such\nas an old torn sheet to one edge.\n1t makes it easier to pin on the\nclothesline.\n\n\nLine your vegetable crisper\nwith paper toweling to prevent\nvegetable spoilage. The towels\nabsorb any moisture which ac-\ncumulates at the bottom.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3672,
+                    "y0": 5430,
+                    "x1": 4333,
+                    "y1": 5529
+                },
+                {
+                    "x0": 3667,
+                    "y0": 5563,
+                    "x1": 4471,
+                    "y1": 7125
+                }
+            ],
+            "bbox": [
+                3667,
+                5430,
+                4471,
+                7125
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                20,
+                14,
+                5
+            ],
+            "headline": "10 M BARBER SHOP\nl205 W. Buckeye\n\nLUMBER SUPPLIES",
+            "article": "VISIT YOUR NEW LUMBER\nYARD THIS WEEKENDOPENNG\nSPECIALS:\n\n\n90 x 40 aluminium picture WIN\ndows 1898\n80 x 6-8 mahogany door 6.o5\n235 lb. top quality asbestos\nshingles 50. 7.eS\nI6 D box nails 50lb. bx. $40\n\n\nKONKLER LUMBER &\n\n\nSUPPLY\n\n\n4608 So. 10th Street",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3655,
+                    "y0": 2631,
+                    "x1": 4229,
+                    "y1": 2776
+                },
+                {
+                    "x0": 3678,
+                    "y0": 2833,
+                    "x1": 4310,
+                    "y1": 2932
+                },
+                {
+                    "x0": 3672,
+                    "y0": 2960,
+                    "x1": 4477,
+                    "y1": 3806
+                }
+            ],
+            "bbox": [
+                3655,
+                2631,
+                4477,
+                3806
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "perience and dependability, and\nurges thorough appraisal of such\nrequirements by all voters in the\ncoming Democratic primary, and\nalso the ensuing general election\nin November.\n\n\nHe has been a resident of\nChandler continuously for the\npast A years, is married and the\nfather of two sons. In the past he\nhas served both as State Treas\nurer and Corporation Commits\nSioner.\n\n\nAS member of Mathew B.\nJuan Post, American Legion, he\nhas been elected Commander\nthree times, and also served one\nterm as Commander of Legion\nDistrict No. 8.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2770,
+                    "y0": 2706,
+                    "x1": 3639,
+                    "y1": 3858
+                }
+            ],
+            "bbox": [
+                2770,
+                2706,
+                3639,
+                3858
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Making several members Of the Leagues Julian Yanks\nhappv are the Debonairs Social and Art Club.\n\n\nThe club recently $l35 for baseball uniforms and\nequipment to the team.\n\n\nShown front row Webb, Melvin Mnnifed, Marvin\nBrooks and Herbert Johnson.\n\n\nmembers shown visiting the team are Mes\ndanes Rufin and Lille Belcher.\n\n\nStanding Charles James Michael Graves\nDwight Warren, Ray Brandon, Dan Young Bill Sims travis VIII\nliams and\n\n\nChdres Of the Julian Yanks Coaches are\nTed and Rudy Jackson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1897,
+                    "y0": 1763,
+                    "x1": 3587,
+                    "y1": 2574
+                }
+            ],
+            "bbox": [
+                1897,
+                1763,
+                3587,
+                2574
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "SOUBLETS BEAUTY SHOP\n2Ol4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3649,
+                    "y0": 2139,
+                    "x1": 4362,
+                    "y1": 2325
+                }
+            ],
+            "bbox": [
+                3649,
+                2139,
+                4362,
+                2325
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "IACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3644,
+                    "y0": 2365,
+                    "x1": 4460,
+                    "y1": 2562
+                }
+            ],
+            "bbox": [
+                3644,
+                2365,
+                4460,
+                2562
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-06-05_pna_sn84021918_0041421695A_1964060501_0423.json"
+        }
+    ]
+}

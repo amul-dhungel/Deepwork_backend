@@ -1,0 +1,210 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964062601/0450.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4863
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2077,
+                "y0": 4476,
+                "x1": 2890,
+                "y1": 4790
+            },
+            "class": "article",
+            "raw_text": "How to Improve Your Luck;\nDevelop your bump of curiosity;\nAcquire a little streak of reck-\nlessness; Sharpen your imagi-\nnation; Be willing and able to\nchange your mind.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1173,
+                "y0": 3803,
+                "x1": 1991,
+                "y1": 4947
+            },
+            "class": "article",
+            "raw_text": "economy ingovernment wherever\npossible and consistent with nee\nessary expenditures to maintain\neconomic growth and prosperity.\nThe people in my district must\nhave immediate tax relief on\nowner-occupied homes, and |\nshall unstintingly strive to see\nthat such reductions are eff\nfected.\"\n\n\nVanderpool, who is shop COM\nmitteeman for Reynolds Metals\nCompany, has a broad and diver\nsified background of general\nbusiness experience, with\nwealth of knowledge gained as a\nresult Of occupying positions of\nresponsibility and authority in\nboth management and labor.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 593,
+                "y0": 3658,
+                "x1": 1556,
+                "y1": 3775
+            },
+            "class": "headline",
+            "raw_text": "vunderpooI Seeks Nod",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 262,
+                "y0": 3803,
+                "x1": 1098,
+                "y1": 4993
+            },
+            "class": "article",
+            "raw_text": "Billy G. Vanderpool, Phoenix\nDemocrat, has announced his\ncandidacy for the Arizona House\nof Representatives. District 7.\n\n\nVanderpool, long active in\nMaricopa County Democratic\npolitics. is presently the execu-\ntive director of the Southside\nDemocratic Association and\nchairman of the district party\ngroup.\n\n\n\"My PLATFORM\" stated Van\nderpool, twill consist primarily\nof a pledge to serve the greatest\ngood of the greatest number of\nmy constituents in this legisla-\ntive district, without regard to\nrace, color, creed or economic\nposition. Secondly. but of equal\nImportance, | pledge to work for",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 291,
+                "y0": 2116,
+                "x1": 1991,
+                "y1": 3601
+            },
+            "class": "article",
+            "raw_text": "AT the 9TH of the Labor Council\nheld Cleveland Randolph NLC board and\nmembers endorsed opening drive of the Riverside National Bank\nO Houston, Texas.\n\n\nThe pedomant Negro to be chartered in forty\nyears attain goal Of is million dollars on deposit by\nApril of year.\n\n\nThomas h president of the Riverside Bank SAID the\nbank figure the economic future of the Negro In America\n\n\nMr. Randolph said labor members would support the banks\nand for Negro children should be en-\ncouraged.\n\n\nThe bank wide bank by mail would\nbe augrated Negroes other cities who wish to part1c\nproject located 1902 Bodgeu ST.\n\n\nleft William Thomas r pres1-\nPhillip Randolph president\nNegro American Labor Council.\n\n\nStanding left Charles F. Streets NALC vice PRESIDENT\nWarren Chappe Jr chapter pes Rev. Bender\nFeaterston Basn Carl M. Carroll board chairman ver\nside Bank Evans NALC chairman Richard Par\nrish Mrs. Ethel Payne member the Demo-\ncratic National who brought greetings from President\nB. Johnson.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-26"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "How to Improve Your Luck;\nDevelop your bump of curiosity;\nAcquire a little streak of reck-\nlessness; Sharpen your imagi-\nnation; Be willing and able to\nchange your mind.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2077,
+                    "y0": 4476,
+                    "x1": 2890,
+                    "y1": 4790
+                }
+            ],
+            "bbox": [
+                2077,
+                4476,
+                2890,
+                4790
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-26_p1_sn84021918_0041421695A_1964062601_0450.json"
+        },
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "vunderpooI Seeks Nod",
+            "article": "economy ingovernment wherever\npossible and consistent with nee\nessary expenditures to maintain\neconomic growth and prosperity.\nThe people in my district must\nhave immediate tax relief on\nowner-occupied homes, and |\nshall unstintingly strive to see\nthat such reductions are eff\nfected.\"\n\n\nVanderpool, who is shop COM\nmitteeman for Reynolds Metals\nCompany, has a broad and diver\nsified background of general\nbusiness experience, with\nwealth of knowledge gained as a\nresult Of occupying positions of\nresponsibility and authority in\nboth management and labor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 593,
+                    "y0": 3658,
+                    "x1": 1556,
+                    "y1": 3775
+                },
+                {
+                    "x0": 1173,
+                    "y0": 3803,
+                    "x1": 1991,
+                    "y1": 4947
+                }
+            ],
+            "bbox": [
+                593,
+                3658,
+                1991,
+                4947
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-26_p1_sn84021918_0041421695A_1964062601_0450.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Billy G. Vanderpool, Phoenix\nDemocrat, has announced his\ncandidacy for the Arizona House\nof Representatives. District 7.\n\n\nVanderpool, long active in\nMaricopa County Democratic\npolitics. is presently the execu-\ntive director of the Southside\nDemocratic Association and\nchairman of the district party\ngroup.\n\n\n\"My PLATFORM\" stated Van\nderpool, twill consist primarily\nof a pledge to serve the greatest\ngood of the greatest number of\nmy constituents in this legisla-\ntive district, without regard to\nrace, color, creed or economic\nposition. Secondly. but of equal\nImportance, | pledge to work for",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 262,
+                    "y0": 3803,
+                    "x1": 1098,
+                    "y1": 4993
+                }
+            ],
+            "bbox": [
+                262,
+                3803,
+                1098,
+                4993
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-26_p1_sn84021918_0041421695A_1964062601_0450.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "AT the 9TH of the Labor Council\nheld Cleveland Randolph NLC board and\nmembers endorsed opening drive of the Riverside National Bank\nO Houston, Texas.\n\n\nThe pedomant Negro to be chartered in forty\nyears attain goal Of is million dollars on deposit by\nApril of year.\n\n\nThomas h president of the Riverside Bank SAID the\nbank figure the economic future of the Negro In America\n\n\nMr. Randolph said labor members would support the banks\nand for Negro children should be en-\ncouraged.\n\n\nThe bank wide bank by mail would\nbe augrated Negroes other cities who wish to part1c\nproject located 1902 Bodgeu ST.\n\n\nleft William Thomas r pres1-\nPhillip Randolph president\nNegro American Labor Council.\n\n\nStanding left Charles F. Streets NALC vice PRESIDENT\nWarren Chappe Jr chapter pes Rev. Bender\nFeaterston Basn Carl M. Carroll board chairman ver\nside Bank Evans NALC chairman Richard Par\nrish Mrs. Ethel Payne member the Demo-\ncratic National who brought greetings from President\nB. Johnson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 291,
+                    "y0": 2116,
+                    "x1": 1991,
+                    "y1": 3601
+                }
+            ],
+            "bbox": [
+                291,
+                2116,
+                1991,
+                3601
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-06-26_p1_sn84021918_0041421695A_1964062601_0450.json"
+        }
+    ]
+}

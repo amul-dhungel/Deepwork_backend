@@ -1,0 +1,436 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4932,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061201/0430.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3026,
+                "y0": 1057,
+                "x1": 4663,
+                "y1": 2509
+            },
+            "class": "article",
+            "raw_text": "trip Harlem will show why violence is often page\nthere In small Negroes and Puerto\ncrowded than other section enaon.\nin apartment buildings which habiaton.\n\n\nVisitors New York City seldom into the\nand the guided tours avoid taking trips into the\nately, the Negroes live\neconomic level.\n\n\nThe majority of them of huge migration of\nNegroes who eXcaped from their plight in Dixie only find\ndions than they had left.\n\n\nPublic schools in the Harlem poorly equipped Many\nteachers refuse assignments there because\nHence Harlem the off metropolis York.\nwhich pride itself being of all\nhome.\n\n\nMayor Wagner quickly assigned policemen patrol\nsince the brutal attacks whites oodums.\nThis action is necessary but emphasis will\nplaced the neghboroods where these hooums\n\n\nHarlems troubles magnfied because of the of the\nNegro population however, similar problems\nThe slum conditions where Negroes\nonly breed violence, if not in action in thought.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3569,
+                "y0": 398,
+                "x1": 4541,
+                "y1": 839
+            },
+            "class": "headline",
+            "raw_text": "Views, PREvIEwS\nAND REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3783,
+                "y0": 751,
+                "x1": 4299,
+                "y1": 839
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3043,
+                "y0": 918,
+                "x1": 3969,
+                "y1": 1029
+            },
+            "class": "headline",
+            "raw_text": "Harlem Is Not Alone",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3893,
+                "y0": 2560,
+                "x1": 4697,
+                "y1": 3694
+            },
+            "class": "article",
+            "raw_text": "reached a low level and yet he\nclaimed to be funny.\n\n\nThe writings of Mark Twain\nand James Thurber prove that\ncomical material can be found\nin many subjects. l enjov also\nOgden Nash's and Richard Ar\nmour's funny verses.\n\n\nIn the race to get to the moon\nand other far off places, l hope\nthat we will not lose our sense\nOf true funny stories.\n\n\nNo doubt when the first Earth\nling reaches Mars, the Marian\nwelcoming committee will be\nheaded by a skilled ma ster of\nceremonies who will have a gag\nbook which would put Milton Berle\nto shame. ~''s ia-",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2997,
+                "y0": 2664,
+                "x1": 3819,
+                "y1": 3694
+            },
+            "class": "article",
+            "raw_text": "the VictrOla was still a standard\npiece of furniture in the homeS--\nl can remember the records of\nseveral teams using Yiddish or\nJewish accents.\n\n\nToday we are in the ear of\nthe indignation jokes. Purveyors\nof this type of humor include\nDick Gregory and 'Nipsy Russell.\nThey take the Negro topic and\nmake some caustic jokes which\noften stun you.\n\n\nThere is a label of \"sick\"\nput on some comedians. Recently\none comedian of this ilk was\nbanned from appearing in a for\neign country. His material",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3015,
+                "y0": 2566,
+                "x1": 3518,
+                "y1": 2648
+            },
+            "class": "headline",
+            "raw_text": "SIGHTS conf.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 327,
+                "y0": 4080,
+                "x1": 1993,
+                "y1": 5780
+            },
+            "class": "article",
+            "raw_text": "In view Of the great response to the public\nhearing held Monday night at the city council\nchambers, there should be little doubt con-\ncorning support of the proposed city ordi-\nnance banning discrimination in places of\npublic accommodation.\n\n\nThe appearance Of such large group fav-\noring the measure indicates that local atti-\ntudes will accept such a law. There should be\nno hesitation now on the part of the city coun-\nGil to enact the measure.\n\n\nPassage of the anti discrimination meas\nure would be a step in the right direction\nwhich might include similar measures in city\nemployment practices.\n\n\n1t is good sign that the people Of Phoenix\nareproving that they are willing to cooperate\nwith the city commission on human relations\nto implement ways Of improving race re-\nlatiOnS in our area.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 356,
+                "y0": 3889,
+                "x1": 1247,
+                "y1": 4046
+            },
+            "class": "headline",
+            "raw_text": "BILL SUPPORTED",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 333,
+                "y0": 2115,
+                "x1": 1993,
+                "y1": 3780
+            },
+            "class": "article",
+            "raw_text": "The cloture vote won in the United States\nSenate Wednesday morning. This rule will end\nthe filibuster techniques SO long used by the\nSOlons to circumvent bills.\n\n\nThis marks the greatest hurdle which the\nproposed civil rights measure had to face in\nit's long route through our governments maze\nOf lawmaking.\n\n\nThere should be little to hinder the early\npassage of the measure which has won strong\nsupport in Congress. The bill is heralded as\nthe greatest single measure since the end Of\nthe Civil War to aid in the enjoyment of full\ncitizenship rights by all minority groups.\n\n\nAll groups, including civic, fraternal and\nchurch bodies should make concerted effort\nto write or telegram the congressman from\ntheir respective areas and instruct them to\nsupport the federal civil rights measure.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 379,
+                "y0": 1901,
+                "x1": 1501,
+                "y1": 2070
+            },
+            "class": "headline",
+            "raw_text": "CLOTURE VOTE WINS",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2107,
+                "y0": 832,
+                "x1": 2946,
+                "y1": 6375
+            },
+            "class": "article",
+            "raw_text": "Humor Week by proclamation\nof the gag writer's, comic book\nwriter's, cartoOniStS and funny\nmen all over the country.\n\n\n1t depends on your view how\nfunny this week has been or can\nbe. To make a parody on the\nsometimes humorous televisiOn\nshow THAT Was the Week That\nWas. It shows promise of be-\ncoming either a very good pro-\ngram or turning into the worlds\nworst television vehicle of the\nyear.\n\n\nFamiliar phrases such as\nHey, have you heard this One?@\nand SPsst. come here let me tell\nyou a funny story, are mouthed\nby young and old from Maine\nto Hawaii.\n\n\nJoke writer's have garnered a\nniche in our culture and there\nare collections of time worn\nfables of Aesop to the latest\nedition of the Joe Miller group.\n\n\nNothing can ever take the place\nof a funny story. There may be\nmany different types of tranquil\nizers placed on the market, but\nnone can replace the pleasure of\nhumorous tale or cartoon.\n\n\nIn my early childhood can\nrecall some Of the funny things\nthat my Grandfather Harry, bet\nter known as Racker, would tell.\nHe always had ears for funny\nones and he kept us rolling with\nsome which he brought home.\n\n\nWhen he felt like shocking us\nhe would say, 4Watch out, this\none is a bit sooty.\" Racker was\nfull of stories that he picked\nup form the men at the coke\nand gas plant and later on the\ncity street cleaning truck. His\njob at the coal yard as night\nWaterman provided him with\nmany sad stories as we'll, during\nthe depression years.\n\n\nThe greatest clowns seem to\nhave a bit of pathos in them.\nRecall, the wistful appearance Of\nCharlie Chaplin, the wry wit of\nJoe Penner and the elflike CLEAN\nof Ed Wynn.\n\n\nEmmett Kelly, perhaps, one Of\nthe greatest modern day circus\nclowns, was habitually Oh the\nverge of tears.\n\n\nEven Red Skeletons characters\nbring a comic relief when the\nsituations are not funny.\n\n\nJackie GleaSon's Poor Soul\ncharacter brings a heart pulling\nsmile when he becomes involved\nin some incidents.\n\n\nThe masks of the theaters\nwhich display tragedy and comedy\nare closer related than one\nimagines. Some sad events are\nreally funny, but we have been\ntrained to see most of the heart\nbreak.\n\n\nWhat makes you smile, may\non the other hand, make someone\nelse weep. There is an old Per-\nsian proverb which says if joy\ncomes in the door, watch out\nbecause sorrow is under the\nbed.\n\n\nAS this week ends, remember\nthat a bit of humor keeps one\nnot only happier looking, but it\nimproves your mind. Once Tread\nthat it takes more facial muscles\nto frOWn than it does to laugh.\n\n\nUnfortunately today many CO.\nmedians especially on the night\nclub circuit feel that humOr must\nbe off color or really dirty.\nsometimes this philosophy\nreaches into our radio and tele-",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2124,
+                "y0": 323,
+                "x1": 2912,
+                "y1": 550
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOISe BANKS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2136,
+                "y0": 595,
+                "x1": 2703,
+                "y1": 711
+            },
+            "class": "headline",
+            "raw_text": "H Umor Week",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964061201_0430",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                20,
+                9,
+                0
+            ],
+            "headline": "Views, PREvIEwS\nAND REVIEWS\n\n\nEdward Banks\n\nHarlem Is Not Alone",
+            "article": "trip Harlem will show why violence is often page\nthere In small Negroes and Puerto\ncrowded than other section enaon.\nin apartment buildings which habiaton.\n\n\nVisitors New York City seldom into the\nand the guided tours avoid taking trips into the\nately, the Negroes live\neconomic level.\n\n\nThe majority of them of huge migration of\nNegroes who eXcaped from their plight in Dixie only find\ndions than they had left.\n\n\nPublic schools in the Harlem poorly equipped Many\nteachers refuse assignments there because\nHence Harlem the off metropolis York.\nwhich pride itself being of all\nhome.\n\n\nMayor Wagner quickly assigned policemen patrol\nsince the brutal attacks whites oodums.\nThis action is necessary but emphasis will\nplaced the neghboroods where these hooums\n\n\nHarlems troubles magnfied because of the of the\nNegro population however, similar problems\nThe slum conditions where Negroes\nonly breed violence, if not in action in thought.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3569,
+                    "y0": 398,
+                    "x1": 4541,
+                    "y1": 839
+                },
+                {
+                    "x0": 3783,
+                    "y0": 751,
+                    "x1": 4299,
+                    "y1": 839
+                },
+                {
+                    "x0": 3043,
+                    "y0": 918,
+                    "x1": 3969,
+                    "y1": 1029
+                },
+                {
+                    "x0": 3026,
+                    "y0": 1057,
+                    "x1": 4663,
+                    "y1": 2509
+                }
+            ],
+            "bbox": [
+                3026,
+                398,
+                4663,
+                2509
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-12_pna_sn84021918_0041421695A_1964061201_0430.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "reached a low level and yet he\nclaimed to be funny.\n\n\nThe writings of Mark Twain\nand James Thurber prove that\ncomical material can be found\nin many subjects. l enjov also\nOgden Nash's and Richard Ar\nmour's funny verses.\n\n\nIn the race to get to the moon\nand other far off places, l hope\nthat we will not lose our sense\nOf true funny stories.\n\n\nNo doubt when the first Earth\nling reaches Mars, the Marian\nwelcoming committee will be\nheaded by a skilled ma ster of\nceremonies who will have a gag\nbook which would put Milton Berle\nto shame. ~''s ia-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3893,
+                    "y0": 2560,
+                    "x1": 4697,
+                    "y1": 3694
+                }
+            ],
+            "bbox": [
+                3893,
+                2560,
+                4697,
+                3694
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-12_pna_sn84021918_0041421695A_1964061201_0430.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "SIGHTS conf.",
+            "article": "the VictrOla was still a standard\npiece of furniture in the homeS--\nl can remember the records of\nseveral teams using Yiddish or\nJewish accents.\n\n\nToday we are in the ear of\nthe indignation jokes. Purveyors\nof this type of humor include\nDick Gregory and 'Nipsy Russell.\nThey take the Negro topic and\nmake some caustic jokes which\noften stun you.\n\n\nThere is a label of \"sick\"\nput on some comedians. Recently\none comedian of this ilk was\nbanned from appearing in a for\neign country. His material",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3015,
+                    "y0": 2566,
+                    "x1": 3518,
+                    "y1": 2648
+                },
+                {
+                    "x0": 2997,
+                    "y0": 2664,
+                    "x1": 3819,
+                    "y1": 3694
+                }
+            ],
+            "bbox": [
+                2997,
+                2566,
+                3819,
+                3694
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-12_pna_sn84021918_0041421695A_1964061201_0430.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "BILL SUPPORTED",
+            "article": "In view Of the great response to the public\nhearing held Monday night at the city council\nchambers, there should be little doubt con-\ncorning support of the proposed city ordi-\nnance banning discrimination in places of\npublic accommodation.\n\n\nThe appearance Of such large group fav-\noring the measure indicates that local atti-\ntudes will accept such a law. There should be\nno hesitation now on the part of the city coun-\nGil to enact the measure.\n\n\nPassage of the anti discrimination meas\nure would be a step in the right direction\nwhich might include similar measures in city\nemployment practices.\n\n\n1t is good sign that the people Of Phoenix\nareproving that they are willing to cooperate\nwith the city commission on human relations\nto implement ways Of improving race re-\nlatiOnS in our area.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 356,
+                    "y0": 3889,
+                    "x1": 1247,
+                    "y1": 4046
+                },
+                {
+                    "x0": 327,
+                    "y0": 4080,
+                    "x1": 1993,
+                    "y1": 5780
+                }
+            ],
+            "bbox": [
+                327,
+                3889,
+                1993,
+                5780
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-12_pna_sn84021918_0041421695A_1964061201_0430.json"
+        },
+        {
+            "object_ids": [
+                17,
+                7
+            ],
+            "headline": "CLOTURE VOTE WINS",
+            "article": "The cloture vote won in the United States\nSenate Wednesday morning. This rule will end\nthe filibuster techniques SO long used by the\nSOlons to circumvent bills.\n\n\nThis marks the greatest hurdle which the\nproposed civil rights measure had to face in\nit's long route through our governments maze\nOf lawmaking.\n\n\nThere should be little to hinder the early\npassage of the measure which has won strong\nsupport in Congress. The bill is heralded as\nthe greatest single measure since the end Of\nthe Civil War to aid in the enjoyment of full\ncitizenship rights by all minority groups.\n\n\nAll groups, including civic, fraternal and\nchurch bodies should make concerted effort\nto write or telegram the congressman from\ntheir respective areas and instruct them to\nsupport the federal civil rights measure.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 379,
+                    "y0": 1901,
+                    "x1": 1501,
+                    "y1": 2070
+                },
+                {
+                    "x0": 333,
+                    "y0": 2115,
+                    "x1": 1993,
+                    "y1": 3780
+                }
+            ],
+            "bbox": [
+                333,
+                1901,
+                1993,
+                3780
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-12_pna_sn84021918_0041421695A_1964061201_0430.json"
+        },
+        {
+            "object_ids": [
+                15,
+                14,
+                8
+            ],
+            "headline": "Sights and Sounds\nELOISe BANKS\n\nH Umor Week",
+            "article": "Humor Week by proclamation\nof the gag writer's, comic book\nwriter's, cartoOniStS and funny\nmen all over the country.\n\n\n1t depends on your view how\nfunny this week has been or can\nbe. To make a parody on the\nsometimes humorous televisiOn\nshow THAT Was the Week That\nWas. It shows promise of be-\ncoming either a very good pro-\ngram or turning into the worlds\nworst television vehicle of the\nyear.\n\n\nFamiliar phrases such as\nHey, have you heard this One?@\nand SPsst. come here let me tell\nyou a funny story, are mouthed\nby young and old from Maine\nto Hawaii.\n\n\nJoke writer's have garnered a\nniche in our culture and there\nare collections of time worn\nfables of Aesop to the latest\nedition of the Joe Miller group.\n\n\nNothing can ever take the place\nof a funny story. There may be\nmany different types of tranquil\nizers placed on the market, but\nnone can replace the pleasure of\nhumorous tale or cartoon.\n\n\nIn my early childhood can\nrecall some Of the funny things\nthat my Grandfather Harry, bet\nter known as Racker, would tell.\nHe always had ears for funny\nones and he kept us rolling with\nsome which he brought home.\n\n\nWhen he felt like shocking us\nhe would say, 4Watch out, this\none is a bit sooty.\" Racker was\nfull of stories that he picked\nup form the men at the coke\nand gas plant and later on the\ncity street cleaning truck. His\njob at the coal yard as night\nWaterman provided him with\nmany sad stories as we'll, during\nthe depression years.\n\n\nThe greatest clowns seem to\nhave a bit of pathos in them.\nRecall, the wistful appearance Of\nCharlie Chaplin, the wry wit of\nJoe Penner and the elflike CLEAN\nof Ed Wynn.\n\n\nEmmett Kelly, perhaps, one Of\nthe greatest modern day circus\nclowns, was habitually Oh the\nverge of tears.\n\n\nEven Red Skeletons characters\nbring a comic relief when the\nsituations are not funny.\n\n\nJackie GleaSon's Poor Soul\ncharacter brings a heart pulling\nsmile when he becomes involved\nin some incidents.\n\n\nThe masks of the theaters\nwhich display tragedy and comedy\nare closer related than one\nimagines. Some sad events are\nreally funny, but we have been\ntrained to see most of the heart\nbreak.\n\n\nWhat makes you smile, may\non the other hand, make someone\nelse weep. There is an old Per-\nsian proverb which says if joy\ncomes in the door, watch out\nbecause sorrow is under the\nbed.\n\n\nAS this week ends, remember\nthat a bit of humor keeps one\nnot only happier looking, but it\nimproves your mind. Once Tread\nthat it takes more facial muscles\nto frOWn than it does to laugh.\n\n\nUnfortunately today many CO.\nmedians especially on the night\nclub circuit feel that humOr must\nbe off color or really dirty.\nsometimes this philosophy\nreaches into our radio and tele-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2124,
+                    "y0": 323,
+                    "x1": 2912,
+                    "y1": 550
+                },
+                {
+                    "x0": 2136,
+                    "y0": 595,
+                    "x1": 2703,
+                    "y1": 711
+                },
+                {
+                    "x0": 2107,
+                    "y0": 832,
+                    "x1": 2946,
+                    "y1": 6375
+                }
+            ],
+            "bbox": [
+                2107,
+                323,
+                2946,
+                6375
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-12_pna_sn84021918_0041421695A_1964061201_0430.json"
+        }
+    ]
+}

@@ -1,0 +1,516 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7395,
+        "width": 4887,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112701/0644.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2998,
+                "y0": 2871,
+                "x1": 4680,
+                "y1": 4507
+            },
+            "class": "article",
+            "raw_text": "Overriding family objections who wanted her become teacher\nSarah Spencer Washington embarked in 1914\ncomparatively field of beauty culture She continued\nmillionaire while nspra\ntion to Negro the country\n\n\nBorn Berkeley Va 26 after the Emancipation Pro-\nclamaon, Mrs. Wahngton moved boldly along path which had\nbzoed Madame c. Madame Annie M Turnbo\nMalone Better prepared educaona than either her predeces\nMrs Wa sgton continued lead Negro\n\n\nfinancial independence beaucans and place professional\ngrooming within reach thousands graduate Norfolk Mission\nCollege, studied culture York. Pennsylvania and later\ndid advanced work chemistry Columbia University.\n\n\nBY 1913 Madame Washington she to become known had\nstarted hair dressing business in Atlantic City, NJ serving her\nteaching the day and the city with\nher beauty products by night later her eff\nbegun first fruit she able organize\nCompany beginnings which beed\nits great potential.\n\n\napparent the energetic Vrginian that\noperation would satisfy the old law of supply and de-\ngrowth her business hinged largely wide\nspread and services She\nganzed of thus laying the groundwork for the\nschools which eventually dot the nation from\ncoas ar re",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3044,
+                "y0": 2628,
+                "x1": 3940,
+                "y1": 2855
+            },
+            "class": "headline",
+            "raw_text": "Negro History Notes\nSARAH WASHINGTON",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2114,
+                "y0": 5528,
+                "x1": 2929,
+                "y1": 7089
+            },
+            "class": "article",
+            "raw_text": "ify for label registration for a\nnew insecticide or household\nchemical.\n\n\nEarl Brenn, president of the\nChemical Specialties Manufac-\nturers Association, warns that\nusing any chemical without fol-\nlowing directions, \"is akin to\nreaching into the medicine cabi-\nnet in the dark and taking the\nfirst pill that comes to hand\"\n\n\nThe manufacturers label not\nonly outlines the safety precau-\ntions to be taken, it also tells\nexactly which insects will be\ndestroyed by which insecticide.\n\n\nFor example, the Department\nof Agriculture permits certain\nchemicals to be labeled for home\nuse against reaches and silver\nfish but not against flies or mos\nquitoes. Other chemicals are la\nbeled for use in combating carpet\nbeetles and spiders but not fleas\nor brown dog ticks.\n\n\nYet, in spite of the trouble\ntaken by manufacturers and the\nU. S. Government, accidental\npoisonings, especially among\nchildren, are all too common.\nWhy? Carelessness!\n\n\nIt's so easy to save lives. Just\nREAD THAT LABEL!",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3003,
+                "y0": 964,
+                "x1": 4691,
+                "y1": 2606
+            },
+            "class": "article",
+            "raw_text": "On November e In cities\ndedicated Equal Opportunity set aside by\nthe National Urban League and\nthroughout the without equal\nemployment achieve citizenship because\ndollars buy the food clothing\n\n\nWith the empha opportunities being wdened and the\nlocal policies hiring undergoing\nOF Equal Opportunity Day program sponsored by the local Phoenix\nUrban Lacquer\n\n\nThis further demonstrates that the\nhas imposing channel Urban\ncity toward meaning been\nnot just another day onthe pitch years\nprogram on its way today.\n\n\nThe need for pubicizng the employment\nevident may be for UL officials say\nthat the Urban League quietly but in this\nday and age--too much quiet is harmful.\n\n\nis ssuring that Equal Opportunity\ncities since the first\nsponsorship OF the Council for Civic Unity At\ning the director president\nMuecke now a federal district judge\n\n\nMayor Jack Williams reporting his\nstation and In daily column issued the\nAttending the proclamation Civic Unity president\nHerbert",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3564,
+                "y0": 358,
+                "x1": 4541,
+                "y1": 728
+            },
+            "class": "headline",
+            "raw_text": "S,PReviewS\n\n\nAND REVIEWS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3627,
+                "y0": 716,
+                "x1": 4154,
+                "y1": 792
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3246,
+                "y0": 831,
+                "x1": 4564,
+                "y1": 936
+            },
+            "class": "headline",
+            "raw_text": "Equal Opportunity Day Passed",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2096,
+                "y0": 612,
+                "x1": 2935,
+                "y1": 4738
+            },
+            "class": "article",
+            "raw_text": "An item in the daily paper\ncaused me to stop and null over\na few facts of life. Now readers.\ndo not stop reading though it\ndoes concern Mother Nature.\n\n\nSome new animals have been\nadded to one of the large met\nropolitan ZOOS. Pigs and COWS\nhave been brought to a small\nfarmlike area, which is COM\npleted with mixers and a man\noperating tractor.\n\n\nToday as we see the results\nof the rocket age--the spade\nage-the atomic age or call it\nwhat you will was jolted back\nto reality when | began musing.\n\n\nThere are thousands of child\nrem who have never seen a real\nCOW, heard a hen cluck, nor a\nrooster crow. Doubtlessly some\ndo not realize that milk comes\nfrom cows and not cans. Some\nmight be deluded by oversimpli-\nfication of natural phenomena that\nmilk in it's pure form is now pow\nder, nor do eggs come neatly\nstacked in cartons.\n\n\nModern housewives have\ncaused new and simpler methods\nof food preparation and service\nto be devised. They have insis-\nted on instant potatoes, powdered\neggs, sugar substitute and ~\ndinners.\n\n\nSince the turn of the twentieth\ncentury-more and more, persons\nhave moved from the farms to\nthe city--but we still depend on\nthe farms for our foodstuffs.\n\n\nThere are more larger farms\nnow but their ia SKIS are greater.\nThere are more individuals to\nfeed and more ways of shipping\nproducts across the nation.\n\n\nIa stes in foods are no longer\nlocalized. Some per sons who\ngrew up in the pre-piggyback\nshipping days never knew of the\nfruitless and even gritless meals.\n\n\nAS committee of one | will\nbegin a campaign to bring the\nfarm back TO America. My group\nwill be called the BBAF bring\nBack American Farms). At least\none small scale farm should be\nplaced in each large city, per-\nhaps, it could serve S the CEN\nter of urban renewal plans. Then\nwe could all go down on the farm\nwhen we shopped upt own or down\ntown.\n\n\nThe next time you break an egg\nor quaff glass of milk--pause\nand give thanks that all of this\nwas produced and brought to you\nthrough the efforts of our free\nfarmers-who though subsidized\nare not collectivized.\n\n\nREAD WELL BEFORE USINGl",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2148,
+                "y0": 277,
+                "x1": 2929,
+                "y1": 607
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELoIsE BANKS\n\n\nMilk or Egg",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2553,
+                "y0": 5112,
+                "x1": 2924,
+                "y1": 5524
+            },
+            "class": "article",
+            "raw_text": "search ana LeSC-\ning, and costs\n\n\nfrom 81 to SO\nmillion, for a\nchemical COM\npany to acquire\nthe scientific\nevidence re-\nquired to quail",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2114,
+                "y0": 4800,
+                "x1": 2924,
+                "y1": 5102
+            },
+            "class": "article",
+            "raw_text": "The most expensive words\nyou'll ever read are those on\nhousehold chemical and insecti-\neide labels. They're some of the\nmost important words, too.\n\n\n1t takes five or six years Of re-",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2114,
+                "y0": 4627,
+                "x1": 2877,
+                "y1": 4674
+            },
+            "class": "author",
+            "raw_text": "are not collectivized.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2131,
+                "y0": 4679,
+                "x1": 2912,
+                "y1": 4755
+            },
+            "class": "headline",
+            "raw_text": "READ WELL BEFORE USINCI",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 288,
+                "y0": 2022,
+                "x1": 2016,
+                "y1": 5986
+            },
+            "class": "article",
+            "raw_text": "Re cent remarks made by j. Edgar Hoover,\n20 years old, dire ctov of the Federal Bureau\nof Mves tigation, stating that Dr.. Martin\nLuther King, JY., noted ciVil rights leader,\nuas q liar created shock throughout the nation.\n\n\nDr.. King has been one Of the most popular\nNegro figures IN the current de c0de. HIS\npopularity no doubt exceeds that accredited\nto the heavyweight champion Joe Louis, at\nthe height of his fistic career.\n\n\nAs the re cent uOinneY Of the Nobel Prize\nfor his contributions to peace and leader\nship, Dr.. King, has received ntevuatiotaal\nacclaim, plus the blauditS at home.\n\n\nHis courage during the southern crises\nand his foYsOaYd abbyo0 oh has stirred men\nin all walks Of life to heed the cries Of the\nrace which has suffered ineqaaa titles for\nhundreds of years.\n\n\nDr. King charged that FBI officers often\nignored Negroes in southern racial incidents\nand that they weye not putting forth all\nefforts to SOlUe kidnabbings and nauvde rings\nOF the coloyed people.\n\n\nms charges brought bitter yetoyts from\nq. Edgar Hoover, sOb0 has headed the hzgh-\nest Ian enforcement agency in the nation\nunder four presidents. Perhaps, this long\nterm Of service is showing its strain on the\nFBI dire ct0Y, who according to trends in\nbusiness and industry, is past retirement\nage.\n\n\nThe head Of the FBI has high standards to\nuphold and he should never make rash and\nsenSelesS statements. For many years\nHoover has been Yega yded with vesbect and\nand these years of service should not end\non such sour notes.\n\n\nDr.. King has been involved in many\n0NtiSp0T0ONfiOu 111Oa,o 1uontS 0nI bSc n.ohon4.\nnot he0TS0y. There are others who doubt\nthe total action Of the FBI esbe cially since\nthe disappearance or death of more than\ndozen Negroes in the deep South during\nthe last Is months.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 924,
+                "y0": 756,
+                "x1": 1485,
+                "y1": 827
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. 20",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 571,
+                "y0": 1554,
+                "x1": 1104,
+                "y1": 1711
+            },
+            "class": "author",
+            "raw_text": "mis Rswspspes 10 Q @s@Asv u\n1 NEwspAptRs ASSOCIATION\nEes eeesesv Psb,se Ssvvtes",
+            "legibility": "Questionable",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 635,
+                "y0": 1825,
+                "x1": 1601,
+                "y1": 1988
+            },
+            "class": "headline",
+            "raw_text": "HOOVER IS HEARD",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112701_0644",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                0
+            ],
+            "headline": "Negro History Notes\nSARAH WASHINGTON",
+            "article": "Overriding family objections who wanted her become teacher\nSarah Spencer Washington embarked in 1914\ncomparatively field of beauty culture She continued\nmillionaire while nspra\ntion to Negro the country\n\n\nBorn Berkeley Va 26 after the Emancipation Pro-\nclamaon, Mrs. Wahngton moved boldly along path which had\nbzoed Madame c. Madame Annie M Turnbo\nMalone Better prepared educaona than either her predeces\nMrs Wa sgton continued lead Negro\n\n\nfinancial independence beaucans and place professional\ngrooming within reach thousands graduate Norfolk Mission\nCollege, studied culture York. Pennsylvania and later\ndid advanced work chemistry Columbia University.\n\n\nBY 1913 Madame Washington she to become known had\nstarted hair dressing business in Atlantic City, NJ serving her\nteaching the day and the city with\nher beauty products by night later her eff\nbegun first fruit she able organize\nCompany beginnings which beed\nits great potential.\n\n\napparent the energetic Vrginian that\noperation would satisfy the old law of supply and de-\ngrowth her business hinged largely wide\nspread and services She\nganzed of thus laying the groundwork for the\nschools which eventually dot the nation from\ncoas ar re",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3044,
+                    "y0": 2628,
+                    "x1": 3940,
+                    "y1": 2855
+                },
+                {
+                    "x0": 2998,
+                    "y0": 2871,
+                    "x1": 4680,
+                    "y1": 4507
+                }
+            ],
+            "bbox": [
+                2998,
+                2628,
+                4680,
+                4507
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-11-27_pna_sn84021918_0041421695A_1964112701_0644.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "ify for label registration for a\nnew insecticide or household\nchemical.\n\n\nEarl Brenn, president of the\nChemical Specialties Manufac-\nturers Association, warns that\nusing any chemical without fol-\nlowing directions, \"is akin to\nreaching into the medicine cabi-\nnet in the dark and taking the\nfirst pill that comes to hand\"\n\n\nThe manufacturers label not\nonly outlines the safety precau-\ntions to be taken, it also tells\nexactly which insects will be\ndestroyed by which insecticide.\n\n\nFor example, the Department\nof Agriculture permits certain\nchemicals to be labeled for home\nuse against reaches and silver\nfish but not against flies or mos\nquitoes. Other chemicals are la\nbeled for use in combating carpet\nbeetles and spiders but not fleas\nor brown dog ticks.\n\n\nYet, in spite of the trouble\ntaken by manufacturers and the\nU. S. Government, accidental\npoisonings, especially among\nchildren, are all too common.\nWhy? Carelessness!\n\n\nIt's so easy to save lives. Just\nREAD THAT LABEL!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2114,
+                    "y0": 5528,
+                    "x1": 2929,
+                    "y1": 7089
+                }
+            ],
+            "bbox": [
+                2114,
+                5528,
+                2929,
+                7089
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-27_pna_sn84021918_0041421695A_1964112701_0644.json"
+        },
+        {
+            "object_ids": [
+                16,
+                18,
+                17,
+                2
+            ],
+            "headline": "S,PReviewS\n\n\nAND REVIEWS\n\nEqual Opportunity Day Passed",
+            "article": "On November e In cities\ndedicated Equal Opportunity set aside by\nthe National Urban League and\nthroughout the without equal\nemployment achieve citizenship because\ndollars buy the food clothing\n\n\nWith the empha opportunities being wdened and the\nlocal policies hiring undergoing\nOF Equal Opportunity Day program sponsored by the local Phoenix\nUrban Lacquer\n\n\nThis further demonstrates that the\nhas imposing channel Urban\ncity toward meaning been\nnot just another day onthe pitch years\nprogram on its way today.\n\n\nThe need for pubicizng the employment\nevident may be for UL officials say\nthat the Urban League quietly but in this\nday and age--too much quiet is harmful.\n\n\nis ssuring that Equal Opportunity\ncities since the first\nsponsorship OF the Council for Civic Unity At\ning the director president\nMuecke now a federal district judge\n\n\nMayor Jack Williams reporting his\nstation and In daily column issued the\nAttending the proclamation Civic Unity president\nHerbert",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3564,
+                    "y0": 358,
+                    "x1": 4541,
+                    "y1": 728
+                },
+                {
+                    "x0": 3627,
+                    "y0": 716,
+                    "x1": 4154,
+                    "y1": 792
+                },
+                {
+                    "x0": 3246,
+                    "y0": 831,
+                    "x1": 4564,
+                    "y1": 936
+                },
+                {
+                    "x0": 3003,
+                    "y0": 964,
+                    "x1": 4691,
+                    "y1": 2606
+                }
+            ],
+            "bbox": [
+                3003,
+                358,
+                4691,
+                2606
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-27_pna_sn84021918_0041421695A_1964112701_0644.json"
+        },
+        {
+            "object_ids": [
+                5,
+                6
+            ],
+            "headline": "Sights and Sounds\nELoIsE BANKS\n\n\nMilk or Egg",
+            "article": "An item in the daily paper\ncaused me to stop and null over\na few facts of life. Now readers.\ndo not stop reading though it\ndoes concern Mother Nature.\n\n\nSome new animals have been\nadded to one of the large met\nropolitan ZOOS. Pigs and COWS\nhave been brought to a small\nfarmlike area, which is COM\npleted with mixers and a man\noperating tractor.\n\n\nToday as we see the results\nof the rocket age--the spade\nage-the atomic age or call it\nwhat you will was jolted back\nto reality when | began musing.\n\n\nThere are thousands of child\nrem who have never seen a real\nCOW, heard a hen cluck, nor a\nrooster crow. Doubtlessly some\ndo not realize that milk comes\nfrom cows and not cans. Some\nmight be deluded by oversimpli-\nfication of natural phenomena that\nmilk in it's pure form is now pow\nder, nor do eggs come neatly\nstacked in cartons.\n\n\nModern housewives have\ncaused new and simpler methods\nof food preparation and service\nto be devised. They have insis-\nted on instant potatoes, powdered\neggs, sugar substitute and ~\ndinners.\n\n\nSince the turn of the twentieth\ncentury-more and more, persons\nhave moved from the farms to\nthe city--but we still depend on\nthe farms for our foodstuffs.\n\n\nThere are more larger farms\nnow but their ia SKIS are greater.\nThere are more individuals to\nfeed and more ways of shipping\nproducts across the nation.\n\n\nIa stes in foods are no longer\nlocalized. Some per sons who\ngrew up in the pre-piggyback\nshipping days never knew of the\nfruitless and even gritless meals.\n\n\nAS committee of one | will\nbegin a campaign to bring the\nfarm back TO America. My group\nwill be called the BBAF bring\nBack American Farms). At least\none small scale farm should be\nplaced in each large city, per-\nhaps, it could serve S the CEN\nter of urban renewal plans. Then\nwe could all go down on the farm\nwhen we shopped upt own or down\ntown.\n\n\nThe next time you break an egg\nor quaff glass of milk--pause\nand give thanks that all of this\nwas produced and brought to you\nthrough the efforts of our free\nfarmers-who though subsidized\nare not collectivized.\n\n\nREAD WELL BEFORE USINGl",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2148,
+                    "y0": 277,
+                    "x1": 2929,
+                    "y1": 607
+                },
+                {
+                    "x0": 2096,
+                    "y0": 612,
+                    "x1": 2935,
+                    "y1": 4738
+                }
+            ],
+            "bbox": [
+                2096,
+                277,
+                2935,
+                4738
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-27_pna_sn84021918_0041421695A_1964112701_0644.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "search ana LeSC-\ning, and costs\n\n\nfrom 81 to SO\nmillion, for a\nchemical COM\npany to acquire\nthe scientific\nevidence re-\nquired to quail",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2553,
+                    "y0": 5112,
+                    "x1": 2924,
+                    "y1": 5524
+                }
+            ],
+            "bbox": [
+                2553,
+                5112,
+                2924,
+                5524
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-11-27_pna_sn84021918_0041421695A_1964112701_0644.json"
+        },
+        {
+            "object_ids": [
+                22,
+                13,
+                9
+            ],
+            "headline": "READ WELL BEFORE USINCI",
+            "article": "The most expensive words\nyou'll ever read are those on\nhousehold chemical and insecti-\neide labels. They're some of the\nmost important words, too.\n\n\n1t takes five or six years Of re-",
+            "byline": "are not collectivized.",
+            "bbox_list": [
+                {
+                    "x0": 2114,
+                    "y0": 4627,
+                    "x1": 2877,
+                    "y1": 4674
+                },
+                {
+                    "x0": 2131,
+                    "y0": 4679,
+                    "x1": 2912,
+                    "y1": 4755
+                },
+                {
+                    "x0": 2114,
+                    "y0": 4800,
+                    "x1": 2924,
+                    "y1": 5102
+                }
+            ],
+            "bbox": [
+                2114,
+                4627,
+                2924,
+                5102
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-11-27_pna_sn84021918_0041421695A_1964112701_0644.json"
+        },
+        {
+            "object_ids": [
+                21,
+                20,
+                12,
+                11
+            ],
+            "headline": "HOOVER IS HEARD",
+            "article": "Re cent remarks made by j. Edgar Hoover,\n20 years old, dire ctov of the Federal Bureau\nof Mves tigation, stating that Dr.. Martin\nLuther King, JY., noted ciVil rights leader,\nuas q liar created shock throughout the nation.\n\n\nDr.. King has been one Of the most popular\nNegro figures IN the current de c0de. HIS\npopularity no doubt exceeds that accredited\nto the heavyweight champion Joe Louis, at\nthe height of his fistic career.\n\n\nAs the re cent uOinneY Of the Nobel Prize\nfor his contributions to peace and leader\nship, Dr.. King, has received ntevuatiotaal\nacclaim, plus the blauditS at home.\n\n\nHis courage during the southern crises\nand his foYsOaYd abbyo0 oh has stirred men\nin all walks Of life to heed the cries Of the\nrace which has suffered ineqaaa titles for\nhundreds of years.\n\n\nDr. King charged that FBI officers often\nignored Negroes in southern racial incidents\nand that they weye not putting forth all\nefforts to SOlUe kidnabbings and nauvde rings\nOF the coloyed people.\n\n\nms charges brought bitter yetoyts from\nq. Edgar Hoover, sOb0 has headed the hzgh-\nest Ian enforcement agency in the nation\nunder four presidents. Perhaps, this long\nterm Of service is showing its strain on the\nFBI dire ct0Y, who according to trends in\nbusiness and industry, is past retirement\nage.\n\n\nThe head Of the FBI has high standards to\nuphold and he should never make rash and\nsenSelesS statements. For many years\nHoover has been Yega yded with vesbect and\nand these years of service should not end\non such sour notes.\n\n\nDr.. King has been involved in many\n0NtiSp0T0ONfiOu 111Oa,o 1uontS 0nI bSc n.ohon4.\nnot he0TS0y. There are others who doubt\nthe total action Of the FBI esbe cially since\nthe disappearance or death of more than\ndozen Negroes in the deep South during\nthe last Is months.",
+            "byline": "VOL. 7, NO. 20\n\nmis Rswspspes 10 Q @s@Asv u\n1 NEwspAptRs ASSOCIATION\nEes eeesesv Psb,se Ssvvtes",
+            "bbox_list": [
+                {
+                    "x0": 924,
+                    "y0": 756,
+                    "x1": 1485,
+                    "y1": 827
+                },
+                {
+                    "x0": 571,
+                    "y0": 1554,
+                    "x1": 1104,
+                    "y1": 1711
+                },
+                {
+                    "x0": 635,
+                    "y0": 1825,
+                    "x1": 1601,
+                    "y1": 1988
+                },
+                {
+                    "x0": 288,
+                    "y0": 2022,
+                    "x1": 2016,
+                    "y1": 5986
+                }
+            ],
+            "bbox": [
+                288,
+                756,
+                2016,
+                5986
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-11-27_pna_sn84021918_0041421695A_1964112701_0644.json"
+        }
+    ]
+}

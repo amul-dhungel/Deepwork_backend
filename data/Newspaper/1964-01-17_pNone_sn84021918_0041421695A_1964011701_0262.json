@@ -1,0 +1,672 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7403,
+        "width": 4880,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011701/0262.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2914,
+                "y0": 2816,
+                "x1": 4621,
+                "y1": 4656
+            },
+            "class": "article",
+            "raw_text": "the federal which and decide certain civil\ninvolving $4,000 rule they between\ncitizens of Of and foreign land\n\n\nBesides, federal hear civil and criminal\ninvolving law bankruptcy Interstate Commerce Commission\norders and actions under antitrust laws patents copyrights\npostal and federal\nelection disputes, nzsNA IA\n\n\nSometimes and federal have handle the\nsuch admitting aliens citizenship IN rarecases the\nU.S. Supreme Court will hold that the federal\nhas preemped aken over held and the\nbe heard in the other courts.\n\n\nwhich takes when lawsuit start In both\nand either could decide IT'D\n\n\nAS rule the which first takes to try the case\nis the that Is entitled to settle IT. n.\n\n\ndifferent and federal courts with\nOverlapping Jurisdiction either ahead until renders\n\n\ndecision. Then that takes for all the questions\nsettled The other questions may enbe kenup the other court\n\n\nThus sometimes injured who could sue In either\nfederal may choose for damages In the state\nBut the time under federal admiralty rules the ship\nowner may federal limit his liability.\n\n\nWith such systems you likely get into some tanges\nwhich should settle the the relation between\nthe and the federal government is complex\n\n\nThis legal column issued public service under superN-\nthe State Bar of Arizona and is written inform\nadvised",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2995,
+                "y0": 2672,
+                "x1": 3829,
+                "y1": 2782
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2902,
+                "y0": 1023,
+                "x1": 4615,
+                "y1": 2088
+            },
+            "class": "article",
+            "raw_text": "Not by stretch OF the imagination\nugly head of segregation white\nMason-Dixon Line.\n\n\nIn the latest issue Of Time Magazine readers their feelings\nthe magazines choice Luther King r..\nMan Of the Year. --.,-,7--, g,.r.a,.-a -\n\n\nfrom many in this country and from\nabroad equal Of issenters\nseveral of favorable the choice Of\nDr. King lived outside Of the Deep South. -5f\n\n\nThe editors of Time Magazine have openly shown the for\nother media halt their sided\noutstanding Negroes There be reaizaonby other editors\nthat all stories Negroes need based\nimplications but rather the worness and\n\n\nness Dr. King choice shows that American ournmis coming\nleast outstanding Negro athlete entertainer was\nselected ~ -&",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3446,
+                "y0": 312,
+                "x1": 4563,
+                "y1": 770
+            },
+            "class": "headline",
+            "raw_text": "Views, PREVENTS\nAjvO REVIEWS. S. a :.\n\n\nEdward Banks o.17 fsta",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -3
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3671,
+                "y0": 688,
+                "x1": 4204,
+                "y1": 770
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2960,
+                "y0": 838,
+                "x1": 4216,
+                "y1": 989
+            },
+            "class": "headline",
+            "raw_text": "NOT ALL DIXIE PERSONS AGAINST\n\n\nMARTIN LUTHER KING HONOR",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 219,
+                "y0": 6547,
+                "x1": 1035,
+                "y1": 7056
+            },
+            "class": "article",
+            "raw_text": "Playing chess by mail is old\nstuff, but now they're bowling by\ntransatlantic telephone. A Chi\ncago champion took a one-game\nmatch with an opponent in Bir-\nmingham, England. The phone\nhook-up was tied into public adj\ndress systems at both locations\nso spectators could follow the\nmatch, even hearing the pins fall.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 224,
+                "y0": 6350,
+                "x1": 729,
+                "y1": 6449
+            },
+            "class": "headline",
+            "raw_text": "HOBBY NEWS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3804,
+                "y0": 2244,
+                "x1": 4632,
+                "y1": 2609
+            },
+            "class": "article",
+            "raw_text": "be on hand at the top to hand\nhim a pack Of cool, clean Cough\ncough). cigarettes. What the. IA\ntigued climber would utrer-would\nend all smoking commercials\nfrom here to Winston-Salem.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3376,
+                "y0": 2139,
+                "x1": 4199,
+                "y1": 2227
+            },
+            "class": "headline",
+            "raw_text": "SIGHTS - CONTINUED",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2920,
+                "y0": 2255,
+                "x1": 3742,
+                "y1": 2580
+            },
+            "class": "article",
+            "raw_text": "Did anyone ask the chief re-\nsearcher Of the government staff\nwhat brand he preferred7\n\n\nThe next time some hardy soul\nclimbs Mt. Everest-let the guide",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1069,
+                "y0": 6315,
+                "x1": 1891,
+                "y1": 7091
+            },
+            "class": "article",
+            "raw_text": "Experienced model builders\nlike to come up with something\nunique by combining parts from\nseveral different kits. The 1884\nFord kit produced by Monogram\nforms the basis for custom-built\ncompetition coupe. Chop the top\nand add the rear wheels and tires\nand the four wheel covers from\nMonogram's Black Widow kit.\nFinish up with the nose section,\nradiator grill, door handles, push\nbar and racing numbers from the\nMidget Racer. Warning: when\nyou combine kits, be sure they're\nall in the same scale.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1988,
+                "y0": 665,
+                "x1": 2828,
+                "y1": 6189
+            },
+            "class": "article",
+            "raw_text": "and a cigarette clenched between\nhis or her teeth, Mr.. Mrs, or\nMiss America waited for some\nlong awaited tobacco findings\nfrom the federal health agency.\n\n\nAS If we we're ignorant of the\ncauses of many coughs and res\npiratory ailments, the federal re-\nport was made public. News re-\nporters gave the smokers a puff\nby puff summary. Some Of the\nreporters were at the time being\npaid by purveyors of the very\nweeds they we're denouncing.\n\n\nSmokers Of cigarettes we're\nwarned that they are literally\nsmoking their paths into early\ndepartures from this world. Some\nscientists say smokers lives are\nshortened by eight years in COM\nparison to non smokers. Cigar\ncites contain harmful tars and\nnicotine and naturally the haze\nof smoke Is hardly good for what\nails you.\n\n\nMy husband and ! have fol-\nlowed the anti-smoking campaign\nlaunched by the British govern\nment. All reports show that in\nspite of an active all out drive\nagainst the demon weeds\nwrapped in understanding re-\nmains at a terrific pace in Great\nBritain.\n\n\nIn the United States smoking\ncigarettes have evolved from the\nsmoking parlor to the living\nroom, yea. the bedroom. Cigar\ncites have been glamorized as\nherman s pride and a sexy fe-\nmales desire.\n\n\nThe shredded leaves are mixed\nand blended to suit not only a\nsultan s palate, but also to fit\na business executive S taste. Gig\ngies have been renamed from\nlowly animal (camel) to the high\nsounding Marlboro. Even a clean\ntaste Is suggested by Spring and\nLucky Strike is seldom heard\nas often as Winston or Kool.\n\n\nCigarette manufacturers\nrushed headlong into a filter\ngame. They produced menthol\nones. They turned out filter\nones. Some used tiny spirals of\nclean paper, others used web\nfibers--all we're trying to make\ntheir products clinically pure.\n\n\nFilters we're put up front, fill\ntiers we're brown, filters we're\nrecessed, but the final ingred-\nient--tobacco was changed very\nlittle.\n\n\nWhen Carrie Nation and others\nwe're fighting John Barleycorn-\nan insidious little product--a Gig\narctic was putting its way into\nthe American way Of life. AS\nwomen gained equal status, they\nadopted the light and puff rou-\ntines of the male smokers. Wom-\nen- have without a doubt caused\nthe cigarette industry to flourish.\n\n\nPipe smokers Jared better in\nthe government report. Cigar\nbuffers also we're given little\nspace. The snuff dippers or\nbrushers rated nothing.\n\n\nBetween the cigarette smok-\ners, the exhaust from automo-\nbiles and the fumes from indus\ntrial plants there Is little hope\nfor an end to the evergrowing\nsmog problem. Smokers are here\n70 stay\n\n\nRegardless of the govern\nment s report or the attempts to\nhalt the million dollar tobacco\nindustry from finding more ways\nOf enticing more smokers an\nnually--the huffing and putting\nwill continue. 1t will remain a",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2017,
+                "y0": 237,
+                "x1": 2816,
+                "y1": 348
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2017,
+                "y0": 381,
+                "x1": 2602,
+                "y1": 585
+            },
+            "class": "headline",
+            "raw_text": "ELOIsE BANKS\n\n\nTO SMOKE OR\nNOT TO SMOKE",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 195,
+                "y0": 4060,
+                "x1": 1914,
+                "y1": 6310
+            },
+            "class": "article",
+            "raw_text": "For too many years the State Department\nhas seemingly gtven priority to American\nforeign policy and programs In Europe and\nthen Asia. There is much trouble bTe1Oing\ncloser to home again.\n\n\nFirst cuba Vos causing the United States\nto sQuiYna and nOaO it is another small country\nwhich is causing us anxious moments.\n\n\nPanama occupies q unique position IN the\nhistory Of this country. Through the Canal\nZones, which aOas leased on a hn1itleSS plan,\nthe United States is a virtual 0uvaeY Of part\nOF foreign nation.\n\n\nFor several years the leaders Of Panama\nhaze objected to U0YiOuS measures of flag\nflying and protocol. other obje ctions concern\ning equal pay Of Panananiaas and Americans\nengaged in our governmental or the Canal\nZone projects we're loudly Voiced\n\n\nRioting caused by q flag raising episode by\nAmerican students resulted In several deaths\nand q major crisis once more faces us in this\nhemisphere. 1t IS time for our president and\nsecretary of state to apply some international\nrelations tie claniques TOWARD the Latin AnaeYi\ncan countries.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 190,
+                "y0": 3846,
+                "x1": 1446,
+                "y1": 4014
+            },
+            "class": "headline",
+            "raw_text": "TROUBLE IN PANAMA",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 172,
+                "y0": 2151,
+                "x1": 1937,
+                "y1": 3795
+            },
+            "class": "article",
+            "raw_text": "The dilemma acing the school districts Of\nArizona has reached the illustration point. The\nschools enrolment esbe cially in MaTicob0 and\nPima counties are suybasS sing all predictions.\nTaxbaying property Owners in some Of the\nschool districts haze been taxed until they\nare at the point of rebellion.\n\n\nThere has been a tukeWaTW effort every\nlegis lathe year for some while to TeU0mb\nthe states tax assessment program and ale\nmate the property Owners. Each session sees\nnothing formulate but more proposals ON top of\nold ones.\n\n\nA sound tax equalization tax program wos\none of the five major items announced by Co..\nPaul Fan,ain in his opening address, to the ATi-\nzo,sa Legis latuye. Let US push the tax eQa0h-\ncation program this year until a successful\nformula is found.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 195,
+                "y0": 1914,
+                "x1": 1457,
+                "y1": 2088
+            },
+            "class": "headline",
+            "raw_text": "TAX PROBLEMS FIRST",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 230,
+                "y0": 803,
+                "x1": 1822,
+                "y1": 1840
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, PuHL,sHER-EDIToR\n\n\nELOISE BANKS, assistant EDITOR\n\n\nBOBBY HEARD, STAFF PHOTOGRAPHER\n\n\nEsTAsL IsHED 10,\n\n\nTHURSDAY\n\n\nBANKS COMPANY INC\n\n\nBROADWAY\n\n\nPHOENIX, AR FIONA ssozo YR.\nSECOND CLASS POSTAGE PAID PHOENIX ARIZONA\nTALL THAT 10 NEEDED TO\nOF OUR TIMES 10 TO DO JUSTICE FREEDOM \"\n~ Newspaper . msmt~~ NATIONAL PREsENTAT\nApI166I NrwspApRs ASSOCIATION AMALGAMATEp\ny rs c,u,. Public serts MADISON\nNEW YORK N.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 224,
+                "y0": 266,
+                "x1": 1868,
+                "y1": 723
+            },
+            "class": "headline",
+            "raw_text": "{@rthuttf",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -2
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 791,
+                "y0": 740,
+                "x1": 1353,
+                "y1": 822
+            },
+            "class": "headline",
+            "raw_text": "VOL 6, NO. II",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964011701_0262",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "Discussing Arizona Law",
+            "article": "the federal which and decide certain civil\ninvolving $4,000 rule they between\ncitizens of Of and foreign land\n\n\nBesides, federal hear civil and criminal\ninvolving law bankruptcy Interstate Commerce Commission\norders and actions under antitrust laws patents copyrights\npostal and federal\nelection disputes, nzsNA IA\n\n\nSometimes and federal have handle the\nsuch admitting aliens citizenship IN rarecases the\nU.S. Supreme Court will hold that the federal\nhas preemped aken over held and the\nbe heard in the other courts.\n\n\nwhich takes when lawsuit start In both\nand either could decide IT'D\n\n\nAS rule the which first takes to try the case\nis the that Is entitled to settle IT. n.\n\n\ndifferent and federal courts with\nOverlapping Jurisdiction either ahead until renders\n\n\ndecision. Then that takes for all the questions\nsettled The other questions may enbe kenup the other court\n\n\nThus sometimes injured who could sue In either\nfederal may choose for damages In the state\nBut the time under federal admiralty rules the ship\nowner may federal limit his liability.\n\n\nWith such systems you likely get into some tanges\nwhich should settle the the relation between\nthe and the federal government is complex\n\n\nThis legal column issued public service under superN-\nthe State Bar of Arizona and is written inform\nadvised",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2995,
+                    "y0": 2672,
+                    "x1": 3829,
+                    "y1": 2782
+                },
+                {
+                    "x0": 2914,
+                    "y0": 2816,
+                    "x1": 4621,
+                    "y1": 4656
+                }
+            ],
+            "bbox": [
+                2914,
+                2672,
+                4621,
+                4656
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                15,
+                21,
+                13,
+                3
+            ],
+            "headline": "Views, PREVENTS\nAjvO REVIEWS. S. a :.\n\n\nEdward Banks o.17 fsta\n\nNOT ALL DIXIE PERSONS AGAINST\n\n\nMARTIN LUTHER KING HONOR",
+            "article": "Not by stretch OF the imagination\nugly head of segregation white\nMason-Dixon Line.\n\n\nIn the latest issue Of Time Magazine readers their feelings\nthe magazines choice Luther King r..\nMan Of the Year. --.,-,7--, g,.r.a,.-a -\n\n\nfrom many in this country and from\nabroad equal Of issenters\nseveral of favorable the choice Of\nDr. King lived outside Of the Deep South. -5f\n\n\nThe editors of Time Magazine have openly shown the for\nother media halt their sided\noutstanding Negroes There be reaizaonby other editors\nthat all stories Negroes need based\nimplications but rather the worness and\n\n\nness Dr. King choice shows that American ournmis coming\nleast outstanding Negro athlete entertainer was\nselected ~ -&",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3446,
+                    "y0": 312,
+                    "x1": 4563,
+                    "y1": 770
+                },
+                {
+                    "x0": 3671,
+                    "y0": 688,
+                    "x1": 4204,
+                    "y1": 770
+                },
+                {
+                    "x0": 2960,
+                    "y0": 838,
+                    "x1": 4216,
+                    "y1": 989
+                },
+                {
+                    "x0": 2902,
+                    "y0": 1023,
+                    "x1": 4615,
+                    "y1": 2088
+                }
+            ],
+            "bbox": [
+                2902,
+                312,
+                4615,
+                2088
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "HOBBY NEWS",
+            "article": "Playing chess by mail is old\nstuff, but now they're bowling by\ntransatlantic telephone. A Chi\ncago champion took a one-game\nmatch with an opponent in Bir-\nmingham, England. The phone\nhook-up was tied into public adj\ndress systems at both locations\nso spectators could follow the\nmatch, even hearing the pins fall.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 224,
+                    "y0": 6350,
+                    "x1": 729,
+                    "y1": 6449
+                },
+                {
+                    "x0": 219,
+                    "y0": 6547,
+                    "x1": 1035,
+                    "y1": 7056
+                }
+            ],
+            "bbox": [
+                219,
+                6350,
+                1035,
+                7056
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                12,
+                5
+            ],
+            "headline": "SIGHTS - CONTINUED",
+            "article": "be on hand at the top to hand\nhim a pack Of cool, clean Cough\ncough). cigarettes. What the. IA\ntigued climber would utrer-would\nend all smoking commercials\nfrom here to Winston-Salem.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3376,
+                    "y0": 2139,
+                    "x1": 4199,
+                    "y1": 2227
+                },
+                {
+                    "x0": 3804,
+                    "y0": 2244,
+                    "x1": 4632,
+                    "y1": 2609
+                }
+            ],
+            "bbox": [
+                3376,
+                2139,
+                4632,
+                2609
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Did anyone ask the chief re-\nsearcher Of the government staff\nwhat brand he preferred7\n\n\nThe next time some hardy soul\nclimbs Mt. Everest-let the guide",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2920,
+                    "y0": 2255,
+                    "x1": 3742,
+                    "y1": 2580
+                }
+            ],
+            "bbox": [
+                2920,
+                2255,
+                3742,
+                2580
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Experienced model builders\nlike to come up with something\nunique by combining parts from\nseveral different kits. The 1884\nFord kit produced by Monogram\nforms the basis for custom-built\ncompetition coupe. Chop the top\nand add the rear wheels and tires\nand the four wheel covers from\nMonogram's Black Widow kit.\nFinish up with the nose section,\nradiator grill, door handles, push\nbar and racing numbers from the\nMidget Racer. Warning: when\nyou combine kits, be sure they're\nall in the same scale.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1069,
+                    "y0": 6315,
+                    "x1": 1891,
+                    "y1": 7091
+                }
+            ],
+            "bbox": [
+                1069,
+                6315,
+                1891,
+                7091
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                16,
+                11,
+                10
+            ],
+            "headline": "Sights and Sounds\n\nELOIsE BANKS\n\n\nTO SMOKE OR\nNOT TO SMOKE",
+            "article": "and a cigarette clenched between\nhis or her teeth, Mr.. Mrs, or\nMiss America waited for some\nlong awaited tobacco findings\nfrom the federal health agency.\n\n\nAS If we we're ignorant of the\ncauses of many coughs and res\npiratory ailments, the federal re-\nport was made public. News re-\nporters gave the smokers a puff\nby puff summary. Some Of the\nreporters were at the time being\npaid by purveyors of the very\nweeds they we're denouncing.\n\n\nSmokers Of cigarettes we're\nwarned that they are literally\nsmoking their paths into early\ndepartures from this world. Some\nscientists say smokers lives are\nshortened by eight years in COM\nparison to non smokers. Cigar\ncites contain harmful tars and\nnicotine and naturally the haze\nof smoke Is hardly good for what\nails you.\n\n\nMy husband and ! have fol-\nlowed the anti-smoking campaign\nlaunched by the British govern\nment. All reports show that in\nspite of an active all out drive\nagainst the demon weeds\nwrapped in understanding re-\nmains at a terrific pace in Great\nBritain.\n\n\nIn the United States smoking\ncigarettes have evolved from the\nsmoking parlor to the living\nroom, yea. the bedroom. Cigar\ncites have been glamorized as\nherman s pride and a sexy fe-\nmales desire.\n\n\nThe shredded leaves are mixed\nand blended to suit not only a\nsultan s palate, but also to fit\na business executive S taste. Gig\ngies have been renamed from\nlowly animal (camel) to the high\nsounding Marlboro. Even a clean\ntaste Is suggested by Spring and\nLucky Strike is seldom heard\nas often as Winston or Kool.\n\n\nCigarette manufacturers\nrushed headlong into a filter\ngame. They produced menthol\nones. They turned out filter\nones. Some used tiny spirals of\nclean paper, others used web\nfibers--all we're trying to make\ntheir products clinically pure.\n\n\nFilters we're put up front, fill\ntiers we're brown, filters we're\nrecessed, but the final ingred-\nient--tobacco was changed very\nlittle.\n\n\nWhen Carrie Nation and others\nwe're fighting John Barleycorn-\nan insidious little product--a Gig\narctic was putting its way into\nthe American way Of life. AS\nwomen gained equal status, they\nadopted the light and puff rou-\ntines of the male smokers. Wom-\nen- have without a doubt caused\nthe cigarette industry to flourish.\n\n\nPipe smokers Jared better in\nthe government report. Cigar\nbuffers also we're given little\nspace. The snuff dippers or\nbrushers rated nothing.\n\n\nBetween the cigarette smok-\ners, the exhaust from automo-\nbiles and the fumes from indus\ntrial plants there Is little hope\nfor an end to the evergrowing\nsmog problem. Smokers are here\n70 stay\n\n\nRegardless of the govern\nment s report or the attempts to\nhalt the million dollar tobacco\nindustry from finding more ways\nOf enticing more smokers an\nnually--the huffing and putting\nwill continue. 1t will remain a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2017,
+                    "y0": 237,
+                    "x1": 2816,
+                    "y1": 348
+                },
+                {
+                    "x0": 2017,
+                    "y0": 381,
+                    "x1": 2602,
+                    "y1": 585
+                },
+                {
+                    "x0": 1988,
+                    "y0": 665,
+                    "x1": 2828,
+                    "y1": 6189
+                }
+            ],
+            "bbox": [
+                1988,
+                237,
+                2828,
+                6189
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                18,
+                14
+            ],
+            "headline": "TROUBLE IN PANAMA",
+            "article": "For too many years the State Department\nhas seemingly gtven priority to American\nforeign policy and programs In Europe and\nthen Asia. There is much trouble bTe1Oing\ncloser to home again.\n\n\nFirst cuba Vos causing the United States\nto sQuiYna and nOaO it is another small country\nwhich is causing us anxious moments.\n\n\nPanama occupies q unique position IN the\nhistory Of this country. Through the Canal\nZones, which aOas leased on a hn1itleSS plan,\nthe United States is a virtual 0uvaeY Of part\nOF foreign nation.\n\n\nFor several years the leaders Of Panama\nhaze objected to U0YiOuS measures of flag\nflying and protocol. other obje ctions concern\ning equal pay Of Panananiaas and Americans\nengaged in our governmental or the Canal\nZone projects we're loudly Voiced\n\n\nRioting caused by q flag raising episode by\nAmerican students resulted In several deaths\nand q major crisis once more faces us in this\nhemisphere. 1t IS time for our president and\nsecretary of state to apply some international\nrelations tie claniques TOWARD the Latin AnaeYi\ncan countries.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 190,
+                    "y0": 3846,
+                    "x1": 1446,
+                    "y1": 4014
+                },
+                {
+                    "x0": 195,
+                    "y0": 4060,
+                    "x1": 1914,
+                    "y1": 6310
+                }
+            ],
+            "bbox": [
+                190,
+                3846,
+                1914,
+                6310
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                22,
+                19
+            ],
+            "headline": "TAX PROBLEMS FIRST",
+            "article": "The dilemma acing the school districts Of\nArizona has reached the illustration point. The\nschools enrolment esbe cially in MaTicob0 and\nPima counties are suybasS sing all predictions.\nTaxbaying property Owners in some Of the\nschool districts haze been taxed until they\nare at the point of rebellion.\n\n\nThere has been a tukeWaTW effort every\nlegis lathe year for some while to TeU0mb\nthe states tax assessment program and ale\nmate the property Owners. Each session sees\nnothing formulate but more proposals ON top of\nold ones.\n\n\nA sound tax equalization tax program wos\none of the five major items announced by Co..\nPaul Fan,ain in his opening address, to the ATi-\nzo,sa Legis latuye. Let US push the tax eQa0h-\ncation program this year until a successful\nformula is found.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 195,
+                    "y0": 1914,
+                    "x1": 1457,
+                    "y1": 2088
+                },
+                {
+                    "x0": 172,
+                    "y0": 2151,
+                    "x1": 1937,
+                    "y1": 3795
+                }
+            ],
+            "bbox": [
+                172,
+                1914,
+                1937,
+                3795
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        },
+        {
+            "object_ids": [
+                23,
+                25,
+                24
+            ],
+            "headline": "{@rthuttf\n\nVOL 6, NO. II",
+            "article": "EDWARD BANKS, PuHL,sHER-EDIToR\n\n\nELOISE BANKS, assistant EDITOR\n\n\nBOBBY HEARD, STAFF PHOTOGRAPHER\n\n\nEsTAsL IsHED 10,\n\n\nTHURSDAY\n\n\nBANKS COMPANY INC\n\n\nBROADWAY\n\n\nPHOENIX, AR FIONA ssozo YR.\nSECOND CLASS POSTAGE PAID PHOENIX ARIZONA\nTALL THAT 10 NEEDED TO\nOF OUR TIMES 10 TO DO JUSTICE FREEDOM \"\n~ Newspaper . msmt~~ NATIONAL PREsENTAT\nApI166I NrwspApRs ASSOCIATION AMALGAMATEp\ny rs c,u,. Public serts MADISON\nNEW YORK N.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 224,
+                    "y0": 266,
+                    "x1": 1868,
+                    "y1": 723
+                },
+                {
+                    "x0": 791,
+                    "y0": 740,
+                    "x1": 1353,
+                    "y1": 822
+                },
+                {
+                    "x0": 230,
+                    "y0": 803,
+                    "x1": 1822,
+                    "y1": 1840
+                }
+            ],
+            "bbox": [
+                224,
+                266,
+                1868,
+                1840
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-01-17_pna_sn84021918_0041421695A_1964011701_0262.json"
+        }
+    ]
+}

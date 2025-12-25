@@ -1,0 +1,99 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7408,
+        "width": 4888,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-30",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0613.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1952,
+                "y0": 2552,
+                "x1": 2786,
+                "y1": 3872
+            },
+            "class": "article",
+            "raw_text": "A branch office of the Maricopa\nCounty Unit of the American Can\nGER Society was opened Oct. 13\nat 800 S. Seventh Ave.\n\n\n1t will be open Tuesdays and\nThur sdays l to 4 PM, tt. Nc\nDaniel, executive secretary of the\ncounty unit, said.\n\n\n\"This new office is being es-\ntablished as a service to those\nwho find it difficult or incon-\nvenient to come to our office at\n400 N. 18th St. in Phoenix\"\nMcdaniel explained.\n\n\n1t will provide services to the\ncancer patient or his family,\nwhich includes supplying sick\nroom items from the unit S loan\ncloset; distribution of free litera-\nture concerning cancer, and will\nfunction generally in whatever\nway it can be of assistance.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1957,
+                "y0": 2390,
+                "x1": 2798,
+                "y1": 2524
+            },
+            "class": "headline",
+            "raw_text": "CANCER UNIT OPENED",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964103001_0613",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "CANCER UNIT OPENED",
+            "article": "A branch office of the Maricopa\nCounty Unit of the American Can\nGER Society was opened Oct. 13\nat 800 S. Seventh Ave.\n\n\n1t will be open Tuesdays and\nThur sdays l to 4 PM, tt. Nc\nDaniel, executive secretary of the\ncounty unit, said.\n\n\n\"This new office is being es-\ntablished as a service to those\nwho find it difficult or incon-\nvenient to come to our office at\n400 N. 18th St. in Phoenix\"\nMcdaniel explained.\n\n\n1t will provide services to the\ncancer patient or his family,\nwhich includes supplying sick\nroom items from the unit S loan\ncloset; distribution of free litera-\nture concerning cancer, and will\nfunction generally in whatever\nway it can be of assistance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1957,
+                    "y0": 2390,
+                    "x1": 2798,
+                    "y1": 2524
+                },
+                {
+                    "x0": 1952,
+                    "y0": 2552,
+                    "x1": 2786,
+                    "y1": 3872
+                }
+            ],
+            "bbox": [
+                1952,
+                2390,
+                2798,
+                3872
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-30_pna_sn84021918_0041421695A_1964103001_0613.json"
+        }
+    ]
+}

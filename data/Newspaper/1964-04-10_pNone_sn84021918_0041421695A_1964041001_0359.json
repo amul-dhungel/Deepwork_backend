@@ -1,0 +1,449 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4887,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-10",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041001/0359.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2686,
+                "y0": 590,
+                "x1": 3504,
+                "y1": 1698
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA Sixty-nine\npersons we're arrested during\ncivil rights demonstration in\nChester. a suburg of Philadel-\nphia.\n\n\nBonds and fines of $l25,O 900\nwere set and many we're forced\nto remain in jail because funds\nwere not available.\n\n\nPhillip Savage, Tri State\nNAACP secretary said tactics\nbeing used in Chester we're just\nlike those employed in the deep\nSouth.\n\n\nDemonstrators complained\nthey we're guarded by dogs at\nthe Armory Hall and they we're\nnot allowed to make telephone\ncalls or have legal advice.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2710,
+                "y0": 359,
+                "x1": 3186,
+                "y1": 545
+            },
+            "class": "headline",
+            "raw_text": "50 JAILED IN\nPHILAD ELPHIA",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3584,
+                "y0": 533,
+                "x1": 4396,
+                "y1": 1889
+            },
+            "class": "article",
+            "raw_text": "Marie williams, 40, Of l7l8E.\nBroadway. was shot through the\nmouth after an argument OUT\nside an east side market and\nwas in serious condition at Mar.\nicopa Hospital.\n\n\nHer cousin, Augusta Emmit\nBryant, 46. Of 2542 E. Pueblo.\nwas jailed for investigation Of\nassault with a deadly weapon.\npolice said.\n\n\nWitnesses told police the\nshooting followed an argument\nbetween Bryant and Miss Will\nliams while they sat in a car In\nfront of the AIM Market al\n1905 E. Wood.\n\n\nBryant asked store clerk to\ncall police after the shooting\noccurred. Police said Bryant told\nthem he shot his cousin with .\n32-caliber pistol after she\nthreatened him with a razor.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3596,
+                "y0": 359,
+                "x1": 4031,
+                "y1": 516
+            },
+            "class": "headline",
+            "raw_text": "WON On Shot\nBy Cousin",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2721,
+                "y0": 1842,
+                "x1": 3539,
+                "y1": 2550
+            },
+            "class": "article",
+            "raw_text": "LAS VEGAS Pearl Bailey is\nrecovering from foot injury and\nit is costing her $4,000.\n\n\nMiss Bailey a main attraction\nat Las Vegas cut her foot on\na piece of glass and it has\nhealed slowly.\n\n\nHer husband. Louis Bellson\ncancelled his eastern tour and re-\nturned to Nevada. The couple has\na plush home in Apple Valley.\nCalifornia.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2715,
+                "y0": 1726,
+                "x1": 3412,
+                "y1": 1820
+            },
+            "class": "headline",
+            "raw_text": "Pearl Has Sore Foot",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 62,
+                "y0": 2242,
+                "x1": 1731,
+                "y1": 2921
+            },
+            "class": "article",
+            "raw_text": "members of the Tawanka Mnnehaha Camp Fire\nthe annual MoterDaughter banquet held\nRio Vista School last Friday\n\n\nFront shows leaders Mesdames Pauline Edwards Opal\nGriffin Miss Ruby Brown Mines. Mamie Owens, Pearl Owens\nand l.. Lewis.\n\n\nTerry Robbins Linda Conner Brenda Hankn Pamela Steed Betty\nOvens Karen Powers Gwenoyn Griffin Lecia Lewis Third\nSanra Edwards Joce Lewis Phyllis Banead Cordea Hoins\nJenise Wyatt Dorothy Ealim and Henrietta Lewis.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 73,
+                "y0": 3105,
+                "x1": 880,
+                "y1": 3303
+            },
+            "class": "article",
+            "raw_text": "Orange \"rustlers\" in Florida\nmake off with So million worth\nof fruit a year.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 68,
+                "y0": 2954,
+                "x1": 712,
+                "y1": 3065
+            },
+            "class": "headline",
+            "raw_text": "Facts To Know",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3590,
+                "y0": 1923,
+                "x1": 4408,
+                "y1": 2109
+            },
+            "class": "article",
+            "raw_text": "Movie attendance in Russia\nis 3.4 billion people year (com-\npared with 2.2 billion in the u So",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 954,
+                "y0": 3047,
+                "x1": 1766,
+                "y1": 3286
+            },
+            "class": "article",
+            "raw_text": "Two thirds of all bank en-\nployes are women. for a total\nof $4,000, of whom 1900 are\nofficers.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1835,
+                "y0": 2242,
+                "x1": 2653,
+                "y1": 3199
+            },
+            "class": "article",
+            "raw_text": "Eurtho Wins Divorce\n\n\nSANTA MONICA. Calf. Ear\ntina Kit won an unc ontested d.\nvorce from her realtor husband,\nWilliam Mcdonald.\n\n\nMcdonald, white, and Miss\nKit, we'll known Negro actress\nand singer we're married in 1860.\nThey have one child, a two yr.\nold daughter.\n\n\nMiss Kilt said Mcdonald &C\ncused her of having affairs when\nshe was on tour. He was ordered\nto pay $500 monthly support for\ntheir daughter.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1829,
+                "y0": 2219,
+                "x1": 2537,
+                "y1": 2330
+            },
+            "class": "headline",
+            "raw_text": "Eurtho Wins Divorce",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041001_0359",
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "50 JAILED IN\nPHILAD ELPHIA",
+            "article": "PHILADELPHIA Sixty-nine\npersons we're arrested during\ncivil rights demonstration in\nChester. a suburg of Philadel-\nphia.\n\n\nBonds and fines of $l25,O 900\nwere set and many we're forced\nto remain in jail because funds\nwere not available.\n\n\nPhillip Savage, Tri State\nNAACP secretary said tactics\nbeing used in Chester we're just\nlike those employed in the deep\nSouth.\n\n\nDemonstrators complained\nthey we're guarded by dogs at\nthe Armory Hall and they we're\nnot allowed to make telephone\ncalls or have legal advice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2710,
+                    "y0": 359,
+                    "x1": 3186,
+                    "y1": 545
+                },
+                {
+                    "x0": 2686,
+                    "y0": 590,
+                    "x1": 3504,
+                    "y1": 1698
+                }
+            ],
+            "bbox": [
+                2686,
+                359,
+                3504,
+                1698
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "WON On Shot\nBy Cousin",
+            "article": "Marie williams, 40, Of l7l8E.\nBroadway. was shot through the\nmouth after an argument OUT\nside an east side market and\nwas in serious condition at Mar.\nicopa Hospital.\n\n\nHer cousin, Augusta Emmit\nBryant, 46. Of 2542 E. Pueblo.\nwas jailed for investigation Of\nassault with a deadly weapon.\npolice said.\n\n\nWitnesses told police the\nshooting followed an argument\nbetween Bryant and Miss Will\nliams while they sat in a car In\nfront of the AIM Market al\n1905 E. Wood.\n\n\nBryant asked store clerk to\ncall police after the shooting\noccurred. Police said Bryant told\nthem he shot his cousin with .\n32-caliber pistol after she\nthreatened him with a razor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3596,
+                    "y0": 359,
+                    "x1": 4031,
+                    "y1": 516
+                },
+                {
+                    "x0": 3584,
+                    "y0": 533,
+                    "x1": 4396,
+                    "y1": 1889
+                }
+            ],
+            "bbox": [
+                3584,
+                359,
+                4396,
+                1889
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "Pearl Has Sore Foot",
+            "article": "LAS VEGAS Pearl Bailey is\nrecovering from foot injury and\nit is costing her $4,000.\n\n\nMiss Bailey a main attraction\nat Las Vegas cut her foot on\na piece of glass and it has\nhealed slowly.\n\n\nHer husband. Louis Bellson\ncancelled his eastern tour and re-\nturned to Nevada. The couple has\na plush home in Apple Valley.\nCalifornia.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2715,
+                    "y0": 1726,
+                    "x1": 3412,
+                    "y1": 1820
+                },
+                {
+                    "x0": 2721,
+                    "y0": 1842,
+                    "x1": 3539,
+                    "y1": 2550
+                }
+            ],
+            "bbox": [
+                2715,
+                1726,
+                3539,
+                2550
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "members of the Tawanka Mnnehaha Camp Fire\nthe annual MoterDaughter banquet held\nRio Vista School last Friday\n\n\nFront shows leaders Mesdames Pauline Edwards Opal\nGriffin Miss Ruby Brown Mines. Mamie Owens, Pearl Owens\nand l.. Lewis.\n\n\nTerry Robbins Linda Conner Brenda Hankn Pamela Steed Betty\nOvens Karen Powers Gwenoyn Griffin Lecia Lewis Third\nSanra Edwards Joce Lewis Phyllis Banead Cordea Hoins\nJenise Wyatt Dorothy Ealim and Henrietta Lewis.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 62,
+                    "y0": 2242,
+                    "x1": 1731,
+                    "y1": 2921
+                }
+            ],
+            "bbox": [
+                62,
+                2242,
+                1731,
+                2921
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        },
+        {
+            "object_ids": [
+                15,
+                11
+            ],
+            "headline": "Facts To Know",
+            "article": "Orange \"rustlers\" in Florida\nmake off with So million worth\nof fruit a year.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 68,
+                    "y0": 2954,
+                    "x1": 712,
+                    "y1": 3065
+                },
+                {
+                    "x0": 73,
+                    "y0": 3105,
+                    "x1": 880,
+                    "y1": 3303
+                }
+            ],
+            "bbox": [
+                68,
+                2954,
+                880,
+                3303
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Movie attendance in Russia\nis 3.4 billion people year (com-\npared with 2.2 billion in the u So",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3590,
+                    "y0": 1923,
+                    "x1": 4408,
+                    "y1": 2109
+                }
+            ],
+            "bbox": [
+                3590,
+                1923,
+                4408,
+                2109
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Two thirds of all bank en-\nployes are women. for a total\nof $4,000, of whom 1900 are\nofficers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 954,
+                    "y0": 3047,
+                    "x1": 1766,
+                    "y1": 3286
+                }
+            ],
+            "bbox": [
+                954,
+                3047,
+                1766,
+                3286
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        },
+        {
+            "object_ids": [
+                22,
+                18
+            ],
+            "headline": "Eurtho Wins Divorce",
+            "article": "Eurtho Wins Divorce\n\n\nSANTA MONICA. Calf. Ear\ntina Kit won an unc ontested d.\nvorce from her realtor husband,\nWilliam Mcdonald.\n\n\nMcdonald, white, and Miss\nKit, we'll known Negro actress\nand singer we're married in 1860.\nThey have one child, a two yr.\nold daughter.\n\n\nMiss Kilt said Mcdonald &C\ncused her of having affairs when\nshe was on tour. He was ordered\nto pay $500 monthly support for\ntheir daughter.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1829,
+                    "y0": 2219,
+                    "x1": 2537,
+                    "y1": 2330
+                },
+                {
+                    "x0": 1835,
+                    "y0": 2242,
+                    "x1": 2653,
+                    "y1": 3199
+                }
+            ],
+            "bbox": [
+                1829,
+                2219,
+                2653,
+                3199
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-04-10_pna_sn84021918_0041421695A_1964041001_0359.json"
+        }
+    ]
+}

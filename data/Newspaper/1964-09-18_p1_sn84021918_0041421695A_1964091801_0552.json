@@ -1,0 +1,231 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0552.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7402,
+        "width": 4893
+    },
+    "bboxes": [
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3973,
+                "y0": 271,
+                "x1": 4795,
+                "y1": 637
+            },
+            "class": "article",
+            "raw_text": "Yussuf Abdullah. Both are active\nin the National Muslin Protec-\ntive Association of America, an\nextremist sect.\n\n\nA woman, Florence Mobley is\nought as their accomplice. .",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2186,
+                "y0": 474,
+                "x1": 3002,
+                "y1": 1521
+            },
+            "class": "article",
+            "raw_text": "Sharon Boone. 10. daughter\nof Mr.. and Mrs. Daniel Boone,\n413O E. Transmission Road, has\nbeen named Miss Elk of 1864.\n\n\nMiss Boone won her title at\nthe beauty. talent, and fashion\nshow at William H. Patterson\nElks Lodge ATT, at 1907 S. Sew\nenth Ave. The program was\nco-spons ored by Grand Canyon\nTemple 437.\n\n\nFirst runnerup was Glodeen\nWalters, l9. daughter of Mr..\nand Mrs. Earl w. Walters, 927\nS. Ninth Ave. Second runner\nup was Hazel Durham, II, daugh-\nter of Mr.. and Mrs. Tom Dur\nham, 245 S. Morris, Mesa.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2215,
+                "y0": 266,
+                "x1": 2933,
+                "y1": 452
+            },
+            "class": "headline",
+            "raw_text": "Sharon Boone Wins\nElk Crown",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2186,
+                "y0": 1746,
+                "x1": 3008,
+                "y1": 2395
+            },
+            "class": "article",
+            "raw_text": "Women Voters Week has been\nproclaimed Sept. 1919. The\nPhoenix League ofWomen Voters\nurges all women to register and\nvote in the forthcoming general\nelection.\n\n\nMrs. David Krigbaum, local\nleader, said \"Your vote makes a\ndifference. Register before Sept.\n81 to be eligible for the Nov. 8\nelection",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2197,
+                "y0": 1538,
+                "x1": 2777,
+                "y1": 1730
+            },
+            "class": "headline",
+            "raw_text": "WOMEN URGED\nTO VOTE",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3088,
+                "y0": 266,
+                "x1": 3904,
+                "y1": 666
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA Two Negro\nmen were arrested on charges\nof melting a riot in the north\nern section two weeks ago. Ar\nrested we're Abs sinia Hayes, \"a,\nalso called Shaykh Muhammad\nand Raymond Hall. rs, called",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-09-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Yussuf Abdullah. Both are active\nin the National Muslin Protec-\ntive Association of America, an\nextremist sect.\n\n\nA woman, Florence Mobley is\nought as their accomplice. .",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3973,
+                    "y0": 271,
+                    "x1": 4795,
+                    "y1": 637
+                }
+            ],
+            "bbox": [
+                3973,
+                271,
+                4795,
+                637
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-09-18_p1_sn84021918_0041421695A_1964091801_0552.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "Sharon Boone Wins\nElk Crown",
+            "article": "Sharon Boone. 10. daughter\nof Mr.. and Mrs. Daniel Boone,\n413O E. Transmission Road, has\nbeen named Miss Elk of 1864.\n\n\nMiss Boone won her title at\nthe beauty. talent, and fashion\nshow at William H. Patterson\nElks Lodge ATT, at 1907 S. Sew\nenth Ave. The program was\nco-spons ored by Grand Canyon\nTemple 437.\n\n\nFirst runnerup was Glodeen\nWalters, l9. daughter of Mr..\nand Mrs. Earl w. Walters, 927\nS. Ninth Ave. Second runner\nup was Hazel Durham, II, daugh-\nter of Mr.. and Mrs. Tom Dur\nham, 245 S. Morris, Mesa.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2215,
+                    "y0": 266,
+                    "x1": 2933,
+                    "y1": 452
+                },
+                {
+                    "x0": 2186,
+                    "y0": 474,
+                    "x1": 3002,
+                    "y1": 1521
+                }
+            ],
+            "bbox": [
+                2186,
+                266,
+                3002,
+                1521
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-18_p1_sn84021918_0041421695A_1964091801_0552.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "WOMEN URGED\nTO VOTE",
+            "article": "Women Voters Week has been\nproclaimed Sept. 1919. The\nPhoenix League ofWomen Voters\nurges all women to register and\nvote in the forthcoming general\nelection.\n\n\nMrs. David Krigbaum, local\nleader, said \"Your vote makes a\ndifference. Register before Sept.\n81 to be eligible for the Nov. 8\nelection",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2197,
+                    "y0": 1538,
+                    "x1": 2777,
+                    "y1": 1730
+                },
+                {
+                    "x0": 2186,
+                    "y0": 1746,
+                    "x1": 3008,
+                    "y1": 2395
+                }
+            ],
+            "bbox": [
+                2186,
+                1538,
+                3008,
+                2395
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-18_p1_sn84021918_0041421695A_1964091801_0552.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "PHILADELPHIA Two Negro\nmen were arrested on charges\nof melting a riot in the north\nern section two weeks ago. Ar\nrested we're Abs sinia Hayes, \"a,\nalso called Shaykh Muhammad\nand Raymond Hall. rs, called",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3088,
+                    "y0": 266,
+                    "x1": 3904,
+                    "y1": 666
+                }
+            ],
+            "bbox": [
+                3088,
+                266,
+                3904,
+                666
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-09-18_p1_sn84021918_0041421695A_1964091801_0552.json"
+        }
+    ]
+}

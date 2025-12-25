@@ -1,0 +1,770 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7391,
+        "width": 4750,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964010301/0248.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 3801,
+                "y0": 2615,
+                "x1": 4408,
+                "y1": 2761
+            },
+            "class": "article",
+            "raw_text": "I & M BARBER SHOP\nl2O5 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 32,
+            "reading_order_id": 0
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 3783,
+                "y0": 1328,
+                "x1": 4581,
+                "y1": 1612
+            },
+            "class": "article",
+            "raw_text": "HILLS PHOENICIAN\nBEAUTY SHOP\n21'OE. Jefferson\nAL $1,000",
+            "legibility": "Legible",
+            "full_article_id": 33,
+            "reading_order_id": 0
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 3766,
+                "y0": 282,
+                "x1": 4639,
+                "y1": 3020
+            },
+            "class": "article",
+            "raw_text": "CLASSIFIED ADS\nBUSINESS DIRECTORY\nADRIANNE'S BEAUTY SALON\nl4l8E. Washington\n258-O5ll\nALBRTTONS BEAUTY SHOP\nl24O E. Monroe\nAL 1887\nDELOIS' BEAUTY SHOP\nlib w. Grant St. AL 4-0560\nLORETTA'S BEAUTY SHOP\n$50 w. Grant St. 254-07O6\nHILLS PHOENCIAN\nBEAUTY SHOP\n2l'0E. Jefferson\nAL $1,000\n\n\nKOZY COTTAGE BEAUTY SHOP\n1910 w. Sherman St.\nAL 8-O2O6\n\n\nLADY EBONEE BEAUTY\nCENTER, ol7 w. Buckeye Rd.\nALI -2642\n\n\nSOUBLETS BEAUTY SHOP\n2Ol4 E. Broadway BR 6-39o4\nDOUG'S BARBER SHOP\n281l E. Broadway 276-lOOO\nia M BARBER SHOP\n1905 w. Buckeye\nWILLIAMS BARBER SHOP\n1915 S. 18th Ave. AL 8-4228",
+            "legibility": "Legible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 180,
+                "y0": 2840,
+                "x1": 1019,
+                "y1": 4903
+            },
+            "class": "article",
+            "raw_text": "Famous Twelve Club held its\nannual Christmas party at the\npresident s home, l324W. Grant.\nTen dollars was donated to Lone\nStar Baptist Church for needy\nfamily.\n\n\nOfficers include Mrs. Ora\nJackson, president; Clarence\nBasher, vice president; Mrs.\nRoberta Williams, secretary and\nOdessa Morrison, treasurer.\n\n\nMembers of the Lone Star\nBaptist Church played Santa to\nthe children of the church. On\nDec. 81 the party was attended\nby many young people.\n\n\nCommittee members who\nworked hard we're Mesdames\nMacine Williams, Roberta Will\nnams, Lille Mae Hall, Linda\nLacey and Ludella Lacey.\n\n\nMr.. and Mrs. Roosevelt Jones,\n1918 So. l8 Drive, hosted a\ndinner party last week on Dec.\n9th. Guests we're MIR. and Mrs.\nWesley Jackson. MIR. and Mrs.\nJeff Thomas, Mesdames Ora\nJackson, Roberta Williams, and\nMiller Morrison.\n\n\nAlso attending we're Messrs.\nJohn Titles, Willie Choice, Redd\nLove, Jr., Robert Cherry, E.\nDooley and MIR. and Mrs. Albert\nWilliams.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1093,
+                "y0": 2817,
+                "x1": 1925,
+                "y1": 4297
+            },
+            "class": "article",
+            "raw_text": "The King Family held their\nfamily dinner on Christmas Day\nat the Salt River Indian Reser-\nwalton near Scottsdale.\n\n\nA huge IL it. tree was beau\ntifully decorated and over IS\npersons attended. Special guest\nof honor was Daniel King. The\nKing family included Daniel, Nor\nris, Elmo and Josiah King. Two\nsisters are Elizabeth letters and\nLena Blackwater.\n\n\nMany children, grandchildren,\ngreat grandchildren we're there.\nenjoyed the King family outing\nvery much.\n\n\nMrs. Louise Scales is visiting\nfriends at 1922 w. Mohave. She\nlikes our valley SO much that\nshe may spend tthe winter here.\n\n\nMIR. and Mrs. ]. D. Freeman\nof Mesa, we're recent houseguests\nof Rev. and Mrs. c.. V. Nelson,\no13 South Sixth Ave.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 631,
+                "y0": 2638,
+                "x1": 1457,
+                "y1": 2732
+            },
+            "class": "headline",
+            "raw_text": "WE SIDE NOTES",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 631,
+                "y0": 2742,
+                "x1": 1290,
+                "y1": 2801
+            },
+            "class": "author",
+            "raw_text": "BY ORA ia c K s o NJ",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1104,
+                "y0": 4457,
+                "x1": 1925,
+                "y1": 4949
+            },
+            "class": "article",
+            "raw_text": "Mrs. Kermit (Lillian) eagle\nietted to Los Angeles for Christ\nmas. She was accompanied by\nlittle Robin Hunter. They spent\nthree days there.\n\n\nMrs. James (Eliose) Hill spent\nChristmas in Los Angeles visit\ning her daughter and family.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1127,
+                "y0": 4342,
+                "x1": 1844,
+                "y1": 4441
+            },
+            "class": "headline",
+            "raw_text": "COMING AND GOING",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3783,
+                "y0": 3510,
+                "x1": 4610,
+                "y1": 3760
+            },
+            "class": "article",
+            "raw_text": "FOR RENT bedrm. house trail\ner utilities pd., apply at 1905\nE. Washington or 2l6l E. Broad\nway. AL 2-o206.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3812,
+                "y0": 3395,
+                "x1": 4206,
+                "y1": 3488
+            },
+            "class": "headline",
+            "raw_text": "FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3795,
+                "y0": 3060,
+                "x1": 4622,
+                "y1": 3286
+            },
+            "class": "article",
+            "raw_text": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3789,
+                "y0": 3857,
+                "x1": 4627,
+                "y1": 4054
+            },
+            "class": "article",
+            "raw_text": "2 Bedrm. house, SIS mo. close\nin. Water pd. Call after 7:30p.m.\n258-3lO4.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3801,
+                "y0": 1928,
+                "x1": 4633,
+                "y1": 2143
+            },
+            "class": "article",
+            "raw_text": "LADY EBONEE BEAUTY\nCENTER, ol7 w. Buckeye Rd.\nALL -2642",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3807,
+                "y0": 2205,
+                "x1": 4633,
+                "y1": 2362
+            },
+            "class": "article",
+            "raw_text": "SOUBL EFT S BEAUTY SHOP\n\n\n2Ol4 E. Broadway BR 6-3e64",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2005,
+                "y0": 4642,
+                "x1": 3709,
+                "y1": 5076
+            },
+            "class": "article",
+            "raw_text": "The Joy Singers Calvary Baptist Church held Christmas\nparty Mrs. Minnie Jackson l649 w. Cocopah ST.\n\n\nsingers Jackson, Mary D. Collins,\nGordon, Edith McFerison, and Hollis Ellis.\n\n\nGuests Mcpherson Willie Haywood Otis Jackson Jr,\nW. Earl Watts John Gordon Audrey White Lorraine\nOuais Beatrice Brown, Ellis and Cora Jackson.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3795,
+                "y0": 2794,
+                "x1": 4627,
+                "y1": 2963
+            },
+            "class": "article",
+            "raw_text": "WILLIAMS BARBER SHOP\n\n\n1915 S. 18th Ave. AL 8-4228",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3801,
+                "y0": 2430,
+                "x1": 4633,
+                "y1": 2582
+            },
+            "class": "article",
+            "raw_text": "-DOUG'S BARBER SHOP\n\n\n28ll E. Broadway 276-l000",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3789,
+                "y0": 1657,
+                "x1": 4616,
+                "y1": 1854
+            },
+            "class": "article",
+            "raw_text": "KOZY COTTAGE BEAUTY SHOP\n1910 w. Sherman St.\nAL $1,000",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3772,
+                "y0": 958,
+                "x1": 4622,
+                "y1": 1109
+            },
+            "class": "article",
+            "raw_text": "DELOIS' BEAUTY SHOP\n\n\nlib w. Grant St. AL 4-O560",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3783,
+                "y0": 1143,
+                "x1": 4535,
+                "y1": 1282
+            },
+            "class": "article",
+            "raw_text": "LORETTA'S BEAUTY SHOP\n$50 w. Grant St. 254-07O6",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964010301_0248",
+    "full articles": [
+        {
+            "object_ids": [
+                31
+            ],
+            "headline": "",
+            "article": "I & M BARBER SHOP\nl2O5 w. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3801,
+                    "y0": 2615,
+                    "x1": 4408,
+                    "y1": 2761
+                }
+            ],
+            "bbox": [
+                3801,
+                2615,
+                4408,
+                2761
+            ],
+            "full_article_id": 32,
+            "id": "32_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                32
+            ],
+            "headline": "",
+            "article": "HILLS PHOENICIAN\nBEAUTY SHOP\n21'OE. Jefferson\nAL $1,000",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3783,
+                    "y0": 1328,
+                    "x1": 4581,
+                    "y1": 1612
+                }
+            ],
+            "bbox": [
+                3783,
+                1328,
+                4581,
+                1612
+            ],
+            "full_article_id": 33,
+            "id": "33_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                33
+            ],
+            "headline": "",
+            "article": "CLASSIFIED ADS\nBUSINESS DIRECTORY\nADRIANNE'S BEAUTY SALON\nl4l8E. Washington\n258-O5ll\nALBRTTONS BEAUTY SHOP\nl24O E. Monroe\nAL 1887\nDELOIS' BEAUTY SHOP\nlib w. Grant St. AL 4-0560\nLORETTA'S BEAUTY SHOP\n$50 w. Grant St. 254-07O6\nHILLS PHOENCIAN\nBEAUTY SHOP\n2l'0E. Jefferson\nAL $1,000\n\n\nKOZY COTTAGE BEAUTY SHOP\n1910 w. Sherman St.\nAL 8-O2O6\n\n\nLADY EBONEE BEAUTY\nCENTER, ol7 w. Buckeye Rd.\nALI -2642\n\n\nSOUBLETS BEAUTY SHOP\n2Ol4 E. Broadway BR 6-39o4\nDOUG'S BARBER SHOP\n281l E. Broadway 276-lOOO\nia M BARBER SHOP\n1905 w. Buckeye\nWILLIAMS BARBER SHOP\n1915 S. 18th Ave. AL 8-4228",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3766,
+                    "y0": 282,
+                    "x1": 4639,
+                    "y1": 3020
+                }
+            ],
+            "bbox": [
+                3766,
+                282,
+                4639,
+                3020
+            ],
+            "full_article_id": 34,
+            "id": "34_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Famous Twelve Club held its\nannual Christmas party at the\npresident s home, l324W. Grant.\nTen dollars was donated to Lone\nStar Baptist Church for needy\nfamily.\n\n\nOfficers include Mrs. Ora\nJackson, president; Clarence\nBasher, vice president; Mrs.\nRoberta Williams, secretary and\nOdessa Morrison, treasurer.\n\n\nMembers of the Lone Star\nBaptist Church played Santa to\nthe children of the church. On\nDec. 81 the party was attended\nby many young people.\n\n\nCommittee members who\nworked hard we're Mesdames\nMacine Williams, Roberta Will\nnams, Lille Mae Hall, Linda\nLacey and Ludella Lacey.\n\n\nMr.. and Mrs. Roosevelt Jones,\n1918 So. l8 Drive, hosted a\ndinner party last week on Dec.\n9th. Guests we're MIR. and Mrs.\nWesley Jackson. MIR. and Mrs.\nJeff Thomas, Mesdames Ora\nJackson, Roberta Williams, and\nMiller Morrison.\n\n\nAlso attending we're Messrs.\nJohn Titles, Willie Choice, Redd\nLove, Jr., Robert Cherry, E.\nDooley and MIR. and Mrs. Albert\nWilliams.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 180,
+                    "y0": 2840,
+                    "x1": 1019,
+                    "y1": 4903
+                }
+            ],
+            "bbox": [
+                180,
+                2840,
+                1019,
+                4903
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                27,
+                30,
+                4
+            ],
+            "headline": "WE SIDE NOTES",
+            "article": "The King Family held their\nfamily dinner on Christmas Day\nat the Salt River Indian Reser-\nwalton near Scottsdale.\n\n\nA huge IL it. tree was beau\ntifully decorated and over IS\npersons attended. Special guest\nof honor was Daniel King. The\nKing family included Daniel, Nor\nris, Elmo and Josiah King. Two\nsisters are Elizabeth letters and\nLena Blackwater.\n\n\nMany children, grandchildren,\ngreat grandchildren we're there.\nenjoyed the King family outing\nvery much.\n\n\nMrs. Louise Scales is visiting\nfriends at 1922 w. Mohave. She\nlikes our valley SO much that\nshe may spend tthe winter here.\n\n\nMIR. and Mrs. ]. D. Freeman\nof Mesa, we're recent houseguests\nof Rev. and Mrs. c.. V. Nelson,\no13 South Sixth Ave.",
+            "byline": "BY ORA ia c K s o NJ",
+            "bbox_list": [
+                {
+                    "x0": 631,
+                    "y0": 2638,
+                    "x1": 1457,
+                    "y1": 2732
+                },
+                {
+                    "x0": 631,
+                    "y0": 2742,
+                    "x1": 1290,
+                    "y1": 2801
+                },
+                {
+                    "x0": 1093,
+                    "y0": 2817,
+                    "x1": 1925,
+                    "y1": 4297
+                }
+            ],
+            "bbox": [
+                631,
+                2638,
+                1925,
+                4297
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                19,
+                5
+            ],
+            "headline": "COMING AND GOING",
+            "article": "Mrs. Kermit (Lillian) eagle\nietted to Los Angeles for Christ\nmas. She was accompanied by\nlittle Robin Hunter. They spent\nthree days there.\n\n\nMrs. James (Eliose) Hill spent\nChristmas in Los Angeles visit\ning her daughter and family.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1127,
+                    "y0": 4342,
+                    "x1": 1844,
+                    "y1": 4441
+                },
+                {
+                    "x0": 1104,
+                    "y0": 4457,
+                    "x1": 1925,
+                    "y1": 4949
+                }
+            ],
+            "bbox": [
+                1104,
+                4342,
+                1925,
+                4949
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                20,
+                14
+            ],
+            "headline": "FOR RENT",
+            "article": "FOR RENT bedrm. house trail\ner utilities pd., apply at 1905\nE. Washington or 2l6l E. Broad\nway. AL 2-o206.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3812,
+                    "y0": 3395,
+                    "x1": 4206,
+                    "y1": 3488
+                },
+                {
+                    "x0": 3783,
+                    "y0": 3510,
+                    "x1": 4610,
+                    "y1": 3760
+                }
+            ],
+            "bbox": [
+                3783,
+                3395,
+                4610,
+                3760
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "JACKSONS BEAUTY SHOPPE\n1898 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3795,
+                    "y0": 3060,
+                    "x1": 4622,
+                    "y1": 3286
+                }
+            ],
+            "bbox": [
+                3795,
+                3060,
+                4622,
+                3286
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "2 Bedrm. house, SIS mo. close\nin. Water pd. Call after 7:30p.m.\n258-3lO4.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3789,
+                    "y0": 3857,
+                    "x1": 4627,
+                    "y1": 4054
+                }
+            ],
+            "bbox": [
+                3789,
+                3857,
+                4627,
+                4054
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "LADY EBONEE BEAUTY\nCENTER, ol7 w. Buckeye Rd.\nALL -2642",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3801,
+                    "y0": 1928,
+                    "x1": 4633,
+                    "y1": 2143
+                }
+            ],
+            "bbox": [
+                3801,
+                1928,
+                4633,
+                2143
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "SOUBL EFT S BEAUTY SHOP\n\n\n2Ol4 E. Broadway BR 6-3e64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3807,
+                    "y0": 2205,
+                    "x1": 4633,
+                    "y1": 2362
+                }
+            ],
+            "bbox": [
+                3807,
+                2205,
+                4633,
+                2362
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "The Joy Singers Calvary Baptist Church held Christmas\nparty Mrs. Minnie Jackson l649 w. Cocopah ST.\n\n\nsingers Jackson, Mary D. Collins,\nGordon, Edith McFerison, and Hollis Ellis.\n\n\nGuests Mcpherson Willie Haywood Otis Jackson Jr,\nW. Earl Watts John Gordon Audrey White Lorraine\nOuais Beatrice Brown, Ellis and Cora Jackson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2005,
+                    "y0": 4642,
+                    "x1": 3709,
+                    "y1": 5076
+                }
+            ],
+            "bbox": [
+                2005,
+                4642,
+                3709,
+                5076
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "WILLIAMS BARBER SHOP\n\n\n1915 S. 18th Ave. AL 8-4228",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3795,
+                    "y0": 2794,
+                    "x1": 4627,
+                    "y1": 2963
+                }
+            ],
+            "bbox": [
+                3795,
+                2794,
+                4627,
+                2963
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "-DOUG'S BARBER SHOP\n\n\n28ll E. Broadway 276-l000",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3801,
+                    "y0": 2430,
+                    "x1": 4633,
+                    "y1": 2582
+                }
+            ],
+            "bbox": [
+                3801,
+                2430,
+                4633,
+                2582
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "KOZY COTTAGE BEAUTY SHOP\n1910 w. Sherman St.\nAL $1,000",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3789,
+                    "y0": 1657,
+                    "x1": 4616,
+                    "y1": 1854
+                }
+            ],
+            "bbox": [
+                3789,
+                1657,
+                4616,
+                1854
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "DELOIS' BEAUTY SHOP\n\n\nlib w. Grant St. AL 4-O560",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3772,
+                    "y0": 958,
+                    "x1": 4622,
+                    "y1": 1109
+                }
+            ],
+            "bbox": [
+                3772,
+                958,
+                4622,
+                1109
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "LORETTA'S BEAUTY SHOP\n$50 w. Grant St. 254-07O6",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3783,
+                    "y0": 1143,
+                    "x1": 4535,
+                    "y1": 1282
+                }
+            ],
+            "bbox": [
+                3783,
+                1143,
+                4535,
+                1282
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-01-03_pna_sn84021918_0041421695A_1964010301_0248.json"
+        }
+    ]
+}

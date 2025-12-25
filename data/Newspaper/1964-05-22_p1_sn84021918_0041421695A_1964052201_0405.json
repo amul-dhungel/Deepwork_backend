@@ -1,0 +1,737 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052201/0405.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4885
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1064,
+                "y0": 5990,
+                "x1": 1876,
+                "y1": 6981
+            },
+            "class": "article",
+            "raw_text": "A charge of assault with a\ndeadly weapon has been filed\nagainst Phoenix woman, &C\ncused of stabbing a police Off\nGer three times in the arm with\nan icepick after he attempted to\narrest her husband for drunken\ndriving.\n\n\nJailed was Mrs. Ida Mae John\nson, %, of 2433 E. Corona. She\nwas charged in a complaint filed\nbefore Justice of the Peace C.\nStanley Kimball.\n\n\nPatrolman Jose S. Castella-\nnos, 20. said the woman stabbed\nhim after he stopped a car driven\nby her husband.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1093,
+                "y0": 5759,
+                "x1": 1662,
+                "y1": 5951
+            },
+            "class": "headline",
+            "raw_text": "WOMAN SLABS\n\n\nPOLICE OFFICER",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 161,
+                "y0": 5932,
+                "x1": 984,
+                "y1": 7166
+            },
+            "class": "article",
+            "raw_text": "TUSKECEE = Four Negroes\nmustered enough voters to be-\ncome the first of their race on\nthe Democratic primary ballot\nsince reconstruction days fol-\nlowing the Civil War. 311\n\n\nDR.. Charles G.. Gommillion,\nNegro dean of the school of\narts and science at Tuskegee In\nstitute. won a spot for the county\nschool board post.\n\n\nTwo other Negroes we're nom\nmated for justice of the peace\nposts. They we're William C. Al\nlen and w. ]. Childs.\n\n\nThe fourth Negro was forced\ninto a runoff. Negroes outnum-\nDer white registrants Slightly in\nthe county.\n\n\nPrimary nomination usually\nmeans the election Is won.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 208,
+                "y0": 5753,
+                "x1": 973,
+                "y1": 5916
+            },
+            "class": "headline",
+            "raw_text": "3 Negroes Win\nPrimary Races In Dixie",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1944,
+                "y0": 4248,
+                "x1": 2761,
+                "y1": 5193
+            },
+            "class": "article",
+            "raw_text": "ACCRA, CHANA Score of\nGhanaians hailed Cassius Clay,\nworld heavyweight boxing champ\nion, when he appeared at the\nu. S. embassy.\n\n\nClay, now known as Mohammed\nAli, paid a call on William P.\nMahoney, Jr.. former Phoenix\nattorney. who is the ambassador\nto Ghana.\n\n\nCasSius wore multic olored\ntoga and African sandals. He\ntold listeners small voice told\nhim the round whenhis opponents\nwould be defeated. He also called\nhimself the \"Nng of the world\"",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1973,
+                "y0": 4063,
+                "x1": 2512,
+                "y1": 4226
+            },
+            "class": "headline",
+            "raw_text": "CASSIUS\nVISITS CHANA",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1064,
+                "y0": 2749,
+                "x1": 1887,
+                "y1": 3879
+            },
+            "class": "article",
+            "raw_text": "Edward Banks, publisher\neditor of the Arizona Tribune,\ndelivered the major address at\na meeting of the Young Republic\ncans Club at the University of\nSouthern California, Los Angeles\non Wednesday, May 20.\n\n\nHe appeared as guest speaker\nalso at Republican meetings\nheld Thursday and Friday at\nUCLA and Los Angeles City Col\nlege.\n\n\nMIR. Banks will address the\nmonthly meeting of the 2lst Con-\ngressional District Republican\nClub, also.\n\n\nHis topics are \"a Converse\ntive's View and San Arizonan\nLooks at G oldwater.''",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 156,
+                "y0": 1493,
+                "x1": 973,
+                "y1": 2547
+            },
+            "class": "article",
+            "raw_text": "An estimated group of $50\npersons participated Monday in\nthe Congress of Racial Equal\nity spoons ored demonstration\ndowntown to City Hall.\n\n\nLester King, CORE publicity\ndirector said the march was\nplanned in commemoration Of the\n10 years after the Supreme Court\nschool integration ruling. He con-\ntinued the protest was against\nsegregation which was still prac-\nticed in the South and also de\nfacto segregation.\n\n\nKing had estimated 5000\nmarchers would appear. A pro-\ntest rally was held at Eastlake\nPark on Sunday evening. etiass",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 167,
+                "y0": 1273,
+                "x1": 770,
+                "y1": 1459
+            },
+            "class": "headline",
+            "raw_text": "CORE LEADS\n\n\nPROTEST MARCH",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 161,
+                "y0": 2847,
+                "x1": 979,
+                "y1": 3902
+            },
+            "class": "article",
+            "raw_text": "ATLANTA = The Council of\nFederate Organizations, civil\nrights group. is seeking 1000\nvolunteers in colleges for duty in\nMississippi this summer.\n\n\nStudents are asked to come for\nthree weeks and live with Negro\nfamilies. They are asked to have\nat least $3.50 for expenses and\n$4OO for bail bond. If needed.\n\n\nThese students will spearhead\na voter registration project and\nteach in freedom schools in Mis-\nsissippi.\n\n\nA survey shows that 27O stu\ndents have been accepted for SER\nvice in the mississippi Pro-\nject.\"",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 179,
+                "y0": 2569,
+                "x1": 695,
+                "y1": 2831
+            },
+            "class": "headline",
+            "raw_text": "Project Seeks\nCoIIegiuns For\n\n\nSU m mer Work",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1956,
+                "y0": 2859,
+                "x1": 2779,
+                "y1": 4035
+            },
+            "class": "article",
+            "raw_text": "Elder FELTON, King. pastor of the\nGreater Emmanuel Church of God\nin Christ. will be honored for his\nthirty years Of service Sunday.\nMay \"a.\n\n\nMother Carroll of San Jose,\nCalifornia, will coordinate the\nevent. She will be assisted by\nElder E. E. Cleveland, of Ber-\nkelley. who will speak at the\nmorning service.\n\n\nBishop ]. A. Blake, of San\nDiego, will address the evening\nmeeting.\n\n\nBishop ]. W. Taylor, overseer\nof Arizona and New Mexico and\nMother Ola H. Garner, of San\nDiego, state supervisor of wom-\nems divisions, are expected to\nattend.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1950,
+                "y0": 5423,
+                "x1": 2761,
+                "y1": 6130
+            },
+            "class": "article",
+            "raw_text": "Frankie Lee Johnson. Jr., l9,\n602 W. Tonic. was shot by\npatrolman whenhe tried to escape\narrest. '..\n\n\nPolice officers said he was\nseen in restaurant on Buckeye\nRoad near 18th Avenue. The\nsuspect refused to halt when\nofficers shouted.\n\n\nJohns on was hit in the back.\nHe was in good condition in the\ncounty hospital.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1979,
+                "y0": 5226,
+                "x1": 2466,
+                "y1": 5407
+            },
+            "class": "headline",
+            "raw_text": "Youth Shot\n\n\nIn Restaurant",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1956,
+                "y0": 6384,
+                "x1": 2773,
+                "y1": 7161
+            },
+            "class": "article",
+            "raw_text": "AUSTIN. Texas The board of\nregents of the University of Tex\nas ordered all dormotories and\ndining halls integrated by next\nfall.\n\n\nThe first Negro instructor was\nhired last week. The university\nhas about $4,000 students. $50\nNegroes.\n\n\nLast week, DR.. Erwin S. Berry,\na % yr. old engineering profess\nsor, was hired as an assistant\nengineering professor.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1973,
+                "y0": 6152,
+                "x1": 2686,
+                "y1": 6350
+            },
+            "class": "headline",
+            "raw_text": "University Of Texas\n10 Integrute Fully",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2853,
+                "y0": 1933,
+                "x1": 4533,
+                "y1": 3132
+            },
+            "class": "article",
+            "raw_text": "who have had their difficulties\nthe past had reunion last week.\n\n\nRoy Campanea and Jackie Robinson together\nnsced about their days baseball Brooklyn\nDodgers. >zss\n\n\nThey Campaneas Liquor Jackie brought\nRoy autographed copy his book Baseball Has\nCampanela of the baseball\ntribued chapters book telling progress\ngrafton since l94 when Robinson became the first Negro\nmajor leagues.\nindicating that Campanela and Robinson disagreed civil rights\n\n\nIn the Robinson book published by Lippncott Roy\nlodged these reports and stated:\n\n\n\"ackie and different kinds people, Pee Wee\nReese his personality jackie Duke Syder\nThese all different people, They think different they differ\nbut all of had objecveto and brought\ntogether what color",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 185,
+                "y0": 5139,
+                "x1": 1882,
+                "y1": 5737
+            },
+            "class": "article",
+            "raw_text": "Omega chapter Of Alpha Kappa Alpha sorority\nMrs. Travis Williams 5044So ri Way Members\nDrksen, Rep urging him support the\ncivil being discussed in the u Senate\n\n\nPictured Mesdames Lois Brooks basileus Doris Moen,\nOzella James Barbara Randall anti\ngrammateus Loe Wyatt epoeus: and Ann Taylor. Others\nJohnson. Madeline Hardy Ruth Wheeler Louise Phillips\nMcFraddie Martin, ra Leos Mary F. Williams Coldye Hart\nIvy reporter, Smith, and Juanta Patterson.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2818,
+                "y0": 6957,
+                "x1": 3624,
+                "y1": 7137
+            },
+            "class": "article",
+            "raw_text": "The Phillips Memorial Male\nChorus will present a concert\nSunday. May \"a, 8 pm.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 2824,
+                "y0": 6332,
+                "x1": 4504,
+                "y1": 6761
+            },
+            "class": "article",
+            "raw_text": "Discussing the goals of the PM Project phase\nfor promoting educational\nR. Reed Charles Boyle operations\nArizona employment services W. Robinson,\nhigh school principal\n\n\nThe program encourages eighth grade pupils study by\nviding study hall facilities and",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3704,
+                "y0": 6934,
+                "x1": 4509,
+                "y1": 7155
+            },
+            "class": "article",
+            "raw_text": "Clarence Davis will be guest\nsoloist. The concert will be given\nat the church which is located at\nl4Ol E. Adams.",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        },
+        {
+            "id": 35,
+            "bbox": {
+                "x0": 3160,
+                "y0": 6818,
+                "x1": 4162,
+                "y1": 6923
+            },
+            "class": "headline",
+            "raw_text": "MALE CHORUS TO PERFORM",
+            "legibility": "Legible",
+            "full_article_id": 31,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-05-22"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                0
+            ],
+            "headline": "WOMAN SLABS\n\n\nPOLICE OFFICER",
+            "article": "A charge of assault with a\ndeadly weapon has been filed\nagainst Phoenix woman, &C\ncused of stabbing a police Off\nGer three times in the arm with\nan icepick after he attempted to\narrest her husband for drunken\ndriving.\n\n\nJailed was Mrs. Ida Mae John\nson, %, of 2433 E. Corona. She\nwas charged in a complaint filed\nbefore Justice of the Peace C.\nStanley Kimball.\n\n\nPatrolman Jose S. Castella-\nnos, 20. said the woman stabbed\nhim after he stopped a car driven\nby her husband.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1093,
+                    "y0": 5759,
+                    "x1": 1662,
+                    "y1": 5951
+                },
+                {
+                    "x0": 1064,
+                    "y0": 5990,
+                    "x1": 1876,
+                    "y1": 6981
+                }
+            ],
+            "bbox": [
+                1064,
+                5759,
+                1876,
+                6981
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                20,
+                2
+            ],
+            "headline": "3 Negroes Win\nPrimary Races In Dixie",
+            "article": "TUSKECEE = Four Negroes\nmustered enough voters to be-\ncome the first of their race on\nthe Democratic primary ballot\nsince reconstruction days fol-\nlowing the Civil War. 311\n\n\nDR.. Charles G.. Gommillion,\nNegro dean of the school of\narts and science at Tuskegee In\nstitute. won a spot for the county\nschool board post.\n\n\nTwo other Negroes we're nom\nmated for justice of the peace\nposts. They we're William C. Al\nlen and w. ]. Childs.\n\n\nThe fourth Negro was forced\ninto a runoff. Negroes outnum-\nDer white registrants Slightly in\nthe county.\n\n\nPrimary nomination usually\nmeans the election Is won.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 208,
+                    "y0": 5753,
+                    "x1": 973,
+                    "y1": 5916
+                },
+                {
+                    "x0": 161,
+                    "y0": 5932,
+                    "x1": 984,
+                    "y1": 7166
+                }
+            ],
+            "bbox": [
+                161,
+                5753,
+                984,
+                7166
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                21,
+                7
+            ],
+            "headline": "CASSIUS\nVISITS CHANA",
+            "article": "ACCRA, CHANA Score of\nGhanaians hailed Cassius Clay,\nworld heavyweight boxing champ\nion, when he appeared at the\nu. S. embassy.\n\n\nClay, now known as Mohammed\nAli, paid a call on William P.\nMahoney, Jr.. former Phoenix\nattorney. who is the ambassador\nto Ghana.\n\n\nCasSius wore multic olored\ntoga and African sandals. He\ntold listeners small voice told\nhim the round whenhis opponents\nwould be defeated. He also called\nhimself the \"Nng of the world\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1973,
+                    "y0": 4063,
+                    "x1": 2512,
+                    "y1": 4226
+                },
+                {
+                    "x0": 1944,
+                    "y0": 4248,
+                    "x1": 2761,
+                    "y1": 5193
+                }
+            ],
+            "bbox": [
+                1944,
+                4063,
+                2761,
+                5193
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Edward Banks, publisher\neditor of the Arizona Tribune,\ndelivered the major address at\na meeting of the Young Republic\ncans Club at the University of\nSouthern California, Los Angeles\non Wednesday, May 20.\n\n\nHe appeared as guest speaker\nalso at Republican meetings\nheld Thursday and Friday at\nUCLA and Los Angeles City Col\nlege.\n\n\nMIR. Banks will address the\nmonthly meeting of the 2lst Con-\ngressional District Republican\nClub, also.\n\n\nHis topics are \"a Converse\ntive's View and San Arizonan\nLooks at G oldwater.''",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1064,
+                    "y0": 2749,
+                    "x1": 1887,
+                    "y1": 3879
+                }
+            ],
+            "bbox": [
+                1064,
+                2749,
+                1887,
+                3879
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                19,
+                9
+            ],
+            "headline": "CORE LEADS\n\n\nPROTEST MARCH",
+            "article": "An estimated group of $50\npersons participated Monday in\nthe Congress of Racial Equal\nity spoons ored demonstration\ndowntown to City Hall.\n\n\nLester King, CORE publicity\ndirector said the march was\nplanned in commemoration Of the\n10 years after the Supreme Court\nschool integration ruling. He con-\ntinued the protest was against\nsegregation which was still prac-\nticed in the South and also de\nfacto segregation.\n\n\nKing had estimated 5000\nmarchers would appear. A pro-\ntest rally was held at Eastlake\nPark on Sunday evening. etiass",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 167,
+                    "y0": 1273,
+                    "x1": 770,
+                    "y1": 1459
+                },
+                {
+                    "x0": 156,
+                    "y0": 1493,
+                    "x1": 973,
+                    "y1": 2547
+                }
+            ],
+            "bbox": [
+                156,
+                1273,
+                973,
+                2547
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                16,
+                10
+            ],
+            "headline": "Project Seeks\nCoIIegiuns For\n\n\nSU m mer Work",
+            "article": "ATLANTA = The Council of\nFederate Organizations, civil\nrights group. is seeking 1000\nvolunteers in colleges for duty in\nMississippi this summer.\n\n\nStudents are asked to come for\nthree weeks and live with Negro\nfamilies. They are asked to have\nat least $3.50 for expenses and\n$4OO for bail bond. If needed.\n\n\nThese students will spearhead\na voter registration project and\nteach in freedom schools in Mis-\nsissippi.\n\n\nA survey shows that 27O stu\ndents have been accepted for SER\nvice in the mississippi Pro-\nject.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 179,
+                    "y0": 2569,
+                    "x1": 695,
+                    "y1": 2831
+                },
+                {
+                    "x0": 161,
+                    "y0": 2847,
+                    "x1": 979,
+                    "y1": 3902
+                }
+            ],
+            "bbox": [
+                161,
+                2569,
+                979,
+                3902
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Elder FELTON, King. pastor of the\nGreater Emmanuel Church of God\nin Christ. will be honored for his\nthirty years Of service Sunday.\nMay \"a.\n\n\nMother Carroll of San Jose,\nCalifornia, will coordinate the\nevent. She will be assisted by\nElder E. E. Cleveland, of Ber-\nkelley. who will speak at the\nmorning service.\n\n\nBishop ]. A. Blake, of San\nDiego, will address the evening\nmeeting.\n\n\nBishop ]. W. Taylor, overseer\nof Arizona and New Mexico and\nMother Ola H. Garner, of San\nDiego, state supervisor of wom-\nems divisions, are expected to\nattend.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1956,
+                    "y0": 2859,
+                    "x1": 2779,
+                    "y1": 4035
+                }
+            ],
+            "bbox": [
+                1956,
+                2859,
+                2779,
+                4035
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                25,
+                12
+            ],
+            "headline": "Youth Shot\n\n\nIn Restaurant",
+            "article": "Frankie Lee Johnson. Jr., l9,\n602 W. Tonic. was shot by\npatrolman whenhe tried to escape\narrest. '..\n\n\nPolice officers said he was\nseen in restaurant on Buckeye\nRoad near 18th Avenue. The\nsuspect refused to halt when\nofficers shouted.\n\n\nJohns on was hit in the back.\nHe was in good condition in the\ncounty hospital.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1979,
+                    "y0": 5226,
+                    "x1": 2466,
+                    "y1": 5407
+                },
+                {
+                    "x0": 1950,
+                    "y0": 5423,
+                    "x1": 2761,
+                    "y1": 6130
+                }
+            ],
+            "bbox": [
+                1950,
+                5226,
+                2761,
+                6130
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                22,
+                13
+            ],
+            "headline": "University Of Texas\n10 Integrute Fully",
+            "article": "AUSTIN. Texas The board of\nregents of the University of Tex\nas ordered all dormotories and\ndining halls integrated by next\nfall.\n\n\nThe first Negro instructor was\nhired last week. The university\nhas about $4,000 students. $50\nNegroes.\n\n\nLast week, DR.. Erwin S. Berry,\na % yr. old engineering profess\nsor, was hired as an assistant\nengineering professor.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1973,
+                    "y0": 6152,
+                    "x1": 2686,
+                    "y1": 6350
+                },
+                {
+                    "x0": 1956,
+                    "y0": 6384,
+                    "x1": 2773,
+                    "y1": 7161
+                }
+            ],
+            "bbox": [
+                1956,
+                6152,
+                2773,
+                7161
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "who have had their difficulties\nthe past had reunion last week.\n\n\nRoy Campanea and Jackie Robinson together\nnsced about their days baseball Brooklyn\nDodgers. >zss\n\n\nThey Campaneas Liquor Jackie brought\nRoy autographed copy his book Baseball Has\nCampanela of the baseball\ntribued chapters book telling progress\ngrafton since l94 when Robinson became the first Negro\nmajor leagues.\nindicating that Campanela and Robinson disagreed civil rights\n\n\nIn the Robinson book published by Lippncott Roy\nlodged these reports and stated:\n\n\n\"ackie and different kinds people, Pee Wee\nReese his personality jackie Duke Syder\nThese all different people, They think different they differ\nbut all of had objecveto and brought\ntogether what color",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2853,
+                    "y0": 1933,
+                    "x1": 4533,
+                    "y1": 3132
+                }
+            ],
+            "bbox": [
+                2853,
+                1933,
+                4533,
+                3132
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "Omega chapter Of Alpha Kappa Alpha sorority\nMrs. Travis Williams 5044So ri Way Members\nDrksen, Rep urging him support the\ncivil being discussed in the u Senate\n\n\nPictured Mesdames Lois Brooks basileus Doris Moen,\nOzella James Barbara Randall anti\ngrammateus Loe Wyatt epoeus: and Ann Taylor. Others\nJohnson. Madeline Hardy Ruth Wheeler Louise Phillips\nMcFraddie Martin, ra Leos Mary F. Williams Coldye Hart\nIvy reporter, Smith, and Juanta Patterson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 185,
+                    "y0": 5139,
+                    "x1": 1882,
+                    "y1": 5737
+                }
+            ],
+            "bbox": [
+                185,
+                5139,
+                1882,
+                5737
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "The Phillips Memorial Male\nChorus will present a concert\nSunday. May \"a, 8 pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2818,
+                    "y0": 6957,
+                    "x1": 3624,
+                    "y1": 7137
+                }
+            ],
+            "bbox": [
+                2818,
+                6957,
+                3624,
+                7137
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                29
+            ],
+            "headline": "",
+            "article": "Discussing the goals of the PM Project phase\nfor promoting educational\nR. Reed Charles Boyle operations\nArizona employment services W. Robinson,\nhigh school principal\n\n\nThe program encourages eighth grade pupils study by\nviding study hall facilities and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2824,
+                    "y0": 6332,
+                    "x1": 4504,
+                    "y1": 6761
+                }
+            ],
+            "bbox": [
+                2824,
+                6332,
+                4504,
+                6761
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        },
+        {
+            "object_ids": [
+                35,
+                30
+            ],
+            "headline": "MALE CHORUS TO PERFORM",
+            "article": "Clarence Davis will be guest\nsoloist. The concert will be given\nat the church which is located at\nl4Ol E. Adams.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3160,
+                    "y0": 6818,
+                    "x1": 4162,
+                    "y1": 6923
+                },
+                {
+                    "x0": 3704,
+                    "y0": 6934,
+                    "x1": 4509,
+                    "y1": 7155
+                }
+            ],
+            "bbox": [
+                3160,
+                6818,
+                4509,
+                7155
+            ],
+            "full_article_id": 31,
+            "id": "31_1964-05-22_p1_sn84021918_0041421695A_1964052201_0405.json"
+        }
+    ]
+}

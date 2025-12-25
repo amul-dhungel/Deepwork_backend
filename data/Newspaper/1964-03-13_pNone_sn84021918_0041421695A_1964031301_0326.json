@@ -1,0 +1,495 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-13",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4751,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-13",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964031301/0326.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2011,
+                "y0": 791,
+                "x1": 2856,
+                "y1": 3832
+            },
+            "class": "article",
+            "raw_text": "Most of the time we ride but\nnow and then women must for\nsake their flashy sports cars,\nsleek sedans, rusty jalopies or\ntiny import models and walk.\n\n\nWalking is rated as one of the\nbest methods for stimulating cir\nculation, digestion and even med\nitation. Doctors and health ex-\nperts have urged Americans to\nget up, move outside and trudge\nthe walks or country lanes.\n\n\nHaving few minutes to walk\nunless it helps me complete some\nof my numerous chores, | find\nmyself walking great deal. Des-\npite my campaign which lstarted\nagainst pointed toe shoes, shoe\nmanufacturers have undermined\nme. The shoes are still just as\nangular as before.\n\n\nhave another complaint to\nregister against these purvey-\nors of feminine footgear. Those\nlittle spike heels are running the\nfeet of the women Of the land.\n\n\nOne wonders why when theyget\na chance the girls and ladies Of\nthe USA don thongs. They do this\nbecause their feet are tired from\nstamping around the concrete and\nasphalt jungles of the city on\nhigh heels.\n\n\nThe heels are the cause of\nmany building superintendent\nand custodians nightmares. The\nheels have caused research to\ncome to a dead halt at the tile\nand linoleum plants.\n\n\nWomen are by nature vain.\nWe wear anything If 1t is pub\nlicized to add to our glamor or\nattractiveness. We hobble around\nin pointed toe shoes, perched\nhigh on heels which resemble\nstills. Then, we are anna zed be-\ncause our feet ache or our legs\nare cramping.\n\n\nWhen you can't stand it any\nmore, girls send a heel to the\nshoe men. Resist",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2040,
+                "y0": 393,
+                "x1": 2838,
+                "y1": 613
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOIsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2046,
+                "y0": 647,
+                "x1": 2827,
+                "y1": 763
+            },
+            "class": "headline",
+            "raw_text": "A HeeIed Lam ent",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2936,
+                "y0": 1150,
+                "x1": 4647,
+                "y1": 2590
+            },
+            "class": "article",
+            "raw_text": "On Wednesday morning joined nineteen other business and in\ndustrial leaders of the Of pt Howard for\n\n\nof administrative buildings Maryvale High\n\n\ninterested in the type high\nhere. is quite different from many country where\npupils are housed in complex of old\n\n\nDr. Seymour addressed the group told the problem\nof providing adequate high school\nwould certainly have be solved by than\n\n\nhigh school is built southside Of 10th\nhe stated the student body would be least Negro\nbecause of the housing patterns.\n\n\nUnfortunately there is chance white families will\nthe The\nthe sousde has increased the three\nof housing developments Only handful families have moved\nof the segregated perimeter.\n\n\nSouth Mountain High School overong double\nshould be ended possible The the\nof both finding suitable location avoid\nthe nearly all Negro high school,\n\n\nThe need for equal opportunity employment and hos\ning is primary in allowing Negroes minority fuller\nand better lives in this city.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3490,
+                "y0": 485,
+                "x1": 4509,
+                "y1": 937
+            },
+            "class": "headline",
+            "raw_text": "Views, PREvIewS\nANo REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -3
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3710,
+                "y0": 849,
+                "x1": 4243,
+                "y1": 937
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2941,
+                "y0": 999,
+                "x1": 4445,
+                "y1": 1116
+            },
+            "class": "headline",
+            "raw_text": "OPEN MORE JOBS AND HOUSING",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2011,
+                "y0": 4126,
+                "x1": 2844,
+                "y1": 6289
+            },
+            "class": "article",
+            "raw_text": "WIldl , q - 1 ~\n\n\nSince most room air condi-\nTONERS are rated in BTUs rather\nthan in horsepower or tons, that's\na fair and frequent question.\n\n\nIt's simply measurement like\nquarts\" or gallons\" And It s\nthe most accurate way Of measur-\ning the cooling capacity Of a room\nair conditioner.\n\n\nBTU Is the most accurate\nmeasure Of cooling capacity. 1t\nlets you buy just the right size\nunit for your home. You pay\nfor only the cooling capacity\nyou need and you keep operating\nexpense to a minimum.\n\n\nWhen you select room air\nconditioner the dealer will help\nyou determine the amount Of COOL\ning capacity you need. He'll have\nto know the size of the room to\nbe colled, the number of windows\nand doors, whether or not the\nroom is insulated, which side\nof the house and which floor It's\non.\n\n\nTo learn more about select\ning a room air conditioner write\nto the National Better Business\nBureau, 230 Park Avenue, New\nYork, N.Y., lO0l7, for their free\nbooklet, Groom Air Condition\ners, How to Choose the Model\nBest Suited to Your Needs\"\nEnclose a stamped, self ad-\ndressed, business-size envelope.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2034,
+                "y0": 3843,
+                "x1": 2642,
+                "y1": 4075
+            },
+            "class": "headline",
+            "raw_text": "Brush Up On\nYour BTU'S",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2063,
+                "y0": 4092,
+                "x1": 2468,
+                "y1": 4145
+            },
+            "class": "author",
+            "raw_text": "What S a BTU7",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2017,
+                "y0": 6681,
+                "x1": 2838,
+                "y1": 7214
+            },
+            "class": "article",
+            "raw_text": "Total state tax collections for\nthe II categories of taxable busi-\nness activities in December,\n1868. we're $5,337.502, an In\ncrease Of more than ST. million,\nor nearly \"a percent over COL\nlections In December Of 1862\nDecember collections reflect\nNovember business.)",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2005,
+                "y0": 6328,
+                "x1": 2792,
+                "y1": 6670
+            },
+            "class": "headline",
+            "raw_text": "State Tax\nCollections Higher\n\n\nIn 1868",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2884,
+                "y0": 2843,
+                "x1": 4659,
+                "y1": 5919
+            },
+            "class": "article",
+            "raw_text": "The Black AXshn1 organization made head\nlines duyi,ag the past tho weeks. First, the\nheavyweight boxing champion. C0ssius MARCEL\nlus Clay announced he aOas a member of the\ngroup and he would hencefoyth be knowu as\nCassius x. Clay.\n\n\nClay had been noted as a member of the Nus\nInns, but he had said little on the subject until\nthe LiStOn title fight mas OUeY. This aU0S one of\nthe fen topics the Louisville Lip kept silent\nabout.\n\n\nA fen days after Clay made knoaVn his adIl-\ni0tiOn with the Mus Inns Malcolm X, number\ntaO0 man in the organization revealed he was\npulling away and forming more militant\nbranch Of black nationalist supporters.\nMalcolm x had fallen into distavov with\nElijah A1sttanna0d, the Muslin head, Who\nlives in Phoenix. Malcolm voiced the belief\nthat AAtaananaad and his followers sVeve not\ndoing enough active or violent work against\nWbite supremacy. He said he would organize\nq more militant group and work harder in\nthe southern areas.\n\n\nAMtlb0n1na0d tod neWsnaea that he doubted\nIf Malcolm Mould turn TOWARD violence. MX-\nh0nanaod stiu seeks some kind Of dream state\nwhere all Negroes mould HUe under an all\nNegro government. Needless to say he or\nsome Mus Inn blaxneY knos0s the utter Gx-\ntiHty Of such q PROPOSAL\n\n\nNew York City the Of he first\n\n\ninternational exposition in the US.-n\n\n\n1883 The thiryfir state had only\n\n\nGently been admitted and the total popvo\n\n\ntion - predominontIy rural totoIed less\n\n\nthan rs million.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2941,
+                "y0": 2652,
+                "x1": 4260,
+                "y1": 2809
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 132,
+                "y0": 1930,
+                "x1": 1948,
+                "y1": 6699
+            },
+            "class": "article",
+            "raw_text": "~ n\" '\"\" ~ ' YORK II, NY.\nCOLLEGE NOT FOR ALL\nIn recent years the hue and cry Of aOeu\nmeaning men and 1Oonaem haze been announced\nto American youth to stay in school and get\ncollege education.\n\n\nThe dYObOut programs and the keep them\nin school programs are literally overlapping\neach other from all areas. They haze urged,\nC0jOled and cautioned our young people to\nstay in school, return to school and go ON to\ncollege.\n\n\nA great number Of American pupils are I'M\nable to finish even a diluted high school pro-\ngram for graduation. They become dis couyaged\nwith the strictly academic subjects and are\noften mental dYobOuts before they reach the\nninth grade.\n\n\nMany of these young persons could be SAL\nUaged in the seventh and eighth grades by\ngiving them some background IN simple bus\nmess courses or vocational or me cb0nic0l\nbackground IN simple business courses or\nvocational or me chanical training. The labor\nmarket viii continue to need young men and\nwomen 1Oithout college degrees for many jobs.\nDuring Business Industrial Education Week,\ncooperative program sponsored by the Phoe-\nnix Chamber Of Commerce and the Phoenix\nUnion High School system, the scope Of such\ntraining mas presented.\n\n\nThere are jobs open in the Valley are which\ndo not require college degree and the youth\nshould be auOaYe Of these OPPORTUNITIES.\nLet's not set the goals too high for those\npersons aOh0 are not equipped to enter college,\nuOho might be able to become satisfactory\nworkers in job areas requiring lesser re-\nQuiYements.\n\n\n~ Brings Out\n\n\nn Full, Rich\n\n\nHAIR\n\n\nBEAUTY\n\n\n#~~/ SSsssss~~~~~~~a",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3242,
+                "y0": 5583,
+                "x1": 4220,
+                "y1": 5913
+            },
+            "class": "article",
+            "raw_text": "New York City was the site Of the first\nInternational exposition in the v. Sin\n1883. The thirty-first stote had only re-.\nGently been admitted and the total popvIo.\nton - predominontIy rural - totoIed less\nthan rs million.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964031301_0326",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                8,
+                0
+            ],
+            "headline": "Sights and Sounds\nELOIsE BANKS\n\nA HeeIed Lam ent",
+            "article": "Most of the time we ride but\nnow and then women must for\nsake their flashy sports cars,\nsleek sedans, rusty jalopies or\ntiny import models and walk.\n\n\nWalking is rated as one of the\nbest methods for stimulating cir\nculation, digestion and even med\nitation. Doctors and health ex-\nperts have urged Americans to\nget up, move outside and trudge\nthe walks or country lanes.\n\n\nHaving few minutes to walk\nunless it helps me complete some\nof my numerous chores, | find\nmyself walking great deal. Des-\npite my campaign which lstarted\nagainst pointed toe shoes, shoe\nmanufacturers have undermined\nme. The shoes are still just as\nangular as before.\n\n\nhave another complaint to\nregister against these purvey-\nors of feminine footgear. Those\nlittle spike heels are running the\nfeet of the women Of the land.\n\n\nOne wonders why when theyget\na chance the girls and ladies Of\nthe USA don thongs. They do this\nbecause their feet are tired from\nstamping around the concrete and\nasphalt jungles of the city on\nhigh heels.\n\n\nThe heels are the cause of\nmany building superintendent\nand custodians nightmares. The\nheels have caused research to\ncome to a dead halt at the tile\nand linoleum plants.\n\n\nWomen are by nature vain.\nWe wear anything If 1t is pub\nlicized to add to our glamor or\nattractiveness. We hobble around\nin pointed toe shoes, perched\nhigh on heels which resemble\nstills. Then, we are anna zed be-\ncause our feet ache or our legs\nare cramping.\n\n\nWhen you can't stand it any\nmore, girls send a heel to the\nshoe men. Resist",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2040,
+                    "y0": 393,
+                    "x1": 2838,
+                    "y1": 613
+                },
+                {
+                    "x0": 2046,
+                    "y0": 647,
+                    "x1": 2827,
+                    "y1": 763
+                },
+                {
+                    "x0": 2011,
+                    "y0": 791,
+                    "x1": 2856,
+                    "y1": 3832
+                }
+            ],
+            "bbox": [
+                2011,
+                393,
+                2856,
+                3832
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-03-13_pna_sn84021918_0041421695A_1964031301_0326.json"
+        },
+        {
+            "object_ids": [
+                15,
+                19,
+                9,
+                1
+            ],
+            "headline": "Views, PREvIewS\nANo REVIEWS\n\n\nEdward Banks\n\nOPEN MORE JOBS AND HOUSING",
+            "article": "On Wednesday morning joined nineteen other business and in\ndustrial leaders of the Of pt Howard for\n\n\nof administrative buildings Maryvale High\n\n\ninterested in the type high\nhere. is quite different from many country where\npupils are housed in complex of old\n\n\nDr. Seymour addressed the group told the problem\nof providing adequate high school\nwould certainly have be solved by than\n\n\nhigh school is built southside Of 10th\nhe stated the student body would be least Negro\nbecause of the housing patterns.\n\n\nUnfortunately there is chance white families will\nthe The\nthe sousde has increased the three\nof housing developments Only handful families have moved\nof the segregated perimeter.\n\n\nSouth Mountain High School overong double\nshould be ended possible The the\nof both finding suitable location avoid\nthe nearly all Negro high school,\n\n\nThe need for equal opportunity employment and hos\ning is primary in allowing Negroes minority fuller\nand better lives in this city.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3490,
+                    "y0": 485,
+                    "x1": 4509,
+                    "y1": 937
+                },
+                {
+                    "x0": 3710,
+                    "y0": 849,
+                    "x1": 4243,
+                    "y1": 937
+                },
+                {
+                    "x0": 2941,
+                    "y0": 999,
+                    "x1": 4445,
+                    "y1": 1116
+                },
+                {
+                    "x0": 2936,
+                    "y0": 1150,
+                    "x1": 4647,
+                    "y1": 2590
+                }
+            ],
+            "bbox": [
+                2936,
+                485,
+                4647,
+                2590
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-13_pna_sn84021918_0041421695A_1964031301_0326.json"
+        },
+        {
+            "object_ids": [
+                5,
+                18,
+                2
+            ],
+            "headline": "Brush Up On\nYour BTU'S",
+            "article": "WIldl , q - 1 ~\n\n\nSince most room air condi-\nTONERS are rated in BTUs rather\nthan in horsepower or tons, that's\na fair and frequent question.\n\n\nIt's simply measurement like\nquarts\" or gallons\" And It s\nthe most accurate way Of measur-\ning the cooling capacity Of a room\nair conditioner.\n\n\nBTU Is the most accurate\nmeasure Of cooling capacity. 1t\nlets you buy just the right size\nunit for your home. You pay\nfor only the cooling capacity\nyou need and you keep operating\nexpense to a minimum.\n\n\nWhen you select room air\nconditioner the dealer will help\nyou determine the amount Of COOL\ning capacity you need. He'll have\nto know the size of the room to\nbe colled, the number of windows\nand doors, whether or not the\nroom is insulated, which side\nof the house and which floor It's\non.\n\n\nTo learn more about select\ning a room air conditioner write\nto the National Better Business\nBureau, 230 Park Avenue, New\nYork, N.Y., lO0l7, for their free\nbooklet, Groom Air Condition\ners, How to Choose the Model\nBest Suited to Your Needs\"\nEnclose a stamped, self ad-\ndressed, business-size envelope.",
+            "byline": "What S a BTU7",
+            "bbox_list": [
+                {
+                    "x0": 2034,
+                    "y0": 3843,
+                    "x1": 2642,
+                    "y1": 4075
+                },
+                {
+                    "x0": 2063,
+                    "y0": 4092,
+                    "x1": 2468,
+                    "y1": 4145
+                },
+                {
+                    "x0": 2011,
+                    "y0": 4126,
+                    "x1": 2844,
+                    "y1": 6289
+                }
+            ],
+            "bbox": [
+                2011,
+                3843,
+                2844,
+                6289
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-13_pna_sn84021918_0041421695A_1964031301_0326.json"
+        },
+        {
+            "object_ids": [
+                6,
+                7
+            ],
+            "headline": "State Tax\nCollections Higher\n\n\nIn 1868",
+            "article": "Total state tax collections for\nthe II categories of taxable busi-\nness activities in December,\n1868. we're $5,337.502, an In\ncrease Of more than ST. million,\nor nearly \"a percent over COL\nlections In December Of 1862\nDecember collections reflect\nNovember business.)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2005,
+                    "y0": 6328,
+                    "x1": 2792,
+                    "y1": 6670
+                },
+                {
+                    "x0": 2017,
+                    "y0": 6681,
+                    "x1": 2838,
+                    "y1": 7214
+                }
+            ],
+            "bbox": [
+                2005,
+                6328,
+                2838,
+                7214
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-13_pna_sn84021918_0041421695A_1964031301_0326.json"
+        },
+        {
+            "object_ids": [
+                10,
+                12
+            ],
+            "headline": "",
+            "article": "The Black AXshn1 organization made head\nlines duyi,ag the past tho weeks. First, the\nheavyweight boxing champion. C0ssius MARCEL\nlus Clay announced he aOas a member of the\ngroup and he would hencefoyth be knowu as\nCassius x. Clay.\n\n\nClay had been noted as a member of the Nus\nInns, but he had said little on the subject until\nthe LiStOn title fight mas OUeY. This aU0S one of\nthe fen topics the Louisville Lip kept silent\nabout.\n\n\nA fen days after Clay made knoaVn his adIl-\ni0tiOn with the Mus Inns Malcolm X, number\ntaO0 man in the organization revealed he was\npulling away and forming more militant\nbranch Of black nationalist supporters.\nMalcolm x had fallen into distavov with\nElijah A1sttanna0d, the Muslin head, Who\nlives in Phoenix. Malcolm voiced the belief\nthat AAtaananaad and his followers sVeve not\ndoing enough active or violent work against\nWbite supremacy. He said he would organize\nq more militant group and work harder in\nthe southern areas.\n\n\nAMtlb0n1na0d tod neWsnaea that he doubted\nIf Malcolm Mould turn TOWARD violence. MX-\nh0nanaod stiu seeks some kind Of dream state\nwhere all Negroes mould HUe under an all\nNegro government. Needless to say he or\nsome Mus Inn blaxneY knos0s the utter Gx-\ntiHty Of such q PROPOSAL\n\n\nNew York City the Of he first\n\n\ninternational exposition in the US.-n\n\n\n1883 The thiryfir state had only\n\n\nGently been admitted and the total popvo\n\n\ntion - predominontIy rural totoIed less\n\n\nthan rs million.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2941,
+                    "y0": 2652,
+                    "x1": 4260,
+                    "y1": 2809
+                },
+                {
+                    "x0": 2884,
+                    "y0": 2843,
+                    "x1": 4659,
+                    "y1": 5919
+                }
+            ],
+            "bbox": [
+                2884,
+                2652,
+                4659,
+                5919
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-03-13_pna_sn84021918_0041421695A_1964031301_0326.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "~ n\" '\"\" ~ ' YORK II, NY.\nCOLLEGE NOT FOR ALL\nIn recent years the hue and cry Of aOeu\nmeaning men and 1Oonaem haze been announced\nto American youth to stay in school and get\ncollege education.\n\n\nThe dYObOut programs and the keep them\nin school programs are literally overlapping\neach other from all areas. They haze urged,\nC0jOled and cautioned our young people to\nstay in school, return to school and go ON to\ncollege.\n\n\nA great number Of American pupils are I'M\nable to finish even a diluted high school pro-\ngram for graduation. They become dis couyaged\nwith the strictly academic subjects and are\noften mental dYobOuts before they reach the\nninth grade.\n\n\nMany of these young persons could be SAL\nUaged in the seventh and eighth grades by\ngiving them some background IN simple bus\nmess courses or vocational or me cb0nic0l\nbackground IN simple business courses or\nvocational or me chanical training. The labor\nmarket viii continue to need young men and\nwomen 1Oithout college degrees for many jobs.\nDuring Business Industrial Education Week,\ncooperative program sponsored by the Phoe-\nnix Chamber Of Commerce and the Phoenix\nUnion High School system, the scope Of such\ntraining mas presented.\n\n\nThere are jobs open in the Valley are which\ndo not require college degree and the youth\nshould be auOaYe Of these OPPORTUNITIES.\nLet's not set the goals too high for those\npersons aOh0 are not equipped to enter college,\nuOho might be able to become satisfactory\nworkers in job areas requiring lesser re-\nQuiYements.\n\n\n~ Brings Out\n\n\nn Full, Rich\n\n\nHAIR\n\n\nBEAUTY\n\n\n#~~/ SSsssss~~~~~~~a",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 132,
+                    "y0": 1930,
+                    "x1": 1948,
+                    "y1": 6699
+                }
+            ],
+            "bbox": [
+                132,
+                1930,
+                1948,
+                6699
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-03-13_pna_sn84021918_0041421695A_1964031301_0326.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "New York City was the site Of the first\nInternational exposition in the v. Sin\n1883. The thirty-first stote had only re-.\nGently been admitted and the total popvIo.\nton - predominontIy rural - totoIed less\nthan rs million.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3242,
+                    "y0": 5583,
+                    "x1": 4220,
+                    "y1": 5913
+                }
+            ],
+            "bbox": [
+                3242,
+                5583,
+                4220,
+                5913
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-03-13_pna_sn84021918_0041421695A_1964031301_0326.json"
+        }
+    ]
+}

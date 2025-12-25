@@ -1,0 +1,155 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964120401/0655.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4887
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 152,
+                "y0": 3236,
+                "x1": 1835,
+                "y1": 3603
+            },
+            "class": "article",
+            "raw_text": "Shown the Aa Kappa Alpha sorority hat show and scho-\narship breakfast sorors, and guests.\n\n\nMore than 200 attended the affair in the Convention\nCenter, Safari Hotel, Sat-, Nov. %.\n\n\nfashions provided by local designers, Mesdames\nLeonard Wbur Korrcks and Rhodes Stores",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1184,
+                "y0": 3236,
+                "x1": 1818,
+                "y1": 3295
+            },
+            "class": "author",
+            "raw_text": "'ority hat show and schol-",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2814,
+                "y0": 481,
+                "x1": 4497,
+                "y1": 1776
+            },
+            "class": "article",
+            "raw_text": "Many schools bear the of John Hope\nSOUTH Few today have heard of him public\nbuildings carry his living memorial.\n\n\nHis life from circumstances college\n1dency serves as an inspiration to all Negroes.\n\n\nBorn in Augusta, Ca June 2, 1862 John received his\ntraining\nin Massachusetts and Brown University He received\nmasters degree from Brown Kappa\n\n\nfraternity of scholars Zone the first Negroes admted\n\n\nIn 1898 Hope became Moreouse College,\nCa and the presidency 1906 He college\nand was instrumental in its progress until 1881.\n\n\nDuring World War he with aiding\nthe Negro He continued his YMCA\nwon all kinds of civic and educational honors.\n\n\nAS the field Hope\nlaid the foundations for the college\nlama University SYSTEM the learning\nin the South.\n\n\nAfter his death in February, 1885, John Hope\nposthumous winner of the Spingarn Medal.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2820,
+                "y0": 342,
+                "x1": 3720,
+                "y1": 453
+            },
+            "class": "headline",
+            "raw_text": "Negro History Notes",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-12-04"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                7
+            ],
+            "headline": "",
+            "article": "Shown the Aa Kappa Alpha sorority hat show and scho-\narship breakfast sorors, and guests.\n\n\nMore than 200 attended the affair in the Convention\nCenter, Safari Hotel, Sat-, Nov. %.\n\n\nfashions provided by local designers, Mesdames\nLeonard Wbur Korrcks and Rhodes Stores",
+            "byline": "'ority hat show and schol-",
+            "bbox_list": [
+                {
+                    "x0": 1184,
+                    "y0": 3236,
+                    "x1": 1818,
+                    "y1": 3295
+                },
+                {
+                    "x0": 152,
+                    "y0": 3236,
+                    "x1": 1835,
+                    "y1": 3603
+                }
+            ],
+            "bbox": [
+                152,
+                3236,
+                1835,
+                3603
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-12-04_p1_sn84021918_0041421695A_1964120401_0655.json"
+        },
+        {
+            "object_ids": [
+                3,
+                0
+            ],
+            "headline": "Negro History Notes",
+            "article": "Many schools bear the of John Hope\nSOUTH Few today have heard of him public\nbuildings carry his living memorial.\n\n\nHis life from circumstances college\n1dency serves as an inspiration to all Negroes.\n\n\nBorn in Augusta, Ca June 2, 1862 John received his\ntraining\nin Massachusetts and Brown University He received\nmasters degree from Brown Kappa\n\n\nfraternity of scholars Zone the first Negroes admted\n\n\nIn 1898 Hope became Moreouse College,\nCa and the presidency 1906 He college\nand was instrumental in its progress until 1881.\n\n\nDuring World War he with aiding\nthe Negro He continued his YMCA\nwon all kinds of civic and educational honors.\n\n\nAS the field Hope\nlaid the foundations for the college\nlama University SYSTEM the learning\nin the South.\n\n\nAfter his death in February, 1885, John Hope\nposthumous winner of the Spingarn Medal.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2820,
+                    "y0": 342,
+                    "x1": 3720,
+                    "y1": 453
+                },
+                {
+                    "x0": 2814,
+                    "y0": 481,
+                    "x1": 4497,
+                    "y1": 1776
+                }
+            ],
+            "bbox": [
+                2814,
+                342,
+                4497,
+                1776
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-04_p1_sn84021918_0041421695A_1964120401_0655.json"
+        }
+    ]
+}

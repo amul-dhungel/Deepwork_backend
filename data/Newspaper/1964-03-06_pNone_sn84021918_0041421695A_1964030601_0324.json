@@ -1,0 +1,158 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-06",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7411,
+        "width": 4847,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-06",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0324.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2805,
+                "y0": 2420,
+                "x1": 4028,
+                "y1": 2797
+            },
+            "class": "article",
+            "raw_text": "%\" diagonal 2S3 n picture viewing area\n\n\nPower Transformer Chassis 200 volts Of vdeo drive\n(design averaged Custom.Matic Tuner. Pull-Push\nOn/Off Control. 3\" S\" GOLDEN VOICE speaker.\nLighted Channel Indicator. All Channel Adaptable.\nGrained Walnut finish on metal cabinet 1879\" high,\n25A\" wide, 15s\" deep.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2701,
+                "y0": 1893,
+                "x1": 3235,
+                "y1": 2166
+            },
+            "class": "headline",
+            "raw_text": "$l99.95\nplus Free Base",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2805,
+                "y0": 2321,
+                "x1": 3368,
+                "y1": 2409
+            },
+            "class": "headline",
+            "raw_text": "MODEL..l9T39WC",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3338,
+                "y0": 1736,
+                "x1": 4543,
+                "y1": 2189
+            },
+            "class": "article",
+            "raw_text": "\n\n\nModern. thin. trim styling. Power Transformer\nChassis. Custom-Matic Tuner. Lighted Channel In.\ndicator Out Front Sound. 8\" S\" GOLDEN VOICE\nspeaker. PuII-Push On/Off Control. Metal cabinet\nwith beautiful vnyI covering in grained Antique White\ncolor, Walnut or Maple grained finishes. Has pro.\nvision for Private Listening Earphone.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964030601_0324",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1,
+                0
+            ],
+            "headline": "$l99.95\nplus Free Base\n\nMODEL..l9T39WC",
+            "article": "%\" diagonal 2S3 n picture viewing area\n\n\nPower Transformer Chassis 200 volts Of vdeo drive\n(design averaged Custom.Matic Tuner. Pull-Push\nOn/Off Control. 3\" S\" GOLDEN VOICE speaker.\nLighted Channel Indicator. All Channel Adaptable.\nGrained Walnut finish on metal cabinet 1879\" high,\n25A\" wide, 15s\" deep.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2701,
+                    "y0": 1893,
+                    "x1": 3235,
+                    "y1": 2166
+                },
+                {
+                    "x0": 2805,
+                    "y0": 2321,
+                    "x1": 3368,
+                    "y1": 2409
+                },
+                {
+                    "x0": 2805,
+                    "y0": 2420,
+                    "x1": 4028,
+                    "y1": 2797
+                }
+            ],
+            "bbox": [
+                2701,
+                1893,
+                4028,
+                2797
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-03-06_pna_sn84021918_0041421695A_1964030601_0324.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "\n\n\nModern. thin. trim styling. Power Transformer\nChassis. Custom-Matic Tuner. Lighted Channel In.\ndicator Out Front Sound. 8\" S\" GOLDEN VOICE\nspeaker. PuII-Push On/Off Control. Metal cabinet\nwith beautiful vnyI covering in grained Antique White\ncolor, Walnut or Maple grained finishes. Has pro.\nvision for Private Listening Earphone.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3338,
+                    "y0": 1736,
+                    "x1": 4543,
+                    "y1": 2189
+                }
+            ],
+            "bbox": [
+                3338,
+                1736,
+                4543,
+                2189
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-03-06_pna_sn84021918_0041421695A_1964030601_0324.json"
+        }
+    ]
+}

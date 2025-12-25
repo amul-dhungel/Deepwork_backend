@@ -1,0 +1,584 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7405,
+        "width": 4846,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061201/0435.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2816,
+                "y0": 3413,
+                "x1": 3638,
+                "y1": 5340
+            },
+            "class": "article",
+            "raw_text": "LANCASTER, PA. - Sixteen\nyoung men and women from lead\ning colleges and universities have\nbeen named \"Young Men and\nWomen of the Year\" through a\nspecial cooperative awards pro-\ngram sponsored by Hamilton\nWatch Company, of Lancaster.\n\n\nThe awards, engraved Hamil-\nton watches, were presented to\nPhyllis j. johnson and Roosevelt\nHolloman, Florida A and M Uni\nversity. Tallahassee; June Marie\nSmith and Jasper Bowman, john\nson c. Smith University, Char\nlotte NC; Joyce f. Wooden and\nFrank A. Mathewson. Jr., Vir-\ngtnia State College, Petersburg;\nMarchusa N. Armstrong and\nGeorge f. Francis, Prairie View\nA and M College, Texas; Will\nlornita Smith and A. Frazier\nCurry, Kentucky State College.\nFrankfort; George Edgecomb and\nAddie Shropshire, Clark College,\nAtlanta; Claudia Blow and Donald\nCotter, Lincoln University, JEFF\nferson City, Mo-; Karen f.\nBrOWnlee and Dennis j. Fisher,\nMorgan State College, Baltimore.\nMr.. Fisher. a blind student.\nreceived cash award.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2822,
+                "y0": 3176,
+                "x1": 3569,
+                "y1": 3379
+            },
+            "class": "headline",
+            "raw_text": "Humilton Wutch Co.\nNames Award Winners",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1954,
+                "y0": 2666,
+                "x1": 2765,
+                "y1": 3495
+            },
+            "class": "article",
+            "raw_text": "TUSCALOOSA, Alabama -\nEighteen Negro demonstrators\nwere injured and many we're\narrested after police refused\nthem marching permission.\n\n\nFire hoses and tear gas we're\nused to Subdue the crowd which\nthrew rocks and bottles. Officers\npushed the crowd into the First\nAfrican Church.\n\n\nThe Rev. T.Y. Rogers, exec\nutivp director of the Tuscaloosa\nCitizens for Action committee\nwas arrested.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1948,
+                "y0": 2435,
+                "x1": 2545,
+                "y1": 2639
+            },
+            "class": "headline",
+            "raw_text": "l8 Arrested\n\n\nIn Demonstration",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2827,
+                "y0": 1654,
+                "x1": 3650,
+                "y1": 3026
+            },
+            "class": "article",
+            "raw_text": "In memory of Rev. c. B:\nAbortion, who departed from\nus on June 2, 1862. He is gone\nbut not forgotten.\n\n\nWe have Travelled along the\nlanes. We have travelled along\nthe highways. In the sunshine and\nin the powerful rain.\n\n\nSometimes we have Travelled\nin the darkness of night. Some\ntimes the way was not easy,\nbut we found joy together. Until\nGod called and you answered.\n\n\nThe battle was fought, the VIC\ntory has been won. You have\nentered the Ma ster's joy. Though\nour hearts are heavy with the\nsorrows that we must bear. It\nsurely brings us closer to God.\n\n\nFrom the wife, children,\n\n\ngrandchildren, great grand\n\n\nchildren, other relatives and\n\n\nhost of friends.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1931,
+                "y0": 549,
+                "x1": 2753,
+                "y1": 2361
+            },
+            "class": "article",
+            "raw_text": "Sunday is an important meeting\ndate for the PISA convention COM\nmittee. All members are asked\nto be present at $3.50 pm.\n\n\nA junior matinee hop will be\nheld Sum-, June IA, Al pm.\nSmall children accompanied by\nparents will be admitted for 25c.\n\n\nPISA Convention will be held\nin the city June 24-28. VIII.\nPatteson Lodge AT and Grand\nCanyon Temple 437 will cohost\nthe meet.\n\n\nSick list includes Elizabeth\nTurner Memorial Hospital, w.\n&c.\n\n\nShirley Billips underwent sur\ngerry at Memorial.\n\n\nBeatrice Jackson is i'll at home,\n81 L. Monroe.\n\n\nSenolia Johnson is i'll at home,\n1918 w. Cocopah.\n\n\nCome out and join the ElkS\nSingers - music will be needed\nfor the PISA convention. First\nrehearsal Thursday, June IL.\n\n\nFlower makers are needed at\n8 pm. that night, too. We need\nlots of decorations for our\nparade.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1989,
+                "y0": 260,
+                "x1": 2597,
+                "y1": 504
+            },
+            "class": "headline",
+            "raw_text": "ELKS CORN Err\n{. MeCIum my",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3718,
+                "y0": 4113,
+                "x1": 4529,
+                "y1": 4397
+            },
+            "class": "article",
+            "raw_text": "Large corner lot. 8 bedrm.\nand garage. Shady back. Ideal\nfor children. Small down, balance\nlike rent. 46l8 s. 9th Place,\n969-03ls.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3799,
+                "y0": 4014,
+                "x1": 4390,
+                "y1": 4102
+            },
+            "class": "headline",
+            "raw_text": "HOUSE FOR SALE",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3718,
+                "y0": 4558,
+                "x1": 4524,
+                "y1": 4866
+            },
+            "class": "article",
+            "raw_text": "2 bedrooms, new apt. coolers,\nbuilt-in range /oven. See resident\nmgr. at corner of 6632 S. 22nd\nSt. and Vineyard Apt. $65 mo.\nincluding free water. 276-8250.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3828,
+                "y0": 4454,
+                "x1": 4379,
+                "y1": 4542
+            },
+            "class": "headline",
+            "raw_text": "APT. FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3730,
+                "y0": 3100,
+                "x1": 4535,
+                "y1": 3963
+            },
+            "class": "article",
+            "raw_text": "VISIT YOUR NEW LUMBER\nYARD THIS WEEKEND OPENING\nSPECIALS:\n\n\ngo 40 aluminium picture vim\ndOWS 1928\n80 x 6-8 mahogany door sos\n235 Id. top quality asbestos\nshingles so. 1893\nl6 d box nails so lb. bx. $40\nKONKLER LUMBER &\n\n\nSUPPLY\n\n\n1908 So. 18th Street",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3776,
+                "y0": 2979,
+                "x1": 4431,
+                "y1": 3072
+            },
+            "class": "headline",
+            "raw_text": "LUMBER SUPPLIES",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3718,
+                "y0": 2805,
+                "x1": 4344,
+                "y1": 2934
+            },
+            "class": "article",
+            "raw_text": "EARL'S BARBER SHOP\n1852 f. Washington",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3713,
+                "y0": 2620,
+                "x1": 4333,
+                "y1": 2760
+            },
+            "class": "article",
+            "raw_text": "j & M BARBER SHOP\n1905 W. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3713,
+                "y0": 2383,
+                "x1": 4564,
+                "y1": 2575
+            },
+            "class": "article",
+            "raw_text": "JACKSON'S BEAUTY SHOPPE\n1888 E. Madison\nAL 2-9541",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3718,
+                "y0": 2140,
+                "x1": 4552,
+                "y1": 2361
+            },
+            "class": "article",
+            "raw_text": "SOUBLET'S BEAUTY SHOP\n2Ol4 E. Broadway\nBR 6-3964",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964061201_0435",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                0
+            ],
+            "headline": "Humilton Wutch Co.\nNames Award Winners",
+            "article": "LANCASTER, PA. - Sixteen\nyoung men and women from lead\ning colleges and universities have\nbeen named \"Young Men and\nWomen of the Year\" through a\nspecial cooperative awards pro-\ngram sponsored by Hamilton\nWatch Company, of Lancaster.\n\n\nThe awards, engraved Hamil-\nton watches, were presented to\nPhyllis j. johnson and Roosevelt\nHolloman, Florida A and M Uni\nversity. Tallahassee; June Marie\nSmith and Jasper Bowman, john\nson c. Smith University, Char\nlotte NC; Joyce f. Wooden and\nFrank A. Mathewson. Jr., Vir-\ngtnia State College, Petersburg;\nMarchusa N. Armstrong and\nGeorge f. Francis, Prairie View\nA and M College, Texas; Will\nlornita Smith and A. Frazier\nCurry, Kentucky State College.\nFrankfort; George Edgecomb and\nAddie Shropshire, Clark College,\nAtlanta; Claudia Blow and Donald\nCotter, Lincoln University, JEFF\nferson City, Mo-; Karen f.\nBrOWnlee and Dennis j. Fisher,\nMorgan State College, Baltimore.\nMr.. Fisher. a blind student.\nreceived cash award.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2822,
+                    "y0": 3176,
+                    "x1": 3569,
+                    "y1": 3379
+                },
+                {
+                    "x0": 2816,
+                    "y0": 3413,
+                    "x1": 3638,
+                    "y1": 5340
+                }
+            ],
+            "bbox": [
+                2816,
+                3176,
+                3638,
+                5340
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                12,
+                1
+            ],
+            "headline": "l8 Arrested\n\n\nIn Demonstration",
+            "article": "TUSCALOOSA, Alabama -\nEighteen Negro demonstrators\nwere injured and many we're\narrested after police refused\nthem marching permission.\n\n\nFire hoses and tear gas we're\nused to Subdue the crowd which\nthrew rocks and bottles. Officers\npushed the crowd into the First\nAfrican Church.\n\n\nThe Rev. T.Y. Rogers, exec\nutivp director of the Tuscaloosa\nCitizens for Action committee\nwas arrested.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1948,
+                    "y0": 2435,
+                    "x1": 2545,
+                    "y1": 2639
+                },
+                {
+                    "x0": 1954,
+                    "y0": 2666,
+                    "x1": 2765,
+                    "y1": 3495
+                }
+            ],
+            "bbox": [
+                1948,
+                2435,
+                2765,
+                3495
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "In memory of Rev. c. B:\nAbortion, who departed from\nus on June 2, 1862. He is gone\nbut not forgotten.\n\n\nWe have Travelled along the\nlanes. We have travelled along\nthe highways. In the sunshine and\nin the powerful rain.\n\n\nSometimes we have Travelled\nin the darkness of night. Some\ntimes the way was not easy,\nbut we found joy together. Until\nGod called and you answered.\n\n\nThe battle was fought, the VIC\ntory has been won. You have\nentered the Ma ster's joy. Though\nour hearts are heavy with the\nsorrows that we must bear. It\nsurely brings us closer to God.\n\n\nFrom the wife, children,\n\n\ngrandchildren, great grand\n\n\nchildren, other relatives and\n\n\nhost of friends.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2827,
+                    "y0": 1654,
+                    "x1": 3650,
+                    "y1": 3026
+                }
+            ],
+            "bbox": [
+                2827,
+                1654,
+                3650,
+                3026
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "ELKS CORN Err\n{. MeCIum my",
+            "article": "Sunday is an important meeting\ndate for the PISA convention COM\nmittee. All members are asked\nto be present at $3.50 pm.\n\n\nA junior matinee hop will be\nheld Sum-, June IA, Al pm.\nSmall children accompanied by\nparents will be admitted for 25c.\n\n\nPISA Convention will be held\nin the city June 24-28. VIII.\nPatteson Lodge AT and Grand\nCanyon Temple 437 will cohost\nthe meet.\n\n\nSick list includes Elizabeth\nTurner Memorial Hospital, w.\n&c.\n\n\nShirley Billips underwent sur\ngerry at Memorial.\n\n\nBeatrice Jackson is i'll at home,\n81 L. Monroe.\n\n\nSenolia Johnson is i'll at home,\n1918 w. Cocopah.\n\n\nCome out and join the ElkS\nSingers - music will be needed\nfor the PISA convention. First\nrehearsal Thursday, June IL.\n\n\nFlower makers are needed at\n8 pm. that night, too. We need\nlots of decorations for our\nparade.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1989,
+                    "y0": 260,
+                    "x1": 2597,
+                    "y1": 504
+                },
+                {
+                    "x0": 1931,
+                    "y0": 549,
+                    "x1": 2753,
+                    "y1": 2361
+                }
+            ],
+            "bbox": [
+                1931,
+                260,
+                2753,
+                2361
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "HOUSE FOR SALE",
+            "article": "Large corner lot. 8 bedrm.\nand garage. Shady back. Ideal\nfor children. Small down, balance\nlike rent. 46l8 s. 9th Place,\n969-03ls.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3799,
+                    "y0": 4014,
+                    "x1": 4390,
+                    "y1": 4102
+                },
+                {
+                    "x0": 3718,
+                    "y0": 4113,
+                    "x1": 4529,
+                    "y1": 4397
+                }
+            ],
+            "bbox": [
+                3718,
+                4014,
+                4529,
+                4397
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                19,
+                7
+            ],
+            "headline": "APT. FOR RENT",
+            "article": "2 bedrooms, new apt. coolers,\nbuilt-in range /oven. See resident\nmgr. at corner of 6632 S. 22nd\nSt. and Vineyard Apt. $65 mo.\nincluding free water. 276-8250.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3828,
+                    "y0": 4454,
+                    "x1": 4379,
+                    "y1": 4542
+                },
+                {
+                    "x0": 3718,
+                    "y0": 4558,
+                    "x1": 4524,
+                    "y1": 4866
+                }
+            ],
+            "bbox": [
+                3718,
+                4454,
+                4524,
+                4866
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                21,
+                10
+            ],
+            "headline": "LUMBER SUPPLIES",
+            "article": "VISIT YOUR NEW LUMBER\nYARD THIS WEEKEND OPENING\nSPECIALS:\n\n\ngo 40 aluminium picture vim\ndOWS 1928\n80 x 6-8 mahogany door sos\n235 Id. top quality asbestos\nshingles so. 1893\nl6 d box nails so lb. bx. $40\nKONKLER LUMBER &\n\n\nSUPPLY\n\n\n1908 So. 18th Street",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3776,
+                    "y0": 2979,
+                    "x1": 4431,
+                    "y1": 3072
+                },
+                {
+                    "x0": 3730,
+                    "y0": 3100,
+                    "x1": 4535,
+                    "y1": 3963
+                }
+            ],
+            "bbox": [
+                3730,
+                2979,
+                4535,
+                3963
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "EARL'S BARBER SHOP\n1852 f. Washington",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3718,
+                    "y0": 2805,
+                    "x1": 4344,
+                    "y1": 2934
+                }
+            ],
+            "bbox": [
+                3718,
+                2805,
+                4344,
+                2934
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "j & M BARBER SHOP\n1905 W. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3713,
+                    "y0": 2620,
+                    "x1": 4333,
+                    "y1": 2760
+                }
+            ],
+            "bbox": [
+                3713,
+                2620,
+                4333,
+                2760
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "JACKSON'S BEAUTY SHOPPE\n1888 E. Madison\nAL 2-9541",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3713,
+                    "y0": 2383,
+                    "x1": 4564,
+                    "y1": 2575
+                }
+            ],
+            "bbox": [
+                3713,
+                2383,
+                4564,
+                2575
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "SOUBLET'S BEAUTY SHOP\n2Ol4 E. Broadway\nBR 6-3964",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3718,
+                    "y0": 2140,
+                    "x1": 4552,
+                    "y1": 2361
+                }
+            ],
+            "bbox": [
+                3718,
+                2140,
+                4552,
+                2361
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-06-12_pna_sn84021918_0041421695A_1964061201_0435.json"
+        }
+    ]
+}

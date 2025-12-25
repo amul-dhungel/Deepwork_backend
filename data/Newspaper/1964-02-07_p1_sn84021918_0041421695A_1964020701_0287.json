@@ -1,0 +1,637 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964020701/0287.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7449,
+        "width": 4813
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3686,
+                "y0": 517,
+                "x1": 4502,
+                "y1": 1886
+            },
+            "class": "article",
+            "raw_text": "Assistant Director Of the New\nJersey State Commission onUrban\nColored Population, later re-\nnamed the Division Against Dis\nelimination.\n\n\nA former newspaperman,\nClarke was educated at Atlanta\nUniversity, Atlanta, Ca, and the\nSchool Of Journalism at the Uni\nversity Of Illinois. During his\nyears with the State Of New Jer-\nsey, he directed research and\nauthored several studies on the\nsubject Of race relations, includ-\ning, \"Teh Negro Citizen and\nNew Jersey Democracy\" IA\nGuide to Better Race Relations\"\nand several others.\n\n\nSince leaving the government\nin 1861, Clarke has maintained\nhis own public relations office\nat 1925 Connecticut Avenue, NV.\nWashington, DC.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2813,
+                "y0": 419,
+                "x1": 4130,
+                "y1": 501
+            },
+            "class": "headline",
+            "raw_text": "CLARKE TO AID MINORITY PROGRAM",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2802,
+                "y0": 523,
+                "x1": 3623,
+                "y1": 1892
+            },
+            "class": "article",
+            "raw_text": "Joseph A. Clarke, former Spe-\ncial Assistant to Postmaster\nGeneral Arthur E. Summerfield\nduring the Eisenhower Admins\ntration, has been named Special\nAssistant to the Chairman Of the\nRepublican Congressional Com\nmittee where he Will work on the\nmobilization of the Negro vote\nin Congressional races.\n\n\nClarke 8 appointment was an\nr1ounced by Rep. Bob Wilson,\nChairman of the Republican Con-\ngressional Committee. He said\nClarke will be working with the\ncommittee in Washington and in\nselected Congressional districts\nthroughout the country.\n\n\nA native of Columbus Georgia,\nClarke has been a resident of\nWashington, D. C.. since 1854.\nPrior to coming to Washington,\nhe served for seven years as",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2813,
+                "y0": 2170,
+                "x1": 3629,
+                "y1": 3056
+            },
+            "class": "article",
+            "raw_text": "into Arizona S economy last year,\nof which one-million was for\nAT&T construction. MST's new\nconstruction cost $22 million\n(material & building contracts\npayroll for $500 employees\nanother $50 million and pur-\nchases So million.\n\n\nThe company operating taxes\nin the state, excluding federal in\ncome and social security taxes,\nwere $11 million. Smith said\nthis figure brought the total tax\nbill per telephone per month to\n$5.32, including excise taxes.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2330,
+                "y0": 1972,
+                "x1": 3111,
+                "y1": 2136
+            },
+            "class": "headline",
+            "raw_text": "STATE TELEPHONES\nINCREASED IN 1868",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1917,
+                "y0": 2176,
+                "x1": 2739,
+                "y1": 3067
+            },
+            "class": "article",
+            "raw_text": "Arizonans dialed 767, 1872, 900\nlocal calls during 1868, and orr\nginated 1875, 900 long distance\ncalls. according to a year-end\nreport released by Mountain\nStates Telephone.\n\n\nLawson V. Smith, vice presi-\ndent & general manager, reported\ntotal Mountain States Telephone\ninvestment in Arizona at the end\nOf 1868 at SOS million. Net gain\nin phones was 5000, bringing\nthe number of MIST phones in the\nstate to $40 ,59o at year end.\n\n\nSmith said $70-million was put",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3680,
+                "y0": 2444,
+                "x1": 4502,
+                "y1": 5384
+            },
+            "class": "article",
+            "raw_text": "A clean sponge makes a fine\nspoon holder on your stove top,\nwhen you are cooking. It also can\nbe used to wipe up any spills, and\nit can be rinsed right along with\nthe dishes.\n\n\nHere's a two-in-one sugges-\nton: those tiny, inexpensive toy\nor kitchen magnets can make a\nquickie bulletin board out of your\nrefrigerator door. You'll find it\nhandy for compiling your shop\nping list and the children will\nquickly find any message on the\nentrance to their \"after school\ntreat. You can also keep your\nrecipe card within view and free\nfrom food spatters by using a\nmagnet on a metal strip or cab\nmet to hold the recipe while you\nare cooking.\n\n\nWhen preparing a package to\nbe mailed, apply colorless nail\npolish over the address label so\nthe ink or type won't smear.\n\n\nIron in your water is exposed\nas the villain of many house.\nkeeping problems in circulars\npublished by Purdue and Okla\nhoma State universities. Rust\nstaining of fabrics, porcelain,\nchina, glass, silver and other\narticles, and a disagreeable me-\ntallic taste to water, are the COM\nmon annoyances cited. Both re-\nports recommend that you call a\nwater conditioner dealer for a\nwater analysis. The Lindsay\nCompany has developed a fully\nautomatic residential unit which\nsimultaneously softens the water\nand removes iron of all types,\neven when present in large guam\ntitles.\n\n\nLooking for an unusual gift\nto give next time you go to a\nbaby shower? Give the prospec-\ntive mother your own dinner\ngift certificate. Here's how it\nworks: when the mother and\nbaby come home from the hos\npital, take the family a hot din\nner ready to eat, and leave. That\nfirst night home is hectic no\nmatter how we'll organized the\nhousehold.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 142,
+                "y0": 2351,
+                "x1": 970,
+                "y1": 4825
+            },
+            "class": "article",
+            "raw_text": "Announcement Of the new ]. C.\nPenney s store expansion at Tow\nerr Palza Shopping Center, 1875\nEast Thomas Road, has inaugu-\nrated a new era In the continued\nexpansion of one Of the South\nvests unique shopping centers,\naccording to James B. Phillips\nof the firm of LaPrade, Phillips\n& Lyon, owners.\n\n\n\"With the breaking of ground\nin March, Tower Plaza assumes\na new role as a regional shop\nping CENTER\" said MIR. Phil\nlips. while continued and ex-\nbanded growth is expected Of Art-\nIONA and Phoenix in the financial\nand industrial centers Of Amer\nlea, 1t is with extreme pride that\nwe announce that one of our prime\ntenants has had such confidence\nIn our success that he has nearly\ntripled his size in four years.\"\n\n\nThe new Penney 8. managed\nas previously by Mr.. ]. E. Mont\ngomery, will become a complete\nhard and soft lines department\nstore, the first of Penney 8 ex-\npansion in this field in the State\nOf Arizona.\n\n\nNew departments will include\ncosmetics, furniture and floor\ncoverings, appliances, electron-\nles, paint and wallpaper, hard\nware, sporting goods, building\nmaterials, tires, batteries and\nauto accessories, jewelry, photo\nand optical, and many others.\n\n\nThe new building will cost\nmore than 2 million dollars. 1t\nIs scheduled for completion in\n1865.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 136,
+                "y0": 2176,
+                "x1": 731,
+                "y1": 2334
+            },
+            "class": "headline",
+            "raw_text": "PENNEY TO\nEXPAND STORE",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2749,
+                "y0": 3235,
+                "x1": 3489,
+                "y1": 4685
+            },
+            "class": "article",
+            "raw_text": "Hire a Reddy Light Watch.\nman and get all Of these\nbenefits for as little as\n$500 a months:\n\n\nl. A handsome lighting fixture\nwith powerful 7,OOO-Iumen\nmercuy-vapor lamp.\n\n\n2. BuiIt-in photo electric cell\nwhich automatica ally turns\nlight on at dusk, off at dawn.\n8. Complete installation on\nan existing pole.\n\n\na. Full maintenance when.\never needed.\n\n\n5. All electric energy the lamp\nwill use.\n\n\n6. Convenience and protec-\nton without costly investment.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 177,
+                "y0": 6354,
+                "x1": 981,
+                "y1": 7257
+            },
+            "class": "article",
+            "raw_text": "Ray Schanen Of Milwaukee,\none Of the nations top profess\nsional bowlers and Miller High\nLife bowling, adviser, demon\nstrates how to roll a natural hook\nwithout any conscious twisting\neffort. It's done by keeping the\nthumb we'll to the left, or at 9\no'clock on an imaginary clock,\nfrom backswing to delivery. The\nthumb will leave the ball first.\nThe other fingers, being on the\nside of the ball, will impart the\nspin necessary for hook.\n\n\nProfessional bowlers agree\nthat a hook or curve ball is pre-\nferred because it's spinning ac-\nton mixes the pins and leaves\nfewer splits.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 218,
+                "y0": 6209,
+                "x1": 935,
+                "y1": 6332
+            },
+            "class": "author",
+            "raw_text": "KEEP THUMB AT\n9 O'CLOCK FOR A HOOK",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1097,
+                "y0": 2554,
+                "x1": 1784,
+                "y1": 3032
+            },
+            "class": "article",
+            "raw_text": "ST. off on pumping\n81 off on chemical treat\ning\n\n\nLimit l per call\nSand & Grease Trap.\nComplete Sewer Service\nChemical Treatment\n\n\nGOOD ANYTIME",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1178,
+                "y0": 2199,
+                "x1": 1645,
+                "y1": 2264
+            },
+            "class": "headline",
+            "raw_text": "- CLIP & SAVE",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1114,
+                "y0": 2228,
+                "x1": 1790,
+                "y1": 2549
+            },
+            "class": "headline",
+            "raw_text": "p - CLIP & SAVE\nCIRCLE R CESSPOOL\n\n\nSERVICE\n\n\n275-l5o8",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1970,
+                "y0": 3922,
+                "x1": 2692,
+                "y1": 4662
+            },
+            "class": "article",
+            "raw_text": "Harold Niles did!\nHarold E. Niles, District Manager OF\nGeneral Communications, Inc, Phoe-\nnix, says: Because our answering\nservice personnel are on duty around\nthe clock, adequate parking lot light\ning is necessity. This lighting SerV-\nice is the perfect answer to our needs.\nWe make no costly investment in fix\nlures, never have to replace burned\nout lamps, and get brilliant iIIumina-\ntion at low cost.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3692,
+                "y0": 2438,
+                "x1": 4502,
+                "y1": 2736
+            },
+            "class": "article",
+            "raw_text": "A clean sponge makes a fine\nspoon holder on your stove top,\nwhen you are cooking. 1t also can\nbe used to wipe up any spills, and\nit can be rinsed right along with\nthe dishes.",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3832,
+                "y0": 2036,
+                "x1": 4229,
+                "y1": 2270
+            },
+            "class": "headline",
+            "raw_text": "2; For\n\n\nwomen\n! O111E..",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3937,
+                "y0": 2287,
+                "x1": 4345,
+                "y1": 2334
+            },
+            "class": "author",
+            "raw_text": "BY LINDA SCOTT",
+            "legibility": "Legible",
+            "full_article_id": 30,
+            "reading_order_id": -1
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 4862,
+                "y0": 401,
+                "x1": 6137,
+                "y1": 5634
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 31,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-02-07"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                1
+            ],
+            "headline": "CLARKE TO AID MINORITY PROGRAM",
+            "article": "Assistant Director Of the New\nJersey State Commission onUrban\nColored Population, later re-\nnamed the Division Against Dis\nelimination.\n\n\nA former newspaperman,\nClarke was educated at Atlanta\nUniversity, Atlanta, Ca, and the\nSchool Of Journalism at the Uni\nversity Of Illinois. During his\nyears with the State Of New Jer-\nsey, he directed research and\nauthored several studies on the\nsubject Of race relations, includ-\ning, \"Teh Negro Citizen and\nNew Jersey Democracy\" IA\nGuide to Better Race Relations\"\nand several others.\n\n\nSince leaving the government\nin 1861, Clarke has maintained\nhis own public relations office\nat 1925 Connecticut Avenue, NV.\nWashington, DC.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2813,
+                    "y0": 419,
+                    "x1": 4130,
+                    "y1": 501
+                },
+                {
+                    "x0": 3686,
+                    "y0": 517,
+                    "x1": 4502,
+                    "y1": 1886
+                }
+            ],
+            "bbox": [
+                2813,
+                419,
+                4502,
+                1886
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Joseph A. Clarke, former Spe-\ncial Assistant to Postmaster\nGeneral Arthur E. Summerfield\nduring the Eisenhower Admins\ntration, has been named Special\nAssistant to the Chairman Of the\nRepublican Congressional Com\nmittee where he Will work on the\nmobilization of the Negro vote\nin Congressional races.\n\n\nClarke 8 appointment was an\nr1ounced by Rep. Bob Wilson,\nChairman of the Republican Con-\ngressional Committee. He said\nClarke will be working with the\ncommittee in Washington and in\nselected Congressional districts\nthroughout the country.\n\n\nA native of Columbus Georgia,\nClarke has been a resident of\nWashington, D. C.. since 1854.\nPrior to coming to Washington,\nhe served for seven years as",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2802,
+                    "y0": 523,
+                    "x1": 3623,
+                    "y1": 1892
+                }
+            ],
+            "bbox": [
+                2802,
+                523,
+                3623,
+                1892
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "STATE TELEPHONES\nINCREASED IN 1868",
+            "article": "into Arizona S economy last year,\nof which one-million was for\nAT&T construction. MST's new\nconstruction cost $22 million\n(material & building contracts\npayroll for $500 employees\nanother $50 million and pur-\nchases So million.\n\n\nThe company operating taxes\nin the state, excluding federal in\ncome and social security taxes,\nwere $11 million. Smith said\nthis figure brought the total tax\nbill per telephone per month to\n$5.32, including excise taxes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2330,
+                    "y0": 1972,
+                    "x1": 3111,
+                    "y1": 2136
+                },
+                {
+                    "x0": 2813,
+                    "y0": 2170,
+                    "x1": 3629,
+                    "y1": 3056
+                }
+            ],
+            "bbox": [
+                2330,
+                1972,
+                3629,
+                3056
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Arizonans dialed 767, 1872, 900\nlocal calls during 1868, and orr\nginated 1875, 900 long distance\ncalls. according to a year-end\nreport released by Mountain\nStates Telephone.\n\n\nLawson V. Smith, vice presi-\ndent & general manager, reported\ntotal Mountain States Telephone\ninvestment in Arizona at the end\nOf 1868 at SOS million. Net gain\nin phones was 5000, bringing\nthe number of MIST phones in the\nstate to $40 ,59o at year end.\n\n\nSmith said $70-million was put",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1917,
+                    "y0": 2176,
+                    "x1": 2739,
+                    "y1": 3067
+                }
+            ],
+            "bbox": [
+                1917,
+                2176,
+                2739,
+                3067
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "A clean sponge makes a fine\nspoon holder on your stove top,\nwhen you are cooking. It also can\nbe used to wipe up any spills, and\nit can be rinsed right along with\nthe dishes.\n\n\nHere's a two-in-one sugges-\nton: those tiny, inexpensive toy\nor kitchen magnets can make a\nquickie bulletin board out of your\nrefrigerator door. You'll find it\nhandy for compiling your shop\nping list and the children will\nquickly find any message on the\nentrance to their \"after school\ntreat. You can also keep your\nrecipe card within view and free\nfrom food spatters by using a\nmagnet on a metal strip or cab\nmet to hold the recipe while you\nare cooking.\n\n\nWhen preparing a package to\nbe mailed, apply colorless nail\npolish over the address label so\nthe ink or type won't smear.\n\n\nIron in your water is exposed\nas the villain of many house.\nkeeping problems in circulars\npublished by Purdue and Okla\nhoma State universities. Rust\nstaining of fabrics, porcelain,\nchina, glass, silver and other\narticles, and a disagreeable me-\ntallic taste to water, are the COM\nmon annoyances cited. Both re-\nports recommend that you call a\nwater conditioner dealer for a\nwater analysis. The Lindsay\nCompany has developed a fully\nautomatic residential unit which\nsimultaneously softens the water\nand removes iron of all types,\neven when present in large guam\ntitles.\n\n\nLooking for an unusual gift\nto give next time you go to a\nbaby shower? Give the prospec-\ntive mother your own dinner\ngift certificate. Here's how it\nworks: when the mother and\nbaby come home from the hos\npital, take the family a hot din\nner ready to eat, and leave. That\nfirst night home is hectic no\nmatter how we'll organized the\nhousehold.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3680,
+                    "y0": 2444,
+                    "x1": 4502,
+                    "y1": 5384
+                }
+            ],
+            "bbox": [
+                3680,
+                2444,
+                4502,
+                5384
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "PENNEY TO\nEXPAND STORE",
+            "article": "Announcement Of the new ]. C.\nPenney s store expansion at Tow\nerr Palza Shopping Center, 1875\nEast Thomas Road, has inaugu-\nrated a new era In the continued\nexpansion of one Of the South\nvests unique shopping centers,\naccording to James B. Phillips\nof the firm of LaPrade, Phillips\n& Lyon, owners.\n\n\n\"With the breaking of ground\nin March, Tower Plaza assumes\na new role as a regional shop\nping CENTER\" said MIR. Phil\nlips. while continued and ex-\nbanded growth is expected Of Art-\nIONA and Phoenix in the financial\nand industrial centers Of Amer\nlea, 1t is with extreme pride that\nwe announce that one of our prime\ntenants has had such confidence\nIn our success that he has nearly\ntripled his size in four years.\"\n\n\nThe new Penney 8. managed\nas previously by Mr.. ]. E. Mont\ngomery, will become a complete\nhard and soft lines department\nstore, the first of Penney 8 ex-\npansion in this field in the State\nOf Arizona.\n\n\nNew departments will include\ncosmetics, furniture and floor\ncoverings, appliances, electron-\nles, paint and wallpaper, hard\nware, sporting goods, building\nmaterials, tires, batteries and\nauto accessories, jewelry, photo\nand optical, and many others.\n\n\nThe new building will cost\nmore than 2 million dollars. 1t\nIs scheduled for completion in\n1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 136,
+                    "y0": 2176,
+                    "x1": 731,
+                    "y1": 2334
+                },
+                {
+                    "x0": 142,
+                    "y0": 2351,
+                    "x1": 970,
+                    "y1": 4825
+                }
+            ],
+            "bbox": [
+                136,
+                2176,
+                970,
+                4825
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Hire a Reddy Light Watch.\nman and get all Of these\nbenefits for as little as\n$500 a months:\n\n\nl. A handsome lighting fixture\nwith powerful 7,OOO-Iumen\nmercuy-vapor lamp.\n\n\n2. BuiIt-in photo electric cell\nwhich automatica ally turns\nlight on at dusk, off at dawn.\n8. Complete installation on\nan existing pole.\n\n\na. Full maintenance when.\never needed.\n\n\n5. All electric energy the lamp\nwill use.\n\n\n6. Convenience and protec-\nton without costly investment.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2749,
+                    "y0": 3235,
+                    "x1": 3489,
+                    "y1": 4685
+                }
+            ],
+            "bbox": [
+                2749,
+                3235,
+                3489,
+                4685
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                22,
+                8
+            ],
+            "headline": "",
+            "article": "Ray Schanen Of Milwaukee,\none Of the nations top profess\nsional bowlers and Miller High\nLife bowling, adviser, demon\nstrates how to roll a natural hook\nwithout any conscious twisting\neffort. It's done by keeping the\nthumb we'll to the left, or at 9\no'clock on an imaginary clock,\nfrom backswing to delivery. The\nthumb will leave the ball first.\nThe other fingers, being on the\nside of the ball, will impart the\nspin necessary for hook.\n\n\nProfessional bowlers agree\nthat a hook or curve ball is pre-\nferred because it's spinning ac-\nton mixes the pins and leaves\nfewer splits.",
+            "byline": "KEEP THUMB AT\n9 O'CLOCK FOR A HOOK",
+            "bbox_list": [
+                {
+                    "x0": 218,
+                    "y0": 6209,
+                    "x1": 935,
+                    "y1": 6332
+                },
+                {
+                    "x0": 177,
+                    "y0": 6354,
+                    "x1": 981,
+                    "y1": 7257
+                }
+            ],
+            "bbox": [
+                177,
+                6209,
+                981,
+                7257
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                27,
+                19,
+                16
+            ],
+            "headline": "- CLIP & SAVE\n\np - CLIP & SAVE\nCIRCLE R CESSPOOL\n\n\nSERVICE\n\n\n275-l5o8",
+            "article": "ST. off on pumping\n81 off on chemical treat\ning\n\n\nLimit l per call\nSand & Grease Trap.\nComplete Sewer Service\nChemical Treatment\n\n\nGOOD ANYTIME",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1178,
+                    "y0": 2199,
+                    "x1": 1645,
+                    "y1": 2264
+                },
+                {
+                    "x0": 1114,
+                    "y0": 2228,
+                    "x1": 1790,
+                    "y1": 2549
+                },
+                {
+                    "x0": 1097,
+                    "y0": 2554,
+                    "x1": 1784,
+                    "y1": 3032
+                }
+            ],
+            "bbox": [
+                1097,
+                2199,
+                1790,
+                3032
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "Harold Niles did!\nHarold E. Niles, District Manager OF\nGeneral Communications, Inc, Phoe-\nnix, says: Because our answering\nservice personnel are on duty around\nthe clock, adequate parking lot light\ning is necessity. This lighting SerV-\nice is the perfect answer to our needs.\nWe make no costly investment in fix\nlures, never have to replace burned\nout lamps, and get brilliant iIIumina-\ntion at low cost.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 3922,
+                    "x1": 2692,
+                    "y1": 4662
+                }
+            ],
+            "bbox": [
+                1970,
+                3922,
+                2692,
+                4662
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        },
+        {
+            "object_ids": [
+                15,
+                23,
+                29
+            ],
+            "headline": "2; For\n\n\nwomen\n! O111E..",
+            "article": "A clean sponge makes a fine\nspoon holder on your stove top,\nwhen you are cooking. 1t also can\nbe used to wipe up any spills, and\nit can be rinsed right along with\nthe dishes.",
+            "byline": "BY LINDA SCOTT",
+            "bbox_list": [
+                {
+                    "x0": 3832,
+                    "y0": 2036,
+                    "x1": 4229,
+                    "y1": 2270
+                },
+                {
+                    "x0": 3937,
+                    "y0": 2287,
+                    "x1": 4345,
+                    "y1": 2334
+                },
+                {
+                    "x0": 3692,
+                    "y0": 2438,
+                    "x1": 4502,
+                    "y1": 2736
+                }
+            ],
+            "bbox": [
+                3692,
+                2036,
+                4502,
+                2736
+            ],
+            "full_article_id": 30,
+            "id": "30_1964-02-07_p1_sn84021918_0041421695A_1964020701_0287.json"
+        }
+    ]
+}

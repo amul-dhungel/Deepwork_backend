@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112001/0640.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7411,
+        "width": 4869
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1207,
+                "y0": 3387,
+                "x1": 2030,
+                "y1": 4430
+            },
+            "class": "article",
+            "raw_text": "coined home, too.\n\n\nFora defeated the German Box\nerr Zech in the fourth round of a\nscheduled 10 rounder.\n\n\nMrs. Walter Brown was really\nsurprised at her surprise birth\nday party Sunday. Shewas caught\nin her house cleaning outfit.\nGuests included Mr.. and Mrs.\nClovis Campbell. MIR. Lampe,\nstate trea surer of Connecticut,\nthe Walter Fagins, Murrell\nSmith, of Lake Placid, N. y,\nHenry Strickland, Mrs. Curtis\nMurray, MIR. and Mrs. Art Will\nhanson, Mrs. Geneva Humbdy\nand MIR. and Mrs. A. Moore.\n\n\nFlora Ruffin",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 292,
+                "y0": 3381,
+                "x1": 1115,
+                "y1": 4441
+            },
+            "class": "article",
+            "raw_text": "Gospel Valveta one S will appear\nin Blythe, California Sunday.\n\n\nThe next Debonairs meeting\nwill be held Sat-. Nov. 81 at the\nhome ofMrs. Demetra Vann, 1884\nE. Monroe.\n\n\nA great musicale will be pre-\nscented at Pilgrim Rest Baptist\nChurch Sum-, Nov. y at 7:30.\nRev. O.. Mundy and his junior\nchoirs will be in charge of the\nprogram.\n\n\nFora Foley, heavyweight\nboxer and his trainer, Johnny\nHart, we're welcomed home la st\nSaturday night with party hosted\nby Mrs. John Hart. Everyone who\nattended felt they were being well",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 911,
+                "y0": 3277,
+                "x1": 1422,
+                "y1": 3364
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3864,
+                "y0": 1383,
+                "x1": 4647,
+                "y1": 3405
+            },
+            "class": "article",
+            "raw_text": "Do all those holiday dinners,\nstarting with Thanksgiving,\nturn you into a Cinderella\nworking overtime in the kitchen\nwhile the rest of the family has\nball? You can cook your feast\nand enjoy it, too, with just a\nlittle before-dinner planning.\n\n\nYou're off to a head start\nwhen all the right tools (uten-\nsils) are at hand. Deciding in\nadvance how you'll cook each\nSelection\" in the menu also\nwill speed up work-and as\nsure more tender results.\n\n\nColorful holiday vegetables\nbecome tasty morsels if cooked\nin Club Aluminum's water\nless\" pans, thus preserving all\ntheir natural flavor. The slow,\neven heat provided by heavy\naluminium cookware eliminates\n\"pot-watching,\" and keeps you\nand the room temperature cool!\n\n\nIl u Il\n\n\nDon't hesitate to reserve a\nplace on the \"festive board\" for\nthe favorite candied vans or\nsquash-when cooked to new\nperfection in a pan coated with\n\"Black Magic\" TETON. Truly\nmagical is the way the specially\ncoated bottom refuses to stick\nto even the most sirupy foods\nand cooks them without fat.\n\n\nThe non-stick nature of this\ncookware cuts cleanup time in\nhalf-so you can escape from\nthe kitchen early enough to\nenjoy after-the-feast relaxing.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3858,
+                "y0": 370,
+                "x1": 4635,
+                "y1": 672
+            },
+            "class": "headline",
+            "raw_text": "Time-Saving Tips\nFor Holiday Cooks\n\n\nby LOUISE ALLEN",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3007,
+                "y0": 486,
+                "x1": 3778,
+                "y1": 771
+            },
+            "class": "article",
+            "raw_text": "An Amarillo, Tex, man\ndidn't have far to 60 to pay\ntwo traffic fines he received.\nHe is a traffic court judge\nat the local police station.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3221,
+                "y0": 411,
+                "x1": 3570,
+                "y1": 475
+            },
+            "class": "headline",
+            "raw_text": "Far to Go?",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 303,
+                "y0": 2315,
+                "x1": 2001,
+                "y1": 3272
+            },
+            "class": "article",
+            "raw_text": "community Homes Unit Boys Club,\n1901 w. Sherman Saturday, Nov. 8.\n\n\nWomenI Auxiliary served shstesses Auxiliary\npresident supervised the serving\nof Vic Householder Boys Club\ndirector.\n\n\nthey Gloria\nand Harvey Carolyn Short Lester Harvey DAVIS\n\n\nTop of Lowell Drill Team performed Pictured\nJohnny Willis 10 Acosa Freddy Neal Richard\nRoneria Charles Hail. Steve Moreno Lewis Torres.\n\n\nbarbecue included David Vaughn Maina Sui\nMrs. Mildred Vaughn and Jeanne Vaughn and Louise\nCooley.\n\n\nright Mrs. Erlena Baker and Rev. Adine Johnson\nsupported the boys with their presence.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-11-20"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "coined home, too.\n\n\nFora defeated the German Box\nerr Zech in the fourth round of a\nscheduled 10 rounder.\n\n\nMrs. Walter Brown was really\nsurprised at her surprise birth\nday party Sunday. Shewas caught\nin her house cleaning outfit.\nGuests included Mr.. and Mrs.\nClovis Campbell. MIR. Lampe,\nstate trea surer of Connecticut,\nthe Walter Fagins, Murrell\nSmith, of Lake Placid, N. y,\nHenry Strickland, Mrs. Curtis\nMurray, MIR. and Mrs. Art Will\nhanson, Mrs. Geneva Humbdy\nand MIR. and Mrs. A. Moore.\n\n\nFlora Ruffin",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1207,
+                    "y0": 3387,
+                    "x1": 2030,
+                    "y1": 4430
+                }
+            ],
+            "bbox": [
+                1207,
+                3387,
+                2030,
+                4430
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-20_p1_sn84021918_0041421695A_1964112001_0640.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "",
+            "article": "Gospel Valveta one S will appear\nin Blythe, California Sunday.\n\n\nThe next Debonairs meeting\nwill be held Sat-. Nov. 81 at the\nhome ofMrs. Demetra Vann, 1884\nE. Monroe.\n\n\nA great musicale will be pre-\nscented at Pilgrim Rest Baptist\nChurch Sum-, Nov. y at 7:30.\nRev. O.. Mundy and his junior\nchoirs will be in charge of the\nprogram.\n\n\nFora Foley, heavyweight\nboxer and his trainer, Johnny\nHart, we're welcomed home la st\nSaturday night with party hosted\nby Mrs. John Hart. Everyone who\nattended felt they were being well",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 911,
+                    "y0": 3277,
+                    "x1": 1422,
+                    "y1": 3364
+                },
+                {
+                    "x0": 292,
+                    "y0": 3381,
+                    "x1": 1115,
+                    "y1": 4441
+                }
+            ],
+            "bbox": [
+                292,
+                3277,
+                1422,
+                4441
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-20_p1_sn84021918_0041421695A_1964112001_0640.json"
+        },
+        {
+            "object_ids": [
+                26,
+                6
+            ],
+            "headline": "Time-Saving Tips\nFor Holiday Cooks\n\n\nby LOUISE ALLEN",
+            "article": "Do all those holiday dinners,\nstarting with Thanksgiving,\nturn you into a Cinderella\nworking overtime in the kitchen\nwhile the rest of the family has\nball? You can cook your feast\nand enjoy it, too, with just a\nlittle before-dinner planning.\n\n\nYou're off to a head start\nwhen all the right tools (uten-\nsils) are at hand. Deciding in\nadvance how you'll cook each\nSelection\" in the menu also\nwill speed up work-and as\nsure more tender results.\n\n\nColorful holiday vegetables\nbecome tasty morsels if cooked\nin Club Aluminum's water\nless\" pans, thus preserving all\ntheir natural flavor. The slow,\neven heat provided by heavy\naluminium cookware eliminates\n\"pot-watching,\" and keeps you\nand the room temperature cool!\n\n\nIl u Il\n\n\nDon't hesitate to reserve a\nplace on the \"festive board\" for\nthe favorite candied vans or\nsquash-when cooked to new\nperfection in a pan coated with\n\"Black Magic\" TETON. Truly\nmagical is the way the specially\ncoated bottom refuses to stick\nto even the most sirupy foods\nand cooks them without fat.\n\n\nThe non-stick nature of this\ncookware cuts cleanup time in\nhalf-so you can escape from\nthe kitchen early enough to\nenjoy after-the-feast relaxing.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3858,
+                    "y0": 370,
+                    "x1": 4635,
+                    "y1": 672
+                },
+                {
+                    "x0": 3864,
+                    "y0": 1383,
+                    "x1": 4647,
+                    "y1": 3405
+                }
+            ],
+            "bbox": [
+                3858,
+                370,
+                4647,
+                3405
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-20_p1_sn84021918_0041421695A_1964112001_0640.json"
+        },
+        {
+            "object_ids": [
+                19,
+                10
+            ],
+            "headline": "Far to Go?",
+            "article": "An Amarillo, Tex, man\ndidn't have far to 60 to pay\ntwo traffic fines he received.\nHe is a traffic court judge\nat the local police station.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3221,
+                    "y0": 411,
+                    "x1": 3570,
+                    "y1": 475
+                },
+                {
+                    "x0": 3007,
+                    "y0": 486,
+                    "x1": 3778,
+                    "y1": 771
+                }
+            ],
+            "bbox": [
+                3007,
+                411,
+                3778,
+                771
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-20_p1_sn84021918_0041421695A_1964112001_0640.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "community Homes Unit Boys Club,\n1901 w. Sherman Saturday, Nov. 8.\n\n\nWomenI Auxiliary served shstesses Auxiliary\npresident supervised the serving\nof Vic Householder Boys Club\ndirector.\n\n\nthey Gloria\nand Harvey Carolyn Short Lester Harvey DAVIS\n\n\nTop of Lowell Drill Team performed Pictured\nJohnny Willis 10 Acosa Freddy Neal Richard\nRoneria Charles Hail. Steve Moreno Lewis Torres.\n\n\nbarbecue included David Vaughn Maina Sui\nMrs. Mildred Vaughn and Jeanne Vaughn and Louise\nCooley.\n\n\nright Mrs. Erlena Baker and Rev. Adine Johnson\nsupported the boys with their presence.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 303,
+                    "y0": 2315,
+                    "x1": 2001,
+                    "y1": 3272
+                }
+            ],
+            "bbox": [
+                303,
+                2315,
+                2001,
+                3272
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-11-20_p1_sn84021918_0041421695A_1964112001_0640.json"
+        }
+    ]
+}

@@ -1,0 +1,543 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050801/0389.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4906
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1938,
+                "y0": 2824,
+                "x1": 2754,
+                "y1": 4004
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The Supreme\nCourt refused to upset a ruling\nthat school boundaries need not\nbe drawn to force migration\nwhen they show no intention to\nsegregate the races.\n\n\nThe high courts refusal to\nhear the Gary, Indiana case does\nnot necessarily mean 1t agrees\nwith the lower courts decision.\nThis inconclusive status is a\ndisappointment to many on both\nsides of the issue.\n\n\nThe court also refused to re-\nview decision that Negro pupils\nare entitled to have their entire\nschool system on a nonracial\nbasis, including assignment of\nteachers, supervisors and sup\nporting pers onnel.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1950,
+                "y0": 2403,
+                "x1": 2609,
+                "y1": 2808
+            },
+            "class": "headline",
+            "raw_text": "Court Refuses\nTo Review\n\n\nPupil Bound ury\nPlan Of Gary",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2828,
+                "y0": 5678,
+                "x1": 3638,
+                "y1": 6915
+            },
+            "class": "article",
+            "raw_text": "NOTASULGA, Ala. Six Ne\ngro pupils returned to class under\nfederal court order at Macon\nCounty High School under Ala\nbama state troopers guard.\n\n\nThe Negroes we're assigned\nspace in the auditorium of the\nfire-ravaged building.\n\n\nThe auditorium was not dam\naged by the early morning blaze.\n\n\nOnly three weeks of class re-\nmain for the Negroes who will\nattend school by themselves.\nWhite students at the high school\nstaged a lO0-per-cent-effective\nboycott shortly after the Negroes\nwere enrolled last February un-\nder federal court order in this\nCentral Alabama county where\nNegroes outnumber whites more\nthan 4 to /.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2834,
+                "y0": 5441,
+                "x1": 3568,
+                "y1": 5644
+            },
+            "class": "headline",
+            "raw_text": "NEGROES RETURN TO\nALABAMA SCHOOL",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3700,
+                "y0": 5678,
+                "x1": 4516,
+                "y1": 6921
+            },
+            "class": "article",
+            "raw_text": "LOS ANG ELES : Ruby Dee, &C\ntress of screen, stage and tele-\nvision, was nominated Tuesday\nfor one of TVS Emmy awards.\nfor an outstanding single per-\nTorrance by an actress ina lead\ning role.\n\n\nAlso nominated was Carl Lee,\nwho won honors for an outStand-\ning performance by an actor in\na supporting role.\n\n\nBoth won their nominations\nfor parts in the same show, an\nepisode in the Nurses\" series.\nThe episode in which they ap-\npeared was entitled Express\nStop from Lemox Avenue\n\n\nJoey Bishop will NC the May\nIs awards show over NBC. in\nthis the 10th annual presentation\nof Emmys.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3718,
+                "y0": 5389,
+                "x1": 4487,
+                "y1": 5662
+            },
+            "class": "headline",
+            "raw_text": "Ruby pee\nAnd Carl Lee\nNo minated For Emmys",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1944,
+                "y0": 4320,
+                "x1": 2760,
+                "y1": 5043
+            },
+            "class": "article",
+            "raw_text": "NEW YORK : A Negro youth\nsought in l3-state police alarm\nin connection with the Staying of\nHungarian woman refugee sur\nrendered.\n\n\nWallace Baker, l8, walked into\na Harlem police station, accom-\npanied by a lawyer. Police have\nsaid Baker was the actual killer\nof Mrs. Magit Sugar in Har-\nlem secondhand clothing store\nshe operated with her husband.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1933,
+                "y0": 4072,
+                "x1": 2517,
+                "y1": 4298
+            },
+            "class": "headline",
+            "raw_text": "YOUTH HELD\nIN Staying",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 182,
+                "y0": 4332,
+                "x1": 1882,
+                "y1": 4974
+            },
+            "class": "article",
+            "raw_text": "nostalgia relved last Wednesday at Harmon\ngroup of and recalled past events\nMembers of the graduating High School\nprepared plans for their tenth anniversary reunion\n\n\nShown above are eated Harris Mines Betty Mckinney\nMarva Newkirk Evaline Dykes and Samuel Engram.\n\n\nStanding are Thomas Dykes Moore Degen\nClark IT, Patterson Jackson John R. Davis Calvin\nWilliams and Howard Decker.\n\n\nInterested should contact Degene Clark Tor tuer\nformal Call 278-17O4",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 182,
+                "y0": 6764,
+                "x1": 998,
+                "y1": 7013
+            },
+            "class": "article",
+            "raw_text": "Arizona retail sales scared to\nthe all-time peak of $2.2 bill\nlion during 1868. AS total retail\nvolume climbed 4.7% above",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 471,
+                "y0": 6625,
+                "x1": 1541,
+                "y1": 6736
+            },
+            "class": "headline",
+            "raw_text": "State Retail Sales High",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1950,
+                "y0": 6440,
+                "x1": 2754,
+                "y1": 6967
+            },
+            "class": "article",
+            "raw_text": "STATESViLLE, NC. - A cor\noner's jury ruled Benjamin San\nford Carlton, 40, Negro candi-\ndate for the Irdell County Board\nof Commissioners, died April %\nof self-inflicted gunshot wound.\n\n\nWitnesses told the all-Negro\njury Carlton had been depressed\nbecause of financial difficulties.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1973,
+                "y0": 6204,
+                "x1": 2529,
+                "y1": 6418
+            },
+            "class": "headline",
+            "raw_text": "Death Ruled\nSuicide",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1078,
+                "y0": 6770,
+                "x1": 1887,
+                "y1": 7048
+            },
+            "class": "article",
+            "raw_text": "l96Ts $2.l billion.\n\n\n1t was the 18th consecutive\nyear that Arizona percentage\nincrease was greater than the\nu. s.. as a whole.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2828,
+                "y0": 2587,
+                "x1": 4510,
+                "y1": 3322
+            },
+            "class": "article",
+            "raw_text": "The annual city Eks oratocal sponsored by the Pat\nGrand Temple held Sunday South\nminister Presbyterian Church, 1923 E. Broadway.\n\n\nTop Kirk South High second\nright accepting trophy from Mrs. James McElroy educa-\nton director.\n\n\nTommy Bastan, second place. of North High,\nMrs. McEroy Boone third place,\nof Tempe High.\n\n\nOther participants the annual Eks oratoral Sunday\nincluded Dorothy Price, Carl Hayden Hg Linda Bosley Glendale\nHigh; Lorraine Newman, South High and Leo Kreiden.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2845,
+                "y0": 4719,
+                "x1": 4516,
+                "y1": 5326
+            },
+            "class": "article",
+            "raw_text": "Jill of America installed Saturday,\n\n\nNew Mesdames Cecil Scott editor In chief c. A.\nBattle program chairman Virgil Bryant historian Helen ODre\nrecording William Warren\npresident Margaret Reeder, president ggs\n\n\nStanding Bryant Bertha Solomon Owens\nLois Myers Lucy McCray Vadia Smith, Meba Galloway Ophea\nJoseph and Henrietta Graves. tsut\n\n\nNew accepted Mesdames William Owens Dam\nlei Myers and Bob McCray. 80 N{lss5",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-08"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "Court Refuses\nTo Review\n\n\nPupil Bound ury\nPlan Of Gary",
+            "article": "WASHINGTON The Supreme\nCourt refused to upset a ruling\nthat school boundaries need not\nbe drawn to force migration\nwhen they show no intention to\nsegregate the races.\n\n\nThe high courts refusal to\nhear the Gary, Indiana case does\nnot necessarily mean 1t agrees\nwith the lower courts decision.\nThis inconclusive status is a\ndisappointment to many on both\nsides of the issue.\n\n\nThe court also refused to re-\nview decision that Negro pupils\nare entitled to have their entire\nschool system on a nonracial\nbasis, including assignment of\nteachers, supervisors and sup\nporting pers onnel.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1950,
+                    "y0": 2403,
+                    "x1": 2609,
+                    "y1": 2808
+                },
+                {
+                    "x0": 1938,
+                    "y0": 2824,
+                    "x1": 2754,
+                    "y1": 4004
+                }
+            ],
+            "bbox": [
+                1938,
+                2403,
+                2754,
+                4004
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "NEGROES RETURN TO\nALABAMA SCHOOL",
+            "article": "NOTASULGA, Ala. Six Ne\ngro pupils returned to class under\nfederal court order at Macon\nCounty High School under Ala\nbama state troopers guard.\n\n\nThe Negroes we're assigned\nspace in the auditorium of the\nfire-ravaged building.\n\n\nThe auditorium was not dam\naged by the early morning blaze.\n\n\nOnly three weeks of class re-\nmain for the Negroes who will\nattend school by themselves.\nWhite students at the high school\nstaged a lO0-per-cent-effective\nboycott shortly after the Negroes\nwere enrolled last February un-\nder federal court order in this\nCentral Alabama county where\nNegroes outnumber whites more\nthan 4 to /.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2834,
+                    "y0": 5441,
+                    "x1": 3568,
+                    "y1": 5644
+                },
+                {
+                    "x0": 2828,
+                    "y0": 5678,
+                    "x1": 3638,
+                    "y1": 6915
+                }
+            ],
+            "bbox": [
+                2828,
+                5441,
+                3638,
+                6915
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "Ruby pee\nAnd Carl Lee\nNo minated For Emmys",
+            "article": "LOS ANG ELES : Ruby Dee, &C\ntress of screen, stage and tele-\nvision, was nominated Tuesday\nfor one of TVS Emmy awards.\nfor an outstanding single per-\nTorrance by an actress ina lead\ning role.\n\n\nAlso nominated was Carl Lee,\nwho won honors for an outStand-\ning performance by an actor in\na supporting role.\n\n\nBoth won their nominations\nfor parts in the same show, an\nepisode in the Nurses\" series.\nThe episode in which they ap-\npeared was entitled Express\nStop from Lemox Avenue\n\n\nJoey Bishop will NC the May\nIs awards show over NBC. in\nthis the 10th annual presentation\nof Emmys.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3718,
+                    "y0": 5389,
+                    "x1": 4487,
+                    "y1": 5662
+                },
+                {
+                    "x0": 3700,
+                    "y0": 5678,
+                    "x1": 4516,
+                    "y1": 6921
+                }
+            ],
+            "bbox": [
+                3700,
+                5389,
+                4516,
+                6921
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                8,
+                6
+            ],
+            "headline": "YOUTH HELD\nIN Staying",
+            "article": "NEW YORK : A Negro youth\nsought in l3-state police alarm\nin connection with the Staying of\nHungarian woman refugee sur\nrendered.\n\n\nWallace Baker, l8, walked into\na Harlem police station, accom-\npanied by a lawyer. Police have\nsaid Baker was the actual killer\nof Mrs. Magit Sugar in Har-\nlem secondhand clothing store\nshe operated with her husband.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1933,
+                    "y0": 4072,
+                    "x1": 2517,
+                    "y1": 4298
+                },
+                {
+                    "x0": 1944,
+                    "y0": 4320,
+                    "x1": 2760,
+                    "y1": 5043
+                }
+            ],
+            "bbox": [
+                1933,
+                4072,
+                2760,
+                5043
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "nostalgia relved last Wednesday at Harmon\ngroup of and recalled past events\nMembers of the graduating High School\nprepared plans for their tenth anniversary reunion\n\n\nShown above are eated Harris Mines Betty Mckinney\nMarva Newkirk Evaline Dykes and Samuel Engram.\n\n\nStanding are Thomas Dykes Moore Degen\nClark IT, Patterson Jackson John R. Davis Calvin\nWilliams and Howard Decker.\n\n\nInterested should contact Degene Clark Tor tuer\nformal Call 278-17O4",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 182,
+                    "y0": 4332,
+                    "x1": 1882,
+                    "y1": 4974
+                }
+            ],
+            "bbox": [
+                182,
+                4332,
+                1882,
+                4974
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                23,
+                12
+            ],
+            "headline": "State Retail Sales High",
+            "article": "Arizona retail sales scared to\nthe all-time peak of $2.2 bill\nlion during 1868. AS total retail\nvolume climbed 4.7% above",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 471,
+                    "y0": 6625,
+                    "x1": 1541,
+                    "y1": 6736
+                },
+                {
+                    "x0": 182,
+                    "y0": 6764,
+                    "x1": 998,
+                    "y1": 7013
+                }
+            ],
+            "bbox": [
+                182,
+                6625,
+                1541,
+                7013
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                26,
+                13
+            ],
+            "headline": "Death Ruled\nSuicide",
+            "article": "STATESViLLE, NC. - A cor\noner's jury ruled Benjamin San\nford Carlton, 40, Negro candi-\ndate for the Irdell County Board\nof Commissioners, died April %\nof self-inflicted gunshot wound.\n\n\nWitnesses told the all-Negro\njury Carlton had been depressed\nbecause of financial difficulties.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1973,
+                    "y0": 6204,
+                    "x1": 2529,
+                    "y1": 6418
+                },
+                {
+                    "x0": 1950,
+                    "y0": 6440,
+                    "x1": 2754,
+                    "y1": 6967
+                }
+            ],
+            "bbox": [
+                1950,
+                6204,
+                2754,
+                6967
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "l96Ts $2.l billion.\n\n\n1t was the 18th consecutive\nyear that Arizona percentage\nincrease was greater than the\nu. s.. as a whole.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1078,
+                    "y0": 6770,
+                    "x1": 1887,
+                    "y1": 7048
+                }
+            ],
+            "bbox": [
+                1078,
+                6770,
+                1887,
+                7048
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "The annual city Eks oratocal sponsored by the Pat\nGrand Temple held Sunday South\nminister Presbyterian Church, 1923 E. Broadway.\n\n\nTop Kirk South High second\nright accepting trophy from Mrs. James McElroy educa-\nton director.\n\n\nTommy Bastan, second place. of North High,\nMrs. McEroy Boone third place,\nof Tempe High.\n\n\nOther participants the annual Eks oratoral Sunday\nincluded Dorothy Price, Carl Hayden Hg Linda Bosley Glendale\nHigh; Lorraine Newman, South High and Leo Kreiden.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2828,
+                    "y0": 2587,
+                    "x1": 4510,
+                    "y1": 3322
+                }
+            ],
+            "bbox": [
+                2828,
+                2587,
+                4510,
+                3322
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "Jill of America installed Saturday,\n\n\nNew Mesdames Cecil Scott editor In chief c. A.\nBattle program chairman Virgil Bryant historian Helen ODre\nrecording William Warren\npresident Margaret Reeder, president ggs\n\n\nStanding Bryant Bertha Solomon Owens\nLois Myers Lucy McCray Vadia Smith, Meba Galloway Ophea\nJoseph and Henrietta Graves. tsut\n\n\nNew accepted Mesdames William Owens Dam\nlei Myers and Bob McCray. 80 N{lss5",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2845,
+                    "y0": 4719,
+                    "x1": 4516,
+                    "y1": 5326
+                }
+            ],
+            "bbox": [
+                2845,
+                4719,
+                4516,
+                5326
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-05-08_p1_sn84021918_0041421695A_1964050801_0389.json"
+        }
+    ]
+}

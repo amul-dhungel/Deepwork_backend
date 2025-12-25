@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-18",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7383,
+        "width": 4868,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-18",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121801/0670.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1188,
+                "y0": 553,
+                "x1": 2013,
+                "y1": 1321
+            },
+            "class": "article",
+            "raw_text": "Raymond Rubin opposed the\nmotion. He told the cort that\nMr.. Powell had been making\nmockery of state courts and\nwas attempting to make\nmockery of the Federal Court.\n\n\nMr.. Rubin represents Mrs.\nEsther James, a Harlem widow,\nwho won S4o,50O defamation\nof character judgment against\nthe Congressman after he had\ncalled her a \"bag woman\" who\ncollects for the numbers racket.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 276,
+                "y0": 547,
+                "x1": 1102,
+                "y1": 1269
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The United States\nCourt of Appeals refused Friday\nto stay a civil arrest warrant\nissued against Representativ\nAdam Clayton Powell.\n\n\nHenry Williams, MIR. Powel's\nlawyer, asked for the stay pend\ning decision on his appeal\nfrom a lower court ruling deny\ning Mr.. Powell temporary in\njunction against enforcement\nof the warrant.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 420,
+                "y0": 351,
+                "x1": 1938,
+                "y1": 491
+            },
+            "class": "headline",
+            "raw_text": "Rep. Powell Must Face Court Suit",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3870,
+                "y0": 421,
+                "x1": 4678,
+                "y1": 946
+            },
+            "class": "article",
+            "raw_text": "Two members of the Phoenix\nHuman Relations Commission\nhave resigned because of other\nactivities.\n\n\nThey are the Rev. L. ] I. Harp\ner 1853 E. Movile, and DR.. Ma\nson c. Reddix, ll40 E. Wash\nington who is joining the US.\nAir Force.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3887,
+                "y0": 276,
+                "x1": 4459,
+                "y1": 410
+            },
+            "class": "headline",
+            "raw_text": "z Resign\nFrom Com mission",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2099,
+                "y0": 1747,
+                "x1": 3790,
+                "y1": 2285
+            },
+            "class": "article",
+            "raw_text": "Phoenix Mr. and Mrs. Donald Walker\nbowling honors after entering their first bowling league\nThey shown holding their second place trophies\nhigh individual honors damn Walker\ntrophy for second high series with handicap\n\n\nThe couple is living Teheran, Sp6 Walker\nduty with the US. Air Force.\n\n\nShown with the Walkers Sp5 and Mrs. John Por heir\nbowl",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2976,
+                "y0": 2457,
+                "x1": 3784,
+                "y1": 2683
+            },
+            "class": "article",
+            "raw_text": "day night.\n\n\nPolice said Gilreath admitted\nstabbing her during an argument\nat $50 S. Tenth Ave.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2197,
+                "y0": 2312,
+                "x1": 3530,
+                "y1": 2429
+            },
+            "class": "headline",
+            "raw_text": "MAN CHARGED WITH MURDER",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2093,
+                "y0": 2457,
+                "x1": 2913,
+                "y1": 2694
+            },
+            "class": "article",
+            "raw_text": "Will Gilreath, 81, 1901 S. Mon\ntezuma, was chargedwith murder\nin the fatal stabbing of his es-\ntranged wife, Ora Mae, 5OSatur-",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964121801_0670",
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Raymond Rubin opposed the\nmotion. He told the cort that\nMr.. Powell had been making\nmockery of state courts and\nwas attempting to make\nmockery of the Federal Court.\n\n\nMr.. Rubin represents Mrs.\nEsther James, a Harlem widow,\nwho won S4o,50O defamation\nof character judgment against\nthe Congressman after he had\ncalled her a \"bag woman\" who\ncollects for the numbers racket.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1188,
+                    "y0": 553,
+                    "x1": 2013,
+                    "y1": 1321
+                }
+            ],
+            "bbox": [
+                1188,
+                553,
+                2013,
+                1321
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-18_pna_sn84021918_0041421695A_1964121801_0670.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "Rep. Powell Must Face Court Suit",
+            "article": "NEW YORK The United States\nCourt of Appeals refused Friday\nto stay a civil arrest warrant\nissued against Representativ\nAdam Clayton Powell.\n\n\nHenry Williams, MIR. Powel's\nlawyer, asked for the stay pend\ning decision on his appeal\nfrom a lower court ruling deny\ning Mr.. Powell temporary in\njunction against enforcement\nof the warrant.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 420,
+                    "y0": 351,
+                    "x1": 1938,
+                    "y1": 491
+                },
+                {
+                    "x0": 276,
+                    "y0": 547,
+                    "x1": 1102,
+                    "y1": 1269
+                }
+            ],
+            "bbox": [
+                276,
+                351,
+                1938,
+                1269
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-18_pna_sn84021918_0041421695A_1964121801_0670.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "z Resign\nFrom Com mission",
+            "article": "Two members of the Phoenix\nHuman Relations Commission\nhave resigned because of other\nactivities.\n\n\nThey are the Rev. L. ] I. Harp\ner 1853 E. Movile, and DR.. Ma\nson c. Reddix, ll40 E. Wash\nington who is joining the US.\nAir Force.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3887,
+                    "y0": 276,
+                    "x1": 4459,
+                    "y1": 410
+                },
+                {
+                    "x0": 3870,
+                    "y0": 421,
+                    "x1": 4678,
+                    "y1": 946
+                }
+            ],
+            "bbox": [
+                3870,
+                276,
+                4678,
+                946
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-18_pna_sn84021918_0041421695A_1964121801_0670.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Phoenix Mr. and Mrs. Donald Walker\nbowling honors after entering their first bowling league\nThey shown holding their second place trophies\nhigh individual honors damn Walker\ntrophy for second high series with handicap\n\n\nThe couple is living Teheran, Sp6 Walker\nduty with the US. Air Force.\n\n\nShown with the Walkers Sp5 and Mrs. John Por heir\nbowl",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2099,
+                    "y0": 1747,
+                    "x1": 3790,
+                    "y1": 2285
+                }
+            ],
+            "bbox": [
+                2099,
+                1747,
+                3790,
+                2285
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-18_pna_sn84021918_0041421695A_1964121801_0670.json"
+        },
+        {
+            "object_ids": [
+                17,
+                10
+            ],
+            "headline": "MAN CHARGED WITH MURDER",
+            "article": "day night.\n\n\nPolice said Gilreath admitted\nstabbing her during an argument\nat $50 S. Tenth Ave.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2197,
+                    "y0": 2312,
+                    "x1": 3530,
+                    "y1": 2429
+                },
+                {
+                    "x0": 2976,
+                    "y0": 2457,
+                    "x1": 3784,
+                    "y1": 2683
+                }
+            ],
+            "bbox": [
+                2197,
+                2312,
+                3784,
+                2683
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-12-18_pna_sn84021918_0041421695A_1964121801_0670.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Will Gilreath, 81, 1901 S. Mon\ntezuma, was chargedwith murder\nin the fatal stabbing of his es-\ntranged wife, Ora Mae, 5OSatur-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2093,
+                    "y0": 2457,
+                    "x1": 2913,
+                    "y1": 2694
+                }
+            ],
+            "bbox": [
+                2093,
+                2457,
+                2913,
+                2694
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-12-18_pna_sn84021918_0041421695A_1964121801_0670.json"
+        }
+    ]
+}

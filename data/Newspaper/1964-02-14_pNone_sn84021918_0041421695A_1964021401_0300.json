@@ -1,0 +1,293 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-14",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4803,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-14",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964021401/0300.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 217,
+                "y0": 618,
+                "x1": 1039,
+                "y1": 1629
+            },
+            "class": "article",
+            "raw_text": "A total of 343 new active cases\nof tuberculosis were reported in\nMaricopa County in 1868. This\nwas an increase of SO cases\nover last year.\n\n\nHighest incidence of cases &C.\nCured in the so and past 50years\nage group.\n\n\nRace classification showed 200\ncases white: \"a cases Negro;\n1l-Indian and l6-other.\n\n\nOfficials of the tuberculosis\nassociation urges each person\nto have an annual x-ray and report\nto the doctor any continued colds\nor periods of physical exhaus-\nton.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 235,
+                "y0": 473,
+                "x1": 1016,
+                "y1": 578
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2026,
+                "y0": 646,
+                "x1": 2847,
+                "y1": 1601
+            },
+            "class": "article",
+            "raw_text": "unconstitutional Monday, Feb. 8,\nand therefore could not be voted\nupon by the people.\n\n\nJudge Joseph A. Moynihan. Jr.,\nsaid the real intent of the mea-\nsure, sponsored by the Greater\nDetroit Homeo Council, \"is\nto advance the cause of racial\nbigotry in the field of housing.\n\n\n''It is the courts duty to put\na judicial stop to any movement OF\nany extremist group which seeks\nto advance it's cause at the ex-\npense of the constitutional rights\nand privileges of any other\ngroup\" the Judge declared.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1130,
+                "y0": 456,
+                "x1": 2818,
+                "y1": 584
+            },
+            "class": "headline",
+            "raw_text": "NAAcp AID s1oppAcE OF HOUSING ORDINANCE",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1124,
+                "y0": 687,
+                "x1": 1946,
+                "y1": 1589
+            },
+            "class": "article",
+            "raw_text": "DETROIT-The city of the Ma\ntional Association for the Ad-\nvancement of Colored People was\nsuccessful in defeating a refer\nendum on a proposed city ordi-\nnance that would have prevented\nprospective Negro buyers from\npurchasing property in all-white\nneighborhoods.\n\n\nIn the lawsuit brought by the\nDetroit NAACP against the City\nElection Commission to bar the\nproposal from the ballot, a Wayne\nCounty circuit Judge ruled the\n\"homeowner' s rights ordinance",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2921,
+                "y0": 722,
+                "x1": 3748,
+                "y1": 1508
+            },
+            "class": "article",
+            "raw_text": "BOSTON Northeastern Uni\nversity has begun pilot program\nto recruit promising Negro stu\ndents who otherwise might not be\nable to go to college.\n\n\nUnder $l5O,OOO grant from\nthe Fund for the Advancement\nof Education, Northeastern will\nenroll Is Negro students for each\nof the next three years in its\ncooperative plan of education.\n\n\nThe university has long &C\ncepted Negro students. But the",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3810,
+                "y0": 704,
+                "x1": 4632,
+                "y1": 1526
+            },
+            "class": "article",
+            "raw_text": "new program, DR.. Asa Knowles\nthe president. said is designed to\nmeet a growing demand for Ne\ngroes in white collar jobs. Re-\ncruitment will be in the metro\npolitan Boston area.\n\n\nSo far, five students out of\nso applicants have been accepted\nfor enrolment next fall.\n\n\nDR.. Knowles said many Ne\ngroes took vocational training in\nhigh school on the theory they\ncould not hope for white collar\njobs.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3152,
+                "y0": 439,
+                "x1": 4401,
+                "y1": 676
+            },
+            "class": "headline",
+            "raw_text": "Negro Student Recruited For\nNorthwestern University At Boston",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964021401_0300",
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                0
+            ],
+            "headline": "",
+            "article": "A total of 343 new active cases\nof tuberculosis were reported in\nMaricopa County in 1868. This\nwas an increase of SO cases\nover last year.\n\n\nHighest incidence of cases &C.\nCured in the so and past 50years\nage group.\n\n\nRace classification showed 200\ncases white: \"a cases Negro;\n1l-Indian and l6-other.\n\n\nOfficials of the tuberculosis\nassociation urges each person\nto have an annual x-ray and report\nto the doctor any continued colds\nor periods of physical exhaus-\nton.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 235,
+                    "y0": 473,
+                    "x1": 1016,
+                    "y1": 578
+                },
+                {
+                    "x0": 217,
+                    "y0": 618,
+                    "x1": 1039,
+                    "y1": 1629
+                }
+            ],
+            "bbox": [
+                217,
+                473,
+                1039,
+                1629
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-14_pna_sn84021918_0041421695A_1964021401_0300.json"
+        },
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "NAAcp AID s1oppAcE OF HOUSING ORDINANCE",
+            "article": "unconstitutional Monday, Feb. 8,\nand therefore could not be voted\nupon by the people.\n\n\nJudge Joseph A. Moynihan. Jr.,\nsaid the real intent of the mea-\nsure, sponsored by the Greater\nDetroit Homeo Council, \"is\nto advance the cause of racial\nbigotry in the field of housing.\n\n\n''It is the courts duty to put\na judicial stop to any movement OF\nany extremist group which seeks\nto advance it's cause at the ex-\npense of the constitutional rights\nand privileges of any other\ngroup\" the Judge declared.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1130,
+                    "y0": 456,
+                    "x1": 2818,
+                    "y1": 584
+                },
+                {
+                    "x0": 2026,
+                    "y0": 646,
+                    "x1": 2847,
+                    "y1": 1601
+                }
+            ],
+            "bbox": [
+                1130,
+                456,
+                2847,
+                1601
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-14_pna_sn84021918_0041421695A_1964021401_0300.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "DETROIT-The city of the Ma\ntional Association for the Ad-\nvancement of Colored People was\nsuccessful in defeating a refer\nendum on a proposed city ordi-\nnance that would have prevented\nprospective Negro buyers from\npurchasing property in all-white\nneighborhoods.\n\n\nIn the lawsuit brought by the\nDetroit NAACP against the City\nElection Commission to bar the\nproposal from the ballot, a Wayne\nCounty circuit Judge ruled the\n\"homeowner' s rights ordinance",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1124,
+                    "y0": 687,
+                    "x1": 1946,
+                    "y1": 1589
+                }
+            ],
+            "bbox": [
+                1124,
+                687,
+                1946,
+                1589
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-14_pna_sn84021918_0041421695A_1964021401_0300.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "BOSTON Northeastern Uni\nversity has begun pilot program\nto recruit promising Negro stu\ndents who otherwise might not be\nable to go to college.\n\n\nUnder $l5O,OOO grant from\nthe Fund for the Advancement\nof Education, Northeastern will\nenroll Is Negro students for each\nof the next three years in its\ncooperative plan of education.\n\n\nThe university has long &C\ncepted Negro students. But the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2921,
+                    "y0": 722,
+                    "x1": 3748,
+                    "y1": 1508
+                }
+            ],
+            "bbox": [
+                2921,
+                722,
+                3748,
+                1508
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-14_pna_sn84021918_0041421695A_1964021401_0300.json"
+        },
+        {
+            "object_ids": [
+                5,
+                4
+            ],
+            "headline": "Negro Student Recruited For\nNorthwestern University At Boston",
+            "article": "new program, DR.. Asa Knowles\nthe president. said is designed to\nmeet a growing demand for Ne\ngroes in white collar jobs. Re-\ncruitment will be in the metro\npolitan Boston area.\n\n\nSo far, five students out of\nso applicants have been accepted\nfor enrolment next fall.\n\n\nDR.. Knowles said many Ne\ngroes took vocational training in\nhigh school on the theory they\ncould not hope for white collar\njobs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3152,
+                    "y0": 439,
+                    "x1": 4401,
+                    "y1": 676
+                },
+                {
+                    "x0": 3810,
+                    "y0": 704,
+                    "x1": 4632,
+                    "y1": 1526
+                }
+            ],
+            "bbox": [
+                3152,
+                439,
+                4632,
+                1526
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-14_pna_sn84021918_0041421695A_1964021401_0300.json"
+        }
+    ]
+}

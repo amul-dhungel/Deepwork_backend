@@ -1,0 +1,783 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091801/0557.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7472,
+        "width": 4891
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1925,
+                "y0": 677,
+                "x1": 2755,
+                "y1": 4916
+            },
+            "class": "article",
+            "raw_text": "Three groups of official VAL\nley National Bank checks have\nbeen stolen and attempts are\nbeing made to cash the checks\nin the Phoenix area, bank Of\nficials warn.\n\n\nBank money orders. cashiers\nchecks and bank drafts, alto\ngether, $50 documents disap-\npeared after being printed, but\nbefore being delivered to the\nbank.\n\n\nSo far, IL money orders and\nnine cashiers checks have been\nforged and passed. a bank Of\nfetal states.\n\n\n1--WE believe this is the work\nof a check-passing ring working\nthe Phoenix area\" the VNB Of\nficer added, \"But there no tell\ning where they may Strike next\"\n\n\nThe bank gives this description\nof the stolen items:\n\n\n26 Bank pers onal money or\nders. drawn on VNB's 9TH ST.\nGlendale Avenue Office: BLUSH\ngreen color with the words, \"Val-\nley National Bank Persona Mon\ney Order\" across the top of the\ndocument; serial numbers STA\nthrough 5l3o.\n\n\nThe money orders have been\nforged in amounts of $50 and\nSIS. A check protector per-\nforating device used to print the\ndollar amount) Identification slug\nhas shown the word \"Bonded\"\nto the left of the dollars: gen\nunine checks have the words\n\"Vally Natl Bank\" on the pro-\ntector.\n\n\n81 cashiers checks, also\ndrawn on VNB's 9TH St.-Glendale\nAvenue Office; light brown check\nwith the words cashier s\nCheck\" printed vertically along\nthe right margin in black outline\nletters; serial numbers 75Ol\nthru ugh 1867.\n\n\nFive have been cashed in\namounts of $lOO and $500. Two\nof those cashed have a'\"Bonded\"\ncheck protector slug: others ap-\npear to be genuine. showing a\nforged - probably with type\nwriter - valley Natl Bank\"\nslug left of the perforated dol\nlar amount.\n\n\n81 bank drafts; although these\nlook like ordinary checks. they\nare not usually used in day-to-\nday business and are easily rec\nognizable by their having two bank\nnames appear on the face. The\nstolen drafts have Valley Ma\ntional Bank, Globe Office. and\nin the upper right hand corner\nBank of America, Los Angeles.\n\n\nThose stolen are a pink color\nand carry serial numbers 3245l\nthrough 32466; 1921 through\n1926; and 1881 through 33755.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1949,
+                "y0": 431,
+                "x1": 2697,
+                "y1": 654
+            },
+            "class": "headline",
+            "raw_text": "1870 VALLEY BANK\nCHECKS ARE STOLEN",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 717,
+                "y0": 1465,
+                "x1": 1267,
+                "y1": 2820
+            },
+            "class": "article",
+            "raw_text": "The affairs Of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist Of less than five (s) or more\nti.an seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday in January Of each year.\nThe members of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore,\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board of d.\nrectors and Advisory Board oc-\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nto serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.\n\n\nARTICLE vi\n\n\nThe Debonairs may organize\nas provided by laws. The\nqualifications Of members and\nofficers and the conditions of\ntheir election, suspension and",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 729,
+                "y0": 1395,
+                "x1": 940,
+                "y1": 1448
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE V",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1324,
+                "y0": 338,
+                "x1": 1862,
+                "y1": 584
+            },
+            "class": "article",
+            "raw_text": "expulsion, and their rights,\npowers and authority shall be\nset out in the Bylaws of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2854,
+                "y0": 1908,
+                "x1": 4524,
+                "y1": 2400
+            },
+            "class": "article",
+            "raw_text": "prominent leaders clasp hands symboing\nunity prevailing general election At the opening John\n4750 NJ Central Phoenix last\nleft right Mrs. Mildred Larson national committee\nwoman Mcfarland Interior Secretary\nl.. Uda Lee Akerman Udall,\nof OO predicted President Johnson will\ncarry Arizona in forthcoming election.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 723,
+                "y0": 361,
+                "x1": 1273,
+                "y1": 841
+            },
+            "class": "article",
+            "raw_text": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix, Arizona\n\n\nMrs. Ardella Calbreath = 1926\nE. Adams Phoenix, Arizona\nMrs. Alvin Vera Richie 1889\nW. Monroe Phoenix, Arizona\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. Phoenix, Arizona\nMrs. Flora Ruffin = l7lo E.\nAdams = Phoenix, Arizona\n\n\nMrs. Lille Belcher 1888 E.\nMaids on Phoenix, Arizona",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1318,
+                "y0": 688,
+                "x1": 1862,
+                "y1": 1407
+            },
+            "class": "article",
+            "raw_text": "All Of the following named\npersons, acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected as\nAdvisory Members of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\n\n\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\n\n\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\n\n\nMr.. Ted Cianas",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1324,
+                "y0": 612,
+                "x1": 1559,
+                "y1": 660
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE VII",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 717,
+                "y0": 945,
+                "x1": 1267,
+                "y1": 1349
+            },
+            "class": "article",
+            "raw_text": "That the time of the Com\nmencement Of this Corporation\nshall be the date these Articles\nare filed in the office of the Ari-\niona Corporation Commission Of\nthe State of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter, with\nthe privilege Of renewal. as\nprovided by law.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 729,
+                "y0": 863,
+                "x1": 946,
+                "y1": 911
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE w",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1313,
+                "y0": 1786,
+                "x1": 1862,
+                "y1": 2808
+            },
+            "class": "article",
+            "raw_text": "The private and Individual pro-\nperty of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson, a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\nlS. 1865.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 1324,
+                "y0": 1739,
+                "x1": 1588,
+                "y1": 1793
+            },
+            "class": "headline",
+            "raw_text": "ARTICLES VIII",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 128,
+                "y0": 1500,
+                "x1": 671,
+                "y1": 2838
+            },
+            "class": "article",
+            "raw_text": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nTO solicit funds and enter toCon-\ntracts for the solicitation offunds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose of the Corpora\nton and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable in con-\nnection herewith.\n\n\nARTICLE III\n\n\nAll of the following named per-\nsons, acting as incorporators\nherein. were duly elected Direc-\ntors of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit, on June\n\"a. 1864. at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 133,
+                "y0": 1418,
+                "x1": 350,
+                "y1": 1472
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE II",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1348,
+                "y0": 1500,
+                "x1": 1868,
+                "y1": 1717
+            },
+            "class": "article",
+            "raw_text": "Mr.. J. D. Holmes, l4Ss East\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\n\n\nIs appointed Statutory Agent.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1342,
+                "y0": 1436,
+                "x1": 1623,
+                "y1": 1483
+            },
+            "class": "headline",
+            "raw_text": "Statutory Agent:",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 128,
+                "y0": 1190,
+                "x1": 671,
+                "y1": 1390
+            },
+            "class": "article",
+            "raw_text": "The name of the Corporation\nwill be Debonairs Social and\nArt Club. and the principal place\nOf business will be in Phoenix,\nArizona.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 133,
+                "y0": 1109,
+                "x1": 333,
+                "y1": 1156
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE |",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 122,
+                "y0": 519,
+                "x1": 671,
+                "y1": 1086
+            },
+            "class": "article",
+            "raw_text": "DEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\n\n\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors of the\nDebonairs Social and Art Club,\ndo hereby ass ociate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 122,
+                "y0": 367,
+                "x1": 666,
+                "y1": 415
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE OF INCORPORATION",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -3
+        },
+        {
+            "id": 32,
+            "bbox": {
+                "x0": 379,
+                "y0": 525,
+                "x1": 666,
+                "y1": 567
+            },
+            "class": "headline",
+            "raw_text": "SOCIAL AND",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -2
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 128,
+                "y0": 525,
+                "x1": 339,
+                "y1": 608
+            },
+            "class": "headline",
+            "raw_text": "DEBONAIRS\nART CLUB",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 174,
+                "y0": 3076,
+                "x1": 1816,
+                "y1": 7076
+            },
+            "class": "article",
+            "raw_text": "JAN w ANN\n\n\nMOTOR SALES\n\n\n1910 (. VAN buren,\n\n\nAL 8-6071\nWE CARRY OUR OWN CONTRACTS\nOVER 200 CARS TO CHOOSE FROM\nBest Car Buys In Town\nSO CADILLAC COUPE DE VILE FACT. REFG.\n\n\n$3.50 DOWN ......... .SI495\ngo CORVAIR SEDAN $685.\nso CHEW. We TUDOR STICK ........$ $500\nSo CHEW. IMPALA H/REFRIG. ......s4ss\neIoLDs. 90 CONVERTIBLE 1888\nSo BUICK RIVIERA COUPE ALSO\n60 BUICK RIVIERA COUPE, FACT. REFRIG.\n\n\n$500 DOWN DELIVERS EITHER ONE\n81 PONTIAC SEDAN, REFRIG. ...... $685.\n81 CORVAIR MONzA COUPE\n\n\nSPEED TRANS. .... 1888\nSO LINCOLN CONTINENTAL\n\n\nFACTORY REFRIG. ....... 1888\n81 CHEW. STATION WAGON\n\n\nR/H STICK ..............$399\nSo CADILLAC COUPE DEvILLE\n\n\nFACTORY REFRIG. SAVE\n\" SARWARK X\ny MOTOR SALES y\n\n\n1910 (. VAN buren,\nAL 8-6O71\nCREDIT NO PROBLEM\nWE CARRY OUR OWN CONTRACTS\n% YEARS IN ONE LOCATION",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 31,
+            "bbox": {
+                "x0": 717,
+                "y0": 2527,
+                "x1": 940,
+                "y1": 2581
+            },
+            "class": "headline",
+            "raw_text": "ARTICLE vi",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-09-18"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                3,
+                2
+            ],
+            "headline": "1870 VALLEY BANK\nCHECKS ARE STOLEN",
+            "article": "Three groups of official VAL\nley National Bank checks have\nbeen stolen and attempts are\nbeing made to cash the checks\nin the Phoenix area, bank Of\nficials warn.\n\n\nBank money orders. cashiers\nchecks and bank drafts, alto\ngether, $50 documents disap-\npeared after being printed, but\nbefore being delivered to the\nbank.\n\n\nSo far, IL money orders and\nnine cashiers checks have been\nforged and passed. a bank Of\nfetal states.\n\n\n1--WE believe this is the work\nof a check-passing ring working\nthe Phoenix area\" the VNB Of\nficer added, \"But there no tell\ning where they may Strike next\"\n\n\nThe bank gives this description\nof the stolen items:\n\n\n26 Bank pers onal money or\nders. drawn on VNB's 9TH ST.\nGlendale Avenue Office: BLUSH\ngreen color with the words, \"Val-\nley National Bank Persona Mon\ney Order\" across the top of the\ndocument; serial numbers STA\nthrough 5l3o.\n\n\nThe money orders have been\nforged in amounts of $50 and\nSIS. A check protector per-\nforating device used to print the\ndollar amount) Identification slug\nhas shown the word \"Bonded\"\nto the left of the dollars: gen\nunine checks have the words\n\"Vally Natl Bank\" on the pro-\ntector.\n\n\n81 cashiers checks, also\ndrawn on VNB's 9TH St.-Glendale\nAvenue Office; light brown check\nwith the words cashier s\nCheck\" printed vertically along\nthe right margin in black outline\nletters; serial numbers 75Ol\nthru ugh 1867.\n\n\nFive have been cashed in\namounts of $lOO and $500. Two\nof those cashed have a'\"Bonded\"\ncheck protector slug: others ap-\npear to be genuine. showing a\nforged - probably with type\nwriter - valley Natl Bank\"\nslug left of the perforated dol\nlar amount.\n\n\n81 bank drafts; although these\nlook like ordinary checks. they\nare not usually used in day-to-\nday business and are easily rec\nognizable by their having two bank\nnames appear on the face. The\nstolen drafts have Valley Ma\ntional Bank, Globe Office. and\nin the upper right hand corner\nBank of America, Los Angeles.\n\n\nThose stolen are a pink color\nand carry serial numbers 3245l\nthrough 32466; 1921 through\n1926; and 1881 through 33755.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1949,
+                    "y0": 431,
+                    "x1": 2697,
+                    "y1": 654
+                },
+                {
+                    "x0": 1925,
+                    "y0": 677,
+                    "x1": 2755,
+                    "y1": 4916
+                }
+            ],
+            "bbox": [
+                1925,
+                431,
+                2755,
+                4916
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "ARTICLE V",
+            "article": "The affairs Of this Corporation\nshall be conducted by the Board\nOf Directors which shall not con-\nsist Of less than five (s) or more\nti.an seven ~. The Board Of\nDirectors shall be elected at the\nAnnual Meeting Of the Debonairs\nSocial and Art Club. Such annual\nmeeting shall be held on the End\nSunday in January Of each year.\nThe members of the Board Of\nDirectors shall classify them\nselves by lot as to their respec-\ntive terms Of office. Therefore,\nat each annual meeting Of the\nDebonairs Social and Art Club\nbe elected for the term expired.\n\n\nVacancies in the Board of d.\nrectors and Advisory Board oc-\ncuring before the expiration Of\nany regular term Of office may\nbe filled and the successor to\nsuch office appointed by the Club\nto serve until the next annual\nmeeting Of the Debonairs Social\nand Art Club.\n\n\nARTICLE vi\n\n\nThe Debonairs may organize\nas provided by laws. The\nqualifications Of members and\nofficers and the conditions of\ntheir election, suspension and",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 729,
+                    "y0": 1395,
+                    "x1": 940,
+                    "y1": 1448
+                },
+                {
+                    "x0": 717,
+                    "y0": 1465,
+                    "x1": 1267,
+                    "y1": 2820
+                }
+            ],
+            "bbox": [
+                717,
+                1395,
+                1267,
+                2820
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "expulsion, and their rights,\npowers and authority shall be\nset out in the Bylaws of the\nCorporation, and only the\namended or changed as therein\nprovided.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1324,
+                    "y0": 338,
+                    "x1": 1862,
+                    "y1": 584
+                }
+            ],
+            "bbox": [
+                1324,
+                338,
+                1862,
+                584
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "prominent leaders clasp hands symboing\nunity prevailing general election At the opening John\n4750 NJ Central Phoenix last\nleft right Mrs. Mildred Larson national committee\nwoman Mcfarland Interior Secretary\nl.. Uda Lee Akerman Udall,\nof OO predicted President Johnson will\ncarry Arizona in forthcoming election.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2854,
+                    "y0": 1908,
+                    "x1": 4524,
+                    "y1": 2400
+                }
+            ],
+            "bbox": [
+                2854,
+                1908,
+                4524,
+                2400
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Mrs. Amanda Gray l4l5 E.\nJefferson Phoenix, Arizona\n\n\nMrs. Ardella Calbreath = 1926\nE. Adams Phoenix, Arizona\nMrs. Alvin Vera Richie 1889\nW. Monroe Phoenix, Arizona\nMrs. Essie Mae Pullins l44l\nS. 18th Ave. Phoenix, Arizona\nMrs. Flora Ruffin = l7lo E.\nAdams = Phoenix, Arizona\n\n\nMrs. Lille Belcher 1888 E.\nMaids on Phoenix, Arizona",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 723,
+                    "y0": 361,
+                    "x1": 1273,
+                    "y1": 841
+                }
+            ],
+            "bbox": [
+                723,
+                361,
+                1273,
+                841
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                18,
+                10
+            ],
+            "headline": "ARTICLE VII",
+            "article": "All Of the following named\npersons, acting as advisory\nBoard and does not consist Of\nany members connected with the\nClub we're duly elected as\nAdvisory Members of the\nDebonairs Social and Art Club,\nand are duly elected. qualified\nand acting Advisors Of the said\nCorporation.\n\n\nMr.. Jim Titus\n\n\nMrs. Clarence Jackson\n\n\nMr.. George Barnes\n\n\nMr.. Virgil ]. Berry\n\n\nMrs. Clarence R. Laing\n\n\nMr.. John Weber\n\n\nMr.. Ernest G. Burton\n\n\nMr.. Ted Cianas",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1324,
+                    "y0": 612,
+                    "x1": 1559,
+                    "y1": 660
+                },
+                {
+                    "x0": 1318,
+                    "y0": 688,
+                    "x1": 1862,
+                    "y1": 1407
+                }
+            ],
+            "bbox": [
+                1318,
+                612,
+                1862,
+                1407
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                21,
+                11
+            ],
+            "headline": "ARTICLE w",
+            "article": "That the time of the Com\nmencement Of this Corporation\nshall be the date these Articles\nare filed in the office of the Ari-\niona Corporation Commission Of\nthe State of Arizona, and ter\nmination thereof shall be twenty\nfive (25) years thereafter, with\nthe privilege Of renewal. as\nprovided by law.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 729,
+                    "y0": 863,
+                    "x1": 946,
+                    "y1": 911
+                },
+                {
+                    "x0": 717,
+                    "y0": 945,
+                    "x1": 1267,
+                    "y1": 1349
+                }
+            ],
+            "bbox": [
+                717,
+                863,
+                1267,
+                1349
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                29,
+                12
+            ],
+            "headline": "ARTICLES VIII",
+            "article": "The private and Individual pro-\nperty of the Members and Of\nficers Of this Corporation shall\nnot be liable for and be forever\nexempt from all debts and liabili-\nties of the Corporation.\n\n\nOfficers Of Incorporation:\n\n\nAmanda Gray\n\n\nAdella Calbreath\n\n\nAlvin Vera Richie\n\n\nFlora L. Ruffin\n\n\nEssie Mae Pullins\n\n\nLille E. Belcher\nSubscribed and sworn to before\nme, Rose Anderson, a Notary\nPublic in and for the County Of\nMaricopa, State Of Arizona, this,\nthe 9th day Of July 1864.\n\n\nRose Anderson\n\n\nNotary Public\nMy Commission expires Dec.\nlS. 1865.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1324,
+                    "y0": 1739,
+                    "x1": 1588,
+                    "y1": 1793
+                },
+                {
+                    "x0": 1313,
+                    "y0": 1786,
+                    "x1": 1862,
+                    "y1": 2808
+                }
+            ],
+            "bbox": [
+                1313,
+                1739,
+                1862,
+                2808
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                17,
+                16
+            ],
+            "headline": "ARTICLE II",
+            "article": "The purpose Of Corporation\nshall be to work for Charity. The\nCorporation shall have the power\nTO solicit funds and enter toCon-\ntracts for the solicitation offunds\nto be raised for the purpose Of\nfinancing our charitable project\nOf power for the maintenance Of\nsame. 1t shall have the power\nto borrow money and to accept\ngifts and requests, and own\nestablish and administer trusts\nfor the purpose of the Corpora\nton and in accord with the laws\nwithin the State Of Arizona. The\nforegoing enumerated power and\nCorporation shall in addition\nthere to, have power to do all\nthings necessary, convenient,\nincidental or advisable in con-\nnection herewith.\n\n\nARTICLE III\n\n\nAll of the following named per-\nsons, acting as incorporators\nherein. were duly elected Direc-\ntors of the Debonairs, Social and\nArt Club, and are the elected,\nqualified and acting Directors Of\nsaid Corporation to wit, on June\n\"a. 1864. at Masonic Temple,\nFourth Street and Jefferson,\nPhoenix, Arizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 133,
+                    "y0": 1418,
+                    "x1": 350,
+                    "y1": 1472
+                },
+                {
+                    "x0": 128,
+                    "y0": 1500,
+                    "x1": 671,
+                    "y1": 2838
+                }
+            ],
+            "bbox": [
+                128,
+                1418,
+                671,
+                2838
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                25,
+                19
+            ],
+            "headline": "Statutory Agent:",
+            "article": "Mr.. J. D. Holmes, l4Ss East\nMonroe, Phoenix, Arizona, who\nhas been a residence Of the\nState Of Arizona for 8 years\n\n\nIs appointed Statutory Agent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1342,
+                    "y0": 1436,
+                    "x1": 1623,
+                    "y1": 1483
+                },
+                {
+                    "x0": 1348,
+                    "y0": 1500,
+                    "x1": 1868,
+                    "y1": 1717
+                }
+            ],
+            "bbox": [
+                1342,
+                1436,
+                1868,
+                1717
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                28,
+                20
+            ],
+            "headline": "ARTICLE |",
+            "article": "The name of the Corporation\nwill be Debonairs Social and\nArt Club. and the principal place\nOf business will be in Phoenix,\nArizona.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 133,
+                    "y0": 1109,
+                    "x1": 333,
+                    "y1": 1156
+                },
+                {
+                    "x0": 128,
+                    "y0": 1190,
+                    "x1": 671,
+                    "y1": 1390
+                }
+            ],
+            "bbox": [
+                128,
+                1109,
+                671,
+                1390
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                24,
+                32,
+                33,
+                22
+            ],
+            "headline": "ARTICLE OF INCORPORATION\n\nSOCIAL AND\n\nDEBONAIRS\nART CLUB",
+            "article": "DEBONAIRS SOCIAL AND\nART CLUB\n\n\nKnow all Men BY These Presents:\n\n\nThat we, the undersigned, the\nduly elected, qualified and Act\ning Board Of Directors of the\nDebonairs Social and Art Club,\ndo hereby ass ociate ourselves for\nthe purpose Of forming a nom\nprofit Club, and to that end do\nadopt the following Articles Of\nIncorporation:",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 122,
+                    "y0": 367,
+                    "x1": 666,
+                    "y1": 415
+                },
+                {
+                    "x0": 379,
+                    "y0": 525,
+                    "x1": 666,
+                    "y1": 567
+                },
+                {
+                    "x0": 128,
+                    "y0": 525,
+                    "x1": 339,
+                    "y1": 608
+                },
+                {
+                    "x0": 122,
+                    "y0": 519,
+                    "x1": 671,
+                    "y1": 1086
+                }
+            ],
+            "bbox": [
+                122,
+                367,
+                671,
+                1086
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        },
+        {
+            "object_ids": [
+                31,
+                23
+            ],
+            "headline": "ARTICLE vi",
+            "article": "JAN w ANN\n\n\nMOTOR SALES\n\n\n1910 (. VAN buren,\n\n\nAL 8-6071\nWE CARRY OUR OWN CONTRACTS\nOVER 200 CARS TO CHOOSE FROM\nBest Car Buys In Town\nSO CADILLAC COUPE DE VILE FACT. REFG.\n\n\n$3.50 DOWN ......... .SI495\ngo CORVAIR SEDAN $685.\nso CHEW. We TUDOR STICK ........$ $500\nSo CHEW. IMPALA H/REFRIG. ......s4ss\neIoLDs. 90 CONVERTIBLE 1888\nSo BUICK RIVIERA COUPE ALSO\n60 BUICK RIVIERA COUPE, FACT. REFRIG.\n\n\n$500 DOWN DELIVERS EITHER ONE\n81 PONTIAC SEDAN, REFRIG. ...... $685.\n81 CORVAIR MONzA COUPE\n\n\nSPEED TRANS. .... 1888\nSO LINCOLN CONTINENTAL\n\n\nFACTORY REFRIG. ....... 1888\n81 CHEW. STATION WAGON\n\n\nR/H STICK ..............$399\nSo CADILLAC COUPE DEvILLE\n\n\nFACTORY REFRIG. SAVE\n\" SARWARK X\ny MOTOR SALES y\n\n\n1910 (. VAN buren,\nAL 8-6O71\nCREDIT NO PROBLEM\nWE CARRY OUR OWN CONTRACTS\n% YEARS IN ONE LOCATION",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 717,
+                    "y0": 2527,
+                    "x1": 940,
+                    "y1": 2581
+                },
+                {
+                    "x0": 174,
+                    "y0": 3076,
+                    "x1": 1816,
+                    "y1": 7076
+                }
+            ],
+            "bbox": [
+                174,
+                2527,
+                1816,
+                7076
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-09-18_p1_sn84021918_0041421695A_1964091801_0557.json"
+        }
+    ]
+}

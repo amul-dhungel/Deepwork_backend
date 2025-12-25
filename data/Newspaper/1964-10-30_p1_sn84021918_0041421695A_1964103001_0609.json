@@ -1,0 +1,370 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0609.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7449,
+        "width": 4943
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1028,
+                "y0": 413,
+                "x1": 1867,
+                "y1": 3265
+            },
+            "class": "article",
+            "raw_text": "For me the be st bread wa S pre-\npared by my venerable Grand\nmother Minnie. Many years ago\nback home in Indiana, in a dimly\nlighted kitchen (due to low wat\ntage bulbs), she would pre-\n\n\npare some mixture for the next\nday S bread.\n\n\nFor treat on Sunday mornings\nshe would make the lightest,\nfluffliest buttermilk biscuits you\never imagined. My late Grand\nfather Racker would drown them\nin butter and often dip them in\nbacon drippings for flavor.\n\n\nl did not like too many bis\ncuits--I enjoyed the outer hard\nparts--I could have all of the\nscraps and l would roll it flat\nand bake 1t until 1t was hard\nand crunchy.\n\n\nSpecial occa sions we're hot roll\ndays. One of my aunts was a\ngreat Parkerhouse roll maker.\nMy Mother made excellent rolls.\ntoo--but her culinary skills shone\non desserts.\n\n\n| can remember the bread,\nbutter and sugar days. Nothing\nwas a s delicious s a couple of\nslices of white bread spread\nwith butter and topped with some\nsprinkles of sugar.\n\n\nTimes have changed--breads\nhave changed--gone are the days\nOf hoecakes, corn meal mullins\nor homemade loaves.\n\n\nGone are the platters heaped\nwith squares of fresh butter--\ngone are the pitchers of honey\nnow we have some frozen rolls\nin the freezer and a few slices\nof dry French bread on the table.\n\n\nIf you are looking for some\nbread like Mother used to make\nor try to make--visit two of my\nfavorite bake shops--Southside\nBakery or Rix Bakery.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1930,
+                "y0": 2316,
+                "x1": 2757,
+                "y1": 3271
+            },
+            "class": "article",
+            "raw_text": "DETROIT The first Negro\nairline stewardess. Marlene\nWhite Ahimaz, has joined her\nhusband, Dr.. Frank Ahimaz, an\nengineering teacher with the u S.\nAgency for International De-\nvelopment, in Afghanistan.\n\n\nMrs. Ahimaz waged four year\nfight to obtain an airline\nstewardess job with Northwest\nAirlines. In 1862 she was hired,\nbut wa s discharged 8months later\nfor inefficiency.\n\n\nShe wa reinstatedb but resigned\nsoon afterwards when she\nmarried.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1982,
+                "y0": 2077,
+                "x1": 2676,
+                "y1": 2288
+            },
+            "class": "headline",
+            "raw_text": "lst Negro\nSfeWurdess Weds",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1924,
+                "y0": 459,
+                "x1": 2757,
+                "y1": 2032
+            },
+            "class": "article",
+            "raw_text": "One day Patricia Parker asked\nher mother a question. but her\nmother couldn't answer. She\nasked her father and he didn't\nknow.\n\n\nThen she asked the barber. He\ndidn't know. Patricia saw the\nmilkman. Again she asked her\nque stion. He couldn't give her\nan answer.\n\n\nPatricia asked the store clerk,\nthe blacksmith, the silver smith,\nthe carpenter, the insurance man\nand the mailman.\n\n\nEveryone was surprised ather\nanswer. They were ashamed\nbecause they had gone to gram\nmar school. high school and COL\nlege.\n\n\nThe policeman told them not\nto be ashamed because you're\nnever too old to learn.\n\n\nPamela Steed, Julian School,\nGrade 6 students are invited to\nsend their original stories to\nthe Children s Corner).\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1976,
+                "y0": 308,
+                "x1": 2705,
+                "y1": 437
+            },
+            "class": "headline",
+            "raw_text": "ChiIdrens Corner",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 79,
+                "y0": 395,
+                "x1": 959,
+                "y1": 3254
+            },
+            "class": "article",
+            "raw_text": "The French Revolution was\npartly due to the insensible re-\nmark of one of the royal para\nmour. Madame said IF the poor\nhave no breed -. let them\neat cake\" She lost her head but\nthe people--the poor ased\nand continued to find a few NOR\nsells of bread in order to sur\nvive.\n\n\nHansel and Cretel, of fairy\n\\ tale fame, managed to outwit\ntheir wicked stepmother by\nmarking the path with bits of\nbread.\n\n\nThe abundance of bread or the\nlack of It has controlled the rise\nand decline of fabulous empires\nand dyna sites.\n\n\nHow many familiar sayings can\n) you recall that are ba sed on\nbread7 There is the we'll known\nphra se--\" Taking bread out OF\nyour mouth\" or \"Your bread Is\nbuttered on both Sides\"\n\n\nWe're you ever punished or\nthreatened as a child with the\nia steless dinner of bread and\nwater7 1t Is still reserved for\nsome incorrigible prisoners.\n\n\nThe greatest lines in praise\nof the staff of life we're probably\nwritten by Omar Khayyam--he\nhad a recipe for the good life.\n\n\nAll one needed was A\nJug of wine, loaf of bread and\nthe fright thou beside you In\nthe wilderness. From then on 1t\nwould be paradise.\n\n\nBread wa once poor man\ndelight. Now bread is costly.\n) A loaf ranges from twenty centsto\nforty. We have holeproof bread,\nblenderized bread, enriched\nbread, purified bread, stone\nground, dieters delight and even\nthose like your auntie or mother\nused to bake.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 661,
+                "y0": 290,
+                "x1": 1308,
+                "y1": 379
+            },
+            "class": "headline",
+            "raw_text": "Siahts-continUed",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3745,
+                "y0": 256,
+                "x1": 4573,
+                "y1": 728
+            },
+            "class": "article",
+            "raw_text": "man, wants all readers to attend.\n\n\nThere will be wide variety of\nbooks suitable for all ages, on\nmany topics for pre- schoolersto\ngolden-agers. Many of the selec-\nlions are paper backs.\n\n\nProceeds will help finance\ntwo scholar ships.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3059,
+                "y0": 133,
+                "x1": 4491,
+                "y1": 222
+            },
+            "class": "headline",
+            "raw_text": "FIONA TRIBUNE, FRIDAY, OCT. 80 1864, p. 3",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2826,
+                "y0": 343,
+                "x1": 3653,
+                "y1": 751
+            },
+            "class": "article",
+            "raw_text": "St. Matthew S Home and School\nCommittee, under the direction\nof the Sodality, are sponsoring a\nBook Fair on Nov. E, 7 and 9th in\nthe Cafeteria at 2O38 w. Van\nBuren,.\n\n\nMrs. Joseph Perlinger, chair",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2896,
+                "y0": 261,
+                "x1": 3415,
+                "y1": 326
+            },
+            "class": "headline",
+            "raw_text": "Book Fair S ct",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-30"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "For me the be st bread wa S pre-\npared by my venerable Grand\nmother Minnie. Many years ago\nback home in Indiana, in a dimly\nlighted kitchen (due to low wat\ntage bulbs), she would pre-\n\n\npare some mixture for the next\nday S bread.\n\n\nFor treat on Sunday mornings\nshe would make the lightest,\nfluffliest buttermilk biscuits you\never imagined. My late Grand\nfather Racker would drown them\nin butter and often dip them in\nbacon drippings for flavor.\n\n\nl did not like too many bis\ncuits--I enjoyed the outer hard\nparts--I could have all of the\nscraps and l would roll it flat\nand bake 1t until 1t was hard\nand crunchy.\n\n\nSpecial occa sions we're hot roll\ndays. One of my aunts was a\ngreat Parkerhouse roll maker.\nMy Mother made excellent rolls.\ntoo--but her culinary skills shone\non desserts.\n\n\n| can remember the bread,\nbutter and sugar days. Nothing\nwas a s delicious s a couple of\nslices of white bread spread\nwith butter and topped with some\nsprinkles of sugar.\n\n\nTimes have changed--breads\nhave changed--gone are the days\nOf hoecakes, corn meal mullins\nor homemade loaves.\n\n\nGone are the platters heaped\nwith squares of fresh butter--\ngone are the pitchers of honey\nnow we have some frozen rolls\nin the freezer and a few slices\nof dry French bread on the table.\n\n\nIf you are looking for some\nbread like Mother used to make\nor try to make--visit two of my\nfavorite bake shops--Southside\nBakery or Rix Bakery.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1028,
+                    "y0": 413,
+                    "x1": 1867,
+                    "y1": 3265
+                }
+            ],
+            "bbox": [
+                1028,
+                413,
+                1867,
+                3265
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-30_p1_sn84021918_0041421695A_1964103001_0609.json"
+        },
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "lst Negro\nSfeWurdess Weds",
+            "article": "DETROIT The first Negro\nairline stewardess. Marlene\nWhite Ahimaz, has joined her\nhusband, Dr.. Frank Ahimaz, an\nengineering teacher with the u S.\nAgency for International De-\nvelopment, in Afghanistan.\n\n\nMrs. Ahimaz waged four year\nfight to obtain an airline\nstewardess job with Northwest\nAirlines. In 1862 she was hired,\nbut wa s discharged 8months later\nfor inefficiency.\n\n\nShe wa reinstatedb but resigned\nsoon afterwards when she\nmarried.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1982,
+                    "y0": 2077,
+                    "x1": 2676,
+                    "y1": 2288
+                },
+                {
+                    "x0": 1930,
+                    "y0": 2316,
+                    "x1": 2757,
+                    "y1": 3271
+                }
+            ],
+            "bbox": [
+                1930,
+                2077,
+                2757,
+                3271
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-30_p1_sn84021918_0041421695A_1964103001_0609.json"
+        },
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "ChiIdrens Corner",
+            "article": "One day Patricia Parker asked\nher mother a question. but her\nmother couldn't answer. She\nasked her father and he didn't\nknow.\n\n\nThen she asked the barber. He\ndidn't know. Patricia saw the\nmilkman. Again she asked her\nque stion. He couldn't give her\nan answer.\n\n\nPatricia asked the store clerk,\nthe blacksmith, the silver smith,\nthe carpenter, the insurance man\nand the mailman.\n\n\nEveryone was surprised ather\nanswer. They were ashamed\nbecause they had gone to gram\nmar school. high school and COL\nlege.\n\n\nThe policeman told them not\nto be ashamed because you're\nnever too old to learn.\n\n\nPamela Steed, Julian School,\nGrade 6 students are invited to\nsend their original stories to\nthe Children s Corner).\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1976,
+                    "y0": 308,
+                    "x1": 2705,
+                    "y1": 437
+                },
+                {
+                    "x0": 1924,
+                    "y0": 459,
+                    "x1": 2757,
+                    "y1": 2032
+                }
+            ],
+            "bbox": [
+                1924,
+                308,
+                2757,
+                2032
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-30_p1_sn84021918_0041421695A_1964103001_0609.json"
+        },
+        {
+            "object_ids": [
+                13,
+                4
+            ],
+            "headline": "Siahts-continUed",
+            "article": "The French Revolution was\npartly due to the insensible re-\nmark of one of the royal para\nmour. Madame said IF the poor\nhave no breed -. let them\neat cake\" She lost her head but\nthe people--the poor ased\nand continued to find a few NOR\nsells of bread in order to sur\nvive.\n\n\nHansel and Cretel, of fairy\n\\ tale fame, managed to outwit\ntheir wicked stepmother by\nmarking the path with bits of\nbread.\n\n\nThe abundance of bread or the\nlack of It has controlled the rise\nand decline of fabulous empires\nand dyna sites.\n\n\nHow many familiar sayings can\n) you recall that are ba sed on\nbread7 There is the we'll known\nphra se--\" Taking bread out OF\nyour mouth\" or \"Your bread Is\nbuttered on both Sides\"\n\n\nWe're you ever punished or\nthreatened as a child with the\nia steless dinner of bread and\nwater7 1t Is still reserved for\nsome incorrigible prisoners.\n\n\nThe greatest lines in praise\nof the staff of life we're probably\nwritten by Omar Khayyam--he\nhad a recipe for the good life.\n\n\nAll one needed was A\nJug of wine, loaf of bread and\nthe fright thou beside you In\nthe wilderness. From then on 1t\nwould be paradise.\n\n\nBread wa once poor man\ndelight. Now bread is costly.\n) A loaf ranges from twenty centsto\nforty. We have holeproof bread,\nblenderized bread, enriched\nbread, purified bread, stone\nground, dieters delight and even\nthose like your auntie or mother\nused to bake.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 661,
+                    "y0": 290,
+                    "x1": 1308,
+                    "y1": 379
+                },
+                {
+                    "x0": 79,
+                    "y0": 395,
+                    "x1": 959,
+                    "y1": 3254
+                }
+            ],
+            "bbox": [
+                79,
+                290,
+                1308,
+                3254
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-30_p1_sn84021918_0041421695A_1964103001_0609.json"
+        },
+        {
+            "object_ids": [
+                16,
+                7
+            ],
+            "headline": "FIONA TRIBUNE, FRIDAY, OCT. 80 1864, p. 3",
+            "article": "man, wants all readers to attend.\n\n\nThere will be wide variety of\nbooks suitable for all ages, on\nmany topics for pre- schoolersto\ngolden-agers. Many of the selec-\nlions are paper backs.\n\n\nProceeds will help finance\ntwo scholar ships.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3059,
+                    "y0": 133,
+                    "x1": 4491,
+                    "y1": 222
+                },
+                {
+                    "x0": 3745,
+                    "y0": 256,
+                    "x1": 4573,
+                    "y1": 728
+                }
+            ],
+            "bbox": [
+                3059,
+                133,
+                4573,
+                728
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-30_p1_sn84021918_0041421695A_1964103001_0609.json"
+        },
+        {
+            "object_ids": [
+                14,
+                8
+            ],
+            "headline": "Book Fair S ct",
+            "article": "St. Matthew S Home and School\nCommittee, under the direction\nof the Sodality, are sponsoring a\nBook Fair on Nov. E, 7 and 9th in\nthe Cafeteria at 2O38 w. Van\nBuren,.\n\n\nMrs. Joseph Perlinger, chair",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2896,
+                    "y0": 261,
+                    "x1": 3415,
+                    "y1": 326
+                },
+                {
+                    "x0": 2826,
+                    "y0": 343,
+                    "x1": 3653,
+                    "y1": 751
+                }
+            ],
+            "bbox": [
+                2826,
+                261,
+                3653,
+                751
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-30_p1_sn84021918_0041421695A_1964103001_0609.json"
+        }
+    ]
+}

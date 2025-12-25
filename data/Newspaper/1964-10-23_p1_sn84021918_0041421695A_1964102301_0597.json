@@ -1,0 +1,460 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964102301/0597.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4891
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1854,
+                "y0": 1396,
+                "x1": 2672,
+                "y1": 2945
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = A 10 year old\nNegro wa S arrested and charged\nwith Staying a white woman who\nhad befriended him. Held in\njail is Donald E. White, charged\nwith killing Miss Elinor H. Os-\ntrander, 81, chemist and Garrett\nPark council woman.\n\n\nHer body was found beside her\ndog at the foot of her cellar stairs\nlast August. Both had been\nbeaten to death.\n\n\nThe youth S mother was\nworking in the slain woman s\nhome and she and her four\nchildren we're staying in the\nhouse. Donald was caught steal\ning SIS from Miss Ostrander' 8\npurse last year. but she did\nnot want him punished. His\nmother insisted and Donald was\nsent to the correctional home for\n80 days., He was on parole\nwhen he killed Miss Ostrander.\n\n\nHe stole SIS from her before\nthe Staying occurred.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1900,
+                "y0": 1269,
+                "x1": 2631,
+                "y1": 1380
+            },
+            "class": "headline",
+            "raw_text": "Youth Kills Woman",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1854,
+                "y0": 4491,
+                "x1": 2678,
+                "y1": 5744
+            },
+            "class": "article",
+            "raw_text": "NEW ORLEANS A southern\nwhite woman, Mrs. Virginia Cox,\ncontinues to demonstrate her be-\nlief in an integrated society.\n\n\nShe won suit which gave her\nthe right to attend Southern Uni\nversity, Negro school.\n\n\nShe lives in a predominantly\nNegro suburb and teaches at\nCatholic high school for Negro\nboys.\n\n\nMrs. Cox is seeking election\nnext month on the Orleans Parish\nschool board.\n\n\nShe comments that there are\nabout 800 Negroes attending in\ntegrated schools. There are\n$3.50 Negroes in school, but\nonly $4,000 whites. However,\nthe Negro schools are over\ncrowded.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1877,
+                "y0": 4323,
+                "x1": 2689,
+                "y1": 4469
+            },
+            "class": "headline",
+            "raw_text": "WOMAN SEEKS SEAT",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1865,
+                "y0": 3193,
+                "x1": 2684,
+                "y1": 4255
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES Miss Sylvia\nE. Banks. FL, a graduate of Fisk\nUniversity, Ma shville, Tenn, wa\nhired as a hostess by United\nAirlines last week.\n\n\nShe was vice president of the\nclass of Is that completed train\ning recently in Chicago. She\nwill fly out of Los Angeles.\n\n\nMiss Banks was born and edu-\nGated in Virginia. She has at\ntended summer sessions at Vir-\nginia Union Univer sity and the\nUniversity of Southern Cali\nfornia.\n\n\nHer appointment is another\nstep forward in more equal en-\nployment practices.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1877,
+                "y0": 3066,
+                "x1": 2655,
+                "y1": 3177
+            },
+            "class": "headline",
+            "raw_text": "Fisk Crud Is Hostess",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 69,
+                "y0": 1396,
+                "x1": 1698,
+                "y1": 3032
+            },
+            "class": "article",
+            "raw_text": "John j. Rhodes, Republican congressman\nfrom A Y1zO,1a, again seeks a seat to repre-\nsent his district. AS dedicated person aUh0\nhas lUed here and knows the people he rep\nYeSents, John Rhodes, is truly the one to\nreturn TO Washington.\n\n\nAs a veteYun Of political affairs, though\nhe is modest, COagYe sSnaan Rhodes has\nmaintained a progressive 0bbYOac CHI TO our\neveryday problems. He is not the nun of\nthe min 'fbolittcbing politician aOltO is\nconstantly telling you Of the influential men\nhe knows.\n\n\nHe is up0S SunaiXg and manages to convey\nto you that he has the interests of the state\nubbe Y7NOSt in his mind.\n\n\nRemember John j. Rhodes on election\nAday. He stiH knows yOuY uuy around the ma\ntiOn'S capital.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 115,
+                "y0": 1228,
+                "x1": 1669,
+                "y1": 1368
+            },
+            "class": "headline",
+            "raw_text": "RHODES STILL KNOWS The WAY",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1860,
+                "y0": 6056,
+                "x1": 2684,
+                "y1": 6938
+            },
+            "class": "article",
+            "raw_text": "CHICAGO : Charles (Chuck)\nStone was fired S editor in chief\nby John Sengsta cke, publisher\neditor of The chicago Defender.\n\n\nStone joined the Chicago paper\nAugust, 1868, after leaving a\nsimilar position with the Afro\nAmerican of wa shington.\n\n\nStone commented that he and\nthe Chicago Defender publisher\ndidn't under stand each other.\n\n\nSengsta cke said he was re-\norganizing the entire firm and\nhe had no part for Stone in the\nnew group.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1889,
+                "y0": 5807,
+                "x1": 2591,
+                "y1": 6034
+            },
+            "class": "headline",
+            "raw_text": "Stone Fired From\nDefender Post",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2764,
+                "y0": 6317,
+                "x1": 4446,
+                "y1": 6967
+            },
+            "class": "article",
+            "raw_text": "W. W. pper Dick superintendent of Public instruction\nproclamation setting 1919 Patriotic Education\nWeek.\n\n\nPupils Mrs. Norton class the c. j. Jorgensen School,\n17Ol w. Roeser Rd. present he read them.\n\n\nleft Jacqueine Landrum, Resale Sunam, Richard\nBrown and Richard Mendoza.\n\n\nGov Fannn signed proclamation recently and special program\nheld School, TO- Obsevances held\nAmerican history.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2770,
+                "y0": 2422,
+                "x1": 4463,
+                "y1": 2951
+            },
+            "class": "article",
+            "raw_text": "Miss Doris Mado H. senior chosen reign the Home\ncoming Phoenix Union High School week. She presided\nfestivities preceding the held Montgomery Stadium\nShe the daughter of Mr. and Mrs. George Meador l425 18th\nAve.\n\n\nMiss Meador plans be pediatrics\nmember Club, Girls League Girls Athletic\nASSN Ceereaders and Pep Club She the Of the\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 2770,
+                "y0": 4370,
+                "x1": 4457,
+                "y1": 4846
+            },
+            "class": "article",
+            "raw_text": "Departments the Salt River Valley District Association\nheld musical Dabner Baptist Temple 3049\nS.. 10th St. Sum-, Oct. l8.\n\n\nparticipants pictured from left including Sgt Willie\nunnell Wise president, John Boozer Cora\nJones Ruby and Maurice MITCHELL sponsor.\nfifty presented program of religious\n\n\nPhoto B. Heard",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 4926,
+                "y0": 394,
+                "x1": 6161,
+                "y1": 5600
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-23"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "Youth Kills Woman",
+            "article": "WASHINGTON = A 10 year old\nNegro wa S arrested and charged\nwith Staying a white woman who\nhad befriended him. Held in\njail is Donald E. White, charged\nwith killing Miss Elinor H. Os-\ntrander, 81, chemist and Garrett\nPark council woman.\n\n\nHer body was found beside her\ndog at the foot of her cellar stairs\nlast August. Both had been\nbeaten to death.\n\n\nThe youth S mother was\nworking in the slain woman s\nhome and she and her four\nchildren we're staying in the\nhouse. Donald was caught steal\ning SIS from Miss Ostrander' 8\npurse last year. but she did\nnot want him punished. His\nmother insisted and Donald was\nsent to the correctional home for\n80 days., He was on parole\nwhen he killed Miss Ostrander.\n\n\nHe stole SIS from her before\nthe Staying occurred.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1900,
+                    "y0": 1269,
+                    "x1": 2631,
+                    "y1": 1380
+                },
+                {
+                    "x0": 1854,
+                    "y0": 1396,
+                    "x1": 2672,
+                    "y1": 2945
+                }
+            ],
+            "bbox": [
+                1854,
+                1269,
+                2672,
+                2945
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        },
+        {
+            "object_ids": [
+                19,
+                5
+            ],
+            "headline": "WOMAN SEEKS SEAT",
+            "article": "NEW ORLEANS A southern\nwhite woman, Mrs. Virginia Cox,\ncontinues to demonstrate her be-\nlief in an integrated society.\n\n\nShe won suit which gave her\nthe right to attend Southern Uni\nversity, Negro school.\n\n\nShe lives in a predominantly\nNegro suburb and teaches at\nCatholic high school for Negro\nboys.\n\n\nMrs. Cox is seeking election\nnext month on the Orleans Parish\nschool board.\n\n\nShe comments that there are\nabout 800 Negroes attending in\ntegrated schools. There are\n$3.50 Negroes in school, but\nonly $4,000 whites. However,\nthe Negro schools are over\ncrowded.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1877,
+                    "y0": 4323,
+                    "x1": 2689,
+                    "y1": 4469
+                },
+                {
+                    "x0": 1854,
+                    "y0": 4491,
+                    "x1": 2678,
+                    "y1": 5744
+                }
+            ],
+            "bbox": [
+                1854,
+                4323,
+                2689,
+                5744
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "Fisk Crud Is Hostess",
+            "article": "LOS ANGELES Miss Sylvia\nE. Banks. FL, a graduate of Fisk\nUniversity, Ma shville, Tenn, wa\nhired as a hostess by United\nAirlines last week.\n\n\nShe was vice president of the\nclass of Is that completed train\ning recently in Chicago. She\nwill fly out of Los Angeles.\n\n\nMiss Banks was born and edu-\nGated in Virginia. She has at\ntended summer sessions at Vir-\nginia Union Univer sity and the\nUniversity of Southern Cali\nfornia.\n\n\nHer appointment is another\nstep forward in more equal en-\nployment practices.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1877,
+                    "y0": 3066,
+                    "x1": 2655,
+                    "y1": 3177
+                },
+                {
+                    "x0": 1865,
+                    "y0": 3193,
+                    "x1": 2684,
+                    "y1": 4255
+                }
+            ],
+            "bbox": [
+                1865,
+                3066,
+                2684,
+                4255
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        },
+        {
+            "object_ids": [
+                20,
+                8
+            ],
+            "headline": "RHODES STILL KNOWS The WAY",
+            "article": "John j. Rhodes, Republican congressman\nfrom A Y1zO,1a, again seeks a seat to repre-\nsent his district. AS dedicated person aUh0\nhas lUed here and knows the people he rep\nYeSents, John Rhodes, is truly the one to\nreturn TO Washington.\n\n\nAs a veteYun Of political affairs, though\nhe is modest, COagYe sSnaan Rhodes has\nmaintained a progressive 0bbYOac CHI TO our\neveryday problems. He is not the nun of\nthe min 'fbolittcbing politician aOltO is\nconstantly telling you Of the influential men\nhe knows.\n\n\nHe is up0S SunaiXg and manages to convey\nto you that he has the interests of the state\nubbe Y7NOSt in his mind.\n\n\nRemember John j. Rhodes on election\nAday. He stiH knows yOuY uuy around the ma\ntiOn'S capital.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 115,
+                    "y0": 1228,
+                    "x1": 1669,
+                    "y1": 1368
+                },
+                {
+                    "x0": 69,
+                    "y0": 1396,
+                    "x1": 1698,
+                    "y1": 3032
+                }
+            ],
+            "bbox": [
+                69,
+                1228,
+                1698,
+                3032
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        },
+        {
+            "object_ids": [
+                10,
+                9
+            ],
+            "headline": "Stone Fired From\nDefender Post",
+            "article": "CHICAGO : Charles (Chuck)\nStone was fired S editor in chief\nby John Sengsta cke, publisher\neditor of The chicago Defender.\n\n\nStone joined the Chicago paper\nAugust, 1868, after leaving a\nsimilar position with the Afro\nAmerican of wa shington.\n\n\nStone commented that he and\nthe Chicago Defender publisher\ndidn't under stand each other.\n\n\nSengsta cke said he was re-\norganizing the entire firm and\nhe had no part for Stone in the\nnew group.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1889,
+                    "y0": 5807,
+                    "x1": 2591,
+                    "y1": 6034
+                },
+                {
+                    "x0": 1860,
+                    "y0": 6056,
+                    "x1": 2684,
+                    "y1": 6938
+                }
+            ],
+            "bbox": [
+                1860,
+                5807,
+                2684,
+                6938
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "W. W. pper Dick superintendent of Public instruction\nproclamation setting 1919 Patriotic Education\nWeek.\n\n\nPupils Mrs. Norton class the c. j. Jorgensen School,\n17Ol w. Roeser Rd. present he read them.\n\n\nleft Jacqueine Landrum, Resale Sunam, Richard\nBrown and Richard Mendoza.\n\n\nGov Fannn signed proclamation recently and special program\nheld School, TO- Obsevances held\nAmerican history.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2764,
+                    "y0": 6317,
+                    "x1": 4446,
+                    "y1": 6967
+                }
+            ],
+            "bbox": [
+                2764,
+                6317,
+                4446,
+                6967
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "Miss Doris Mado H. senior chosen reign the Home\ncoming Phoenix Union High School week. She presided\nfestivities preceding the held Montgomery Stadium\nShe the daughter of Mr. and Mrs. George Meador l425 18th\nAve.\n\n\nMiss Meador plans be pediatrics\nmember Club, Girls League Girls Athletic\nASSN Ceereaders and Pep Club She the Of the\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2770,
+                    "y0": 2422,
+                    "x1": 4463,
+                    "y1": 2951
+                }
+            ],
+            "bbox": [
+                2770,
+                2422,
+                4463,
+                2951
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "Departments the Salt River Valley District Association\nheld musical Dabner Baptist Temple 3049\nS.. 10th St. Sum-, Oct. l8.\n\n\nparticipants pictured from left including Sgt Willie\nunnell Wise president, John Boozer Cora\nJones Ruby and Maurice MITCHELL sponsor.\nfifty presented program of religious\n\n\nPhoto B. Heard",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2770,
+                    "y0": 4370,
+                    "x1": 4457,
+                    "y1": 4846
+                }
+            ],
+            "bbox": [
+                2770,
+                4370,
+                4457,
+                4846
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-10-23_p1_sn84021918_0041421695A_1964102301_0597.json"
+        }
+    ]
+}

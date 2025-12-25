@@ -1,0 +1,252 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0322.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7433,
+        "width": 4882
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3794,
+                "y0": 580,
+                "x1": 4613,
+                "y1": 1563
+            },
+            "class": "article",
+            "raw_text": "The Florida freeze of last\nmonth has reduced supplies Of\nfresh vegetables. the US. De-.\npartment of Agriculture reports.\n\n\nEven so, during the remaining\nwinter months, prices will aver\nage only slightly above those of\na year ago. Frozen and canned\nvegetables. however, aren't ex-\npected to show any price In\ncrease.\n\n\nStocks Of canned vegetables,\nwhich are moderately smaller\nnow than last winter. are still\nabove average. Holdings Of frozen\nvegetables are about the same as\nin 1868.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3799,
+                "y0": 389,
+                "x1": 4346,
+                "y1": 558
+            },
+            "class": "headline",
+            "raw_text": "VEGETABLE\n\n\nSUPPLY LOWER",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2905,
+                "y0": 534,
+                "x1": 3725,
+                "y1": 2707
+            },
+            "class": "article",
+            "raw_text": "A husband filing a separate\nFederal income tax return for\n1868 cannot claim his wife\n5000 exemption If she had income\nor was the dependent of another\ntaxpayer, George D. Patterson,\nDirector of Internal Revenue for\nArizona, said.\n\n\nHusband and wife may file a\njoint return even though one Of\nthem had no income or deductions\nfor the year. If the wife had In\ncome. they may either file a joint\nreturn or separate returns. A\njoint return must include the in\ncome Of both husband and wife.\nIf separate returns are filed,\nneither may claim an exemption\nfor the other.\n\n\nFor example, suppose wife\nearned $500 from which $50 in\ncome tax was withheld, If she\nfiles a separate return to obtain\nher $50 refund, the husband can\nnot list her as an exemption on\nhis return.\n\n\nIf husband and wife file sep\narate returns, both must use the\nstandard deduction, or both must\nitemize their deductions. One\ncannot itemize and the other use\nthe standard deduction.\n\n\nDocument No. 5l07 which fur\nnishes more detailed information\non this subject Is available upon\nrequest from the Internal Rev\nenue Service.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3068,
+                "y0": 383,
+                "x1": 3539,
+                "y1": 494
+            },
+            "class": "headline",
+            "raw_text": "Tax News",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2911,
+                "y0": 2828,
+                "x1": 3725,
+                "y1": 3293
+            },
+            "class": "article",
+            "raw_text": "lack Clayton was the first Ne\ngro to referee a world champ\nionship boxing bout. He was the\nthird man in the ring on June\nS, 1852 when heavyweight champ\nion Jersey Joe Walcott defeated\nEzzard Charles at Philadelphia\nStadium.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3027,
+                "y0": 2723,
+                "x1": 3609,
+                "y1": 2817
+            },
+            "class": "headline",
+            "raw_text": "NEGRO REFEREE",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1093,
+                "y0": 2444,
+                "x1": 2796,
+                "y1": 3311
+            },
+            "class": "article",
+            "raw_text": "Mr. James Christopher the place Week\naward from Kew M Harrison at the eliminating program\nSunday.\n\n\nhe received the award for services youth pro-\ngram by the Male Chorus of Phillips Memorial Church.\n\n\nAlso watching the presentation Mrs. Josephine Bruce stew\nardess Board No. 8.\n\n\nNational Youth Week observed Phillips Memorial Bethel\nLewis Chapel. CINE Churches in the Valley last week.\n\n\nShown above Randy Boykns Bonnie Smith, Carolyn Johnson\nKay Wilson, mistress ceremonies Tana Gilbert Shirley Lewis\nEdward ardman Rev. Melvin Harrison Phillips Church pastor,\nRev. H. j. Gilard Bethel Church Rev. NJ\nLewis Chapel PASTOR",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-03-06"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                6,
+                0
+            ],
+            "headline": "VEGETABLE\n\n\nSUPPLY LOWER",
+            "article": "The Florida freeze of last\nmonth has reduced supplies Of\nfresh vegetables. the US. De-.\npartment of Agriculture reports.\n\n\nEven so, during the remaining\nwinter months, prices will aver\nage only slightly above those of\na year ago. Frozen and canned\nvegetables. however, aren't ex-\npected to show any price In\ncrease.\n\n\nStocks Of canned vegetables,\nwhich are moderately smaller\nnow than last winter. are still\nabove average. Holdings Of frozen\nvegetables are about the same as\nin 1868.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3799,
+                    "y0": 389,
+                    "x1": 4346,
+                    "y1": 558
+                },
+                {
+                    "x0": 3794,
+                    "y0": 580,
+                    "x1": 4613,
+                    "y1": 1563
+                }
+            ],
+            "bbox": [
+                3794,
+                389,
+                4613,
+                1563
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-03-06_p1_sn84021918_0041421695A_1964030601_0322.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "Tax News",
+            "article": "A husband filing a separate\nFederal income tax return for\n1868 cannot claim his wife\n5000 exemption If she had income\nor was the dependent of another\ntaxpayer, George D. Patterson,\nDirector of Internal Revenue for\nArizona, said.\n\n\nHusband and wife may file a\njoint return even though one Of\nthem had no income or deductions\nfor the year. If the wife had In\ncome. they may either file a joint\nreturn or separate returns. A\njoint return must include the in\ncome Of both husband and wife.\nIf separate returns are filed,\nneither may claim an exemption\nfor the other.\n\n\nFor example, suppose wife\nearned $500 from which $50 in\ncome tax was withheld, If she\nfiles a separate return to obtain\nher $50 refund, the husband can\nnot list her as an exemption on\nhis return.\n\n\nIf husband and wife file sep\narate returns, both must use the\nstandard deduction, or both must\nitemize their deductions. One\ncannot itemize and the other use\nthe standard deduction.\n\n\nDocument No. 5l07 which fur\nnishes more detailed information\non this subject Is available upon\nrequest from the Internal Rev\nenue Service.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3068,
+                    "y0": 383,
+                    "x1": 3539,
+                    "y1": 494
+                },
+                {
+                    "x0": 2905,
+                    "y0": 534,
+                    "x1": 3725,
+                    "y1": 2707
+                }
+            ],
+            "bbox": [
+                2905,
+                383,
+                3725,
+                2707
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-06_p1_sn84021918_0041421695A_1964030601_0322.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "NEGRO REFEREE",
+            "article": "lack Clayton was the first Ne\ngro to referee a world champ\nionship boxing bout. He was the\nthird man in the ring on June\nS, 1852 when heavyweight champ\nion Jersey Joe Walcott defeated\nEzzard Charles at Philadelphia\nStadium.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3027,
+                    "y0": 2723,
+                    "x1": 3609,
+                    "y1": 2817
+                },
+                {
+                    "x0": 2911,
+                    "y0": 2828,
+                    "x1": 3725,
+                    "y1": 3293
+                }
+            ],
+            "bbox": [
+                2911,
+                2723,
+                3725,
+                3293
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-06_p1_sn84021918_0041421695A_1964030601_0322.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Mr. James Christopher the place Week\naward from Kew M Harrison at the eliminating program\nSunday.\n\n\nhe received the award for services youth pro-\ngram by the Male Chorus of Phillips Memorial Church.\n\n\nAlso watching the presentation Mrs. Josephine Bruce stew\nardess Board No. 8.\n\n\nNational Youth Week observed Phillips Memorial Bethel\nLewis Chapel. CINE Churches in the Valley last week.\n\n\nShown above Randy Boykns Bonnie Smith, Carolyn Johnson\nKay Wilson, mistress ceremonies Tana Gilbert Shirley Lewis\nEdward ardman Rev. Melvin Harrison Phillips Church pastor,\nRev. H. j. Gilard Bethel Church Rev. NJ\nLewis Chapel PASTOR",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1093,
+                    "y0": 2444,
+                    "x1": 2796,
+                    "y1": 3311
+                }
+            ],
+            "bbox": [
+                1093,
+                2444,
+                2796,
+                3311
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-03-06_p1_sn84021918_0041421695A_1964030601_0322.json"
+        }
+    ]
+}

@@ -1,0 +1,463 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4809,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964020701/0289.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2874,
+                "y0": 3202,
+                "x1": 3693,
+                "y1": 5558
+            },
+            "class": "article",
+            "raw_text": "You can expect lots of exciting\nnew hobby kits to show up in the\nstores this spring and summer.\nMore than 200 manufacturers\npreviewed their new ideas at the\n9th annual trade show Of the\nHobby Industry Association of\nAmerica, Inc, early in February.\n\n\nSome notes from the show:\n\"Big\" kits like Monogram Mod\nels, Ines one-eighth-size cars,\nare here to stay; slot and road\nracing will continue to gain pop\nularity; there will be an increas-\ning number of CRAZY off beat\ncar kits; science and electronic\nkits continue to grow in variety\nand sophistication-you can even\nbuild your own computer.\n\n\nThe famous Hawker Hurricane\nfighter plane that played such\ntremendous role in the Battle of\nBritain has been added to Mono\ngrams collection Of World War\nII fighter bombers. The Hurri-\ncane was the RATS first fighter\nmonoplane and it's first fighter to\ndo better than 800 miles an hour.\nMonogram's kit includes extra\nparts so you can assemble the\nplane in one of five different YER\nsions produced before the end of\nthe war. Working parts include\nfully retractable landing gear\nand there is large sheet of de-\nGals with markings for each of\nthe five optional versions.\n\n\n+ x\n\n\nPhoto fans can create a dra-\nmatte effect next time they make\na portrait of their favorite date.\nPrint it on red, blue or gold\ntoned paper. Girls, for instance,\nlook misty-by-moonlight on blue\ntoned paper.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1110,
+                "y0": 3596,
+                "x1": 1935,
+                "y1": 4896
+            },
+            "class": "article",
+            "raw_text": "WASHINCTON-The Office of\nEducation Is searching for a\nbuiltin tranquilizer to calm the\nnerves of jittery public speakers,\nnervous actors and frightened\nstudents.\n\n\nThe agency has awarded a\n$1,000 research contract to the\nUniversity of Illinois to find out\nwhat causes stage fright and how\nto cure it.\n\n\nThe university will make a\nyears study of 100 students who\nbecome extremely nervous and\ntense when called upon to speak\nin public.\n\n\nEducators call this symptom\nperformance anxiety. Investiga-\nton has shown that it seriously\naffects some students successes\non examinations or other scho-\nlastic problems.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1116,
+                "y0": 3445,
+                "x1": 1842,
+                "y1": 3585
+            },
+            "class": "headline",
+            "raw_text": "SEARCH ON TO\nEND STAGE FRIGHT",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3761,
+                "y0": 4246,
+                "x1": 4603,
+                "y1": 5059
+            },
+            "class": "article",
+            "raw_text": "Women who prefer \"open air\"\ndrying say that sunny cold day\nis good day for hanging out the\nwash.\n\n\nRemember their tips for winter\ntime line drying: wash wire\nclotheslines with steel wool, fol-\nlowed by sudsy cloth; tuck a hot\nwater bottle into the clothespin\nbag to keep your hands warm;\nsuds and rinse clothespins, then\nsoak them in salt solution so they\nwon't freeze to the clothes; and\ntake the laundry in as soon as it\nis dry enough to iron.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3796,
+                "y0": 4135,
+                "x1": 4569,
+                "y1": 4235
+            },
+            "class": "headline",
+            "raw_text": "Winter Washday Ways",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1992,
+                "y0": 3584,
+                "x1": 2817,
+                "y1": 4949
+            },
+            "class": "article",
+            "raw_text": "Total employment in Arizona\nreached a new high at mid\nDecember as unemployment de-\nclined slightly.\n\n\nA total of 4o4,2OO persons\nwere employed in the state last\nmonth reported the Employment\nSecurity Commission.\n\n\nThis is $500 increase from\nmid-November.\n\n\nThe gain in total jobs was in\nnonfarm employment with agri-\ncultural jobs remaining constant\nat 200.\n\n\nUnemployment at mid-Decem-\nDer total an estimated 5000,\nsome 1000 less than on the same\ndate in 1862 and 200 less than\nat mid-November.\n\n\nArizona unemployment COM\nprised 4.8 per cent of the state S\nlabor force compared to a ma\ntionwide rate of SIS per cent.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1998,
+                "y0": 3434,
+                "x1": 2550,
+                "y1": 3574
+            },
+            "class": "headline",
+            "raw_text": "STATE JOB\n\n\nREPORT MADE",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3756,
+                "y0": 1664,
+                "x1": 4580,
+                "y1": 4084
+            },
+            "class": "article",
+            "raw_text": "Reese Werner has been named\npresident Of Bayless Markets,\nInc, it was announced this week\nby A. j. Bayless, board chair\nman and retiring president.\n\n\nWerner, associated with Bay\nless for \"a years, has been\nexecutive vice president and gen.\neral manager of the Arizona\nfirm since 1862.\n\n\nBayless said, \"Reese Werner\nhas been with our company since\nthe. first store opened in Sep\nTENDER, 1880. He is eminently\nqualified to assume this new\nposition. Under his management,\nam confident the company will\ncontinue to grow and prosper.\nSince l have spent my entire\nworking life in the grocery busi-\nness, ! now feel l should devote\nmy time to my family and other\nbusiness interests\"\n\n\nWerner began his career at age\n10 as a part-time stock boy for\nthe TIM. Butcher store at Five\nPoints in West Phoenix. Shortly\nafterward the store was pur-\nchased by A. ]. Bayless, then\nFl years old. Bayless developed\nthe single store into one of the\nnations so largest food chains\nwith As retail stores employing\n1900 people.\n\n\nWerner said the companys\nsuccess must be attributed to\nthe untiring efforts of Al. Bay\nless. The companys position as\nArizona's largest food retailer\nis the product of his merchan-\ndising SKILL\"",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 206,
+                "y0": 806,
+                "x1": 1036,
+                "y1": 2953
+            },
+            "class": "article",
+            "raw_text": "KING STON, Jamaica The\nPrime Minister Of Jamaica, Sir\nAlexander Bustamante, became\na life member Of the National\nAssociation for the Advancement\nof Colored People when he ac-\ncepted a gold Life Membership\nlapel pin and a Life Member\nship plaque in a brief ceremony\nat his Ministry here.\n\n\nThe pin was presented to Sir\nAlexander by the American Am\nbassador to Jamaica, William\nDoherty, and the plaque by Col\nin Cromwell, NAACP field Sec\nrotary.\n\n\nWorld notables who are NAACP\nlife members include Jawaharlal\nNehru, the Prime Minister Of\nIndia, who has been a longtime\nNAACP stalwart: the Aga Khan\nw and his brother Sadruddin Aga\nKhan of India; Alan Patton, South\nAfrican author; and Laurin Car\ndinal Rugambwa Of Nigeria.\n\n\n\"The fact that the Prime Min\nlister has become a life member\nOf the NAACP,\" commented Mr..\nCromwell, Indicates a closer\nrelationship between Jamaica and\nthe Negro community in the\nUnited States.\n\n\neft ais Identifies Jamaica with\nthe aspirations Of those Jamai-\ncans who now call America their\nhome,' he added.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 200,
+                "y0": 504,
+                "x1": 903,
+                "y1": 737
+            },
+            "class": "headline",
+            "raw_text": "JAMAICAN LEADER\nBECOMES NAACP\nLIFE MEMBER",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 176,
+                "y0": 3306,
+                "x1": 1019,
+                "y1": 4879
+            },
+            "class": "article",
+            "raw_text": "Il Mrs. Helen Ruman. 56l5 N.\n'oIlth Ave.. has been named Mar\nicopa County ticket chairman for\nthe Jefferson Jackson Day dinner\nspoons ored by the Democratic\nParty Of Arizona, Feb. %.\n\n\nMrs. Ruman, vice chairwoman\nof the Maricopa County Demo-\ncratic Central Committee, was\nappointed by County Chairman\nVincent D. Maggiore to orga-\nnize the sale of the $25-per-\nplate tickets through the 40 leg\nqislative district chairmen.\n\n\n'po The dinner meet will feature\n~ S. Sen. Carl Hayden, Secre-\ntary Of Interior Stewart L.Udall,\nand Reps. Norris K. Udall and\nGeorge F. Senner, Jr. 1t will\nbe held In the Hotel Westward\nHo Thunderbird Room. Proceeds\nare to be shared by the state\nand various county organizations.\n\n\nTicket headquarters are at the\nregular county headquarters at\n429 W. Washington St.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 194,
+                "y0": 3016,
+                "x1": 1024,
+                "y1": 3261
+            },
+            "class": "headline",
+            "raw_text": "DEMOCRATS TO\nSPONSOR JEFFERSON-\nJACKSON DINNER",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3761,
+                "y0": 5104,
+                "x1": 4603,
+                "y1": 5540
+            },
+            "class": "article",
+            "raw_text": "When using steel wool to re-\nfinish antique furniture, wear an\nold oven mitt to save wear and\ntear on the hands and to protect\nthem from the paint remover.\nLaunder the mitt in hot suds,\nready for repeated hard-service\nuse.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 4898,
+                "y0": 435,
+                "x1": 6123,
+                "y1": 5784
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964020701_0289",
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "You can expect lots of exciting\nnew hobby kits to show up in the\nstores this spring and summer.\nMore than 200 manufacturers\npreviewed their new ideas at the\n9th annual trade show Of the\nHobby Industry Association of\nAmerica, Inc, early in February.\n\n\nSome notes from the show:\n\"Big\" kits like Monogram Mod\nels, Ines one-eighth-size cars,\nare here to stay; slot and road\nracing will continue to gain pop\nularity; there will be an increas-\ning number of CRAZY off beat\ncar kits; science and electronic\nkits continue to grow in variety\nand sophistication-you can even\nbuild your own computer.\n\n\nThe famous Hawker Hurricane\nfighter plane that played such\ntremendous role in the Battle of\nBritain has been added to Mono\ngrams collection Of World War\nII fighter bombers. The Hurri-\ncane was the RATS first fighter\nmonoplane and it's first fighter to\ndo better than 800 miles an hour.\nMonogram's kit includes extra\nparts so you can assemble the\nplane in one of five different YER\nsions produced before the end of\nthe war. Working parts include\nfully retractable landing gear\nand there is large sheet of de-\nGals with markings for each of\nthe five optional versions.\n\n\n+ x\n\n\nPhoto fans can create a dra-\nmatte effect next time they make\na portrait of their favorite date.\nPrint it on red, blue or gold\ntoned paper. Girls, for instance,\nlook misty-by-moonlight on blue\ntoned paper.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2874,
+                    "y0": 3202,
+                    "x1": 3693,
+                    "y1": 5558
+                }
+            ],
+            "bbox": [
+                2874,
+                3202,
+                3693,
+                5558
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        },
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "SEARCH ON TO\nEND STAGE FRIGHT",
+            "article": "WASHINCTON-The Office of\nEducation Is searching for a\nbuiltin tranquilizer to calm the\nnerves of jittery public speakers,\nnervous actors and frightened\nstudents.\n\n\nThe agency has awarded a\n$1,000 research contract to the\nUniversity of Illinois to find out\nwhat causes stage fright and how\nto cure it.\n\n\nThe university will make a\nyears study of 100 students who\nbecome extremely nervous and\ntense when called upon to speak\nin public.\n\n\nEducators call this symptom\nperformance anxiety. Investiga-\nton has shown that it seriously\naffects some students successes\non examinations or other scho-\nlastic problems.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1116,
+                    "y0": 3445,
+                    "x1": 1842,
+                    "y1": 3585
+                },
+                {
+                    "x0": 1110,
+                    "y0": 3596,
+                    "x1": 1935,
+                    "y1": 4896
+                }
+            ],
+            "bbox": [
+                1110,
+                3445,
+                1935,
+                4896
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        },
+        {
+            "object_ids": [
+                20,
+                3
+            ],
+            "headline": "Winter Washday Ways",
+            "article": "Women who prefer \"open air\"\ndrying say that sunny cold day\nis good day for hanging out the\nwash.\n\n\nRemember their tips for winter\ntime line drying: wash wire\nclotheslines with steel wool, fol-\nlowed by sudsy cloth; tuck a hot\nwater bottle into the clothespin\nbag to keep your hands warm;\nsuds and rinse clothespins, then\nsoak them in salt solution so they\nwon't freeze to the clothes; and\ntake the laundry in as soon as it\nis dry enough to iron.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3796,
+                    "y0": 4135,
+                    "x1": 4569,
+                    "y1": 4235
+                },
+                {
+                    "x0": 3761,
+                    "y0": 4246,
+                    "x1": 4603,
+                    "y1": 5059
+                }
+            ],
+            "bbox": [
+                3761,
+                4135,
+                4603,
+                5059
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "STATE JOB\n\n\nREPORT MADE",
+            "article": "Total employment in Arizona\nreached a new high at mid\nDecember as unemployment de-\nclined slightly.\n\n\nA total of 4o4,2OO persons\nwere employed in the state last\nmonth reported the Employment\nSecurity Commission.\n\n\nThis is $500 increase from\nmid-November.\n\n\nThe gain in total jobs was in\nnonfarm employment with agri-\ncultural jobs remaining constant\nat 200.\n\n\nUnemployment at mid-Decem-\nDer total an estimated 5000,\nsome 1000 less than on the same\ndate in 1862 and 200 less than\nat mid-November.\n\n\nArizona unemployment COM\nprised 4.8 per cent of the state S\nlabor force compared to a ma\ntionwide rate of SIS per cent.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1998,
+                    "y0": 3434,
+                    "x1": 2550,
+                    "y1": 3574
+                },
+                {
+                    "x0": 1992,
+                    "y0": 3584,
+                    "x1": 2817,
+                    "y1": 4949
+                }
+            ],
+            "bbox": [
+                1992,
+                3434,
+                2817,
+                4949
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Reese Werner has been named\npresident Of Bayless Markets,\nInc, it was announced this week\nby A. j. Bayless, board chair\nman and retiring president.\n\n\nWerner, associated with Bay\nless for \"a years, has been\nexecutive vice president and gen.\neral manager of the Arizona\nfirm since 1862.\n\n\nBayless said, \"Reese Werner\nhas been with our company since\nthe. first store opened in Sep\nTENDER, 1880. He is eminently\nqualified to assume this new\nposition. Under his management,\nam confident the company will\ncontinue to grow and prosper.\nSince l have spent my entire\nworking life in the grocery busi-\nness, ! now feel l should devote\nmy time to my family and other\nbusiness interests\"\n\n\nWerner began his career at age\n10 as a part-time stock boy for\nthe TIM. Butcher store at Five\nPoints in West Phoenix. Shortly\nafterward the store was pur-\nchased by A. ]. Bayless, then\nFl years old. Bayless developed\nthe single store into one of the\nnations so largest food chains\nwith As retail stores employing\n1900 people.\n\n\nWerner said the companys\nsuccess must be attributed to\nthe untiring efforts of Al. Bay\nless. The companys position as\nArizona's largest food retailer\nis the product of his merchan-\ndising SKILL\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3756,
+                    "y0": 1664,
+                    "x1": 4580,
+                    "y1": 4084
+                }
+            ],
+            "bbox": [
+                3756,
+                1664,
+                4580,
+                4084
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        },
+        {
+            "object_ids": [
+                16,
+                8
+            ],
+            "headline": "JAMAICAN LEADER\nBECOMES NAACP\nLIFE MEMBER",
+            "article": "KING STON, Jamaica The\nPrime Minister Of Jamaica, Sir\nAlexander Bustamante, became\na life member Of the National\nAssociation for the Advancement\nof Colored People when he ac-\ncepted a gold Life Membership\nlapel pin and a Life Member\nship plaque in a brief ceremony\nat his Ministry here.\n\n\nThe pin was presented to Sir\nAlexander by the American Am\nbassador to Jamaica, William\nDoherty, and the plaque by Col\nin Cromwell, NAACP field Sec\nrotary.\n\n\nWorld notables who are NAACP\nlife members include Jawaharlal\nNehru, the Prime Minister Of\nIndia, who has been a longtime\nNAACP stalwart: the Aga Khan\nw and his brother Sadruddin Aga\nKhan of India; Alan Patton, South\nAfrican author; and Laurin Car\ndinal Rugambwa Of Nigeria.\n\n\n\"The fact that the Prime Min\nlister has become a life member\nOf the NAACP,\" commented Mr..\nCromwell, Indicates a closer\nrelationship between Jamaica and\nthe Negro community in the\nUnited States.\n\n\neft ais Identifies Jamaica with\nthe aspirations Of those Jamai-\ncans who now call America their\nhome,' he added.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 200,
+                    "y0": 504,
+                    "x1": 903,
+                    "y1": 737
+                },
+                {
+                    "x0": 206,
+                    "y0": 806,
+                    "x1": 1036,
+                    "y1": 2953
+                }
+            ],
+            "bbox": [
+                200,
+                504,
+                1036,
+                2953
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        },
+        {
+            "object_ids": [
+                14,
+                10
+            ],
+            "headline": "DEMOCRATS TO\nSPONSOR JEFFERSON-\nJACKSON DINNER",
+            "article": "Il Mrs. Helen Ruman. 56l5 N.\n'oIlth Ave.. has been named Mar\nicopa County ticket chairman for\nthe Jefferson Jackson Day dinner\nspoons ored by the Democratic\nParty Of Arizona, Feb. %.\n\n\nMrs. Ruman, vice chairwoman\nof the Maricopa County Demo-\ncratic Central Committee, was\nappointed by County Chairman\nVincent D. Maggiore to orga-\nnize the sale of the $25-per-\nplate tickets through the 40 leg\nqislative district chairmen.\n\n\n'po The dinner meet will feature\n~ S. Sen. Carl Hayden, Secre-\ntary Of Interior Stewart L.Udall,\nand Reps. Norris K. Udall and\nGeorge F. Senner, Jr. 1t will\nbe held In the Hotel Westward\nHo Thunderbird Room. Proceeds\nare to be shared by the state\nand various county organizations.\n\n\nTicket headquarters are at the\nregular county headquarters at\n429 W. Washington St.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 194,
+                    "y0": 3016,
+                    "x1": 1024,
+                    "y1": 3261
+                },
+                {
+                    "x0": 176,
+                    "y0": 3306,
+                    "x1": 1019,
+                    "y1": 4879
+                }
+            ],
+            "bbox": [
+                176,
+                3016,
+                1024,
+                4879
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "When using steel wool to re-\nfinish antique furniture, wear an\nold oven mitt to save wear and\ntear on the hands and to protect\nthem from the paint remover.\nLaunder the mitt in hot suds,\nready for repeated hard-service\nuse.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3761,
+                    "y0": 5104,
+                    "x1": 4603,
+                    "y1": 5540
+                }
+            ],
+            "bbox": [
+                3761,
+                5104,
+                4603,
+                5540
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-02-07_pna_sn84021918_0041421695A_1964020701_0289.json"
+        }
+    ]
+}

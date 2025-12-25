@@ -1,0 +1,440 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4831,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-07",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964020701/0286.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2912,
+                "y0": 5094,
+                "x1": 4605,
+                "y1": 6713
+            },
+            "class": "article",
+            "raw_text": "The President justice of the US. Supreme Court\nwhen one retres resigns dies rule the Senate confirms\nappointment the President sends In another name\n\n\nWhere do the justices from Some from private law Offices\ncabinet\nbers.\n\n\nNormally time there will be justices from each part\ncounyNew England the Middle Atlantic the Sout the\n\n\nand the West For the Supreme Court decides questions\nof wide public\n\n\noath support and defend the Const-\nwe'll administer justice without respect to per-\nsons; \"edual right poor and to the RICH\n\n\nhonest and fearless justices give them pro-\nLawmakers their salary\nhold office during good behavior which means until they\nretire or die.\njudicial branch be independent call\nthe shots they them without fear or favoriusm.\n\n\nseek Supreme Court justices who Will take\nstands perhaps against hostile public opinion We want\nequally dissent from the majority views and even In\noverrule themselves and adopt minority opinion\n\n\nThis legal column issued public service under super\nof Arizona and is written to inform not\nadViSe)",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2923,
+                "y0": 4858,
+                "x1": 3745,
+                "y1": 5072
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law\nTHE JUSTICES",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2941,
+                "y0": 1259,
+                "x1": 4628,
+                "y1": 2583
+            },
+            "class": "article",
+            "raw_text": "The hghght mdwnter conference the National Newspaper\nPublishers Association held last week the Wash\nington, D. c. the meeting with President Lyndon Johnson\n\n\nthe twenty delegates selected participate the White\nHouse meeting We uhered ROOM\nfore ii Thursday JAM 3Oh Mr. Johnson arrived\nlistened his views and proposed rights\npoverty The NPA representatives lively group many\nquestions asked\n\n\nHe assured that he would\npassage Of the civil rights bill which is pending.\n\n\nPresident Johnson displayed quick wit during the meeting\n\n\nConcluding the discussion the equality of job opportunities\nthe President said the Negro should the need\nand ability He felt demonstrations had\ndecreased.\n\n\nHe commended the publishers aiding rights\nand urged them continue their dedicated work.\n\n\nMr. Johnson urged that all the United States should\nhim his record and the of his BIRTH He preferred\nbe known president from Texas the South rather\nthe president the United States serving all sections and all people,",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3495,
+                "y0": 473,
+                "x1": 4490,
+                "y1": 931
+            },
+            "class": "headline",
+            "raw_text": "vIEwS,p Reviews\nANo Reviews\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3721,
+                "y0": 837,
+                "x1": 4236,
+                "y1": 925
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2958,
+                "y0": 999,
+                "x1": 4068,
+                "y1": 1231
+            },
+            "class": "headline",
+            "raw_text": "PRESIDENT Johnson TELLS\nNNPA DELEGATES THAT He\nSTANDS ON HIS PAST RECORD",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2912,
+                "y0": 2795,
+                "x1": 4663,
+                "y1": 4778
+            },
+            "class": "article",
+            "raw_text": "There has been a great deal Of publicity\nconcerning the lack Of city government inter-\nestS in the southside. Less than tho weeks\nago Mayor Milton Graham and the City Cos1,s- \"a\nGil limited residents Of the south area to meet\nwith them. .7o1\n\n\nThe meeting sOas attended by only a mere 5Hs\nHANDFUL, about go came. Where weYe the sd sd\nthrongS of persons sOho said they weye dis qans1\nsatisfied with the city council and the mayor?\nWhere sOeTe the hundreds sOlaO sOeye going to\npress for more city sponsored facilities, in :\nchtding recreation centeys, libraries and PACED\nstreets?\n\n\nSurely more persons could haze been present\nat such an important meeting. Participation TN\nsuch meetings is necessary If the sossthside is\nto assume its role as an active party of city ot\naffairs.\n\n\nLet us hope that those persons buyboytedly .Ir\ninterest,\" in the s0uthside community mill be prs\npresent at any future meetings Of this magni-\ntude.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3178,
+                "y0": 2622,
+                "x1": 4311,
+                "y1": 2767
+            },
+            "class": "headline",
+            "raw_text": "WHERE were They?",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 226,
+                "y0": 2299,
+                "x1": 1948,
+                "y1": 5003
+            },
+            "class": "article",
+            "raw_text": "This week the required number Of states\nratified the amendment which ended the bOH\ntax leUied in several southern states. The\npoll tax had been one Of the means to discOuY-\nage Negroes from becoming eligible to OOte.\nAlthough the payment required aUas not exor-\nbitant, it kept many from even trying to reg\nlister.\n\n\nA far greater curb on votinzg of Negroes in\nthe South is the Hteyacy test program. There\nseems to be concrete evidence that different\nand more rigid tests are applied to Negroes\nseeking to register than to whites.\n\n\nAbOhshi'lg Of the boll tax mill hardly in\ncrease the numbers of qualified Negro UOteys.\nThere wlH be many legal suits filed before\nthe Obsta cles to registration are overcome.\n\n\nThe end Of the poll tax should however,\narouse the voti'ag interests Of all Negroes\nWho haze not eOey been required to pay poll\ntax or face a HteYacy test.\n\n\nEveYy person should remember that many\nthousands haze died in order to assure the\nvOtinlg rights of their children and grand\nchildren.\n\n\nPoll taxes haze ended but let's improve our\naction at the voteYs' registration aOindouOs.\nAlso, let's Improve our action at the polls.\nWhy sUait until just before election time.\n\n\nSUBSCRIBE ARIZONA TRIBUNE",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 798,
+                "y0": 895,
+                "x1": 1365,
+                "y1": 971
+            },
+            "class": "author",
+            "raw_text": "VOL. 6, NO. 80",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -3
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 376,
+                "y0": 1825,
+                "x1": 1059,
+                "y1": 1993
+            },
+            "class": "author",
+            "raw_text": "This Newspaper 10 member Of\nNEWSPAPERS ASSOCIATION\n~ For Greater Public Service",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 578,
+                "y0": 2085,
+                "x1": 1486,
+                "y1": 2248
+            },
+            "class": "headline",
+            "raw_text": "POLL TAX ENDS",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2028,
+                "y0": 849,
+                "x1": 2867,
+                "y1": 6372
+            },
+            "class": "article",
+            "raw_text": "\n\n\nOf international and national ag-\nonies today. There are strikes,\ndemonstrations, riots, fights,\nmassacres and other terrible\ndeeds occurring at home and\non foreign soil.\n\n\nOur diplomats have convinced\nthose who are in power to es-\ntablish shot line\" from Wash\nington DC. to Moscow. This pri-\nvate telephone service is con-\nnected directly from our presi-\ndent office to the Russian pre-\nmier's office. The line is sup\nposedly method to prevent hasty\ndecisions and save time routing\nInformation through our diplo-\nmatte corps.\n\n\nA couple of weeks ago some\nperson in Finland severed piece\nof the hot line connection. just\nimagine If there had been dra-\nmatte and urgent message to con-\nvey from Moscow to the White\nHoused Can't you see Lyndon\ndrawing to Nk1ta, \"Howdy, Nix\nXII, how ya'll been over there7\"\n\n\nBefore Nikita would have had\ntime to answer and get the pro-\nper translation back - the wire\nwould have been severed by an\nirate citizen or some irrespon-\nsible prankster.\n\n\nWe may marvel at man. at\ntempts to conquer space, but\nthere are many more gremlins\naround than the scientists dare to\nmention. They are constantly\npreparing for the unforeseen or the\nproblematic or the theoretical\nbut never, never should the human\nelement be overlooked.\n\n\nNo mention was made for the\nreason of the Firms action. He\nmerely cut the wire. Perhaps. he\nhad an unhappy childhood. Per-\nchance, his early days we're upset\nby the constant ringing of tele-\nphone. Maybe he was ignored by\nhis mother while she conversed\non the telephone.\n\n\nInstead of hot line there\nshould be in its place a hot\nparty line. Why have just one hot\nline to the Russians7 What about\na hot line with Great Britain,\nFrance, West and EastGermany,\nGreece, Liberia, New Zealand,\nBrazil and Antarctica7\n\n\nThis would give our men in\nthe White House ample instant\ncoverage of faraway places.\n\n\nThis hot party line would be\nconnected through some kind of\ndual control--no one station could\nbe interrupted by mere cutting\nof the wire. A satellite trans\nmitter would no doubt be useful.\n\n\nIn addition the hot line con-\nversations should be teleWsed\nvia the national hookups. Cities\nwithout teleWsion facilities could\nhear the phone calls on the ma\ntional radio broadcasts.\n\n\nThe international hot party line\nwould eliminate the vast intelli-\ngence and counter intelligence\ncorps which operate in all ma\ntions. This would also halt the\nneed for the hundreds of foreign\nambassadors, embassy officers\nand emissaries of good will who\ninhabit the cities across the four\ncorners Of the earth.\n\n\nAS the operation became bet\nter controlled there could be a\nline connected with all of the\nnations represented in the\nUnited Nations. We could save\nother thousands by providing all\nof our enemies, friends, neutral\nallies and our own citizens with\nfirsthand reports of our foreign",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2068,
+                "y0": 392,
+                "x1": 2867,
+                "y1": 619
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELoIsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2063,
+                "y0": 664,
+                "x1": 2607,
+                "y1": 757
+            },
+            "class": "headline",
+            "raw_text": "THE HOT LINE",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964020701_0286",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "Discussing Arizona Law\nTHE JUSTICES",
+            "article": "The President justice of the US. Supreme Court\nwhen one retres resigns dies rule the Senate confirms\nappointment the President sends In another name\n\n\nWhere do the justices from Some from private law Offices\ncabinet\nbers.\n\n\nNormally time there will be justices from each part\ncounyNew England the Middle Atlantic the Sout the\n\n\nand the West For the Supreme Court decides questions\nof wide public\n\n\noath support and defend the Const-\nwe'll administer justice without respect to per-\nsons; \"edual right poor and to the RICH\n\n\nhonest and fearless justices give them pro-\nLawmakers their salary\nhold office during good behavior which means until they\nretire or die.\njudicial branch be independent call\nthe shots they them without fear or favoriusm.\n\n\nseek Supreme Court justices who Will take\nstands perhaps against hostile public opinion We want\nequally dissent from the majority views and even In\noverrule themselves and adopt minority opinion\n\n\nThis legal column issued public service under super\nof Arizona and is written to inform not\nadViSe)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2923,
+                    "y0": 4858,
+                    "x1": 3745,
+                    "y1": 5072
+                },
+                {
+                    "x0": 2912,
+                    "y0": 5094,
+                    "x1": 4605,
+                    "y1": 6713
+                }
+            ],
+            "bbox": [
+                2912,
+                4858,
+                4605,
+                6713
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-07_pna_sn84021918_0041421695A_1964020701_0286.json"
+        },
+        {
+            "object_ids": [
+                6,
+                17,
+                9,
+                1
+            ],
+            "headline": "vIEwS,p Reviews\nANo Reviews\n\n\nEdward Banks\n\nPRESIDENT Johnson TELLS\nNNPA DELEGATES THAT He\nSTANDS ON HIS PAST RECORD",
+            "article": "The hghght mdwnter conference the National Newspaper\nPublishers Association held last week the Wash\nington, D. c. the meeting with President Lyndon Johnson\n\n\nthe twenty delegates selected participate the White\nHouse meeting We uhered ROOM\nfore ii Thursday JAM 3Oh Mr. Johnson arrived\nlistened his views and proposed rights\npoverty The NPA representatives lively group many\nquestions asked\n\n\nHe assured that he would\npassage Of the civil rights bill which is pending.\n\n\nPresident Johnson displayed quick wit during the meeting\n\n\nConcluding the discussion the equality of job opportunities\nthe President said the Negro should the need\nand ability He felt demonstrations had\ndecreased.\n\n\nHe commended the publishers aiding rights\nand urged them continue their dedicated work.\n\n\nMr. Johnson urged that all the United States should\nhim his record and the of his BIRTH He preferred\nbe known president from Texas the South rather\nthe president the United States serving all sections and all people,",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3495,
+                    "y0": 473,
+                    "x1": 4490,
+                    "y1": 931
+                },
+                {
+                    "x0": 3721,
+                    "y0": 837,
+                    "x1": 4236,
+                    "y1": 925
+                },
+                {
+                    "x0": 2958,
+                    "y0": 999,
+                    "x1": 4068,
+                    "y1": 1231
+                },
+                {
+                    "x0": 2941,
+                    "y0": 1259,
+                    "x1": 4628,
+                    "y1": 2583
+                }
+            ],
+            "bbox": [
+                2941,
+                473,
+                4628,
+                2583
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-07_pna_sn84021918_0041421695A_1964020701_0286.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "WHERE were They?",
+            "article": "There has been a great deal Of publicity\nconcerning the lack Of city government inter-\nestS in the southside. Less than tho weeks\nago Mayor Milton Graham and the City Cos1,s- \"a\nGil limited residents Of the south area to meet\nwith them. .7o1\n\n\nThe meeting sOas attended by only a mere 5Hs\nHANDFUL, about go came. Where weYe the sd sd\nthrongS of persons sOho said they weye dis qans1\nsatisfied with the city council and the mayor?\nWhere sOeTe the hundreds sOlaO sOeye going to\npress for more city sponsored facilities, in :\nchtding recreation centeys, libraries and PACED\nstreets?\n\n\nSurely more persons could haze been present\nat such an important meeting. Participation TN\nsuch meetings is necessary If the sossthside is\nto assume its role as an active party of city ot\naffairs.\n\n\nLet us hope that those persons buyboytedly .Ir\ninterest,\" in the s0uthside community mill be prs\npresent at any future meetings Of this magni-\ntude.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3178,
+                    "y0": 2622,
+                    "x1": 4311,
+                    "y1": 2767
+                },
+                {
+                    "x0": 2912,
+                    "y0": 2795,
+                    "x1": 4663,
+                    "y1": 4778
+                }
+            ],
+            "bbox": [
+                2912,
+                2622,
+                4663,
+                4778
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-02-07_pna_sn84021918_0041421695A_1964020701_0286.json"
+        },
+        {
+            "object_ids": [
+                19,
+                18,
+                13,
+                5
+            ],
+            "headline": "POLL TAX ENDS",
+            "article": "This week the required number Of states\nratified the amendment which ended the bOH\ntax leUied in several southern states. The\npoll tax had been one Of the means to discOuY-\nage Negroes from becoming eligible to OOte.\nAlthough the payment required aUas not exor-\nbitant, it kept many from even trying to reg\nlister.\n\n\nA far greater curb on votinzg of Negroes in\nthe South is the Hteyacy test program. There\nseems to be concrete evidence that different\nand more rigid tests are applied to Negroes\nseeking to register than to whites.\n\n\nAbOhshi'lg Of the boll tax mill hardly in\ncrease the numbers of qualified Negro UOteys.\nThere wlH be many legal suits filed before\nthe Obsta cles to registration are overcome.\n\n\nThe end Of the poll tax should however,\narouse the voti'ag interests Of all Negroes\nWho haze not eOey been required to pay poll\ntax or face a HteYacy test.\n\n\nEveYy person should remember that many\nthousands haze died in order to assure the\nvOtinlg rights of their children and grand\nchildren.\n\n\nPoll taxes haze ended but let's improve our\naction at the voteYs' registration aOindouOs.\nAlso, let's Improve our action at the polls.\nWhy sUait until just before election time.\n\n\nSUBSCRIBE ARIZONA TRIBUNE",
+            "byline": "VOL. 6, NO. 80\n\nThis Newspaper 10 member Of\nNEWSPAPERS ASSOCIATION\n~ For Greater Public Service",
+            "bbox_list": [
+                {
+                    "x0": 798,
+                    "y0": 895,
+                    "x1": 1365,
+                    "y1": 971
+                },
+                {
+                    "x0": 376,
+                    "y0": 1825,
+                    "x1": 1059,
+                    "y1": 1993
+                },
+                {
+                    "x0": 578,
+                    "y0": 2085,
+                    "x1": 1486,
+                    "y1": 2248
+                },
+                {
+                    "x0": 226,
+                    "y0": 2299,
+                    "x1": 1948,
+                    "y1": 5003
+                }
+            ],
+            "bbox": [
+                226,
+                895,
+                1948,
+                5003
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-02-07_pna_sn84021918_0041421695A_1964020701_0286.json"
+        },
+        {
+            "object_ids": [
+                11,
+                15,
+                8
+            ],
+            "headline": "Sights and Sounds\nELoIsE BANKS\n\nTHE HOT LINE",
+            "article": "\n\n\nOf international and national ag-\nonies today. There are strikes,\ndemonstrations, riots, fights,\nmassacres and other terrible\ndeeds occurring at home and\non foreign soil.\n\n\nOur diplomats have convinced\nthose who are in power to es-\ntablish shot line\" from Wash\nington DC. to Moscow. This pri-\nvate telephone service is con-\nnected directly from our presi-\ndent office to the Russian pre-\nmier's office. The line is sup\nposedly method to prevent hasty\ndecisions and save time routing\nInformation through our diplo-\nmatte corps.\n\n\nA couple of weeks ago some\nperson in Finland severed piece\nof the hot line connection. just\nimagine If there had been dra-\nmatte and urgent message to con-\nvey from Moscow to the White\nHoused Can't you see Lyndon\ndrawing to Nk1ta, \"Howdy, Nix\nXII, how ya'll been over there7\"\n\n\nBefore Nikita would have had\ntime to answer and get the pro-\nper translation back - the wire\nwould have been severed by an\nirate citizen or some irrespon-\nsible prankster.\n\n\nWe may marvel at man. at\ntempts to conquer space, but\nthere are many more gremlins\naround than the scientists dare to\nmention. They are constantly\npreparing for the unforeseen or the\nproblematic or the theoretical\nbut never, never should the human\nelement be overlooked.\n\n\nNo mention was made for the\nreason of the Firms action. He\nmerely cut the wire. Perhaps. he\nhad an unhappy childhood. Per-\nchance, his early days we're upset\nby the constant ringing of tele-\nphone. Maybe he was ignored by\nhis mother while she conversed\non the telephone.\n\n\nInstead of hot line there\nshould be in its place a hot\nparty line. Why have just one hot\nline to the Russians7 What about\na hot line with Great Britain,\nFrance, West and EastGermany,\nGreece, Liberia, New Zealand,\nBrazil and Antarctica7\n\n\nThis would give our men in\nthe White House ample instant\ncoverage of faraway places.\n\n\nThis hot party line would be\nconnected through some kind of\ndual control--no one station could\nbe interrupted by mere cutting\nof the wire. A satellite trans\nmitter would no doubt be useful.\n\n\nIn addition the hot line con-\nversations should be teleWsed\nvia the national hookups. Cities\nwithout teleWsion facilities could\nhear the phone calls on the ma\ntional radio broadcasts.\n\n\nThe international hot party line\nwould eliminate the vast intelli-\ngence and counter intelligence\ncorps which operate in all ma\ntions. This would also halt the\nneed for the hundreds of foreign\nambassadors, embassy officers\nand emissaries of good will who\ninhabit the cities across the four\ncorners Of the earth.\n\n\nAS the operation became bet\nter controlled there could be a\nline connected with all of the\nnations represented in the\nUnited Nations. We could save\nother thousands by providing all\nof our enemies, friends, neutral\nallies and our own citizens with\nfirsthand reports of our foreign",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2068,
+                    "y0": 392,
+                    "x1": 2867,
+                    "y1": 619
+                },
+                {
+                    "x0": 2063,
+                    "y0": 664,
+                    "x1": 2607,
+                    "y1": 757
+                },
+                {
+                    "x0": 2028,
+                    "y0": 849,
+                    "x1": 2867,
+                    "y1": 6372
+                }
+            ],
+            "bbox": [
+                2028,
+                392,
+                2867,
+                6372
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-07_pna_sn84021918_0041421695A_1964020701_0286.json"
+        }
+    ]
+}

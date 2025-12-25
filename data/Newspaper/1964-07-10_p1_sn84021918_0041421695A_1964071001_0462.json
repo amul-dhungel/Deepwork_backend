@@ -1,0 +1,256 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964071001/0462.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4937
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3111,
+                "y0": 1118,
+                "x1": 4793,
+                "y1": 2557
+            },
+            "class": "article",
+            "raw_text": "During decade the need for experienced\nfields has increased woehow the trades\nand industries have been overlooked In the school anngs the\n\n\n\nThere machines this country than before.\nThere automobiles and telephones in the nation\nand the numbers rplanes Is increasing steadily in the private\nmarket,\n\n\nToo often young boys and girls elementary school and\nhigh school will they plan be DOCTORS lawyers teachers\nThey realize that become lawyer doctor\nother professional worker.\n\n\nThe fields in automove and electrical engineering\nDaily plants send in the continental United States and\nabroad search for skilled technicians.\n\n\nMany young who unable find jobs might have been\nled northumberland before they quit school,\n\n\nNo longer should diploma bear stigma\nWe should think that Of low mentality failing school\ngrades the only who be utilized In vocational\ntechnical Too often the States the programs\nsuffered because have unable\nboy girl these types Of programs before they reach their junior\nsenior year in high school.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3610,
+                "y0": 481,
+                "x1": 4585,
+                "y1": 928
+            },
+            "class": "headline",
+            "raw_text": "Views, pRFvIFws\nMo REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -3
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3830,
+                "y0": 840,
+                "x1": 4347,
+                "y1": 922
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3332,
+                "y0": 985,
+                "x1": 4474,
+                "y1": 1096
+            },
+            "class": "headline",
+            "raw_text": "Vocational Schools Needed",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 399,
+                "y0": 2086,
+                "x1": 2052,
+                "y1": 6341
+            },
+            "class": "article",
+            "raw_text": "\n\n\nThe division of political life in these\nUnited States is divided between two\nmajor parties, the Republican and the\nDemocratic. WSthin books sVyitten on\npolitics, politicians and political times,\nattempts haze been MADE to show the dis\ntinctions and differences or the sinilaTs-\nties and HkeneSSeS Of the t1VO major\nparties.\n\n\nIn the past years, PARTY leaders OF both\nthe Democrats and Republicans haze taken\ncredit for many things in our nations\nhistory from ending MARS to promoting\nthe FLOW of Wutey IN dams. However,\nthere are men and women 10llo make UP\nthe party structures in all block, pre-\nciucts, wards and counties throughout the\naosO fifty states, uVho neUeY get credit.\n\n\nNothing gains as much attention as the\nnational PARTY conventions which are held\nevery four years Oben presidential can\ndidates and vice presidential candidates\nare selected.\n\n\nThis year all eyes are turned tOuoTd\nSan Francisco where the Republican dele\ngates win nominate a standard bearer.\nSenator Barry GoldWoteY from Arizona\nis leading the field and his detYa ctyOS are\nusing all methods to IMPEDE his nominal\nton.\n\n\nFew min recall that the same man Wk0\nnow occupies the White House, Lyndon B.\nJohnson, u0s not known for his far reach\ning support of civil rights measures Mhen\nhe wos chosen to run with the late bTesi-\ndent. NoaV, as the President of the United\nStates, he must uphold the Cons tttutton,\nthough sOhen he Was a senator from Texas,\nhe uoted against some Of the very Things\nhe now must ere cute.\n\n\nThe party system wiH continue and the.\nman chosen to head the Tesbe ctsUe P0Tty>s\ntickets viii haze to do as any otheT man\nuho is v0ted into the White H0uSe-he WpH\nuphold the l0aV Of Ouy land.\n\n\nDELUXE",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 665,
+                "y0": 1947,
+                "x1": 1826,
+                "y1": 2099
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2213,
+                "y0": 846,
+                "x1": 3049,
+                "y1": 6388
+            },
+            "class": "article",
+            "raw_text": "W0nlen III Tic WVLA01 0ASSSS~ -\"\nthe latest fashions. The next\ngroup Of miladies will be dressed\nin lion cloths, high boots, rain\ncoats or bouffant skirts.\n\n\n1t 10 the city Of opera, \"sick\ncomedy. beach houses, sky\nscrapers. townhouses. swank\nmotels, yachts. fishing boats,\nfreeways and highspanned brid-\nges.\n\n\nI like to visit the city on the\nhills and we we're delighted with\nthe chilly weather. However. two\nnights the thermometer dropped\npast fifty and we were really\ncomplaining.\n\n\nCalifornians are like colonists.\nThe San Franciscans feel quite\ndifferently toward the Los Ange-\nles dwellers. They talk about the\ndivision between north and south\nparts Of the state as II civil war\nwe're ready to erupt.\n\n\nThe newspaper publishers as\nISOLATION convention ended on a\ngrand note with the last meeting\nbeing held at the Christian Bro\ntheirs school and winery In Napa\nValley.\n\n\nWe drove on a chartered bus\npast Oakland, Vallejo and several\nsmaller towns before reaching\nthe winding road In the valley.\nRows and rows Of grape plants\nstretched across the rolling land.\n\n\nThe setting was tranquil and\nnear perfect as the Brothers\nGregory and Norman explained\nthe schools purposes and the\nfinancial backing of the wine In\ndustry.\n\n\nWhile In the city we heard that\nsome members of the city coun-\nell we're hoping to pass an ordi-\nnance forbidding walking on the\nbridges because so many persons\nhad committed suicide.\n\n\nThe park in the heart Of town\nis another sight of San Francisco\nyou can never forget. Here were\nall kinds of men and women. Some\nsleeping. some reading, some\nmaking speeches and others\nmerely standing. Union Square\nrivals Central Park as a beautiful\ngreen spot In crowded metropo-\nlis.\n\n\nOur trip back home started\nafter we had been interviewed by\na vivacious teacher from New\nYork. Miss Lou LuTour. She\nhas a radio, series and she is\nspending untold hours preparinga\ndocumentary series on the Negro\nPress. We invited her to stop in\nPhoenix fewdays before return\ning to Gotham.\n\n\nThe drive home was not as hec-\ntic as our drive to San Francisco.\nWe were more relaxed and had\nmore time to enjoy the scenery.\nCalifornia Is beautiful, but Ari-\niona comes first.\n\n\nEdward and spent the night in\nLos Angeles at the home Of MIR.\nand Mrs. Edwin Dec onge. twas\ngood to see them and we talked\nuntil nearly midnight Sunday.\n\n\nEarly Monday morning we hit\nthe road for Phoenix and made\nthe wrong turn on the freeway.\nWe ended up in Dairy Valley on\nArtesian Drive. We said 1t was\ninteresting although we lost about\na half hour. never knew that\nthere we're SO many cows just a\nstones throw from the City of\nAngels.\n\n\nMy spouse remarked that more\nAmericans should get off of the\nfreeways and see more of the\ncountry.\n\n\nBefore long we connected to the\nmain HIGHWAY and resumed Ollr",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2236,
+                "y0": 405,
+                "x1": 3025,
+                "y1": 696
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nELolsg BANKS\n\n\nHome Aauin",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-07-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                14,
+                9,
+                0
+            ],
+            "headline": "Views, pRFvIFws\nMo REVIEWS\n\n\nEdward Banks\n\nVocational Schools Needed",
+            "article": "During decade the need for experienced\nfields has increased woehow the trades\nand industries have been overlooked In the school anngs the\n\n\n\nThere machines this country than before.\nThere automobiles and telephones in the nation\nand the numbers rplanes Is increasing steadily in the private\nmarket,\n\n\nToo often young boys and girls elementary school and\nhigh school will they plan be DOCTORS lawyers teachers\nThey realize that become lawyer doctor\nother professional worker.\n\n\nThe fields in automove and electrical engineering\nDaily plants send in the continental United States and\nabroad search for skilled technicians.\n\n\nMany young who unable find jobs might have been\nled northumberland before they quit school,\n\n\nNo longer should diploma bear stigma\nWe should think that Of low mentality failing school\ngrades the only who be utilized In vocational\ntechnical Too often the States the programs\nsuffered because have unable\nboy girl these types Of programs before they reach their junior\nsenior year in high school.",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3610,
+                    "y0": 481,
+                    "x1": 4585,
+                    "y1": 928
+                },
+                {
+                    "x0": 3830,
+                    "y0": 840,
+                    "x1": 4347,
+                    "y1": 922
+                },
+                {
+                    "x0": 3332,
+                    "y0": 985,
+                    "x1": 4474,
+                    "y1": 1096
+                },
+                {
+                    "x0": 3111,
+                    "y0": 1118,
+                    "x1": 4793,
+                    "y1": 2557
+                }
+            ],
+            "bbox": [
+                3111,
+                481,
+                4793,
+                2557
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-10_p1_sn84021918_0041421695A_1964071001_0462.json"
+        },
+        {
+            "object_ids": [
+                11,
+                10
+            ],
+            "headline": "",
+            "article": "\n\n\nThe division of political life in these\nUnited States is divided between two\nmajor parties, the Republican and the\nDemocratic. WSthin books sVyitten on\npolitics, politicians and political times,\nattempts haze been MADE to show the dis\ntinctions and differences or the sinilaTs-\nties and HkeneSSeS Of the t1VO major\nparties.\n\n\nIn the past years, PARTY leaders OF both\nthe Democrats and Republicans haze taken\ncredit for many things in our nations\nhistory from ending MARS to promoting\nthe FLOW of Wutey IN dams. However,\nthere are men and women 10llo make UP\nthe party structures in all block, pre-\nciucts, wards and counties throughout the\naosO fifty states, uVho neUeY get credit.\n\n\nNothing gains as much attention as the\nnational PARTY conventions which are held\nevery four years Oben presidential can\ndidates and vice presidential candidates\nare selected.\n\n\nThis year all eyes are turned tOuoTd\nSan Francisco where the Republican dele\ngates win nominate a standard bearer.\nSenator Barry GoldWoteY from Arizona\nis leading the field and his detYa ctyOS are\nusing all methods to IMPEDE his nominal\nton.\n\n\nFew min recall that the same man Wk0\nnow occupies the White House, Lyndon B.\nJohnson, u0s not known for his far reach\ning support of civil rights measures Mhen\nhe wos chosen to run with the late bTesi-\ndent. NoaV, as the President of the United\nStates, he must uphold the Cons tttutton,\nthough sOhen he Was a senator from Texas,\nhe uoted against some Of the very Things\nhe now must ere cute.\n\n\nThe party system wiH continue and the.\nman chosen to head the Tesbe ctsUe P0Tty>s\ntickets viii haze to do as any otheT man\nuho is v0ted into the White H0uSe-he WpH\nuphold the l0aV Of Ouy land.\n\n\nDELUXE",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 665,
+                    "y0": 1947,
+                    "x1": 1826,
+                    "y1": 2099
+                },
+                {
+                    "x0": 399,
+                    "y0": 2086,
+                    "x1": 2052,
+                    "y1": 6341
+                }
+            ],
+            "bbox": [
+                399,
+                1947,
+                2052,
+                6341
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-07-10_p1_sn84021918_0041421695A_1964071001_0462.json"
+        },
+        {
+            "object_ids": [
+                7,
+                8
+            ],
+            "headline": "Siqhts and Sounds\nELolsg BANKS\n\n\nHome Aauin",
+            "article": "W0nlen III Tic WVLA01 0ASSSS~ -\"\nthe latest fashions. The next\ngroup Of miladies will be dressed\nin lion cloths, high boots, rain\ncoats or bouffant skirts.\n\n\n1t 10 the city Of opera, \"sick\ncomedy. beach houses, sky\nscrapers. townhouses. swank\nmotels, yachts. fishing boats,\nfreeways and highspanned brid-\nges.\n\n\nI like to visit the city on the\nhills and we we're delighted with\nthe chilly weather. However. two\nnights the thermometer dropped\npast fifty and we were really\ncomplaining.\n\n\nCalifornians are like colonists.\nThe San Franciscans feel quite\ndifferently toward the Los Ange-\nles dwellers. They talk about the\ndivision between north and south\nparts Of the state as II civil war\nwe're ready to erupt.\n\n\nThe newspaper publishers as\nISOLATION convention ended on a\ngrand note with the last meeting\nbeing held at the Christian Bro\ntheirs school and winery In Napa\nValley.\n\n\nWe drove on a chartered bus\npast Oakland, Vallejo and several\nsmaller towns before reaching\nthe winding road In the valley.\nRows and rows Of grape plants\nstretched across the rolling land.\n\n\nThe setting was tranquil and\nnear perfect as the Brothers\nGregory and Norman explained\nthe schools purposes and the\nfinancial backing of the wine In\ndustry.\n\n\nWhile In the city we heard that\nsome members of the city coun-\nell we're hoping to pass an ordi-\nnance forbidding walking on the\nbridges because so many persons\nhad committed suicide.\n\n\nThe park in the heart Of town\nis another sight of San Francisco\nyou can never forget. Here were\nall kinds of men and women. Some\nsleeping. some reading, some\nmaking speeches and others\nmerely standing. Union Square\nrivals Central Park as a beautiful\ngreen spot In crowded metropo-\nlis.\n\n\nOur trip back home started\nafter we had been interviewed by\na vivacious teacher from New\nYork. Miss Lou LuTour. She\nhas a radio, series and she is\nspending untold hours preparinga\ndocumentary series on the Negro\nPress. We invited her to stop in\nPhoenix fewdays before return\ning to Gotham.\n\n\nThe drive home was not as hec-\ntic as our drive to San Francisco.\nWe were more relaxed and had\nmore time to enjoy the scenery.\nCalifornia Is beautiful, but Ari-\niona comes first.\n\n\nEdward and spent the night in\nLos Angeles at the home Of MIR.\nand Mrs. Edwin Dec onge. twas\ngood to see them and we talked\nuntil nearly midnight Sunday.\n\n\nEarly Monday morning we hit\nthe road for Phoenix and made\nthe wrong turn on the freeway.\nWe ended up in Dairy Valley on\nArtesian Drive. We said 1t was\ninteresting although we lost about\na half hour. never knew that\nthere we're SO many cows just a\nstones throw from the City of\nAngels.\n\n\nMy spouse remarked that more\nAmericans should get off of the\nfreeways and see more of the\ncountry.\n\n\nBefore long we connected to the\nmain HIGHWAY and resumed Ollr",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2236,
+                    "y0": 405,
+                    "x1": 3025,
+                    "y1": 696
+                },
+                {
+                    "x0": 2213,
+                    "y0": 846,
+                    "x1": 3049,
+                    "y1": 6388
+                }
+            ],
+            "bbox": [
+                2213,
+                405,
+                3049,
+                6388
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-10_p1_sn84021918_0041421695A_1964071001_0462.json"
+        }
+    ]
+}

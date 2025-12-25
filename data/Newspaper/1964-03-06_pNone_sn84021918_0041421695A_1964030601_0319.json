@@ -1,0 +1,293 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-06",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7433,
+        "width": 4841,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-06",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0319.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3639,
+                "y0": 627,
+                "x1": 4448,
+                "y1": 1789
+            },
+            "class": "article",
+            "raw_text": "JACKSON, MISS.--Six public\ntransportation companies here\nmust cease discrimination \"a\ngainst Negro citizens as result\nof the u. S. Supreme Courts re-\nfusal to hear an appeal from seq\nregationists.\n\n\nAttorneys for the NAACP Legal\nDefense Fund won the favorable\nruling in the US. 5th Circuit\nCourt of Appeals last October.\nThe Mississippians appealed to\nthe u. S. Supreme Court which\nthis week declined to review\ntheir appeal.\n\n\nDefense Fund attorneys had to\nchallenge Mississippi S segrega-\ntion laws in general before spe-\ncific relief could be won from the\ncarriers.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3634,
+                "y0": 406,
+                "x1": 4157,
+                "y1": 587
+            },
+            "class": "headline",
+            "raw_text": "punies\n\n\nMust End Bios",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2739,
+                "y0": 3269,
+                "x1": 3553,
+                "y1": 3868
+            },
+            "class": "article",
+            "raw_text": "Youth Choir of the Church of\nthe Living God PCT, l745 E.\nMaricopa, will participate in\nhootenanny at Carl Hayden High\nSchool, Friday. Mar. 6. 8 pm.\n\n\nThe Youth Unit of the church\nwill direct services Sum-, Mar.\ns at II am.\n\n\nThe Senior Choir will present\na musical Sum-, Mar. IS at 3 pm.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2861,
+                "y0": 3124,
+                "x1": 3402,
+                "y1": 3235
+            },
+            "class": "headline",
+            "raw_text": "CHURCH NEWS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2705,
+                "y0": 2392,
+                "x1": 3548,
+                "y1": 3090
+            },
+            "class": "article",
+            "raw_text": "Instruct children to wash their\nhands in the bathroom = not in\nthe kitchen sink. This health tip\ncomes from William H. Cary, Jr.,\nchief of the Washington, DC.\nBureau of Environmental Health.\n\n\nMr.. Cary comments that chill\ndren, after play, are about the\nmost contaminated creatures that\ncan come into kitchen. Splashing\ndirt, as they wash their hands, can\nlikewise cOntaminate nearby food\nor dishes.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2751,
+                "y0": 2206,
+                "x1": 3507,
+                "y1": 2381
+            },
+            "class": "headline",
+            "raw_text": "Kitchen Sink Is Not\nFor PeOpIe-Washing!",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 68,
+                "y0": 406,
+                "x1": 894,
+                "y1": 1121
+            },
+            "class": "article",
+            "raw_text": "BIRMINGHAM, ALA. Forward\nmovement of school integration\nwas assured here this week when\nthe U. S. Supreme Court declined\nto, consider school board effort\nto block desegregation.\n\n\nNAACP Legal Defense Fund\nattorneys secured some school\nintegration even though the US.\nSth Circuit Court of Appeals is\nstill considering aspects Of the\ncase.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 991,
+                "y0": 2177,
+                "x1": 2624,
+                "y1": 2834
+            },
+            "class": "article",
+            "raw_text": "annual Coronation Ball held the Elks Lodge\nSouth Seventh Mr.. and Mrs. George E. Campbell\nJefferson Mr.. Mrs. Herman Mathews\npictured Mr. and Mrs. Douglas Brown and Mrs. Harr\nSessions\n\n\nAt the 1o6A65 New Worlds Fair, everyone will know the\nexact u S. population Demogoph Of The Equitable Life Assvr\nonce Society births and deohs they the SO\nsotes Overhead will keep running tally OF\npopulation II seconds Iodoy seven\nout Of ten of live in metropolitan",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964030601_0319",
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "punies\n\n\nMust End Bios",
+            "article": "JACKSON, MISS.--Six public\ntransportation companies here\nmust cease discrimination \"a\ngainst Negro citizens as result\nof the u. S. Supreme Courts re-\nfusal to hear an appeal from seq\nregationists.\n\n\nAttorneys for the NAACP Legal\nDefense Fund won the favorable\nruling in the US. 5th Circuit\nCourt of Appeals last October.\nThe Mississippians appealed to\nthe u. S. Supreme Court which\nthis week declined to review\ntheir appeal.\n\n\nDefense Fund attorneys had to\nchallenge Mississippi S segrega-\ntion laws in general before spe-\ncific relief could be won from the\ncarriers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3634,
+                    "y0": 406,
+                    "x1": 4157,
+                    "y1": 587
+                },
+                {
+                    "x0": 3639,
+                    "y0": 627,
+                    "x1": 4448,
+                    "y1": 1789
+                }
+            ],
+            "bbox": [
+                3634,
+                406,
+                4448,
+                1789
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-06_pna_sn84021918_0041421695A_1964030601_0319.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "CHURCH NEWS",
+            "article": "Youth Choir of the Church of\nthe Living God PCT, l745 E.\nMaricopa, will participate in\nhootenanny at Carl Hayden High\nSchool, Friday. Mar. 6. 8 pm.\n\n\nThe Youth Unit of the church\nwill direct services Sum-, Mar.\ns at II am.\n\n\nThe Senior Choir will present\na musical Sum-, Mar. IS at 3 pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2861,
+                    "y0": 3124,
+                    "x1": 3402,
+                    "y1": 3235
+                },
+                {
+                    "x0": 2739,
+                    "y0": 3269,
+                    "x1": 3553,
+                    "y1": 3868
+                }
+            ],
+            "bbox": [
+                2739,
+                3124,
+                3553,
+                3868
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-06_pna_sn84021918_0041421695A_1964030601_0319.json"
+        },
+        {
+            "object_ids": [
+                12,
+                6
+            ],
+            "headline": "Kitchen Sink Is Not\nFor PeOpIe-Washing!",
+            "article": "Instruct children to wash their\nhands in the bathroom = not in\nthe kitchen sink. This health tip\ncomes from William H. Cary, Jr.,\nchief of the Washington, DC.\nBureau of Environmental Health.\n\n\nMr.. Cary comments that chill\ndren, after play, are about the\nmost contaminated creatures that\ncan come into kitchen. Splashing\ndirt, as they wash their hands, can\nlikewise cOntaminate nearby food\nor dishes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2751,
+                    "y0": 2206,
+                    "x1": 3507,
+                    "y1": 2381
+                },
+                {
+                    "x0": 2705,
+                    "y0": 2392,
+                    "x1": 3548,
+                    "y1": 3090
+                }
+            ],
+            "bbox": [
+                2705,
+                2206,
+                3548,
+                3090
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-03-06_pna_sn84021918_0041421695A_1964030601_0319.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "BIRMINGHAM, ALA. Forward\nmovement of school integration\nwas assured here this week when\nthe U. S. Supreme Court declined\nto, consider school board effort\nto block desegregation.\n\n\nNAACP Legal Defense Fund\nattorneys secured some school\nintegration even though the US.\nSth Circuit Court of Appeals is\nstill considering aspects Of the\ncase.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 68,
+                    "y0": 406,
+                    "x1": 894,
+                    "y1": 1121
+                }
+            ],
+            "bbox": [
+                68,
+                406,
+                894,
+                1121
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-03-06_pna_sn84021918_0041421695A_1964030601_0319.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "annual Coronation Ball held the Elks Lodge\nSouth Seventh Mr.. and Mrs. George E. Campbell\nJefferson Mr.. Mrs. Herman Mathews\npictured Mr. and Mrs. Douglas Brown and Mrs. Harr\nSessions\n\n\nAt the 1o6A65 New Worlds Fair, everyone will know the\nexact u S. population Demogoph Of The Equitable Life Assvr\nonce Society births and deohs they the SO\nsotes Overhead will keep running tally OF\npopulation II seconds Iodoy seven\nout Of ten of live in metropolitan",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 991,
+                    "y0": 2177,
+                    "x1": 2624,
+                    "y1": 2834
+                }
+            ],
+            "bbox": [
+                991,
+                2177,
+                2624,
+                2834
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-03-06_pna_sn84021918_0041421695A_1964030601_0319.json"
+        }
+    ]
+}

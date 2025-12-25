@@ -1,0 +1,534 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964080701/0502.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4932
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3034,
+                "y0": 2480,
+                "x1": 4739,
+                "y1": 3791
+            },
+            "class": "article",
+            "raw_text": "Since JAM 1861 KET Channel originating\nthe Arizona State University has provided nnumerabe\nhours Of education and entertainment for the Valley\n\n\nchildren adults Channel especially\nthis of the other channels local\ntelevision.\n\n\nThere programs persons Of all and many\nprograms provide credit for those who wish continue\ntheir education\n\n\ninternational for children adults Is\nthe whats New program which deals with Of the scientific\nworld.\n\n\nThe analysis date national\naffairs different usual quick\nreporting regular newscasts.\n\n\nhave thoroughly enjoyed the full length drama including the\nShakespeare SERIES\n\n\nAnother excellent feature the series jazz Outstanding\nmusicians have been highlighted over the years.\n\n\nInstead of moaning the loss of the regular televson fare\nyour dial Channel g. You will be surprised and doubedless\nimpressed.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3538,
+                "y0": 2312,
+                "x1": 4205,
+                "y1": 2446
+            },
+            "class": "headline",
+            "raw_text": "Try Channel 8",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3039,
+                "y0": 4068,
+                "x1": 4744,
+                "y1": 4684
+            },
+            "class": "article",
+            "raw_text": "Charles Lewis New York City 2l l6l6\nHis parents Haiti and many had fled the island\nbrilliant mathematics student and in 1882 when\nthe Maumsson Society appointed all Negro teachers Charles\nthe age of IA became instructor :,\nIn 1897 secretary the Coored Political\nformed New York Negroes repeal provision of\nwhich deprived them the equal right\nhighly respected and loved He advocated\nthe dual training of the mind and body.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3039,
+                "y0": 3848,
+                "x1": 3945,
+                "y1": 4064
+            },
+            "class": "headline",
+            "raw_text": "Negro History Notes\nCharles Reason",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3039,
+                "y0": 1078,
+                "x1": 4727,
+                "y1": 2220
+            },
+            "class": "article",
+            "raw_text": "The sounds the other seeking\ngovernment recently municipal\nbuilding Charges and counerchages have been ending\nthe dismissal Of the city manager\n\n\nPetitions for the recall Mayor Milton Graham being\nulated The stated the against City Manager ckers\nin clear terms.\n\n\nThe city council accord with the dismissal proceedings\nand this action In itself vindicates Mayor Graham.\n\n\nThe and the city council elected by the people, the\ncitizens harmony with the interested citizens\nshould open council meetings\nminstraion Of our fair city.\n\n\ncity manager appointed help administer the complexities\nmunicipal government manager usurp mayora\ncouncil authority.\n\n\nmayor council and manager working together will provide\nadequate and progressive city growth There many problems\nwaiting to be settled.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3578,
+                "y0": 434,
+                "x1": 4559,
+                "y1": 858
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevIews\nMD REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -3
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3787,
+                "y0": 788,
+                "x1": 4315,
+                "y1": 876
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3393,
+                "y0": 933,
+                "x1": 4281,
+                "y1": 1044
+            },
+            "class": "author",
+            "raw_text": "Manager VS.. Mayor",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2129,
+                "y0": 840,
+                "x1": 2977,
+                "y1": 6394
+            },
+            "class": "article",
+            "raw_text": "III dHC1SIll ClNl11Zdl1Oil WIN WCilC\nnear and far carrying the latest\nmessage to the trans-space re-\nlays via Telstar, man has always\nhad a nose for the news.\n\n\nWe wait for the latest release.\nWe watch for the most recent\ntelecast. We dial for telephone\nitem. We check with the daily\npapers city desk when in doubt.\nWe read and re-read old maya\nzines hoping to find some over\n\n\nOver the radio we perhaps get\nmore news than ever. Every\nhalf hour, every fifteen minutes\nsome newscaster or would be\nnewscaster Is relating the events\nOf the time.\n\n\nIn the past three four or five\nyears news reporting has under\ngone some radical changes. Once\nupon a time the news reports\nwe're soberly disseminated by\nmen speaking in rapidly clipped\nstyles. The news was given with\nout too much flair except for the\npersonal touches of announcers\nlike Gabriel Heater, Walter Win\nchell, Lowell Thomas or H. V.\nKaltenborn.\n\n\nThese men kept listeners glued\nto the radio while they read all\nkinds of news items. Even Jim\nME Fidler, who dealt mainly in\nHollywood chatter was in\nteresting. One woman was heard\nnow and then, she was Hedda\nHopper.\n\n\nToday the newscasters are\nvying for acting awards or for\nthe best all around comic Of the\nyear. dislike hearing so much\ninane chatter when want to hear\nnews.\n\n\ncan sympathize with Walter\nCronkite, who does an excellent\nand near Unconditional pre-\nsentation of national and inter-\nnational events. He will be\nreplaced by a team in the coming\nDemocratic national party con-\nvention at Atlantic City. ltseems\nas though his ratings we're ruined\nby the Bobbsey Twins Of Tele-\nvision-Huntley and Brinkley.\n\n\n| am one Of those ear weary\nnews hounds, who Is very tired\nOf the toothy mumblings Of the\nnews analysts and commentators.\nChef and David, that award win\nming team of television fame\nwould do better in a weekly\nprivate eye series. Both are so\nSNUG and charming that they\ncould solve mystery in the half\nhour time which they now devote\nto presenting news.\n\n\nOn the other hand Huntley and\nBrinkley could even fill in a\nfew engagements for Red Shelton\nor Bob Hope. Some of their\nJokes are funnier than George\nBurns or Jack Bennys.\n\n\nThis trend toward a duet Of\nnewscasters has run the gamut\nat the local Phoenix level. On\nsome city television stations not\nonly two persons are on call\nfor the daily news. but three and\nsometimes four. There is really\nonly enough material for one an\nnouncer, however, the releases\nare cut and patched and stretched\nfor three smiling males to read\n(often misread).\n\n\nA woman read few lines this\nweek she is our city's answer\nto the Today shows Maureen\nOSullivan (who was certainly\nmore appealing as Tarzan's\nJane).\n\n\nHave you grown tired of waking\nup to the dentine grins of Hugh\nDowns, Jack Lescoulie and Frank",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2147,
+                "y0": 365,
+                "x1": 2930,
+                "y1": 586
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds\nELOlsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2147,
+                "y0": 625,
+                "x1": 2791,
+                "y1": 731
+            },
+            "class": "headline",
+            "raw_text": "What's New Z?",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 356,
+                "y0": 5228,
+                "x1": 2049,
+                "y1": 7130
+            },
+            "class": "article",
+            "raw_text": "Our system, worked the takes\ncaution maintain the strict neutrality between iugants\nConsider deposition legal term directing the testimony OF\ntaken writing under oath affirmation. before\nofficer of the\n\n\nThe question naturally arises whomis recognized proper\nofficer. Generally officer of the law who is authorized ad\nby laws the United States the place where the\nexamination is heard may take dispositions.\n\n\nThe officer taking the dispositions be interested\nlitigation He be the counsel for either\nOf the parties in the be directly employed by counsel for\nparty financially interested in the action.\n\n\npointed that while in\nthe strict the notary taking deposition not acting\njudicial officer he acting substitute of the\nThe testimony taken by admissible evidence\nthat he should be interested\nthe result of the litigation\n\n\nduty employee his employer faithfully,\nfor parties litigation\nbe called notarie in taking testimony\nwhich their employers directly Interested\n\n\nThis legal column issued public service under\nArizona and is inform,\nadvise.\n\n\nFor Photos Call\n\n\n254-2o21 276-230l",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 356,
+                "y0": 4920,
+                "x1": 1649,
+                "y1": 5205
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law\nNeutrality between Litigunts",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 356,
+                "y0": 2109,
+                "x1": 2072,
+                "y1": 4823
+            },
+            "class": "article",
+            "raw_text": "Every Monday night profess iOnal WyeSt-\nling is a major sports event at the local\nsports arena. Portions of the bouts are\nteleUised for the home audiences which in\nchtde many WOnaen and children.\n\n\nWeekly interviews with leading contendevs\nand their opponents bYoUide breaks in the\nsometimes vevy duh affairs. In several\ninstances, the WYestleYS haze engaged in\nimbYowbtu ski1miShes causing the an\nnounceY to move aside.\n\n\nON Monday night one Of the most desbic-\nable scenes Of inlaunaan behavior 1Uas nit\nmessed Uaen tho men beat, Dashed, stamped\nmd b4n1naelled a popular WYeStleT He\nWaS stunned and bloody When his partner as\nsisted him to the dressing room. Several\nstitches WeYe required to close his head\nWOal,1dS.\n\n\nAre ne to share the responsibility for such\nscenes Of violence under the g7tiSe Of a sport?\nWhat type of fair play and love ola sport\ncan be taught to our youth Wh0 watch such\nshows? What does our state athletic COM\nmission do during these acts Of brutal beat\ningS Haze ne forgotten that the German\nsociety under Hitler turned deaf ear wlaen\nthe Jews we're being extey7ninated?\n\n\nThese UYesthqg bouts in the Valley bYoUide\nlittle for vieoOeYs except the type of street\nFIGHTING that does not need any referee or\nteleviSiOn cameras.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 506,
+                "y0": 1889,
+                "x1": 1806,
+                "y1": 2052
+            },
+            "class": "headline",
+            "raw_text": "WHERE'S THE SPORT :?",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 385,
+                "y0": 869,
+                "x1": 2003,
+                "y1": 1826
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, eusL'snER-Eo'Toe\nELOlSE BANKS, EDITOR\nEsTAeL SHED JULY 10, 1888\n\n\n\n\n\n\n\n\n\nMAIL ADDRESS o. BOX szAs, PHOENIX, ARIz. ssoAo\nPOSTAGE PAID PHOENIX, ARIZONA\nALL EVILS OUR\nTIMES TO FREEDOM\nz>nh . REPRESENTATIVE\nAaz661 NevseApn ASSOCIATION AMALGAMATEo sHERs\nIl Fa $40 MADISON AVE\n% NEW YORK ~.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 367,
+                "y0": 353,
+                "x1": 1974,
+                "y1": 789
+            },
+            "class": "headline",
+            "raw_text": "ArtzutHtaAH'A@rthu&te",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 999,
+                "y0": 805,
+                "x1": 1499,
+                "y1": 882
+            },
+            "class": "author",
+            "raw_text": "7, NO. a",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-08-07"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "Try Channel 8",
+            "article": "Since JAM 1861 KET Channel originating\nthe Arizona State University has provided nnumerabe\nhours Of education and entertainment for the Valley\n\n\nchildren adults Channel especially\nthis of the other channels local\ntelevision.\n\n\nThere programs persons Of all and many\nprograms provide credit for those who wish continue\ntheir education\n\n\ninternational for children adults Is\nthe whats New program which deals with Of the scientific\nworld.\n\n\nThe analysis date national\naffairs different usual quick\nreporting regular newscasts.\n\n\nhave thoroughly enjoyed the full length drama including the\nShakespeare SERIES\n\n\nAnother excellent feature the series jazz Outstanding\nmusicians have been highlighted over the years.\n\n\nInstead of moaning the loss of the regular televson fare\nyour dial Channel g. You will be surprised and doubedless\nimpressed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3538,
+                    "y0": 2312,
+                    "x1": 4205,
+                    "y1": 2446
+                },
+                {
+                    "x0": 3034,
+                    "y0": 2480,
+                    "x1": 4739,
+                    "y1": 3791
+                }
+            ],
+            "bbox": [
+                3034,
+                2312,
+                4739,
+                3791
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-07_p1_sn84021918_0041421695A_1964080701_0502.json"
+        },
+        {
+            "object_ids": [
+                11,
+                2
+            ],
+            "headline": "Negro History Notes\nCharles Reason",
+            "article": "Charles Lewis New York City 2l l6l6\nHis parents Haiti and many had fled the island\nbrilliant mathematics student and in 1882 when\nthe Maumsson Society appointed all Negro teachers Charles\nthe age of IA became instructor :,\nIn 1897 secretary the Coored Political\nformed New York Negroes repeal provision of\nwhich deprived them the equal right\nhighly respected and loved He advocated\nthe dual training of the mind and body.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3039,
+                    "y0": 3848,
+                    "x1": 3945,
+                    "y1": 4064
+                },
+                {
+                    "x0": 3039,
+                    "y0": 4068,
+                    "x1": 4744,
+                    "y1": 4684
+                }
+            ],
+            "bbox": [
+                3039,
+                3848,
+                4744,
+                4684
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-07_p1_sn84021918_0041421695A_1964080701_0502.json"
+        },
+        {
+            "object_ids": [
+                15,
+                13,
+                14,
+                3
+            ],
+            "headline": "Views, pRevIews\nMD REVIEWS\n\n\nEdward Banks",
+            "article": "The sounds the other seeking\ngovernment recently municipal\nbuilding Charges and counerchages have been ending\nthe dismissal Of the city manager\n\n\nPetitions for the recall Mayor Milton Graham being\nulated The stated the against City Manager ckers\nin clear terms.\n\n\nThe city council accord with the dismissal proceedings\nand this action In itself vindicates Mayor Graham.\n\n\nThe and the city council elected by the people, the\ncitizens harmony with the interested citizens\nshould open council meetings\nminstraion Of our fair city.\n\n\ncity manager appointed help administer the complexities\nmunicipal government manager usurp mayora\ncouncil authority.\n\n\nmayor council and manager working together will provide\nadequate and progressive city growth There many problems\nwaiting to be settled.",
+            "byline": "Edward Banks\n\nManager VS.. Mayor",
+            "bbox_list": [
+                {
+                    "x0": 3578,
+                    "y0": 434,
+                    "x1": 4559,
+                    "y1": 858
+                },
+                {
+                    "x0": 3787,
+                    "y0": 788,
+                    "x1": 4315,
+                    "y1": 876
+                },
+                {
+                    "x0": 3393,
+                    "y0": 933,
+                    "x1": 4281,
+                    "y1": 1044
+                },
+                {
+                    "x0": 3039,
+                    "y0": 1078,
+                    "x1": 4727,
+                    "y1": 2220
+                }
+            ],
+            "bbox": [
+                3039,
+                434,
+                4727,
+                2220
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-07_p1_sn84021918_0041421695A_1964080701_0502.json"
+        },
+        {
+            "object_ids": [
+                5,
+                9,
+                7
+            ],
+            "headline": "Sights and Sounds\nELOlsE BANKS\n\nWhat's New Z?",
+            "article": "III dHC1SIll ClNl11Zdl1Oil WIN WCilC\nnear and far carrying the latest\nmessage to the trans-space re-\nlays via Telstar, man has always\nhad a nose for the news.\n\n\nWe wait for the latest release.\nWe watch for the most recent\ntelecast. We dial for telephone\nitem. We check with the daily\npapers city desk when in doubt.\nWe read and re-read old maya\nzines hoping to find some over\n\n\nOver the radio we perhaps get\nmore news than ever. Every\nhalf hour, every fifteen minutes\nsome newscaster or would be\nnewscaster Is relating the events\nOf the time.\n\n\nIn the past three four or five\nyears news reporting has under\ngone some radical changes. Once\nupon a time the news reports\nwe're soberly disseminated by\nmen speaking in rapidly clipped\nstyles. The news was given with\nout too much flair except for the\npersonal touches of announcers\nlike Gabriel Heater, Walter Win\nchell, Lowell Thomas or H. V.\nKaltenborn.\n\n\nThese men kept listeners glued\nto the radio while they read all\nkinds of news items. Even Jim\nME Fidler, who dealt mainly in\nHollywood chatter was in\nteresting. One woman was heard\nnow and then, she was Hedda\nHopper.\n\n\nToday the newscasters are\nvying for acting awards or for\nthe best all around comic Of the\nyear. dislike hearing so much\ninane chatter when want to hear\nnews.\n\n\ncan sympathize with Walter\nCronkite, who does an excellent\nand near Unconditional pre-\nsentation of national and inter-\nnational events. He will be\nreplaced by a team in the coming\nDemocratic national party con-\nvention at Atlantic City. ltseems\nas though his ratings we're ruined\nby the Bobbsey Twins Of Tele-\nvision-Huntley and Brinkley.\n\n\n| am one Of those ear weary\nnews hounds, who Is very tired\nOf the toothy mumblings Of the\nnews analysts and commentators.\nChef and David, that award win\nming team of television fame\nwould do better in a weekly\nprivate eye series. Both are so\nSNUG and charming that they\ncould solve mystery in the half\nhour time which they now devote\nto presenting news.\n\n\nOn the other hand Huntley and\nBrinkley could even fill in a\nfew engagements for Red Shelton\nor Bob Hope. Some of their\nJokes are funnier than George\nBurns or Jack Bennys.\n\n\nThis trend toward a duet Of\nnewscasters has run the gamut\nat the local Phoenix level. On\nsome city television stations not\nonly two persons are on call\nfor the daily news. but three and\nsometimes four. There is really\nonly enough material for one an\nnouncer, however, the releases\nare cut and patched and stretched\nfor three smiling males to read\n(often misread).\n\n\nA woman read few lines this\nweek she is our city's answer\nto the Today shows Maureen\nOSullivan (who was certainly\nmore appealing as Tarzan's\nJane).\n\n\nHave you grown tired of waking\nup to the dentine grins of Hugh\nDowns, Jack Lescoulie and Frank",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2147,
+                    "y0": 365,
+                    "x1": 2930,
+                    "y1": 586
+                },
+                {
+                    "x0": 2147,
+                    "y0": 625,
+                    "x1": 2791,
+                    "y1": 731
+                },
+                {
+                    "x0": 2129,
+                    "y0": 840,
+                    "x1": 2977,
+                    "y1": 6394
+                }
+            ],
+            "bbox": [
+                2129,
+                365,
+                2977,
+                6394
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-07_p1_sn84021918_0041421695A_1964080701_0502.json"
+        },
+        {
+            "object_ids": [
+                6,
+                10
+            ],
+            "headline": "Discussing Arizona Law\nNeutrality between Litigunts",
+            "article": "Our system, worked the takes\ncaution maintain the strict neutrality between iugants\nConsider deposition legal term directing the testimony OF\ntaken writing under oath affirmation. before\nofficer of the\n\n\nThe question naturally arises whomis recognized proper\nofficer. Generally officer of the law who is authorized ad\nby laws the United States the place where the\nexamination is heard may take dispositions.\n\n\nThe officer taking the dispositions be interested\nlitigation He be the counsel for either\nOf the parties in the be directly employed by counsel for\nparty financially interested in the action.\n\n\npointed that while in\nthe strict the notary taking deposition not acting\njudicial officer he acting substitute of the\nThe testimony taken by admissible evidence\nthat he should be interested\nthe result of the litigation\n\n\nduty employee his employer faithfully,\nfor parties litigation\nbe called notarie in taking testimony\nwhich their employers directly Interested\n\n\nThis legal column issued public service under\nArizona and is inform,\nadvise.\n\n\nFor Photos Call\n\n\n254-2o21 276-230l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 356,
+                    "y0": 4920,
+                    "x1": 1649,
+                    "y1": 5205
+                },
+                {
+                    "x0": 356,
+                    "y0": 5228,
+                    "x1": 2049,
+                    "y1": 7130
+                }
+            ],
+            "bbox": [
+                356,
+                4920,
+                2049,
+                7130
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-08-07_p1_sn84021918_0041421695A_1964080701_0502.json"
+        },
+        {
+            "object_ids": [
+                19,
+                12
+            ],
+            "headline": "WHERE'S THE SPORT :?",
+            "article": "Every Monday night profess iOnal WyeSt-\nling is a major sports event at the local\nsports arena. Portions of the bouts are\nteleUised for the home audiences which in\nchtde many WOnaen and children.\n\n\nWeekly interviews with leading contendevs\nand their opponents bYoUide breaks in the\nsometimes vevy duh affairs. In several\ninstances, the WYestleYS haze engaged in\nimbYowbtu ski1miShes causing the an\nnounceY to move aside.\n\n\nON Monday night one Of the most desbic-\nable scenes Of inlaunaan behavior 1Uas nit\nmessed Uaen tho men beat, Dashed, stamped\nmd b4n1naelled a popular WYeStleT He\nWaS stunned and bloody When his partner as\nsisted him to the dressing room. Several\nstitches WeYe required to close his head\nWOal,1dS.\n\n\nAre ne to share the responsibility for such\nscenes Of violence under the g7tiSe Of a sport?\nWhat type of fair play and love ola sport\ncan be taught to our youth Wh0 watch such\nshows? What does our state athletic COM\nmission do during these acts Of brutal beat\ningS Haze ne forgotten that the German\nsociety under Hitler turned deaf ear wlaen\nthe Jews we're being extey7ninated?\n\n\nThese UYesthqg bouts in the Valley bYoUide\nlittle for vieoOeYs except the type of street\nFIGHTING that does not need any referee or\nteleviSiOn cameras.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 506,
+                    "y0": 1889,
+                    "x1": 1806,
+                    "y1": 2052
+                },
+                {
+                    "x0": 356,
+                    "y0": 2109,
+                    "x1": 2072,
+                    "y1": 4823
+                }
+            ],
+            "bbox": [
+                356,
+                1889,
+                2072,
+                4823
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-08-07_p1_sn84021918_0041421695A_1964080701_0502.json"
+        },
+        {
+            "object_ids": [
+                16,
+                17,
+                20
+            ],
+            "headline": "ArtzutHtaAH'A@rthu&te",
+            "article": "EDWARD BANKS, eusL'snER-Eo'Toe\nELOlSE BANKS, EDITOR\nEsTAeL SHED JULY 10, 1888\n\n\n\n\n\n\n\n\n\nMAIL ADDRESS o. BOX szAs, PHOENIX, ARIz. ssoAo\nPOSTAGE PAID PHOENIX, ARIZONA\nALL EVILS OUR\nTIMES TO FREEDOM\nz>nh . REPRESENTATIVE\nAaz661 NevseApn ASSOCIATION AMALGAMATEo sHERs\nIl Fa $40 MADISON AVE\n% NEW YORK ~.",
+            "byline": "7, NO. a",
+            "bbox_list": [
+                {
+                    "x0": 367,
+                    "y0": 353,
+                    "x1": 1974,
+                    "y1": 789
+                },
+                {
+                    "x0": 999,
+                    "y0": 805,
+                    "x1": 1499,
+                    "y1": 882
+                },
+                {
+                    "x0": 385,
+                    "y0": 869,
+                    "x1": 2003,
+                    "y1": 1826
+                }
+            ],
+            "bbox": [
+                367,
+                353,
+                2003,
+                1826
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-08-07_p1_sn84021918_0041421695A_1964080701_0502.json"
+        }
+    ]
+}

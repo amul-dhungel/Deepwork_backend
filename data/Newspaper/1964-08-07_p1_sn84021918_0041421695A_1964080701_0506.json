@@ -1,0 +1,498 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964080701/0506.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7408,
+        "width": 4882
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2932,
+                "y0": 4317,
+                "x1": 3732,
+                "y1": 5499
+            },
+            "class": "article",
+            "raw_text": "of exhaustion. Have an extra\nperson in the boat to watch the\nskier. Run parallel to shore and\ncome in slowly when landing. Sit\ndown if coming to shore too fast.\n\n\nSkin diving and SCUBA div\ning are probably the most excit-\ning and most dangerous water\nsports. Before attempting either,\none should be better than aver\nage swimmer, skilled in surface\ndiving, ocean and distance SWIM\nming, life-saving techniques and\nunderwater swimming. Authori-\nties also advise: Have a medical\ncheckup. Master skin diving be-\nfore you take up SCUBA diving.\nGet instructions from qualified\ndiver. Never dive by yourself.\n\n\nThe precautions here are few\nand simple, but they rule out a\nbevy of water sport hazards.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2938,
+                "y0": 2864,
+                "x1": 3738,
+                "y1": 3786
+            },
+            "class": "article",
+            "raw_text": "be used for preventive purposes.\nDrops are applied to each ear\neven if only one seems to be in\nfected. There is no singing SEN\nsation, and virtually all infec.\ntions are permanently controlled\nwithin a week-the majority\nwithin four days.\n\n\nA sport that gains in popular\nity every year is water skiing.\nAlthough not one of the major\ncauses of drowning, it is respon-\nsible for many accidents. Enthu-\nsiasts are advised to minimize\nthe danger by observing the fol-\nlowing rules: Wear a life jacket\nregardless of how we'll you can",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2105,
+                "y0": 2830,
+                "x1": 2910,
+                "y1": 5510
+            },
+            "class": "article",
+            "raw_text": "important to know the hazards\ninvolved and the precautions nee\nessary to avoid them.\n\n\nSwimming, the most popular\nwater sport, is also the one in\nwhich the least amount of eau\ntion is exercised. The expert\nswimmer knows enough to re-\nspect the basic dangers of this\nsport; the inexpert swimmer\nshould have enough sense to OBJ\nserve the experts precautions.\nProbably the most important\nrule about swimming is to never\nswim alone. Also, never swim at\nnight, just after eating, or when\ntired. If just these four rules\nwould be remembered by all\nswimmers, deaths by drowning\nwould be reduced considerably.\n\n\nSome of the hazards associated\nwith water sports are not dam\ngerous but merely annoying.\nEar infections are a minor, but\npersistent, problem among swim\nmers, water skiers and skin div\ners. Called Swimmers ear\" this\nailment until recently kept thou\nsands of people out of the water\nfor several weeks each year.\n\n\nThe reason ear infections are\nso common among water sports\nenthusiasts is because the mois-\nture left from swimming pro-\nvides an ideal environment for\nthe rapid growth of bacteria and\nfungi.\n\n\nAntibiotics and sulfa drugs\nare of little help in preventing\nor treating ear infections be-\ncause the organisms usually be-\ncome resistant to these drugs\nvery quickly.\n\n\nBut a prescription medication\ncalled VoSol, made by Wampole\nLaboratories of Stamford, Conn,\nhas proved an effective germ\nkiller while avoiding the draw\nbacks of antibiotics. 1t can also",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2950,
+                "y0": 613,
+                "x1": 3778,
+                "y1": 2165
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Mckinley Ar\nrington of Detroit are visiting\nMiss Jimmy L. Arlington. They\nwill continue their vacation in\nCalifornia.\n\n\nMiss Arlington will go to Okla\nhoma and Texas before resuming\nher teaching duties.\n\n\nLeonard Caldwell, Jr.. son of\nMr.. and Mrs. Leonard Caldwell,\nSr., is on duty with the u. S. Army\nat Fort Ord, Calf.\n\n\nMr.. and Mrs. ]. P. Middleton,\nYvonne, Elizabeth, James Ill and\nEric spent a wonderful time in\nthe East. They visited Niagra\nFalls.\n\n\nMr.. and Mrs. S. T. Burton of\nHouston are visiting Miss Shirley\nJohnson. They will visit the\ncoast.\n\n\nThe Debonairs resumed meet\nings Saturday night with Mrs.\nDemetra Vann presiding.\n\n\nYour reporter is enjoying the\nweekend in San Diego, Calf.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2973,
+                "y0": 410,
+                "x1": 3356,
+                "y1": 516
+            },
+            "class": "headline",
+            "raw_text": "All Around",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2990,
+                "y0": 538,
+                "x1": 3530,
+                "y1": 597
+            },
+            "class": "author",
+            "raw_text": "BY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3841,
+                "y0": 3032,
+                "x1": 4658,
+                "y1": 5499
+            },
+            "class": "article",
+            "raw_text": "Kay Summey, II, was to be\ncaught in the act of placing a\npolitical poster on one of Arizona\nPublic Service Company's power\npoles.\n\n\nJim Ripley, utility lineman,\njoins with his fellow workers\nurging candidates and their\nhelpers to refrain from attaching\nposters to power poles as they\ncan cause linemen to fall and\nsuffer serious injuries.\n\n\nIn a special appeal to all can\ndidates of both political parties,\nw. S. Mcfarland, Arizona Public\nService Company's safety super\nvisor, asked them and their\nhelpers not to tack or nail posters\non utility poles.\n\n\nmails and tackS used to fasten\nthe signs create a safety hazard\nfor our linemen,'' Mcfarland\nexplained. He estimated that\nabout six company linemen are\ninjured each year from falls\nwhich are usually caused by\nforeign metal objects either\nembedded in or attached to power\npoles.\n\n\n\"For the safety of our linemen\nwe have given our people in\nstructions to remove all posters\nfrom poles as soon as they are\nspotted\" the utility safety\nspokesman said.\n\n\nIL know these posters cost\nmoney and the candidates\nnaturally want to gain as much\nbenefit from them as possible.\nBut, posters removed from power\npoles won't win votes\" Nc\nFarland said.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2059,
+                "y0": 630,
+                "x1": 2887,
+                "y1": 2530
+            },
+            "class": "article",
+            "raw_text": "Patrick w. (PaD O'Reilly,\nPhoenix attorney and former\nmember of the State Legislature,\nhas announced his candidacy for\nthe Democratic nomination for\nAttorney General.\n\n\nO'Reilly, who served on the\nJudiciary Committee of the House\nof Representatives during the\n22nd Legislature, has practiced\nlaw in the Arizona courts for\nIs years. He is the senior\npartner of the law firm O'Reilly,\nPollock. Murphy & Pizzo.\n\n\nA member of the House\nJudiciary Committee. he played\nmajor role in the revision and\ncodification of the laws of Ari-\niona during the third special\nsession of that legislature.\n\n\nA native of Choctaw County,\nOklahoma, OReilly has lived in\nArizona for 33 of the 80 years\nof his life. He graduated from\nWickenburg High School, attended\nthe University of New Mexico\nand received his law degree from\nthe University of Arizona.\n\n\nOReilly served three years in\nthe U. S. Navy during World War\nII, and he is a member of the\nGlendale American Legion Post",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2064,
+                "y0": 457,
+                "x1": 2852,
+                "y1": 573
+            },
+            "class": "headline",
+            "raw_text": "0'ReiIIy Is A Candidate",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3355,
+                "y0": 3790,
+                "x1": 3732,
+                "y1": 4312
+            },
+            "class": "article",
+            "raw_text": "swim; even if\nthe skier is an\nexpert SWIM\nmer, there is a\nchance that he\nmay hit some\nthing and be\nknocked uncon-\nscious. Do not\nski to the point",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2122,
+                "y0": 2639,
+                "x1": 3738,
+                "y1": 2831
+            },
+            "class": "article",
+            "raw_text": "Summertime water time Beaches pools and lakes\neverywhere crowded with those seeking fun and comfort And\norer to insure healthy well happy time in the water",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2985,
+                "y0": 2199,
+                "x1": 3674,
+                "y1": 2553
+            },
+            "class": "headline",
+            "raw_text": "New Subscription\nRate $3.50\n\n\nper year",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2145,
+                "y0": 2558,
+                "x1": 3726,
+                "y1": 2651
+            },
+            "class": "headline",
+            "raw_text": "WATER SPORTS: An Ounce of Prevention",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 270,
+                "y0": 3113,
+                "x1": 1950,
+                "y1": 4931
+            },
+            "class": "article",
+            "raw_text": "Everyone eye birdie instead of the ball Berney\nLincoln when the Tribune photographer visited\nthe diamond\n\n\nincludes John Rhymes, Ncy Noyes Dwight\nLopez Mariana Abano and Danny Tucker back\nRichard mnez Anthony Fuice Kenneth Supter Danny Mcdowell\nTony Neal and Joe Nfunoz.\n\n\nSecond Richard Aguilar Steve Morales,\nLopez George Ronqo and Johnny Brewster; back\nBarnes director Charles Johnson volunteer COACH\nMartinez Joe Duarte Ruben Ferros Emilio Fgueroa Ken\nSilas and Dario Maritime, coach\n\n\nWAFFLE HAMWICIIES\n\n\nMakes Servings\nWdHes tablespoon instant mihceu\ncup milk onion\negg taDiespoon noIseiauien\ntablespoons melted or tablespoon prepared\n\n\nliquid shortening mustard\n\n\nGun pancake mix Ia teaspoon pepper\nTopping: foindto snccS\n\n\nl lb. ground cooked ham dW pchtc ShctS\n1/2 mayonnaise process AMfF,cdht cnGfse\nia cup sweet pickle relish ShccS en- oW9oho\"0\nwas milk and shortening in shaker or bowl\nused add after pancake Mix Add pancake\nwith beater until\nbatter is fairly hot waffle baker until seamng\nstops. - ooL\nwaffle section about inches from source OF neat\nTOP each section SLICE dill pickle slice and cheese\nslices until cheese mes Serve Immediately.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 4929,
+                "y0": 434,
+                "x1": 6151,
+                "y1": 5794
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-08-07"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "of exhaustion. Have an extra\nperson in the boat to watch the\nskier. Run parallel to shore and\ncome in slowly when landing. Sit\ndown if coming to shore too fast.\n\n\nSkin diving and SCUBA div\ning are probably the most excit-\ning and most dangerous water\nsports. Before attempting either,\none should be better than aver\nage swimmer, skilled in surface\ndiving, ocean and distance SWIM\nming, life-saving techniques and\nunderwater swimming. Authori-\nties also advise: Have a medical\ncheckup. Master skin diving be-\nfore you take up SCUBA diving.\nGet instructions from qualified\ndiver. Never dive by yourself.\n\n\nThe precautions here are few\nand simple, but they rule out a\nbevy of water sport hazards.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2932,
+                    "y0": 4317,
+                    "x1": 3732,
+                    "y1": 5499
+                }
+            ],
+            "bbox": [
+                2932,
+                4317,
+                3732,
+                5499
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "be used for preventive purposes.\nDrops are applied to each ear\neven if only one seems to be in\nfected. There is no singing SEN\nsation, and virtually all infec.\ntions are permanently controlled\nwithin a week-the majority\nwithin four days.\n\n\nA sport that gains in popular\nity every year is water skiing.\nAlthough not one of the major\ncauses of drowning, it is respon-\nsible for many accidents. Enthu-\nsiasts are advised to minimize\nthe danger by observing the fol-\nlowing rules: Wear a life jacket\nregardless of how we'll you can",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2938,
+                    "y0": 2864,
+                    "x1": 3738,
+                    "y1": 3786
+                }
+            ],
+            "bbox": [
+                2938,
+                2864,
+                3738,
+                3786
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "important to know the hazards\ninvolved and the precautions nee\nessary to avoid them.\n\n\nSwimming, the most popular\nwater sport, is also the one in\nwhich the least amount of eau\ntion is exercised. The expert\nswimmer knows enough to re-\nspect the basic dangers of this\nsport; the inexpert swimmer\nshould have enough sense to OBJ\nserve the experts precautions.\nProbably the most important\nrule about swimming is to never\nswim alone. Also, never swim at\nnight, just after eating, or when\ntired. If just these four rules\nwould be remembered by all\nswimmers, deaths by drowning\nwould be reduced considerably.\n\n\nSome of the hazards associated\nwith water sports are not dam\ngerous but merely annoying.\nEar infections are a minor, but\npersistent, problem among swim\nmers, water skiers and skin div\ners. Called Swimmers ear\" this\nailment until recently kept thou\nsands of people out of the water\nfor several weeks each year.\n\n\nThe reason ear infections are\nso common among water sports\nenthusiasts is because the mois-\nture left from swimming pro-\nvides an ideal environment for\nthe rapid growth of bacteria and\nfungi.\n\n\nAntibiotics and sulfa drugs\nare of little help in preventing\nor treating ear infections be-\ncause the organisms usually be-\ncome resistant to these drugs\nvery quickly.\n\n\nBut a prescription medication\ncalled VoSol, made by Wampole\nLaboratories of Stamford, Conn,\nhas proved an effective germ\nkiller while avoiding the draw\nbacks of antibiotics. 1t can also",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2105,
+                    "y0": 2830,
+                    "x1": 2910,
+                    "y1": 5510
+                }
+            ],
+            "bbox": [
+                2105,
+                2830,
+                2910,
+                5510
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                14,
+                18,
+                4
+            ],
+            "headline": "All Around",
+            "article": "Mr.. and Mrs. Mckinley Ar\nrington of Detroit are visiting\nMiss Jimmy L. Arlington. They\nwill continue their vacation in\nCalifornia.\n\n\nMiss Arlington will go to Okla\nhoma and Texas before resuming\nher teaching duties.\n\n\nLeonard Caldwell, Jr.. son of\nMr.. and Mrs. Leonard Caldwell,\nSr., is on duty with the u. S. Army\nat Fort Ord, Calf.\n\n\nMr.. and Mrs. ]. P. Middleton,\nYvonne, Elizabeth, James Ill and\nEric spent a wonderful time in\nthe East. They visited Niagra\nFalls.\n\n\nMr.. and Mrs. S. T. Burton of\nHouston are visiting Miss Shirley\nJohnson. They will visit the\ncoast.\n\n\nThe Debonairs resumed meet\nings Saturday night with Mrs.\nDemetra Vann presiding.\n\n\nYour reporter is enjoying the\nweekend in San Diego, Calf.",
+            "byline": "BY FLORA RUFFIN",
+            "bbox_list": [
+                {
+                    "x0": 2973,
+                    "y0": 410,
+                    "x1": 3356,
+                    "y1": 516
+                },
+                {
+                    "x0": 2990,
+                    "y0": 538,
+                    "x1": 3530,
+                    "y1": 597
+                },
+                {
+                    "x0": 2950,
+                    "y0": 613,
+                    "x1": 3778,
+                    "y1": 2165
+                }
+            ],
+            "bbox": [
+                2950,
+                410,
+                3778,
+                2165
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "Kay Summey, II, was to be\ncaught in the act of placing a\npolitical poster on one of Arizona\nPublic Service Company's power\npoles.\n\n\nJim Ripley, utility lineman,\njoins with his fellow workers\nurging candidates and their\nhelpers to refrain from attaching\nposters to power poles as they\ncan cause linemen to fall and\nsuffer serious injuries.\n\n\nIn a special appeal to all can\ndidates of both political parties,\nw. S. Mcfarland, Arizona Public\nService Company's safety super\nvisor, asked them and their\nhelpers not to tack or nail posters\non utility poles.\n\n\nmails and tackS used to fasten\nthe signs create a safety hazard\nfor our linemen,'' Mcfarland\nexplained. He estimated that\nabout six company linemen are\ninjured each year from falls\nwhich are usually caused by\nforeign metal objects either\nembedded in or attached to power\npoles.\n\n\n\"For the safety of our linemen\nwe have given our people in\nstructions to remove all posters\nfrom poles as soon as they are\nspotted\" the utility safety\nspokesman said.\n\n\nIL know these posters cost\nmoney and the candidates\nnaturally want to gain as much\nbenefit from them as possible.\nBut, posters removed from power\npoles won't win votes\" Nc\nFarland said.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3841,
+                    "y0": 3032,
+                    "x1": 4658,
+                    "y1": 5499
+                }
+            ],
+            "bbox": [
+                3841,
+                3032,
+                4658,
+                5499
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                16,
+                7
+            ],
+            "headline": "0'ReiIIy Is A Candidate",
+            "article": "Patrick w. (PaD O'Reilly,\nPhoenix attorney and former\nmember of the State Legislature,\nhas announced his candidacy for\nthe Democratic nomination for\nAttorney General.\n\n\nO'Reilly, who served on the\nJudiciary Committee of the House\nof Representatives during the\n22nd Legislature, has practiced\nlaw in the Arizona courts for\nIs years. He is the senior\npartner of the law firm O'Reilly,\nPollock. Murphy & Pizzo.\n\n\nA member of the House\nJudiciary Committee. he played\nmajor role in the revision and\ncodification of the laws of Ari-\niona during the third special\nsession of that legislature.\n\n\nA native of Choctaw County,\nOklahoma, OReilly has lived in\nArizona for 33 of the 80 years\nof his life. He graduated from\nWickenburg High School, attended\nthe University of New Mexico\nand received his law degree from\nthe University of Arizona.\n\n\nOReilly served three years in\nthe U. S. Navy during World War\nII, and he is a member of the\nGlendale American Legion Post",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2064,
+                    "y0": 457,
+                    "x1": 2852,
+                    "y1": 573
+                },
+                {
+                    "x0": 2059,
+                    "y0": 630,
+                    "x1": 2887,
+                    "y1": 2530
+                }
+            ],
+            "bbox": [
+                2059,
+                457,
+                2887,
+                2530
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "swim; even if\nthe skier is an\nexpert SWIM\nmer, there is a\nchance that he\nmay hit some\nthing and be\nknocked uncon-\nscious. Do not\nski to the point",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3355,
+                    "y0": 3790,
+                    "x1": 3732,
+                    "y1": 4312
+                }
+            ],
+            "bbox": [
+                3355,
+                3790,
+                3732,
+                4312
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                9,
+                20,
+                17
+            ],
+            "headline": "New Subscription\nRate $3.50\n\n\nper year\n\nWATER SPORTS: An Ounce of Prevention",
+            "article": "Summertime water time Beaches pools and lakes\neverywhere crowded with those seeking fun and comfort And\norer to insure healthy well happy time in the water",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2985,
+                    "y0": 2199,
+                    "x1": 3674,
+                    "y1": 2553
+                },
+                {
+                    "x0": 2145,
+                    "y0": 2558,
+                    "x1": 3726,
+                    "y1": 2651
+                },
+                {
+                    "x0": 2122,
+                    "y0": 2639,
+                    "x1": 3738,
+                    "y1": 2831
+                }
+            ],
+            "bbox": [
+                2122,
+                2199,
+                3738,
+                2831
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Everyone eye birdie instead of the ball Berney\nLincoln when the Tribune photographer visited\nthe diamond\n\n\nincludes John Rhymes, Ncy Noyes Dwight\nLopez Mariana Abano and Danny Tucker back\nRichard mnez Anthony Fuice Kenneth Supter Danny Mcdowell\nTony Neal and Joe Nfunoz.\n\n\nSecond Richard Aguilar Steve Morales,\nLopez George Ronqo and Johnny Brewster; back\nBarnes director Charles Johnson volunteer COACH\nMartinez Joe Duarte Ruben Ferros Emilio Fgueroa Ken\nSilas and Dario Maritime, coach\n\n\nWAFFLE HAMWICIIES\n\n\nMakes Servings\nWdHes tablespoon instant mihceu\ncup milk onion\negg taDiespoon noIseiauien\ntablespoons melted or tablespoon prepared\n\n\nliquid shortening mustard\n\n\nGun pancake mix Ia teaspoon pepper\nTopping: foindto snccS\n\n\nl lb. ground cooked ham dW pchtc ShctS\n1/2 mayonnaise process AMfF,cdht cnGfse\nia cup sweet pickle relish ShccS en- oW9oho\"0\nwas milk and shortening in shaker or bowl\nused add after pancake Mix Add pancake\nwith beater until\nbatter is fairly hot waffle baker until seamng\nstops. - ooL\nwaffle section about inches from source OF neat\nTOP each section SLICE dill pickle slice and cheese\nslices until cheese mes Serve Immediately.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 270,
+                    "y0": 3113,
+                    "x1": 1950,
+                    "y1": 4931
+                }
+            ],
+            "bbox": [
+                270,
+                3113,
+                1950,
+                4931
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-08-07_p1_sn84021918_0041421695A_1964080701_0506.json"
+        }
+    ]
+}

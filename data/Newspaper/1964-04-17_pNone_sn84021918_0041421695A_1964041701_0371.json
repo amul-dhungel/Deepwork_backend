@@ -1,0 +1,369 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7376,
+        "width": 4894,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041701/0371.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2850,
+                "y0": 2593,
+                "x1": 3658,
+                "y1": 3360
+            },
+            "class": "article",
+            "raw_text": "Saint Marys High School will\npresent its Knights Band in\nspring concert Friday at 8 pm.\nin the Saint Marys Gymnasium,\n230 East Polk, Phoenix.\n\n\nThe band composed of 46 MEM\nbers directed by Loveless B. Liv-\ningston will present a varied\nprogram of music.\n\n\nSoloists will be Soloman Pa\ndilla, trombone; Edith Beaver,\nflute; and Larry Wilkinson,\ntrumpet.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2879,
+                "y0": 2362,
+                "x1": 3427,
+                "y1": 2553
+            },
+            "class": "headline",
+            "raw_text": "ST. MARY'S\n\n\nBAND CONCERT",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2844,
+                "y0": 685,
+                "x1": 3663,
+                "y1": 2277
+            },
+            "class": "article",
+            "raw_text": "Nearly $500 women will die\nfrom breast cancer in 1864, more\nthan eight out Of ten will die\nneedlessly, because their cancer\nwill have been detected too late.\n\n\nThis Is one Of the many dis\ncouraging facts about cancer. Al\nthough one cancer patient in three\nIs saved today, our medical\nknowledge could save one in two.\nThe ability to save one half Of\ncancer victims can only be real\nlied when the public learns how\nto discover cancer in It's early,\nless noticeable stages.\n\n\nThe Maricopa County Unit Of\nthe American Cancer Society,\nwhile conducting its annual April\nCrusade will pass on llfe-saving\ninformation which has been made\npossible by the preceding cru\nsades. Brochures describing\nearly symptoms of cancer will\nbe made available to all county\nresidents. The brochure will also\nanswer the most commonly asked\nquestions about the disease.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2902,
+                "y0": 414,
+                "x1": 3364,
+                "y1": 663
+            },
+            "class": "headline",
+            "raw_text": "County Unit\nOPENS Cancer\nDrive Here",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 182,
+                "y0": 2523,
+                "x1": 1865,
+                "y1": 3833
+            },
+            "class": "article",
+            "raw_text": "April Teaching Career Month aside salute the teachers Of\nthe nation\n\n\nThe Arizona Tribune visited schools Roose\nwelt District gght the activities Of the cassrooms\nTopThd graders Julian School in Mrs. Helen Dixon\nhang their card the spelling bird Each child who spells\nword correctly enables the hang card.\n\n\nChildren Donne Bnord, Oscar HILL Linda Bleord Lydia\nJefferson. and Ann Maez.\n\n\nTop Paldae School learn\nbutter old fashioned Mrs. Josephine Pete demonstrates\nBottom Participants oraorcal sponsored by\nlocal fraternity make final their speeches Mrs.\nMoten's eighth grade at Julian.\n\n\nSeated the table Larry Mcconnell Letha Gilbert\nMoyer Lynda Phpot Sheena Graves and Martha Jones.\n\n\nall lessons. Fifth graders show how\nBaskets ombgy colored\nFrom left Brenda Hawkins Linda Spencer Melinda Reaves\nand Karen Powers.\n\n\nThe basket in Mrs. Eoise Banks class Julian\nSchool.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3743,
+                "y0": 3059,
+                "x1": 4557,
+                "y1": 3320
+            },
+            "class": "article",
+            "raw_text": "APIS. FOR RENT\n\n\nAPIS. Refrigerated New l bdrm.\nfurnished. $40 per week near\nBroad on S. 10th St. 276-7Ol2.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3749,
+                "y0": 2621,
+                "x1": 4418,
+                "y1": 2807
+            },
+            "class": "article",
+            "raw_text": "COLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-o083",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3749,
+                "y0": 2852,
+                "x1": 4315,
+                "y1": 2991
+            },
+            "class": "article",
+            "raw_text": "I & M BARBER SHOP\n1905 w. Buckeye",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3749,
+                "y0": 628,
+                "x1": 4568,
+                "y1": 807
+            },
+            "class": "article",
+            "raw_text": "ADRIANNES BEAUTY SALON\nl4lS E. Washington\n258-05ll",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3766,
+                "y0": 397,
+                "x1": 4557,
+                "y1": 571
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED ADS\nBUSINESS DIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964041701_0371",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "ST. MARY'S\n\n\nBAND CONCERT",
+            "article": "Saint Marys High School will\npresent its Knights Band in\nspring concert Friday at 8 pm.\nin the Saint Marys Gymnasium,\n230 East Polk, Phoenix.\n\n\nThe band composed of 46 MEM\nbers directed by Loveless B. Liv-\ningston will present a varied\nprogram of music.\n\n\nSoloists will be Soloman Pa\ndilla, trombone; Edith Beaver,\nflute; and Larry Wilkinson,\ntrumpet.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2879,
+                    "y0": 2362,
+                    "x1": 3427,
+                    "y1": 2553
+                },
+                {
+                    "x0": 2850,
+                    "y0": 2593,
+                    "x1": 3658,
+                    "y1": 3360
+                }
+            ],
+            "bbox": [
+                2850,
+                2362,
+                3658,
+                3360
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-17_pna_sn84021918_0041421695A_1964041701_0371.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "County Unit\nOPENS Cancer\nDrive Here",
+            "article": "Nearly $500 women will die\nfrom breast cancer in 1864, more\nthan eight out Of ten will die\nneedlessly, because their cancer\nwill have been detected too late.\n\n\nThis Is one Of the many dis\ncouraging facts about cancer. Al\nthough one cancer patient in three\nIs saved today, our medical\nknowledge could save one in two.\nThe ability to save one half Of\ncancer victims can only be real\nlied when the public learns how\nto discover cancer in It's early,\nless noticeable stages.\n\n\nThe Maricopa County Unit Of\nthe American Cancer Society,\nwhile conducting its annual April\nCrusade will pass on llfe-saving\ninformation which has been made\npossible by the preceding cru\nsades. Brochures describing\nearly symptoms of cancer will\nbe made available to all county\nresidents. The brochure will also\nanswer the most commonly asked\nquestions about the disease.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2902,
+                    "y0": 414,
+                    "x1": 3364,
+                    "y1": 663
+                },
+                {
+                    "x0": 2844,
+                    "y0": 685,
+                    "x1": 3663,
+                    "y1": 2277
+                }
+            ],
+            "bbox": [
+                2844,
+                414,
+                3663,
+                2277
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-17_pna_sn84021918_0041421695A_1964041701_0371.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "April Teaching Career Month aside salute the teachers Of\nthe nation\n\n\nThe Arizona Tribune visited schools Roose\nwelt District gght the activities Of the cassrooms\nTopThd graders Julian School in Mrs. Helen Dixon\nhang their card the spelling bird Each child who spells\nword correctly enables the hang card.\n\n\nChildren Donne Bnord, Oscar HILL Linda Bleord Lydia\nJefferson. and Ann Maez.\n\n\nTop Paldae School learn\nbutter old fashioned Mrs. Josephine Pete demonstrates\nBottom Participants oraorcal sponsored by\nlocal fraternity make final their speeches Mrs.\nMoten's eighth grade at Julian.\n\n\nSeated the table Larry Mcconnell Letha Gilbert\nMoyer Lynda Phpot Sheena Graves and Martha Jones.\n\n\nall lessons. Fifth graders show how\nBaskets ombgy colored\nFrom left Brenda Hawkins Linda Spencer Melinda Reaves\nand Karen Powers.\n\n\nThe basket in Mrs. Eoise Banks class Julian\nSchool.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 182,
+                    "y0": 2523,
+                    "x1": 1865,
+                    "y1": 3833
+                }
+            ],
+            "bbox": [
+                182,
+                2523,
+                1865,
+                3833
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-04-17_pna_sn84021918_0041421695A_1964041701_0371.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "APIS. FOR RENT\n\n\nAPIS. Refrigerated New l bdrm.\nfurnished. $40 per week near\nBroad on S. 10th St. 276-7Ol2.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3743,
+                    "y0": 3059,
+                    "x1": 4557,
+                    "y1": 3320
+                }
+            ],
+            "bbox": [
+                3743,
+                3059,
+                4557,
+                3320
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-04-17_pna_sn84021918_0041421695A_1964041701_0371.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "COLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-o083",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3749,
+                    "y0": 2621,
+                    "x1": 4418,
+                    "y1": 2807
+                }
+            ],
+            "bbox": [
+                3749,
+                2621,
+                4418,
+                2807
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-04-17_pna_sn84021918_0041421695A_1964041701_0371.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "I & M BARBER SHOP\n1905 w. Buckeye",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3749,
+                    "y0": 2852,
+                    "x1": 4315,
+                    "y1": 2991
+                }
+            ],
+            "bbox": [
+                3749,
+                2852,
+                4315,
+                2991
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-04-17_pna_sn84021918_0041421695A_1964041701_0371.json"
+        },
+        {
+            "object_ids": [
+                24,
+                23
+            ],
+            "headline": "CLASSIFIED ADS\nBUSINESS DIRECTORY",
+            "article": "ADRIANNES BEAUTY SALON\nl4lS E. Washington\n258-05ll",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3766,
+                    "y0": 397,
+                    "x1": 4557,
+                    "y1": 571
+                },
+                {
+                    "x0": 3749,
+                    "y0": 628,
+                    "x1": 4568,
+                    "y1": 807
+                }
+            ],
+            "bbox": [
+                3749,
+                397,
+                4568,
+                807
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-04-17_pna_sn84021918_0041421695A_1964041701_0371.json"
+        }
+    ]
+}

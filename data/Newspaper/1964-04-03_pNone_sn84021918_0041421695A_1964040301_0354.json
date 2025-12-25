@@ -1,0 +1,425 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4841,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964040301/0354.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2131,
+                "y0": 520,
+                "x1": 2953,
+                "y1": 2711
+            },
+            "class": "article",
+            "raw_text": "A special feature of the US.\nArmy Field Bands concert, set\nfor $3.50 p.m.. Monday. April 9th\nin Phoenix College Stadium,\nPhoenix, will be the Soldiers\nChorus, one of the finest male\nvocal groups.\n\n\nThe Soldiers Chorus is an\nintegral part of the u. S. Army\nField Band, combining the voices\nof a group of its instrumental\nlists and vocalists in the presen-\ntation of their own special ar\nrangements of well-known COM\npositions.\n\n\nSt. Eugene w. Coughlin. De-\ntroit Lakes, Mimi, is chorus d.\nrector He is a former SOLO\nist with operate and symphonic\norganizations on the West Coast.\n\n\nThe chorus was formed when\nthe Field Band was organized in\n1916 and has participated with\nthe band in concerts in all so\nstates, in Europe and in the Far\nEast.\n\n\nThe famed u. S. Army Field\nBand will appear locally under\nthe direction of Major Robert L.\nBierly, its Commanding Officer.\nThe Bands local appearance has\nbeen co-ordinated by the Phoenix\nCollege Music Department in\nconjunction with the chief of in\nformation, Department of the\nArmy. The free concert is open\nto the public.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2143,
+                "y0": 300,
+                "x1": 2589,
+                "y1": 480
+            },
+            "class": "headline",
+            "raw_text": "ARMY BAND\nTO APPEAR",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2166,
+                "y0": 3479,
+                "x1": 2982,
+                "y1": 5208
+            },
+            "class": "article",
+            "raw_text": "A cats sense Of fun is one of\nit's greatest charms. The simplest\nthings intrigue cats. They'll\nstalk, pounce and tumble with a\nplain wad of paper for hours. A\nbox to play hide-and-seek in or a\ncatnip trinket will delight them.\n\n\nBe sure that your cats toys\ncannot be splintered, torn apart\nand swallowed. Give your cat\nfew toys to begin with and add\nnew ones from time to time. This\nwill keep him from becoming\nbored and destructive.\n\n\nThe Purina Cat Care Center\nsuggests few of the toys which\nyour cat will enjoy:\n\n\ncelluloid ball that rattles.\n\n\ncellophane and catnip bag.\n\n\n\"a spool attached to a strong\n\n\npiece of string and hung from\n\n\na chair or doorknob.\n\n\n\"a rubber mouse that squeaks.\n\n\nBe careful of open drawers,\ntrunks and closets. Cats love to\nplay in and investigate warm,\ndark spots and are often unwit-\ntingly imprisoned.\n\n\nAlso, if you tie ribbon around\nyour cats neck remember that it\ncan be dangerous as ribbons are\neasily caught and pulled tight. If\nyour pet wears a collar outdoors\nfor identification purposes, be\nsure it is large enough to slip\nover the head if necessary.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2466,
+                "y0": 3288,
+                "x1": 2930,
+                "y1": 3376
+            },
+            "class": "author",
+            "raw_text": "by n. JACK MIDDLETON,\nPurina Cat Care Center",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2293,
+                "y0": 3398,
+                "x1": 2878,
+                "y1": 3468
+            },
+            "class": "headline",
+            "raw_text": "Toys For Your Cat",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1241,
+                "y0": 3837,
+                "x1": 2057,
+                "y1": 4191
+            },
+            "class": "article",
+            "raw_text": "\"My Church Home will close\nsoon.\n\n\nThe list will benefit the build\ning fund of the church. For fur\nTheir information contact Mr..\nDavis.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 559,
+                "y0": 3699,
+                "x1": 1814,
+                "y1": 3821
+            },
+            "class": "headline",
+            "raw_text": "Souvenir Program Near End",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 345,
+                "y0": 3860,
+                "x1": 1167,
+                "y1": 4173
+            },
+            "class": "article",
+            "raw_text": "James L. Davis, leader of the\nTexas and Senior Citizens Clubs\n\n\nof First Institutional Baptist\nChurch, announces the patrons\nlist for the souvenir program",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 334,
+                "y0": 3219,
+                "x1": 2028,
+                "y1": 3642
+            },
+            "class": "article",
+            "raw_text": "Sunday Union Baptist Church sponsored\nEgg Saturday The home Of Mr. and Mrs Grady\nWady. 4543 E. Transmission Rd.\n\n\nChaperones Mesdames Eqla Jenkins Ruby\nColeman Wady Cora Lee Pipns Doris Coleman,\nMaggie Scott Mahaa Thomas Charles Washington and Messrs\nc. Elloirr and Hugo Griffin, supt.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3044,
+                "y0": 3479,
+                "x1": 3854,
+                "y1": 3665
+            },
+            "class": "article",
+            "raw_text": "On the average, one person\nout of 10 in the US. walks to\nwork.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3038,
+                "y0": 3334,
+                "x1": 3693,
+                "y1": 3457
+            },
+            "class": "headline",
+            "raw_text": "Facts TO Know",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3911,
+                "y0": 3300,
+                "x1": 4721,
+                "y1": 3671
+            },
+            "class": "article",
+            "raw_text": "The average person spends\nonly rs minutes day in artic-\nulated speech: the rest of the\ntime spent \"conversing'' he is\ngrimacing, Smiling, frowning,\nStruggling, what have you.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 4847,
+                "y0": 381,
+                "x1": 6103,
+                "y1": 5578
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964040301_0354",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "ARMY BAND\nTO APPEAR",
+            "article": "A special feature of the US.\nArmy Field Bands concert, set\nfor $3.50 p.m.. Monday. April 9th\nin Phoenix College Stadium,\nPhoenix, will be the Soldiers\nChorus, one of the finest male\nvocal groups.\n\n\nThe Soldiers Chorus is an\nintegral part of the u. S. Army\nField Band, combining the voices\nof a group of its instrumental\nlists and vocalists in the presen-\ntation of their own special ar\nrangements of well-known COM\npositions.\n\n\nSt. Eugene w. Coughlin. De-\ntroit Lakes, Mimi, is chorus d.\nrector He is a former SOLO\nist with operate and symphonic\norganizations on the West Coast.\n\n\nThe chorus was formed when\nthe Field Band was organized in\n1916 and has participated with\nthe band in concerts in all so\nstates, in Europe and in the Far\nEast.\n\n\nThe famed u. S. Army Field\nBand will appear locally under\nthe direction of Major Robert L.\nBierly, its Commanding Officer.\nThe Bands local appearance has\nbeen co-ordinated by the Phoenix\nCollege Music Department in\nconjunction with the chief of in\nformation, Department of the\nArmy. The free concert is open\nto the public.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2143,
+                    "y0": 300,
+                    "x1": 2589,
+                    "y1": 480
+                },
+                {
+                    "x0": 2131,
+                    "y0": 520,
+                    "x1": 2953,
+                    "y1": 2711
+                }
+            ],
+            "bbox": [
+                2131,
+                300,
+                2953,
+                2711
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-03_pna_sn84021918_0041421695A_1964040301_0354.json"
+        },
+        {
+            "object_ids": [
+                23,
+                21,
+                2
+            ],
+            "headline": "Toys For Your Cat",
+            "article": "A cats sense Of fun is one of\nit's greatest charms. The simplest\nthings intrigue cats. They'll\nstalk, pounce and tumble with a\nplain wad of paper for hours. A\nbox to play hide-and-seek in or a\ncatnip trinket will delight them.\n\n\nBe sure that your cats toys\ncannot be splintered, torn apart\nand swallowed. Give your cat\nfew toys to begin with and add\nnew ones from time to time. This\nwill keep him from becoming\nbored and destructive.\n\n\nThe Purina Cat Care Center\nsuggests few of the toys which\nyour cat will enjoy:\n\n\ncelluloid ball that rattles.\n\n\ncellophane and catnip bag.\n\n\n\"a spool attached to a strong\n\n\npiece of string and hung from\n\n\na chair or doorknob.\n\n\n\"a rubber mouse that squeaks.\n\n\nBe careful of open drawers,\ntrunks and closets. Cats love to\nplay in and investigate warm,\ndark spots and are often unwit-\ntingly imprisoned.\n\n\nAlso, if you tie ribbon around\nyour cats neck remember that it\ncan be dangerous as ribbons are\neasily caught and pulled tight. If\nyour pet wears a collar outdoors\nfor identification purposes, be\nsure it is large enough to slip\nover the head if necessary.",
+            "byline": "by n. JACK MIDDLETON,\nPurina Cat Care Center",
+            "bbox_list": [
+                {
+                    "x0": 2466,
+                    "y0": 3288,
+                    "x1": 2930,
+                    "y1": 3376
+                },
+                {
+                    "x0": 2293,
+                    "y0": 3398,
+                    "x1": 2878,
+                    "y1": 3468
+                },
+                {
+                    "x0": 2166,
+                    "y0": 3479,
+                    "x1": 2982,
+                    "y1": 5208
+                }
+            ],
+            "bbox": [
+                2166,
+                3288,
+                2982,
+                5208
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-03_pna_sn84021918_0041421695A_1964040301_0354.json"
+        },
+        {
+            "object_ids": [
+                20,
+                6
+            ],
+            "headline": "Souvenir Program Near End",
+            "article": "\"My Church Home will close\nsoon.\n\n\nThe list will benefit the build\ning fund of the church. For fur\nTheir information contact Mr..\nDavis.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 559,
+                    "y0": 3699,
+                    "x1": 1814,
+                    "y1": 3821
+                },
+                {
+                    "x0": 1241,
+                    "y0": 3837,
+                    "x1": 2057,
+                    "y1": 4191
+                }
+            ],
+            "bbox": [
+                559,
+                3699,
+                2057,
+                4191
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-03_pna_sn84021918_0041421695A_1964040301_0354.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "James L. Davis, leader of the\nTexas and Senior Citizens Clubs\n\n\nof First Institutional Baptist\nChurch, announces the patrons\nlist for the souvenir program",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 345,
+                    "y0": 3860,
+                    "x1": 1167,
+                    "y1": 4173
+                }
+            ],
+            "bbox": [
+                345,
+                3860,
+                1167,
+                4173
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-04-03_pna_sn84021918_0041421695A_1964040301_0354.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Sunday Union Baptist Church sponsored\nEgg Saturday The home Of Mr. and Mrs Grady\nWady. 4543 E. Transmission Rd.\n\n\nChaperones Mesdames Eqla Jenkins Ruby\nColeman Wady Cora Lee Pipns Doris Coleman,\nMaggie Scott Mahaa Thomas Charles Washington and Messrs\nc. Elloirr and Hugo Griffin, supt.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 334,
+                    "y0": 3219,
+                    "x1": 2028,
+                    "y1": 3642
+                }
+            ],
+            "bbox": [
+                334,
+                3219,
+                2028,
+                3642
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-03_pna_sn84021918_0041421695A_1964040301_0354.json"
+        },
+        {
+            "object_ids": [
+                17,
+                14
+            ],
+            "headline": "Facts TO Know",
+            "article": "On the average, one person\nout of 10 in the US. walks to\nwork.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3038,
+                    "y0": 3334,
+                    "x1": 3693,
+                    "y1": 3457
+                },
+                {
+                    "x0": 3044,
+                    "y0": 3479,
+                    "x1": 3854,
+                    "y1": 3665
+                }
+            ],
+            "bbox": [
+                3038,
+                3334,
+                3854,
+                3665
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-04-03_pna_sn84021918_0041421695A_1964040301_0354.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "The average person spends\nonly rs minutes day in artic-\nulated speech: the rest of the\ntime spent \"conversing'' he is\ngrimacing, Smiling, frowning,\nStruggling, what have you.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3911,
+                    "y0": 3300,
+                    "x1": 4721,
+                    "y1": 3671
+                }
+            ],
+            "bbox": [
+                3911,
+                3300,
+                4721,
+                3671
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-04-03_pna_sn84021918_0041421695A_1964040301_0354.json"
+        }
+    ]
+}

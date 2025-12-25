@@ -1,0 +1,467 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964072401/0477.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7430,
+        "width": 4789
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 148,
+                "y0": 4608,
+                "x1": 967,
+                "y1": 7198
+            },
+            "class": "article",
+            "raw_text": "ATLANTA, Ca. = The nomina-\ntion of Senator Barry Goldwater\nas Republican candidate for\nPresident is \"both unfortunate\nand disastrous Dr.. Martin\nLuther King, Jr. said.\n\n\nDR.. King. President of the\nSouthern Christian Leadership\nConference, told newsmen that\nSCLC will campaign against\nColdwater and will ask its af-\nfiliates to cooperate.\n\n\nThe famed civil rights leader\nhas. never endorsed candidate\nfor the Presidency. but his Stout\nrejection ofC oldwater is, he said,\nian indirect endorsement of\nPresident Lyndon B. Johnson\"\n\n\nDR.. King stated, \"It's both\nunfortunate and disastrous that\nthe Republican Party has\nnominated Senator Barry Cold\nwater as its candidate for the\nPresidency of the United States.\nIn foreign policy. Mr.. Goldwater\nadvocates a narrow nationalism,\na Gripping isolationism and a\ntrigger-happy attitude that could\nplunge the whole world into the\ndark abyss of humiliation. On\nsocial and economic issues, Mr..\nG oldWater represents an un-\nrealistic conservatism that is\ntotally out Of touch with the\nrealities of the twentieth century.\nThe issue of poverty throughout\nthis land compels the attention of\nall citizens of our country. 1t\nis our conviction that Senator\nGoldwater has neither the con-\nGerm nor the comprehension\nnecessary to grapple with this\nproblem in the fashion that the\nhistorical moment Dictates\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 142,
+                "y0": 4365,
+                "x1": 938,
+                "y1": 4575
+            },
+            "class": "headline",
+            "raw_text": "KING SAYS SCLC WILL\nWORK AGAINST BARRY",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1941,
+                "y0": 1590,
+                "x1": 2778,
+                "y1": 4157
+            },
+            "class": "article",
+            "raw_text": "Maricopa County has signed an\nagreement with Salt River Pro-\niect and US. Bureau of Reclama-\nton permitting use of 90 miles\nof canal rights of-way for public\nrecreation.\n\n\nDistrict Supervisor L. Alton\n\"Pat\" Riggs hailed the action\nand called the agreement \"a\ngigantic step toward utilization of\nour canal system for the recrea-\ntional benefit of all county\ncitizens.''\n\n\nThe board chairman COM\nmended Victor Corbell. presi-.\ndent, and the Salt River Project\nstaff, and A. B. West, regional\ndirector, Bureau of Reclama-\nton, for their cooperation in\nmaking the canal areas available\nfor public use.\n\n\nIn signing the agreement this\nmorning, Corbell declared, 1.-The\nProject is happy to participate\nin this program. Project canals\nhave been the lifeline of this\nValley since the 1905 and now,\nin view of this agreement. they\nare destined to be of even greater\nbenefit as the basis for much\nneeded recreation facilities in\nthis growing metropolitan area\"\n\n\nThe 50-year permit enables\neventual development of parks\nbordering the canals. The parks\nwould be spaced about four miles\napart. Each would contain a\nlagoon fed by water from the\ncanal and would connect with\nother lagoons by means of canal\npaths. Facilities for horseback\nriding hiking. fishing. picnicking\nand boating will be provided.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1918,
+                "y0": 1300,
+                "x1": 2616,
+                "y1": 1533
+            },
+            "class": "headline",
+            "raw_text": "CunuIside Parks\nTo Be Created",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2835,
+                "y0": 6495,
+                "x1": 3649,
+                "y1": 7158
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Despite the pleas\nfrom Mayor Robert Wagner. who\nhad shortened his European trip,\nNegroes in the city continued to\nriot in the streets.\n\n\nAction was conferred In\nBrooklyn and a mounted unit was\ncalled to maintain order.\n\n\nPolice shot and wounded Rufus\nWeaver, %, one of three Negroes\nofficers claimed were footing",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2829,
+                "y0": 6211,
+                "x1": 4212,
+                "y1": 6461
+            },
+            "class": "headline",
+            "raw_text": "RIOTS CONTINUE IN new YORK\nDESPITE PLEA FROM MAYOR",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1964,
+                "y0": 6617,
+                "x1": 2778,
+                "y1": 7193
+            },
+            "class": "article",
+            "raw_text": "Robert Fowler, so, 1885 E.\nJackson, was charged with muir\nder in the fatal shooting ofWillis\nLee Smith, 20.\n\n\nFowler claimed he found Smith\nwith his wife. BERTHE, AZ at the\nhome of a friend. 1880 E. Jack\nson. He fired four shots at the\nvictim, who died of two shots in\nthe chest.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1953,
+                "y0": 6274,
+                "x1": 2703,
+                "y1": 6595
+            },
+            "class": "headline",
+            "raw_text": "Fowler Charged\nWith Murder\n\n\nIn Fatal Shooting",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3717,
+                "y0": 6530,
+                "x1": 4520,
+                "y1": 7123
+            },
+            "class": "article",
+            "raw_text": "a dry cleaning shop.\n\n\nIn Manhattan 500 white youths\nshouted and tossed eggs, stones\nand tin cans at 200 Negro pickets\noutside of police headquarters.\n\n\nMayor Wagner pledged to en-\nforce law and prevent and punish\nany police brutality. His address\nwas carried on the three ma ior\ntelevision networks.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3717,
+                "y0": 2670,
+                "x1": 4543,
+                "y1": 6032
+            },
+            "class": "article",
+            "raw_text": "toned the role of the FBI in\nMississippi. He said, \"The FBI\nhasn't been able to get enough\nevidence to put anyone in jail.\nYou really begin wonder. what\ngood are they7 What are they\ndoing hereT \"\n\n\nIn a letter to FBI Director ].\nEdgar Hoover, Evers expressed\nextreme shock at a recent state\nment of the law officer S in which\nhe is quoted as saying \"lawless-\nness in the South is no worse than\nlawlessness in the North\"\n\n\n1--WE must feel\" declared\nEvers. \"that when the national\ndirector of the FBI can make\nstatements such as this. the luna\ntics who would deliberately de-\nstroy human life or lloperty\nare encouraged\"\n\n\nDR.. Henry cited half dozen\nof the IA cases to the White\nHouse last March in an effort\nto get the federal government\nto investigate the increased anti\nNegro terrorism and violence in\nMississippi. These included:\n\n\nJasper Greenwood, so, pro-\nprietor of Jasper's Lounge,\na Vicksburg Negro cafe. whose\nbody was found in a weed-grown\nlot there last June %;\n\n\nAllen Davis. native of ITALIA\nhatchie County. who disappeared\nfrom Darlie. MISS, in adjoining\nOuitman County. last June 27:\n\n\nClifford Walker. \"a. Wilhn-\nson County farmer. found shot to\ndeath last March on a rural\nroad near his home:\n\n\nLouis Allen, As, shot to death\nin the front yard of his home\nnear Liberty in Amito County,\nlast January 81:\n\n\nTwo men, one whose body bore\ngunshot wounds and the other\nbruised about the face, found\ndead, along with a woman, in an\nauto on a rural road in Wilin-\nson County.\n\n\nTwo other cases, involving the\nalleged Staying of handcuffed\nNegro prisoners by Law enforce\nment officers had been investi-\ngated by Schwerner shortly be-\nfore he disappeared.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2841,
+                "y0": 2420,
+                "x1": 4038,
+                "y1": 2647
+            },
+            "class": "headline",
+            "raw_text": "NAACP Urges Investigation\nIn More Mississippi Deaths",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2841,
+                "y0": 2670,
+                "x1": 3660,
+                "y1": 6113
+            },
+            "class": "article",
+            "raw_text": "CLARKSDALE. Miss. The\ndiscovery to two brutally\nmurdered and mutilated bodies\nof Negro citizens prompted new\ncalls for federal investigations\nby the National Association for\nthe Advancement of Colored\nPeople.\n\n\nDR.. Aaron E. Henry, Missis-\nsippi State NAACP president,\ncalled upon Attorney General\nKennedy to find out who killed\nCharles Moore, 20 and Henry\nDees, FL, and severed their\nbodies. The lower halves of\nboth bodies we're found in the\nOld River swamp near Tallulah.\nLa, Sunday and Monday, July\n~ and l3.\n\n\nTheir mutilated bodies we're\ndiscovered during the continuing\nsearch for Michael Schwerner,\n\"a, and Andrew Goodman, 20.\nboth of New York. and James\nClancy, %. of Meridian, Miss,\nwho disappeared near Philadel-\nphia, MISS, last June %.\n\n\nIn another move, in Jackson\nCharles Evers, NAACP field\nsecretary, sent a. letter to Mis-\nsissippi Governor Paul Johns on.\nMonday, July Is, requesting that\nhe call upon the state lawmakers\nto enact special legislation to\nguarantee the safety of Missis-\nsippi Negro citizens. MIR. Evers'\nletter also asked for an early\nmeeting with the State Executive\nto discuss the rising tide of anti\nNegro violence.\n\n\nSince his brother was shot in\nthe back by sniper outside of\nhis home in Jackson, June IL,\n1868. Mr.. Evers said l4Negroes\nhave disappeared, been slain, or\nhave died mysteriously in rural\nMississippi.\n\n\nDr.. Henry said this fate has\nbefallen nine Negroes in the Delta\nin the past seven months and in\nnone of the cases have arrests\nbeen made.\n\n\n\"Most of these murders we're\ncommitted by local police Of\nficers,\" Mr.. Evers asserted.\nAlso pointing to the fact that\nno arrest has been made. the =\nNAACP field secretary ques-",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1082,
+                "y0": 6565,
+                "x1": 1902,
+                "y1": 7158
+            },
+            "class": "article",
+            "raw_text": "Mrs. Melissa Smith, president\nof the Arizona-New Mexico an\nnual conference, announces a\nbenefit fashion show will be held\nat the Mas nic Temple, Sum-,\nAug. %. 3 pm. Donations are\n81 and proceeds will go to the\n$l0O parade of the annual con-\nference which will be held in\nTucson.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1059,
+                "y0": 6303,
+                "x1": 1884,
+                "y1": 6542
+            },
+            "class": "headline",
+            "raw_text": "Fashion Show\nSet AtMusonic Hall",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-07-24"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "KING SAYS SCLC WILL\nWORK AGAINST BARRY",
+            "article": "ATLANTA, Ca. = The nomina-\ntion of Senator Barry Goldwater\nas Republican candidate for\nPresident is \"both unfortunate\nand disastrous Dr.. Martin\nLuther King, Jr. said.\n\n\nDR.. King. President of the\nSouthern Christian Leadership\nConference, told newsmen that\nSCLC will campaign against\nColdwater and will ask its af-\nfiliates to cooperate.\n\n\nThe famed civil rights leader\nhas. never endorsed candidate\nfor the Presidency. but his Stout\nrejection ofC oldwater is, he said,\nian indirect endorsement of\nPresident Lyndon B. Johnson\"\n\n\nDR.. King stated, \"It's both\nunfortunate and disastrous that\nthe Republican Party has\nnominated Senator Barry Cold\nwater as its candidate for the\nPresidency of the United States.\nIn foreign policy. Mr.. Goldwater\nadvocates a narrow nationalism,\na Gripping isolationism and a\ntrigger-happy attitude that could\nplunge the whole world into the\ndark abyss of humiliation. On\nsocial and economic issues, Mr..\nG oldWater represents an un-\nrealistic conservatism that is\ntotally out Of touch with the\nrealities of the twentieth century.\nThe issue of poverty throughout\nthis land compels the attention of\nall citizens of our country. 1t\nis our conviction that Senator\nGoldwater has neither the con-\nGerm nor the comprehension\nnecessary to grapple with this\nproblem in the fashion that the\nhistorical moment Dictates\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 142,
+                    "y0": 4365,
+                    "x1": 938,
+                    "y1": 4575
+                },
+                {
+                    "x0": 148,
+                    "y0": 4608,
+                    "x1": 967,
+                    "y1": 7198
+                }
+            ],
+            "bbox": [
+                142,
+                4365,
+                967,
+                7198
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "CunuIside Parks\nTo Be Created",
+            "article": "Maricopa County has signed an\nagreement with Salt River Pro-\niect and US. Bureau of Reclama-\nton permitting use of 90 miles\nof canal rights of-way for public\nrecreation.\n\n\nDistrict Supervisor L. Alton\n\"Pat\" Riggs hailed the action\nand called the agreement \"a\ngigantic step toward utilization of\nour canal system for the recrea-\ntional benefit of all county\ncitizens.''\n\n\nThe board chairman COM\nmended Victor Corbell. presi-.\ndent, and the Salt River Project\nstaff, and A. B. West, regional\ndirector, Bureau of Reclama-\nton, for their cooperation in\nmaking the canal areas available\nfor public use.\n\n\nIn signing the agreement this\nmorning, Corbell declared, 1.-The\nProject is happy to participate\nin this program. Project canals\nhave been the lifeline of this\nValley since the 1905 and now,\nin view of this agreement. they\nare destined to be of even greater\nbenefit as the basis for much\nneeded recreation facilities in\nthis growing metropolitan area\"\n\n\nThe 50-year permit enables\neventual development of parks\nbordering the canals. The parks\nwould be spaced about four miles\napart. Each would contain a\nlagoon fed by water from the\ncanal and would connect with\nother lagoons by means of canal\npaths. Facilities for horseback\nriding hiking. fishing. picnicking\nand boating will be provided.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1918,
+                    "y0": 1300,
+                    "x1": 2616,
+                    "y1": 1533
+                },
+                {
+                    "x0": 1941,
+                    "y0": 1590,
+                    "x1": 2778,
+                    "y1": 4157
+                }
+            ],
+            "bbox": [
+                1918,
+                1300,
+                2778,
+                4157
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        },
+        {
+            "object_ids": [
+                16,
+                4
+            ],
+            "headline": "RIOTS CONTINUE IN new YORK\nDESPITE PLEA FROM MAYOR",
+            "article": "NEW YORK = Despite the pleas\nfrom Mayor Robert Wagner. who\nhad shortened his European trip,\nNegroes in the city continued to\nriot in the streets.\n\n\nAction was conferred In\nBrooklyn and a mounted unit was\ncalled to maintain order.\n\n\nPolice shot and wounded Rufus\nWeaver, %, one of three Negroes\nofficers claimed were footing",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2829,
+                    "y0": 6211,
+                    "x1": 4212,
+                    "y1": 6461
+                },
+                {
+                    "x0": 2835,
+                    "y0": 6495,
+                    "x1": 3649,
+                    "y1": 7158
+                }
+            ],
+            "bbox": [
+                2829,
+                6211,
+                4212,
+                7158
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "Fowler Charged\nWith Murder\n\n\nIn Fatal Shooting",
+            "article": "Robert Fowler, so, 1885 E.\nJackson, was charged with muir\nder in the fatal shooting ofWillis\nLee Smith, 20.\n\n\nFowler claimed he found Smith\nwith his wife. BERTHE, AZ at the\nhome of a friend. 1880 E. Jack\nson. He fired four shots at the\nvictim, who died of two shots in\nthe chest.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1953,
+                    "y0": 6274,
+                    "x1": 2703,
+                    "y1": 6595
+                },
+                {
+                    "x0": 1964,
+                    "y0": 6617,
+                    "x1": 2778,
+                    "y1": 7193
+                }
+            ],
+            "bbox": [
+                1953,
+                6274,
+                2778,
+                7193
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "a dry cleaning shop.\n\n\nIn Manhattan 500 white youths\nshouted and tossed eggs, stones\nand tin cans at 200 Negro pickets\noutside of police headquarters.\n\n\nMayor Wagner pledged to en-\nforce law and prevent and punish\nany police brutality. His address\nwas carried on the three ma ior\ntelevision networks.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3717,
+                    "y0": 6530,
+                    "x1": 4520,
+                    "y1": 7123
+                }
+            ],
+            "bbox": [
+                3717,
+                6530,
+                4520,
+                7123
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        },
+        {
+            "object_ids": [
+                14,
+                8
+            ],
+            "headline": "NAACP Urges Investigation\nIn More Mississippi Deaths",
+            "article": "toned the role of the FBI in\nMississippi. He said, \"The FBI\nhasn't been able to get enough\nevidence to put anyone in jail.\nYou really begin wonder. what\ngood are they7 What are they\ndoing hereT \"\n\n\nIn a letter to FBI Director ].\nEdgar Hoover, Evers expressed\nextreme shock at a recent state\nment of the law officer S in which\nhe is quoted as saying \"lawless-\nness in the South is no worse than\nlawlessness in the North\"\n\n\n1--WE must feel\" declared\nEvers. \"that when the national\ndirector of the FBI can make\nstatements such as this. the luna\ntics who would deliberately de-\nstroy human life or lloperty\nare encouraged\"\n\n\nDR.. Henry cited half dozen\nof the IA cases to the White\nHouse last March in an effort\nto get the federal government\nto investigate the increased anti\nNegro terrorism and violence in\nMississippi. These included:\n\n\nJasper Greenwood, so, pro-\nprietor of Jasper's Lounge,\na Vicksburg Negro cafe. whose\nbody was found in a weed-grown\nlot there last June %;\n\n\nAllen Davis. native of ITALIA\nhatchie County. who disappeared\nfrom Darlie. MISS, in adjoining\nOuitman County. last June 27:\n\n\nClifford Walker. \"a. Wilhn-\nson County farmer. found shot to\ndeath last March on a rural\nroad near his home:\n\n\nLouis Allen, As, shot to death\nin the front yard of his home\nnear Liberty in Amito County,\nlast January 81:\n\n\nTwo men, one whose body bore\ngunshot wounds and the other\nbruised about the face, found\ndead, along with a woman, in an\nauto on a rural road in Wilin-\nson County.\n\n\nTwo other cases, involving the\nalleged Staying of handcuffed\nNegro prisoners by Law enforce\nment officers had been investi-\ngated by Schwerner shortly be-\nfore he disappeared.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2841,
+                    "y0": 2420,
+                    "x1": 4038,
+                    "y1": 2647
+                },
+                {
+                    "x0": 3717,
+                    "y0": 2670,
+                    "x1": 4543,
+                    "y1": 6032
+                }
+            ],
+            "bbox": [
+                2841,
+                2420,
+                4543,
+                6032
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "CLARKSDALE. Miss. The\ndiscovery to two brutally\nmurdered and mutilated bodies\nof Negro citizens prompted new\ncalls for federal investigations\nby the National Association for\nthe Advancement of Colored\nPeople.\n\n\nDR.. Aaron E. Henry, Missis-\nsippi State NAACP president,\ncalled upon Attorney General\nKennedy to find out who killed\nCharles Moore, 20 and Henry\nDees, FL, and severed their\nbodies. The lower halves of\nboth bodies we're found in the\nOld River swamp near Tallulah.\nLa, Sunday and Monday, July\n~ and l3.\n\n\nTheir mutilated bodies we're\ndiscovered during the continuing\nsearch for Michael Schwerner,\n\"a, and Andrew Goodman, 20.\nboth of New York. and James\nClancy, %. of Meridian, Miss,\nwho disappeared near Philadel-\nphia, MISS, last June %.\n\n\nIn another move, in Jackson\nCharles Evers, NAACP field\nsecretary, sent a. letter to Mis-\nsissippi Governor Paul Johns on.\nMonday, July Is, requesting that\nhe call upon the state lawmakers\nto enact special legislation to\nguarantee the safety of Missis-\nsippi Negro citizens. MIR. Evers'\nletter also asked for an early\nmeeting with the State Executive\nto discuss the rising tide of anti\nNegro violence.\n\n\nSince his brother was shot in\nthe back by sniper outside of\nhis home in Jackson, June IL,\n1868. Mr.. Evers said l4Negroes\nhave disappeared, been slain, or\nhave died mysteriously in rural\nMississippi.\n\n\nDr.. Henry said this fate has\nbefallen nine Negroes in the Delta\nin the past seven months and in\nnone of the cases have arrests\nbeen made.\n\n\n\"Most of these murders we're\ncommitted by local police Of\nficers,\" Mr.. Evers asserted.\nAlso pointing to the fact that\nno arrest has been made. the =\nNAACP field secretary ques-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2841,
+                    "y0": 2670,
+                    "x1": 3660,
+                    "y1": 6113
+                }
+            ],
+            "bbox": [
+                2841,
+                2670,
+                3660,
+                6113
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        },
+        {
+            "object_ids": [
+                12,
+                10
+            ],
+            "headline": "Fashion Show\nSet AtMusonic Hall",
+            "article": "Mrs. Melissa Smith, president\nof the Arizona-New Mexico an\nnual conference, announces a\nbenefit fashion show will be held\nat the Mas nic Temple, Sum-,\nAug. %. 3 pm. Donations are\n81 and proceeds will go to the\n$l0O parade of the annual con-\nference which will be held in\nTucson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1059,
+                    "y0": 6303,
+                    "x1": 1884,
+                    "y1": 6542
+                },
+                {
+                    "x0": 1082,
+                    "y0": 6565,
+                    "x1": 1902,
+                    "y1": 7158
+                }
+            ],
+            "bbox": [
+                1059,
+                6303,
+                1902,
+                7158
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-07-24_p1_sn84021918_0041421695A_1964072401_0477.json"
+        }
+    ]
+}

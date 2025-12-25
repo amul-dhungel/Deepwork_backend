@@ -1,0 +1,352 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7428,
+        "width": 4940,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-12",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964061201/0431.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1918,
+                "y0": 2089,
+                "x1": 2749,
+                "y1": 5438
+            },
+            "class": "article",
+            "raw_text": "Atty. Willard B. Rams ON, gen\neral manager of the Nine. C. ].\nWalker Manufacturing Company\nwith headquarters in lndianap-\noils, Indiana, received the first\nAlumni Distinguished Service\nAward from Talladega College.\n\n\nA 1896 summa cum laude grad\nuate of Talladega and a 1889\ngraduate of Harvard University\nLaw School, was cited for his\n\"adventurous contributions to\nhuman dignity and freedom in\ncommunity and state. and to edu-\ncation through alma mater and\nloyal alumni service\"\n\n\nHis long and consistent record\nof fighting for Civil Rights has\nbeen recognized by earlier cita-\ntions. In 1949 Attorney Ransom\nreceived the Cable Award for\noutstanding work in Race Rela-\nlions and Community Service in\nIndianapolis, and he has twice\nbeen selected by the INDfANAP-\nOILS RECORDER on the Honor\nRoll for outstanding service in\nRace Relations.\n\n\nAS state president of the In\ndiana State Conference of NAACP\nbranches he spent five years in\nits reorganization and strength\nening. Rams ON drafted the Indiana\nanti-segregated school law and\nthe state Conference of NAACP\nBranches received a national\naward for its work in getting that\nlaw passed under his leadership\nas State President.\n\n\nAppointed in 1868 by Governor\nMatthew E. Welsh as chairman of\nthe American Negro Emancipa-\ntion Centennial Authority of In\ndiana, Attorney Ransom helped\npromote an exposition of Negro\nlife and history. the production\nof a book on Indiana Negroes\nfrom 1868 to 1868, and college\nscholarships. The important out\ngrowth was the incorporation of\nmaterial on Negro history and\ncontributions to American life\ninto the state curriculum.\n\n\nIn the business world, Ransom\nhas promoted the expansion Of\nthe Walker Manufacturing Com\npany of Beauty Culture.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1912,
+                "y0": 1967,
+                "x1": 2772,
+                "y1": 2072
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2818,
+                "y0": 2181,
+                "x1": 3625,
+                "y1": 2722
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - Msgr. John j.\nHenegahn, Chancellor of the\nBrooklyn diocese, urges Roman\nCatholic church members in\nBrooklyn and Queens boroughs\nto traven in groups during the\ndaylight hours because of the\nrecent outbreak of attacks by\nyoung Negro gangs.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2847,
+                "y0": 1949,
+                "x1": 3492,
+                "y1": 2153
+            },
+            "class": "headline",
+            "raw_text": "Church Leader\n\n\nUrges Group Travel",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 148,
+                "y0": 3290,
+                "x1": 962,
+                "y1": 3720
+            },
+            "class": "article",
+            "raw_text": "9Musical Carnation\", a pro-\ngram Of songs was presented\nSum-. June at the Mr.. Olive\nBaptist Church in Chandler.\nPearl Ferguson directed the\nArizona State Chorus.\n\n\nEight soloists Wed for the",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3694,
+                "y0": 1973,
+                "x1": 4502,
+                "y1": 2693
+            },
+            "class": "article",
+            "raw_text": "OXFORD Pa. - NAACP Gen.\neral Counsel Robert L. Carter\nis scheduled to receive Doc\ntorate of Laws degree from Lin\ncoin University at exercises on\nJune Z.\n\n\nMr.. Carter received his Bach\nelors degree from Lincoln Uni\nversity. He also holds degrees\nfrom Howard University in Wash\nington and Columbia Univer sity in\nNew York City.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3688,
+                "y0": 1746,
+                "x1": 4252,
+                "y1": 1945
+            },
+            "class": "headline",
+            "raw_text": "Lawyer Receives\n\n\nH honorary Degree",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1025,
+                "y0": 3284,
+                "x1": 1844,
+                "y1": 3656
+            },
+            "class": "article",
+            "raw_text": "queens crown. Final GROWING\nwill be held in the fall.\n\n\nMrs. Clara Long, of Phoenix,\nis the temporary chairman. Her\nescort was T. Burnett, Of\nChandler.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 293,
+                "y0": 3151,
+                "x1": 1687,
+                "y1": 3262
+            },
+            "class": "headline",
+            "raw_text": "Musical Progrum Given At Chandler Church",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 137,
+                "y0": 2257,
+                "x1": 1797,
+                "y1": 3094
+            },
+            "class": "article",
+            "raw_text": "hat show displaying the funniest chapeaus was\nfeatured at the H. Lodge 1907 South 9TH Ave.\nSum-, June z.\n\n\nSPONSORED bv the Grand Birthday dep\nthe program craftsmanship Of Mines Gertrude\nClements Alberta Perkins.\n\n\nothers assisting Mmes Mary Boozer and Florence Ses-\n\n\n\nModelling their from left Mesdames Elvia Lewis\nRuby Blackshear Brown Lillian Cagle Lillian Fit and Alice\nWheeler.\n\n\nTommy Davis Blue Flames provided the musical\nsetting at the hat show.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964061201_0431",
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                0
+            ],
+            "headline": "",
+            "article": "Atty. Willard B. Rams ON, gen\neral manager of the Nine. C. ].\nWalker Manufacturing Company\nwith headquarters in lndianap-\noils, Indiana, received the first\nAlumni Distinguished Service\nAward from Talladega College.\n\n\nA 1896 summa cum laude grad\nuate of Talladega and a 1889\ngraduate of Harvard University\nLaw School, was cited for his\n\"adventurous contributions to\nhuman dignity and freedom in\ncommunity and state. and to edu-\ncation through alma mater and\nloyal alumni service\"\n\n\nHis long and consistent record\nof fighting for Civil Rights has\nbeen recognized by earlier cita-\ntions. In 1949 Attorney Ransom\nreceived the Cable Award for\noutstanding work in Race Rela-\nlions and Community Service in\nIndianapolis, and he has twice\nbeen selected by the INDfANAP-\nOILS RECORDER on the Honor\nRoll for outstanding service in\nRace Relations.\n\n\nAS state president of the In\ndiana State Conference of NAACP\nbranches he spent five years in\nits reorganization and strength\nening. Rams ON drafted the Indiana\nanti-segregated school law and\nthe state Conference of NAACP\nBranches received a national\naward for its work in getting that\nlaw passed under his leadership\nas State President.\n\n\nAppointed in 1868 by Governor\nMatthew E. Welsh as chairman of\nthe American Negro Emancipa-\ntion Centennial Authority of In\ndiana, Attorney Ransom helped\npromote an exposition of Negro\nlife and history. the production\nof a book on Indiana Negroes\nfrom 1868 to 1868, and college\nscholarships. The important out\ngrowth was the incorporation of\nmaterial on Negro history and\ncontributions to American life\ninto the state curriculum.\n\n\nIn the business world, Ransom\nhas promoted the expansion Of\nthe Walker Manufacturing Com\npany of Beauty Culture.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1912,
+                    "y0": 1967,
+                    "x1": 2772,
+                    "y1": 2072
+                },
+                {
+                    "x0": 1918,
+                    "y0": 2089,
+                    "x1": 2749,
+                    "y1": 5438
+                }
+            ],
+            "bbox": [
+                1912,
+                1967,
+                2772,
+                5438
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-12_pna_sn84021918_0041421695A_1964061201_0431.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "Church Leader\n\n\nUrges Group Travel",
+            "article": "NEW YORK - Msgr. John j.\nHenegahn, Chancellor of the\nBrooklyn diocese, urges Roman\nCatholic church members in\nBrooklyn and Queens boroughs\nto traven in groups during the\ndaylight hours because of the\nrecent outbreak of attacks by\nyoung Negro gangs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2847,
+                    "y0": 1949,
+                    "x1": 3492,
+                    "y1": 2153
+                },
+                {
+                    "x0": 2818,
+                    "y0": 2181,
+                    "x1": 3625,
+                    "y1": 2722
+                }
+            ],
+            "bbox": [
+                2818,
+                1949,
+                3625,
+                2722
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-12_pna_sn84021918_0041421695A_1964061201_0431.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "9Musical Carnation\", a pro-\ngram Of songs was presented\nSum-. June at the Mr.. Olive\nBaptist Church in Chandler.\nPearl Ferguson directed the\nArizona State Chorus.\n\n\nEight soloists Wed for the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 148,
+                    "y0": 3290,
+                    "x1": 962,
+                    "y1": 3720
+                }
+            ],
+            "bbox": [
+                148,
+                3290,
+                962,
+                3720
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-12_pna_sn84021918_0041421695A_1964061201_0431.json"
+        },
+        {
+            "object_ids": [
+                13,
+                7
+            ],
+            "headline": "Lawyer Receives\n\n\nH honorary Degree",
+            "article": "OXFORD Pa. - NAACP Gen.\neral Counsel Robert L. Carter\nis scheduled to receive Doc\ntorate of Laws degree from Lin\ncoin University at exercises on\nJune Z.\n\n\nMr.. Carter received his Bach\nelors degree from Lincoln Uni\nversity. He also holds degrees\nfrom Howard University in Wash\nington and Columbia Univer sity in\nNew York City.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3688,
+                    "y0": 1746,
+                    "x1": 4252,
+                    "y1": 1945
+                },
+                {
+                    "x0": 3694,
+                    "y0": 1973,
+                    "x1": 4502,
+                    "y1": 2693
+                }
+            ],
+            "bbox": [
+                3688,
+                1746,
+                4502,
+                2693
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-12_pna_sn84021918_0041421695A_1964061201_0431.json"
+        },
+        {
+            "object_ids": [
+                19,
+                8
+            ],
+            "headline": "Musical Progrum Given At Chandler Church",
+            "article": "queens crown. Final GROWING\nwill be held in the fall.\n\n\nMrs. Clara Long, of Phoenix,\nis the temporary chairman. Her\nescort was T. Burnett, Of\nChandler.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 293,
+                    "y0": 3151,
+                    "x1": 1687,
+                    "y1": 3262
+                },
+                {
+                    "x0": 1025,
+                    "y0": 3284,
+                    "x1": 1844,
+                    "y1": 3656
+                }
+            ],
+            "bbox": [
+                293,
+                3151,
+                1844,
+                3656
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-12_pna_sn84021918_0041421695A_1964061201_0431.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "hat show displaying the funniest chapeaus was\nfeatured at the H. Lodge 1907 South 9TH Ave.\nSum-, June z.\n\n\nSPONSORED bv the Grand Birthday dep\nthe program craftsmanship Of Mines Gertrude\nClements Alberta Perkins.\n\n\nothers assisting Mmes Mary Boozer and Florence Ses-\n\n\n\nModelling their from left Mesdames Elvia Lewis\nRuby Blackshear Brown Lillian Cagle Lillian Fit and Alice\nWheeler.\n\n\nTommy Davis Blue Flames provided the musical\nsetting at the hat show.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 137,
+                    "y0": 2257,
+                    "x1": 1797,
+                    "y1": 3094
+                }
+            ],
+            "bbox": [
+                137,
+                2257,
+                1797,
+                3094
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-06-12_pna_sn84021918_0041421695A_1964061201_0431.json"
+        }
+    ]
+}

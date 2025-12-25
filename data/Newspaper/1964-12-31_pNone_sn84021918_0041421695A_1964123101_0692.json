@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4876,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964123101/0692.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2044,
+                "y0": 3056,
+                "x1": 2873,
+                "y1": 5482
+            },
+            "class": "article",
+            "raw_text": "Many persons do not know\nearnings of baby sitters in pri-\nvate homes must be reported and\nsocial security taxes be paid if\ntheir earnings from one employer\ntotals $50 cash paid in any cal\nendar quarter, Harry Holland,\nsocial security district manager\nhere said.\n\n\nBabysitters or other workers\nin a private home (such as maids,\ncooks, gardeners, and etc. who\nwork for the same employer\nenough to earn at lea st 81 week\nhave the same protection under\nthe law as workers in commerce\nand industry. An employee is\nnever too young or too old to\nbe covered under social security,\nHolland said.\n\n\nEvery employer who has\nhousehold help that meets this\nrequirement should:\n\n\n/. Make a record of the en-\nployee' S social security number.\n\n\n2. Deduct social security taxes\nfrom the employee earnings\neach week or payday.\n\n\n8. File the quarterly report\nwith Internal Revenue Service\nincluding both the employee S and\nemployer S share of the tax.\n\n\nDomestic employees or en-\nployers who wish additional in\nformation about social security\nprotection or filing of the quar-\nterly reports should contact the\nsocial security office at 1900\nN. Central Ave., or the nearest\nrepre- sentative of Internal\nRevenue Service.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2084,
+                "y0": 2639,
+                "x1": 2653,
+                "y1": 2999
+            },
+            "class": "headline",
+            "raw_text": "Baby Sitter\nWages Must\nbe Reported",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1164,
+                "y0": 341,
+                "x1": 1981,
+                "y1": 1511
+            },
+            "class": "article",
+            "raw_text": "a lot of fun; some of the events\nthat will make this fun packed\nweekend for you are: Suncerays'\nNew Years Eve Dance at the\nMasonic Temple, and WV, Post\nITO, matinee Sunday, Jan 3,\nfrom At pm.\n\n\nThe Debonairs Social and Art\nClub members are looking into\nIS for their annual Thank You\nParty which is strictly formal.\nThey say that Everything on the\nInside Is On Usr'\n\n\nLet's start our New Year off\nright this year and each OF us\ngo to the church of our choice\nfor New Years service and pray\nfor peace and prosperity in IS.\n\n\nThought of the Week: LETS\nLive and Let Live\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 250,
+                "y0": 654,
+                "x1": 1072,
+                "y1": 2362
+            },
+            "class": "article",
+            "raw_text": "A birthday party was given in\nthe honor of Inez Freeman, at\nthe home of Mrs. Clara WEIGH.\n\n\nEsther Mae Wright, Los An\ngeles, formerly of Phoenix, Wis\ntied here with relatives and\nfriends during the Christmas\nHolidays.\n\n\nHats Off to the Kappas for a\nwonderful time during the Black\nand White formal. A fun packed\nevening was enjoyed by many.\n\n\nMr.. and Mrs. Plea SAINT c. John\nson, 1925 East Coronado. were\nfavored with two carloads of rel\natives from the South.\n\n\nMIR. Cuss Hodge gave COM\nbination Christmas and Birth\nday party for his wife, lnez Hodge,\non December 23rd, at their home\nat 1889 w. Maricopa. Among the\nmany local and out of town guests\nwere Sgt. Larry Melton. Luke\nAFB, StanleyDe vereaux, Tucson,\nMrs. Lula Mae Ross, Sierra\nVista, and Sgt. and Mrs. Levin\nRease, Kirkland AFB.\n\n\nThis week end will be filled\nfor everyone who wants to have",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 290,
+                "y0": 376,
+                "x1": 667,
+                "y1": 475
+            },
+            "class": "headline",
+            "raw_text": "All Around",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 307,
+                "y0": 497,
+                "x1": 835,
+                "y1": 556
+            },
+            "class": "author",
+            "raw_text": "BY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 278,
+                "y0": 4839,
+                "x1": 1090,
+                "y1": 5580
+            },
+            "class": "article",
+            "raw_text": "The Pageant, which will run\nthrough January ; and last year\nattracted over 500, 900 visitors,\nis syniboliZcd by the 72-foot\nNational Christmas Tree\n\n\nFifty-thrce l2-foot trees\nrepresenting each state plus the\nDistrict Of Columbia. Guam and\nPuerto Rico flank Il Pathway\nof Peace leading to the national\ntree.\n\n\nEach of the SO trees gliStcnS\nwith $50 blue, green and white\nChristmas lights. and $50 flood\nlights in the same cOlorS. More",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1129,
+                "y0": 4833,
+                "x1": 1946,
+                "y1": 5569
+            },
+            "class": "article",
+            "raw_text": "than 5000 red and white dccora-\ntive lights bring out the gay\nhighliGhtS of the national tree.\n\n\nThe special lighting effects\nfor the entire Pageant of Peace.\nincluding the huge national tree.\ndesigned by General Electric re-\nquired more than $4,000 lights.\nalso supplied by G.E.\n\n\nThe Pageant Of Peace is Spon-\nsorcd by civic and governmental\nagencies in Washington. The\nNational Christmas Tree was\nsupplied by the State of New\nYork.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1164,
+                "y0": 1580,
+                "x1": 1981,
+                "y1": 2356
+            },
+            "class": "article",
+            "raw_text": "Arizona has over 700 Stand\nard OIL Company Indiana stock\nholders. Indiana Standard, head\nquartered at Chicago. has over\n$4,000 stockholders worldwide.\n\n\nI find. it best not to tell peo-\npie your troubles. Halt OF\nthem are not interested, and\nthe other half are glad you\nare getting what's coming to\nyou.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964123101_0692",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Baby Sitter\nWages Must\nbe Reported",
+            "article": "Many persons do not know\nearnings of baby sitters in pri-\nvate homes must be reported and\nsocial security taxes be paid if\ntheir earnings from one employer\ntotals $50 cash paid in any cal\nendar quarter, Harry Holland,\nsocial security district manager\nhere said.\n\n\nBabysitters or other workers\nin a private home (such as maids,\ncooks, gardeners, and etc. who\nwork for the same employer\nenough to earn at lea st 81 week\nhave the same protection under\nthe law as workers in commerce\nand industry. An employee is\nnever too young or too old to\nbe covered under social security,\nHolland said.\n\n\nEvery employer who has\nhousehold help that meets this\nrequirement should:\n\n\n/. Make a record of the en-\nployee' S social security number.\n\n\n2. Deduct social security taxes\nfrom the employee earnings\neach week or payday.\n\n\n8. File the quarterly report\nwith Internal Revenue Service\nincluding both the employee S and\nemployer S share of the tax.\n\n\nDomestic employees or en-\nployers who wish additional in\nformation about social security\nprotection or filing of the quar-\nterly reports should contact the\nsocial security office at 1900\nN. Central Ave., or the nearest\nrepre- sentative of Internal\nRevenue Service.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2084,
+                    "y0": 2639,
+                    "x1": 2653,
+                    "y1": 2999
+                },
+                {
+                    "x0": 2044,
+                    "y0": 3056,
+                    "x1": 2873,
+                    "y1": 5482
+                }
+            ],
+            "bbox": [
+                2044,
+                2639,
+                2873,
+                5482
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-12-31_pna_sn84021918_0041421695A_1964123101_0692.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "a lot of fun; some of the events\nthat will make this fun packed\nweekend for you are: Suncerays'\nNew Years Eve Dance at the\nMasonic Temple, and WV, Post\nITO, matinee Sunday, Jan 3,\nfrom At pm.\n\n\nThe Debonairs Social and Art\nClub members are looking into\nIS for their annual Thank You\nParty which is strictly formal.\nThey say that Everything on the\nInside Is On Usr'\n\n\nLet's start our New Year off\nright this year and each OF us\ngo to the church of our choice\nfor New Years service and pray\nfor peace and prosperity in IS.\n\n\nThought of the Week: LETS\nLive and Let Live\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1164,
+                    "y0": 341,
+                    "x1": 1981,
+                    "y1": 1511
+                }
+            ],
+            "bbox": [
+                1164,
+                341,
+                1981,
+                1511
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-31_pna_sn84021918_0041421695A_1964123101_0692.json"
+        },
+        {
+            "object_ids": [
+                16,
+                17,
+                6
+            ],
+            "headline": "All Around",
+            "article": "A birthday party was given in\nthe honor of Inez Freeman, at\nthe home of Mrs. Clara WEIGH.\n\n\nEsther Mae Wright, Los An\ngeles, formerly of Phoenix, Wis\ntied here with relatives and\nfriends during the Christmas\nHolidays.\n\n\nHats Off to the Kappas for a\nwonderful time during the Black\nand White formal. A fun packed\nevening was enjoyed by many.\n\n\nMr.. and Mrs. Plea SAINT c. John\nson, 1925 East Coronado. were\nfavored with two carloads of rel\natives from the South.\n\n\nMIR. Cuss Hodge gave COM\nbination Christmas and Birth\nday party for his wife, lnez Hodge,\non December 23rd, at their home\nat 1889 w. Maricopa. Among the\nmany local and out of town guests\nwere Sgt. Larry Melton. Luke\nAFB, StanleyDe vereaux, Tucson,\nMrs. Lula Mae Ross, Sierra\nVista, and Sgt. and Mrs. Levin\nRease, Kirkland AFB.\n\n\nThis week end will be filled\nfor everyone who wants to have",
+            "byline": "BY FLORA RUFFIN",
+            "bbox_list": [
+                {
+                    "x0": 290,
+                    "y0": 376,
+                    "x1": 667,
+                    "y1": 475
+                },
+                {
+                    "x0": 307,
+                    "y0": 497,
+                    "x1": 835,
+                    "y1": 556
+                },
+                {
+                    "x0": 250,
+                    "y0": 654,
+                    "x1": 1072,
+                    "y1": 2362
+                }
+            ],
+            "bbox": [
+                250,
+                376,
+                1072,
+                2362
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-31_pna_sn84021918_0041421695A_1964123101_0692.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "The Pageant, which will run\nthrough January ; and last year\nattracted over 500, 900 visitors,\nis syniboliZcd by the 72-foot\nNational Christmas Tree\n\n\nFifty-thrce l2-foot trees\nrepresenting each state plus the\nDistrict Of Columbia. Guam and\nPuerto Rico flank Il Pathway\nof Peace leading to the national\ntree.\n\n\nEach of the SO trees gliStcnS\nwith $50 blue, green and white\nChristmas lights. and $50 flood\nlights in the same cOlorS. More",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 278,
+                    "y0": 4839,
+                    "x1": 1090,
+                    "y1": 5580
+                }
+            ],
+            "bbox": [
+                278,
+                4839,
+                1090,
+                5580
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-12-31_pna_sn84021918_0041421695A_1964123101_0692.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "than 5000 red and white dccora-\ntive lights bring out the gay\nhighliGhtS of the national tree.\n\n\nThe special lighting effects\nfor the entire Pageant of Peace.\nincluding the huge national tree.\ndesigned by General Electric re-\nquired more than $4,000 lights.\nalso supplied by G.E.\n\n\nThe Pageant Of Peace is Spon-\nsorcd by civic and governmental\nagencies in Washington. The\nNational Christmas Tree was\nsupplied by the State of New\nYork.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1129,
+                    "y0": 4833,
+                    "x1": 1946,
+                    "y1": 5569
+                }
+            ],
+            "bbox": [
+                1129,
+                4833,
+                1946,
+                5569
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-12-31_pna_sn84021918_0041421695A_1964123101_0692.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Arizona has over 700 Stand\nard OIL Company Indiana stock\nholders. Indiana Standard, head\nquartered at Chicago. has over\n$4,000 stockholders worldwide.\n\n\nI find. it best not to tell peo-\npie your troubles. Halt OF\nthem are not interested, and\nthe other half are glad you\nare getting what's coming to\nyou.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1164,
+                    "y0": 1580,
+                    "x1": 1981,
+                    "y1": 2356
+                }
+            ],
+            "bbox": [
+                1164,
+                1580,
+                1981,
+                2356
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-12-31_pna_sn84021918_0041421695A_1964123101_0692.json"
+        }
+    ]
+}

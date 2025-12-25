@@ -1,0 +1,231 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964060501/0424.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4918
+    },
+    "bboxes": [
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 303,
+                "y0": 2265,
+                "x1": 2003,
+                "y1": 2890
+            },
+            "class": "article",
+            "raw_text": "Girl Scouts nvesiure\nChurch. Fri. May %. Troop 7l2 presented.\n\n\nMrs. Marie Thomas junior leader and Mrs. Veronica\nis cadete leader.\n\n\nRev. L. K. Williams. pastor presented short talk\n\n\nPictured the Girl Scouts service Mrs. Sacdo, cadee\nleader. Mrs. c. Thomas. Mrs. Colbert Crystal\nMrs. B. Weber, Rev. l.. K. Williams, Bertha Sacdo\nWhitfield Gail Wade Clara Watkins Rosemary MITCHELL\n",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3002,
+                "y0": 3883,
+                "x1": 3823,
+                "y1": 4410
+            },
+            "class": "article",
+            "raw_text": "MIAMI, Florida A Negro\nteacher was reinstated after his\nsuspension for pulling switch\nblade knife on a group of young\nthugs who broke into his junior\nhigh school class last February.\n\n\nCecil j. Harris stated he had\nacted in self defense when a tough\ngroup entered the school, an all",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3262,
+                "y0": 3652,
+                "x1": 4361,
+                "y1": 3861
+            },
+            "class": "headline",
+            "raw_text": "Teacher Reinsfufed After\nSuspension In Fig hit",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2083,
+                "y0": 826,
+                "x1": 2916,
+                "y1": 4970
+            },
+            "class": "article",
+            "raw_text": "Dodowah, Ghana----\"I never\ndreamed l would be doing push\nups at $3.50 in the morning, and by\nflashlight at that\" said Ford T.\nJohnson. school sportsmaster at\nChanata Secondary School.\n\n\nJohns on, a Peace Corps volun-\nteer from Richmond, Virginia.\nis a graduate of Virginia Union\nUniversity and former student\nat Atlanta's Morehouse College.\n\n\nIn addition to the sports pro-\ngram, he teaches classroom\nchemistry and mathematics.\n\n\nThe twenty-two-year-oldVir-\nginian has built sports stadium,\ncomposed of an oval track with\nfield facilities for broad and high\njumping, and a basketball court.\nHe was so eager to finish his\nproject. he worked through last\nsummers vacation to put on\nthe finishing touches.\n\n\nHe enjoys teaching and is fond\nof the students. \"They are highly\nreceptive\" he says, although\nthey're Independent about any\nthing they don't like. Like STU\ndents everywhere else. they are\na bit lazy at times\" he added.\n\n\nLast year he concentrated on\nteaching maths\" as it is called.\nThis year. he is specializing in\nchemistry courses.\n\n\nIn addition to these RESPONSE\nbilities, the enthusiastic Peace\nCorpsman organized the Ghana\nSchool Cultural Society Club\nwhich participates in dancing.\nplays, debates and other activi-\nties for broadening the students\nhorizon on world affairs.\n\n\nJohnson likes dramatics and Is\na member Of Accra, Ghana's\nPlayers Guild. He recently\nplayed Walter Lee in their pre-\nsentation of \"Raisin in the Sum-\"\n\n\nJohns on is happy to be inG hana.\ncts a great feeling to be in a\ndeveloping country making sig\nnificant contribution to its\ngrowth\" he says enthusiastic\nally.\n\n\n\"This experience Is rewarding\nin so many ways. The travel is\nbroadening my perspective and\ncreating a different sense of\nvalues for me-\" he adds. From\nanother part of the world. one\ncan see America from the outside\nand get a total view of the home\nland. Actually. 1t makes you want\nto see more of the world.\n\n\nIL haven't regretted moment\nof this opportunity\"\n\n\nJohnson is one of more than\n1000 Peace Corps Volunteers in\n46 countries throughout the\nworld.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2146,
+                "y0": 468,
+                "x1": 2720,
+                "y1": 781
+            },
+            "class": "headline",
+            "raw_text": "Former Musician\nTeaching N 9th\n\n\nIn Peace Corps",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3880,
+                "y0": 3883,
+                "x1": 4690,
+                "y1": 4404
+            },
+            "class": "article",
+            "raw_text": "Negro one, and threatened pupils.\n\n\nThe teacher said one of the gang\nlooked like twenty-five year old\ncriminal.\n\n\nThe school board voted unani-\nmously to reinstate Harris. The\nboards attorney. G. A. Bolles\nsaid he had gone too gar in his\nactions.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-05"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Girl Scouts nvesiure\nChurch. Fri. May %. Troop 7l2 presented.\n\n\nMrs. Marie Thomas junior leader and Mrs. Veronica\nis cadete leader.\n\n\nRev. L. K. Williams. pastor presented short talk\n\n\nPictured the Girl Scouts service Mrs. Sacdo, cadee\nleader. Mrs. c. Thomas. Mrs. Colbert Crystal\nMrs. B. Weber, Rev. l.. K. Williams, Bertha Sacdo\nWhitfield Gail Wade Clara Watkins Rosemary MITCHELL\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 303,
+                    "y0": 2265,
+                    "x1": 2003,
+                    "y1": 2890
+                }
+            ],
+            "bbox": [
+                303,
+                2265,
+                2003,
+                2890
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-06-05_p1_sn84021918_0041421695A_1964060501_0424.json"
+        },
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "Teacher Reinsfufed After\nSuspension In Fig hit",
+            "article": "MIAMI, Florida A Negro\nteacher was reinstated after his\nsuspension for pulling switch\nblade knife on a group of young\nthugs who broke into his junior\nhigh school class last February.\n\n\nCecil j. Harris stated he had\nacted in self defense when a tough\ngroup entered the school, an all",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3262,
+                    "y0": 3652,
+                    "x1": 4361,
+                    "y1": 3861
+                },
+                {
+                    "x0": 3002,
+                    "y0": 3883,
+                    "x1": 3823,
+                    "y1": 4410
+                }
+            ],
+            "bbox": [
+                3002,
+                3652,
+                4361,
+                4410
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-05_p1_sn84021918_0041421695A_1964060501_0424.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "Former Musician\nTeaching N 9th\n\n\nIn Peace Corps",
+            "article": "Dodowah, Ghana----\"I never\ndreamed l would be doing push\nups at $3.50 in the morning, and by\nflashlight at that\" said Ford T.\nJohnson. school sportsmaster at\nChanata Secondary School.\n\n\nJohns on, a Peace Corps volun-\nteer from Richmond, Virginia.\nis a graduate of Virginia Union\nUniversity and former student\nat Atlanta's Morehouse College.\n\n\nIn addition to the sports pro-\ngram, he teaches classroom\nchemistry and mathematics.\n\n\nThe twenty-two-year-oldVir-\nginian has built sports stadium,\ncomposed of an oval track with\nfield facilities for broad and high\njumping, and a basketball court.\nHe was so eager to finish his\nproject. he worked through last\nsummers vacation to put on\nthe finishing touches.\n\n\nHe enjoys teaching and is fond\nof the students. \"They are highly\nreceptive\" he says, although\nthey're Independent about any\nthing they don't like. Like STU\ndents everywhere else. they are\na bit lazy at times\" he added.\n\n\nLast year he concentrated on\nteaching maths\" as it is called.\nThis year. he is specializing in\nchemistry courses.\n\n\nIn addition to these RESPONSE\nbilities, the enthusiastic Peace\nCorpsman organized the Ghana\nSchool Cultural Society Club\nwhich participates in dancing.\nplays, debates and other activi-\nties for broadening the students\nhorizon on world affairs.\n\n\nJohnson likes dramatics and Is\na member Of Accra, Ghana's\nPlayers Guild. He recently\nplayed Walter Lee in their pre-\nsentation of \"Raisin in the Sum-\"\n\n\nJohns on is happy to be inG hana.\ncts a great feeling to be in a\ndeveloping country making sig\nnificant contribution to its\ngrowth\" he says enthusiastic\nally.\n\n\n\"This experience Is rewarding\nin so many ways. The travel is\nbroadening my perspective and\ncreating a different sense of\nvalues for me-\" he adds. From\nanother part of the world. one\ncan see America from the outside\nand get a total view of the home\nland. Actually. 1t makes you want\nto see more of the world.\n\n\nIL haven't regretted moment\nof this opportunity\"\n\n\nJohnson is one of more than\n1000 Peace Corps Volunteers in\n46 countries throughout the\nworld.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2146,
+                    "y0": 468,
+                    "x1": 2720,
+                    "y1": 781
+                },
+                {
+                    "x0": 2083,
+                    "y0": 826,
+                    "x1": 2916,
+                    "y1": 4970
+                }
+            ],
+            "bbox": [
+                2083,
+                468,
+                2916,
+                4970
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-05_p1_sn84021918_0041421695A_1964060501_0424.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Negro one, and threatened pupils.\n\n\nThe teacher said one of the gang\nlooked like twenty-five year old\ncriminal.\n\n\nThe school board voted unani-\nmously to reinstate Harris. The\nboards attorney. G. A. Bolles\nsaid he had gone too gar in his\nactions.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3880,
+                    "y0": 3883,
+                    "x1": 4690,
+                    "y1": 4404
+                }
+            ],
+            "bbox": [
+                3880,
+                3883,
+                4690,
+                4404
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-05_p1_sn84021918_0041421695A_1964060501_0424.json"
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7428,
+        "width": 4753,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964010301/0245.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2863,
+                "y0": 5930,
+                "x1": 3671,
+                "y1": 7104
+            },
+            "class": "article",
+            "raw_text": "E. D. Eddington, AZ, of 1909\nE. Adams, has been placed on\nsix months probation after being\ncredited with l9 months of time\nserved in Arizona State Prison\non a jury conviction of assault\nwith deadly weapon.\n\n\nEddington pleaded guilty to re-\nsisting arrest, and the county\nattorney S office dropped the as\nsault with a deadly weapon charge\non which the Arizona Supreme\nCourt has ordered new trial.\n\n\nThe defendant had been &C\ncused of shooting Arnold James\nBishop, IS, on May 8, 1862, as\nthey argued outside a tavern at\n1914 E. Washington. Bishop was\nhospitalized in critical condition\nbut recovered.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2887,
+                "y0": 5756,
+                "x1": 3538,
+                "y1": 5902
+            },
+            "class": "headline",
+            "raw_text": "EDDINGTON\nGETS PROBATION",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1970,
+                "y0": 5112,
+                "x1": 2795,
+                "y1": 7115
+            },
+            "class": "article",
+            "raw_text": "PINE BLUFF, Ark. The mar\nriage of two SNCC workers here\nhas been called ga deliberate,\ndirect dis-service to the white\nand colored people of our state\nby the State Attorney General.\n\n\nAttorney General Bruce Ben\nnet said of the newly-wed: &C..\n....neither of these people works\nfor living, but are paid by the\nStudent Non-violent Coordinating\nCommittee, which is a trouble\nmaking organization\n\n\nThe two--Mr. and Mrs. Will\nliam Hansen--were married in\nCincinnati, Ohio, on October IL.\nHansen is white and Mrs. Han\nsen, the former Ruthie Buffing-\nton, is Negro.\n\n\nInter-racial weddings are IL\nlegal in Arkansas.\n\n\nHansen has been in Pine Bluff\nsince December, 1862. He helped\nform the Pine Bluff Movement,\nand involved students at Arkan-\nsas AMIN in sit-in demonstra-\ntons. Mrs. Hansen, one of the\nstudents, was, with ten others,\nsuspended from school on Feb\nruary Is.\n\n\nViolation of the state law S\nagainst mixed marriages Is pun\nishable by a fine and a one\nyear Jail sentence.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2858,
+                "y0": 4630,
+                "x1": 3665,
+                "y1": 5734
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA The NAACP\nbranch here called for picket\ning of the proposed football game\nbetween Mississippi State and\nNorth Carolina State to be played\nin the Liberty Bowl here.\n\n\nIn calling for this action, Cecil\nB. Moore, president of the branch\npointed to the fact that Negro cit\nliens, whose taxes help support\nthe stadium, are denied admis-\nsion to Mississippi State and are\nunwelcomed at either institution.\n\n\nIn addition to its implications\nfor civil rights and race relations\nthe Mississippi State VS.. North\nCarolina State game has no draw\ning power in Philadelphia, he\nadded.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2881,
+                "y0": 4462,
+                "x1": 3526,
+                "y1": 4608
+            },
+            "class": "headline",
+            "raw_text": "NAACP TOLEAD\n\n\nBOWL PICkETING",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3746,
+                "y0": 4770,
+                "x1": 4559,
+                "y1": 7011
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON-The civil rights\nmarch on Washington last Aug.\n% cost the taxpayers $805 900\nRep. George Huddleston Jr., D.\nAla, reported.\n\n\nHe asked Comptroller General\nJoseph Campbell the day of the\nmarch for an account of its cost\nto the government.\n\n\nCampbell has reported to him\nthat \"out-of-pocket costs and\ndiversion costs to the District\nof Columbia government and the\nDepartment of Defense totaled\n$225, 900, Huddlestone said.\n\n\nelm addition, administrative\nleave costs to government agen-\ncies in the area took another\n$55O,0OO from our taxpayers,\nbringing the estimated total to\n$8O5, OOO,\" Huddleston said.\n\n\n\"This figure of $805, 900 does\nnot include some SIS, 900 for food\nprovided to policemen on duty\nwhich the district refused to pay\nfor because it was spoiled: cost\nincurred by the district in the\namount of $4,000 in the value\nof overtime work performed by\nuniformed personnel on their\nregular workday, for which no\ncompensation is authorized by\nlaw or the estimated amount of\nlosses of sales tax revenue to the\ndistrict of $4,000 to $45, 900\nand parking meter revenue los\nses estimated at $780,\" Hud-\ndleston said.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3757,
+                "y0": 4578,
+                "x1": 4460,
+                "y1": 4742
+            },
+            "class": "headline",
+            "raw_text": "CIVIL RIGHTS\n\n\nMARCH COST TOLD",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 223,
+                "y0": 6569,
+                "x1": 1901,
+                "y1": 7121
+            },
+            "class": "article",
+            "raw_text": "pupils of Miss Melissa Cayton honored\nChristmas party last week.\n\n\nFrom left George Washington Christina and Zebra Hankn\nBarbara Golfer Frances Carraway and Robert Carraway\nMiss Cayton shown a the back to the left.\nThe party held al home at 5044 S. 81 Place.\n\n\nARIZONA TRIBUNE ADVERTISERS\n\n\nWELCOME YOU EVERY DAY. -.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964010301_0245",
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "EDDINGTON\nGETS PROBATION",
+            "article": "E. D. Eddington, AZ, of 1909\nE. Adams, has been placed on\nsix months probation after being\ncredited with l9 months of time\nserved in Arizona State Prison\non a jury conviction of assault\nwith deadly weapon.\n\n\nEddington pleaded guilty to re-\nsisting arrest, and the county\nattorney S office dropped the as\nsault with a deadly weapon charge\non which the Arizona Supreme\nCourt has ordered new trial.\n\n\nThe defendant had been &C\ncused of shooting Arnold James\nBishop, IS, on May 8, 1862, as\nthey argued outside a tavern at\n1914 E. Washington. Bishop was\nhospitalized in critical condition\nbut recovered.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2887,
+                    "y0": 5756,
+                    "x1": 3538,
+                    "y1": 5902
+                },
+                {
+                    "x0": 2863,
+                    "y0": 5930,
+                    "x1": 3671,
+                    "y1": 7104
+                }
+            ],
+            "bbox": [
+                2863,
+                5756,
+                3671,
+                7104
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-03_pna_sn84021918_0041421695A_1964010301_0245.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "PINE BLUFF, Ark. The mar\nriage of two SNCC workers here\nhas been called ga deliberate,\ndirect dis-service to the white\nand colored people of our state\nby the State Attorney General.\n\n\nAttorney General Bruce Ben\nnet said of the newly-wed: &C..\n....neither of these people works\nfor living, but are paid by the\nStudent Non-violent Coordinating\nCommittee, which is a trouble\nmaking organization\n\n\nThe two--Mr. and Mrs. Will\nliam Hansen--were married in\nCincinnati, Ohio, on October IL.\nHansen is white and Mrs. Han\nsen, the former Ruthie Buffing-\nton, is Negro.\n\n\nInter-racial weddings are IL\nlegal in Arkansas.\n\n\nHansen has been in Pine Bluff\nsince December, 1862. He helped\nform the Pine Bluff Movement,\nand involved students at Arkan-\nsas AMIN in sit-in demonstra-\ntons. Mrs. Hansen, one of the\nstudents, was, with ten others,\nsuspended from school on Feb\nruary Is.\n\n\nViolation of the state law S\nagainst mixed marriages Is pun\nishable by a fine and a one\nyear Jail sentence.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 5112,
+                    "x1": 2795,
+                    "y1": 7115
+                }
+            ],
+            "bbox": [
+                1970,
+                5112,
+                2795,
+                7115
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-03_pna_sn84021918_0041421695A_1964010301_0245.json"
+        },
+        {
+            "object_ids": [
+                10,
+                7
+            ],
+            "headline": "NAACP TOLEAD\n\n\nBOWL PICkETING",
+            "article": "PHILADELPHIA The NAACP\nbranch here called for picket\ning of the proposed football game\nbetween Mississippi State and\nNorth Carolina State to be played\nin the Liberty Bowl here.\n\n\nIn calling for this action, Cecil\nB. Moore, president of the branch\npointed to the fact that Negro cit\nliens, whose taxes help support\nthe stadium, are denied admis-\nsion to Mississippi State and are\nunwelcomed at either institution.\n\n\nIn addition to its implications\nfor civil rights and race relations\nthe Mississippi State VS.. North\nCarolina State game has no draw\ning power in Philadelphia, he\nadded.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2881,
+                    "y0": 4462,
+                    "x1": 3526,
+                    "y1": 4608
+                },
+                {
+                    "x0": 2858,
+                    "y0": 4630,
+                    "x1": 3665,
+                    "y1": 5734
+                }
+            ],
+            "bbox": [
+                2858,
+                4462,
+                3665,
+                5734
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-03_pna_sn84021918_0041421695A_1964010301_0245.json"
+        },
+        {
+            "object_ids": [
+                11,
+                8
+            ],
+            "headline": "CIVIL RIGHTS\n\n\nMARCH COST TOLD",
+            "article": "WASHINGTON-The civil rights\nmarch on Washington last Aug.\n% cost the taxpayers $805 900\nRep. George Huddleston Jr., D.\nAla, reported.\n\n\nHe asked Comptroller General\nJoseph Campbell the day of the\nmarch for an account of its cost\nto the government.\n\n\nCampbell has reported to him\nthat \"out-of-pocket costs and\ndiversion costs to the District\nof Columbia government and the\nDepartment of Defense totaled\n$225, 900, Huddlestone said.\n\n\nelm addition, administrative\nleave costs to government agen-\ncies in the area took another\n$55O,0OO from our taxpayers,\nbringing the estimated total to\n$8O5, OOO,\" Huddleston said.\n\n\n\"This figure of $805, 900 does\nnot include some SIS, 900 for food\nprovided to policemen on duty\nwhich the district refused to pay\nfor because it was spoiled: cost\nincurred by the district in the\namount of $4,000 in the value\nof overtime work performed by\nuniformed personnel on their\nregular workday, for which no\ncompensation is authorized by\nlaw or the estimated amount of\nlosses of sales tax revenue to the\ndistrict of $4,000 to $45, 900\nand parking meter revenue los\nses estimated at $780,\" Hud-\ndleston said.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3757,
+                    "y0": 4578,
+                    "x1": 4460,
+                    "y1": 4742
+                },
+                {
+                    "x0": 3746,
+                    "y0": 4770,
+                    "x1": 4559,
+                    "y1": 7011
+                }
+            ],
+            "bbox": [
+                3746,
+                4578,
+                4559,
+                7011
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-03_pna_sn84021918_0041421695A_1964010301_0245.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "pupils of Miss Melissa Cayton honored\nChristmas party last week.\n\n\nFrom left George Washington Christina and Zebra Hankn\nBarbara Golfer Frances Carraway and Robert Carraway\nMiss Cayton shown a the back to the left.\nThe party held al home at 5044 S. 81 Place.\n\n\nARIZONA TRIBUNE ADVERTISERS\n\n\nWELCOME YOU EVERY DAY. -.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 223,
+                    "y0": 6569,
+                    "x1": 1901,
+                    "y1": 7121
+                }
+            ],
+            "bbox": [
+                223,
+                6569,
+                1901,
+                7121
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-01-03_pna_sn84021918_0041421695A_1964010301_0245.json"
+        }
+    ]
+}

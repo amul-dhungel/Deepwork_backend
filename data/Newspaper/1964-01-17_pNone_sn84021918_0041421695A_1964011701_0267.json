@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7487,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011701/0267.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3694,
+                "y0": 2088,
+                "x1": 4514,
+                "y1": 3475
+            },
+            "class": "article",
+            "raw_text": "A graduate OF the university OF\nArkansas Law School. Sawyer,\nAs, has been a resident Of Ari-\nIONA since 1855. After serving as\na pilot in the US. Navy with\nthe rank of Lieutenant (jg) from\n1912 to 1916. he went with the\nVeterans Administration in\nWashington, DC. AS member\nof the VA's Chief Attorney staff,\nSawyer handled assignments in\nWashington and Denver. Colo.\nHe resigned his VA post in 1853\nto go with the Equitable Life\nAssurance Society. He trans\nferred to Phoenix and remained\nwith the insurance fem until 1857\nwhen, for two years prior to his\npresent utilization with the Brew\ners Association, he served as\nExecutive Secretary Of the Mus\ncular Dystrophy Association for\nArizona, New Mexico, and Ell\nPaso.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1921,
+                "y0": 2164,
+                "x1": 2747,
+                "y1": 2720
+            },
+            "class": "article",
+            "raw_text": "The most taxed country Is\nHolland, where an unmarried man\nwith a $500 year income pays\n800 per cent in taxes. However,\nthe bite on the rich does not\nexceed 72.4 per cent compared\nwith top rates of OIL per cent\nin the United Kingdom in 1850\n81 and 90 per cent in the US.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1921,
+                "y0": 1906,
+                "x1": 2659,
+                "y1": 2135
+            },
+            "class": "headline",
+            "raw_text": "US A. IS NOT\n\n\nTHE MOST.TAXED\nCOUNTRY IN WORLD",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3694,
+                "y0": 3661,
+                "x1": 4531,
+                "y1": 4007
+            },
+            "class": "article",
+            "raw_text": "As late as 1914, the slim waist\nline was considered top form for\na gentleman. In both London and\nParis, those not favored with mar\nrow waists wore corsets. Wonder\nhow they laundered their girdles!",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 143,
+                "y0": 1871,
+                "x1": 1841,
+                "y1": 2562
+            },
+            "class": "article",
+            "raw_text": "held at Pilgrim Rest Baptist Church.\nl4I7 E. Madison, Sunday afternoon JAM IL at 8 pm.\n\n\nChurch organizations the church steering committees we're well\nrepresented by officers attending and receiving their charges\n\n\nShown Mary Lee Ann Moody Mae Dean john\nSON. Vera Little Harris Rev. James Abraham\nSam Lott Aur ardwick, r Allen Nelson and Lawyer cker\n\n\nabove include Linda Hardvck Lavonne Lee Andy\nTurner lanes White Mary Hail. Sharon Patterson Mae Wes-\nlev Johnnie Strickland Turner, Dorothy Mcdaniel O. L.\nGaines, John and Charles Jackson.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2834,
+                "y0": 3685,
+                "x1": 3636,
+                "y1": 4101
+            },
+            "class": "article",
+            "raw_text": "Replacing aweather-worn roof?\nA new roof of durable asphalt\nshingles in one of the new shades\nnow available will give a lift to\nthe appearance Of the entire\nhouse, in addition to providing\nyears of protection In all weather",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2945,
+                "y0": 3597,
+                "x1": 3531,
+                "y1": 3668
+            },
+            "class": "headline",
+            "raw_text": "ROOF LIFTS HOUSE",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2816,
+                "y0": 2070,
+                "x1": 3642,
+                "y1": 3545
+            },
+            "class": "article",
+            "raw_text": "NEW YORK. MY. Henry\nB. King president, United States\nBrewers Association announced\nthe appointment of William A.\nSawyer, of Phoenix, as state\nrepresentative and legal repre-\nsentative for Arizona. Sawyer,\nwho has been the USBA Legal\nRepresentative since 1859, as\nsumes the former position, re-\nplacing Morley E. Fox, who has\nresigned.\n\n\nThe USBA, which has had rep\nresentation in Arizona since 1910\nis a national trade association Of\nthe brewing industry. Its purpose\nis to promote broader public\nunderstanding of the industry S\nplace in American life and bus\nmess. Sawyer will continue to\nmaintain contacts with state and\nlocal public officials, law en-\nforcement authorities and the\npress, as we'll as with brewers,\nbeer wholesalers and retailers.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3115,
+                "y0": 1895,
+                "x1": 4192,
+                "y1": 2042
+            },
+            "class": "headline",
+            "raw_text": "USBA NAMES SAWYER\nAS STATE REPRESENTATIVE",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964011701_0267",
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "A graduate OF the university OF\nArkansas Law School. Sawyer,\nAs, has been a resident Of Ari-\nIONA since 1855. After serving as\na pilot in the US. Navy with\nthe rank of Lieutenant (jg) from\n1912 to 1916. he went with the\nVeterans Administration in\nWashington, DC. AS member\nof the VA's Chief Attorney staff,\nSawyer handled assignments in\nWashington and Denver. Colo.\nHe resigned his VA post in 1853\nto go with the Equitable Life\nAssurance Society. He trans\nferred to Phoenix and remained\nwith the insurance fem until 1857\nwhen, for two years prior to his\npresent utilization with the Brew\ners Association, he served as\nExecutive Secretary Of the Mus\ncular Dystrophy Association for\nArizona, New Mexico, and Ell\nPaso.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3694,
+                    "y0": 2088,
+                    "x1": 4514,
+                    "y1": 3475
+                }
+            ],
+            "bbox": [
+                3694,
+                2088,
+                4514,
+                3475
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-17_pna_sn84021918_0041421695A_1964011701_0267.json"
+        },
+        {
+            "object_ids": [
+                6,
+                2
+            ],
+            "headline": "US A. IS NOT\n\n\nTHE MOST.TAXED\nCOUNTRY IN WORLD",
+            "article": "The most taxed country Is\nHolland, where an unmarried man\nwith a $500 year income pays\n800 per cent in taxes. However,\nthe bite on the rich does not\nexceed 72.4 per cent compared\nwith top rates of OIL per cent\nin the United Kingdom in 1850\n81 and 90 per cent in the US.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1921,
+                    "y0": 1906,
+                    "x1": 2659,
+                    "y1": 2135
+                },
+                {
+                    "x0": 1921,
+                    "y0": 2164,
+                    "x1": 2747,
+                    "y1": 2720
+                }
+            ],
+            "bbox": [
+                1921,
+                1906,
+                2747,
+                2720
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-17_pna_sn84021918_0041421695A_1964011701_0267.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "As late as 1914, the slim waist\nline was considered top form for\na gentleman. In both London and\nParis, those not favored with mar\nrow waists wore corsets. Wonder\nhow they laundered their girdles!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3694,
+                    "y0": 3661,
+                    "x1": 4531,
+                    "y1": 4007
+                }
+            ],
+            "bbox": [
+                3694,
+                3661,
+                4531,
+                4007
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-17_pna_sn84021918_0041421695A_1964011701_0267.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "held at Pilgrim Rest Baptist Church.\nl4I7 E. Madison, Sunday afternoon JAM IL at 8 pm.\n\n\nChurch organizations the church steering committees we're well\nrepresented by officers attending and receiving their charges\n\n\nShown Mary Lee Ann Moody Mae Dean john\nSON. Vera Little Harris Rev. James Abraham\nSam Lott Aur ardwick, r Allen Nelson and Lawyer cker\n\n\nabove include Linda Hardvck Lavonne Lee Andy\nTurner lanes White Mary Hail. Sharon Patterson Mae Wes-\nlev Johnnie Strickland Turner, Dorothy Mcdaniel O. L.\nGaines, John and Charles Jackson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 143,
+                    "y0": 1871,
+                    "x1": 1841,
+                    "y1": 2562
+                }
+            ],
+            "bbox": [
+                143,
+                1871,
+                1841,
+                2562
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-17_pna_sn84021918_0041421695A_1964011701_0267.json"
+        },
+        {
+            "object_ids": [
+                13,
+                9
+            ],
+            "headline": "ROOF LIFTS HOUSE",
+            "article": "Replacing aweather-worn roof?\nA new roof of durable asphalt\nshingles in one of the new shades\nnow available will give a lift to\nthe appearance Of the entire\nhouse, in addition to providing\nyears of protection In all weather",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2945,
+                    "y0": 3597,
+                    "x1": 3531,
+                    "y1": 3668
+                },
+                {
+                    "x0": 2834,
+                    "y0": 3685,
+                    "x1": 3636,
+                    "y1": 4101
+                }
+            ],
+            "bbox": [
+                2834,
+                3597,
+                3636,
+                4101
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-17_pna_sn84021918_0041421695A_1964011701_0267.json"
+        },
+        {
+            "object_ids": [
+                11,
+                12
+            ],
+            "headline": "USBA NAMES SAWYER\nAS STATE REPRESENTATIVE",
+            "article": "NEW YORK. MY. Henry\nB. King president, United States\nBrewers Association announced\nthe appointment of William A.\nSawyer, of Phoenix, as state\nrepresentative and legal repre-\nsentative for Arizona. Sawyer,\nwho has been the USBA Legal\nRepresentative since 1859, as\nsumes the former position, re-\nplacing Morley E. Fox, who has\nresigned.\n\n\nThe USBA, which has had rep\nresentation in Arizona since 1910\nis a national trade association Of\nthe brewing industry. Its purpose\nis to promote broader public\nunderstanding of the industry S\nplace in American life and bus\nmess. Sawyer will continue to\nmaintain contacts with state and\nlocal public officials, law en-\nforcement authorities and the\npress, as we'll as with brewers,\nbeer wholesalers and retailers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3115,
+                    "y0": 1895,
+                    "x1": 4192,
+                    "y1": 2042
+                },
+                {
+                    "x0": 2816,
+                    "y0": 2070,
+                    "x1": 3642,
+                    "y1": 3545
+                }
+            ],
+            "bbox": [
+                2816,
+                1895,
+                4192,
+                3545
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-01-17_pna_sn84021918_0041421695A_1964011701_0267.json"
+        }
+    ]
+}

@@ -1,0 +1,470 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7465,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-08-28",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082801/0531.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3754,
+                "y0": 589,
+                "x1": 4566,
+                "y1": 2036
+            },
+            "class": "article",
+            "raw_text": "sion Of marijuana; Lilly Mae\nDavis, 81. Of l543 W. Maricopa,\nillegal sale Of heroin; Eugent\nJacobs, %. Of Avondale. illegal\nsale Of marijuana: and Willie\nJames ROLAND, AZ. Of 1919 E.\nWashington. illegal sale and\npossession of marijuana.\n\n\nWillie Floyd Canada, %. Of\n221S S. 10th ST.. and Ralph Glib\nson. So, of l9 S. 22nd ST., both\ncharged with illegal sale of mar\ntijuana. we're arrested earlier.\nCanada was being held in Flag\nstaff on forgery charges. Gibson\nwas in Maricopy County jail on a\ncharge of illegal possession of\nmarijuana.\n\n\nFirst (and only) President to be\ngiven the oath of office by his\nfather Calvin Coolidge Qst\nterm). His fathers name was\nJohn Calvin Coolidge.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3206,
+                "y0": 449,
+                "x1": 4193,
+                "y1": 560
+            },
+            "class": "headline",
+            "raw_text": "Dope Pvshers Arrested",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2874,
+                "y0": 594,
+                "x1": 3697,
+                "y1": 1645
+            },
+            "class": "article",
+            "raw_text": "Five suspected narcotics ped\ndlers were arrested last week In\na roundup which ended three\nmonths Of investigation, by state\nofficers.\n\n\nTwo others we're jailed prev\niously stated Capt. George Dow\nell of the State Department of\nLiquor control and more arrests\nwill be made. soon in order to halt\nthe flow of marc otics in the valley.\n\n\nThose arrested and the charges\nagainst them we're:\n\n\nMartin Duarte Romero,33, Of\nGuadalupe, illegal sale of mari\njuana, two counts; Davis An\nthony Moreno, FL, of Avandale,\nillegal sale and illegal posses",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 179,
+                "y0": 2542,
+                "x1": 991,
+                "y1": 2952
+            },
+            "class": "article",
+            "raw_text": "The Phoenix Junior Chamber\nOf Commerce will award more\nthan 40 prizes in its \" Kids Fish\ning Day Contest from 6 to 1880\nam. Sept. 7 at Encanto Park.\n\n\nThe contest is open to child\nrem between the ages of 6-13.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 208,
+                "y0": 2449,
+                "x1": 921,
+                "y1": 2532
+            },
+            "class": "headline",
+            "raw_text": "i FISHING CONTEST",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1071,
+                "y0": 2577,
+                "x1": 1889,
+                "y1": 2876
+            },
+            "class": "article",
+            "raw_text": "Mr.. and Mrs. Allen Taylor and\ntheir children, Bridget and Lon\nnell, of Sacramento, we're house.\nguest of Mr.. and Mrs. Booker T.\nSmith.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1077,
+                "y0": 2449,
+                "x1": 1667,
+                "y1": 2549
+            },
+            "class": "headline",
+            "raw_text": "VISITORS RETURN",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 191,
+                "y0": 2017,
+                "x1": 1889,
+                "y1": 2427
+            },
+            "class": "article",
+            "raw_text": "family reunion held last week the home Of\nJean Barnes S. 10Th ST. from left Mrs Alma Wash\nington Long Island Mrs. grand Mrs Barnes\nand Mrs. l. Scrven Of East Elmhurst N.Y. her mother\n\n\ntrip California planned for the visitors by Mrs. Barnes\nBoth Mrs. Washington and Mrs. Scriven said they liked the\npeacefuness N Valley of the Sum-",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2868,
+                "y0": 1807,
+                "x1": 3685,
+                "y1": 2036
+            },
+            "class": "article",
+            "raw_text": "Reading readiness test for first\ngraders will be given atSheraton\nPark Primary School, 46l5 S.\n22nd ST., Fri, Sept. 4, $3.50 am.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2885,
+                "y0": 1656,
+                "x1": 3347,
+                "y1": 1791
+            },
+            "class": "headline",
+            "raw_text": "Isf Graders\n\n\nTo Be Tested",
+            "legibility": "Questionable",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1970,
+                "y0": 3790,
+                "x1": 2787,
+                "y1": 4281
+            },
+            "class": "article",
+            "raw_text": "Horse Privileges Fast Po-\nsession BY owner, must sell,\nmake offer S29. 900 FILA ap-\npraisal, A bedroom, 2 baths,\nranch style on acre with horse\ncorral. Carpet. drapes, fire\nplace. built ms Low Down o4S-\n1919.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1952,
+                "y0": 3225,
+                "x1": 2775,
+                "y1": 3745
+            },
+            "class": "article",
+            "raw_text": "BY owner, Fenced corner\n\n\no6xl08, three bedroom, l 3/4\nbaths. Family room. built ms,\ncarpeting. covered patio. Walk\nRoosevelt elementary, South\nMountain High; shopping. FILA\nappraisal $4,000. $4OO down:\nassume $4,000 mortgage. 276-\n1912.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1975,
+                "y0": 2916,
+                "x1": 2583,
+                "y1": 3045
+            },
+            "class": "headline",
+            "raw_text": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -2
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1975,
+                "y0": 3120,
+                "x1": 2356,
+                "y1": 3202
+            },
+            "class": "headline",
+            "raw_text": "FOR SALE",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964082801_0531",
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "Dope Pvshers Arrested",
+            "article": "sion Of marijuana; Lilly Mae\nDavis, 81. Of l543 W. Maricopa,\nillegal sale Of heroin; Eugent\nJacobs, %. Of Avondale. illegal\nsale Of marijuana: and Willie\nJames ROLAND, AZ. Of 1919 E.\nWashington. illegal sale and\npossession of marijuana.\n\n\nWillie Floyd Canada, %. Of\n221S S. 10th ST.. and Ralph Glib\nson. So, of l9 S. 22nd ST., both\ncharged with illegal sale of mar\ntijuana. we're arrested earlier.\nCanada was being held in Flag\nstaff on forgery charges. Gibson\nwas in Maricopy County jail on a\ncharge of illegal possession of\nmarijuana.\n\n\nFirst (and only) President to be\ngiven the oath of office by his\nfather Calvin Coolidge Qst\nterm). His fathers name was\nJohn Calvin Coolidge.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3206,
+                    "y0": 449,
+                    "x1": 4193,
+                    "y1": 560
+                },
+                {
+                    "x0": 3754,
+                    "y0": 589,
+                    "x1": 4566,
+                    "y1": 2036
+                }
+            ],
+            "bbox": [
+                3206,
+                449,
+                4566,
+                2036
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "Five suspected narcotics ped\ndlers were arrested last week In\na roundup which ended three\nmonths Of investigation, by state\nofficers.\n\n\nTwo others we're jailed prev\niously stated Capt. George Dow\nell of the State Department of\nLiquor control and more arrests\nwill be made. soon in order to halt\nthe flow of marc otics in the valley.\n\n\nThose arrested and the charges\nagainst them we're:\n\n\nMartin Duarte Romero,33, Of\nGuadalupe, illegal sale of mari\njuana, two counts; Davis An\nthony Moreno, FL, of Avandale,\nillegal sale and illegal posses",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2874,
+                    "y0": 594,
+                    "x1": 3697,
+                    "y1": 1645
+                }
+            ],
+            "bbox": [
+                2874,
+                594,
+                3697,
+                1645
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "i FISHING CONTEST",
+            "article": "The Phoenix Junior Chamber\nOf Commerce will award more\nthan 40 prizes in its \" Kids Fish\ning Day Contest from 6 to 1880\nam. Sept. 7 at Encanto Park.\n\n\nThe contest is open to child\nrem between the ages of 6-13.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 208,
+                    "y0": 2449,
+                    "x1": 921,
+                    "y1": 2532
+                },
+                {
+                    "x0": 179,
+                    "y0": 2542,
+                    "x1": 991,
+                    "y1": 2952
+                }
+            ],
+            "bbox": [
+                179,
+                2449,
+                991,
+                2952
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        },
+        {
+            "object_ids": [
+                14,
+                4
+            ],
+            "headline": "VISITORS RETURN",
+            "article": "Mr.. and Mrs. Allen Taylor and\ntheir children, Bridget and Lon\nnell, of Sacramento, we're house.\nguest of Mr.. and Mrs. Booker T.\nSmith.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1077,
+                    "y0": 2449,
+                    "x1": 1667,
+                    "y1": 2549
+                },
+                {
+                    "x0": 1071,
+                    "y0": 2577,
+                    "x1": 1889,
+                    "y1": 2876
+                }
+            ],
+            "bbox": [
+                1071,
+                2449,
+                1889,
+                2876
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "family reunion held last week the home Of\nJean Barnes S. 10Th ST. from left Mrs Alma Wash\nington Long Island Mrs. grand Mrs Barnes\nand Mrs. l. Scrven Of East Elmhurst N.Y. her mother\n\n\ntrip California planned for the visitors by Mrs. Barnes\nBoth Mrs. Washington and Mrs. Scriven said they liked the\npeacefuness N Valley of the Sum-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 191,
+                    "y0": 2017,
+                    "x1": 1889,
+                    "y1": 2427
+                }
+            ],
+            "bbox": [
+                191,
+                2017,
+                1889,
+                2427
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        },
+        {
+            "object_ids": [
+                6,
+                9
+            ],
+            "headline": "Isf Graders\n\n\nTo Be Tested",
+            "article": "Reading readiness test for first\ngraders will be given atSheraton\nPark Primary School, 46l5 S.\n22nd ST., Fri, Sept. 4, $3.50 am.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2885,
+                    "y0": 1656,
+                    "x1": 3347,
+                    "y1": 1791
+                },
+                {
+                    "x0": 2868,
+                    "y0": 1807,
+                    "x1": 3685,
+                    "y1": 2036
+                }
+            ],
+            "bbox": [
+                2868,
+                1656,
+                3685,
+                2036
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Horse Privileges Fast Po-\nsession BY owner, must sell,\nmake offer S29. 900 FILA ap-\npraisal, A bedroom, 2 baths,\nranch style on acre with horse\ncorral. Carpet. drapes, fire\nplace. built ms Low Down o4S-\n1919.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 3790,
+                    "x1": 2787,
+                    "y1": 4281
+                }
+            ],
+            "bbox": [
+                1970,
+                3790,
+                2787,
+                4281
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        },
+        {
+            "object_ids": [
+                26,
+                18,
+                15
+            ],
+            "headline": "EARL'S BARBER SHOP\n1852 E. Washington\n\nFOR SALE",
+            "article": "BY owner, Fenced corner\n\n\no6xl08, three bedroom, l 3/4\nbaths. Family room. built ms,\ncarpeting. covered patio. Walk\nRoosevelt elementary, South\nMountain High; shopping. FILA\nappraisal $4,000. $4OO down:\nassume $4,000 mortgage. 276-\n1912.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1975,
+                    "y0": 2916,
+                    "x1": 2583,
+                    "y1": 3045
+                },
+                {
+                    "x0": 1975,
+                    "y0": 3120,
+                    "x1": 2356,
+                    "y1": 3202
+                },
+                {
+                    "x0": 1952,
+                    "y0": 3225,
+                    "x1": 2775,
+                    "y1": 3745
+                }
+            ],
+            "bbox": [
+                1952,
+                2916,
+                2775,
+                3745
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-08-28_pna_sn84021918_0041421695A_1964082801_0531.json"
+        }
+    ]
+}

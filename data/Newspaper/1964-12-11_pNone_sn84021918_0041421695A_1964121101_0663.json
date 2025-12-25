@@ -1,0 +1,179 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-11",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7408,
+        "width": 4885,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-11",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121101/0663.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2783,
+                "y0": 590,
+                "x1": 3606,
+                "y1": 2761
+            },
+            "class": "article",
+            "raw_text": "Congratulations to Mr.. and\nMrs. Al Bagley, 2427 W. Adams.\nThey celebrated their 18th we'd\nding anniversary recently.\n\n\nMrs. Bobbie Ross spent the\nweekend with her brother,\nTommie Dilworth.\n\n\nMrs. Betty Powers, of Denver\nis a winter visitor here.\n\n\nPlan to come to the afternoon\nOf singing Sum-, Dec. 10, 3 pm.\nat Shiloh Baptist Church, 9l7\nw. Buckeye.\n\n\nRev. S. T. Miller welcomes\neveryone. Mrs. Thelma Whitfield\nis the program chairman.\n\n\nSome of the guests soloists in\nclude Mrs. Mary Bradford and\nClarence Davis.\n\n\nPeeping into 1865 = The Debon-\nairs are making big plans for\ntheir annual Thank You Dance.\n1t will be a formal (strictly)\nscheduled late in January.\nEverything will be free for the\nfriends who have supported our\nprograms.\n\n\nWilling Workers Unionzwill\nhold two nights of song every\nsecond and third Saturdays. 1t\nwill be citywide. Chairmen are\nMiss Joyce Singleton and me.\n\n\nThe first in three years was\nthat toothache Big Daddy of KCAC\nhad. Thought of the Week Per-\nhaps hinder folks from lying.\nFrench.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2864,
+                "y0": 376,
+                "x1": 3253,
+                "y1": 475
+            },
+            "class": "headline",
+            "raw_text": "All Around",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2882,
+                "y0": 497,
+                "x1": 3421,
+                "y1": 562
+            },
+            "class": "author",
+            "raw_text": "BY FLORA RUFFIN",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3698,
+                "y0": 486,
+                "x1": 4480,
+                "y1": 938
+            },
+            "class": "article",
+            "raw_text": "After 20 years of mar.\nriage, a Bodmersham, Eng\nland, retired soldier left his\nwife and four children and\nmoved into a cave. He has\nrugged his cave with Wall-to.\nwall carpeting, pictures of\nhis family, a table and a bed.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3906,
+                "y0": 410,
+                "x1": 4278,
+                "y1": 475
+            },
+            "class": "headline",
+            "raw_text": "Steam Heat?",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964121101_0663",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                13,
+                0
+            ],
+            "headline": "All Around",
+            "article": "Congratulations to Mr.. and\nMrs. Al Bagley, 2427 W. Adams.\nThey celebrated their 18th we'd\nding anniversary recently.\n\n\nMrs. Bobbie Ross spent the\nweekend with her brother,\nTommie Dilworth.\n\n\nMrs. Betty Powers, of Denver\nis a winter visitor here.\n\n\nPlan to come to the afternoon\nOf singing Sum-, Dec. 10, 3 pm.\nat Shiloh Baptist Church, 9l7\nw. Buckeye.\n\n\nRev. S. T. Miller welcomes\neveryone. Mrs. Thelma Whitfield\nis the program chairman.\n\n\nSome of the guests soloists in\nclude Mrs. Mary Bradford and\nClarence Davis.\n\n\nPeeping into 1865 = The Debon-\nairs are making big plans for\ntheir annual Thank You Dance.\n1t will be a formal (strictly)\nscheduled late in January.\nEverything will be free for the\nfriends who have supported our\nprograms.\n\n\nWilling Workers Unionzwill\nhold two nights of song every\nsecond and third Saturdays. 1t\nwill be citywide. Chairmen are\nMiss Joyce Singleton and me.\n\n\nThe first in three years was\nthat toothache Big Daddy of KCAC\nhad. Thought of the Week Per-\nhaps hinder folks from lying.\nFrench.",
+            "byline": "BY FLORA RUFFIN",
+            "bbox_list": [
+                {
+                    "x0": 2864,
+                    "y0": 376,
+                    "x1": 3253,
+                    "y1": 475
+                },
+                {
+                    "x0": 2882,
+                    "y0": 497,
+                    "x1": 3421,
+                    "y1": 562
+                },
+                {
+                    "x0": 2783,
+                    "y0": 590,
+                    "x1": 3606,
+                    "y1": 2761
+                }
+            ],
+            "bbox": [
+                2783,
+                376,
+                3606,
+                2761
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-11_pna_sn84021918_0041421695A_1964121101_0663.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "Steam Heat?",
+            "article": "After 20 years of mar.\nriage, a Bodmersham, Eng\nland, retired soldier left his\nwife and four children and\nmoved into a cave. He has\nrugged his cave with Wall-to.\nwall carpeting, pictures of\nhis family, a table and a bed.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3906,
+                    "y0": 410,
+                    "x1": 4278,
+                    "y1": 475
+                },
+                {
+                    "x0": 3698,
+                    "y0": 486,
+                    "x1": 4480,
+                    "y1": 938
+                }
+            ],
+            "bbox": [
+                3698,
+                410,
+                4480,
+                938
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-11_pna_sn84021918_0041421695A_1964121101_0663.json"
+        }
+    ]
+}

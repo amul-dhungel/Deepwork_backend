@@ -1,0 +1,269 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964060501/0425.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4861
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2777,
+                "y0": 2606,
+                "x1": 3598,
+                "y1": 4197
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON The major\ntrend in the Shift Of employment\npatterns for Negro women work.\ners is away from the traditional\nhome service types of work, and\nreflects recent gains in employ\nment and educational status\"\nSecretary Of Labor W. Willard\nWirtz said in announcing the pub\nlocation Of a new Labor Depart\nment study, \" Negro Women\nWorkers in 1860\"\n\n\nThere has also been a drop\nin the percentage of Negro women\nworkers in farming and factory\noccupations, and an increase in\nthe percentage Of those in cler-\nical, professional and sales occu-\npations, and in service work other\nthan household.\n\n\nThe study, indicates while the\nnumber Of employed Negro wom-\nen- reached Us million in 1860,\nan increase of 81 percent since\n1850. the percentage of private\nhousehold workers among all Ne\ngro women dropped from Copper",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3008,
+                "y0": 2473,
+                "x1": 4200,
+                "y1": 2578
+            },
+            "class": "headline",
+            "raw_text": "Report On Negro Women Workers",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3667,
+                "y0": 2629,
+                "x1": 4477,
+                "y1": 3699
+            },
+            "class": "article",
+            "raw_text": "cent to Al percent in 1850 and\nto SO percent in 1860. On the\nother hand, the percentage of\nNegro women clerical workers\nrose from to S percent between\n1910 and 1850 and to g percent\nin 1860. The increase of Negro\nwomen service workers outside\nhouseholds progressed from 10\npercent in 1910 to lo percent\nin 1850 and 81 percent in 1860.\nSignificantly greater numbers of\nNegro women also have been en-\nployed in banking, retail trade,\nmedical and other health ser\nvices, public administration, and\nin some branches of manufactur-\ning that are expanding.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1881,
+                "y0": 2294,
+                "x1": 2691,
+                "y1": 3006
+            },
+            "class": "article",
+            "raw_text": "Contrary to some belief that\nthe federal government gave\nmoney or bonds to the pioneer\nWestern railroads Is the fact\nthat the Government made loans\nof bonds, bearing interest at 6\nper cent, to hasten the construc-\nton of six pioneer railroads. The\ntotal amount loaned was\n$64,623,5l2. The railroads re-\npaid. in principal and interest.\nSl67, TAG. 400.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1904,
+                "y0": 2080,
+                "x1": 2529,
+                "y1": 2272
+            },
+            "class": "headline",
+            "raw_text": "RAILROADS\n\n\nPAID THEIR WAY",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 997,
+                "y0": 2826,
+                "x1": 1807,
+                "y1": 3283
+            },
+            "class": "article",
+            "raw_text": "A Wisconsin reader suggests:\nsave seeds from your prettiest\nflowers this summer and label\nthem by placing in envelopes\nwith pictures cut from seed cat\nalloys. The reader says these\nmake good stocking suffers at\nChristmastime or for birthday\ngifts to flower lovers.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2765,
+                "y0": 1866,
+                "x1": 4454,
+                "y1": 2445
+            },
+            "class": "article",
+            "raw_text": "INTERNATIONAL MILK BREAK Mrs. Hansa of\ndabad India, graduate student home Howard\nUniversity Campus Queen rsha D. Pipp\nsenior take milk break between More\nyoung people encouraged Secretary\nl. Freeman when he called the 18th Dairy\nMonth observance Last year the American people nearly\n\"a billion milk\npie in other lands. India received about 80 million quarts\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-05"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                0
+            ],
+            "headline": "Report On Negro Women Workers",
+            "article": "WASHINGTON The major\ntrend in the Shift Of employment\npatterns for Negro women work.\ners is away from the traditional\nhome service types of work, and\nreflects recent gains in employ\nment and educational status\"\nSecretary Of Labor W. Willard\nWirtz said in announcing the pub\nlocation Of a new Labor Depart\nment study, \" Negro Women\nWorkers in 1860\"\n\n\nThere has also been a drop\nin the percentage of Negro women\nworkers in farming and factory\noccupations, and an increase in\nthe percentage Of those in cler-\nical, professional and sales occu-\npations, and in service work other\nthan household.\n\n\nThe study, indicates while the\nnumber Of employed Negro wom-\nen- reached Us million in 1860,\nan increase of 81 percent since\n1850. the percentage of private\nhousehold workers among all Ne\ngro women dropped from Copper",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3008,
+                    "y0": 2473,
+                    "x1": 4200,
+                    "y1": 2578
+                },
+                {
+                    "x0": 2777,
+                    "y0": 2606,
+                    "x1": 3598,
+                    "y1": 4197
+                }
+            ],
+            "bbox": [
+                2777,
+                2473,
+                4200,
+                4197
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-05_p1_sn84021918_0041421695A_1964060501_0425.json"
+        },
+        {
+            "object_ids": [
+                2
+            ],
+            "headline": "",
+            "article": "cent to Al percent in 1850 and\nto SO percent in 1860. On the\nother hand, the percentage of\nNegro women clerical workers\nrose from to S percent between\n1910 and 1850 and to g percent\nin 1860. The increase of Negro\nwomen service workers outside\nhouseholds progressed from 10\npercent in 1910 to lo percent\nin 1850 and 81 percent in 1860.\nSignificantly greater numbers of\nNegro women also have been en-\nployed in banking, retail trade,\nmedical and other health ser\nvices, public administration, and\nin some branches of manufactur-\ning that are expanding.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3667,
+                    "y0": 2629,
+                    "x1": 4477,
+                    "y1": 3699
+                }
+            ],
+            "bbox": [
+                3667,
+                2629,
+                4477,
+                3699
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-05_p1_sn84021918_0041421695A_1964060501_0425.json"
+        },
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "RAILROADS\n\n\nPAID THEIR WAY",
+            "article": "Contrary to some belief that\nthe federal government gave\nmoney or bonds to the pioneer\nWestern railroads Is the fact\nthat the Government made loans\nof bonds, bearing interest at 6\nper cent, to hasten the construc-\nton of six pioneer railroads. The\ntotal amount loaned was\n$64,623,5l2. The railroads re-\npaid. in principal and interest.\nSl67, TAG. 400.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1904,
+                    "y0": 2080,
+                    "x1": 2529,
+                    "y1": 2272
+                },
+                {
+                    "x0": 1881,
+                    "y0": 2294,
+                    "x1": 2691,
+                    "y1": 3006
+                }
+            ],
+            "bbox": [
+                1881,
+                2080,
+                2691,
+                3006
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-05_p1_sn84021918_0041421695A_1964060501_0425.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "A Wisconsin reader suggests:\nsave seeds from your prettiest\nflowers this summer and label\nthem by placing in envelopes\nwith pictures cut from seed cat\nalloys. The reader says these\nmake good stocking suffers at\nChristmastime or for birthday\ngifts to flower lovers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 997,
+                    "y0": 2826,
+                    "x1": 1807,
+                    "y1": 3283
+                }
+            ],
+            "bbox": [
+                997,
+                2826,
+                1807,
+                3283
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-06-05_p1_sn84021918_0041421695A_1964060501_0425.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "INTERNATIONAL MILK BREAK Mrs. Hansa of\ndabad India, graduate student home Howard\nUniversity Campus Queen rsha D. Pipp\nsenior take milk break between More\nyoung people encouraged Secretary\nl. Freeman when he called the 18th Dairy\nMonth observance Last year the American people nearly\n\"a billion milk\npie in other lands. India received about 80 million quarts\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2765,
+                    "y0": 1866,
+                    "x1": 4454,
+                    "y1": 2445
+                }
+            ],
+            "bbox": [
+                2765,
+                1866,
+                4454,
+                2445
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-06-05_p1_sn84021918_0041421695A_1964060501_0425.json"
+        }
+    ]
+}

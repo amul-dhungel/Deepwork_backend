@@ -1,0 +1,252 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964062601/0448.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7422,
+        "width": 4918
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1200,
+                "y0": 487,
+                "x1": 2030,
+                "y1": 2836
+            },
+            "class": "article",
+            "raw_text": "hazards. Grants are made to fix\nbroken windows, patch chimneys.\nrepair roofs, and make other\nrepairs to provide the family with\nminimum housing.\n\n\nOther loans may be made for\nrental housing. Direct loans are\nmade at low interest rates to\nnonprofit organizations to finance\nhousing for the elderly in the low\nand moderate inc ONE groups. One\nrecent loan of $l82. 900 was used\nby nonpr oft corporation no build\n81 apartments.\n\n\nA similar loan is available on\nan insured basis to individuals\nor commercial corporations. A\nbuilder in New Jersey built 20\none-and two-bedroom apart\nments last year. He borrowed\nfrom a nearby band and USDA\ninsured the loan. The apartments\nwe're designed for older people\nand include such features as\ngrab bars and nonslip floors in\nthe bathroom, and easy access\nto cabinets and equipment.\n\n\nThe elderly are the fastest\ngrowing group in our national\npopulation. Their needs will be\ngiven more attention in the future.\nThe Agriculture Department has\nmade modest beginning inhelp-\ning to finance housing for the\nelderly in rural areas. More In\nformation may be obtained from\nthe local county representative\nof the USDA's Farmers Home Ad-\nministration. He is usually To-\nGated at the county seat.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 510,
+                "y0": 342,
+                "x1": 1885,
+                "y1": 464
+            },
+            "class": "headline",
+            "raw_text": "Rural Elders Need New Homes",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2998,
+                "y0": 3432,
+                "x1": 3811,
+                "y1": 4431
+            },
+            "class": "article",
+            "raw_text": "An assistant secretary of COM\nmerce for economic policy re-\nview told the annual conference of\nthe National Ass ociation of Mar\nket Developers that the Negro\nmarket is changing because Of\nincreased income and employ\nment opportunities.\n\n\nHe said on the basis of study\nthat the income of Negro families\nhas caused an emergence of\nlarger middle class spending ha-\nbit pattern.\n\n\nEvidences Of upgrading in the\nconsumption behavior or Negro\nfamilies is shown by the follow\ning percents for 1850 and 1860:",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3143,
+                "y0": 3148,
+                "x1": 3579,
+                "y1": 3184
+            },
+            "class": "author",
+            "raw_text": "WO weeks session.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3862,
+                "y0": 3426,
+                "x1": 4680,
+                "y1": 4912
+            },
+            "class": "article",
+            "raw_text": "automobiles 7 per cent-9.5.\n\n\nHe further stated that the num-\nDer of Negroes engaged in the\nmarketing field is concentrated\nin industries and activities which\nare disappearing or becoming\ncrowded.\n\n\nOf the 400 NAMD members,\nmore than four-fifths we're SAL\naried employees. More than one\nthird we're concentrated in the\ndistribution of food and bever-\nages, or allied fields. A ma jority\nwere employed In alcoholic bev-\nerages or soft drinks divisions.\n\n\nOther fields represented we're\nautomobiles, travel and petro-\nleum products.\n\n\nOnly 10 per cent we're asso-\nciated with communications me-\ndia. About 4 per cent we're en-\nployed with public relations\nfirms.\n\n\nSTOP AND SHOP AT\nTRIBUNE ADVERTISERS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3021,
+                "y0": 3200,
+                "x1": 4129,
+                "y1": 3410
+            },
+            "class": "headline",
+            "raw_text": "Few Negroes Advance in\nMurke ting Fields in u. S.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 296,
+                "y0": 487,
+                "x1": 1126,
+                "y1": 2842
+            },
+            "class": "article",
+            "raw_text": "Nearly one third OF the 10\nmillion people over o5 In the\nUnited States live in rural areas.\nFour million of these older rural\npeople live in small towns ana\nabout a million and a hall live\non farms.\n\n\nHousing problems for the eld-\nerly range from the need for\nsmaller, more convenient units\nto undermining, and maintaining\npresent housing, much OF which\nis below standard.\n\n\nRetirement housing is different\nin rural areas and cities. Most\nrural people live in single fam\nily houses. When farmer re-\ntires, he generally has to move.\nThis means he must buy, build\nor rent. If he builds, few cred\nitors other than USDA would\nmake a long term loan. because\nof his age. Several loan programs\nare offered to help these people.\n\n\nOne is direct loans at low In\nterest rates, for people over o2\nwho can take care of their own\nhomes. These kinds of borrowers\nmay use co-signer. such as a\nson or daughter, If the parent\ndoes not have enough income to\nrepay the loan. Rural people over\n81 may also borrow to buy a used\nhome, if it is in good repair and\nfits their needs.\n\n\nFor those elderly rural people\nwho own home but don't have\nenough income to repay a loan\na small grant can be made to make\nthe home safe and remove health",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-06-26"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                0
+            ],
+            "headline": "Rural Elders Need New Homes",
+            "article": "hazards. Grants are made to fix\nbroken windows, patch chimneys.\nrepair roofs, and make other\nrepairs to provide the family with\nminimum housing.\n\n\nOther loans may be made for\nrental housing. Direct loans are\nmade at low interest rates to\nnonprofit organizations to finance\nhousing for the elderly in the low\nand moderate inc ONE groups. One\nrecent loan of $l82. 900 was used\nby nonpr oft corporation no build\n81 apartments.\n\n\nA similar loan is available on\nan insured basis to individuals\nor commercial corporations. A\nbuilder in New Jersey built 20\none-and two-bedroom apart\nments last year. He borrowed\nfrom a nearby band and USDA\ninsured the loan. The apartments\nwe're designed for older people\nand include such features as\ngrab bars and nonslip floors in\nthe bathroom, and easy access\nto cabinets and equipment.\n\n\nThe elderly are the fastest\ngrowing group in our national\npopulation. Their needs will be\ngiven more attention in the future.\nThe Agriculture Department has\nmade modest beginning inhelp-\ning to finance housing for the\nelderly in rural areas. More In\nformation may be obtained from\nthe local county representative\nof the USDA's Farmers Home Ad-\nministration. He is usually To-\nGated at the county seat.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 510,
+                    "y0": 342,
+                    "x1": 1885,
+                    "y1": 464
+                },
+                {
+                    "x0": 1200,
+                    "y0": 487,
+                    "x1": 2030,
+                    "y1": 2836
+                }
+            ],
+            "bbox": [
+                510,
+                342,
+                2030,
+                2836
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-06-26_p1_sn84021918_0041421695A_1964062601_0448.json"
+        },
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "",
+            "article": "An assistant secretary of COM\nmerce for economic policy re-\nview told the annual conference of\nthe National Ass ociation of Mar\nket Developers that the Negro\nmarket is changing because Of\nincreased income and employ\nment opportunities.\n\n\nHe said on the basis of study\nthat the income of Negro families\nhas caused an emergence of\nlarger middle class spending ha-\nbit pattern.\n\n\nEvidences Of upgrading in the\nconsumption behavior or Negro\nfamilies is shown by the follow\ning percents for 1850 and 1860:",
+            "byline": "WO weeks session.",
+            "bbox_list": [
+                {
+                    "x0": 3143,
+                    "y0": 3148,
+                    "x1": 3579,
+                    "y1": 3184
+                },
+                {
+                    "x0": 2998,
+                    "y0": 3432,
+                    "x1": 3811,
+                    "y1": 4431
+                }
+            ],
+            "bbox": [
+                2998,
+                3148,
+                3811,
+                4431
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-06-26_p1_sn84021918_0041421695A_1964062601_0448.json"
+        },
+        {
+            "object_ids": [
+                8,
+                2
+            ],
+            "headline": "Few Negroes Advance in\nMurke ting Fields in u. S.",
+            "article": "automobiles 7 per cent-9.5.\n\n\nHe further stated that the num-\nDer of Negroes engaged in the\nmarketing field is concentrated\nin industries and activities which\nare disappearing or becoming\ncrowded.\n\n\nOf the 400 NAMD members,\nmore than four-fifths we're SAL\naried employees. More than one\nthird we're concentrated in the\ndistribution of food and bever-\nages, or allied fields. A ma jority\nwere employed In alcoholic bev-\nerages or soft drinks divisions.\n\n\nOther fields represented we're\nautomobiles, travel and petro-\nleum products.\n\n\nOnly 10 per cent we're asso-\nciated with communications me-\ndia. About 4 per cent we're en-\nployed with public relations\nfirms.\n\n\nSTOP AND SHOP AT\nTRIBUNE ADVERTISERS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3021,
+                    "y0": 3200,
+                    "x1": 4129,
+                    "y1": 3410
+                },
+                {
+                    "x0": 3862,
+                    "y0": 3426,
+                    "x1": 4680,
+                    "y1": 4912
+                }
+            ],
+            "bbox": [
+                3021,
+                3200,
+                4680,
+                4912
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-06-26_p1_sn84021918_0041421695A_1964062601_0448.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Nearly one third OF the 10\nmillion people over o5 In the\nUnited States live in rural areas.\nFour million of these older rural\npeople live in small towns ana\nabout a million and a hall live\non farms.\n\n\nHousing problems for the eld-\nerly range from the need for\nsmaller, more convenient units\nto undermining, and maintaining\npresent housing, much OF which\nis below standard.\n\n\nRetirement housing is different\nin rural areas and cities. Most\nrural people live in single fam\nily houses. When farmer re-\ntires, he generally has to move.\nThis means he must buy, build\nor rent. If he builds, few cred\nitors other than USDA would\nmake a long term loan. because\nof his age. Several loan programs\nare offered to help these people.\n\n\nOne is direct loans at low In\nterest rates, for people over o2\nwho can take care of their own\nhomes. These kinds of borrowers\nmay use co-signer. such as a\nson or daughter, If the parent\ndoes not have enough income to\nrepay the loan. Rural people over\n81 may also borrow to buy a used\nhome, if it is in good repair and\nfits their needs.\n\n\nFor those elderly rural people\nwho own home but don't have\nenough income to repay a loan\na small grant can be made to make\nthe home safe and remove health",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 296,
+                    "y0": 487,
+                    "x1": 1126,
+                    "y1": 2842
+                }
+            ],
+            "bbox": [
+                296,
+                487,
+                1126,
+                2842
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-26_p1_sn84021918_0041421695A_1964062601_0448.json"
+        }
+    ]
+}

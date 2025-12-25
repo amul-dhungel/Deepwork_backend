@@ -1,0 +1,412 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0593.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7384,
+        "width": 4828
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 77,
+                "y0": 2711,
+                "x1": 851,
+                "y1": 3168
+            },
+            "class": "article",
+            "raw_text": "Want to liven up your home\nmovies or 35mm slide pro-\ngrams? Add a recorded nara\ntive and sound effects. Tape\nyour comments along with\nbackground music and other\nsounds picked up from records.\nThe secret lies in good choice\nof effects and careful editing.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 89,
+                "y0": 2578,
+                "x1": 580,
+                "y1": 2683
+            },
+            "class": "headline",
+            "raw_text": "HOBBY NEWS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 960,
+                "y0": 2630,
+                "x1": 1774,
+                "y1": 3185
+            },
+            "class": "article",
+            "raw_text": "When the New York Worlds\nFair closes in October 1865, resi-\ndents of New York will gain a\n$23 million dollar park. It will\nbe the largest in the city and will\ncontain a zoo, sports arena, a\nheliport, the Hall of Science, the\nUnisphere, model airplane field,\nthe Amphitheatre, the Marina,\ntwo fountains and five pools.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1041,
+                "y0": 2520,
+                "x1": 1699,
+                "y1": 2608
+            },
+            "class": "headline",
+            "raw_text": "PARK FOLLOWS FAIR",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 66,
+                "y0": 2076,
+                "x1": 1751,
+                "y1": 2510
+            },
+            "class": "article",
+            "raw_text": "Rufus Golfer right of the personnel department. at\nMotoroa extends pubshereditor\nof The Arizona Tribune.\n\n\nTribune publisher the main speaker at the Human\nby executives of Motoroa Inc\nemployment problems minority groups and trends\nequal hiring practices.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1848,
+                "y0": 2895,
+                "x1": 2674,
+                "y1": 3202
+            },
+            "class": "article",
+            "raw_text": "Help Wanted Male and Female,\nVarious Jobs Register Now ..\nSouth Phoenix Employment\nAgency, l9-l n E. Southern Ave.\n276-5242.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1848,
+                "y0": 2567,
+                "x1": 2455,
+                "y1": 2695
+            },
+            "class": "headline",
+            "raw_text": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1860,
+                "y0": 2774,
+                "x1": 2368,
+                "y1": 2873
+            },
+            "class": "headline",
+            "raw_text": "HELP WANTED",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1404,
+                "y0": 4199,
+                "x1": 2478,
+                "y1": 5642
+            },
+            "class": "article",
+            "raw_text": "THE RAILROADS IMPLY Arizono's\nFull Crew Train Law retords their\n\"heoIthy development\"\n\n\nThe truth: SP and ST are Two Of\nthe more profitable operations in\nthe industry. Last year their net\nearnings amounted to q whopping\n$l55 million. Causing Eben Root,\nSan Francisco Chronicle coIumnist to\ncomment: \"Few industries have done\nas good q Job Of broinwoshing as\nthe American railroad industry.\nThey have been crying poor mouth\nfor years. All we can soy, offer\nlooking at their annual reports for\n1868, is: You should have it SO bod.'\nTheir earnings are handsome\"",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2033,
+                "y0": 3236,
+                "x1": 2466,
+                "y1": 3323
+            },
+            "class": "author",
+            "raw_text": "VOTE-NOV. 3",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -3
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 273,
+                "y0": 3415,
+                "x1": 2432,
+                "y1": 3785
+            },
+            "class": "headline",
+            "raw_text": "Don't be Fooled F.!",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -2
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 279,
+                "y0": 3859,
+                "x1": 2414,
+                "y1": 4166
+            },
+            "class": "headline",
+            "raw_text": "When they soy Misunderstanding\"\n\n\nthey really mean ''feofhernesfing''!",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 279,
+                "y0": 4211,
+                "x1": 1336,
+                "y1": 5642
+            },
+            "class": "article",
+            "raw_text": "THE RAILROADS CLAIM Arizono's\nFull Grew Train Law last year added\n\"ot least 1913 million 70 railroad\ncosts\" Many Of their biIlboords\nimply you would save this amount if\nProposition 200 is approved.\n\n\nThe truth: Actually, you : as\ntoxpoyer or shipper - won't save\npenny! In California, where a SINH\nlar proposition was passed, South\nern Pacific and Santa Fe raised =\nnot lowered - their rotes month\nlater! And remember when Con-\ngress repealed the 1919 passenger\ntax? Did the railroads pass on this\nsavings to you? Hardly! They pock-\neted it themselves!",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-16"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "HOBBY NEWS",
+            "article": "Want to liven up your home\nmovies or 35mm slide pro-\ngrams? Add a recorded nara\ntive and sound effects. Tape\nyour comments along with\nbackground music and other\nsounds picked up from records.\nThe secret lies in good choice\nof effects and careful editing.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 89,
+                    "y0": 2578,
+                    "x1": 580,
+                    "y1": 2683
+                },
+                {
+                    "x0": 77,
+                    "y0": 2711,
+                    "x1": 851,
+                    "y1": 3168
+                }
+            ],
+            "bbox": [
+                77,
+                2578,
+                851,
+                3168
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-16_p1_sn84021918_0041421695A_1964101601_0593.json"
+        },
+        {
+            "object_ids": [
+                13,
+                7
+            ],
+            "headline": "PARK FOLLOWS FAIR",
+            "article": "When the New York Worlds\nFair closes in October 1865, resi-\ndents of New York will gain a\n$23 million dollar park. It will\nbe the largest in the city and will\ncontain a zoo, sports arena, a\nheliport, the Hall of Science, the\nUnisphere, model airplane field,\nthe Amphitheatre, the Marina,\ntwo fountains and five pools.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1041,
+                    "y0": 2520,
+                    "x1": 1699,
+                    "y1": 2608
+                },
+                {
+                    "x0": 960,
+                    "y0": 2630,
+                    "x1": 1774,
+                    "y1": 3185
+                }
+            ],
+            "bbox": [
+                960,
+                2520,
+                1774,
+                3185
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-16_p1_sn84021918_0041421695A_1964101601_0593.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Rufus Golfer right of the personnel department. at\nMotoroa extends pubshereditor\nof The Arizona Tribune.\n\n\nTribune publisher the main speaker at the Human\nby executives of Motoroa Inc\nemployment problems minority groups and trends\nequal hiring practices.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 66,
+                    "y0": 2076,
+                    "x1": 1751,
+                    "y1": 2510
+                }
+            ],
+            "bbox": [
+                66,
+                2076,
+                1751,
+                2510
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-16_p1_sn84021918_0041421695A_1964101601_0593.json"
+        },
+        {
+            "object_ids": [
+                22,
+                14,
+                10
+            ],
+            "headline": "EARL'S BARBER SHOP\n1852 E. Washington\n\nHELP WANTED",
+            "article": "Help Wanted Male and Female,\nVarious Jobs Register Now ..\nSouth Phoenix Employment\nAgency, l9-l n E. Southern Ave.\n276-5242.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1848,
+                    "y0": 2567,
+                    "x1": 2455,
+                    "y1": 2695
+                },
+                {
+                    "x0": 1860,
+                    "y0": 2774,
+                    "x1": 2368,
+                    "y1": 2873
+                },
+                {
+                    "x0": 1848,
+                    "y0": 2895,
+                    "x1": 2674,
+                    "y1": 3202
+                }
+            ],
+            "bbox": [
+                1848,
+                2567,
+                2674,
+                3202
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-10-16_p1_sn84021918_0041421695A_1964101601_0593.json"
+        },
+        {
+            "object_ids": [
+                23,
+                19,
+                15,
+                17
+            ],
+            "headline": "Don't be Fooled F.!\n\nWhen they soy Misunderstanding\"\n\n\nthey really mean ''feofhernesfing''!",
+            "article": "THE RAILROADS IMPLY Arizono's\nFull Crew Train Law retords their\n\"heoIthy development\"\n\n\nThe truth: SP and ST are Two Of\nthe more profitable operations in\nthe industry. Last year their net\nearnings amounted to q whopping\n$l55 million. Causing Eben Root,\nSan Francisco Chronicle coIumnist to\ncomment: \"Few industries have done\nas good q Job Of broinwoshing as\nthe American railroad industry.\nThey have been crying poor mouth\nfor years. All we can soy, offer\nlooking at their annual reports for\n1868, is: You should have it SO bod.'\nTheir earnings are handsome\"",
+            "byline": "VOTE-NOV. 3",
+            "bbox_list": [
+                {
+                    "x0": 2033,
+                    "y0": 3236,
+                    "x1": 2466,
+                    "y1": 3323
+                },
+                {
+                    "x0": 273,
+                    "y0": 3415,
+                    "x1": 2432,
+                    "y1": 3785
+                },
+                {
+                    "x0": 279,
+                    "y0": 3859,
+                    "x1": 2414,
+                    "y1": 4166
+                },
+                {
+                    "x0": 1404,
+                    "y0": 4199,
+                    "x1": 2478,
+                    "y1": 5642
+                }
+            ],
+            "bbox": [
+                273,
+                3236,
+                2478,
+                5642
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-10-16_p1_sn84021918_0041421695A_1964101601_0593.json"
+        },
+        {
+            "object_ids": [
+                18
+            ],
+            "headline": "",
+            "article": "THE RAILROADS CLAIM Arizono's\nFull Grew Train Law last year added\n\"ot least 1913 million 70 railroad\ncosts\" Many Of their biIlboords\nimply you would save this amount if\nProposition 200 is approved.\n\n\nThe truth: Actually, you : as\ntoxpoyer or shipper - won't save\npenny! In California, where a SINH\nlar proposition was passed, South\nern Pacific and Santa Fe raised =\nnot lowered - their rotes month\nlater! And remember when Con-\ngress repealed the 1919 passenger\ntax? Did the railroads pass on this\nsavings to you? Hardly! They pock-\neted it themselves!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 279,
+                    "y0": 4211,
+                    "x1": 1336,
+                    "y1": 5642
+                }
+            ],
+            "bbox": [
+                279,
+                4211,
+                1336,
+                5642
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-10-16_p1_sn84021918_0041421695A_1964101601_0593.json"
+        }
+    ]
+}

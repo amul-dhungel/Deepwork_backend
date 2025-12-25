@@ -1,0 +1,547 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964030601/0321.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7472,
+        "width": 4839
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2051,
+                "y0": 3911,
+                "x1": 2887,
+                "y1": 4612
+            },
+            "class": "article",
+            "raw_text": "For combination of oily and\ndry skin, try a combination treat\nment - lots of soapsuds for the\noily patches, baby oil on the dry\nareas.\n\n\nFor example, the nose and chin\nare usually oily and tend to show\npimples and blackheads. After a\nregular face-washing, coat them\nwith thick soapsuds lather, let it\nset, then rinse with a washcloth\nand cold water. On the dry areas,\nsuch as cheeks, apply baby oil.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1170,
+                "y0": 2848,
+                "x1": 1988,
+                "y1": 4069
+            },
+            "class": "article",
+            "raw_text": "NEW YORK \"A five page bib\nbiography Of articles on the Negro\nmarket that have appeared in\nbusiness publications between\nJanuary, 1861 and January. 1864\nhas been released by D. Parke\nGibson Associates, Inc. New\nYork Negro market consultants\nand publishers of The Gibson Re-\nport on the Negro Market.\n\n\nThe photography contains 81\narticles which cover the $685.\nbillion Negro consumer market.\nand point up the sales potential\nin a number of product categor-\nles.\n\n\nCopies of the photography are\navailable, without charge, from\nD. Parke GIBBS on Associates Inc,\n1921 Seventh Avenue, New York,\nN. Y. IOO3o.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1170,
+                "y0": 2661,
+                "x1": 1620,
+                "y1": 2832
+            },
+            "class": "headline",
+            "raw_text": "photography\nAvailable",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2045,
+                "y0": 706,
+                "x1": 2875,
+                "y1": 3882
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = The Us. SUI\npreme Court was asked to re-\nverse the Alabama conviction OF\nRev. Fred l.. Shuttlesworth on\ngrounds that he was sentenced\nfor a crime without evidence OF\nguilt.\n\n\nlack Creenberg, director\ncounsel of the NAACP Legal De-\ntense Fund, which has repre-\nscented the civil rights crusader\non numerous other occasions,\nargued the case.\n\n\n1t grew out of an incident in\nthe Greyhound bus station in\nBirmingham on May IL, 1861.\nwhen Rev. Shuttlesworth accom-\npanied a group of freedom riders\nto the terminal.\n\n\nThe Legal Defense Fund S brief\nreports that the freedom riders\nwe're standing at a bus stall,\napparently about to board when\nPolice Chief Jamie Moore came\nup.\n\n\nChief Moore then announced\nthat all we're being arrested and\ntaken into 1.-THE protective Gus\ntody Of the City Of Birmingham\"\n\n\nAll we're arrested without re-\nsistance and taken to city jail,\nbut Rev. Shuttlesworth was the\nonly one against whom charges\nwe're pressed.\n\n\nMr.. Greenberg and co-counsel\nJames M. Nabrit III argued that\nRev. Shuttlesworth was denied\ndue process of law by the Ala\nbama Courts.\n\n\nThe Birmingham police \"were\nnot exercising any legal duty when\nthey took the freedom riders in\nprotective custody )\" the legal\ndefense fund brief asserts.\n\n\n\"There appears to have been\nno such concept in Alabama law\"\nthe Funds brief maintains, prior\nto Rev. Shuttlesworth's arrest.\n\n\nThe Defense Fund attroneys\nfurther assert that 1.-THE police\nillegally arrested the freedom\nriders while they (the riders)\nwe're exercising a federally pro-\ntected right\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2045,
+                "y0": 443,
+                "x1": 2677,
+                "y1": 672
+            },
+            "class": "headline",
+            "raw_text": "Minister Faces\nCourt Ag ain",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2933,
+                "y0": 2387,
+                "x1": 3751,
+                "y1": 3970
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The March broad\ncasts of Negro College Choirs,\nthe ABC radio network series,\nwill feature choruses of five\nsouthern colleges. the United Ne\ngro College Fund announced.\n\n\nThe program originates in New\nYork City and is beamed by the\nAmerican Broadcasting Company\nto it's affiliated stations each\nweek. Local stations air the pro-\ngram on different days and times.\nCheck local newspaper listing for\nair time.\n\n\nThe first broadcast of the\nmonth, on Mar. l, featured the\nShaw University Chorale, Raleigh\nNC. Succeeding broadcasts will\npresent Knoxville, Tenn, Mar. 8;\nLane College, Jackson, Tenn,\nMar. Is: Wiley College, Mar\nshall, Tex, Mar. \"a; and Virginia\nUnion University, Richmond. Va.\nMar. 81.\n\n\nNegro College Choirs is in its\n18th year of continuous broad\ncasting.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2939,
+                "y0": 2189,
+                "x1": 3529,
+                "y1": 2376
+            },
+            "class": "headline",
+            "raw_text": "NEGRO CHOIRs\n\n\nON ABC RADIO",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1181,
+                "y0": 4308,
+                "x1": 1994,
+                "y1": 5021
+            },
+            "class": "article",
+            "raw_text": "The first annual Family Of the\nYear Award will be presented by\nthe Phoenix Urban League, Mar.\n20, at the leagues annual meet\ning.\n\n\nThe award will be made for\nachievements despite racial in\nequities.\n\n\nReligious, civic, social and\nfraternal groups are invited to\nsend commentators to the Urban\nLeague before Mar. II.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1181,
+                "y0": 4097,
+                "x1": 1865,
+                "y1": 4285
+            },
+            "class": "headline",
+            "raw_text": "Family Award\nPlanned BY League",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3820,
+                "y0": 887,
+                "x1": 4615,
+                "y1": 2225
+            },
+            "class": "article",
+            "raw_text": "The next time boiled cabbage\nis on your dinner menu, serve it\nwith this sparkling-good sauce.\nCut the cabbage into wedges\nbefore boiling it, and pour the\nhot sauce over each individual\nserving.\n\n\nMUSTARD CREAM SAUCE\n\n\n8 Tablespoons butter\n\n\ntablespoons flour\n\n\n\" teaspoon salt\n\n\nu teaspoon pepper\nIN cups milk\n\n\n2teospoons prepared mustard\n\"a teaspoon Lea 6 Perrins\n\n\nWorcestershire Souce\n\n\nsmell heed cabbage. cut In\n\n\nwedges. cooked and droined\nMelt butter In soucepon. Blend In\nflour. solt and pepper. Add milk\nslowly and cook over low heat, stir.\nring consistently until soucs 10 smooth\nand thickened. Add mustard and\nWorcestershire sauce; mix well.\nServe otop hot cabbage wedges.\nMokes Ia cups sauce. enough Tor\nfour servings.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3838,
+                "y0": 443,
+                "x1": 4335,
+                "y1": 660
+            },
+            "class": "headline",
+            "raw_text": "Titchen\nIL wise",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -3
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 3896,
+                "y0": 688,
+                "x1": 4346,
+                "y1": 759
+            },
+            "class": "author",
+            "raw_text": "by LYDIA PERKINS",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 3843,
+                "y0": 823,
+                "x1": 4574,
+                "y1": 888
+            },
+            "class": "author",
+            "raw_text": "Nippy Sauce for Cabbage",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 247,
+                "y0": 2854,
+                "x1": 1072,
+                "y1": 3328
+            },
+            "class": "article",
+            "raw_text": "The Interdenominational Eel\nlowship Chorus Of First Institu-\ntional Baptist Church presented\na Musicale Sum-, Mar. |, at 8\npm.\n\n\nMrs. A. G.. Kendrick was the\ndirector and Mrs. j. Johnson,\npianist.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 428,
+                "y0": 2720,
+                "x1": 920,
+                "y1": 2832
+            },
+            "class": "headline",
+            "raw_text": "Musical Held",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2939,
+                "y0": 1751,
+                "x1": 3751,
+                "y1": 2160
+            },
+            "class": "article",
+            "raw_text": "Mrs. magellan Allen, 5Oo2\nS. 20 Place. was honored with a\nsurprise birthday party, >Satur-\nday. Feb. %.\n\n\nHer husband. Roy and other\nrelatives and friends kept the\nsecret for several days.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 265,
+                "y0": 2054,
+                "x1": 1965,
+                "y1": 2662
+            },
+            "class": "article",
+            "raw_text": "II was time for Saturday Feb. 49, friends gathered\nhelp Edward publisher Of The Arizona Tribune\ncelebrate his seventh year American citizen\n\n\nFrom Mrs. James Reed Roy Nixon Edward Banks ano\nCapt. Alfred Daniels. Of Tempe.\n\n\nBottom photo from left includes Mesdames Alfred Daniels\nHerbert williams Robert Bowman Mrs. Edward\nBanks standing\n\n\nSecond photoCapt Daniels Jim Reed Drs Robert Bowman\nand Herbert Williams.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-03-06"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "For combination of oily and\ndry skin, try a combination treat\nment - lots of soapsuds for the\noily patches, baby oil on the dry\nareas.\n\n\nFor example, the nose and chin\nare usually oily and tend to show\npimples and blackheads. After a\nregular face-washing, coat them\nwith thick soapsuds lather, let it\nset, then rinse with a washcloth\nand cold water. On the dry areas,\nsuch as cheeks, apply baby oil.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2051,
+                    "y0": 3911,
+                    "x1": 2887,
+                    "y1": 4612
+                }
+            ],
+            "bbox": [
+                2051,
+                3911,
+                2887,
+                4612
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "photography\nAvailable",
+            "article": "NEW YORK \"A five page bib\nbiography Of articles on the Negro\nmarket that have appeared in\nbusiness publications between\nJanuary, 1861 and January. 1864\nhas been released by D. Parke\nGibson Associates, Inc. New\nYork Negro market consultants\nand publishers of The Gibson Re-\nport on the Negro Market.\n\n\nThe photography contains 81\narticles which cover the $685.\nbillion Negro consumer market.\nand point up the sales potential\nin a number of product categor-\nles.\n\n\nCopies of the photography are\navailable, without charge, from\nD. Parke GIBBS on Associates Inc,\n1921 Seventh Avenue, New York,\nN. Y. IOO3o.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1170,
+                    "y0": 2661,
+                    "x1": 1620,
+                    "y1": 2832
+                },
+                {
+                    "x0": 1170,
+                    "y0": 2848,
+                    "x1": 1988,
+                    "y1": 4069
+                }
+            ],
+            "bbox": [
+                1170,
+                2661,
+                1988,
+                4069
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                17,
+                3
+            ],
+            "headline": "Minister Faces\nCourt Ag ain",
+            "article": "WASHINGTON = The Us. SUI\npreme Court was asked to re-\nverse the Alabama conviction OF\nRev. Fred l.. Shuttlesworth on\ngrounds that he was sentenced\nfor a crime without evidence OF\nguilt.\n\n\nlack Creenberg, director\ncounsel of the NAACP Legal De-\ntense Fund, which has repre-\nscented the civil rights crusader\non numerous other occasions,\nargued the case.\n\n\n1t grew out of an incident in\nthe Greyhound bus station in\nBirmingham on May IL, 1861.\nwhen Rev. Shuttlesworth accom-\npanied a group of freedom riders\nto the terminal.\n\n\nThe Legal Defense Fund S brief\nreports that the freedom riders\nwe're standing at a bus stall,\napparently about to board when\nPolice Chief Jamie Moore came\nup.\n\n\nChief Moore then announced\nthat all we're being arrested and\ntaken into 1.-THE protective Gus\ntody Of the City Of Birmingham\"\n\n\nAll we're arrested without re-\nsistance and taken to city jail,\nbut Rev. Shuttlesworth was the\nonly one against whom charges\nwe're pressed.\n\n\nMr.. Greenberg and co-counsel\nJames M. Nabrit III argued that\nRev. Shuttlesworth was denied\ndue process of law by the Ala\nbama Courts.\n\n\nThe Birmingham police \"were\nnot exercising any legal duty when\nthey took the freedom riders in\nprotective custody )\" the legal\ndefense fund brief asserts.\n\n\n\"There appears to have been\nno such concept in Alabama law\"\nthe Funds brief maintains, prior\nto Rev. Shuttlesworth's arrest.\n\n\nThe Defense Fund attroneys\nfurther assert that 1.-THE police\nillegally arrested the freedom\nriders while they (the riders)\nwe're exercising a federally pro-\ntected right\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2045,
+                    "y0": 443,
+                    "x1": 2677,
+                    "y1": 672
+                },
+                {
+                    "x0": 2045,
+                    "y0": 706,
+                    "x1": 2875,
+                    "y1": 3882
+                }
+            ],
+            "bbox": [
+                2045,
+                443,
+                2875,
+                3882
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "NEGRO CHOIRs\n\n\nON ABC RADIO",
+            "article": "NEW YORK The March broad\ncasts of Negro College Choirs,\nthe ABC radio network series,\nwill feature choruses of five\nsouthern colleges. the United Ne\ngro College Fund announced.\n\n\nThe program originates in New\nYork City and is beamed by the\nAmerican Broadcasting Company\nto it's affiliated stations each\nweek. Local stations air the pro-\ngram on different days and times.\nCheck local newspaper listing for\nair time.\n\n\nThe first broadcast of the\nmonth, on Mar. l, featured the\nShaw University Chorale, Raleigh\nNC. Succeeding broadcasts will\npresent Knoxville, Tenn, Mar. 8;\nLane College, Jackson, Tenn,\nMar. Is: Wiley College, Mar\nshall, Tex, Mar. \"a; and Virginia\nUnion University, Richmond. Va.\nMar. 81.\n\n\nNegro College Choirs is in its\n18th year of continuous broad\ncasting.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2939,
+                    "y0": 2189,
+                    "x1": 3529,
+                    "y1": 2376
+                },
+                {
+                    "x0": 2933,
+                    "y0": 2387,
+                    "x1": 3751,
+                    "y1": 3970
+                }
+            ],
+            "bbox": [
+                2933,
+                2189,
+                3751,
+                3970
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "Family Award\nPlanned BY League",
+            "article": "The first annual Family Of the\nYear Award will be presented by\nthe Phoenix Urban League, Mar.\n20, at the leagues annual meet\ning.\n\n\nThe award will be made for\nachievements despite racial in\nequities.\n\n\nReligious, civic, social and\nfraternal groups are invited to\nsend commentators to the Urban\nLeague before Mar. II.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1181,
+                    "y0": 4097,
+                    "x1": 1865,
+                    "y1": 4285
+                },
+                {
+                    "x0": 1181,
+                    "y0": 4308,
+                    "x1": 1994,
+                    "y1": 5021
+                }
+            ],
+            "bbox": [
+                1181,
+                4097,
+                1994,
+                5021
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                22,
+                25,
+                30,
+                7
+            ],
+            "headline": "Titchen\nIL wise",
+            "article": "The next time boiled cabbage\nis on your dinner menu, serve it\nwith this sparkling-good sauce.\nCut the cabbage into wedges\nbefore boiling it, and pour the\nhot sauce over each individual\nserving.\n\n\nMUSTARD CREAM SAUCE\n\n\n8 Tablespoons butter\n\n\ntablespoons flour\n\n\n\" teaspoon salt\n\n\nu teaspoon pepper\nIN cups milk\n\n\n2teospoons prepared mustard\n\"a teaspoon Lea 6 Perrins\n\n\nWorcestershire Souce\n\n\nsmell heed cabbage. cut In\n\n\nwedges. cooked and droined\nMelt butter In soucepon. Blend In\nflour. solt and pepper. Add milk\nslowly and cook over low heat, stir.\nring consistently until soucs 10 smooth\nand thickened. Add mustard and\nWorcestershire sauce; mix well.\nServe otop hot cabbage wedges.\nMokes Ia cups sauce. enough Tor\nfour servings.",
+            "byline": "by LYDIA PERKINS\n\nNippy Sauce for Cabbage",
+            "bbox_list": [
+                {
+                    "x0": 3838,
+                    "y0": 443,
+                    "x1": 4335,
+                    "y1": 660
+                },
+                {
+                    "x0": 3896,
+                    "y0": 688,
+                    "x1": 4346,
+                    "y1": 759
+                },
+                {
+                    "x0": 3843,
+                    "y0": 823,
+                    "x1": 4574,
+                    "y1": 888
+                },
+                {
+                    "x0": 3820,
+                    "y0": 887,
+                    "x1": 4615,
+                    "y1": 2225
+                }
+            ],
+            "bbox": [
+                3820,
+                443,
+                4615,
+                2225
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                20,
+                12
+            ],
+            "headline": "Musical Held",
+            "article": "The Interdenominational Eel\nlowship Chorus Of First Institu-\ntional Baptist Church presented\na Musicale Sum-, Mar. |, at 8\npm.\n\n\nMrs. A. G.. Kendrick was the\ndirector and Mrs. j. Johnson,\npianist.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 428,
+                    "y0": 2720,
+                    "x1": 920,
+                    "y1": 2832
+                },
+                {
+                    "x0": 247,
+                    "y0": 2854,
+                    "x1": 1072,
+                    "y1": 3328
+                }
+            ],
+            "bbox": [
+                247,
+                2720,
+                1072,
+                3328
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "Mrs. magellan Allen, 5Oo2\nS. 20 Place. was honored with a\nsurprise birthday party, >Satur-\nday. Feb. %.\n\n\nHer husband. Roy and other\nrelatives and friends kept the\nsecret for several days.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2939,
+                    "y0": 1751,
+                    "x1": 3751,
+                    "y1": 2160
+                }
+            ],
+            "bbox": [
+                2939,
+                1751,
+                3751,
+                2160
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "II was time for Saturday Feb. 49, friends gathered\nhelp Edward publisher Of The Arizona Tribune\ncelebrate his seventh year American citizen\n\n\nFrom Mrs. James Reed Roy Nixon Edward Banks ano\nCapt. Alfred Daniels. Of Tempe.\n\n\nBottom photo from left includes Mesdames Alfred Daniels\nHerbert williams Robert Bowman Mrs. Edward\nBanks standing\n\n\nSecond photoCapt Daniels Jim Reed Drs Robert Bowman\nand Herbert Williams.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 265,
+                    "y0": 2054,
+                    "x1": 1965,
+                    "y1": 2662
+                }
+            ],
+            "bbox": [
+                265,
+                2054,
+                1965,
+                2662
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-03-06_p1_sn84021918_0041421695A_1964030601_0321.json"
+        }
+    ]
+}

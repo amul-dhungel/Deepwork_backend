@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7427,
+        "width": 4831,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964072401/0479.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2781,
+                "y0": 522,
+                "x1": 4482,
+                "y1": 2838
+            },
+            "class": "article",
+            "raw_text": "Zoning regulations by cities which\nthe the land within the boundaries of the community\ndesignated community development\nALI cities and Arizona do have coming those\nthat do have enacted them under rights granted by the general\nthe State of Arizona The coming community\nthe requirements of law These requirements\nprovide that zoning laws be made accordance with\npreensive health safety morals\nwelfare of the community.\n\n\nDistricts\nsuch residential business Industrial Zonng regulate\nheight and size buildings percentage rea Of lot that building\nocup yards and other open spaces density popua\nton location budng and size and location advertising\nsigns and bilboards within limits.\n\n\nThe governing body of city provide by ordinance\nfor the which restrictions and the boundaries\ndistricts shall be determined established and enforced. No\nsuch ordinance may be enacted however, until after public hearing\nhas been held that parties citizens have\nopportunity to be heard.\n\n\nSuch ordinance coming which\nthe boundaries of the various districts and appropriate regulations\nenforced therein.\n\n\nof land which coming\nin which they located They called conforming\nand allowed operate their although\nthey rwrely allowed to expand\n\n\nGenerally anyone wanting change should discuss the\nmatter with the coming commission in his city\nof the State Bar of Arizona and written inform dvise\n\n\nFor Photos Call\n\n\n254-2921 276-2301",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2786,
+                "y0": 278,
+                "x1": 4058,
+                "y1": 424
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Law",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2786,
+                "y0": 429,
+                "x1": 3211,
+                "y1": 505
+            },
+            "class": "headline",
+            "raw_text": "zoninq VS.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 82,
+                "y0": 638,
+                "x1": 902,
+                "y1": 2675
+            },
+            "class": "article",
+            "raw_text": "Mrs. Doreatha Madison,\nmother of five. ages 8 to IL,\nand a high school dropout. proudly\nmarched with the graduating\nclass of 1864, at Paul Lawrence\nDunbar High School. Lynchburg,\nVirginia, recently.\n\n\nIn addition to receiving her\nhigh school diploma Mrs. Madi-\nson who wants to become a pro-\nfessional nurse, received the\ncoveted \"Modess Incentive\nAward\" from Mrs. Alma John\nwho is a consultant for the Per-\nsonal Products Company, Mill\ntown. New Jersey.\n\n\nMrs. John said, character,\ncommunity services and scholar\nship\" Too many good average\nstudents are lost because they\nlack decent clothing, money for\nfood, transportation and the basic\nnecessities of life.''\n\n\nMIR. and Mrs. Madison work\nin a general hospital at night in\norder to make ends meet.\ntwill use the cash award to\nfurther her education\n\n\nMIR. Seay, Principal of Dunbar\nand Mrs. Pauline Weeden, assis-\ntant principal. stated that Mrs.\nMadison had done more to\nmotivate students to stay in\nschool than hundred speeches\non the sub ect.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 53,
+                "y0": 295,
+                "x1": 931,
+                "y1": 610
+            },
+            "class": "headline",
+            "raw_text": "Mother Of 5 Gets\nHigh School DipIom q\nAnd An Award",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 88,
+                "y0": 2953,
+                "x1": 907,
+                "y1": 3256
+            },
+            "class": "article",
+            "raw_text": "Joseph, Uncle Joe) Clovese,\nthe last surviving Negro veteran\nof the Union Army in the Civil\nWar. died at the age of l07,\nJuly l3, 1913, at Dearborn, Mich.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 71,
+                "y0": 2692,
+                "x1": 733,
+                "y1": 2936
+            },
+            "class": "headline",
+            "raw_text": "Lost Negro\nOF Union Army\nDied 81 Years Ago",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 988,
+                "y0": 2570,
+                "x1": 2666,
+                "y1": 3296
+            },
+            "class": "article",
+            "raw_text": "Miss Patricia Lynn Franklin, ll7 W. Pima daughter of Mrs\nFranklin, farewell family and friends\nUnion Station Sunday morning.\nShe will Mr.. and Mrs. c. L. Scott her cousins in Newark\nNew Jersey\nMiss Franklin Mrs. Lucinda Johnson Peggy\nJohnson and Mrs. Gladys Mundy.\n\n\nWATCH FOR OUR SPECIAL EDITION\n\n\n\n\n\nOh\n\n\nCOMING NEXT WEEk-READ 1T.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 4858,
+                "y0": 406,
+                "x1": 6135,
+                "y1": 5814
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964072401_0479",
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                11,
+                1
+            ],
+            "headline": "Discussing Arizona Law\n\nzoninq VS.",
+            "article": "Zoning regulations by cities which\nthe the land within the boundaries of the community\ndesignated community development\nALI cities and Arizona do have coming those\nthat do have enacted them under rights granted by the general\nthe State of Arizona The coming community\nthe requirements of law These requirements\nprovide that zoning laws be made accordance with\npreensive health safety morals\nwelfare of the community.\n\n\nDistricts\nsuch residential business Industrial Zonng regulate\nheight and size buildings percentage rea Of lot that building\nocup yards and other open spaces density popua\nton location budng and size and location advertising\nsigns and bilboards within limits.\n\n\nThe governing body of city provide by ordinance\nfor the which restrictions and the boundaries\ndistricts shall be determined established and enforced. No\nsuch ordinance may be enacted however, until after public hearing\nhas been held that parties citizens have\nopportunity to be heard.\n\n\nSuch ordinance coming which\nthe boundaries of the various districts and appropriate regulations\nenforced therein.\n\n\nof land which coming\nin which they located They called conforming\nand allowed operate their although\nthey rwrely allowed to expand\n\n\nGenerally anyone wanting change should discuss the\nmatter with the coming commission in his city\nof the State Bar of Arizona and written inform dvise\n\n\nFor Photos Call\n\n\n254-2921 276-2301",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2786,
+                    "y0": 278,
+                    "x1": 4058,
+                    "y1": 424
+                },
+                {
+                    "x0": 2786,
+                    "y0": 429,
+                    "x1": 3211,
+                    "y1": 505
+                },
+                {
+                    "x0": 2781,
+                    "y0": 522,
+                    "x1": 4482,
+                    "y1": 2838
+                }
+            ],
+            "bbox": [
+                2781,
+                278,
+                4482,
+                2838
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-24_pna_sn84021918_0041421695A_1964072401_0479.json"
+        },
+        {
+            "object_ids": [
+                3,
+                2
+            ],
+            "headline": "Mother Of 5 Gets\nHigh School DipIom q\nAnd An Award",
+            "article": "Mrs. Doreatha Madison,\nmother of five. ages 8 to IL,\nand a high school dropout. proudly\nmarched with the graduating\nclass of 1864, at Paul Lawrence\nDunbar High School. Lynchburg,\nVirginia, recently.\n\n\nIn addition to receiving her\nhigh school diploma Mrs. Madi-\nson who wants to become a pro-\nfessional nurse, received the\ncoveted \"Modess Incentive\nAward\" from Mrs. Alma John\nwho is a consultant for the Per-\nsonal Products Company, Mill\ntown. New Jersey.\n\n\nMrs. John said, character,\ncommunity services and scholar\nship\" Too many good average\nstudents are lost because they\nlack decent clothing, money for\nfood, transportation and the basic\nnecessities of life.''\n\n\nMIR. and Mrs. Madison work\nin a general hospital at night in\norder to make ends meet.\ntwill use the cash award to\nfurther her education\n\n\nMIR. Seay, Principal of Dunbar\nand Mrs. Pauline Weeden, assis-\ntant principal. stated that Mrs.\nMadison had done more to\nmotivate students to stay in\nschool than hundred speeches\non the sub ect.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 53,
+                    "y0": 295,
+                    "x1": 931,
+                    "y1": 610
+                },
+                {
+                    "x0": 82,
+                    "y0": 638,
+                    "x1": 902,
+                    "y1": 2675
+                }
+            ],
+            "bbox": [
+                53,
+                295,
+                931,
+                2675
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-24_pna_sn84021918_0041421695A_1964072401_0479.json"
+        },
+        {
+            "object_ids": [
+                5,
+                6
+            ],
+            "headline": "Lost Negro\nOF Union Army\nDied 81 Years Ago",
+            "article": "Joseph, Uncle Joe) Clovese,\nthe last surviving Negro veteran\nof the Union Army in the Civil\nWar. died at the age of l07,\nJuly l3, 1913, at Dearborn, Mich.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 71,
+                    "y0": 2692,
+                    "x1": 733,
+                    "y1": 2936
+                },
+                {
+                    "x0": 88,
+                    "y0": 2953,
+                    "x1": 907,
+                    "y1": 3256
+                }
+            ],
+            "bbox": [
+                71,
+                2692,
+                907,
+                3256
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-24_pna_sn84021918_0041421695A_1964072401_0479.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Miss Patricia Lynn Franklin, ll7 W. Pima daughter of Mrs\nFranklin, farewell family and friends\nUnion Station Sunday morning.\nShe will Mr.. and Mrs. c. L. Scott her cousins in Newark\nNew Jersey\nMiss Franklin Mrs. Lucinda Johnson Peggy\nJohnson and Mrs. Gladys Mundy.\n\n\nWATCH FOR OUR SPECIAL EDITION\n\n\n\n\n\nOh\n\n\nCOMING NEXT WEEk-READ 1T.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 988,
+                    "y0": 2570,
+                    "x1": 2666,
+                    "y1": 3296
+                }
+            ],
+            "bbox": [
+                988,
+                2570,
+                2666,
+                3296
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-24_pna_sn84021918_0041421695A_1964072401_0479.json"
+        }
+    ]
+}

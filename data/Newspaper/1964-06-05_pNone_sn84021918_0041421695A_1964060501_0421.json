@@ -1,0 +1,525 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7405,
+        "width": 4901,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-06-05",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964060501/0421.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2895,
+                "y0": 5362,
+                "x1": 3706,
+                "y1": 6353
+            },
+            "class": "article",
+            "raw_text": "Valley Beautiful Citizens\nCouncil is endorsing the \"Jobs\nfor Youth campaign being CO..\nspoons ored by the Phoenix Jay\nGees and Arizona State Employ\nment Service.\n\n\n1t praised local media for the\nlatter's role in publicizing &C\ntivities designed to stimulate\nsummertime employment for\nthousands of Valley high school\nand college students.\n\n\nVBCC chairman Lewis ]. Rus\nkin said he has urged all Council\nmembers and volunteers to enlist\nin the Jaycees-ASES campaign.\n\n\n\"Even in our best kept sections",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3798,
+                "y0": 5351,
+                "x1": 4603,
+                "y1": 6283
+            },
+            "class": "article",
+            "raw_text": "there are fences that need paint\ning, alleys that need cleaning.\nhedges that need trimming--all\nJobs which can be performed by\nthese responsible young people,\"\nRuskin noted.\n\n\nSuch employment, he said, will\nmean important income for stu\ndents, as we'll as a noticeable\nimpr ovement in the Valley S ap-\npearance. Ruskin also pointed out\nthat industry, warehouses, mo-\ntells and other large land-users\ncould undertake summertime\n\"spruce up projects employing\nstudents.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2924,
+                "y0": 5137,
+                "x1": 4187,
+                "y1": 5340
+            },
+            "class": "headline",
+            "raw_text": "Valley Beautiful Council Says\nYouth Can Help",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3792,
+                "y0": 6502,
+                "x1": 4597,
+                "y1": 7151
+            },
+            "class": "article",
+            "raw_text": "Eleven million adults In the\nUnited States are illiterate, re-\nports the National Education As\nsiciation (NEA).\n\n\nIn addition to those who can\nnot read or write. says the NEA,\nmore than % million l8 years\nold and over have never gone past\nthe seventh grade, and 81 per\ncent of the population has not\ncompleted high school.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3815,
+                "y0": 6294,
+                "x1": 4493,
+                "y1": 6480
+            },
+            "class": "headline",
+            "raw_text": "II MILLION ADULTS\nILLITERkTE IN USA",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 246,
+                "y0": 6346,
+                "x1": 1057,
+                "y1": 7168
+            },
+            "class": "article",
+            "raw_text": "Lee A. Limbs. Jr., of 1917\nE. Adams, established two firsts\nwhen he became deputy US.\nmarshall.\n\n\nLimbs is the first Negro ever\nto serve as a deputy marshal\nin Arizona. At \"a, he also is the\nyoungest of 10 deputies serving\nin Arizona.\n\n\nLimbs attended Mesa High\nSchool, Phoenix College and the\nUniversity of Arizona. He for\nmerly was a Maricopa County\ndeputy sheriff.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 252,
+                "y0": 6068,
+                "x1": 982,
+                "y1": 6324
+            },
+            "class": "headline",
+            "raw_text": "Limbs Is First\nUS. Deputy Marshal\nIn Arizona",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1143,
+                "y0": 6328,
+                "x1": 1959,
+                "y1": 6850
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - June IL, the\nanniversary of the ambush slay-\ning of Medgar Evers, Mississ-\nippi field secretary of the Ma\ntional Association for the Ad-\nvancement of Colored People,\nwill be observed in more than\n200 communities with special\nmemorial services.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2022,
+                "y0": 6317,
+                "x1": 2833,
+                "y1": 6891
+            },
+            "class": "article",
+            "raw_text": "Roy Wilkins, NAACP executive\nsecretary, urged all Americans\nto support the Evers Memorial\nmembership drive and the Evers\nMemorial Fund.\n\n\nHe said small but significant\ngains had been made in Mississ-\nippi since the Staying, but\nNegroes are still faced with\nstrong police measures.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1368,
+                "y0": 6085,
+                "x1": 2665,
+                "y1": 6306
+            },
+            "class": "headline",
+            "raw_text": "Anniversary Programs Set For\n\n\nSlain Medgur Evers",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2907,
+                "y0": 6595,
+                "x1": 3718,
+                "y1": 7180
+            },
+            "class": "article",
+            "raw_text": "LAS VEGAS. New. The Ne\nvada Athletic Commission re-\nports former world heavyweight\nchampion Joe Louis is one of\neight men who have asked to\nreferee welterweight title\nmatch june IL.\n\n\nEmile Griffith will be defend\ning his crown in l5-round\nmatch with Luis Rodriguez.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2919,
+                "y0": 6375,
+                "x1": 3417,
+                "y1": 6567
+            },
+            "class": "headline",
+            "raw_text": "LOUIS WANTS\nreferee JOB",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2016,
+                "y0": 4691,
+                "x1": 2839,
+                "y1": 6040
+            },
+            "class": "article",
+            "raw_text": "David Banks, a l5-year-old\nfreshman at Phoenix South Noun\ntain High School. won the Ari-\niona championship of the Opti-\nmists International oratorical\ncontest.\n\n\nFive contestants we're judged\non five-minute speeches \"Op-\ntimism Formula for Freedom\"\nat the Ramada Inn.\n\n\nBanks received a wrist watch\nand a gold-plated trophy and\nwill represent Arizona in a ma\ntional oratory contest June 10\nin Denver.\n\n\nDavid, son of MIR. and Mrs.\nFred Banks of 1885 E. Wier,\nPhoenix, earlier defeated so\ncompetitors in two preliminary\ncontests held at Phoenix. He was\ncoached by Lucille Hicks, speech\nteacher at South Mountain High\nSchool.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 246,
+                "y0": 3320,
+                "x1": 1936,
+                "y1": 3853
+            },
+            "class": "article",
+            "raw_text": "of the 1864 graduating class\nof Palmdae School, 3l4o E. Wer.\n\n\nRecipients include Tommie Boone CT Joan Colbert and Ber\nnice Cochran Principals Gloria Williams Alpha; Ollie\nLinks Christopher Brown Arizona ibune Frank Evans Urban\nLeague; Dorothy Richardson Careers True\nGoodoe, Student Counc Velma Hamilton Newsette and 9TH\ngrade Evans Scouts Juan Pop Warner\nGauff and Dorothy Richardson 9TH grade.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 2913,
+                "y0": 2435,
+                "x1": 4597,
+                "y1": 2806
+            },
+            "class": "article",
+            "raw_text": "The Percy L. Julian Award of 1864 presented Roy Me-\nfoyer by Miss cquene Smith, former Julian Award winner.\nThe Julian School grada\nton exercises held We'd. May 27.\n\n\ntotal of 02 school for the last\ntime.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964060501_0421",
+    "full articles": [
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Valley Beautiful Citizens\nCouncil is endorsing the \"Jobs\nfor Youth campaign being CO..\nspoons ored by the Phoenix Jay\nGees and Arizona State Employ\nment Service.\n\n\n1t praised local media for the\nlatter's role in publicizing &C\ntivities designed to stimulate\nsummertime employment for\nthousands of Valley high school\nand college students.\n\n\nVBCC chairman Lewis ]. Rus\nkin said he has urged all Council\nmembers and volunteers to enlist\nin the Jaycees-ASES campaign.\n\n\n\"Even in our best kept sections",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2895,
+                    "y0": 5362,
+                    "x1": 3706,
+                    "y1": 6353
+                }
+            ],
+            "bbox": [
+                2895,
+                5362,
+                3706,
+                6353
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                20,
+                4
+            ],
+            "headline": "Valley Beautiful Council Says\nYouth Can Help",
+            "article": "there are fences that need paint\ning, alleys that need cleaning.\nhedges that need trimming--all\nJobs which can be performed by\nthese responsible young people,\"\nRuskin noted.\n\n\nSuch employment, he said, will\nmean important income for stu\ndents, as we'll as a noticeable\nimpr ovement in the Valley S ap-\npearance. Ruskin also pointed out\nthat industry, warehouses, mo-\ntells and other large land-users\ncould undertake summertime\n\"spruce up projects employing\nstudents.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2924,
+                    "y0": 5137,
+                    "x1": 4187,
+                    "y1": 5340
+                },
+                {
+                    "x0": 3798,
+                    "y0": 5351,
+                    "x1": 4603,
+                    "y1": 6283
+                }
+            ],
+            "bbox": [
+                2924,
+                5137,
+                4603,
+                6283
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                15,
+                6
+            ],
+            "headline": "II MILLION ADULTS\nILLITERkTE IN USA",
+            "article": "Eleven million adults In the\nUnited States are illiterate, re-\nports the National Education As\nsiciation (NEA).\n\n\nIn addition to those who can\nnot read or write. says the NEA,\nmore than % million l8 years\nold and over have never gone past\nthe seventh grade, and 81 per\ncent of the population has not\ncompleted high school.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3815,
+                    "y0": 6294,
+                    "x1": 4493,
+                    "y1": 6480
+                },
+                {
+                    "x0": 3792,
+                    "y0": 6502,
+                    "x1": 4597,
+                    "y1": 7151
+                }
+            ],
+            "bbox": [
+                3792,
+                6294,
+                4597,
+                7151
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                13,
+                7
+            ],
+            "headline": "Limbs Is First\nUS. Deputy Marshal\nIn Arizona",
+            "article": "Lee A. Limbs. Jr., of 1917\nE. Adams, established two firsts\nwhen he became deputy US.\nmarshall.\n\n\nLimbs is the first Negro ever\nto serve as a deputy marshal\nin Arizona. At \"a, he also is the\nyoungest of 10 deputies serving\nin Arizona.\n\n\nLimbs attended Mesa High\nSchool, Phoenix College and the\nUniversity of Arizona. He for\nmerly was a Maricopa County\ndeputy sheriff.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 252,
+                    "y0": 6068,
+                    "x1": 982,
+                    "y1": 6324
+                },
+                {
+                    "x0": 246,
+                    "y0": 6346,
+                    "x1": 1057,
+                    "y1": 7168
+                }
+            ],
+            "bbox": [
+                246,
+                6068,
+                1057,
+                7168
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "NEW YORK - June IL, the\nanniversary of the ambush slay-\ning of Medgar Evers, Mississ-\nippi field secretary of the Ma\ntional Association for the Ad-\nvancement of Colored People,\nwill be observed in more than\n200 communities with special\nmemorial services.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1143,
+                    "y0": 6328,
+                    "x1": 1959,
+                    "y1": 6850
+                }
+            ],
+            "bbox": [
+                1143,
+                6328,
+                1959,
+                6850
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                18,
+                9
+            ],
+            "headline": "Anniversary Programs Set For\n\n\nSlain Medgur Evers",
+            "article": "Roy Wilkins, NAACP executive\nsecretary, urged all Americans\nto support the Evers Memorial\nmembership drive and the Evers\nMemorial Fund.\n\n\nHe said small but significant\ngains had been made in Mississ-\nippi since the Staying, but\nNegroes are still faced with\nstrong police measures.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1368,
+                    "y0": 6085,
+                    "x1": 2665,
+                    "y1": 6306
+                },
+                {
+                    "x0": 2022,
+                    "y0": 6317,
+                    "x1": 2833,
+                    "y1": 6891
+                }
+            ],
+            "bbox": [
+                1368,
+                6085,
+                2833,
+                6891
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                14,
+                10
+            ],
+            "headline": "LOUIS WANTS\nreferee JOB",
+            "article": "LAS VEGAS. New. The Ne\nvada Athletic Commission re-\nports former world heavyweight\nchampion Joe Louis is one of\neight men who have asked to\nreferee welterweight title\nmatch june IL.\n\n\nEmile Griffith will be defend\ning his crown in l5-round\nmatch with Luis Rodriguez.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2919,
+                    "y0": 6375,
+                    "x1": 3417,
+                    "y1": 6567
+                },
+                {
+                    "x0": 2907,
+                    "y0": 6595,
+                    "x1": 3718,
+                    "y1": 7180
+                }
+            ],
+            "bbox": [
+                2907,
+                6375,
+                3718,
+                7180
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "David Banks, a l5-year-old\nfreshman at Phoenix South Noun\ntain High School. won the Ari-\niona championship of the Opti-\nmists International oratorical\ncontest.\n\n\nFive contestants we're judged\non five-minute speeches \"Op-\ntimism Formula for Freedom\"\nat the Ramada Inn.\n\n\nBanks received a wrist watch\nand a gold-plated trophy and\nwill represent Arizona in a ma\ntional oratory contest June 10\nin Denver.\n\n\nDavid, son of MIR. and Mrs.\nFred Banks of 1885 E. Wier,\nPhoenix, earlier defeated so\ncompetitors in two preliminary\ncontests held at Phoenix. He was\ncoached by Lucille Hicks, speech\nteacher at South Mountain High\nSchool.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2016,
+                    "y0": 4691,
+                    "x1": 2839,
+                    "y1": 6040
+                }
+            ],
+            "bbox": [
+                2016,
+                4691,
+                2839,
+                6040
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "of the 1864 graduating class\nof Palmdae School, 3l4o E. Wer.\n\n\nRecipients include Tommie Boone CT Joan Colbert and Ber\nnice Cochran Principals Gloria Williams Alpha; Ollie\nLinks Christopher Brown Arizona ibune Frank Evans Urban\nLeague; Dorothy Richardson Careers True\nGoodoe, Student Counc Velma Hamilton Newsette and 9TH\ngrade Evans Scouts Juan Pop Warner\nGauff and Dorothy Richardson 9TH grade.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 246,
+                    "y0": 3320,
+                    "x1": 1936,
+                    "y1": 3853
+                }
+            ],
+            "bbox": [
+                246,
+                3320,
+                1936,
+                3853
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "The Percy L. Julian Award of 1864 presented Roy Me-\nfoyer by Miss cquene Smith, former Julian Award winner.\nThe Julian School grada\nton exercises held We'd. May 27.\n\n\ntotal of 02 school for the last\ntime.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2913,
+                    "y0": 2435,
+                    "x1": 4597,
+                    "y1": 2806
+                }
+            ],
+            "bbox": [
+                2913,
+                2435,
+                4597,
+                2806
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-06-05_pna_sn84021918_0041421695A_1964060501_0421.json"
+        }
+    ]
+}

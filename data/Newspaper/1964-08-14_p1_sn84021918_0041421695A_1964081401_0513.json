@@ -1,0 +1,678 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964081401/0513.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7439,
+        "width": 4871
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2894,
+                "y0": 534,
+                "x1": 3709,
+                "y1": 1698
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Contrary to pop\nular belief, the vast ma jority of\nAmericas poor are neither black\nnor living in depressed areas\nlike Harlem or Applachia.\nThese forgotten\" poor are the\nfive million invisible white\nfamilies who live hidden In city\nslums.\n\n\nIn the current issue of LOOK\nMaya zine, Michael Harrington,\nauthor Of the best-selling book,\n\"The Other America\" says that\nof the 9.3 million families cited\nby President Johnson as poor,\n70 per cent are white.\n\n\nA family with an annual income\nbelow $4,000 is categorized by\nthe President as poor. Also\ndebunked were other popular",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3789,
+                "y0": 528,
+                "x1": 4604,
+                "y1": 1686
+            },
+            "class": "article",
+            "raw_text": "myths concerning the nations\npoor.\n\n\nHarrington finds that: (l) The\npoor generally are not poor be-\ncause they are lazy; they have\ntheir pride and work hard, but\ncontinue to get poorer. (2) A\nregular salary doesn't wipe away\npoverty; many heads of families\nwould be better off by not working\nand accepting welfare checks, he\nsays.\n\n\nHarrington, in his Look article,\nsays that help of sorts is on the\nway. He adds:\n\n\nwith President Johnson's\ndeclaration of war on poverty,\nIS million Americans have begun\nto emerge from social\nanonymity\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3179,
+                "y0": 296,
+                "x1": 4360,
+                "y1": 512
+            },
+            "class": "headline",
+            "raw_text": "Look Article Says Whites\nAre More Poverty Stricken",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2894,
+                "y0": 2022,
+                "x1": 3709,
+                "y1": 2674
+            },
+            "class": "article",
+            "raw_text": "S/Sgt. Boudreaux Lester, Jr.,\nof Luke Air Force Base, has\nstarted one man campaign to\nraise funds to help clothe some\nneedy children for school. He\nwill collect old newspapers. and\nmagazines from homes in the\nValley and sell them for waste\npaper.\n\n\nFor free pickup call Sgt. Les\nter 254-4oo0.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2912,
+                "y0": 1737,
+                "x1": 3395,
+                "y1": 2000
+            },
+            "class": "headline",
+            "raw_text": "Sergeant\nWants Paper\nTo Buy Shoes",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2888,
+                "y0": 3086,
+                "x1": 3703,
+                "y1": 3819
+            },
+            "class": "article",
+            "raw_text": "TAMPA, Fla (NPD Mrs.\nHenri Lee Hurley, 2l-year-old\nmother of four small children\nwas hospitalized with bullet\nlodged in the base of her skull.\nShe was wounded during \"play-\nfull\" act of her new boy friend,\nHarry Mimmenger, %, who fired\nan \"unloaded'' % caliber pis-\ntol at her.\n\n\nAccording to a police report\nthe pair was riding in Mimmen-",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2912,
+                "y0": 2801,
+                "x1": 3598,
+                "y1": 3028
+            },
+            "class": "headline",
+            "raw_text": "Mother Of -Four\nShot BY Boy Friend",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2005,
+                "y0": 2934,
+                "x1": 2825,
+                "y1": 3819
+            },
+            "class": "article",
+            "raw_text": "Nine young men known as the\nHustlers Car Club are sponsor\ning a pig rattle. One half pig\nprocessed and wrapped will be\nthe lucky ticket holders prize.\nThe drawing will be held Sat-,\nAug. IS.\n\n\nTickets may be purchased from\nOviron Freeman, Billy ]. Woods,\nJoe Allen, Jesse Scott, John An\nderson, Ona Woods, Ernest Aus\ntin, Freddie King and Willie Ross.\n\n\nProceeds will be used to enter\nracing contests in the Valley and\nthe Southwest.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2022,
+                "y0": 2708,
+                "x1": 2668,
+                "y1": 2906
+            },
+            "class": "headline",
+            "raw_text": "CAR CLUB TO\n\n\nHOLD PIG RATTLE",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3789,
+                "y0": 1865,
+                "x1": 4604,
+                "y1": 2796
+            },
+            "class": "article",
+            "raw_text": "Dear Editors:\n\n\nPlease accept our sincere\nthanks for your wonderful CO.\noperation extended us during our\nrecent Pacific States ASS ISOLATION\nof Elks Conventio on. The coverage\nwas terrific.\n\n\nWm.H. Patterson Lodge #477\n\n\nGrand Canyon Temple #437\nMrs. Charlesetta McClammy,\nSecretary\nMrs. Lillian Fit,\nPublic Relations",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3801,
+                "y0": 1720,
+                "x1": 4342,
+                "y1": 1831
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 13,
+            "reading_order_id": -2
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3807,
+                "y0": 1848,
+                "x1": 4156,
+                "y1": 1913
+            },
+            "class": "author",
+            "raw_text": "Dear Editors:",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3783,
+                "y0": 2841,
+                "x1": 4592,
+                "y1": 3551
+            },
+            "class": "article",
+            "raw_text": "gers car. They stopped to talk,\nand Mimmenger pulled the gun\nfrom the glove compartment,\npointed 1t at Mrs. Hurleys head\nand pulled the trigger. The\nwoman said Mimmenger had told\nher che had unloaded it.\"\n\n\nMimmenger was arrested on\ncharge of assault with intent to\nkill, but was later released when\nMrs. Hurley refused to press\ncharges.",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 227,
+                "y0": 2661,
+                "x1": 1919,
+                "y1": 3796
+            },
+            "class": "article",
+            "raw_text": "Marriage repeated Friday, Aug. Souhminster\nPresbyterian Church by DR.. and Mrs. Rowel Ashford.\n\n\nMiss acquelne Frances Smith, 1864\ngraduate of Arizona State University.\n\n\ngroom captain stationed Luke Air Force Base The\ncouple will reside in Glendale.\n\n\nphoto the weddig party including from left\nPrice, Mrs. Ashford Dr. Ashford\nand Roscoe Maddox, best\n\n\nfamily pictures Mr. and Mrs. George\nRodgers grandparents the brde Mr. and Mrs. j. Ford Smith,\nparents BRIDE Mrs. Thomas Ashford, of Bir\nmingham, Ala. parents of the groom.\n\n\nBottom photo left Looking gifts Misses Gertrude\nMurrell, Woods, Marn Strickland Peggy\nBell and LaVerne Swain.\n\n\nSecond Fred Warren, Sr, Mrs.\nRodgers Mrs. Hattie ardison indianapolis\nMrs. Fred Warren, Sr.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3766,
+                "y0": 5410,
+                "x1": 4517,
+                "y1": 5620
+            },
+            "class": "article",
+            "raw_text": "SOUBLET'S BEAUTY SHOP\n2O14 E. Broadway\nBR 6-3964",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3772,
+                "y0": 5654,
+                "x1": 4575,
+                "y1": 5841
+            },
+            "class": "article",
+            "raw_text": "JACKSON'S BEAUTY SHOPPE\n1898 E. Madison\nAL 2-9541",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3789,
+                "y0": 3888,
+                "x1": 4586,
+                "y1": 4063
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-O511",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3818,
+                "y0": 3609,
+                "x1": 4551,
+                "y1": 3865
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3772,
+                "y0": 5108,
+                "x1": 4441,
+                "y1": 5365
+            },
+            "class": "article",
+            "raw_text": "LADY EBONEE BEAUTY\nCENTER\nOF w. Buckeye Rd.\nAL 2-2642",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3778,
+                "y0": 4817,
+                "x1": 4371,
+                "y1": 5068
+            },
+            "class": "article",
+            "raw_text": "HILLS PHOENICIAN\nBEAUTY SHOP\n2110 E. Jeffer son\nAL $1,000",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-08-14"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "NEW YORK = Contrary to pop\nular belief, the vast ma jority of\nAmericas poor are neither black\nnor living in depressed areas\nlike Harlem or Applachia.\nThese forgotten\" poor are the\nfive million invisible white\nfamilies who live hidden In city\nslums.\n\n\nIn the current issue of LOOK\nMaya zine, Michael Harrington,\nauthor Of the best-selling book,\n\"The Other America\" says that\nof the 9.3 million families cited\nby President Johnson as poor,\n70 per cent are white.\n\n\nA family with an annual income\nbelow $4,000 is categorized by\nthe President as poor. Also\ndebunked were other popular",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2894,
+                    "y0": 534,
+                    "x1": 3709,
+                    "y1": 1698
+                }
+            ],
+            "bbox": [
+                2894,
+                534,
+                3709,
+                1698
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                9,
+                1
+            ],
+            "headline": "Look Article Says Whites\nAre More Poverty Stricken",
+            "article": "myths concerning the nations\npoor.\n\n\nHarrington finds that: (l) The\npoor generally are not poor be-\ncause they are lazy; they have\ntheir pride and work hard, but\ncontinue to get poorer. (2) A\nregular salary doesn't wipe away\npoverty; many heads of families\nwould be better off by not working\nand accepting welfare checks, he\nsays.\n\n\nHarrington, in his Look article,\nsays that help of sorts is on the\nway. He adds:\n\n\nwith President Johnson's\ndeclaration of war on poverty,\nIS million Americans have begun\nto emerge from social\nanonymity\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3179,
+                    "y0": 296,
+                    "x1": 4360,
+                    "y1": 512
+                },
+                {
+                    "x0": 3789,
+                    "y0": 528,
+                    "x1": 4604,
+                    "y1": 1686
+                }
+            ],
+            "bbox": [
+                3179,
+                296,
+                4604,
+                1686
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                6,
+                2
+            ],
+            "headline": "Sergeant\nWants Paper\nTo Buy Shoes",
+            "article": "S/Sgt. Boudreaux Lester, Jr.,\nof Luke Air Force Base, has\nstarted one man campaign to\nraise funds to help clothe some\nneedy children for school. He\nwill collect old newspapers. and\nmagazines from homes in the\nValley and sell them for waste\npaper.\n\n\nFor free pickup call Sgt. Les\nter 254-4oo0.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2912,
+                    "y0": 1737,
+                    "x1": 3395,
+                    "y1": 2000
+                },
+                {
+                    "x0": 2894,
+                    "y0": 2022,
+                    "x1": 3709,
+                    "y1": 2674
+                }
+            ],
+            "bbox": [
+                2894,
+                1737,
+                3709,
+                2674
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                10,
+                4
+            ],
+            "headline": "Mother Of -Four\nShot BY Boy Friend",
+            "article": "TAMPA, Fla (NPD Mrs.\nHenri Lee Hurley, 2l-year-old\nmother of four small children\nwas hospitalized with bullet\nlodged in the base of her skull.\nShe was wounded during \"play-\nfull\" act of her new boy friend,\nHarry Mimmenger, %, who fired\nan \"unloaded'' % caliber pis-\ntol at her.\n\n\nAccording to a police report\nthe pair was riding in Mimmen-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2912,
+                    "y0": 2801,
+                    "x1": 3598,
+                    "y1": 3028
+                },
+                {
+                    "x0": 2888,
+                    "y0": 3086,
+                    "x1": 3703,
+                    "y1": 3819
+                }
+            ],
+            "bbox": [
+                2888,
+                2801,
+                3703,
+                3819
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                11,
+                7
+            ],
+            "headline": "CAR CLUB TO\n\n\nHOLD PIG RATTLE",
+            "article": "Nine young men known as the\nHustlers Car Club are sponsor\ning a pig rattle. One half pig\nprocessed and wrapped will be\nthe lucky ticket holders prize.\nThe drawing will be held Sat-,\nAug. IS.\n\n\nTickets may be purchased from\nOviron Freeman, Billy ]. Woods,\nJoe Allen, Jesse Scott, John An\nderson, Ona Woods, Ernest Aus\ntin, Freddie King and Willie Ross.\n\n\nProceeds will be used to enter\nracing contests in the Valley and\nthe Southwest.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2022,
+                    "y0": 2708,
+                    "x1": 2668,
+                    "y1": 2906
+                },
+                {
+                    "x0": 2005,
+                    "y0": 2934,
+                    "x1": 2825,
+                    "y1": 3819
+                }
+            ],
+            "bbox": [
+                2005,
+                2708,
+                2825,
+                3819
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                18,
+                29,
+                12
+            ],
+            "headline": "",
+            "article": "Dear Editors:\n\n\nPlease accept our sincere\nthanks for your wonderful CO.\noperation extended us during our\nrecent Pacific States ASS ISOLATION\nof Elks Conventio on. The coverage\nwas terrific.\n\n\nWm.H. Patterson Lodge #477\n\n\nGrand Canyon Temple #437\nMrs. Charlesetta McClammy,\nSecretary\nMrs. Lillian Fit,\nPublic Relations",
+            "byline": "Dear Editors:",
+            "bbox_list": [
+                {
+                    "x0": 3801,
+                    "y0": 1720,
+                    "x1": 4342,
+                    "y1": 1831
+                },
+                {
+                    "x0": 3807,
+                    "y0": 1848,
+                    "x1": 4156,
+                    "y1": 1913
+                },
+                {
+                    "x0": 3789,
+                    "y0": 1865,
+                    "x1": 4604,
+                    "y1": 2796
+                }
+            ],
+            "bbox": [
+                3789,
+                1720,
+                4604,
+                2796
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "gers car. They stopped to talk,\nand Mimmenger pulled the gun\nfrom the glove compartment,\npointed 1t at Mrs. Hurleys head\nand pulled the trigger. The\nwoman said Mimmenger had told\nher che had unloaded it.\"\n\n\nMimmenger was arrested on\ncharge of assault with intent to\nkill, but was later released when\nMrs. Hurley refused to press\ncharges.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3783,
+                    "y0": 2841,
+                    "x1": 4592,
+                    "y1": 3551
+                }
+            ],
+            "bbox": [
+                3783,
+                2841,
+                4592,
+                3551
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "Marriage repeated Friday, Aug. Souhminster\nPresbyterian Church by DR.. and Mrs. Rowel Ashford.\n\n\nMiss acquelne Frances Smith, 1864\ngraduate of Arizona State University.\n\n\ngroom captain stationed Luke Air Force Base The\ncouple will reside in Glendale.\n\n\nphoto the weddig party including from left\nPrice, Mrs. Ashford Dr. Ashford\nand Roscoe Maddox, best\n\n\nfamily pictures Mr. and Mrs. George\nRodgers grandparents the brde Mr. and Mrs. j. Ford Smith,\nparents BRIDE Mrs. Thomas Ashford, of Bir\nmingham, Ala. parents of the groom.\n\n\nBottom photo left Looking gifts Misses Gertrude\nMurrell, Woods, Marn Strickland Peggy\nBell and LaVerne Swain.\n\n\nSecond Fred Warren, Sr, Mrs.\nRodgers Mrs. Hattie ardison indianapolis\nMrs. Fred Warren, Sr.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 227,
+                    "y0": 2661,
+                    "x1": 1919,
+                    "y1": 3796
+                }
+            ],
+            "bbox": [
+                227,
+                2661,
+                1919,
+                3796
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "SOUBLET'S BEAUTY SHOP\n2O14 E. Broadway\nBR 6-3964",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3766,
+                    "y0": 5410,
+                    "x1": 4517,
+                    "y1": 5620
+                }
+            ],
+            "bbox": [
+                3766,
+                5410,
+                4517,
+                5620
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "JACKSON'S BEAUTY SHOPPE\n1898 E. Madison\nAL 2-9541",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3772,
+                    "y0": 5654,
+                    "x1": 4575,
+                    "y1": 5841
+                }
+            ],
+            "bbox": [
+                3772,
+                5654,
+                4575,
+                5841
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                19,
+                24
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-O511",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3818,
+                    "y0": 3609,
+                    "x1": 4551,
+                    "y1": 3865
+                },
+                {
+                    "x0": 3789,
+                    "y0": 3888,
+                    "x1": 4586,
+                    "y1": 4063
+                }
+            ],
+            "bbox": [
+                3789,
+                3609,
+                4586,
+                4063
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "LADY EBONEE BEAUTY\nCENTER\nOF w. Buckeye Rd.\nAL 2-2642",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3772,
+                    "y0": 5108,
+                    "x1": 4441,
+                    "y1": 5365
+                }
+            ],
+            "bbox": [
+                3772,
+                5108,
+                4441,
+                5365
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "HILLS PHOENICIAN\nBEAUTY SHOP\n2110 E. Jeffer son\nAL $1,000",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3778,
+                    "y0": 4817,
+                    "x1": 4371,
+                    "y1": 5068
+                }
+            ],
+            "bbox": [
+                3778,
+                4817,
+                4371,
+                5068
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-08-14_p1_sn84021918_0041421695A_1964081401_0513.json"
+        }
+    ]
+}

@@ -1,0 +1,387 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964102301/0604.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7395,
+        "width": 4885
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1246,
+                "y0": 404,
+                "x1": 2073,
+                "y1": 2236
+            },
+            "class": "article",
+            "raw_text": "annual address, entitled, \"In The\nName of God, We Will Set Up Our\nBanner\n\n\nWe are proud of Miss Doris\nMeador, the 1864 Homecoming\nQueen of Phoenix Union High\nSchool.\n\n\nDebonairs are sponsoring\nTeen Time Party, Sum-, Oct.\nIs. 7 pm. at Pula ski Hall. 42nd\nand E. Mcdowell. A Miss Teen\nDebonair and a Mr.. Sweetheart\nwill be named. All proceeds ill\nhelp the underprivileged child\nrem Christmas Fund.\n\n\nDeacon Board of Pilgrim Rest\nBaptist Church is sponsoring\nbuilding fund program Sum-. Oct.\nIs. Seven pastors will present\nsermons on The Seven Seals.\nGospel Velvatones have re-\nturned from making their guest\nappearance in Los Angeles.\n\n\nAGA Valley Hi affiliate #l0will\nhold installation program Mon\nday, Oct. 26 at the Valley Life\nBldg.\n\n\nThought of the week-Do not\ndelay the golden moments fly.\n\n\n-Longfellow\n\n\nFlora Ruffin 258-00O5",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2118,
+                "y0": 600,
+                "x1": 2951,
+                "y1": 2294
+            },
+            "class": "article",
+            "raw_text": "VATICAN CTTY-Pope Paul vi\nannounced the canonization of %\nUganda martyrs Sunday as the\nfirst African saints of modern\ntimes from the black races.\n\n\nNative drums took the news\nfrom the villages across equa-\ntorial Africa, where the %\nsainted tribesmen lived and died\nin the late 18th century.\n\n\nThe canonization rites we're\naccompanied by the beat of new\nAfrican oratorio while African\ndelegates met in St. Peter s Ba-\nsilica. The saints include a\ncourt jester. herd sman, four\nmusicians, clothmaker, a dug\nout canoe builder and a potter.\n\n\nForty two African cardinals\nlistened as the saints names\nwe're read and proclaimed as\nascendants into heaven.\n\n\nFor the first time four Negro\nprelates were the only ones to\nassist the Pope in the mass cele-\nbration.\n\n\nThere are an estimated 2 mil\nlion African Catholics living in\nthe eight dioceses of Uganda.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2176,
+                "y0": 381,
+                "x1": 2663,
+                "y1": 578
+            },
+            "class": "headline",
+            "raw_text": "~ Africans\nCunonized",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 316,
+                "y0": 612,
+                "x1": 1143,
+                "y1": 2473
+            },
+            "class": "article",
+            "raw_text": "Congratulations to the newly\nweds, Mr.. and Mrs. Harry Phil\nlips, who both had shows at KCAC.\nThey spent a short honeymoon in\nLas Vegas where theywere mar\nried. Mrs. Moses Woods is the\nbusy chairman of the second\nannual ia shion show sponsored\nby the auxiliary of VFW Post\nl7l0. Plan to support their eff\nforts at Ma sonic Temple, Sum-.\nOct. Is, So pm. A dance will\nfollow the ia shion show.\n\n\nHats off to Jerry Oliver, who\nwa named the Student of the\nMonth at Phoenix Union High.\nHe was honored at a luncheon\nmeeting of the Northeast Opti-\nmist Club.\n\n\nJerry is good student and very\nactive in the Parma ssus and Bro\ntherhood Clubs.\n\n\nenjoyed the thoughts from\nRev. L. ]. Dunbar s sermon,\n''We Are Waiting For His Call\"\nCome out and hear him some\nSunday, or visit your own church.\n\n\nSalt River Valley Baptist Asso-\ncitation convention opened Tues,\nOct. 20.\n\n\nMrs. E. Allen, senior women",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 351,
+                "y0": 381,
+                "x1": 854,
+                "y1": 590
+            },
+            "class": "headline",
+            "raw_text": "ALL AROUND\nFIoru Ruffin",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1252,
+                "y0": 2409,
+                "x1": 2067,
+                "y1": 2878
+            },
+            "class": "article",
+            "raw_text": "The Harlem Globe Trotters.\nthe worlds best known and most\ntravelled basketball team, will\nplay in the Arizona State Fair\nColiseum the first week in Febru-\nary 1866, announced Emmett\nRace, general manager of the\nColiseum. He said the Los",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1385,
+                "y0": 2293,
+                "x1": 2807,
+                "y1": 2392
+            },
+            "class": "headline",
+            "raw_text": "Harlem Trotters Coming Says Race",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2124,
+                "y0": 2414,
+                "x1": 2946,
+                "y1": 2878
+            },
+            "class": "article",
+            "raw_text": "Angeles Lakers professional\nbasketball team and officials of\nthe Western Hockey League have\nexpressed interest in scheduling\nevents into the Coliseum.\n\n\nRace said the exact date of the\nGlobe Trotters appearance has\nnot been set.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 345,
+                "y0": 2686,
+                "x1": 1166,
+                "y1": 2866
+            },
+            "class": "article",
+            "raw_text": "A thankful heart Is not only\nthe greatest virtue but the parent\nOf all the other virtues. Cicero",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 385,
+                "y0": 2484,
+                "x1": 848,
+                "y1": 2670
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2078,
+                "y0": 5124,
+                "x1": 3009,
+                "y1": 7205
+            },
+            "class": "article",
+            "raw_text": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nF1O4\n\n\nor recent experience\non century series aircraft\nAIRCRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical,\nelectr onic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nL. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets. mis- siles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\n935-93ll Elk. 2253",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-23"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "annual address, entitled, \"In The\nName of God, We Will Set Up Our\nBanner\n\n\nWe are proud of Miss Doris\nMeador, the 1864 Homecoming\nQueen of Phoenix Union High\nSchool.\n\n\nDebonairs are sponsoring\nTeen Time Party, Sum-, Oct.\nIs. 7 pm. at Pula ski Hall. 42nd\nand E. Mcdowell. A Miss Teen\nDebonair and a Mr.. Sweetheart\nwill be named. All proceeds ill\nhelp the underprivileged child\nrem Christmas Fund.\n\n\nDeacon Board of Pilgrim Rest\nBaptist Church is sponsoring\nbuilding fund program Sum-. Oct.\nIs. Seven pastors will present\nsermons on The Seven Seals.\nGospel Velvatones have re-\nturned from making their guest\nappearance in Los Angeles.\n\n\nAGA Valley Hi affiliate #l0will\nhold installation program Mon\nday, Oct. 26 at the Valley Life\nBldg.\n\n\nThought of the week-Do not\ndelay the golden moments fly.\n\n\n-Longfellow\n\n\nFlora Ruffin 258-00O5",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1246,
+                    "y0": 404,
+                    "x1": 2073,
+                    "y1": 2236
+                }
+            ],
+            "bbox": [
+                1246,
+                404,
+                2073,
+                2236
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-23_p1_sn84021918_0041421695A_1964102301_0604.json"
+        },
+        {
+            "object_ids": [
+                11,
+                4
+            ],
+            "headline": "~ Africans\nCunonized",
+            "article": "VATICAN CTTY-Pope Paul vi\nannounced the canonization of %\nUganda martyrs Sunday as the\nfirst African saints of modern\ntimes from the black races.\n\n\nNative drums took the news\nfrom the villages across equa-\ntorial Africa, where the %\nsainted tribesmen lived and died\nin the late 18th century.\n\n\nThe canonization rites we're\naccompanied by the beat of new\nAfrican oratorio while African\ndelegates met in St. Peter s Ba-\nsilica. The saints include a\ncourt jester. herd sman, four\nmusicians, clothmaker, a dug\nout canoe builder and a potter.\n\n\nForty two African cardinals\nlistened as the saints names\nwe're read and proclaimed as\nascendants into heaven.\n\n\nFor the first time four Negro\nprelates were the only ones to\nassist the Pope in the mass cele-\nbration.\n\n\nThere are an estimated 2 mil\nlion African Catholics living in\nthe eight dioceses of Uganda.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2176,
+                    "y0": 381,
+                    "x1": 2663,
+                    "y1": 578
+                },
+                {
+                    "x0": 2118,
+                    "y0": 600,
+                    "x1": 2951,
+                    "y1": 2294
+                }
+            ],
+            "bbox": [
+                2118,
+                381,
+                2951,
+                2294
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-23_p1_sn84021918_0041421695A_1964102301_0604.json"
+        },
+        {
+            "object_ids": [
+                10,
+                5
+            ],
+            "headline": "ALL AROUND\nFIoru Ruffin",
+            "article": "Congratulations to the newly\nweds, Mr.. and Mrs. Harry Phil\nlips, who both had shows at KCAC.\nThey spent a short honeymoon in\nLas Vegas where theywere mar\nried. Mrs. Moses Woods is the\nbusy chairman of the second\nannual ia shion show sponsored\nby the auxiliary of VFW Post\nl7l0. Plan to support their eff\nforts at Ma sonic Temple, Sum-.\nOct. Is, So pm. A dance will\nfollow the ia shion show.\n\n\nHats off to Jerry Oliver, who\nwa named the Student of the\nMonth at Phoenix Union High.\nHe was honored at a luncheon\nmeeting of the Northeast Opti-\nmist Club.\n\n\nJerry is good student and very\nactive in the Parma ssus and Bro\ntherhood Clubs.\n\n\nenjoyed the thoughts from\nRev. L. ]. Dunbar s sermon,\n''We Are Waiting For His Call\"\nCome out and hear him some\nSunday, or visit your own church.\n\n\nSalt River Valley Baptist Asso-\ncitation convention opened Tues,\nOct. 20.\n\n\nMrs. E. Allen, senior women",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 351,
+                    "y0": 381,
+                    "x1": 854,
+                    "y1": 590
+                },
+                {
+                    "x0": 316,
+                    "y0": 612,
+                    "x1": 1143,
+                    "y1": 2473
+                }
+            ],
+            "bbox": [
+                316,
+                381,
+                1143,
+                2473
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-23_p1_sn84021918_0041421695A_1964102301_0604.json"
+        },
+        {
+            "object_ids": [
+                17,
+                7
+            ],
+            "headline": "Harlem Trotters Coming Says Race",
+            "article": "The Harlem Globe Trotters.\nthe worlds best known and most\ntravelled basketball team, will\nplay in the Arizona State Fair\nColiseum the first week in Febru-\nary 1866, announced Emmett\nRace, general manager of the\nColiseum. He said the Los",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1385,
+                    "y0": 2293,
+                    "x1": 2807,
+                    "y1": 2392
+                },
+                {
+                    "x0": 1252,
+                    "y0": 2409,
+                    "x1": 2067,
+                    "y1": 2878
+                }
+            ],
+            "bbox": [
+                1252,
+                2293,
+                2807,
+                2878
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-10-23_p1_sn84021918_0041421695A_1964102301_0604.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Angeles Lakers professional\nbasketball team and officials of\nthe Western Hockey League have\nexpressed interest in scheduling\nevents into the Coliseum.\n\n\nRace said the exact date of the\nGlobe Trotters appearance has\nnot been set.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2124,
+                    "y0": 2414,
+                    "x1": 2946,
+                    "y1": 2878
+                }
+            ],
+            "bbox": [
+                2124,
+                2414,
+                2946,
+                2878
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-10-23_p1_sn84021918_0041421695A_1964102301_0604.json"
+        },
+        {
+            "object_ids": [
+                12,
+                16
+            ],
+            "headline": "",
+            "article": "A thankful heart Is not only\nthe greatest virtue but the parent\nOf all the other virtues. Cicero",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 385,
+                    "y0": 2484,
+                    "x1": 848,
+                    "y1": 2670
+                },
+                {
+                    "x0": 345,
+                    "y0": 2686,
+                    "x1": 1166,
+                    "y1": 2866
+                }
+            ],
+            "bbox": [
+                345,
+                2484,
+                1166,
+                2866
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-10-23_p1_sn84021918_0041421695A_1964102301_0604.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nF1O4\n\n\nor recent experience\non century series aircraft\nAIRCRAFT MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical,\nelectr onic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\nL. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets. mis- siles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer\n935-93ll Elk. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2078,
+                    "y0": 5124,
+                    "x1": 3009,
+                    "y1": 7205
+                }
+            ],
+            "bbox": [
+                2078,
+                5124,
+                3009,
+                7205
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-10-23_p1_sn84021918_0041421695A_1964102301_0604.json"
+        }
+    ]
+}

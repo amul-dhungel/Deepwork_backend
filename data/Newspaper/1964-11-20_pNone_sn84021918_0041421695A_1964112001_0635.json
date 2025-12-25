@@ -1,0 +1,577 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4858,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112001/0635.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1890,
+                "y0": 5475,
+                "x1": 2690,
+                "y1": 6414
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA Two teenage\nboys, Marty Haynes, l6, and Levi\nTaylor, l9, are being held without\nbail in the county jail. They will\nstand trial for the brutal and\nsadistic Staying of Henry Glenn,\n10, la st summer.\n\n\nGlenn S boy was found in the\nthick shrubbery behind a golf\nrange.\n\n\nMedical examiners said the\nvictim had been sexually mu-\n.tilated. He had been burned while\nalive and he had been suffocated.\n\n\nHaynes Is ninth grade student\nand Taylor works in a hat factory.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1924,
+                "y0": 5260,
+                "x1": 2406,
+                "y1": 5447
+            },
+            "class": "headline",
+            "raw_text": "z HELD IN\n\n\nBOYS DEATH",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 117,
+                "y0": 5967,
+                "x1": 929,
+                "y1": 7208
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - Leaders of the\nBlack Muslin movement working\nto era Sc the general impression\nthat their group hates whites and\nwants to live in separate nation,\nThe Insider' s Newsletter re-\nported.\n\n\nThey are trying to change the\nimage of the movement by en-\npha sizing the self-imporvement\nspects of Black Muslin policy\nand are denying the anti-white\ndoctrines long attributed to them.\n\n\nAccording to The Newsletter,\nspoke smen for the movement now\nsay that Negroes and whites must\n\"rea son together\" to end racial\nconflict in America.\n\n\nRepeatedly behind the reson for\nthe shift in policy is that the\nrank and file in the movement",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 146,
+                "y0": 5758,
+                "x1": 628,
+                "y1": 5945
+            },
+            "class": "headline",
+            "raw_text": "MusIims Seek\nN ew I'm uge",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2747,
+                "y0": 5150,
+                "x1": 3577,
+                "y1": 7150
+            },
+            "class": "article",
+            "raw_text": "PHOENIX = Six AriZonans,\nranging in age from Is to 70,\nwill appear on the nationally\ntelevised Ted Mack s Original\nAmateur Hour Jan. 8 and\nJan. 10.\n\n\nThey we're selected from the\ntop Is acts which appearedin\nfinal competition In the State\nwide Amateur Talent Contest at\nthe Arizona State Fair.\n\n\nWinning first place nd 81 900\ncash was John T. Robinson, 20,\nAirman First Class from Will\nuams Air Force Base. The\nbaritone singer presented his\nrendition. of \"When Fall In\nLove-\"\n\n\nSecond place winner wa Ari-\nIONA State University coed Vicky\nBond, 20, who sang an aria from\nMadam Butterfly. She received\n$3.50.\n\n\nThird place went to The Num-\nblers, a foursome of l3-year-old\neighth graders from Miami, who\npresented a pantomime routine\ncomplete with beatle wigs. They\nreceived $500.\n\n\nAll three top acts will appear\non the national Chs television\nshow, according to Lloyd Marx,\na repre- sentative of Original\nAmateur Hour from New York",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3639,
+                "y0": 5127,
+                "x1": 4457,
+                "y1": 7191
+            },
+            "class": "article",
+            "raw_text": "City. He said he would also\nbe contracting other winners and\nsome acts which didn't win the\ntough competition at the Arizona\nState Fair.\n\n\nOther winners who shared In\nthe total $4,000 in prize money\nwe're:\n\n\nFourth and $3.50 The Veyesion\nDancers, teenage group from\nPhoenix which presented a Rus\nsian dance.\n\n\nFive fifth place awards of$lOo\neach Jackie Brown. l4-year-\nold ventriloquist from Kingman;\nDavid Alvarado, l8 vocal and\nguitar presentation, from King\nman: Floria. Manu-, IL Phoenix\nflamenco dancer; Bobby Read\nand Jamie Harbolt. l0-year-old\nadagio dancers from Phoenix. and\nSusan and Sylvia Smith, l5-year-\nold twin singers and guitar\nplayers from Douglas.\n\n\nStatewide competition began In\nmany countries a s early as May.\nPreliminary and final county\ncompetitions we're sponsored by\ncivic clubs, county fair assoc1a-\ntions and chambers Of commerce.\n\n\nThe State contest was spon-\nsored by the Arizona State Fair\nCommission. the event will be-\ncome an annual one with finals\nheld at the Arizona State Fair.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2822,
+                "y0": 4785,
+                "x1": 4405,
+                "y1": 5093
+            },
+            "class": "headline",
+            "raw_text": "AIRMAN WINS $1,000 AMATEUR\n\n\nTALENT PRIZE AT FAIR",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1890,
+                "y0": 3783,
+                "x1": 2702,
+                "y1": 5197
+            },
+            "class": "article",
+            "raw_text": "Beverly Harris, the Bronze\nBombshe will appear featur-\ning dances and songs at the Elks\nClub, 1907 S. 9TH Avenue, Sat-,\nNov. 81.\n\n\nProceeds will benefit the an\nnual Christmas party and bas-\nkets. Donation is 81 so.\n\n\nMiss Harris has won many\nbeauty contest and she has ap-\npeared in several movies, in\nGuiding The Ten Commandments,\nCarmen Jones, Apache. and\nPorgy and Bess.\n\n\nShe has been featured in Las\nVegas and San Diego. Beverly\nhas toured with the Platters and\nother hit recording groups.\n\n\nHer sexy songs and saucy dance\nroutines have delighted many\naudiences from Goa st to Goa st.\n\n\nHer Phoenix appearance is\nsponsored by the Grand Canyon\nTemple 437.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 134,
+                "y0": 1512,
+                "x1": 1734,
+                "y1": 3726
+            },
+            "class": "article",
+            "raw_text": "The tragic circumstances of the death of\nPresident John F. Kennedy seem far re-\nmoved, yet, they remain closer than ne\nrealize.\n\n\nAS me recall his programs, dreams and\nfull span Of life, though a young man in a\nworld Of older and more sOeatheYed state\nmen, ne realize that he 1O0S unique.\n\n\nA product of wealth and the meV breed\nof politician, John F. Kennedy, aO0S able in\nlittle more than ts0o years to etch his\nname in the minds and hearts of this nation\nand many others.\n\n\n1t is a challenge for us to realize that\none man, debruved and able to u0ndeY u,a-\nhindered mus able to destroy the lite Of\nKennedy.\n\n\nThe assassin in turn Mus destroyed by\nanother man aOho also sOus able to move\nabout u,1hinde red. The challenge is for\nall Of us to keep our eyes ubaOaYd to\ngreater heights and refuse to brood over\nthe tragedy Of November 81, 1868.\n\n\nOnly year has passed but ottemtinaeS\n1t seems as though 1t sOaS only q week ago.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 546,
+                "y0": 1326,
+                "x1": 1416,
+                "y1": 1472
+            },
+            "class": "headline",
+            "raw_text": "ONLY ONE YEAR",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 997,
+                "y0": 6720,
+                "x1": 1810,
+                "y1": 7086
+            },
+            "class": "article",
+            "raw_text": "Blue Cross-Blue Shield Plans\nare open for the enrolment of\nsenior citizens 90 years and\nover. The enrolment period\nends Nov. 80.\n\n\nToday more than S ~ mil",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1299,
+                "y0": 6454,
+                "x1": 2470,
+                "y1": 6692
+            },
+            "class": "headline",
+            "raw_text": "BLUE CROSS SHIELD OPEN\n\n\nTO SENIOR RESIDENTS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1003,
+                "y0": 5805,
+                "x1": 1815,
+                "y1": 6403
+            },
+            "class": "article",
+            "raw_text": "want more tangible goals than\npromises of a separate black\nnation.\n\n\nMilitant black nationalists =\nMalcolm x of New York for one -\nwho focus on hate-whites policy,\nare critical of the coexi stence\nmovement, but are meeting con-\ndemnation from Black Muslin\nleaders,.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1890,
+                "y0": 6720,
+                "x1": 2696,
+                "y1": 7075
+            },
+            "class": "article",
+            "raw_text": "lions of our senior citizens are\nprotected by the Blue Cross\nBlue Shield Plans.\n\n\nFor further information write\nto P. 0. Box 1896 or phone\n277-445l.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2776,
+                "y0": 1975,
+                "x1": 4440,
+                "y1": 2706
+            },
+            "class": "article",
+            "raw_text": "Smith, 49, afresman Arizona Univer s\nscholarship Ministerial Alliance\nof Phoenix.\n\n\nShe congratulated by Res A. G. Kendrick First\nBaptist Church NJ Nicholson Of Antioch Baptist\nChurch.\n\n\ngraduate Hayden School.\nShe plans to be speech therapst.\n\n\npianist both junior senior chors First In\nBaptist Church.\n\n\nMiss Smith is the daughter of Mrs. Wilma Jean Greenwood\n26IO w. Wa shington St. Photo Bobby",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 117,
+                "y0": 5295,
+                "x1": 1792,
+                "y1": 5731
+            },
+            "class": "article",
+            "raw_text": "Guild held Now\nCommunity Services Bldg, 1915 E. Osborn Road\n\n\nleft Mrs. Patrick guild\nMike DCerb and unus Bowman newly appointed executive\ndirector of the Phoenix Urban League.\n\n\nsimilar position before moving\nPhoenix. photo-Bobby Heard.",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 4891,
+                "y0": 411,
+                "x1": 6143,
+                "y1": 5609
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112001_0635",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                1
+            ],
+            "headline": "z HELD IN\n\n\nBOYS DEATH",
+            "article": "PHILADELPHIA Two teenage\nboys, Marty Haynes, l6, and Levi\nTaylor, l9, are being held without\nbail in the county jail. They will\nstand trial for the brutal and\nsadistic Staying of Henry Glenn,\n10, la st summer.\n\n\nGlenn S boy was found in the\nthick shrubbery behind a golf\nrange.\n\n\nMedical examiners said the\nvictim had been sexually mu-\n.tilated. He had been burned while\nalive and he had been suffocated.\n\n\nHaynes Is ninth grade student\nand Taylor works in a hat factory.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1924,
+                    "y0": 5260,
+                    "x1": 2406,
+                    "y1": 5447
+                },
+                {
+                    "x0": 1890,
+                    "y0": 5475,
+                    "x1": 2690,
+                    "y1": 6414
+                }
+            ],
+            "bbox": [
+                1890,
+                5260,
+                2690,
+                6414
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                15,
+                4
+            ],
+            "headline": "MusIims Seek\nN ew I'm uge",
+            "article": "NEW YORK - Leaders of the\nBlack Muslin movement working\nto era Sc the general impression\nthat their group hates whites and\nwants to live in separate nation,\nThe Insider' s Newsletter re-\nported.\n\n\nThey are trying to change the\nimage of the movement by en-\npha sizing the self-imporvement\nspects of Black Muslin policy\nand are denying the anti-white\ndoctrines long attributed to them.\n\n\nAccording to The Newsletter,\nspoke smen for the movement now\nsay that Negroes and whites must\n\"rea son together\" to end racial\nconflict in America.\n\n\nRepeatedly behind the reson for\nthe shift in policy is that the\nrank and file in the movement",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 146,
+                    "y0": 5758,
+                    "x1": 628,
+                    "y1": 5945
+                },
+                {
+                    "x0": 117,
+                    "y0": 5967,
+                    "x1": 929,
+                    "y1": 7208
+                }
+            ],
+            "bbox": [
+                117,
+                5758,
+                929,
+                7208
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "PHOENIX = Six AriZonans,\nranging in age from Is to 70,\nwill appear on the nationally\ntelevised Ted Mack s Original\nAmateur Hour Jan. 8 and\nJan. 10.\n\n\nThey we're selected from the\ntop Is acts which appearedin\nfinal competition In the State\nwide Amateur Talent Contest at\nthe Arizona State Fair.\n\n\nWinning first place nd 81 900\ncash was John T. Robinson, 20,\nAirman First Class from Will\nuams Air Force Base. The\nbaritone singer presented his\nrendition. of \"When Fall In\nLove-\"\n\n\nSecond place winner wa Ari-\nIONA State University coed Vicky\nBond, 20, who sang an aria from\nMadam Butterfly. She received\n$3.50.\n\n\nThird place went to The Num-\nblers, a foursome of l3-year-old\neighth graders from Miami, who\npresented a pantomime routine\ncomplete with beatle wigs. They\nreceived $500.\n\n\nAll three top acts will appear\non the national Chs television\nshow, according to Lloyd Marx,\na repre- sentative of Original\nAmateur Hour from New York",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2747,
+                    "y0": 5150,
+                    "x1": 3577,
+                    "y1": 7150
+                }
+            ],
+            "bbox": [
+                2747,
+                5150,
+                3577,
+                7150
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "AIRMAN WINS $1,000 AMATEUR\n\n\nTALENT PRIZE AT FAIR",
+            "article": "City. He said he would also\nbe contracting other winners and\nsome acts which didn't win the\ntough competition at the Arizona\nState Fair.\n\n\nOther winners who shared In\nthe total $4,000 in prize money\nwe're:\n\n\nFourth and $3.50 The Veyesion\nDancers, teenage group from\nPhoenix which presented a Rus\nsian dance.\n\n\nFive fifth place awards of$lOo\neach Jackie Brown. l4-year-\nold ventriloquist from Kingman;\nDavid Alvarado, l8 vocal and\nguitar presentation, from King\nman: Floria. Manu-, IL Phoenix\nflamenco dancer; Bobby Read\nand Jamie Harbolt. l0-year-old\nadagio dancers from Phoenix. and\nSusan and Sylvia Smith, l5-year-\nold twin singers and guitar\nplayers from Douglas.\n\n\nStatewide competition began In\nmany countries a s early as May.\nPreliminary and final county\ncompetitions we're sponsored by\ncivic clubs, county fair assoc1a-\ntions and chambers Of commerce.\n\n\nThe State contest was spon-\nsored by the Arizona State Fair\nCommission. the event will be-\ncome an annual one with finals\nheld at the Arizona State Fair.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2822,
+                    "y0": 4785,
+                    "x1": 4405,
+                    "y1": 5093
+                },
+                {
+                    "x0": 3639,
+                    "y0": 5127,
+                    "x1": 4457,
+                    "y1": 7191
+                }
+            ],
+            "bbox": [
+                2822,
+                4785,
+                4457,
+                7191
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Beverly Harris, the Bronze\nBombshe will appear featur-\ning dances and songs at the Elks\nClub, 1907 S. 9TH Avenue, Sat-,\nNov. 81.\n\n\nProceeds will benefit the an\nnual Christmas party and bas-\nkets. Donation is 81 so.\n\n\nMiss Harris has won many\nbeauty contest and she has ap-\npeared in several movies, in\nGuiding The Ten Commandments,\nCarmen Jones, Apache. and\nPorgy and Bess.\n\n\nShe has been featured in Las\nVegas and San Diego. Beverly\nhas toured with the Platters and\nother hit recording groups.\n\n\nHer sexy songs and saucy dance\nroutines have delighted many\naudiences from Goa st to Goa st.\n\n\nHer Phoenix appearance is\nsponsored by the Grand Canyon\nTemple 437.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1890,
+                    "y0": 3783,
+                    "x1": 2702,
+                    "y1": 5197
+                }
+            ],
+            "bbox": [
+                1890,
+                3783,
+                2702,
+                5197
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                24,
+                9
+            ],
+            "headline": "ONLY ONE YEAR",
+            "article": "The tragic circumstances of the death of\nPresident John F. Kennedy seem far re-\nmoved, yet, they remain closer than ne\nrealize.\n\n\nAS me recall his programs, dreams and\nfull span Of life, though a young man in a\nworld Of older and more sOeatheYed state\nmen, ne realize that he 1O0S unique.\n\n\nA product of wealth and the meV breed\nof politician, John F. Kennedy, aO0S able in\nlittle more than ts0o years to etch his\nname in the minds and hearts of this nation\nand many others.\n\n\n1t is a challenge for us to realize that\none man, debruved and able to u0ndeY u,a-\nhindered mus able to destroy the lite Of\nKennedy.\n\n\nThe assassin in turn Mus destroyed by\nanother man aOho also sOus able to move\nabout u,1hinde red. The challenge is for\nall Of us to keep our eyes ubaOaYd to\ngreater heights and refuse to brood over\nthe tragedy Of November 81, 1868.\n\n\nOnly year has passed but ottemtinaeS\n1t seems as though 1t sOaS only q week ago.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 546,
+                    "y0": 1326,
+                    "x1": 1416,
+                    "y1": 1472
+                },
+                {
+                    "x0": 134,
+                    "y0": 1512,
+                    "x1": 1734,
+                    "y1": 3726
+                }
+            ],
+            "bbox": [
+                134,
+                1326,
+                1734,
+                3726
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                16,
+                10
+            ],
+            "headline": "BLUE CROSS SHIELD OPEN\n\n\nTO SENIOR RESIDENTS",
+            "article": "Blue Cross-Blue Shield Plans\nare open for the enrolment of\nsenior citizens 90 years and\nover. The enrolment period\nends Nov. 80.\n\n\nToday more than S ~ mil",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1299,
+                    "y0": 6454,
+                    "x1": 2470,
+                    "y1": 6692
+                },
+                {
+                    "x0": 997,
+                    "y0": 6720,
+                    "x1": 1810,
+                    "y1": 7086
+                }
+            ],
+            "bbox": [
+                997,
+                6454,
+                2470,
+                7086
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "want more tangible goals than\npromises of a separate black\nnation.\n\n\nMilitant black nationalists =\nMalcolm x of New York for one -\nwho focus on hate-whites policy,\nare critical of the coexi stence\nmovement, but are meeting con-\ndemnation from Black Muslin\nleaders,.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1003,
+                    "y0": 5805,
+                    "x1": 1815,
+                    "y1": 6403
+                }
+            ],
+            "bbox": [
+                1003,
+                5805,
+                1815,
+                6403
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "lions of our senior citizens are\nprotected by the Blue Cross\nBlue Shield Plans.\n\n\nFor further information write\nto P. 0. Box 1896 or phone\n277-445l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1890,
+                    "y0": 6720,
+                    "x1": 2696,
+                    "y1": 7075
+                }
+            ],
+            "bbox": [
+                1890,
+                6720,
+                2696,
+                7075
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Smith, 49, afresman Arizona Univer s\nscholarship Ministerial Alliance\nof Phoenix.\n\n\nShe congratulated by Res A. G. Kendrick First\nBaptist Church NJ Nicholson Of Antioch Baptist\nChurch.\n\n\ngraduate Hayden School.\nShe plans to be speech therapst.\n\n\npianist both junior senior chors First In\nBaptist Church.\n\n\nMiss Smith is the daughter of Mrs. Wilma Jean Greenwood\n26IO w. Wa shington St. Photo Bobby",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2776,
+                    "y0": 1975,
+                    "x1": 4440,
+                    "y1": 2706
+                }
+            ],
+            "bbox": [
+                2776,
+                1975,
+                4440,
+                2706
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        },
+        {
+            "object_ids": [
+                26
+            ],
+            "headline": "",
+            "article": "Guild held Now\nCommunity Services Bldg, 1915 E. Osborn Road\n\n\nleft Mrs. Patrick guild\nMike DCerb and unus Bowman newly appointed executive\ndirector of the Phoenix Urban League.\n\n\nsimilar position before moving\nPhoenix. photo-Bobby Heard.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 117,
+                    "y0": 5295,
+                    "x1": 1792,
+                    "y1": 5731
+                }
+            ],
+            "bbox": [
+                117,
+                5295,
+                1792,
+                5731
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-11-20_pna_sn84021918_0041421695A_1964112001_0635.json"
+        }
+    ]
+}

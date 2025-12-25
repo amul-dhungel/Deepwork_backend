@@ -1,0 +1,395 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964102301/0598.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4912
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2270,
+                "y0": 608,
+                "x1": 3100,
+                "y1": 3258
+            },
+            "class": "article",
+            "raw_text": "From our day of birth we are\nella ssified, categorized and put in\na certain group. Human beings\nare grouped, regrouped or placed\nin neat rows from the crib to the\ncasket.\n\n\nOur births are recorded. Our\nnames are filed. Our footprints\nand fingerprints are classified.\nWe are given race and sex labels.\nWe are described by height,\nweight, skin color, eye color,\nteeth formations and birthmarks.\n\n\nAS we grow older we must have\nblood typings, chest x-rays,\nvision tests, hearing tests and\nvaccinations. Some have had such\na battery of examinations of one\nkind or another that they be-\ncome immune to all kinds of\ntests.\n\n\nThere must be another way OF\nliving in this modern world. Why\nmust we have so many kinds of\nways to be put in order, scienti-\nfic or nonscientific7\n\n\nComputers now require rows of\nnumerical distinctions. Our tele-\nphone systems must be operated\nby row of digits.\n\n\nWe have social security num-\nbers, license numbers, tax num-\nbers, house numbers, block and\nplat numbers and finally we end\nin a cemetery with numbered\nspaces.\n\n\nHave you ever written down on\na paper-the different ways that\nyou are ella ssified7 have tried\nand 1t consumes a great amount\nof time and space.\n\n\nThe men who travel to the moon\nwill have the dubious honor of\nbeing Moon Man number l, num-\nDer TWO or number three. After",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2305,
+                "y0": 307,
+                "x1": 3088,
+                "y1": 597
+            },
+            "class": "headline",
+            "raw_text": "Siuhts and Sounds\nELo,se BANKS\n\n\nWho or Whut?",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3174,
+                "y0": 1014,
+                "x1": 4850,
+                "y1": 2597
+            },
+            "class": "article",
+            "raw_text": "We point with pride the number of job opportunities opening\nin the Valley of the Sun Negroes minority\nbut the picture is bleak when Negro\noremen supervisors heads oeparmens business\nor industry There is gray picture, indeed.\n\n\nOne large metal producing plant which also loudly\nthat nearly oneenth of its employees\nNegro foremaneven though Negro\nemployed there for Is years.\n\n\nOnly chain has\nFew groceries hire Negro\n\n\nrecent hiring of route salesman by local boing firm\n\n\nbeverage distributing and baking company ind\nthat the picture will become brighter\nWe around Negro sales clerks in department and\nleading drug There Negroes\nof the leading banks in several positions.\n\n\nThere Negro with milk any\nmercia suppiers such cigarette candy statesmen.\n\n\nGreat strides have telephone\nutilities, but there positive part of all\npersonnel in privately owned businesses industries\n\n\nis longer expedent that Negroes applying\nfor obsor that they the required We\nsearch educational find which\nkeeping nonwtes whites from being able simple\nqualifying for medium skilled jobs",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3707,
+                "y0": 388,
+                "x1": 4682,
+                "y1": 783
+            },
+            "class": "headline",
+            "raw_text": "Views, PREvIewS\nAMD REVIEWS\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -3
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3928,
+                "y0": 741,
+                "x1": 4456,
+                "y1": 829
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3539,
+                "y0": 886,
+                "x1": 4549,
+                "y1": 992
+            },
+            "class": "headline",
+            "raw_text": "JOB PICTURE BRICHTENs",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 479,
+                "y0": 1976,
+                "x1": 2144,
+                "y1": 3623
+            },
+            "class": "article",
+            "raw_text": "The last years Of former President Her,\nbert Hoover sOeYe spent in retirement. At\nthe age Of ninety one Of the most naaligned\nand unfortunate brilliant men to ever occupy\nthe White House died.\n\n\nHe took office after the end Of the post\nWorld War One rise aOus ending. He took\noffice TO lead nation which WuS on the brink\nof financial chaos. He u0s unable to sove the\ncountry although many Of his reforms and\nprograms we're later incorporated in the\nRoosevelt Plan.\n\n\nA brilliant student of e1agiaee ring and a re-\nsbec ted political critic, Herbert Hoover con-\nt11buted much to the world in more nays\nthan one ever hears. He served his country\nI'm several caba cities after LEAVING the White\nHouse. HIS death leaves tWO remaining for\nxeY presidents in our midst.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1099,
+                "y0": 759,
+                "x1": 1651,
+                "y1": 835
+            },
+            "class": "author",
+            "raw_text": "VOL. 7, NO. Is",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -3
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 659,
+                "y0": 1570,
+                "x1": 1257,
+                "y1": 1728
+            },
+            "class": "author",
+            "raw_text": "y Thss sswspspss 10 0 ms~sm ~\n.@A NEwseApfRs ASSOCIATION\n\n\nFss 6sssssv PsAise Service",
+            "legibility": "Questionable",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 560,
+                "y0": 1825,
+                "x1": 1975,
+                "y1": 1954
+            },
+            "class": "headline",
+            "raw_text": "HOOVER WAS A GREAT MAN",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3163,
+                "y0": 2799,
+                "x1": 3975,
+                "y1": 3229
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Five top Negro\nmajor league baseball players\nwe're elected to the 1864 Tops\nChewing Gum All Star Rookie\nTeam. They are Bob Chance,\n\n\nCleveland Indian lst baseman;\n\n\nRichie Allen, Philadelphia Phil",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 4038,
+                "y0": 2793,
+                "x1": 4844,
+                "y1": 3258
+            },
+            "class": "article",
+            "raw_text": "lies 3rd baseman: Bert Cand\npaneris, &c. Athletics short\nstop; Tony Olivia, Mimeso\nTwins outfielder, and Rico Carly,\nMilwaukee Braves outfielder.\n\n\nThis team was honored on Oct.\n% at the sixth annual wards\nluncheon.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3499,
+                "y0": 2637,
+                "x1": 4427,
+                "y1": 2771
+            },
+            "class": "headline",
+            "raw_text": "5 Named On Team",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-10-23"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "Siuhts and Sounds\nELo,se BANKS\n\n\nWho or Whut?",
+            "article": "From our day of birth we are\nella ssified, categorized and put in\na certain group. Human beings\nare grouped, regrouped or placed\nin neat rows from the crib to the\ncasket.\n\n\nOur births are recorded. Our\nnames are filed. Our footprints\nand fingerprints are classified.\nWe are given race and sex labels.\nWe are described by height,\nweight, skin color, eye color,\nteeth formations and birthmarks.\n\n\nAS we grow older we must have\nblood typings, chest x-rays,\nvision tests, hearing tests and\nvaccinations. Some have had such\na battery of examinations of one\nkind or another that they be-\ncome immune to all kinds of\ntests.\n\n\nThere must be another way OF\nliving in this modern world. Why\nmust we have so many kinds of\nways to be put in order, scienti-\nfic or nonscientific7\n\n\nComputers now require rows of\nnumerical distinctions. Our tele-\nphone systems must be operated\nby row of digits.\n\n\nWe have social security num-\nbers, license numbers, tax num-\nbers, house numbers, block and\nplat numbers and finally we end\nin a cemetery with numbered\nspaces.\n\n\nHave you ever written down on\na paper-the different ways that\nyou are ella ssified7 have tried\nand 1t consumes a great amount\nof time and space.\n\n\nThe men who travel to the moon\nwill have the dubious honor of\nbeing Moon Man number l, num-\nDer TWO or number three. After",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2305,
+                    "y0": 307,
+                    "x1": 3088,
+                    "y1": 597
+                },
+                {
+                    "x0": 2270,
+                    "y0": 608,
+                    "x1": 3100,
+                    "y1": 3258
+                }
+            ],
+            "bbox": [
+                2270,
+                307,
+                3100,
+                3258
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-23_p1_sn84021918_0041421695A_1964102301_0598.json"
+        },
+        {
+            "object_ids": [
+                14,
+                13,
+                12,
+                1
+            ],
+            "headline": "Views, PREvIewS\nAMD REVIEWS\n\n\n\n\nJOB PICTURE BRICHTENs",
+            "article": "We point with pride the number of job opportunities opening\nin the Valley of the Sun Negroes minority\nbut the picture is bleak when Negro\noremen supervisors heads oeparmens business\nor industry There is gray picture, indeed.\n\n\nOne large metal producing plant which also loudly\nthat nearly oneenth of its employees\nNegro foremaneven though Negro\nemployed there for Is years.\n\n\nOnly chain has\nFew groceries hire Negro\n\n\nrecent hiring of route salesman by local boing firm\n\n\nbeverage distributing and baking company ind\nthat the picture will become brighter\nWe around Negro sales clerks in department and\nleading drug There Negroes\nof the leading banks in several positions.\n\n\nThere Negro with milk any\nmercia suppiers such cigarette candy statesmen.\n\n\nGreat strides have telephone\nutilities, but there positive part of all\npersonnel in privately owned businesses industries\n\n\nis longer expedent that Negroes applying\nfor obsor that they the required We\nsearch educational find which\nkeeping nonwtes whites from being able simple\nqualifying for medium skilled jobs",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3707,
+                    "y0": 388,
+                    "x1": 4682,
+                    "y1": 783
+                },
+                {
+                    "x0": 3928,
+                    "y0": 741,
+                    "x1": 4456,
+                    "y1": 829
+                },
+                {
+                    "x0": 3539,
+                    "y0": 886,
+                    "x1": 4549,
+                    "y1": 992
+                },
+                {
+                    "x0": 3174,
+                    "y0": 1014,
+                    "x1": 4850,
+                    "y1": 2597
+                }
+            ],
+            "bbox": [
+                3174,
+                388,
+                4850,
+                2597
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-23_p1_sn84021918_0041421695A_1964102301_0598.json"
+        },
+        {
+            "object_ids": [
+                17,
+                18,
+                11,
+                3
+            ],
+            "headline": "HOOVER WAS A GREAT MAN",
+            "article": "The last years Of former President Her,\nbert Hoover sOeYe spent in retirement. At\nthe age Of ninety one Of the most naaligned\nand unfortunate brilliant men to ever occupy\nthe White House died.\n\n\nHe took office after the end Of the post\nWorld War One rise aOus ending. He took\noffice TO lead nation which WuS on the brink\nof financial chaos. He u0s unable to sove the\ncountry although many Of his reforms and\nprograms we're later incorporated in the\nRoosevelt Plan.\n\n\nA brilliant student of e1agiaee ring and a re-\nsbec ted political critic, Herbert Hoover con-\nt11buted much to the world in more nays\nthan one ever hears. He served his country\nI'm several caba cities after LEAVING the White\nHouse. HIS death leaves tWO remaining for\nxeY presidents in our midst.",
+            "byline": "VOL. 7, NO. Is\n\ny Thss sswspspss 10 0 ms~sm ~\n.@A NEwseApfRs ASSOCIATION\n\n\nFss 6sssssv PsAise Service",
+            "bbox_list": [
+                {
+                    "x0": 1099,
+                    "y0": 759,
+                    "x1": 1651,
+                    "y1": 835
+                },
+                {
+                    "x0": 659,
+                    "y0": 1570,
+                    "x1": 1257,
+                    "y1": 1728
+                },
+                {
+                    "x0": 560,
+                    "y0": 1825,
+                    "x1": 1975,
+                    "y1": 1954
+                },
+                {
+                    "x0": 479,
+                    "y0": 1976,
+                    "x1": 2144,
+                    "y1": 3623
+                }
+            ],
+            "bbox": [
+                479,
+                759,
+                2144,
+                3623
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-23_p1_sn84021918_0041421695A_1964102301_0598.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "NEW YORK Five top Negro\nmajor league baseball players\nwe're elected to the 1864 Tops\nChewing Gum All Star Rookie\nTeam. They are Bob Chance,\n\n\nCleveland Indian lst baseman;\n\n\nRichie Allen, Philadelphia Phil",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3163,
+                    "y0": 2799,
+                    "x1": 3975,
+                    "y1": 3229
+                }
+            ],
+            "bbox": [
+                3163,
+                2799,
+                3975,
+                3229
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-23_p1_sn84021918_0041421695A_1964102301_0598.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "5 Named On Team",
+            "article": "lies 3rd baseman: Bert Cand\npaneris, &c. Athletics short\nstop; Tony Olivia, Mimeso\nTwins outfielder, and Rico Carly,\nMilwaukee Braves outfielder.\n\n\nThis team was honored on Oct.\n% at the sixth annual wards\nluncheon.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3499,
+                    "y0": 2637,
+                    "x1": 4427,
+                    "y1": 2771
+                },
+                {
+                    "x0": 4038,
+                    "y0": 2793,
+                    "x1": 4844,
+                    "y1": 3258
+                }
+            ],
+            "bbox": [
+                3499,
+                2637,
+                4844,
+                3258
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-23_p1_sn84021918_0041421695A_1964102301_0598.json"
+        }
+    ]
+}

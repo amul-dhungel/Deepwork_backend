@@ -1,0 +1,158 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-20",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7436,
+        "width": 4872,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-03-20",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964032001/0338.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1123,
+                "y0": 668,
+                "x1": 1949,
+                "y1": 3335
+            },
+            "class": "article",
+            "raw_text": "Franklin Fraziers prema-\nture death was an irreparable\nloss to sociology as study in\nrealistic terms Of social issues.\nHis posthumous work on the Ne\ngro church is brief but brill\nliant analysis Ct the historical\norigin and the present situation\nof a crucially important institu-\ntion Of the American Negro peo-\npie. He did not live long enough\nto witness and comment upon the\nrecent Negro rebellion against\ndiscrimination, segregation, un-\nemployment, underemployment\nand poverty. But his book gives\nthe background necessary for\nunderstanding why the church,\nthe religious leaders and the\nreligion itself have played such\nan important role in that re-\nbellion,\" said Gunnar Myrdal,\nauthor of 1.-The American Dr.\nlemma.\n\n\nThe Negro church has been at\nonce, as Professor Frazier sug-\ngests, the most stable institution\non the Negro side Of the Amer\nlean color line and the least\npowerful. 1t has been an institu-\ntion of accommodation and pro-\ntest. From that ambivalent char\nacter has now emerged the emo\ntional strength to fight battle\non which the future Of democracy\nin America probably depends.\n1.-The Negro Church in America\"\nmust be read If the complex and\ntragic circumstances of the\nmarch of the American Negro,\nout of their churches into the\nstreets, to demand their dignity,\nis to be fully comprehended even\nby readers within the Negro COM\nmunity itself.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1123,
+                "y0": 383,
+                "x1": 1792,
+                "y1": 645
+            },
+            "class": "headline",
+            "raw_text": "NEGRO CHURCH\nANALYzED BY\n\n\nFRANKLIN FRAZIER",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3801,
+                "y0": 627,
+                "x1": 4621,
+                "y1": 2162
+            },
+            "class": "article",
+            "raw_text": "CANTON, Miss. Negro citi-\nzens of this community and Madi-\nson County. by their persistence,\nhave demonstrated that they will\nnot let recalcitrant voter regis\ntration clerk or police intimida-\nton keep them from attempting to\nregister to vote.\n\n\nWhen the National Association\nfor the Advancement of Colored\nPeople. in cooperation with other\ncivil rights groups, launched the\n1864 voter registration drive\nFriday. Feb. %, called Free\ndom Day.\" more than 260 people\nshowed up at the courthouse.\nOnly seven we're permitted in\nside, however, to make applica-\nton and to take the test.\n\n\nEvery day since, groups of\nNegro citizens have appeared at\nthe registrar office to wait\npatiently for their turn. In spite\nof the fact that only four people\nhave been placed on the ballot\nrolls, they continue to come.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3801,
+                "y0": 389,
+                "x1": 4290,
+                "y1": 605
+            },
+            "class": "headline",
+            "raw_text": "Vote Drive\nContinues",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964032001_0338",
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "NEGRO CHURCH\nANALYzED BY\n\n\nFRANKLIN FRAZIER",
+            "article": "Franklin Fraziers prema-\nture death was an irreparable\nloss to sociology as study in\nrealistic terms Of social issues.\nHis posthumous work on the Ne\ngro church is brief but brill\nliant analysis Ct the historical\norigin and the present situation\nof a crucially important institu-\ntion Of the American Negro peo-\npie. He did not live long enough\nto witness and comment upon the\nrecent Negro rebellion against\ndiscrimination, segregation, un-\nemployment, underemployment\nand poverty. But his book gives\nthe background necessary for\nunderstanding why the church,\nthe religious leaders and the\nreligion itself have played such\nan important role in that re-\nbellion,\" said Gunnar Myrdal,\nauthor of 1.-The American Dr.\nlemma.\n\n\nThe Negro church has been at\nonce, as Professor Frazier sug-\ngests, the most stable institution\non the Negro side Of the Amer\nlean color line and the least\npowerful. 1t has been an institu-\ntion of accommodation and pro-\ntest. From that ambivalent char\nacter has now emerged the emo\ntional strength to fight battle\non which the future Of democracy\nin America probably depends.\n1.-The Negro Church in America\"\nmust be read If the complex and\ntragic circumstances of the\nmarch of the American Negro,\nout of their churches into the\nstreets, to demand their dignity,\nis to be fully comprehended even\nby readers within the Negro COM\nmunity itself.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1123,
+                    "y0": 383,
+                    "x1": 1792,
+                    "y1": 645
+                },
+                {
+                    "x0": 1123,
+                    "y0": 668,
+                    "x1": 1949,
+                    "y1": 3335
+                }
+            ],
+            "bbox": [
+                1123,
+                383,
+                1949,
+                3335
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-03-20_pna_sn84021918_0041421695A_1964032001_0338.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "Vote Drive\nContinues",
+            "article": "CANTON, Miss. Negro citi-\nzens of this community and Madi-\nson County. by their persistence,\nhave demonstrated that they will\nnot let recalcitrant voter regis\ntration clerk or police intimida-\nton keep them from attempting to\nregister to vote.\n\n\nWhen the National Association\nfor the Advancement of Colored\nPeople. in cooperation with other\ncivil rights groups, launched the\n1864 voter registration drive\nFriday. Feb. %, called Free\ndom Day.\" more than 260 people\nshowed up at the courthouse.\nOnly seven we're permitted in\nside, however, to make applica-\nton and to take the test.\n\n\nEvery day since, groups of\nNegro citizens have appeared at\nthe registrar office to wait\npatiently for their turn. In spite\nof the fact that only four people\nhave been placed on the ballot\nrolls, they continue to come.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3801,
+                    "y0": 389,
+                    "x1": 4290,
+                    "y1": 605
+                },
+                {
+                    "x0": 3801,
+                    "y0": 627,
+                    "x1": 4621,
+                    "y1": 2162
+                }
+            ],
+            "bbox": [
+                3801,
+                389,
+                4621,
+                2162
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-03-20_pna_sn84021918_0041421695A_1964032001_0338.json"
+        }
+    ]
+}

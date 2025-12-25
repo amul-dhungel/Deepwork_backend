@@ -1,0 +1,297 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4872,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-12-04",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964120401/0651.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3700,
+                "y0": 5876,
+                "x1": 4519,
+                "y1": 7147
+            },
+            "class": "article",
+            "raw_text": "NEW YORK Whitney Young,\nexecutive director of the National\nUrban Leagu and league trustees\nissued a strong letter concerning\nfreedom of residence and the part\nplayed by the real estate lobby\nin defeating the Fair Housing Act\nin California.\n\n\nA copy Of the letter was sent to\nPresident Johnson.\n\n\n1t continued a paragraph deal\ning with segregation being fos-\ntered by the National Association\nof Real Estate Boards which en-\nforce slums and blight in our\ncities.\n\n\nThe null trustees commended\nthe Housing and Home Finance\nAgency for halting federal funds\nfor urban renewal programs in\nCalifornia until a court ruling\nis received.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 4002,
+                "y0": 5278,
+                "x1": 4490,
+                "y1": 5343
+            },
+            "class": "author",
+            "raw_text": "Photo Bobby Heard",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3694,
+                "y0": 5446,
+                "x1": 4473,
+                "y1": 5848
+            },
+            "class": "headline",
+            "raw_text": "League Trustees\nScoId Real\nEstate Board",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2824,
+                "y0": 5702,
+                "x1": 3631,
+                "y1": 7164
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = United Negro\nCollege Fund will distribute\n$500, 1000 to 81 member colleges\nand universities in ii southern\nstates this week, James r.\nSmothers, Jr., vice-president for\ndevelopment, announced.\n\n\nUNCF has been conducting an\nnual campaigns for member col\nleges and universities since 1914,\nwhen it raised S765 900. The goal\nfor the 1864 campaign Is\nSo 100000. Money from annual\nfunds Is used for scholarships,\nfaculty salaries and opeating\nexpenses.\n\n\nMember colleges and univer-\nstiles in the states of Georgia,\nNorth Carolina, Virginia, Ala\nbama and Tennessee will receive\nthe largest amounts from the\ndistribution.\n\n\nTexas, Louisiana, Mississip-\npi, Florida, North Carolina and\nArkansas will also benefit.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2813,
+                "y0": 5394,
+                "x1": 3614,
+                "y1": 5668
+            },
+            "class": "headline",
+            "raw_text": "COLLEGES RECEIVE\nUNCF FUNDS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1902,
+                "y0": 1514,
+                "x1": 2732,
+                "y1": 3591
+            },
+            "class": "article",
+            "raw_text": "COLUMBIA, Mo = The NAACP\nwill soon begin campaign to cor\nrect inadequate treatment of the\nNegro in textbooks used in the\npublic schools in Missouri. Re-\nvision of such textbooks can be an\nimportant steptowards removing\nbarriers to racial misunder-\nstanding.\n\n\nIn resolution pa ssed at the\nannual meeting of the Missouri\nState Conference of NAACP\ndelegates voted to launch a seven\npronged attack on the problem of\ninadequate treatment of Negroes\nin school textbooks.\n\n\nDelegates attending the meet\ning spent an entire afternoon dis\ncussing Textbooks as Tools in\nthe Good Society,\"\" The study,\nprepared by Mrs. Irma Rinehart,\na St. James, Mo-, teacher, under\nthe direction of Professor\nLorenzo Greene of Lincoln Uni\nversity, presented for the first\ntime an analysis of the treatment\nof Negroes in textbooks used\nin the Missouri public schools.\n\n\n1t revealed that of l2o books\nstudied, the great ma jority was\nfound totally inadequate in con-\ntent and treatment of Negroes\nand their contributions to the\ngrowth and culture of this\ncountry.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1919,
+                "y0": 1264,
+                "x1": 2541,
+                "y1": 1485
+            },
+            "class": "headline",
+            "raw_text": "Group Seeks\nRace In Books",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 92,
+                "y0": 1485,
+                "x1": 1827,
+                "y1": 3632
+            },
+            "class": "article",
+            "raw_text": "The new column appearing IN the Phoenix\ndaily newspaper OY1tten by Ueteyun chill rights\nleader, Roy wilkins, a Negro, Shoa0s that pro-\ngYess in the field of journalism is rapidly being\nmade.\n\n\nWilkins started as a young reporter and\nwY5teY in the midwest. He served for many\nyears in various offices Of the National ASso-\ncitation for the AdUancena ent Of ColoYed\nPeople before becoming the national exec\nutiUe secretary more than a decade ago.\n\n\nThe Phoenix Gazette is to be commended for\nbringing this column to all its readers. More\npersons of other ia cial and religious groups\nshould read some 1Oo1thaOhile words of re cog\nnized Negro leaders. 1t is step fo1zOayd IN\n1the entire field Of journalism - as the Roy\nwilkins column appears, perhaps 1t min be\na first for a syndicated column by a member\nof the coloYed race.\n\n\nMr.. Wilkins views from his widespread\nciuil rights activities coupled with his neUs-\npaper bo ckgYourad should prove excellent\nmate rial for anyone int rested in meaning\nt74l interpretations Of today's world.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 631,
+                "y0": 1339,
+                "x1": 1392,
+                "y1": 1462
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964120401_0651",
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                7,
+                3
+            ],
+            "headline": "League Trustees\nScoId Real\nEstate Board",
+            "article": "NEW YORK Whitney Young,\nexecutive director of the National\nUrban Leagu and league trustees\nissued a strong letter concerning\nfreedom of residence and the part\nplayed by the real estate lobby\nin defeating the Fair Housing Act\nin California.\n\n\nA copy Of the letter was sent to\nPresident Johnson.\n\n\n1t continued a paragraph deal\ning with segregation being fos-\ntered by the National Association\nof Real Estate Boards which en-\nforce slums and blight in our\ncities.\n\n\nThe null trustees commended\nthe Housing and Home Finance\nAgency for halting federal funds\nfor urban renewal programs in\nCalifornia until a court ruling\nis received.",
+            "byline": "Photo Bobby Heard",
+            "bbox_list": [
+                {
+                    "x0": 4002,
+                    "y0": 5278,
+                    "x1": 4490,
+                    "y1": 5343
+                },
+                {
+                    "x0": 3694,
+                    "y0": 5446,
+                    "x1": 4473,
+                    "y1": 5848
+                },
+                {
+                    "x0": 3700,
+                    "y0": 5876,
+                    "x1": 4519,
+                    "y1": 7147
+                }
+            ],
+            "bbox": [
+                3694,
+                5278,
+                4519,
+                7147
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-04_pna_sn84021918_0041421695A_1964120401_0651.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "COLLEGES RECEIVE\nUNCF FUNDS",
+            "article": "NEW YORK = United Negro\nCollege Fund will distribute\n$500, 1000 to 81 member colleges\nand universities in ii southern\nstates this week, James r.\nSmothers, Jr., vice-president for\ndevelopment, announced.\n\n\nUNCF has been conducting an\nnual campaigns for member col\nleges and universities since 1914,\nwhen it raised S765 900. The goal\nfor the 1864 campaign Is\nSo 100000. Money from annual\nfunds Is used for scholarships,\nfaculty salaries and opeating\nexpenses.\n\n\nMember colleges and univer-\nstiles in the states of Georgia,\nNorth Carolina, Virginia, Ala\nbama and Tennessee will receive\nthe largest amounts from the\ndistribution.\n\n\nTexas, Louisiana, Mississip-\npi, Florida, North Carolina and\nArkansas will also benefit.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2813,
+                    "y0": 5394,
+                    "x1": 3614,
+                    "y1": 5668
+                },
+                {
+                    "x0": 2824,
+                    "y0": 5702,
+                    "x1": 3631,
+                    "y1": 7164
+                }
+            ],
+            "bbox": [
+                2813,
+                5394,
+                3631,
+                7164
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-04_pna_sn84021918_0041421695A_1964120401_0651.json"
+        },
+        {
+            "object_ids": [
+                8,
+                5
+            ],
+            "headline": "Group Seeks\nRace In Books",
+            "article": "COLUMBIA, Mo = The NAACP\nwill soon begin campaign to cor\nrect inadequate treatment of the\nNegro in textbooks used in the\npublic schools in Missouri. Re-\nvision of such textbooks can be an\nimportant steptowards removing\nbarriers to racial misunder-\nstanding.\n\n\nIn resolution pa ssed at the\nannual meeting of the Missouri\nState Conference of NAACP\ndelegates voted to launch a seven\npronged attack on the problem of\ninadequate treatment of Negroes\nin school textbooks.\n\n\nDelegates attending the meet\ning spent an entire afternoon dis\ncussing Textbooks as Tools in\nthe Good Society,\"\" The study,\nprepared by Mrs. Irma Rinehart,\na St. James, Mo-, teacher, under\nthe direction of Professor\nLorenzo Greene of Lincoln Uni\nversity, presented for the first\ntime an analysis of the treatment\nof Negroes in textbooks used\nin the Missouri public schools.\n\n\n1t revealed that of l2o books\nstudied, the great ma jority was\nfound totally inadequate in con-\ntent and treatment of Negroes\nand their contributions to the\ngrowth and culture of this\ncountry.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1919,
+                    "y0": 1264,
+                    "x1": 2541,
+                    "y1": 1485
+                },
+                {
+                    "x0": 1902,
+                    "y0": 1514,
+                    "x1": 2732,
+                    "y1": 3591
+                }
+            ],
+            "bbox": [
+                1902,
+                1264,
+                2732,
+                3591
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-04_pna_sn84021918_0041421695A_1964120401_0651.json"
+        },
+        {
+            "object_ids": [
+                18,
+                6
+            ],
+            "headline": "",
+            "article": "The new column appearing IN the Phoenix\ndaily newspaper OY1tten by Ueteyun chill rights\nleader, Roy wilkins, a Negro, Shoa0s that pro-\ngYess in the field of journalism is rapidly being\nmade.\n\n\nWilkins started as a young reporter and\nwY5teY in the midwest. He served for many\nyears in various offices Of the National ASso-\ncitation for the AdUancena ent Of ColoYed\nPeople before becoming the national exec\nutiUe secretary more than a decade ago.\n\n\nThe Phoenix Gazette is to be commended for\nbringing this column to all its readers. More\npersons of other ia cial and religious groups\nshould read some 1Oo1thaOhile words of re cog\nnized Negro leaders. 1t is step fo1zOayd IN\n1the entire field Of journalism - as the Roy\nwilkins column appears, perhaps 1t min be\na first for a syndicated column by a member\nof the coloYed race.\n\n\nMr.. Wilkins views from his widespread\nciuil rights activities coupled with his neUs-\npaper bo ckgYourad should prove excellent\nmate rial for anyone int rested in meaning\nt74l interpretations Of today's world.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 631,
+                    "y0": 1339,
+                    "x1": 1392,
+                    "y1": 1462
+                },
+                {
+                    "x0": 92,
+                    "y0": 1485,
+                    "x1": 1827,
+                    "y1": 3632
+                }
+            ],
+            "bbox": [
+                92,
+                1339,
+                1827,
+                3632
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-04_pna_sn84021918_0041421695A_1964120401_0651.json"
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964012401/0275.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7435,
+        "width": 4765
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2847,
+                "y0": 2886,
+                "x1": 3667,
+                "y1": 4130
+            },
+            "class": "article",
+            "raw_text": "\"The greatest attraction that\nArizona possesses continues to\nbe \"Climate,\" concluded Valley\nNational Bank researchers in\ndiscussing the states mild, dry\nclimate and its role in attract\ning both visitors and permanent\nresidents.\n\n\nThe report Is contained in the\ncurrent \"Arizona Progress\"\nVNB's monthly business review.\nDistributed to more than rs 900\nbusiness, professional and indus\ntrial leaders throughout the ma\nton and more than a dozen for\neign countries, the publication\nmakes a strong case for Ari-\nzona's \"near perfect weather.\"\n\n\nAnother portion of the current\nissue is devoted to a special re-\nview of Apache County and its",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3323,
+                "y0": 2718,
+                "x1": 4033,
+                "y1": 2870
+            },
+            "class": "headline",
+            "raw_text": "CLIMATE Is GREAT\nSAYS VNB REVIEW",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 163,
+                "y0": 2369,
+                "x1": 983,
+                "y1": 4206
+            },
+            "class": "article",
+            "raw_text": "A second postponement on the\nSalt River Project canal dry\nup period due to cold weather\nwas announced. The project IL\ncurrently releasing over 500 mil\nlion gallons Of water a day for\nfrost orders to citrus growers\nIn order to help save the S.\nmillion citrus crop in the VAL\nley.\n\n\nCitrus growers have just\nweathered one Of the severest\nand most prolonged sieges Of\nfrigid air in Valley history. Paul\nC. Kangieser, state climatolo-\ngist, reported that the temper\natures of Is degrees and lower\nrecorded this past week by the\nWeather Bureau in Phoenix rep\nresent the longest period Of cold\nweather below rs degrees since\nthe bureau began keeping records\nhere in 1895.\n\n\nThe new schedule calls for all\ncanals south of the Salt River\nto be dry from midnight jan\nuary 26 to midnight February 10,\nweather permitting. During the\ndry-up the perfect will replace\ngate structures and line several\ncanals.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 186,
+                "y0": 2166,
+                "x1": 954,
+                "y1": 2347
+            },
+            "class": "headline",
+            "raw_text": "SRP CANAL DRY UP\n\n\nRESCHEDULED HERE",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1052,
+                "y0": 2381,
+                "x1": 1878,
+                "y1": 3799
+            },
+            "class": "article",
+            "raw_text": "The most recent sampling of\nthe labor ACKNOWLEDGEMENTS\nunemployment--by the Labor De-\npartment' Bureau of Labor Sta\ntistics, shows that unemployment\namong nonwhite workers In\ncreased slightly from November\n1862 to November 1868.\n\n\nNonwhite workers we're 22.5\npercent Of the total unemployed\nin November Of 1868, 2l.o per-\ncent in November 1862. Of this\n22.5 percent. ll.e we're male,\n1915 female. Comparable figures\nfor November 1862 we're ll.2\npercent ard o.8 percent.\n\n\nFor the long term unemploy-\ned--unemployed d weeks and\nover--nonwhite workers we're\n3l.6 in November 1868, 31.5 in\nNovember 1862. Nonwhite males\nwe're us percent in 1868, 1914\nin 1862. Females we're AL per-\ncent in 1868. l2.1 in 1862.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1075,
+                "y0": 2137,
+                "x1": 1709,
+                "y1": 2365
+            },
+            "class": "headline",
+            "raw_text": "NONWHITE\nUNEMPLOYMENT\nINCREASING",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3724,
+                "y0": 2892,
+                "x1": 4544,
+                "y1": 4113
+            },
+            "class": "article",
+            "raw_text": "advantages.\n\n\nRELOCATING to the back pages\nthe usual statistics on Arizona\nrising sales, income, nanufac-\nturing and population. \"Arizona\nProgress\" delves deeply into the\nclimate attractions Of the south\nern half of the state, finding:\n\n\nin the winter and spring\nmonths in particular, the wealth\nerr Is near perfect.\n\n\nDaytime hours are charac-\nterized by sunny skies and mild\ntemperatures, and during the\nnights the air Is crisp and clear...\n\n\nTucson. which Is quite typi-\ncal Of most Of Southern Arizona,\naverages S6% of the possible sun\nshine. This greatly exceeds the\namount other parts of the nation\nnormally receives\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1946,
+                "y0": 516,
+                "x1": 2784,
+                "y1": 2760
+            },
+            "class": "article",
+            "raw_text": "Phoenix area families are urged\nto turn on porchlights between\ns pm. and 9 pm. Tuesday.\nJanuary %. to welcome their\nneighbors participating In the\n1864 Mothers March for the\nMarch of Dimes.\n\n\nMarchers will wear an official\nbadge. Men and teenagers who\nparticipate will wear signs an\nnouncing Tonight | Am A\nMother\"\n\n\nIn addition to requesting con-\ntributions for the work of the\nNational Foundation in Its battle\nto conquer birth defects and ar\nthrills, the Marchers will also\ndistribute educational material\nof benefit to expectant mothers\nand arthritis sufferers.\n\n\nFamilies in the city of Phoe-\nnix who are not visited by a\nMarcher but who wish to con-\ntribute are urged to call the\nMarch of Dimes office. 264-0588,\nand volunteer will come i'm\nmediately to their address. Those\nliving in surrounding con1munit-\nles, If not contacted, may send\ntheir contributions to the March\nof Dimes office, 1908 E. Thomas\nRoad, and the postmark will\ncredit their community\ncampaign.\n\n\nThe Mothers March origina-\nted In Phoenix IA years ago, and\nhas since become a nationwide\ntradition.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1970,
+                "y0": 313,
+                "x1": 2598,
+                "y1": 477
+            },
+            "class": "headline",
+            "raw_text": "TURN ON LIGHTS\nFOR MARCHERS",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1935,
+                "y0": 3090,
+                "x1": 2784,
+                "y1": 4067
+            },
+            "class": "article",
+            "raw_text": "Visitors to Merida, in the\nYucatan peninsula Of Mexico, are\nusually fascinated by the color\nfully painted, oblong wood tubs\nsold in the market places. Because\nof their junior dimensions, shall\nlow depressions, and wide counters\nat either end, these are often mis-\ntaken for children's bathtubs.\n\n\nHowever, they are actually\nlaundry tubs called \"bateas\" -\nused chiefly by Magyar Indians.\nThe Mayas, who are noted for\ntheir cleanliness, set these bateas\nat a convenient height on wooden\nhorses, fill them with we'll water\n- and suds their laundry almost\nevery day.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1946,
+                "y0": 2892,
+                "x1": 2778,
+                "y1": 3067
+            },
+            "class": "headline",
+            "raw_text": "Magyar \"Bathtubs\"\nAre Used For Laundry",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2823,
+                "y0": 505,
+                "x1": 3649,
+                "y1": 2690
+            },
+            "class": "article",
+            "raw_text": "ATLANTA, Ca. = Gov. Carl\nSanders was asked by the local\nbranch Of the NAACP to issue\nImmediately an executive order\nbanning discrimination in public\nplaces.\n\n\nLeon Cox, NAACP field sec\nrotary for Georgia, and DR.. c.\nMiles Smith, Atlanta branch\npresident, asked the Governor to\nissue the order in a letter on\nJan. Is following a sit-in dem\nonstration at a city motel that\nresulted in the arrest Of Is\npersons.\n\n\nBesides Mr.. Cox, Atlanta\nNAACP officials jailed in the at\ntempt to desegregate the Heart\nof-Atlanta Motel. Saturday night,\nJan. IL, included DR.. Clinton\nWarner, branch vice-president;\nMrs. Eunice Cooper, branch sec\nrotary: and the Rev. Joseph Boone\nbranch church committee chair\nman.\n\n\nArrested also we're the Rev.\nWyatt Tee Walker and Harry H.\nBoyle, officials of the Southern\nChristian Leadership c conference\nand John Lewis, chairman of the\nStudent Nonviolent Coordinating\nCommittee.\n\n\nThree co-eds among those\nJailed we're Joyce Barrett and\nPrathia Hall Of Philadelphia; and\nJudy Richardson of Tarrytown,\nMY.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3114,
+                "y0": 307,
+                "x1": 4149,
+                "y1": 465
+            },
+            "class": "headline",
+            "raw_text": "GEORGIA GOVERNOR ASKED\n\n\nIN HOTEL IMMIGRATION TRY",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3730,
+                "y0": 511,
+                "x1": 4550,
+                "y1": 2510
+            },
+            "class": "article",
+            "raw_text": "Miss Richardson, a student\nat Swarthmore College, fell to\nthe pavement during a scuffle\nwith a motel employee outside\nthe establishment.\n\n\nPolice rushed Miss Richard\nson to the all-white Georgia Bap-\nfist Hospital. DR.. c. Miles Smith,\nbranch president. went along.\nHospital attendants refused to ex-\nanime the coed. at first. How\never. upon DR.. Smiths demand,\nthey did and found her uninjured.\n\n\nWhile at the hospital. DR.. Smith\nand Miss Richardson decided to\nintegrate the coffee shop. The\nmanagement baked at serving\nthem. but relented. upon DR..\nSmith s insistence.\n\n\nThe demonstrators sat In the\nmotel nearly three hours before\nthey we're jailed. Police had re-\nfused to arrest them until war\nrants we're issued.\n\n\nIn the past when police have\narrested demonstrators on their\nown for trespassing, proprietors\nhave often declined to prosecute\nthe cases in court.\n\n\nHeart-of-Atlanta Motel re-\nportedly refused to join IA other\nmotels and hotels that earlier\nhad agreed to accept Negroes.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-01-24"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                18,
+                1
+            ],
+            "headline": "CLIMATE Is GREAT\nSAYS VNB REVIEW",
+            "article": "\"The greatest attraction that\nArizona possesses continues to\nbe \"Climate,\" concluded Valley\nNational Bank researchers in\ndiscussing the states mild, dry\nclimate and its role in attract\ning both visitors and permanent\nresidents.\n\n\nThe report Is contained in the\ncurrent \"Arizona Progress\"\nVNB's monthly business review.\nDistributed to more than rs 900\nbusiness, professional and indus\ntrial leaders throughout the ma\nton and more than a dozen for\neign countries, the publication\nmakes a strong case for Ari-\nzona's \"near perfect weather.\"\n\n\nAnother portion of the current\nissue is devoted to a special re-\nview of Apache County and its",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3323,
+                    "y0": 2718,
+                    "x1": 4033,
+                    "y1": 2870
+                },
+                {
+                    "x0": 2847,
+                    "y0": 2886,
+                    "x1": 3667,
+                    "y1": 4130
+                }
+            ],
+            "bbox": [
+                2847,
+                2718,
+                4033,
+                4130
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        },
+        {
+            "object_ids": [
+                19,
+                2
+            ],
+            "headline": "SRP CANAL DRY UP\n\n\nRESCHEDULED HERE",
+            "article": "A second postponement on the\nSalt River Project canal dry\nup period due to cold weather\nwas announced. The project IL\ncurrently releasing over 500 mil\nlion gallons Of water a day for\nfrost orders to citrus growers\nIn order to help save the S.\nmillion citrus crop in the VAL\nley.\n\n\nCitrus growers have just\nweathered one Of the severest\nand most prolonged sieges Of\nfrigid air in Valley history. Paul\nC. Kangieser, state climatolo-\ngist, reported that the temper\natures of Is degrees and lower\nrecorded this past week by the\nWeather Bureau in Phoenix rep\nresent the longest period Of cold\nweather below rs degrees since\nthe bureau began keeping records\nhere in 1895.\n\n\nThe new schedule calls for all\ncanals south of the Salt River\nto be dry from midnight jan\nuary 26 to midnight February 10,\nweather permitting. During the\ndry-up the perfect will replace\ngate structures and line several\ncanals.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 186,
+                    "y0": 2166,
+                    "x1": 954,
+                    "y1": 2347
+                },
+                {
+                    "x0": 163,
+                    "y0": 2369,
+                    "x1": 983,
+                    "y1": 4206
+                }
+            ],
+            "bbox": [
+                163,
+                2166,
+                983,
+                4206
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        },
+        {
+            "object_ids": [
+                16,
+                3
+            ],
+            "headline": "NONWHITE\nUNEMPLOYMENT\nINCREASING",
+            "article": "The most recent sampling of\nthe labor ACKNOWLEDGEMENTS\nunemployment--by the Labor De-\npartment' Bureau of Labor Sta\ntistics, shows that unemployment\namong nonwhite workers In\ncreased slightly from November\n1862 to November 1868.\n\n\nNonwhite workers we're 22.5\npercent Of the total unemployed\nin November Of 1868, 2l.o per-\ncent in November 1862. Of this\n22.5 percent. ll.e we're male,\n1915 female. Comparable figures\nfor November 1862 we're ll.2\npercent ard o.8 percent.\n\n\nFor the long term unemploy-\ned--unemployed d weeks and\nover--nonwhite workers we're\n3l.6 in November 1868, 31.5 in\nNovember 1862. Nonwhite males\nwe're us percent in 1868, 1914\nin 1862. Females we're AL per-\ncent in 1868. l2.1 in 1862.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1075,
+                    "y0": 2137,
+                    "x1": 1709,
+                    "y1": 2365
+                },
+                {
+                    "x0": 1052,
+                    "y0": 2381,
+                    "x1": 1878,
+                    "y1": 3799
+                }
+            ],
+            "bbox": [
+                1052,
+                2137,
+                1878,
+                3799
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "advantages.\n\n\nRELOCATING to the back pages\nthe usual statistics on Arizona\nrising sales, income, nanufac-\nturing and population. \"Arizona\nProgress\" delves deeply into the\nclimate attractions Of the south\nern half of the state, finding:\n\n\nin the winter and spring\nmonths in particular, the wealth\nerr Is near perfect.\n\n\nDaytime hours are charac-\nterized by sunny skies and mild\ntemperatures, and during the\nnights the air Is crisp and clear...\n\n\nTucson. which Is quite typi-\ncal Of most Of Southern Arizona,\naverages S6% of the possible sun\nshine. This greatly exceeds the\namount other parts of the nation\nnormally receives\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3724,
+                    "y0": 2892,
+                    "x1": 4544,
+                    "y1": 4113
+                }
+            ],
+            "bbox": [
+                3724,
+                2892,
+                4544,
+                4113
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        },
+        {
+            "object_ids": [
+                22,
+                5
+            ],
+            "headline": "TURN ON LIGHTS\nFOR MARCHERS",
+            "article": "Phoenix area families are urged\nto turn on porchlights between\ns pm. and 9 pm. Tuesday.\nJanuary %. to welcome their\nneighbors participating In the\n1864 Mothers March for the\nMarch of Dimes.\n\n\nMarchers will wear an official\nbadge. Men and teenagers who\nparticipate will wear signs an\nnouncing Tonight | Am A\nMother\"\n\n\nIn addition to requesting con-\ntributions for the work of the\nNational Foundation in Its battle\nto conquer birth defects and ar\nthrills, the Marchers will also\ndistribute educational material\nof benefit to expectant mothers\nand arthritis sufferers.\n\n\nFamilies in the city of Phoe-\nnix who are not visited by a\nMarcher but who wish to con-\ntribute are urged to call the\nMarch of Dimes office. 264-0588,\nand volunteer will come i'm\nmediately to their address. Those\nliving in surrounding con1munit-\nles, If not contacted, may send\ntheir contributions to the March\nof Dimes office, 1908 E. Thomas\nRoad, and the postmark will\ncredit their community\ncampaign.\n\n\nThe Mothers March origina-\nted In Phoenix IA years ago, and\nhas since become a nationwide\ntradition.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1970,
+                    "y0": 313,
+                    "x1": 2598,
+                    "y1": 477
+                },
+                {
+                    "x0": 1946,
+                    "y0": 516,
+                    "x1": 2784,
+                    "y1": 2760
+                }
+            ],
+            "bbox": [
+                1946,
+                313,
+                2784,
+                2760
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        },
+        {
+            "object_ids": [
+                20,
+                7
+            ],
+            "headline": "Magyar \"Bathtubs\"\nAre Used For Laundry",
+            "article": "Visitors to Merida, in the\nYucatan peninsula Of Mexico, are\nusually fascinated by the color\nfully painted, oblong wood tubs\nsold in the market places. Because\nof their junior dimensions, shall\nlow depressions, and wide counters\nat either end, these are often mis-\ntaken for children's bathtubs.\n\n\nHowever, they are actually\nlaundry tubs called \"bateas\" -\nused chiefly by Magyar Indians.\nThe Mayas, who are noted for\ntheir cleanliness, set these bateas\nat a convenient height on wooden\nhorses, fill them with we'll water\n- and suds their laundry almost\nevery day.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1946,
+                    "y0": 2892,
+                    "x1": 2778,
+                    "y1": 3067
+                },
+                {
+                    "x0": 1935,
+                    "y0": 3090,
+                    "x1": 2784,
+                    "y1": 4067
+                }
+            ],
+            "bbox": [
+                1935,
+                2892,
+                2784,
+                4067
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        },
+        {
+            "object_ids": [
+                21,
+                8
+            ],
+            "headline": "GEORGIA GOVERNOR ASKED\n\n\nIN HOTEL IMMIGRATION TRY",
+            "article": "ATLANTA, Ca. = Gov. Carl\nSanders was asked by the local\nbranch Of the NAACP to issue\nImmediately an executive order\nbanning discrimination in public\nplaces.\n\n\nLeon Cox, NAACP field sec\nrotary for Georgia, and DR.. c.\nMiles Smith, Atlanta branch\npresident, asked the Governor to\nissue the order in a letter on\nJan. Is following a sit-in dem\nonstration at a city motel that\nresulted in the arrest Of Is\npersons.\n\n\nBesides Mr.. Cox, Atlanta\nNAACP officials jailed in the at\ntempt to desegregate the Heart\nof-Atlanta Motel. Saturday night,\nJan. IL, included DR.. Clinton\nWarner, branch vice-president;\nMrs. Eunice Cooper, branch sec\nrotary: and the Rev. Joseph Boone\nbranch church committee chair\nman.\n\n\nArrested also we're the Rev.\nWyatt Tee Walker and Harry H.\nBoyle, officials of the Southern\nChristian Leadership c conference\nand John Lewis, chairman of the\nStudent Nonviolent Coordinating\nCommittee.\n\n\nThree co-eds among those\nJailed we're Joyce Barrett and\nPrathia Hall Of Philadelphia; and\nJudy Richardson of Tarrytown,\nMY.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3114,
+                    "y0": 307,
+                    "x1": 4149,
+                    "y1": 465
+                },
+                {
+                    "x0": 2823,
+                    "y0": 505,
+                    "x1": 3649,
+                    "y1": 2690
+                }
+            ],
+            "bbox": [
+                2823,
+                307,
+                4149,
+                2690
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Miss Richardson, a student\nat Swarthmore College, fell to\nthe pavement during a scuffle\nwith a motel employee outside\nthe establishment.\n\n\nPolice rushed Miss Richard\nson to the all-white Georgia Bap-\nfist Hospital. DR.. c. Miles Smith,\nbranch president. went along.\nHospital attendants refused to ex-\nanime the coed. at first. How\never. upon DR.. Smiths demand,\nthey did and found her uninjured.\n\n\nWhile at the hospital. DR.. Smith\nand Miss Richardson decided to\nintegrate the coffee shop. The\nmanagement baked at serving\nthem. but relented. upon DR..\nSmith s insistence.\n\n\nThe demonstrators sat In the\nmotel nearly three hours before\nthey we're jailed. Police had re-\nfused to arrest them until war\nrants we're issued.\n\n\nIn the past when police have\narrested demonstrators on their\nown for trespassing, proprietors\nhave often declined to prosecute\nthe cases in court.\n\n\nHeart-of-Atlanta Motel re-\nportedly refused to join IA other\nmotels and hotels that earlier\nhad agreed to accept Negroes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3730,
+                    "y0": 511,
+                    "x1": 4550,
+                    "y1": 2510
+                }
+            ],
+            "bbox": [
+                3730,
+                511,
+                4550,
+                2510
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-24_p1_sn84021918_0041421695A_1964012401_0275.json"
+        }
+    ]
+}

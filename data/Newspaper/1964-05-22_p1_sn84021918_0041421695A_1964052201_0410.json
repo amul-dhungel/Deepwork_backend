@@ -1,0 +1,640 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964052201/0410.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4824
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2892,
+                "y0": 3297,
+                "x1": 3709,
+                "y1": 3773
+            },
+            "class": "article",
+            "raw_text": "Olive Court FL, Heroines OF\nJericho Prince Hall affiliate,\nCalifornia-Arizona Jurisdiction,\nhosted Mrs. Ruby B. Lewis.\nMAGWM, of Oakland, during her\nofficial visit to the city.\n\n\nOthers visiting were Homer\nDanley, End grand court director,",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2915,
+                "y0": 3176,
+                "x1": 3535,
+                "y1": 3275
+            },
+            "class": "headline",
+            "raw_text": "CAVEL NOTEBOOK",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1069,
+                "y0": 2597,
+                "x1": 1921,
+                "y1": 2986
+            },
+            "class": "article",
+            "raw_text": "When an asphalt tile floor won't\nshine after being waxed, incom-\nplete rinsing may be the culprit.\nAlways follow subscribing\nwith thorough rinsing, then let\nthe floor get completely dry-both\nbefore and after waxing.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1983,
+                "y0": 2418,
+                "x1": 2806,
+                "y1": 3015
+            },
+            "class": "article",
+            "raw_text": "Shirley Campbell. l6 is now\nscheduled to 60 to trial on In\nvoluntary manslaughter charge\nAug. 8.\n\n\nThe girl of BAH S. 10th Ave.,\noriginally was charged with muir\nder in the fatal stabbing last\nJuly Of Albert Jacobs. l6 of\n8l3-F S. 10th Ave. Trial date\noriginally was set for Nov. %.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1978,
+                "y0": 2308,
+                "x1": 2656,
+                "y1": 2396
+            },
+            "class": "headline",
+            "raw_text": "TRIAL SET AUG. 3",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1873,
+                "y0": 3124,
+                "x1": 2684,
+                "y1": 3576
+            },
+            "class": "article",
+            "raw_text": "If you are buying. building, remodel\ning or converting from your present\nair conditioning system, be sure to\ninvestigate the many advantages OF\nmodern gas absorption air condition\ning. It's the practical way to year.\nround cooling and heating for your\nhome.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3789,
+                "y0": 3245,
+                "x1": 4634,
+                "y1": 3744
+            },
+            "class": "article",
+            "raw_text": "and Mrs. Semarce b. Martin,\nNAM, Crown City #20. of Pasa-\ndena.\n\n\nLocal sisters attending the\nmeeting we're Mesdames Juanita\nMcCloud, NAM, Lena RISKY, CJA\nIrene Eppinger, BM. and Bertha Il\nMathews. .aaA,",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1978,
+                "y0": 1643,
+                "x1": 2812,
+                "y1": 2292
+            },
+            "class": "article",
+            "raw_text": "HUBBARD, Iowa The Iowa\nConference of the Evangelical\nUnited Brethren Church went on\nrecord nfavor of welcoming per-\nsons of all races into its\nchurches.\n\n\nThe conference, representing\n$4,000 members of 1877 churches\nin Iowa, urged its congregations\nto extend a cordial welcome to\nminority groups.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1995,
+                "y0": 1463,
+                "x1": 2598,
+                "y1": 1626
+            },
+            "class": "headline",
+            "raw_text": "'' CHURCH FAvORS\n\n\nlNTECRATION",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1902,
+                "y0": 5432,
+                "x1": 2719,
+                "y1": 5781
+            },
+            "class": "article",
+            "raw_text": "hNCk. There's no loss of efficiency\nwith gas air conditioning. Even after\nyears of operation, even during\nmost extreme weather, you always\nget the cooling /heating capacity you\npaid for.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 1908,
+                "y0": 5328,
+                "x1": 2702,
+                "y1": 5416
+            },
+            "class": "headline",
+            "raw_text": "4, CONSTANT PEAK PERFORM",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1885,
+                "y0": 3789,
+                "x1": 2690,
+                "y1": 4218
+            },
+            "class": "article",
+            "raw_text": "naturally costs less than electricity,\nwhile special summer gas air con-\nditioning rate means even bigger\nsavings. And, with gas air condition\ning energy consumption does not in\ncrease with the units age. Your\nair conditioning cost starts low -\nstays low.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1972,
+                "y0": 3703,
+                "x1": 2575,
+                "y1": 3779
+            },
+            "class": "headline",
+            "raw_text": "LOWER OPERATING COST.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1891,
+                "y0": 4952,
+                "x1": 2713,
+                "y1": 5162
+            },
+            "class": "article",
+            "raw_text": "moving parts to break down or wear\nout means big savings in malnte-\nnance, repair and replacement costs\nover the years.",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 1902,
+                "y0": 4848,
+                "x1": 2696,
+                "y1": 4936
+            },
+            "class": "headline",
+            "raw_text": "j, LOWER maintenance. No",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 1908,
+                "y0": 6034,
+                "x1": 2725,
+                "y1": 6504
+            },
+            "class": "article",
+            "raw_text": "dition to an unmatched factory war\nranty, gas air conditioning is backed\nby a service policy available from\nArizona Public Service Company.\nTo learn how modern gas air condi-\ntioning can cool your home five ways\nbetter, visit\n\n\nArizona Public Service Co.'S",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 30,
+            "bbox": {
+                "x0": 1908,
+                "y0": 5872,
+                "x1": 2731,
+                "y1": 6029
+            },
+            "class": "headline",
+            "raw_text": "j. WARRANTY /SERvICE. In ad.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 167,
+                "y0": 1527,
+                "x1": 1874,
+                "y1": 2454
+            },
+            "class": "article",
+            "raw_text": "The Guild sponsored exhibit of works OF Negro\nValley last Sunday the Community Services Bdg\nISIS E. Osborn.\n\n\nTop Arthur Patrick president\nof contributing artists.\n\n\nSecond phoo-Mrs Glendon Corbin displays one of\nher works the art show Mr.. and\nMrs Jackson and Mrs. William Cremely.\n\n\nMrs. Corbin's work is entitled The Hucksters\".\n\n\nwho contributed the show we're I'd Smith, Eugene\nCrigsby Young Walter Venerable Roosevelt Woods r\nand Carl Craig.\n\n\nMrs Corbin exhibited painting piece OF sculpture at e\nRamada Inn at conference called 10 STUDY \"i\" S pp -\nsouthwest",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 1885,
+                "y0": 4351,
+                "x1": 2708,
+                "y1": 4699
+            },
+            "class": "article",
+            "raw_text": "4. LONGER LIFE. Gas absorption\nair conditioning lasts a to 5 times\nlonger than other units because there\nare no moving parts; no compressor\nin the cooling cheating cycle.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-05-22"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "CAVEL NOTEBOOK",
+            "article": "Olive Court FL, Heroines OF\nJericho Prince Hall affiliate,\nCalifornia-Arizona Jurisdiction,\nhosted Mrs. Ruby B. Lewis.\nMAGWM, of Oakland, during her\nofficial visit to the city.\n\n\nOthers visiting were Homer\nDanley, End grand court director,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2915,
+                    "y0": 3176,
+                    "x1": 3535,
+                    "y1": 3275
+                },
+                {
+                    "x0": 2892,
+                    "y0": 3297,
+                    "x1": 3709,
+                    "y1": 3773
+                }
+            ],
+            "bbox": [
+                2892,
+                3176,
+                3709,
+                3773
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "When an asphalt tile floor won't\nshine after being waxed, incom-\nplete rinsing may be the culprit.\nAlways follow subscribing\nwith thorough rinsing, then let\nthe floor get completely dry-both\nbefore and after waxing.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1069,
+                    "y0": 2597,
+                    "x1": 1921,
+                    "y1": 2986
+                }
+            ],
+            "bbox": [
+                1069,
+                2597,
+                1921,
+                2986
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                20,
+                8
+            ],
+            "headline": "TRIAL SET AUG. 3",
+            "article": "Shirley Campbell. l6 is now\nscheduled to 60 to trial on In\nvoluntary manslaughter charge\nAug. 8.\n\n\nThe girl of BAH S. 10th Ave.,\noriginally was charged with muir\nder in the fatal stabbing last\nJuly Of Albert Jacobs. l6 of\n8l3-F S. 10th Ave. Trial date\noriginally was set for Nov. %.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1978,
+                    "y0": 2308,
+                    "x1": 2656,
+                    "y1": 2396
+                },
+                {
+                    "x0": 1983,
+                    "y0": 2418,
+                    "x1": 2806,
+                    "y1": 3015
+                }
+            ],
+            "bbox": [
+                1978,
+                2308,
+                2806,
+                3015
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "If you are buying. building, remodel\ning or converting from your present\nair conditioning system, be sure to\ninvestigate the many advantages OF\nmodern gas absorption air condition\ning. It's the practical way to year.\nround cooling and heating for your\nhome.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1873,
+                    "y0": 3124,
+                    "x1": 2684,
+                    "y1": 3576
+                }
+            ],
+            "bbox": [
+                1873,
+                3124,
+                2684,
+                3576
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "and Mrs. Semarce b. Martin,\nNAM, Crown City #20. of Pasa-\ndena.\n\n\nLocal sisters attending the\nmeeting we're Mesdames Juanita\nMcCloud, NAM, Lena RISKY, CJA\nIrene Eppinger, BM. and Bertha Il\nMathews. .aaA,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3789,
+                    "y0": 3245,
+                    "x1": 4634,
+                    "y1": 3744
+                }
+            ],
+            "bbox": [
+                3789,
+                3245,
+                4634,
+                3744
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                19,
+                15
+            ],
+            "headline": "'' CHURCH FAvORS\n\n\nlNTECRATION",
+            "article": "HUBBARD, Iowa The Iowa\nConference of the Evangelical\nUnited Brethren Church went on\nrecord nfavor of welcoming per-\nsons of all races into its\nchurches.\n\n\nThe conference, representing\n$4,000 members of 1877 churches\nin Iowa, urged its congregations\nto extend a cordial welcome to\nminority groups.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1995,
+                    "y0": 1463,
+                    "x1": 2598,
+                    "y1": 1626
+                },
+                {
+                    "x0": 1978,
+                    "y0": 1643,
+                    "x1": 2812,
+                    "y1": 2292
+                }
+            ],
+            "bbox": [
+                1978,
+                1463,
+                2812,
+                2292
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                27,
+                16
+            ],
+            "headline": "4, CONSTANT PEAK PERFORM",
+            "article": "hNCk. There's no loss of efficiency\nwith gas air conditioning. Even after\nyears of operation, even during\nmost extreme weather, you always\nget the cooling /heating capacity you\npaid for.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 5328,
+                    "x1": 2702,
+                    "y1": 5416
+                },
+                {
+                    "x0": 1902,
+                    "y0": 5432,
+                    "x1": 2719,
+                    "y1": 5781
+                }
+            ],
+            "bbox": [
+                1902,
+                5328,
+                2719,
+                5781
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                26,
+                17
+            ],
+            "headline": "LOWER OPERATING COST.",
+            "article": "naturally costs less than electricity,\nwhile special summer gas air con-\nditioning rate means even bigger\nsavings. And, with gas air condition\ning energy consumption does not in\ncrease with the units age. Your\nair conditioning cost starts low -\nstays low.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1972,
+                    "y0": 3703,
+                    "x1": 2575,
+                    "y1": 3779
+                },
+                {
+                    "x0": 1885,
+                    "y0": 3789,
+                    "x1": 2690,
+                    "y1": 4218
+                }
+            ],
+            "bbox": [
+                1885,
+                3703,
+                2690,
+                4218
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                28,
+                22
+            ],
+            "headline": "j, LOWER maintenance. No",
+            "article": "moving parts to break down or wear\nout means big savings in malnte-\nnance, repair and replacement costs\nover the years.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1902,
+                    "y0": 4848,
+                    "x1": 2696,
+                    "y1": 4936
+                },
+                {
+                    "x0": 1891,
+                    "y0": 4952,
+                    "x1": 2713,
+                    "y1": 5162
+                }
+            ],
+            "bbox": [
+                1891,
+                4848,
+                2713,
+                5162
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                30,
+                23
+            ],
+            "headline": "j. WARRANTY /SERvICE. In ad.",
+            "article": "dition to an unmatched factory war\nranty, gas air conditioning is backed\nby a service policy available from\nArizona Public Service Company.\nTo learn how modern gas air condi-\ntioning can cool your home five ways\nbetter, visit\n\n\nArizona Public Service Co.'S",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1908,
+                    "y0": 5872,
+                    "x1": 2731,
+                    "y1": 6029
+                },
+                {
+                    "x0": 1908,
+                    "y0": 6034,
+                    "x1": 2725,
+                    "y1": 6504
+                }
+            ],
+            "bbox": [
+                1908,
+                5872,
+                2731,
+                6504
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                24
+            ],
+            "headline": "",
+            "article": "The Guild sponsored exhibit of works OF Negro\nValley last Sunday the Community Services Bdg\nISIS E. Osborn.\n\n\nTop Arthur Patrick president\nof contributing artists.\n\n\nSecond phoo-Mrs Glendon Corbin displays one of\nher works the art show Mr.. and\nMrs Jackson and Mrs. William Cremely.\n\n\nMrs. Corbin's work is entitled The Hucksters\".\n\n\nwho contributed the show we're I'd Smith, Eugene\nCrigsby Young Walter Venerable Roosevelt Woods r\nand Carl Craig.\n\n\nMrs Corbin exhibited painting piece OF sculpture at e\nRamada Inn at conference called 10 STUDY \"i\" S pp -\nsouthwest",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 167,
+                    "y0": 1527,
+                    "x1": 1874,
+                    "y1": 2454
+                }
+            ],
+            "bbox": [
+                167,
+                1527,
+                1874,
+                2454
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "4. LONGER LIFE. Gas absorption\nair conditioning lasts a to 5 times\nlonger than other units because there\nare no moving parts; no compressor\nin the cooling cheating cycle.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1885,
+                    "y0": 4351,
+                    "x1": 2708,
+                    "y1": 4699
+                }
+            ],
+            "bbox": [
+                1885,
+                4351,
+                2708,
+                4699
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-05-22_p1_sn84021918_0041421695A_1964052201_0410.json"
+        }
+    ]
+}

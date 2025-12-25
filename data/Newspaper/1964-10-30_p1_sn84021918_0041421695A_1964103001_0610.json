@@ -1,0 +1,134 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964103001/0610.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7380,
+        "width": 4890
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3978,
+                "y0": 3021,
+                "x1": 4798,
+                "y1": 3448
+            },
+            "class": "article",
+            "raw_text": "''What kind of a saddle do you\nwant7\" the cowboy a sked Horatio\nH. Zone with or without horn7\"\n\n\nHoratio pondered a moment be-\nfore answering. without, l\nguess\" he said. :'Doesn't seem\nto be much traffic on this ranch\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 4111,
+                "y0": 2859,
+                "x1": 4700,
+                "y1": 2993
+            },
+            "class": "headline",
+            "raw_text": "cAUcklE TIME",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3096,
+                "y0": 2363,
+                "x1": 4809,
+                "y1": 2780
+            },
+            "class": "article",
+            "raw_text": "shall his hook and line and for without\nbite Rev. Melvin Harrison tried his luck 80\ngrouper. q\n\n\nHis fishing Rev. Kendrick\nDALI They their\n\n\nRev. Harrison said he shot wild turkey while he in the\n",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-10-30"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "cAUcklE TIME",
+            "article": "''What kind of a saddle do you\nwant7\" the cowboy a sked Horatio\nH. Zone with or without horn7\"\n\n\nHoratio pondered a moment be-\nfore answering. without, l\nguess\" he said. :'Doesn't seem\nto be much traffic on this ranch\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4111,
+                    "y0": 2859,
+                    "x1": 4700,
+                    "y1": 2993
+                },
+                {
+                    "x0": 3978,
+                    "y0": 3021,
+                    "x1": 4798,
+                    "y1": 3448
+                }
+            ],
+            "bbox": [
+                3978,
+                2859,
+                4798,
+                3448
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-30_p1_sn84021918_0041421695A_1964103001_0610.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "shall his hook and line and for without\nbite Rev. Melvin Harrison tried his luck 80\ngrouper. q\n\n\nHis fishing Rev. Kendrick\nDALI They their\n\n\nRev. Harrison said he shot wild turkey while he in the\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3096,
+                    "y0": 2363,
+                    "x1": 4809,
+                    "y1": 2780
+                }
+            ],
+            "bbox": [
+                3096,
+                2363,
+                4809,
+                2780
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-10-30_p1_sn84021918_0041421695A_1964103001_0610.json"
+        }
+    ]
+}

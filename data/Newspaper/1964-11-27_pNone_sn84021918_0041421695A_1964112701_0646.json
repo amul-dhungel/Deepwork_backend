@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7504,
+        "width": 5031,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112701/0646.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3963,
+                "y0": 2321,
+                "x1": 4779,
+                "y1": 3254
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON, DC. The Ma\ntional Council of Negro Women,\nwas upset by the resignation of\ntwo vice sidents who quit the\nprestige group in the wake OF\nthe revelation that the Council S\ntrea sury is in the hole for close\nto SAB 900.\n\n\nDR.. Deborah Partridge Wolfe\nof New York said in her resigna-\nton that she was amazed to\nlearn both of the deficit and the\nfact that new per sonnet had been\nadded to the organization recently\nwithout the approval of the board\nof directors.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3975,
+                "y0": 2087,
+                "x1": 4632,
+                "y1": 2299
+            },
+            "class": "headline",
+            "raw_text": "NCNW\nMAY COLLAPSE",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2146,
+                "y0": 650,
+                "x1": 2973,
+                "y1": 3108
+            },
+            "class": "article",
+            "raw_text": "With the postal delivery more\nthan 100000 envelopes contain\ning sheets of gaily illustrated\nseals and accompanying appeals,\nthe Greater Maricopa Tubercu-\nlosis and Health Association\nopened it's 10th annual Christmas\nSeal campaign! Proceeds are\nused to carry on the fight against\nTB and other respiratory dis\nca ses, the illnesses of breathing.\n\n\nIn a statement empha sizing the\ngradual rate at which TBi being\npushed back, the local campaign\nchairman. Glenn Stapley, said,--\nFederal Health authorities have\ncalled attention during the last\nyear to a slowing down of the rate\nof decrea Sc in new active cases.\nIn Maricopa County, the incidence\nof Tuberculo sis ha increa sed for\nthree years In roW--1rom oO4\nnew active ca ses reported in\n1862, to $50 in 1868. Already this\nyear, a of November E, we are\n38 cases ahead of la st year the\nsame date. This means need\nfor redoubling of efforts in pre-\nvention, case finding and treat\nment.'\n\n\neat the same time, other ser\nious respiratory disea ses such\nas chronic bronchitis and empty\nsoma present an increa sing prob\nlem,\" MIR. Stapley continued. In\nthis work we hope to play our\npart as we have done for many\nyears and we are confident that\nthe people in the community who\nhave supported us in the pa st will\nshow that they are with us more\nthan ever this year.\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2157,
+                "y0": 398,
+                "x1": 2639,
+                "y1": 628
+            },
+            "class": "headline",
+            "raw_text": "BUY SEALS\nTO HELP",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3054,
+                "y0": 2280,
+                "x1": 3876,
+                "y1": 3336
+            },
+            "class": "article",
+            "raw_text": "COLUMBIA, Sc, South Caro-\nlima Baptists, in convention re-\niects recommendation by their\ngeneral board that admission pol\nicies at the four state Baptist\ncolleges be left to the respective\ntrustees.\n\n\nApproval of the recommend\nalton would have opened way for\nintegration.\n\n\nThe convention rejected the\nrecommendation 943 to 9l5. The\nschools are Furman University\nat Greenville, Anderson College\nat Anderson, North Creenville\nJunior College in Upper Green\nVile County and the new Bap-\nfist College of Charleston.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3048,
+                "y0": 2051,
+                "x1": 3847,
+                "y1": 2252
+            },
+            "class": "headline",
+            "raw_text": "Church Unit\n\n\nVetoes Integrution",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 375,
+                "y0": 1829,
+                "x1": 2070,
+                "y1": 2826
+            },
+            "class": "article",
+            "raw_text": "Final rave plans, including itineraries and scneoues\nwhen Edward Banks publishers ano\nOf The Arizona Tribune received their tickets. 5000,\n~ ouknson agent of Edmund travel service Iocateo\n\n\nthe Del Webb Bldg. and Rurik NJ Myhberg district Sd\nmanager of Llfthansa German Air Lines preoe\" ~ ~ 80\nBankses 49,. u,oL,o travel\nMessrs. Havkinson and Myhberg commented tna'\narrangements Banks and his wife were mace easier\nOf +he publishe wide travel experiences.\n\n\nnthans German opened offices in Phoexree ye\nAGO. If provides service major European cities.\n\n\nMr. and Mrs. Banks will spend Christmas with ms no'ei\n~ Rb Ranks of uddersfeld England They will visit Lonoon\nMadrid, Rome, Venice oiclly' \"o' ~\nFrankfurt returning to the states.\nlldlNAuAt 00-0 Fred Banks",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3078,
+                "y0": 1535,
+                "x1": 4767,
+                "y1": 2052
+            },
+            "class": "article",
+            "raw_text": "RURAL LOW-INCOME PROBLEM--Emer ]. Moore. right.\nthe u S. Department of Agriculture and\nH. USDA Area Economic De-\nveopmen Branch, study ow-income u S map Mr.\npointing the South where median family in\ncomes ST. 2o0 Speaking the National\nAgricultural Outlook Conference last week he suggested ways b.\nwhich farm people could be assisted\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 621,
+                "y0": 4930,
+                "x1": 1713,
+                "y1": 5804
+            },
+            "class": "article",
+            "raw_text": "Your picturesque and practical gasIIght\nheightens the beauty Of your home. It's\nlovely glow radiates circle Of SOFT l'gnt\nthat only gasIght can give creates\ncharming beacon for your home. 1t ehm'-\nmates dark shadow places around your\nhome. and shines a gracious welcome TO\nfamily and friends.\n\n\nModern gaslights come in a wide variety\nof STYLES to match the grace Of your nome\n\n\nboth post mounted and wall nnounteo",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112701_0646",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "NCNW\nMAY COLLAPSE",
+            "article": "WASHINGTON, DC. The Ma\ntional Council of Negro Women,\nwas upset by the resignation of\ntwo vice sidents who quit the\nprestige group in the wake OF\nthe revelation that the Council S\ntrea sury is in the hole for close\nto SAB 900.\n\n\nDR.. Deborah Partridge Wolfe\nof New York said in her resigna-\nton that she was amazed to\nlearn both of the deficit and the\nfact that new per sonnet had been\nadded to the organization recently\nwithout the approval of the board\nof directors.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3975,
+                    "y0": 2087,
+                    "x1": 4632,
+                    "y1": 2299
+                },
+                {
+                    "x0": 3963,
+                    "y0": 2321,
+                    "x1": 4779,
+                    "y1": 3254
+                }
+            ],
+            "bbox": [
+                3963,
+                2087,
+                4779,
+                3254
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-27_pna_sn84021918_0041421695A_1964112701_0646.json"
+        },
+        {
+            "object_ids": [
+                8,
+                3
+            ],
+            "headline": "BUY SEALS\nTO HELP",
+            "article": "With the postal delivery more\nthan 100000 envelopes contain\ning sheets of gaily illustrated\nseals and accompanying appeals,\nthe Greater Maricopa Tubercu-\nlosis and Health Association\nopened it's 10th annual Christmas\nSeal campaign! Proceeds are\nused to carry on the fight against\nTB and other respiratory dis\nca ses, the illnesses of breathing.\n\n\nIn a statement empha sizing the\ngradual rate at which TBi being\npushed back, the local campaign\nchairman. Glenn Stapley, said,--\nFederal Health authorities have\ncalled attention during the last\nyear to a slowing down of the rate\nof decrea Sc in new active cases.\nIn Maricopa County, the incidence\nof Tuberculo sis ha increa sed for\nthree years In roW--1rom oO4\nnew active ca ses reported in\n1862, to $50 in 1868. Already this\nyear, a of November E, we are\n38 cases ahead of la st year the\nsame date. This means need\nfor redoubling of efforts in pre-\nvention, case finding and treat\nment.'\n\n\neat the same time, other ser\nious respiratory disea ses such\nas chronic bronchitis and empty\nsoma present an increa sing prob\nlem,\" MIR. Stapley continued. In\nthis work we hope to play our\npart as we have done for many\nyears and we are confident that\nthe people in the community who\nhave supported us in the pa st will\nshow that they are with us more\nthan ever this year.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2157,
+                    "y0": 398,
+                    "x1": 2639,
+                    "y1": 628
+                },
+                {
+                    "x0": 2146,
+                    "y0": 650,
+                    "x1": 2973,
+                    "y1": 3108
+                }
+            ],
+            "bbox": [
+                2146,
+                398,
+                2973,
+                3108
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-11-27_pna_sn84021918_0041421695A_1964112701_0646.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "Church Unit\n\n\nVetoes Integrution",
+            "article": "COLUMBIA, Sc, South Caro-\nlima Baptists, in convention re-\niects recommendation by their\ngeneral board that admission pol\nicies at the four state Baptist\ncolleges be left to the respective\ntrustees.\n\n\nApproval of the recommend\nalton would have opened way for\nintegration.\n\n\nThe convention rejected the\nrecommendation 943 to 9l5. The\nschools are Furman University\nat Greenville, Anderson College\nat Anderson, North Creenville\nJunior College in Upper Green\nVile County and the new Bap-\nfist College of Charleston.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3048,
+                    "y0": 2051,
+                    "x1": 3847,
+                    "y1": 2252
+                },
+                {
+                    "x0": 3054,
+                    "y0": 2280,
+                    "x1": 3876,
+                    "y1": 3336
+                }
+            ],
+            "bbox": [
+                3048,
+                2051,
+                3876,
+                3336
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-27_pna_sn84021918_0041421695A_1964112701_0646.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "Final rave plans, including itineraries and scneoues\nwhen Edward Banks publishers ano\nOf The Arizona Tribune received their tickets. 5000,\n~ ouknson agent of Edmund travel service Iocateo\n\n\nthe Del Webb Bldg. and Rurik NJ Myhberg district Sd\nmanager of Llfthansa German Air Lines preoe\" ~ ~ 80\nBankses 49,. u,oL,o travel\nMessrs. Havkinson and Myhberg commented tna'\narrangements Banks and his wife were mace easier\nOf +he publishe wide travel experiences.\n\n\nnthans German opened offices in Phoexree ye\nAGO. If provides service major European cities.\n\n\nMr. and Mrs. Banks will spend Christmas with ms no'ei\n~ Rb Ranks of uddersfeld England They will visit Lonoon\nMadrid, Rome, Venice oiclly' \"o' ~\nFrankfurt returning to the states.\nlldlNAuAt 00-0 Fred Banks",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 375,
+                    "y0": 1829,
+                    "x1": 2070,
+                    "y1": 2826
+                }
+            ],
+            "bbox": [
+                375,
+                1829,
+                2070,
+                2826
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-11-27_pna_sn84021918_0041421695A_1964112701_0646.json"
+        },
+        {
+            "object_ids": [
+                14
+            ],
+            "headline": "",
+            "article": "RURAL LOW-INCOME PROBLEM--Emer ]. Moore. right.\nthe u S. Department of Agriculture and\nH. USDA Area Economic De-\nveopmen Branch, study ow-income u S map Mr.\npointing the South where median family in\ncomes ST. 2o0 Speaking the National\nAgricultural Outlook Conference last week he suggested ways b.\nwhich farm people could be assisted\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3078,
+                    "y0": 1535,
+                    "x1": 4767,
+                    "y1": 2052
+                }
+            ],
+            "bbox": [
+                3078,
+                1535,
+                4767,
+                2052
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-11-27_pna_sn84021918_0041421695A_1964112701_0646.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Your picturesque and practical gasIIght\nheightens the beauty Of your home. It's\nlovely glow radiates circle Of SOFT l'gnt\nthat only gasIght can give creates\ncharming beacon for your home. 1t ehm'-\nmates dark shadow places around your\nhome. and shines a gracious welcome TO\nfamily and friends.\n\n\nModern gaslights come in a wide variety\nof STYLES to match the grace Of your nome\n\n\nboth post mounted and wall nnounteo",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 621,
+                    "y0": 4930,
+                    "x1": 1713,
+                    "y1": 5804
+                }
+            ],
+            "bbox": [
+                621,
+                4930,
+                1713,
+                5804
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-11-27_pna_sn84021918_0041421695A_1964112701_0646.json"
+        }
+    ]
+}

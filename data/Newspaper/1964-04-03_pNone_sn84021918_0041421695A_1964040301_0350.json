@@ -1,0 +1,520 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7479,
+        "width": 4986,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-03",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964040301/0350.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3059,
+                "y0": 2547,
+                "x1": 4743,
+                "y1": 3956
+            },
+            "class": "article",
+            "raw_text": "and SOLDIER said Colonel M Sc Lulefield\n81 can speak in the highest terms Of praise\"\n\n\nThis reporting the fatal charges F. Wagner\nJuly 49, 1863 led by the Fiffourth Massachusetts REGIMENT\nin which William H. Carney the flag bearer, distinguished him\nself.\n\n\nSaid the officer further: e received wound IN the\nthigh upon He planted the flag the para\npet lay other SLOPE that he might get as much shell\npossible. there he remained for half an hour till the\nEnd brigade the coors flying until the second\nconflict was retired he followed creeping\non knee, still holding up the flag\"\n\n\nthat Sergeant Carney came from the Held having\nheld the emblem the walls Of Fort Wagner during\nthe sangnay conflict the brigdes and having received\ntwo very wounds the thigh and one IN the head\nst he refused up until he found Off\nof his regiment.\n\n\nWhen he entered the hospital where his wounded comrades\nwe're being brought h they cheered him and the color Though\nnearly exhausted with blood he sad Boys the old flag\nnever touched the ground :\"\n\n\nm",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3077,
+                "y0": 2354,
+                "x1": 4124,
+                "y1": 2548
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nwilliam Carney",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3059,
+                "y0": 1209,
+                "x1": 4737,
+                "y1": 2291
+            },
+            "class": "article",
+            "raw_text": "open Phillip Randolph which appeared recently\nJackie weekly column he his\nconcern that Randolph proposing dangerous actions\n\n\ntold Randolph he considered him the senior statesman\nof the Negroes deagogic Negro lead\nershp calling Negroes and fight unwse\n\n\nThe article continued stating that the coalition formed IN New\nYork CITY BY Adam c. Powell Malcolm and the Rev. Milton\nundermine NAACP the Urban League\nand the Southern Christian Leadership Conference CLC)\n\n\nbaseball urged Mr. Randolph intervene and\nreagn groups who insist Freedom Now being\nwon in more bloodshed and civil strife\n\n\npublicity given Cassus Clay becoming\ngiven the time and effort devoted under\nprivileged boys by Floyd Patterson.\n\n\nJackie Robinson urged Randolph reassert that Negroes Will not\nSubscribe Violence either physical OF the spirit",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3585,
+                "y0": 549,
+                "x1": 4568,
+                "y1": 1000
+            },
+            "class": "headline",
+            "raw_text": "Views, pRevlFws\nMD Reviews\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -3
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3813,
+                "y0": 917,
+                "x1": 4334,
+                "y1": 994
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3071,
+                "y0": 1075,
+                "x1": 3861,
+                "y1": 1187
+            },
+            "class": "headline",
+            "raw_text": "Robinson Is Right",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2154,
+                "y0": 870,
+                "x1": 2990,
+                "y1": 4698
+            },
+            "class": "article",
+            "raw_text": "Spring is the time for birds,\nbees, kites, umbrellas, cotton\ndresses, house cleaning and kerr\nker-choo-oo, allergy attacks.\n\n\nSome poets have written Of the\nbeauties of the flora and fauna\nwhich comes to life in the second\nquarter Of the year.\n\n\nPictures Of wee chicks, flop\ncared rabbits, waddling geese,\nslick skinned puppies and wiggly\nfish conjure up poems and rhymes\nof praise.\n\n\nFields of vermillion roses,\nviolet hued irises, yellow daffo-\ndis and alabaster carnations\ncause songwriters many happy\nmoments.\n\n\nThe familiar shouts Of children\ntrailing after kites or the NUT\nterings Of band Of boys kneel-\ning before a marble circle means\nspring Is here.\n\n\nOther persons have their own\nmanner Of learning the season Is\nhere. Some merely turn the cal\nendar. Some see 1t in the morning\ndew. Some hear the tunes Of\nspring over the radio or tele-\nvision.\n\n\nFarmers know by the bleats Of\nlambs or the birth Of a calf or\ncolt.\n\n\nAuto racers watch tryouts as\ncars and drivers hope to enter\nthe classic 500 mile Indianapolis\nrace.\n\n\nBaseball lovers follow the trips\nof big league teams and watch\nperformances Of seas oned and\nrockies. Hoping for new records\nto be broken, they sift the facts\nand predict the Yankees can or\ncan not be beaten.\n\n\nFar In the distance another\nsign Of spring can be seen. If\nyou live near a playground the\nsounds Of springtime echo more\noften. The sounds become louder\nas the summer begins Its jour\nney from three short months as\nthe calendar goes.\n\n\nAll of the sights and sounds\nof spring reach a zenith In the\nValley of the Sun, especially on\nthe southside. At this time OF\nyear the Japanese flower gardens\nare In bloom and as the beautiful\nposies bank the ground the\nsmell watts through the desert\nair.\n\n\n| 90 ker-ker-choo-oo and |\nknow darn we'll It's just\ns-p-r-i-n-g. Againl",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2171,
+                "y0": 496,
+                "x1": 2967,
+                "y1": 719
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nELolsE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2165,
+                "y0": 753,
+                "x1": 2587,
+                "y1": 859
+            },
+            "class": "headline",
+            "raw_text": "It's Here",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2200,
+                "y0": 4890,
+                "x1": 3019,
+                "y1": 5417
+            },
+            "class": "article",
+            "raw_text": "FOR RENT\nl-3 Bedroom House unfurnished-\n$500 per month Option to buy.\n6lo West Illini AL 3-34O6\nEvenings.\n\n\nOne Bedroom furnished Apt.\nUtilities Paid $1,000 per week\nquiet. l20 West Elwood See\nTurner. AL 3-3408 Evenings.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2364,
+                "y0": 4744,
+                "x1": 2844,
+                "y1": 4856
+            },
+            "class": "headline",
+            "raw_text": "Classified Ad",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2411,
+                "y0": 4878,
+                "x1": 2716,
+                "y1": 4938
+            },
+            "class": "headline",
+            "raw_text": "FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 389,
+                "y0": 2401,
+                "x1": 2061,
+                "y1": 4879
+            },
+            "class": "article",
+            "raw_text": "This week Malcolm X, the former second\ncommander of the Black Mus Inns, announced\nhe mus planning third party composed of all\nNegroes to min political power in the United\nStates.\n\n\nHe urged Negroes to join his black ma\nti0naliSt party and take UP not only ballots\nbut arms. His TRADES cause many persons\nto sO0ndeY If Malcolm X is ia cling reality or\nis he man hUirag in dream World.\n\n\nJust how far could Negroes min anything\nat the polls as a third party? H0w could they\ncontrol any legis lathe district? How could\nthey elect candidates on a strictly racial\nbasis?\n\n\nMalcolm X also said that Negroes should\ntake up arms and fight for their freedoms.\nHas he forgotten that though Negroes COM\nprise the largest single minority GROUP in\nthe United States-they are still minority.\n\n\nWhile rioting flared again in Florida and\nother blaces--the threats of violence haze\nmore onainous sound. The death of Negro\nmother Walking home in Florida is not an\nincident to be proud OF.\n\n\nAll hving and learning in our democracy\nwiH haze been of little vah4e If the blacks\nand whites must resort to the steel and buL-\nlets.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 494,
+                "y0": 1916,
+                "x1": 1185,
+                "y1": 2086
+            },
+            "class": "author",
+            "raw_text": "~ This Newspaper b Q member ef\nAslz6N3 NEWSPAPERS ASSOCIATION\n. For Greater Public ssrfes",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 705,
+                "y0": 2191,
+                "x1": 1769,
+                "y1": 2344
+            },
+            "class": "headline",
+            "raw_text": "The WRONG WAY",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 407,
+                "y0": 1057,
+                "x1": 2084,
+                "y1": 2121
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, PUBL sHER-EoToR\nELOISE BANKS, ASSISTANT EDITOR\nBOBBY HEARD, STAFF PHOTOGRAPHER\nESTABLISHED JULY 10, 1883\nPUBL THURSDAY\nsHINo COMPANY INcs\naIs7 z BROADWAY\nPHOENIX, ssoAo 81 80 rR.\nsEcoNp CLASS POSTAGE PAID AT PHOENIX, ARIZONA\nTALL THAT o NEEDED TO REMEDY THE EVILS OF on\"\nTIMES 10 TO JUSTICE AND GIVE FREEDOM\n\n\n81\nAsz6H1NEwwAPEE ASSOCIATION sio MADISON AVE.\nIII F~s'\"\" 'S's '\"'\"' YORK ~, NY.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 377,
+                "y0": 520,
+                "x1": 1997,
+                "y1": 965
+            },
+            "class": "headline",
+            "raw_text": "Artzutmfa&AGrth u1te",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 804,
+                "y0": 981,
+                "x1": 1377,
+                "y1": 1058
+            },
+            "class": "author",
+            "raw_text": "VOL. 6, NO. SO",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964040301_0350",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                0
+            ],
+            "headline": "NEGRO HISTORY NOTES\nwilliam Carney",
+            "article": "and SOLDIER said Colonel M Sc Lulefield\n81 can speak in the highest terms Of praise\"\n\n\nThis reporting the fatal charges F. Wagner\nJuly 49, 1863 led by the Fiffourth Massachusetts REGIMENT\nin which William H. Carney the flag bearer, distinguished him\nself.\n\n\nSaid the officer further: e received wound IN the\nthigh upon He planted the flag the para\npet lay other SLOPE that he might get as much shell\npossible. there he remained for half an hour till the\nEnd brigade the coors flying until the second\nconflict was retired he followed creeping\non knee, still holding up the flag\"\n\n\nthat Sergeant Carney came from the Held having\nheld the emblem the walls Of Fort Wagner during\nthe sangnay conflict the brigdes and having received\ntwo very wounds the thigh and one IN the head\nst he refused up until he found Off\nof his regiment.\n\n\nWhen he entered the hospital where his wounded comrades\nwe're being brought h they cheered him and the color Though\nnearly exhausted with blood he sad Boys the old flag\nnever touched the ground :\"\n\n\nm",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3077,
+                    "y0": 2354,
+                    "x1": 4124,
+                    "y1": 2548
+                },
+                {
+                    "x0": 3059,
+                    "y0": 2547,
+                    "x1": 4743,
+                    "y1": 3956
+                }
+            ],
+            "bbox": [
+                3059,
+                2354,
+                4743,
+                3956
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-03_pna_sn84021918_0041421695A_1964040301_0350.json"
+        },
+        {
+            "object_ids": [
+                7,
+                22,
+                10,
+                3
+            ],
+            "headline": "Views, pRevlFws\nMD Reviews\n\n\nEdward Banks\n\nRobinson Is Right",
+            "article": "open Phillip Randolph which appeared recently\nJackie weekly column he his\nconcern that Randolph proposing dangerous actions\n\n\ntold Randolph he considered him the senior statesman\nof the Negroes deagogic Negro lead\nershp calling Negroes and fight unwse\n\n\nThe article continued stating that the coalition formed IN New\nYork CITY BY Adam c. Powell Malcolm and the Rev. Milton\nundermine NAACP the Urban League\nand the Southern Christian Leadership Conference CLC)\n\n\nbaseball urged Mr. Randolph intervene and\nreagn groups who insist Freedom Now being\nwon in more bloodshed and civil strife\n\n\npublicity given Cassus Clay becoming\ngiven the time and effort devoted under\nprivileged boys by Floyd Patterson.\n\n\nJackie Robinson urged Randolph reassert that Negroes Will not\nSubscribe Violence either physical OF the spirit",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3585,
+                    "y0": 549,
+                    "x1": 4568,
+                    "y1": 1000
+                },
+                {
+                    "x0": 3813,
+                    "y0": 917,
+                    "x1": 4334,
+                    "y1": 994
+                },
+                {
+                    "x0": 3071,
+                    "y0": 1075,
+                    "x1": 3861,
+                    "y1": 1187
+                },
+                {
+                    "x0": 3059,
+                    "y0": 1209,
+                    "x1": 4737,
+                    "y1": 2291
+                }
+            ],
+            "bbox": [
+                3059,
+                549,
+                4737,
+                2291
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-03_pna_sn84021918_0041421695A_1964040301_0350.json"
+        },
+        {
+            "object_ids": [
+                16,
+                14,
+                4
+            ],
+            "headline": "Siqhts and Sounds\nELolsE BANKS\n\nIt's Here",
+            "article": "Spring is the time for birds,\nbees, kites, umbrellas, cotton\ndresses, house cleaning and kerr\nker-choo-oo, allergy attacks.\n\n\nSome poets have written Of the\nbeauties of the flora and fauna\nwhich comes to life in the second\nquarter Of the year.\n\n\nPictures Of wee chicks, flop\ncared rabbits, waddling geese,\nslick skinned puppies and wiggly\nfish conjure up poems and rhymes\nof praise.\n\n\nFields of vermillion roses,\nviolet hued irises, yellow daffo-\ndis and alabaster carnations\ncause songwriters many happy\nmoments.\n\n\nThe familiar shouts Of children\ntrailing after kites or the NUT\nterings Of band Of boys kneel-\ning before a marble circle means\nspring Is here.\n\n\nOther persons have their own\nmanner Of learning the season Is\nhere. Some merely turn the cal\nendar. Some see 1t in the morning\ndew. Some hear the tunes Of\nspring over the radio or tele-\nvision.\n\n\nFarmers know by the bleats Of\nlambs or the birth Of a calf or\ncolt.\n\n\nAuto racers watch tryouts as\ncars and drivers hope to enter\nthe classic 500 mile Indianapolis\nrace.\n\n\nBaseball lovers follow the trips\nof big league teams and watch\nperformances Of seas oned and\nrockies. Hoping for new records\nto be broken, they sift the facts\nand predict the Yankees can or\ncan not be beaten.\n\n\nFar In the distance another\nsign Of spring can be seen. If\nyou live near a playground the\nsounds Of springtime echo more\noften. The sounds become louder\nas the summer begins Its jour\nney from three short months as\nthe calendar goes.\n\n\nAll of the sights and sounds\nof spring reach a zenith In the\nValley of the Sun, especially on\nthe southside. At this time OF\nyear the Japanese flower gardens\nare In bloom and as the beautiful\nposies bank the ground the\nsmell watts through the desert\nair.\n\n\n| 90 ker-ker-choo-oo and |\nknow darn we'll It's just\ns-p-r-i-n-g. Againl",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2171,
+                    "y0": 496,
+                    "x1": 2967,
+                    "y1": 719
+                },
+                {
+                    "x0": 2165,
+                    "y0": 753,
+                    "x1": 2587,
+                    "y1": 859
+                },
+                {
+                    "x0": 2154,
+                    "y0": 870,
+                    "x1": 2990,
+                    "y1": 4698
+                }
+            ],
+            "bbox": [
+                2154,
+                496,
+                2990,
+                4698
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-03_pna_sn84021918_0041421695A_1964040301_0350.json"
+        },
+        {
+            "object_ids": [
+                8,
+                23,
+                5
+            ],
+            "headline": "Classified Ad\n\nFOR RENT",
+            "article": "FOR RENT\nl-3 Bedroom House unfurnished-\n$500 per month Option to buy.\n6lo West Illini AL 3-34O6\nEvenings.\n\n\nOne Bedroom furnished Apt.\nUtilities Paid $1,000 per week\nquiet. l20 West Elwood See\nTurner. AL 3-3408 Evenings.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2364,
+                    "y0": 4744,
+                    "x1": 2844,
+                    "y1": 4856
+                },
+                {
+                    "x0": 2411,
+                    "y0": 4878,
+                    "x1": 2716,
+                    "y1": 4938
+                },
+                {
+                    "x0": 2200,
+                    "y0": 4890,
+                    "x1": 3019,
+                    "y1": 5417
+                }
+            ],
+            "bbox": [
+                2200,
+                4744,
+                3019,
+                5417
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-03_pna_sn84021918_0041421695A_1964040301_0350.json"
+        },
+        {
+            "object_ids": [
+                24,
+                9,
+                12
+            ],
+            "headline": "The WRONG WAY",
+            "article": "This week Malcolm X, the former second\ncommander of the Black Mus Inns, announced\nhe mus planning third party composed of all\nNegroes to min political power in the United\nStates.\n\n\nHe urged Negroes to join his black ma\nti0naliSt party and take UP not only ballots\nbut arms. His TRADES cause many persons\nto sO0ndeY If Malcolm X is ia cling reality or\nis he man hUirag in dream World.\n\n\nJust how far could Negroes min anything\nat the polls as a third party? H0w could they\ncontrol any legis lathe district? How could\nthey elect candidates on a strictly racial\nbasis?\n\n\nMalcolm X also said that Negroes should\ntake up arms and fight for their freedoms.\nHas he forgotten that though Negroes COM\nprise the largest single minority GROUP in\nthe United States-they are still minority.\n\n\nWhile rioting flared again in Florida and\nother blaces--the threats of violence haze\nmore onainous sound. The death of Negro\nmother Walking home in Florida is not an\nincident to be proud OF.\n\n\nAll hving and learning in our democracy\nwiH haze been of little vah4e If the blacks\nand whites must resort to the steel and buL-\nlets.",
+            "byline": "~ This Newspaper b Q member ef\nAslz6N3 NEWSPAPERS ASSOCIATION\n. For Greater Public ssrfes",
+            "bbox_list": [
+                {
+                    "x0": 494,
+                    "y0": 1916,
+                    "x1": 1185,
+                    "y1": 2086
+                },
+                {
+                    "x0": 705,
+                    "y0": 2191,
+                    "x1": 1769,
+                    "y1": 2344
+                },
+                {
+                    "x0": 389,
+                    "y0": 2401,
+                    "x1": 2061,
+                    "y1": 4879
+                }
+            ],
+            "bbox": [
+                389,
+                1916,
+                2061,
+                4879
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-04-03_pna_sn84021918_0041421695A_1964040301_0350.json"
+        },
+        {
+            "object_ids": [
+                20,
+                19,
+                13
+            ],
+            "headline": "Artzutmfa&AGrth u1te",
+            "article": "EDWARD BANKS, PUBL sHER-EoToR\nELOISE BANKS, ASSISTANT EDITOR\nBOBBY HEARD, STAFF PHOTOGRAPHER\nESTABLISHED JULY 10, 1883\nPUBL THURSDAY\nsHINo COMPANY INcs\naIs7 z BROADWAY\nPHOENIX, ssoAo 81 80 rR.\nsEcoNp CLASS POSTAGE PAID AT PHOENIX, ARIZONA\nTALL THAT o NEEDED TO REMEDY THE EVILS OF on\"\nTIMES 10 TO JUSTICE AND GIVE FREEDOM\n\n\n81\nAsz6H1NEwwAPEE ASSOCIATION sio MADISON AVE.\nIII F~s'\"\" 'S's '\"'\"' YORK ~, NY.",
+            "byline": "VOL. 6, NO. SO",
+            "bbox_list": [
+                {
+                    "x0": 377,
+                    "y0": 520,
+                    "x1": 1997,
+                    "y1": 965
+                },
+                {
+                    "x0": 804,
+                    "y0": 981,
+                    "x1": 1377,
+                    "y1": 1058
+                },
+                {
+                    "x0": 407,
+                    "y0": 1057,
+                    "x1": 2084,
+                    "y1": 2121
+                }
+            ],
+            "bbox": [
+                377,
+                520,
+                2084,
+                2121
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-03_pna_sn84021918_0041421695A_1964040301_0350.json"
+        }
+    ]
+}

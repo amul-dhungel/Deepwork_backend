@@ -1,0 +1,311 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964092501/0562.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4932
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2952,
+                "y0": 2598,
+                "x1": 3775,
+                "y1": 3653
+            },
+            "class": "article",
+            "raw_text": "Holders of the Congressional\nMedal of Honor are eligible for\nfull medical and hospital care in\nVeterans Administration hospi-\ntails if the disability is due to\nwartime or peacetime service.\n\n\nThose Medal of Honor winners\nwho performed acts Of heroism\nduring wartime are also entitled\nto a payment of $500 a month\nif they are age so or older. A\nbill to award the same payment\nto those whose acts of heroism\nwe're performed during peace\ntime is now being considered by\nthe Congress.\n\n\nThere are 284 Medal of Honor\nwinners living.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2969,
+                "y0": 2454,
+                "x1": 3543,
+                "y1": 2570
+            },
+            "class": "headline",
+            "raw_text": "Veterans News",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3837,
+                "y0": 2598,
+                "x1": 4654,
+                "y1": 3647
+            },
+            "class": "article",
+            "raw_text": "Local police authorities are\nstill investigating the mysterious\ndeath Of Lillian Marie Warren,\n33, Of 358 N. 18th ST., who was\nfound dead nearly two weeks ago\nin a vacant lot at the rear Of\n1900 E. Washington.\n\n\nHer body was discovered by\nEarnest Nixon, 200 E. Washing\nton, and L.C. Haywood, 500 S.\n18th St.\n\n\nThe car was registered to Levi\nHames. Jr., of2750 E. Tamarisk,\nhe told police he loaned the car\nto Miss Warren. He also claimed\ntwo mems diamond rings and\n81 ,634 In cash found on the dead\nwoman belonged to him.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3878,
+                "y0": 2373,
+                "x1": 4458,
+                "y1": 2576
+            },
+            "class": "headline",
+            "raw_text": "WOMAN'S\n\n\nDEATH PROBED",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2060,
+                "y0": 2095,
+                "x1": 2877,
+                "y1": 2993
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON S. Kann and\nSons department store displayed\nan integrated window featuring\nNegro girl mannequin along with\nwhites.\n\n\nAccording to spokesman for\nthe Williams Manufacturing Co.,\nwhich makes store models, the\nfirst stor employing Negro man\nnequins was Bamberger's of Ne\nwark, NJ, in June.\n\n\nAn exclusive Fifth Avenue\nstore, Bergdorf Goodman's has\nused models of Negro children\nin an August display, also.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2107,
+                "y0": 1875,
+                "x1": 2808,
+                "y1": 2073
+            },
+            "class": "headline",
+            "raw_text": "Stores Use\nNegro MunneqUins",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2055,
+                "y0": 3287,
+                "x1": 2877,
+                "y1": 3647
+            },
+            "class": "article",
+            "raw_text": "On Sept. S, MIR. and Mrs. Harry\nBlack, 23Ol w. Madison, we're\nblessed with a son.\n\n\nMIR. and Mrs. Allie Moore,\nITO S. 18th Ave., announce the\nbirth of their daughter on Sept. 8.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2101,
+                "y0": 3154,
+                "x1": 2762,
+                "y1": 3259
+            },
+            "class": "headline",
+            "raw_text": "sTORKINc ROUND",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 266,
+                "y0": 1811,
+                "x1": 1980,
+                "y1": 3410
+            },
+            "class": "article",
+            "raw_text": "Transmission Road. crowned\nMiss Elks of bathing beauty and talent show\nheld recently\n\n\nMiss Boone State University graduated\nTempe High School this June.\n\n\nShe was member National Honor Society,\" student\nGil and a girls league representative.\n\n\nMusicay talented choir accompans of Willow\nGrove Baptist Church and plays the saxophone.\n\n\nShe plans major in sociology at ASU.\n\n\nrnerup the 1864 Miss Elks Contest which spo-\nby W. Patterson Lodge At and Grand Canyon Temple\n437, Miss Clodeen Walters, 10.\n\n\nShe graduate High School and is currently\na sophomore Phoenix College.\n\n\nof the dramatcs club Alpha Kappa Tau and the\nYoung Democrats.\n\n\nShiloh Baptist Church and she plans become\ninterior decorator.\n\n\nGlodeen resides o27 S. 9th Ave.\n\n\nDurham. II, 245 S. Morris, Mesa captured third\nplace Elks bathing beauty and talent\n\n\nMesa High Hazel is amember of the senior council\nprep club Teachers of America\nplans attend Arizona State University and become\nregistered nurse.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-09-25"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                2
+            ],
+            "headline": "Veterans News",
+            "article": "Holders of the Congressional\nMedal of Honor are eligible for\nfull medical and hospital care in\nVeterans Administration hospi-\ntails if the disability is due to\nwartime or peacetime service.\n\n\nThose Medal of Honor winners\nwho performed acts Of heroism\nduring wartime are also entitled\nto a payment of $500 a month\nif they are age so or older. A\nbill to award the same payment\nto those whose acts of heroism\nwe're performed during peace\ntime is now being considered by\nthe Congress.\n\n\nThere are 284 Medal of Honor\nwinners living.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2969,
+                    "y0": 2454,
+                    "x1": 3543,
+                    "y1": 2570
+                },
+                {
+                    "x0": 2952,
+                    "y0": 2598,
+                    "x1": 3775,
+                    "y1": 3653
+                }
+            ],
+            "bbox": [
+                2952,
+                2454,
+                3775,
+                3653
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-25_p1_sn84021918_0041421695A_1964092501_0562.json"
+        },
+        {
+            "object_ids": [
+                7,
+                3
+            ],
+            "headline": "WOMAN'S\n\n\nDEATH PROBED",
+            "article": "Local police authorities are\nstill investigating the mysterious\ndeath Of Lillian Marie Warren,\n33, Of 358 N. 18th ST., who was\nfound dead nearly two weeks ago\nin a vacant lot at the rear Of\n1900 E. Washington.\n\n\nHer body was discovered by\nEarnest Nixon, 200 E. Washing\nton, and L.C. Haywood, 500 S.\n18th St.\n\n\nThe car was registered to Levi\nHames. Jr., of2750 E. Tamarisk,\nhe told police he loaned the car\nto Miss Warren. He also claimed\ntwo mems diamond rings and\n81 ,634 In cash found on the dead\nwoman belonged to him.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3878,
+                    "y0": 2373,
+                    "x1": 4458,
+                    "y1": 2576
+                },
+                {
+                    "x0": 3837,
+                    "y0": 2598,
+                    "x1": 4654,
+                    "y1": 3647
+                }
+            ],
+            "bbox": [
+                3837,
+                2373,
+                4654,
+                3647
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-25_p1_sn84021918_0041421695A_1964092501_0562.json"
+        },
+        {
+            "object_ids": [
+                8,
+                4
+            ],
+            "headline": "Stores Use\nNegro MunneqUins",
+            "article": "WASHINGTON S. Kann and\nSons department store displayed\nan integrated window featuring\nNegro girl mannequin along with\nwhites.\n\n\nAccording to spokesman for\nthe Williams Manufacturing Co.,\nwhich makes store models, the\nfirst stor employing Negro man\nnequins was Bamberger's of Ne\nwark, NJ, in June.\n\n\nAn exclusive Fifth Avenue\nstore, Bergdorf Goodman's has\nused models of Negro children\nin an August display, also.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2107,
+                    "y0": 1875,
+                    "x1": 2808,
+                    "y1": 2073
+                },
+                {
+                    "x0": 2060,
+                    "y0": 2095,
+                    "x1": 2877,
+                    "y1": 2993
+                }
+            ],
+            "bbox": [
+                2060,
+                1875,
+                2877,
+                2993
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-25_p1_sn84021918_0041421695A_1964092501_0562.json"
+        },
+        {
+            "object_ids": [
+                11,
+                6
+            ],
+            "headline": "sTORKINc ROUND",
+            "article": "On Sept. S, MIR. and Mrs. Harry\nBlack, 23Ol w. Madison, we're\nblessed with a son.\n\n\nMIR. and Mrs. Allie Moore,\nITO S. 18th Ave., announce the\nbirth of their daughter on Sept. 8.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2101,
+                    "y0": 3154,
+                    "x1": 2762,
+                    "y1": 3259
+                },
+                {
+                    "x0": 2055,
+                    "y0": 3287,
+                    "x1": 2877,
+                    "y1": 3647
+                }
+            ],
+            "bbox": [
+                2055,
+                3154,
+                2877,
+                3647
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-25_p1_sn84021918_0041421695A_1964092501_0562.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Transmission Road. crowned\nMiss Elks of bathing beauty and talent show\nheld recently\n\n\nMiss Boone State University graduated\nTempe High School this June.\n\n\nShe was member National Honor Society,\" student\nGil and a girls league representative.\n\n\nMusicay talented choir accompans of Willow\nGrove Baptist Church and plays the saxophone.\n\n\nShe plans major in sociology at ASU.\n\n\nrnerup the 1864 Miss Elks Contest which spo-\nby W. Patterson Lodge At and Grand Canyon Temple\n437, Miss Clodeen Walters, 10.\n\n\nShe graduate High School and is currently\na sophomore Phoenix College.\n\n\nof the dramatcs club Alpha Kappa Tau and the\nYoung Democrats.\n\n\nShiloh Baptist Church and she plans become\ninterior decorator.\n\n\nGlodeen resides o27 S. 9th Ave.\n\n\nDurham. II, 245 S. Morris, Mesa captured third\nplace Elks bathing beauty and talent\n\n\nMesa High Hazel is amember of the senior council\nprep club Teachers of America\nplans attend Arizona State University and become\nregistered nurse.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 266,
+                    "y0": 1811,
+                    "x1": 1980,
+                    "y1": 3410
+                }
+            ],
+            "bbox": [
+                266,
+                1811,
+                1980,
+                3410
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-25_p1_sn84021918_0041421695A_1964092501_0562.json"
+        }
+    ]
+}

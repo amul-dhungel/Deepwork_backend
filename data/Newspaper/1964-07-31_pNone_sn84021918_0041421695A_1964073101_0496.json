@@ -1,0 +1,449 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7386,
+        "width": 4913,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0496.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1244,
+                "y0": 3467,
+                "x1": 2070,
+                "y1": 4599
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Floyd Patterson.\nthe former heavyweight cham\npion from New York. was named\nFighter of the Month by Ring\nMagaz zine for his l2-round de-\ncision over contender Eddie Ma\nchen of Los Angeles at Stockholm\nrecently.\n\n\nIn addition, Patterson was\nboosted from seventh contender\nto the No. 2 spot in the July ra-\ntings by Ring. Machen was\ndropped from fourth to seventh.\nDoug Jones of New York, who\nwas ranked second. was denoted\nto fourth because of inactivity.\nSonny Liston, the former champ\nIon from Denver. is No. |, and\nFora Foley of Chandler is third.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1256,
+                "y0": 3208,
+                "x1": 1684,
+                "y1": 3445
+            },
+            "class": "headline",
+            "raw_text": "Patterson Is\nFighter OF\nThe Month",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 344,
+                "y0": 1575,
+                "x1": 1164,
+                "y1": 2464
+            },
+            "class": "article",
+            "raw_text": "CHICAGO NPD Negro Press\nInternationaps sports editor\nCharles ]. Livingston points\na finger at the nation for failing\nto give financial help to our\nOlympic athletes.\n\n\nHe reviewed cases of John\nThomas, high jumper Hayes\nJones, ace hurdler and Ralph\nBoston, top broad jumper. who\nneed money to support them\nselves while in training.\n\n\nLivingstons says that America\nhas great athletes and Congress\nshould subsidize them.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 344,
+                "y0": 1425,
+                "x1": 1153,
+                "y1": 1541
+            },
+            "class": "headline",
+            "raw_text": "OLYMPIC FUNDS NEEDED",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1256,
+                "y0": 1800,
+                "x1": 2082,
+                "y1": 3180
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Three South\nern governors. Orval Faubus OF\nArkansas, George Wallace OF\nAlabama and Paul Johnson. OF\nMississippi. refused to meet with\nLeroy Collins and accept as\n.sistance from the newly formed\nCommunity Relations Service\nheaded by him.\n\n\nCollins has been unable to meet\nwith Governor Donald Russell OF\nSouth Carolina. also.\n\n\nPresident Johnson named\nCollins, a former governor OF\nFlorida, to the dictatorship OF\nthe Community Relations Service\nwhich was created by the civil\nrights law.\n\n\nSix southern governors have\nagreed to meet with collins. They\nrepresent the states of Florida,\nGeorgia, Louisiana. North Caro-\nlima. Tennessee and Virginia.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1250,
+                "y0": 1454,
+                "x1": 1897,
+                "y1": 1766
+            },
+            "class": "headline",
+            "raw_text": "Dixie Governors\n\n\nRefuse To Meet\nWith Leroy Collins",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 333,
+                "y0": 582,
+                "x1": 2036,
+                "y1": 1368
+            },
+            "class": "article",
+            "raw_text": "model character of Uncle\nMethodist minister after his thrilling\nslavery Kentucky Canada He conducted hundreds of\nfugitive escaping Kentucky through\nOhio.\n\n\nFather Iensons Own Story he relates most thrilling\nincidents with much interest Henson\nconsidered his operations in connection with the Under\nground outstanding achievement of his Yet\nfounding the Manual Labor\nInstitute developing community in Southern Ontario. He\nwas appear before Queen Victoria for his community\nestablishment.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 338,
+                "y0": 294,
+                "x1": 1672,
+                "y1": 554
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\njosiah Henson",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2150,
+                "y0": 1604,
+                "x1": 2988,
+                "y1": 5298
+            },
+            "class": "article",
+            "raw_text": "Frederick O'Neal, a veteran\nNegro actor, was elected to the\npresidency of the $4,000 member\nActors Equity Association in\nMay. 1864.\n\n\nHe succeeded Ralph Bellamy,\nwho held the post for IL years.\nO'Nears victory marks the first\ntime a Negro has been elected\nto such high post, though the\nST yr. old actors union has been\nintegrated for the past rs years.\n\n\nThe E #. 2 in. 220 FOUNDER\nstarted in theatrical work In 1928.\nBorn in Brooksville, MISS,\nFrederick's family moved to st.\nLouis when he was IA. He con-\nsiders that city his home.\n\n\nHe said the Urban League Of\nSt. Louis provided his first OPP\nportunity to act. He appeared in\nShakespeare's GAS You Like It.\"\n\n\nHe organized the Aldridge\nPlayers, a community theater\ngroup of dedicated Negro amateur\nperformers in St. Louis in 1927.\n\n\nO'Neal ais founded the Ameri-\ncan Negro Theater in New York\nCity in 1910 and initiated and\nassisted the organization of the\nBritish Negro Theater in London\nin l948.\n\n\nHe served with the armed for\nces with the 93rd Infantry Divi-\nsion.\n\n\nAudiences will remember him\nas Frank in the stage and movie\nproductions of \"Anna Lucasta\".\n\n\nHe has an enviable career on\nthe stage, film. radio and tele-\nvision. He has recorded recor-\nding series on Great American\nNegroes and has appeared as\nnarrator with the NewY ork Phil\nharmonic Orchestra.\n\n\nAn authority on the Negro in\nthe theater. Mr.. ONeal has pre-\nscented many lectures thr oughout\nthe country and he has served as\na visiting professor at Southern\nIllinois University and Clark Col\nlege, Atlanta.\n\n\nIn 1896 he left St. Louis to try\nhis luck on Broadway. Success\ndid not come overnight, but he\nkept studying and finally won\nsome good roles.\n\n\nHe has won several awards in\nGuiding the Derwent Award. Cri-\ntics Poll, Donalds on Award, Best\nActor of the Chicago Season and\nthe Canada Lee Award.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3939,
+                "y0": 2388,
+                "x1": 4742,
+                "y1": 2805
+            },
+            "class": "article",
+            "raw_text": "1918 A division of Negro\nEconomics was established In\nthe Depar tment of Labor to study\nproblems of Negro wage earners\nas incidental to intensified war\ntime migration. 1t was discon-\ntinued in 1922.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 4077,
+                "y0": 2250,
+                "x1": 4586,
+                "y1": 2361
+            },
+            "class": "headline",
+            "raw_text": "LABOR NOTES",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3068,
+                "y0": 1754,
+                "x1": 4759,
+                "y1": 2245
+            },
+            "class": "article",
+            "raw_text": "REM L. jennings recently resigned from Supreme Court\nfor the Democratic US Senate\nhis judicial robe for the party given\nhonor by his high colleagues few days ago.\n\n\nLending helping hand Justice Lorna Lockwood,\nMrs. Jennings eekng her husbands shouder) U.s.\nAmbassador Ghana ahoney currently vacationng\nin Arizona with his family.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 3056,
+                "y0": 3664,
+                "x1": 3865,
+                "y1": 4103
+            },
+            "class": "article",
+            "raw_text": "GOSPORT, HAMPSHIRE,\nENGLAND-Soaring wall mu-\nrails dominate these tall modern\napartment houses. The eye\ncatching murals can be seen for\nmiles around. The \"arty\" build\nings were erected as part of a\nredevelopment scheme for the\narea.",
+            "legibility": "Legible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964073101_0496",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                1
+            ],
+            "headline": "Patterson Is\nFighter OF\nThe Month",
+            "article": "NEW YORK = Floyd Patterson.\nthe former heavyweight cham\npion from New York. was named\nFighter of the Month by Ring\nMagaz zine for his l2-round de-\ncision over contender Eddie Ma\nchen of Los Angeles at Stockholm\nrecently.\n\n\nIn addition, Patterson was\nboosted from seventh contender\nto the No. 2 spot in the July ra-\ntings by Ring. Machen was\ndropped from fourth to seventh.\nDoug Jones of New York, who\nwas ranked second. was denoted\nto fourth because of inactivity.\nSonny Liston, the former champ\nIon from Denver. is No. |, and\nFora Foley of Chandler is third.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1256,
+                    "y0": 3208,
+                    "x1": 1684,
+                    "y1": 3445
+                },
+                {
+                    "x0": 1244,
+                    "y0": 3467,
+                    "x1": 2070,
+                    "y1": 4599
+                }
+            ],
+            "bbox": [
+                1244,
+                3208,
+                2070,
+                4599
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        },
+        {
+            "object_ids": [
+                22,
+                2
+            ],
+            "headline": "OLYMPIC FUNDS NEEDED",
+            "article": "CHICAGO NPD Negro Press\nInternationaps sports editor\nCharles ]. Livingston points\na finger at the nation for failing\nto give financial help to our\nOlympic athletes.\n\n\nHe reviewed cases of John\nThomas, high jumper Hayes\nJones, ace hurdler and Ralph\nBoston, top broad jumper. who\nneed money to support them\nselves while in training.\n\n\nLivingstons says that America\nhas great athletes and Congress\nshould subsidize them.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 344,
+                    "y0": 1425,
+                    "x1": 1153,
+                    "y1": 1541
+                },
+                {
+                    "x0": 344,
+                    "y0": 1575,
+                    "x1": 1164,
+                    "y1": 2464
+                }
+            ],
+            "bbox": [
+                344,
+                1425,
+                1164,
+                2464
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "Dixie Governors\n\n\nRefuse To Meet\nWith Leroy Collins",
+            "article": "WASHINGTON Three South\nern governors. Orval Faubus OF\nArkansas, George Wallace OF\nAlabama and Paul Johnson. OF\nMississippi. refused to meet with\nLeroy Collins and accept as\n.sistance from the newly formed\nCommunity Relations Service\nheaded by him.\n\n\nCollins has been unable to meet\nwith Governor Donald Russell OF\nSouth Carolina. also.\n\n\nPresident Johnson named\nCollins, a former governor OF\nFlorida, to the dictatorship OF\nthe Community Relations Service\nwhich was created by the civil\nrights law.\n\n\nSix southern governors have\nagreed to meet with collins. They\nrepresent the states of Florida,\nGeorgia, Louisiana. North Caro-\nlima. Tennessee and Virginia.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1250,
+                    "y0": 1454,
+                    "x1": 1897,
+                    "y1": 1766
+                },
+                {
+                    "x0": 1256,
+                    "y0": 1800,
+                    "x1": 2082,
+                    "y1": 3180
+                }
+            ],
+            "bbox": [
+                1250,
+                1454,
+                2082,
+                3180
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        },
+        {
+            "object_ids": [
+                26,
+                4
+            ],
+            "headline": "NEGRO HISTORY NOTES\njosiah Henson",
+            "article": "model character of Uncle\nMethodist minister after his thrilling\nslavery Kentucky Canada He conducted hundreds of\nfugitive escaping Kentucky through\nOhio.\n\n\nFather Iensons Own Story he relates most thrilling\nincidents with much interest Henson\nconsidered his operations in connection with the Under\nground outstanding achievement of his Yet\nfounding the Manual Labor\nInstitute developing community in Southern Ontario. He\nwas appear before Queen Victoria for his community\nestablishment.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 338,
+                    "y0": 294,
+                    "x1": 1672,
+                    "y1": 554
+                },
+                {
+                    "x0": 333,
+                    "y0": 582,
+                    "x1": 2036,
+                    "y1": 1368
+                }
+            ],
+            "bbox": [
+                333,
+                294,
+                2036,
+                1368
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Frederick O'Neal, a veteran\nNegro actor, was elected to the\npresidency of the $4,000 member\nActors Equity Association in\nMay. 1864.\n\n\nHe succeeded Ralph Bellamy,\nwho held the post for IL years.\nO'Nears victory marks the first\ntime a Negro has been elected\nto such high post, though the\nST yr. old actors union has been\nintegrated for the past rs years.\n\n\nThe E #. 2 in. 220 FOUNDER\nstarted in theatrical work In 1928.\nBorn in Brooksville, MISS,\nFrederick's family moved to st.\nLouis when he was IA. He con-\nsiders that city his home.\n\n\nHe said the Urban League Of\nSt. Louis provided his first OPP\nportunity to act. He appeared in\nShakespeare's GAS You Like It.\"\n\n\nHe organized the Aldridge\nPlayers, a community theater\ngroup of dedicated Negro amateur\nperformers in St. Louis in 1927.\n\n\nO'Neal ais founded the Ameri-\ncan Negro Theater in New York\nCity in 1910 and initiated and\nassisted the organization of the\nBritish Negro Theater in London\nin l948.\n\n\nHe served with the armed for\nces with the 93rd Infantry Divi-\nsion.\n\n\nAudiences will remember him\nas Frank in the stage and movie\nproductions of \"Anna Lucasta\".\n\n\nHe has an enviable career on\nthe stage, film. radio and tele-\nvision. He has recorded recor-\nding series on Great American\nNegroes and has appeared as\nnarrator with the NewY ork Phil\nharmonic Orchestra.\n\n\nAn authority on the Negro in\nthe theater. Mr.. ONeal has pre-\nscented many lectures thr oughout\nthe country and he has served as\na visiting professor at Southern\nIllinois University and Clark Col\nlege, Atlanta.\n\n\nIn 1896 he left St. Louis to try\nhis luck on Broadway. Success\ndid not come overnight, but he\nkept studying and finally won\nsome good roles.\n\n\nHe has won several awards in\nGuiding the Derwent Award. Cri-\ntics Poll, Donalds on Award, Best\nActor of the Chicago Season and\nthe Canada Lee Award.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2150,
+                    "y0": 1604,
+                    "x1": 2988,
+                    "y1": 5298
+                }
+            ],
+            "bbox": [
+                2150,
+                1604,
+                2988,
+                5298
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        },
+        {
+            "object_ids": [
+                24,
+                12
+            ],
+            "headline": "LABOR NOTES",
+            "article": "1918 A division of Negro\nEconomics was established In\nthe Depar tment of Labor to study\nproblems of Negro wage earners\nas incidental to intensified war\ntime migration. 1t was discon-\ntinued in 1922.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 4077,
+                    "y0": 2250,
+                    "x1": 4586,
+                    "y1": 2361
+                },
+                {
+                    "x0": 3939,
+                    "y0": 2388,
+                    "x1": 4742,
+                    "y1": 2805
+                }
+            ],
+            "bbox": [
+                3939,
+                2250,
+                4742,
+                2805
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "REM L. jennings recently resigned from Supreme Court\nfor the Democratic US Senate\nhis judicial robe for the party given\nhonor by his high colleagues few days ago.\n\n\nLending helping hand Justice Lorna Lockwood,\nMrs. Jennings eekng her husbands shouder) U.s.\nAmbassador Ghana ahoney currently vacationng\nin Arizona with his family.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3068,
+                    "y0": 1754,
+                    "x1": 4759,
+                    "y1": 2245
+                }
+            ],
+            "bbox": [
+                3068,
+                1754,
+                4759,
+                2245
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        },
+        {
+            "object_ids": [
+                28
+            ],
+            "headline": "",
+            "article": "GOSPORT, HAMPSHIRE,\nENGLAND-Soaring wall mu-\nrails dominate these tall modern\napartment houses. The eye\ncatching murals can be seen for\nmiles around. The \"arty\" build\nings were erected as part of a\nredevelopment scheme for the\narea.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3056,
+                    "y0": 3664,
+                    "x1": 3865,
+                    "y1": 4103
+                }
+            ],
+            "bbox": [
+                3056,
+                3664,
+                3865,
+                4103
+            ],
+            "full_article_id": 29,
+            "id": "29_1964-07-31_pna_sn84021918_0041421695A_1964073101_0496.json"
+        }
+    ]
+}

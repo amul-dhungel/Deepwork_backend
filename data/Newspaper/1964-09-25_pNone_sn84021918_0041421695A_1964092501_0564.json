@@ -1,0 +1,467 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-25",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7395,
+        "width": 4882,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-25",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964092501/0564.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1279,
+                "y0": 3495,
+                "x1": 2101,
+                "y1": 4507
+            },
+            "class": "article",
+            "raw_text": "CAMBRIDGE. Ohio The\nmother of an infant daughter,\nfathered by blind singer Ray\nCharles, says she has lost 40\npounds in recent months and is\nunder consta medical care.\n\n\nSandra Belts. former coed.\nsays her support money has been\nhalted and she has been worried\nby the press and nosy persons.\n\n\nShe had won $4O0 a month\nlast January after a paternity\ntrial. The money was not paid\nafter she moved away from Los\nAngeles because she failed to\nnotify the court. Her lawyer is\nappealing the ruling.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1320,
+                "y0": 3241,
+                "x1": 1858,
+                "y1": 3473
+            },
+            "class": "headline",
+            "raw_text": "Sundru Loses\nSupport Check",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3064,
+                "y0": 2276,
+                "x1": 3886,
+                "y1": 3398
+            },
+            "class": "article",
+            "raw_text": "TUCSON, ARIZONA : Mrs.\nSarah Fols ON has charged Super\nintendent of Public Instruction W.\nw. Dick is using his office to build\na personal political machine.\n\n\nMrs. Folsom. the Republican\ncandidate, also said that Dick is\nafraid to discuss the issues be-\ncause he is apparently incapable\nof doing so without calling people\nnames. He resorts to political\nname calling when Arizonans in\nterested in education make sug-\ngestions that don't suit his pat\ntern of thinking\n\n\nShe asked the support of mem\nbers of both political parties in\ntaking Arizona education of of\npolitics.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3088,
+                "y0": 2016,
+                "x1": 3747,
+                "y1": 2254
+            },
+            "class": "headline",
+            "raw_text": "Mrs. Folsom Says\nSkipper Is Boss",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 372,
+                "y0": 3368,
+                "x1": 1199,
+                "y1": 4593
+            },
+            "class": "article",
+            "raw_text": "NETWORK = Gloria Richard\nson, Al. we'll known civil rights\nleader in Maryland, announced\nher marriage recently to a 26\nyear old free lance photographer,\nFrank cambridge.\n\n\nDandridge's first wife, Lynda,\nu. however. insists that she\nis legally married to him be-\ncause she received no divorce\nnotification.\n\n\nThe first Mrs. cambridge Is\nsenior at Columbia University.\nShe is the mother of four year\nold son.\n\n\nMrs. Gloria Richards on Dan\nbridge said she will halt her\ncivil rights work andmove to New\nYork with her new spouse. She\nhas two children by former\nmarriage.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 390,
+                "y0": 3206,
+                "x1": 1009,
+                "y1": 3334
+            },
+            "class": "headline",
+            "raw_text": "ONE TOO MANY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3047,
+                "y0": 652,
+                "x1": 3869,
+                "y1": 1947
+            },
+            "class": "article",
+            "raw_text": "BOSTON = Edward w. Brooke,\nthe attorney general of Massa-\nchusetts, has announced for a\nsecond term, an an independent\nbecause he finds that his prin-\nciples and those of the Republican\nnominee, Sen. Barry G oldwater,\nare incompatible. This action\ncaused him the loss of certain\nfinancial aid.\n\n\nGregg Beams, chairman of\nfund raising activities, has In\ndicated that budget of $780, 900\nis needed to conduct Mr.. Brooke's\ncampaign. He stated 1--WE need\ndollars from every possible\nsource to support a winning cam\npaign for winning candidate.\nContributions can be sent to the\nBrooke Election Comm ttee at\nIS Court Square, Boston, Mas\nsachusetts.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3088,
+                "y0": 410,
+                "x1": 3580,
+                "y1": 613
+            },
+            "class": "headline",
+            "raw_text": "BROOKE\n\n\nRUNS ALONE",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2175,
+                "y0": 2911,
+                "x1": 3008,
+                "y1": 4663
+            },
+            "class": "article",
+            "raw_text": "Edward H. Pate has joined\nDaniel ]. Edelman and As\nsociates, Inc, international pub\nlie relations agency, to head a\nnew Negro community relations\ndepartment which will provide\nmarketing, employee and COM\nmunity relations counsel.\n\n\nPate formerly was president Of\nthe Twin City Advertising, Kan\nsas City, Mo-. specializing in\nadvertising and public relations\ndirected to the Negro community.\n\n\nHe was also president and\ngeneral manager of KPRS, Kan\nsas City, one of three Negro\nowned radio stations in the coun-\ntry at that time. The station\nbecame a top-rated Kansas City\noutlet while Pate served as its\nchief executive officer.\n\n\nEarlier IN MS career, rare was\na housing manager with the\nChicago Housing Authority and\nadministrator of Wheatley-Pro-\nvident Hospital in Kansas City.\n\n\nPate is a graduate of the Uni\nversity of Chicago and holds a\nmasters degree in business ad-\nminiStration from the University.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 2215,
+                "y0": 2778,
+                "x1": 2684,
+                "y1": 2883
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3948,
+                "y0": 623,
+                "x1": 4770,
+                "y1": 2918
+            },
+            "class": "article",
+            "raw_text": "Mrs. Carl Sims hosted sur\nprise birthday for her husband,\nCarl, at their home, 1921 w.\nMadison on Sept. lo. More than\n40 guests enjoyed the buffet din\nner.\n\n\nMrs. Leora Redmond, l4l2 S.\n9th Ave, has returned from va\ncation in Oklahoma, Louisiana\nand Arkansas.\n\n\nMrs: Lilly Bats of San Fran\ncisco spent weekend at the\nhome of Mrs. Mary bats, 1925\nW. Grant.\n\n\nMrs. Myrtle Jackson, 1917 w.\nPimas enjoyed her visit to San\nDiego and California.\n\n\nMrs. Cellar Hardy has re-\nturned from visiting her daugh-\nter Mrs. Calvin Harris in St.\nLouis, Mo.\n\n\nMrs. Ida Austin spent a won\nderful time in Pinetop and Pres\ncolt, Ariz., before going to Las\nVegas.\n\n\nSgt. Willie Morris, son of Mrs.\nOdessa Morris, l425 S. 18th Ave.,\nis now stationed in the city. He\nis on duty at the local recruiting\noffice, located on 9TH Ave. and\nW. Washington. His wife and\nfour children accompanied him\nfrom Fl. Belvoir, Va.\n\n\nJim Lewis is Ill at 1902 S.\n18th Ave.\n\n\nRev. A. Nuns on, of Houston, a\nboyhood friend of Rev. ]. D.\nDaniels when he came to at Ma\ncedonia Baptist Church Sunday.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3989,
+                "y0": 415,
+                "x1": 4573,
+                "y1": 596
+            },
+            "class": "headline",
+            "raw_text": "Westside Notes\nORA JACKSON",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3948,
+                "y0": 3102,
+                "x1": 4758,
+                "y1": 3346
+            },
+            "class": "article",
+            "raw_text": "A fanatic is anybody who is\nhighly enthusiastic about some\nthing in which you aren't even\nremotely interested.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3977,
+                "y0": 2975,
+                "x1": 4625,
+                "y1": 3080
+            },
+            "class": "headline",
+            "raw_text": "Words Of Wisdom",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 326,
+                "y0": 623,
+                "x1": 679,
+                "y1": 1716
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964092501_0564",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                0
+            ],
+            "headline": "Sundru Loses\nSupport Check",
+            "article": "CAMBRIDGE. Ohio The\nmother of an infant daughter,\nfathered by blind singer Ray\nCharles, says she has lost 40\npounds in recent months and is\nunder consta medical care.\n\n\nSandra Belts. former coed.\nsays her support money has been\nhalted and she has been worried\nby the press and nosy persons.\n\n\nShe had won $4O0 a month\nlast January after a paternity\ntrial. The money was not paid\nafter she moved away from Los\nAngeles because she failed to\nnotify the court. Her lawyer is\nappealing the ruling.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1320,
+                    "y0": 3241,
+                    "x1": 1858,
+                    "y1": 3473
+                },
+                {
+                    "x0": 1279,
+                    "y0": 3495,
+                    "x1": 2101,
+                    "y1": 4507
+                }
+            ],
+            "bbox": [
+                1279,
+                3241,
+                2101,
+                4507
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-09-25_pna_sn84021918_0041421695A_1964092501_0564.json"
+        },
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "Mrs. Folsom Says\nSkipper Is Boss",
+            "article": "TUCSON, ARIZONA : Mrs.\nSarah Fols ON has charged Super\nintendent of Public Instruction W.\nw. Dick is using his office to build\na personal political machine.\n\n\nMrs. Folsom. the Republican\ncandidate, also said that Dick is\nafraid to discuss the issues be-\ncause he is apparently incapable\nof doing so without calling people\nnames. He resorts to political\nname calling when Arizonans in\nterested in education make sug-\ngestions that don't suit his pat\ntern of thinking\n\n\nShe asked the support of mem\nbers of both political parties in\ntaking Arizona education of of\npolitics.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3088,
+                    "y0": 2016,
+                    "x1": 3747,
+                    "y1": 2254
+                },
+                {
+                    "x0": 3064,
+                    "y0": 2276,
+                    "x1": 3886,
+                    "y1": 3398
+                }
+            ],
+            "bbox": [
+                3064,
+                2016,
+                3886,
+                3398
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-09-25_pna_sn84021918_0041421695A_1964092501_0564.json"
+        },
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "ONE TOO MANY",
+            "article": "NETWORK = Gloria Richard\nson, Al. we'll known civil rights\nleader in Maryland, announced\nher marriage recently to a 26\nyear old free lance photographer,\nFrank cambridge.\n\n\nDandridge's first wife, Lynda,\nu. however. insists that she\nis legally married to him be-\ncause she received no divorce\nnotification.\n\n\nThe first Mrs. cambridge Is\nsenior at Columbia University.\nShe is the mother of four year\nold son.\n\n\nMrs. Gloria Richards on Dan\nbridge said she will halt her\ncivil rights work andmove to New\nYork with her new spouse. She\nhas two children by former\nmarriage.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 390,
+                    "y0": 3206,
+                    "x1": 1009,
+                    "y1": 3334
+                },
+                {
+                    "x0": 372,
+                    "y0": 3368,
+                    "x1": 1199,
+                    "y1": 4593
+                }
+            ],
+            "bbox": [
+                372,
+                3206,
+                1199,
+                4593
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-09-25_pna_sn84021918_0041421695A_1964092501_0564.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "BROOKE\n\n\nRUNS ALONE",
+            "article": "BOSTON = Edward w. Brooke,\nthe attorney general of Massa-\nchusetts, has announced for a\nsecond term, an an independent\nbecause he finds that his prin-\nciples and those of the Republican\nnominee, Sen. Barry G oldwater,\nare incompatible. This action\ncaused him the loss of certain\nfinancial aid.\n\n\nGregg Beams, chairman of\nfund raising activities, has In\ndicated that budget of $780, 900\nis needed to conduct Mr.. Brooke's\ncampaign. He stated 1--WE need\ndollars from every possible\nsource to support a winning cam\npaign for winning candidate.\nContributions can be sent to the\nBrooke Election Comm ttee at\nIS Court Square, Boston, Mas\nsachusetts.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3088,
+                    "y0": 410,
+                    "x1": 3580,
+                    "y1": 613
+                },
+                {
+                    "x0": 3047,
+                    "y0": 652,
+                    "x1": 3869,
+                    "y1": 1947
+                }
+            ],
+            "bbox": [
+                3047,
+                410,
+                3869,
+                1947
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-25_pna_sn84021918_0041421695A_1964092501_0564.json"
+        },
+        {
+            "object_ids": [
+                22,
+                4
+            ],
+            "headline": "",
+            "article": "Edward H. Pate has joined\nDaniel ]. Edelman and As\nsociates, Inc, international pub\nlie relations agency, to head a\nnew Negro community relations\ndepartment which will provide\nmarketing, employee and COM\nmunity relations counsel.\n\n\nPate formerly was president Of\nthe Twin City Advertising, Kan\nsas City, Mo-. specializing in\nadvertising and public relations\ndirected to the Negro community.\n\n\nHe was also president and\ngeneral manager of KPRS, Kan\nsas City, one of three Negro\nowned radio stations in the coun-\ntry at that time. The station\nbecame a top-rated Kansas City\noutlet while Pate served as its\nchief executive officer.\n\n\nEarlier IN MS career, rare was\na housing manager with the\nChicago Housing Authority and\nadministrator of Wheatley-Pro-\nvident Hospital in Kansas City.\n\n\nPate is a graduate of the Uni\nversity of Chicago and holds a\nmasters degree in business ad-\nminiStration from the University.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2215,
+                    "y0": 2778,
+                    "x1": 2684,
+                    "y1": 2883
+                },
+                {
+                    "x0": 2175,
+                    "y0": 2911,
+                    "x1": 3008,
+                    "y1": 4663
+                }
+            ],
+            "bbox": [
+                2175,
+                2778,
+                3008,
+                4663
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-25_pna_sn84021918_0041421695A_1964092501_0564.json"
+        },
+        {
+            "object_ids": [
+                20,
+                6
+            ],
+            "headline": "Westside Notes\nORA JACKSON",
+            "article": "Mrs. Carl Sims hosted sur\nprise birthday for her husband,\nCarl, at their home, 1921 w.\nMadison on Sept. lo. More than\n40 guests enjoyed the buffet din\nner.\n\n\nMrs. Leora Redmond, l4l2 S.\n9th Ave, has returned from va\ncation in Oklahoma, Louisiana\nand Arkansas.\n\n\nMrs: Lilly Bats of San Fran\ncisco spent weekend at the\nhome of Mrs. Mary bats, 1925\nW. Grant.\n\n\nMrs. Myrtle Jackson, 1917 w.\nPimas enjoyed her visit to San\nDiego and California.\n\n\nMrs. Cellar Hardy has re-\nturned from visiting her daugh-\nter Mrs. Calvin Harris in St.\nLouis, Mo.\n\n\nMrs. Ida Austin spent a won\nderful time in Pinetop and Pres\ncolt, Ariz., before going to Las\nVegas.\n\n\nSgt. Willie Morris, son of Mrs.\nOdessa Morris, l425 S. 18th Ave.,\nis now stationed in the city. He\nis on duty at the local recruiting\noffice, located on 9TH Ave. and\nW. Washington. His wife and\nfour children accompanied him\nfrom Fl. Belvoir, Va.\n\n\nJim Lewis is Ill at 1902 S.\n18th Ave.\n\n\nRev. A. Nuns on, of Houston, a\nboyhood friend of Rev. ]. D.\nDaniels when he came to at Ma\ncedonia Baptist Church Sunday.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3989,
+                    "y0": 415,
+                    "x1": 4573,
+                    "y1": 596
+                },
+                {
+                    "x0": 3948,
+                    "y0": 623,
+                    "x1": 4770,
+                    "y1": 2918
+                }
+            ],
+            "bbox": [
+                3948,
+                415,
+                4770,
+                2918
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-25_pna_sn84021918_0041421695A_1964092501_0564.json"
+        },
+        {
+            "object_ids": [
+                19,
+                12
+            ],
+            "headline": "Words Of Wisdom",
+            "article": "A fanatic is anybody who is\nhighly enthusiastic about some\nthing in which you aren't even\nremotely interested.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3977,
+                    "y0": 2975,
+                    "x1": 4625,
+                    "y1": 3080
+                },
+                {
+                    "x0": 3948,
+                    "y0": 3102,
+                    "x1": 4758,
+                    "y1": 3346
+                }
+            ],
+            "bbox": [
+                3948,
+                2975,
+                4758,
+                3346
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-09-25_pna_sn84021918_0041421695A_1964092501_0564.json"
+        }
+    ]
+}

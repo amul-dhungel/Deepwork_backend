@@ -1,0 +1,352 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7392,
+        "width": 4898,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-27",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112701/0647.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2807,
+                "y0": 808,
+                "x1": 3622,
+                "y1": 3517
+            },
+            "class": "article",
+            "raw_text": "SAN FRANCISCO - NAACP\nwill challenge the constitution\natty of California S new housing\nlaw prohibiting any public agency\nin the state from imposing ban\non discrimination in the sale or\nrental of residential property,\nMrs. Tarea Hall Pittman, NAACP\nWest Goa st regional director,\nannounced.\n\n\nThe non-discrimination ban,\nProposition IA, was approved by\nvoters on Nov. 8.\n\n\n1t amended the state constitu-\ntion with this key provision:\n\"Neighter the state nor any sub\ndivision or agency thereof shall\ndeny, limit or abridge, directly or\nindirectly, the right of any person\nwho is willing or desires to sell,\nlea Sc or rent any part or all of\nhis property, to decline to sell,\nlea Sc or rent such property to\nsuch person or persons as he,\nin his absolute discretion,\nchooses\"\n\n\nMrs. Pittman stated that lit is\nthe intentin of the NAACP to test\nthe constitutionality of PROPOSE\ntion IA as quickly as the neces-\nsary papers can be prepared\"\n\n\nAS a preliminary step, NAACP\nattorney Nathaniel S. Colley will\nrepresent Frank Canson, former\nNAACP Sacramento branch\npresident, in a test case which\nwill seek to halt the printing of\nthe new mea sure in the State Con-\nstitution.\n\n\nSince the pa ssing of the propo-\nsition, William l.. Slayton, COM\nmissioner of the Urban Renewal\nAdministration, has called tenn\nporary halt to the approval of any\nmore Federal financing for urban\nrenewal programs.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2824,
+                "y0": 427,
+                "x1": 3449,
+                "y1": 786
+            },
+            "class": "headline",
+            "raw_text": "NAACP TO\nCHALLENGE\n\n\nHOUSING LAW",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1016,
+                "y0": 2910,
+                "x1": 1832,
+                "y1": 3604
+            },
+            "class": "article",
+            "raw_text": "Post office insignias showing\nriders on horseback will be\nswitched so the action will appear\nto be moving forward.\n\n\nThe department has ordered\nmore than 200, 900 new emblems.\nPersonnel will wear the forward\nlook starting Feb. l..\n\n\nThe post rider is the symbol\nof postal service. repre- senting\nthe delivery by horseback of\nletters for many years.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1074,
+                "y0": 2806,
+                "x1": 1572,
+                "y1": 2894
+            },
+            "class": "headline",
+            "raw_text": "Riders Turned",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3690,
+                "y0": 1484,
+                "x1": 4505,
+                "y1": 2772
+            },
+            "class": "article",
+            "raw_text": "Elizabeth Mckinney of Chica-\ngo. happily displays her claim\nto fortunel Showing her winning\nWest Indies Sweepstakes-Hos-\npital ticket in one hand, and the\ntelegram that brought her the\ngood news. She is guaranteed\nat lea st 81 900, with a chance to\nwin larger prize up to\nSis 900, largest first prize in\nthe world! The preliminary\ndrawing was held October 10th\nin Barbados, w. l. Ticket draw\nings for huge sweepstakes will\nbe ba sed on the Santa Anita Ma\nturity, to be held January 9th\nin Arcadia, California. Ticket\nsales close December 5th. Miss\nMckinney works for the Spiegel\nmail order firm in Chicago, and\nthis is the first sweepstakes\nticket she has ever purcha sedl",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 139,
+                "y0": 3054,
+                "x1": 948,
+                "y1": 3621
+            },
+            "class": "article",
+            "raw_text": "TEMPE The annual banquet\nhonoring the footballteam at Ari-\niona State University will be\nheld Dec. p, $50 pm. in the\nMemorial Union Ballroom on the\nSun Devil campus. Admission is\n$3.50 per person. Tickets may\nbe obtained by calling Frank\nRispoli, assistant athletic di-\nrector at ASH, o66-338l.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 162,
+                "y0": 2818,
+                "x1": 804,
+                "y1": 3032
+            },
+            "class": "headline",
+            "raw_text": "ASU Gridders\nTo Be Honored",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1917,
+                "y0": 2015,
+                "x1": 2738,
+                "y1": 3575
+            },
+            "class": "article",
+            "raw_text": "George shington' S presi-\nDental salary $4,000 was 357\ntimes greater than that of bod\ncarriers and mortar mixers\nworking on public buildings in\nthe Capitol area. Today the\nPresident receives 100000\nabout Is times the pay of COM\nparable building laborers work\ning full-time in the District of\nColumbia.\n\n\n* i\n\n\nModern homemakers are re-\ndiscovering the honey art of\nbread baking. Did you know\nthat Egyptian cooks b gan\nmaking yeast breads almost\n1000 years ago? A baker for\nthe royal household accidental\nly left some bread dough I'M\ntt e n d e d overnight. It fer\nmented and rose. Undaunted-\nthe punishment for culinary\nerror in those days was a be-\nheading = the little baker went\nahead and baked the dough. All\nended happily after delighted\nking tasted the bread and COM\nmended the baker for his \"king-\nly\" loaf of bread.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 1958,
+                "y0": 1905,
+                "x1": 2449,
+                "y1": 1999
+            },
+            "class": "headline",
+            "raw_text": "Salary v ulues",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 133,
+                "y0": 1923,
+                "x1": 1826,
+                "y1": 2796
+            },
+            "class": "article",
+            "raw_text": "working committee members and the chairman\nChapter Alpha Chi P Omega met Monday to\nreport progress of sales and related business\n\n\nthe second Phoenix appearance OF the\nknown hon Fair Wed Dec Phoenix Union\nHigh School auditorium\n\n\nTerri Springer Ebony Fashion Fair model headlines the\nmodels will fashion original designs in Spanish mood\n\n\nEthel Edwards Emma Johnson hostess\nMurray Lebera Ray Christine Tapp Maple L. Pratt\nsleus Johnnie Mae Jackson ticket chairman dea SouDe\nand Delois Moore.\n\n\nsale chapter members salons Linde Box\nNo. First St. and Sobrero Box Office 447 No. 9TH\nPhoto Lab",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112701_0647",
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "NAACP TO\nCHALLENGE\n\n\nHOUSING LAW",
+            "article": "SAN FRANCISCO - NAACP\nwill challenge the constitution\natty of California S new housing\nlaw prohibiting any public agency\nin the state from imposing ban\non discrimination in the sale or\nrental of residential property,\nMrs. Tarea Hall Pittman, NAACP\nWest Goa st regional director,\nannounced.\n\n\nThe non-discrimination ban,\nProposition IA, was approved by\nvoters on Nov. 8.\n\n\n1t amended the state constitu-\ntion with this key provision:\n\"Neighter the state nor any sub\ndivision or agency thereof shall\ndeny, limit or abridge, directly or\nindirectly, the right of any person\nwho is willing or desires to sell,\nlea Sc or rent any part or all of\nhis property, to decline to sell,\nlea Sc or rent such property to\nsuch person or persons as he,\nin his absolute discretion,\nchooses\"\n\n\nMrs. Pittman stated that lit is\nthe intentin of the NAACP to test\nthe constitutionality of PROPOSE\ntion IA as quickly as the neces-\nsary papers can be prepared\"\n\n\nAS a preliminary step, NAACP\nattorney Nathaniel S. Colley will\nrepresent Frank Canson, former\nNAACP Sacramento branch\npresident, in a test case which\nwill seek to halt the printing of\nthe new mea sure in the State Con-\nstitution.\n\n\nSince the pa ssing of the propo-\nsition, William l.. Slayton, COM\nmissioner of the Urban Renewal\nAdministration, has called tenn\nporary halt to the approval of any\nmore Federal financing for urban\nrenewal programs.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2824,
+                    "y0": 427,
+                    "x1": 3449,
+                    "y1": 786
+                },
+                {
+                    "x0": 2807,
+                    "y0": 808,
+                    "x1": 3622,
+                    "y1": 3517
+                }
+            ],
+            "bbox": [
+                2807,
+                427,
+                3622,
+                3517
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-27_pna_sn84021918_0041421695A_1964112701_0647.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "Riders Turned",
+            "article": "Post office insignias showing\nriders on horseback will be\nswitched so the action will appear\nto be moving forward.\n\n\nThe department has ordered\nmore than 200, 900 new emblems.\nPersonnel will wear the forward\nlook starting Feb. l..\n\n\nThe post rider is the symbol\nof postal service. repre- senting\nthe delivery by horseback of\nletters for many years.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1074,
+                    "y0": 2806,
+                    "x1": 1572,
+                    "y1": 2894
+                },
+                {
+                    "x0": 1016,
+                    "y0": 2910,
+                    "x1": 1832,
+                    "y1": 3604
+                }
+            ],
+            "bbox": [
+                1016,
+                2806,
+                1832,
+                3604
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-27_pna_sn84021918_0041421695A_1964112701_0647.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Elizabeth Mckinney of Chica-\ngo. happily displays her claim\nto fortunel Showing her winning\nWest Indies Sweepstakes-Hos-\npital ticket in one hand, and the\ntelegram that brought her the\ngood news. She is guaranteed\nat lea st 81 900, with a chance to\nwin larger prize up to\nSis 900, largest first prize in\nthe world! The preliminary\ndrawing was held October 10th\nin Barbados, w. l. Ticket draw\nings for huge sweepstakes will\nbe ba sed on the Santa Anita Ma\nturity, to be held January 9th\nin Arcadia, California. Ticket\nsales close December 5th. Miss\nMckinney works for the Spiegel\nmail order firm in Chicago, and\nthis is the first sweepstakes\nticket she has ever purcha sedl",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3690,
+                    "y0": 1484,
+                    "x1": 4505,
+                    "y1": 2772
+                }
+            ],
+            "bbox": [
+                3690,
+                1484,
+                4505,
+                2772
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-27_pna_sn84021918_0041421695A_1964112701_0647.json"
+        },
+        {
+            "object_ids": [
+                9,
+                6
+            ],
+            "headline": "ASU Gridders\nTo Be Honored",
+            "article": "TEMPE The annual banquet\nhonoring the footballteam at Ari-\niona State University will be\nheld Dec. p, $50 pm. in the\nMemorial Union Ballroom on the\nSun Devil campus. Admission is\n$3.50 per person. Tickets may\nbe obtained by calling Frank\nRispoli, assistant athletic di-\nrector at ASH, o66-338l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 162,
+                    "y0": 2818,
+                    "x1": 804,
+                    "y1": 3032
+                },
+                {
+                    "x0": 139,
+                    "y0": 3054,
+                    "x1": 948,
+                    "y1": 3621
+                }
+            ],
+            "bbox": [
+                139,
+                2818,
+                948,
+                3621
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-11-27_pna_sn84021918_0041421695A_1964112701_0647.json"
+        },
+        {
+            "object_ids": [
+                18,
+                8
+            ],
+            "headline": "Salary v ulues",
+            "article": "George shington' S presi-\nDental salary $4,000 was 357\ntimes greater than that of bod\ncarriers and mortar mixers\nworking on public buildings in\nthe Capitol area. Today the\nPresident receives 100000\nabout Is times the pay of COM\nparable building laborers work\ning full-time in the District of\nColumbia.\n\n\n* i\n\n\nModern homemakers are re-\ndiscovering the honey art of\nbread baking. Did you know\nthat Egyptian cooks b gan\nmaking yeast breads almost\n1000 years ago? A baker for\nthe royal household accidental\nly left some bread dough I'M\ntt e n d e d overnight. It fer\nmented and rose. Undaunted-\nthe punishment for culinary\nerror in those days was a be-\nheading = the little baker went\nahead and baked the dough. All\nended happily after delighted\nking tasted the bread and COM\nmended the baker for his \"king-\nly\" loaf of bread.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1958,
+                    "y0": 1905,
+                    "x1": 2449,
+                    "y1": 1999
+                },
+                {
+                    "x0": 1917,
+                    "y0": 2015,
+                    "x1": 2738,
+                    "y1": 3575
+                }
+            ],
+            "bbox": [
+                1917,
+                1905,
+                2738,
+                3575
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-11-27_pna_sn84021918_0041421695A_1964112701_0647.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "working committee members and the chairman\nChapter Alpha Chi P Omega met Monday to\nreport progress of sales and related business\n\n\nthe second Phoenix appearance OF the\nknown hon Fair Wed Dec Phoenix Union\nHigh School auditorium\n\n\nTerri Springer Ebony Fashion Fair model headlines the\nmodels will fashion original designs in Spanish mood\n\n\nEthel Edwards Emma Johnson hostess\nMurray Lebera Ray Christine Tapp Maple L. Pratt\nsleus Johnnie Mae Jackson ticket chairman dea SouDe\nand Delois Moore.\n\n\nsale chapter members salons Linde Box\nNo. First St. and Sobrero Box Office 447 No. 9TH\nPhoto Lab",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 133,
+                    "y0": 1923,
+                    "x1": 1826,
+                    "y1": 2796
+                }
+            ],
+            "bbox": [
+                133,
+                1923,
+                1826,
+                2796
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-11-27_pna_sn84021918_0041421695A_1964112701_0647.json"
+        }
+    ]
+}

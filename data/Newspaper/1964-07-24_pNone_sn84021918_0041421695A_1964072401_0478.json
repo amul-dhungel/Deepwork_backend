@@ -1,0 +1,318 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7405,
+        "width": 4827,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964072401/0478.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2951,
+                "y0": 1174,
+                "x1": 4711,
+                "y1": 4548
+            },
+            "class": "article",
+            "raw_text": "Approximately one year ago small, grey\ning man aUos cooYdinoting the greatest Demon\nstyution ever to be Witnessed in this nation.\nThe man, BayaYd Rusti1, uhO had been one of\nthe pioneers in certain chill rights movements\nuos calling out the orders for the Negroes\nMarch ON Washington. HIS efforts weYe hailed\nby all, Including his enemies.\n\n\nTODAY B0v0Yd RuStin is unable to reach the\nears of the Negroes uhO are Y5Otirlg IN NeU\nYork, his oaUa center of operations. UntoY-\ntu,aately the fatal shooting of Is year old\nNegro boy, BY a uUhite policeman me Idsng q\nk,1ife uas used to stir Mb the Negroes IN\nHarlem.\n\n\nConditions in Ho Ylem are deblOYuble, how\neveY, many of the programs urged on cav'I\nrights groups for other areas should De con-\ncemtnated for New York city.\n\n\nToo much street demonstrations turns\ninto violence. without q positive program OF\naction. bickets be come hOOdh1nS and the Ve7y\ny1ghts me are seeking are lost in the fury OF\nbattles.\n\n\nIt is time for Negroes and whites to take\nthe ci1il vigkts actions out of the streets and\nremember that educated men must and can\nomlv settle differences through inte lhgent ana\ncalm decisions.\n\n\nThe sight of James Farmer, the head OF Me\nCONGRESS of Racial Equality (CORE), encourage\ning the Negroes to continue to stay IN the\nstreets mas shameful and not in keeping u1th\nthe CORE philosophy Of nonUiolence.\n\n\nis easv to say that Negroes must Demon\nstyute and shov Openly maat they aOont. Hon.\nevey, much of the enc gies being 1Oosted IN\nthe streets could easily be used TO heIp'Hg\nthe race and the nation 1ndOOTS.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3506,
+                "y0": 387,
+                "x1": 4502,
+                "y1": 845
+            },
+            "class": "headline",
+            "raw_text": "VIEWS, pREvIEws\nANo Reviews\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2945,
+                "y0": 942,
+                "x1": 4103,
+                "y1": 1105
+            },
+            "class": "headline",
+            "raw_text": "OUT OF The STREETS",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 267,
+                "y0": 4986,
+                "x1": 1969,
+                "y1": 6856
+            },
+            "class": "article",
+            "raw_text": "Martin r. Deany born Charestown Virginia ow West\nVgina May TO- 1872 His ancestry is raceable his fathers\nAfrican chief the Golah tribe and his mothers\nManngo princess. In Charlestown he had little\nuny However, teacher instructed him privately\nspite the law In this way he learned read and wre\n\n\nIn his mother moved Chambersburg, Pennsylvania\nschool without being moested In 1881\nthey Pittsburgh for better opportunities Then he studied\nLouis Woodson, who in addition serving there\nAfrican Methodist Episcopal preacher maintained good school,\n\n\nDany travelled and eced for the emancipation the Negro\nwith the anslavery organizations In Ohio he\nmobbed Finally he that the Negroes doomed have\nmany troubles in this in the North After the Fugitive\n1850 passed. he thought that the Negroes would\nprobably by going foreign shore He moved\nChatham, Canada in 1885, and pracced medicine here but in\n1859 New York Africa acqan himself with\ncountry thought might make for the\nNegroes from the United States He visited\nkings made treaties with Them back his country\nbelieving that something should be done transplant Negroes to\nplace Liberia His presented\nonly circles of forward-ookng people the\nUnited States those in Europe especially in England The\ncoming O Civil War upset the project\n\n\nDuring the Deany did his part in\nhelping soldiers the Union He received\nMAJOR the first Negro be thus honored by the\nGovernment He served the United States Hospital\nCorOS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 226,
+                "y0": 4703,
+                "x1": 1558,
+                "y1": 4970
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nMARTIN DELANY",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 255,
+                "y0": 2146,
+                "x1": 1986,
+                "y1": 4524
+            },
+            "class": "article",
+            "raw_text": "This is the second issue beginning our\nseventh year of publication Of the Arizona\nT1ibu,,e It MARES our SIX SUCCESSFUL years\nACCOMPLISHED through the combined etorts\nof me and my uite. Countless hours haze oeem\nspent in our teamwork to bring you not just\nanother newspaper, but the best one that our\niqdivid1al abilities and talents couId pTod~ce.\n\n\nWe haze ende0Uoyed to bring you all SIDES\nof the news, local and national. We pledged\nouvselves to bring you the efforts Of our beo-\npie, big and small. We haze not catered to any\none person or group and ne shall MAINTAIN\nan objective view of the news and events\n\n\nwhich NE report.\n\n\nFrom time to time the Arizona Tribune has\nbeen called the destroyer Of community hoY-\n7uony. We claim and haze byoven that there IS\nlittle harmony ,s0hen there. is great deaL0t>\ndissatisJa ction. Naturally there exists those\nmen and women Who would stifle the facts IN\norder to permit harmony to remain on the\nsurface. WI\n+ You the faithful readers and advertisers\nhaze encouraged us by continuing to support\nUS. We look forward to anOthey happy birth\nd0v. Thanks million.\n\n\n",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 220,
+                "y0": 1932,
+                "x1": 1309,
+                "y1": 2095
+            },
+            "class": "headline",
+            "raw_text": "THANKS A MILLION",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2049,
+                "y0": 700,
+                "x1": 2894,
+                "y1": 5844
+            },
+            "class": "article",
+            "raw_text": "During the past year a new\nquartet of long hairedyoung Eng\nlishmen have invaded the musical\nworld of the good old U.S.A.\nThey have usurped the sovereign\nterritory Of Elvis, Frankie,\nChubby and Bobby. They have the\nyoung girls crying and squeal-\ning. The Beatles have started\nmania. Everyone has been af-\nfected one way or another.\n\n\nTheir appearances here caused\nmore excitement than the Eddie\nLiz-Dickie idyll. The policemen\nwere hardpressed at every city\nto restrain the femmes who want\ned to grab them. Frankly, can\nsee little that should appeal to\nthe femmes unless it is true\nthe lads look like they need moth\nering.\n\n\nAfter listening to some of their\nsongs. however, | must admit\ntheir renditions have wuick\ntempo which appeals to young\nbloods. The Beatles have\namassed several millions of that\ngreen stuff while rolling their\nlimpid orbs and singing their\nlong tresses-so who | am to say\nthat they aren't great7\n\n\nEnough about the two legged\nBeatles-we are plagued with the\nsmaller forms now. The beetles\ninvaded our home this June dur\ning the last week and they have\nrepealed all kinds of sprays and\npowders. The only sure way to\nstop one is to step on it.\n\n\nThe pest control man said the\nValley was having an invasion Of\nbeetles and this type Is called\ndarling. fail to see any humor\nin calling a BEETLE darling. Per-\nhaps, the scientist who named\nthe species wanted to call it\nthe opposite of darling and his\nsuperiors refused to include his\nlabel in the list.\n\n\nThe darling beetles crawl up\nthe walls, they find their way in\nthe house when dusk approaches.\nThey flee to the outer walls of\nthe house when sprinkle the lawn\nor wash the driveway.\n\n\nGetting very disguised one day,\npurchased can of insect spray\nand sprayed in all the cracks and\ncrevices | could find. The next\nevening more beetles appeared.\nl seemed to be the only being\nsuffering from the effects Of the\nspray.\n\n\nThere we're a few crickets this\nsummer but few in comparison\nwith previous seasons. A grayish\ninsect called the sour bug &C\ncompanied the beetles, but they\nwe're promptly killed by the two\napplications from the pest con-\ntroll guns.\n\n\n| have thought of new way\nto rid the Valley of the Sun\nof the BEETLES. Let's wire the\nhuman Beatles and invite them\nto present concerts on the four\nsides of the city and see if the\nbeetles will run into the irriga-\nton waste canals.\n\n\n1t would be new twist to the old\nstory of the Pied Piper of Hame-\nlin. Then those Beatles could\nrave about the way they sent those\ncrazy, wild darling beetles.\n\n\nWonder who could foot the\nBeatles' bill7",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2054,
+                "y0": 341,
+                "x1": 2871,
+                "y1": 573
+            },
+            "class": "headline",
+            "raw_text": "Sights und Sounds\nELOIse BANKS",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2049,
+                "y0": 584,
+                "x1": 2715,
+                "y1": 695
+            },
+            "class": "headline",
+            "raw_text": "Beetles Needed",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964072401_0478",
+    "full articles": [
+        {
+            "object_ids": [
+                16,
+                13,
+                8
+            ],
+            "headline": "VIEWS, pREvIEws\nANo Reviews\n\n\nEdward Banks\n\nOUT OF The STREETS",
+            "article": "Approximately one year ago small, grey\ning man aUos cooYdinoting the greatest Demon\nstyution ever to be Witnessed in this nation.\nThe man, BayaYd Rusti1, uhO had been one of\nthe pioneers in certain chill rights movements\nuos calling out the orders for the Negroes\nMarch ON Washington. HIS efforts weYe hailed\nby all, Including his enemies.\n\n\nTODAY B0v0Yd RuStin is unable to reach the\nears of the Negroes uhO are Y5Otirlg IN NeU\nYork, his oaUa center of operations. UntoY-\ntu,aately the fatal shooting of Is year old\nNegro boy, BY a uUhite policeman me Idsng q\nk,1ife uas used to stir Mb the Negroes IN\nHarlem.\n\n\nConditions in Ho Ylem are deblOYuble, how\neveY, many of the programs urged on cav'I\nrights groups for other areas should De con-\ncemtnated for New York city.\n\n\nToo much street demonstrations turns\ninto violence. without q positive program OF\naction. bickets be come hOOdh1nS and the Ve7y\ny1ghts me are seeking are lost in the fury OF\nbattles.\n\n\nIt is time for Negroes and whites to take\nthe ci1il vigkts actions out of the streets and\nremember that educated men must and can\nomlv settle differences through inte lhgent ana\ncalm decisions.\n\n\nThe sight of James Farmer, the head OF Me\nCONGRESS of Racial Equality (CORE), encourage\ning the Negroes to continue to stay IN the\nstreets mas shameful and not in keeping u1th\nthe CORE philosophy Of nonUiolence.\n\n\nis easv to say that Negroes must Demon\nstyute and shov Openly maat they aOont. Hon.\nevey, much of the enc gies being 1Oosted IN\nthe streets could easily be used TO heIp'Hg\nthe race and the nation 1ndOOTS.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3506,
+                    "y0": 387,
+                    "x1": 4502,
+                    "y1": 845
+                },
+                {
+                    "x0": 2945,
+                    "y0": 942,
+                    "x1": 4103,
+                    "y1": 1105
+                },
+                {
+                    "x0": 2951,
+                    "y0": 1174,
+                    "x1": 4711,
+                    "y1": 4548
+                }
+            ],
+            "bbox": [
+                2945,
+                387,
+                4711,
+                4548
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-07-24_pna_sn84021918_0041421695A_1964072401_0478.json"
+        },
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "NEGRO HISTORY NOTES\nMARTIN DELANY",
+            "article": "Martin r. Deany born Charestown Virginia ow West\nVgina May TO- 1872 His ancestry is raceable his fathers\nAfrican chief the Golah tribe and his mothers\nManngo princess. In Charlestown he had little\nuny However, teacher instructed him privately\nspite the law In this way he learned read and wre\n\n\nIn his mother moved Chambersburg, Pennsylvania\nschool without being moested In 1881\nthey Pittsburgh for better opportunities Then he studied\nLouis Woodson, who in addition serving there\nAfrican Methodist Episcopal preacher maintained good school,\n\n\nDany travelled and eced for the emancipation the Negro\nwith the anslavery organizations In Ohio he\nmobbed Finally he that the Negroes doomed have\nmany troubles in this in the North After the Fugitive\n1850 passed. he thought that the Negroes would\nprobably by going foreign shore He moved\nChatham, Canada in 1885, and pracced medicine here but in\n1859 New York Africa acqan himself with\ncountry thought might make for the\nNegroes from the United States He visited\nkings made treaties with Them back his country\nbelieving that something should be done transplant Negroes to\nplace Liberia His presented\nonly circles of forward-ookng people the\nUnited States those in Europe especially in England The\ncoming O Civil War upset the project\n\n\nDuring the Deany did his part in\nhelping soldiers the Union He received\nMAJOR the first Negro be thus honored by the\nGovernment He served the United States Hospital\nCorOS",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 226,
+                    "y0": 4703,
+                    "x1": 1558,
+                    "y1": 4970
+                },
+                {
+                    "x0": 267,
+                    "y0": 4986,
+                    "x1": 1969,
+                    "y1": 6856
+                }
+            ],
+            "bbox": [
+                226,
+                4703,
+                1969,
+                6856
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-24_pna_sn84021918_0041421695A_1964072401_0478.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "THANKS A MILLION",
+            "article": "This is the second issue beginning our\nseventh year of publication Of the Arizona\nT1ibu,,e It MARES our SIX SUCCESSFUL years\nACCOMPLISHED through the combined etorts\nof me and my uite. Countless hours haze oeem\nspent in our teamwork to bring you not just\nanother newspaper, but the best one that our\niqdivid1al abilities and talents couId pTod~ce.\n\n\nWe haze ende0Uoyed to bring you all SIDES\nof the news, local and national. We pledged\nouvselves to bring you the efforts Of our beo-\npie, big and small. We haze not catered to any\none person or group and ne shall MAINTAIN\nan objective view of the news and events\n\n\nwhich NE report.\n\n\nFrom time to time the Arizona Tribune has\nbeen called the destroyer Of community hoY-\n7uony. We claim and haze byoven that there IS\nlittle harmony ,s0hen there. is great deaL0t>\ndissatisJa ction. Naturally there exists those\nmen and women Who would stifle the facts IN\norder to permit harmony to remain on the\nsurface. WI\n+ You the faithful readers and advertisers\nhaze encouraged us by continuing to support\nUS. We look forward to anOthey happy birth\nd0v. Thanks million.\n\n\n",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 220,
+                    "y0": 1932,
+                    "x1": 1309,
+                    "y1": 2095
+                },
+                {
+                    "x0": 255,
+                    "y0": 2146,
+                    "x1": 1986,
+                    "y1": 4524
+                }
+            ],
+            "bbox": [
+                220,
+                1932,
+                1986,
+                4524
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-24_pna_sn84021918_0041421695A_1964072401_0478.json"
+        },
+        {
+            "object_ids": [
+                15,
+                11,
+                5
+            ],
+            "headline": "Sights und Sounds\nELOIse BANKS\n\nBeetles Needed",
+            "article": "During the past year a new\nquartet of long hairedyoung Eng\nlishmen have invaded the musical\nworld of the good old U.S.A.\nThey have usurped the sovereign\nterritory Of Elvis, Frankie,\nChubby and Bobby. They have the\nyoung girls crying and squeal-\ning. The Beatles have started\nmania. Everyone has been af-\nfected one way or another.\n\n\nTheir appearances here caused\nmore excitement than the Eddie\nLiz-Dickie idyll. The policemen\nwere hardpressed at every city\nto restrain the femmes who want\ned to grab them. Frankly, can\nsee little that should appeal to\nthe femmes unless it is true\nthe lads look like they need moth\nering.\n\n\nAfter listening to some of their\nsongs. however, | must admit\ntheir renditions have wuick\ntempo which appeals to young\nbloods. The Beatles have\namassed several millions of that\ngreen stuff while rolling their\nlimpid orbs and singing their\nlong tresses-so who | am to say\nthat they aren't great7\n\n\nEnough about the two legged\nBeatles-we are plagued with the\nsmaller forms now. The beetles\ninvaded our home this June dur\ning the last week and they have\nrepealed all kinds of sprays and\npowders. The only sure way to\nstop one is to step on it.\n\n\nThe pest control man said the\nValley was having an invasion Of\nbeetles and this type Is called\ndarling. fail to see any humor\nin calling a BEETLE darling. Per-\nhaps, the scientist who named\nthe species wanted to call it\nthe opposite of darling and his\nsuperiors refused to include his\nlabel in the list.\n\n\nThe darling beetles crawl up\nthe walls, they find their way in\nthe house when dusk approaches.\nThey flee to the outer walls of\nthe house when sprinkle the lawn\nor wash the driveway.\n\n\nGetting very disguised one day,\npurchased can of insect spray\nand sprayed in all the cracks and\ncrevices | could find. The next\nevening more beetles appeared.\nl seemed to be the only being\nsuffering from the effects Of the\nspray.\n\n\nThere we're a few crickets this\nsummer but few in comparison\nwith previous seasons. A grayish\ninsect called the sour bug &C\ncompanied the beetles, but they\nwe're promptly killed by the two\napplications from the pest con-\ntroll guns.\n\n\n| have thought of new way\nto rid the Valley of the Sun\nof the BEETLES. Let's wire the\nhuman Beatles and invite them\nto present concerts on the four\nsides of the city and see if the\nbeetles will run into the irriga-\nton waste canals.\n\n\n1t would be new twist to the old\nstory of the Pied Piper of Hame-\nlin. Then those Beatles could\nrave about the way they sent those\ncrazy, wild darling beetles.\n\n\nWonder who could foot the\nBeatles' bill7",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2054,
+                    "y0": 341,
+                    "x1": 2871,
+                    "y1": 573
+                },
+                {
+                    "x0": 2049,
+                    "y0": 584,
+                    "x1": 2715,
+                    "y1": 695
+                },
+                {
+                    "x0": 2049,
+                    "y0": 700,
+                    "x1": 2894,
+                    "y1": 5844
+                }
+            ],
+            "bbox": [
+                2049,
+                341,
+                2894,
+                5844
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-24_pna_sn84021918_0041421695A_1964072401_0478.json"
+        }
+    ]
+}

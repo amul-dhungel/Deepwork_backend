@@ -1,0 +1,453 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4784,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964012401/0274.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3790,
+                "y0": 4779,
+                "x1": 4606,
+                "y1": 6086
+            },
+            "class": "article",
+            "raw_text": "WASHINCTON-U. S. Supreme\nCourt denied a hearing to three\nBaton Rouge, La, city officials\nwho lost a suit for an order bar\nring the Congress Of Racial\nEquality from demonstrating\nthere.\n\n\nFederal District Judge E.Gor-\ndon West of Baton Rouge, Is\nsued an Injunction against CORE\ndemonstrations but 1t was set\naside by the 5th u .S.Circuit Court\nof Appeals.\n\n\nCity officials used the 18th\nAmendment to the Constitution,\ntheir complaint state CORE was\npreventing them from providing\nthe \",equal protection of the laws\"\nto- all persons.\n\n\nThe case grew from demon\nstrations by Negro students from\nSouthern University in 1861.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3796,
+                "y0": 4588,
+                "x1": 4612,
+                "y1": 4757
+            },
+            "class": "headline",
+            "raw_text": "BATON ROUGE\nOFFICIALS LOSE SUIT",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2894,
+                "y0": 4958,
+                "x1": 3716,
+                "y1": 6028
+            },
+            "class": "article",
+            "raw_text": "MIAMI BEACH, Fla. Cas-\nsius Clay said he would knock\nout heavyweight champion Sonny\nListon In five rounds, three short\nof the earlier prediction.\n\n\nClay, celebrating his 22nd\nbirthday, slipped sauerkraut juice\nas he told reporters Liston was\ntalking too much.\n\n\nHis father attended the birth\nday party, where a rs lb. cake\nwas the centerpiece.\n\n\nClay received telegram from\nListon saying, cts good you are\nhaving your birthday early. have\na gift for you but I'll wait until\nFeb. Is and give 1t to you per-\nsonally.\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2912,
+                "y0": 4698,
+                "x1": 3548,
+                "y1": 4924
+            },
+            "class": "headline",
+            "raw_text": "CLAY SAYS\n\n\nLIS TON TO FALL\nINFIVE ROUNDS",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1080,
+                "y0": 676,
+                "x1": 1901,
+                "y1": 1520
+            },
+            "class": "article",
+            "raw_text": "Bobby Dewitt, 7, son OF Mr..\nand Mrs. Bobby Dewitt, 8lo W.\nMckinley. died after being struck\nby an auto Monday morning onhis\nway to Grace Court School.\n\n\nThe second grader repeatedly\ndashed in front of a car at\n5I4 N. 9TH Ave. He died shortly\nafterward in the hospital.\n\n\nThe car was driven by Miss\nPeggy l.. Bell FL. 1901 W. Pima.\n\n\nShe told police she swerved in\nan effort to avoid hitting the",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 1085,
+                "y0": 468,
+                "x1": 1780,
+                "y1": 630
+            },
+            "class": "headline",
+            "raw_text": "IND GRADER\n\n\nINJURED FATALLY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 190,
+                "y0": 699,
+                "x1": 1006,
+                "y1": 1480
+            },
+            "class": "article",
+            "raw_text": "Who eats the most meat7\n\n\nNot Americans, as you might\nthink. Leading in per capita meat\nconsumption Is New Zealand,\nwhere each person averages 235\npounds a year. Australians eat\n22l pounds; Uruguayans, 2l3\npounds: and Argentinians. 2O2\npounds.\n\n\nAmericans come next, the US.\nDepartment of Agriculture says,\nwith an annual per capita con-\nsumption of l64 pounds a year.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 201,
+                "y0": 479,
+                "x1": 665,
+                "y1": 671
+            },
+            "class": "headline",
+            "raw_text": "WHO EATS\n\n\nMOST MEAT",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 242,
+                "y0": 699,
+                "x1": 878,
+                "y1": 746
+            },
+            "class": "author",
+            "raw_text": "Who eats the most meat7",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3778,
+                "y0": 606,
+                "x1": 4612,
+                "y1": 4479
+            },
+            "class": "article",
+            "raw_text": "JACKSONVILLE, FLA. In\ntegration of Negro and white\nteachers and their pupils, has\nbeen ordered for this city and\nsurrounding Duval county by the\nus. 5th Circuit Court of APP\npeals.\n\n\nJack Greenberg, director\ncounsel of the NAACP Legal\nDefense and Educational Fund,\nannounced.\n\n\nThis marks the first Appeals\nCourt ruling since the historic\n1854 Supreme Court school in\ntegration decision, that specifi-\ncally includes administrative and\nteaching personnel\n\n\nThe three Judge court also\nordered an end to separate bud\ngets, employment and construc-\ntion contracts, curricula and pro-\ngram.\n\n\nMr.. Creenberg said that this is\na \"most sweeping school int\ngrafton victory. The court grant\ned every request in our prayers\nfor relief\"\n\n\nThe case was argued before\nthe Court Of Appeals by Earl\nM. Johnson of Jacks onville, one\nof the Fund 8 cooperating attor-\nneys. Constance Baker Motley\nand Leroy C. Clark of the Fund s\nNew York City headquarters,\nwe're counsel.\n\n\nThe Fund S lawyers pointed out\nthat in some instances, some of\nthe minor plaintiffs and other\nminor Negroes are required to\ntravel twenty miles to attend\nNegro schools, whereas they re-\nside much nearer a white school.\n\n\n\n\n\nThe Court of Appeals ruling\nalso calls for an end Of the\nfollowing practices in Jackson\nVile and Duval county schools:\n\n\n*biracial school system\n\n\ndual scheme or pattern of\nschool zone lines or attendance\narea lines based on race and\ncolor.\n\n\nschool assignment of in\ndividual pupils by race\n\n\nassignment of teachers,\nprincipals and other profession\nal staff on basis of race.\n\n\nLegal Defense attorneys filed\nthe suit in behalf of Is Jackson\nVile youngsters and \"on behalf\nof all Negro children and parents\nin Duval county who are SINH\nlarly situated\"\n\n\nThere are presently 81 white\nand \"a Negro schools in the\ncounty.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3773,
+                "y0": 433,
+                "x1": 4536,
+                "y1": 602
+            },
+            "class": "headline",
+            "raw_text": "FLORIDA TEACHERS\n\n\nTO INTEGRATE, TOO",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2022,
+                "y0": 4929,
+                "x1": 2832,
+                "y1": 5282
+            },
+            "class": "article",
+            "raw_text": "From February on it's time to\nwatch for signs of new life on\nthe plants you put away in cool,\ndark place last fall. Gradually\nacclimate the plants to warmth\nand sunlight, then start using\nplant food.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2033,
+                "y0": 4721,
+                "x1": 2618,
+                "y1": 4889
+            },
+            "class": "headline",
+            "raw_text": "CHECK PLANTS\nIN FEBRUARY",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2027,
+                "y0": 4160,
+                "x1": 3716,
+                "y1": 4658
+            },
+            "class": "article",
+            "raw_text": "Presbyterian Church. 1923 E. Broadway was the\nscene Of Battle of the Choirs Sum-, JAM l9.\n\n\nMembers church choir shown in the first photo\ngraph.\n\n\nFrom Smith, Eddie Johnson Willie Mae\nForeman, Warren, Hazel Williams and Teresa Ward\n\n\nparticipating the Choraers OF First nsu-\nBaptist the Church of the Living Cod PCT",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964012401_0274",
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                0
+            ],
+            "headline": "BATON ROUGE\nOFFICIALS LOSE SUIT",
+            "article": "WASHINCTON-U. S. Supreme\nCourt denied a hearing to three\nBaton Rouge, La, city officials\nwho lost a suit for an order bar\nring the Congress Of Racial\nEquality from demonstrating\nthere.\n\n\nFederal District Judge E.Gor-\ndon West of Baton Rouge, Is\nsued an Injunction against CORE\ndemonstrations but 1t was set\naside by the 5th u .S.Circuit Court\nof Appeals.\n\n\nCity officials used the 18th\nAmendment to the Constitution,\ntheir complaint state CORE was\npreventing them from providing\nthe \",equal protection of the laws\"\nto- all persons.\n\n\nThe case grew from demon\nstrations by Negro students from\nSouthern University in 1861.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3796,
+                    "y0": 4588,
+                    "x1": 4612,
+                    "y1": 4757
+                },
+                {
+                    "x0": 3790,
+                    "y0": 4779,
+                    "x1": 4606,
+                    "y1": 6086
+                }
+            ],
+            "bbox": [
+                3790,
+                4588,
+                4612,
+                6086
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-24_pna_sn84021918_0041421695A_1964012401_0274.json"
+        },
+        {
+            "object_ids": [
+                11,
+                1
+            ],
+            "headline": "CLAY SAYS\n\n\nLIS TON TO FALL\nINFIVE ROUNDS",
+            "article": "MIAMI BEACH, Fla. Cas-\nsius Clay said he would knock\nout heavyweight champion Sonny\nListon In five rounds, three short\nof the earlier prediction.\n\n\nClay, celebrating his 22nd\nbirthday, slipped sauerkraut juice\nas he told reporters Liston was\ntalking too much.\n\n\nHis father attended the birth\nday party, where a rs lb. cake\nwas the centerpiece.\n\n\nClay received telegram from\nListon saying, cts good you are\nhaving your birthday early. have\na gift for you but I'll wait until\nFeb. Is and give 1t to you per-\nsonally.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2912,
+                    "y0": 4698,
+                    "x1": 3548,
+                    "y1": 4924
+                },
+                {
+                    "x0": 2894,
+                    "y0": 4958,
+                    "x1": 3716,
+                    "y1": 6028
+                }
+            ],
+            "bbox": [
+                2894,
+                4698,
+                3716,
+                6028
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-24_pna_sn84021918_0041421695A_1964012401_0274.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "IND GRADER\n\n\nINJURED FATALLY",
+            "article": "Bobby Dewitt, 7, son OF Mr..\nand Mrs. Bobby Dewitt, 8lo W.\nMckinley. died after being struck\nby an auto Monday morning onhis\nway to Grace Court School.\n\n\nThe second grader repeatedly\ndashed in front of a car at\n5I4 N. 9TH Ave. He died shortly\nafterward in the hospital.\n\n\nThe car was driven by Miss\nPeggy l.. Bell FL. 1901 W. Pima.\n\n\nShe told police she swerved in\nan effort to avoid hitting the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1085,
+                    "y0": 468,
+                    "x1": 1780,
+                    "y1": 630
+                },
+                {
+                    "x0": 1080,
+                    "y0": 676,
+                    "x1": 1901,
+                    "y1": 1520
+                }
+            ],
+            "bbox": [
+                1080,
+                468,
+                1901,
+                1520
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-24_pna_sn84021918_0041421695A_1964012401_0274.json"
+        },
+        {
+            "object_ids": [
+                9,
+                22,
+                4
+            ],
+            "headline": "WHO EATS\n\n\nMOST MEAT",
+            "article": "Who eats the most meat7\n\n\nNot Americans, as you might\nthink. Leading in per capita meat\nconsumption Is New Zealand,\nwhere each person averages 235\npounds a year. Australians eat\n22l pounds; Uruguayans, 2l3\npounds: and Argentinians. 2O2\npounds.\n\n\nAmericans come next, the US.\nDepartment of Agriculture says,\nwith an annual per capita con-\nsumption of l64 pounds a year.",
+            "byline": "Who eats the most meat7",
+            "bbox_list": [
+                {
+                    "x0": 201,
+                    "y0": 479,
+                    "x1": 665,
+                    "y1": 671
+                },
+                {
+                    "x0": 242,
+                    "y0": 699,
+                    "x1": 878,
+                    "y1": 746
+                },
+                {
+                    "x0": 190,
+                    "y0": 699,
+                    "x1": 1006,
+                    "y1": 1480
+                }
+            ],
+            "bbox": [
+                190,
+                479,
+                1006,
+                1480
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-24_pna_sn84021918_0041421695A_1964012401_0274.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "FLORIDA TEACHERS\n\n\nTO INTEGRATE, TOO",
+            "article": "JACKSONVILLE, FLA. In\ntegration of Negro and white\nteachers and their pupils, has\nbeen ordered for this city and\nsurrounding Duval county by the\nus. 5th Circuit Court of APP\npeals.\n\n\nJack Greenberg, director\ncounsel of the NAACP Legal\nDefense and Educational Fund,\nannounced.\n\n\nThis marks the first Appeals\nCourt ruling since the historic\n1854 Supreme Court school in\ntegration decision, that specifi-\ncally includes administrative and\nteaching personnel\n\n\nThe three Judge court also\nordered an end to separate bud\ngets, employment and construc-\ntion contracts, curricula and pro-\ngram.\n\n\nMr.. Creenberg said that this is\na \"most sweeping school int\ngrafton victory. The court grant\ned every request in our prayers\nfor relief\"\n\n\nThe case was argued before\nthe Court Of Appeals by Earl\nM. Johnson of Jacks onville, one\nof the Fund 8 cooperating attor-\nneys. Constance Baker Motley\nand Leroy C. Clark of the Fund s\nNew York City headquarters,\nwe're counsel.\n\n\nThe Fund S lawyers pointed out\nthat in some instances, some of\nthe minor plaintiffs and other\nminor Negroes are required to\ntravel twenty miles to attend\nNegro schools, whereas they re-\nside much nearer a white school.\n\n\n\n\n\nThe Court of Appeals ruling\nalso calls for an end Of the\nfollowing practices in Jackson\nVile and Duval county schools:\n\n\n*biracial school system\n\n\ndual scheme or pattern of\nschool zone lines or attendance\narea lines based on race and\ncolor.\n\n\nschool assignment of in\ndividual pupils by race\n\n\nassignment of teachers,\nprincipals and other profession\nal staff on basis of race.\n\n\nLegal Defense attorneys filed\nthe suit in behalf of Is Jackson\nVile youngsters and \"on behalf\nof all Negro children and parents\nin Duval county who are SINH\nlarly situated\"\n\n\nThere are presently 81 white\nand \"a Negro schools in the\ncounty.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3773,
+                    "y0": 433,
+                    "x1": 4536,
+                    "y1": 602
+                },
+                {
+                    "x0": 3778,
+                    "y0": 606,
+                    "x1": 4612,
+                    "y1": 4479
+                }
+            ],
+            "bbox": [
+                3773,
+                433,
+                4612,
+                4479
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-24_pna_sn84021918_0041421695A_1964012401_0274.json"
+        },
+        {
+            "object_ids": [
+                12,
+                10
+            ],
+            "headline": "CHECK PLANTS\nIN FEBRUARY",
+            "article": "From February on it's time to\nwatch for signs of new life on\nthe plants you put away in cool,\ndark place last fall. Gradually\nacclimate the plants to warmth\nand sunlight, then start using\nplant food.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2033,
+                    "y0": 4721,
+                    "x1": 2618,
+                    "y1": 4889
+                },
+                {
+                    "x0": 2022,
+                    "y0": 4929,
+                    "x1": 2832,
+                    "y1": 5282
+                }
+            ],
+            "bbox": [
+                2022,
+                4721,
+                2832,
+                5282
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-24_pna_sn84021918_0041421695A_1964012401_0274.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Presbyterian Church. 1923 E. Broadway was the\nscene Of Battle of the Choirs Sum-, JAM l9.\n\n\nMembers church choir shown in the first photo\ngraph.\n\n\nFrom Smith, Eddie Johnson Willie Mae\nForeman, Warren, Hazel Williams and Teresa Ward\n\n\nparticipating the Choraers OF First nsu-\nBaptist the Church of the Living Cod PCT",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2027,
+                    "y0": 4160,
+                    "x1": 3716,
+                    "y1": 4658
+                }
+            ],
+            "bbox": [
+                2027,
+                4160,
+                3716,
+                4658
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-01-24_pna_sn84021918_0041421695A_1964012401_0274.json"
+        }
+    ]
+}

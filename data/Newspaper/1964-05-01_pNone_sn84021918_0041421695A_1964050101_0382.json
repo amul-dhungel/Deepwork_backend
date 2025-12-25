@@ -1,0 +1,377 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-01",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7428,
+        "width": 4937,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-01",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050101/0382.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3031,
+                "y0": 2141,
+                "x1": 4715,
+                "y1": 4510
+            },
+            "class": "article",
+            "raw_text": "McCune Smith New York City and attended\n\n\nAfrican Free School, established by the New York\nManumsion Society in 1897 He attending that school when\nLafayette his last America in 1924 When the General\narrived boy eleven years old delivered the welcome address,\nTha\n\n\nyoung wanted study medicine unable study in this\ncountry University Glasgow Scotland where he\nHe New York in 1887\nhis the capacity Of both physician and\nefficiently that large practice resulted\nenabling him apohecary shops Dr. Smith became\nconsiderable wealth and he helped the\nColored Orphan Asylum\n\n\nrecognized by the white physicians and men of\n1882 nominated the\nfor the Statistic Institute OF which ne\nIn this circle he able participate\ndiscussions before the body and often read\nshowing unusual scholarship. Ri III\n\n\nthe anavery discussion which no inteli-\nthat day could He nevertheless could speak\nscientifically could other Negro of his time On\ncalled debate with opponent the\nthe nerori of the Negro the discussion lasting sew\nevenings Basng his 1.-The Comparative Anatomy\nRaces DR.. Smith trumphed his anogan1s In 1910\nhe Influence of Climate Longevity with Special\nThis John c. Calhoun\nunfavorable dsquisiton on the Negro.\n\n\nSmiths there other Negro physicians like Dr.\nTaylor and Dr. Fleet educated in the District OF Columbia\nNew York. Dr. Thomas White OF Brooklyn\nAugusta product the University OF Toronto\nrestricted themselves things professional rather than\n90 into scientific meaning of things William wells\nBrown Deny likewise the scene before\nDR., Smith terefrom and made scientific attempts\nbut this sphere the level Of Dr. James McCune\nSmith.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3043,
+                "y0": 1915,
+                "x1": 4396,
+                "y1": 2119
+            },
+            "class": "headline",
+            "raw_text": "NEGRO HISTORY NOTES\nDr.. james McCUne SIN 18th",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3019,
+                "y0": 980,
+                "x1": 4692,
+                "y1": 1875
+            },
+            "class": "article",
+            "raw_text": "Saturday, May 2nd the second youth employment seminar\nsponsored jointly the Arizona State Employment Service and\nthe Phoenix Urban League.\n\n\nheld\napplication. Interview technqes personality\nwill be discussed.\n\n\nlarge Of high school students should attend this work.\nshop which scheduled First Congregational Church. l407\nN. Second ST. noon to pm.\n\n\nyear and high school students unable\nfind part time work full time jobs because they i'll equipped\npoorly prepared This effort by the employment service\nUrban League be profitable it supported.\n\n\nurge all young persons ofhg school attend this workshop\nmay pay off earlier than",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3536,
+                "y0": 319,
+                "x1": 4535,
+                "y1": 772
+            },
+            "class": "headline",
+            "raw_text": "pREvIEws\nMO REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3762,
+                "y0": 684,
+                "x1": 4280,
+                "y1": 767
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3031,
+                "y0": 841,
+                "x1": 4268,
+                "y1": 958
+            },
+            "class": "headline",
+            "raw_text": "Youth Needed At Wo rkshop",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2149,
+                "y0": 6749,
+                "x1": 2962,
+                "y1": 7057
+            },
+            "class": "article",
+            "raw_text": "There we're o84,525 mobile\nhomes registered In the United\nStates.\n\n\nThere are 3.6 million miles Of\nroads In the United States.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2097,
+                "y0": 661,
+                "x1": 2945,
+                "y1": 6210
+            },
+            "class": "article",
+            "raw_text": "For the next four weeks, | will\nbe unable to use our washer\nuntil our addition to the house\nis completed.\n\n\nFor the past two Sundays\nhave been bundling our dirty\nclothes in plastic wastebaskets\nand one clothes basket and visit\ning the laundromat nearby.\n\n\nSundays are the best time to\ngo to the laundromat. There are\nfewer patrons and less deter\ngents and washing solutions to\ncause me discomfort.\n\n\nAll went we'll during my first\ntrip. The three tubs washed our\nclothes in the usual halfhour per-\niod. the huge dryer did its job,\nexcept for cotton throw rug.\n\n\nLast Sunday, armed with a\nsmall brown bag containing my\nmeasure of washing powder and\nconditioner, l hoped in my car\nand drove to the corner laun-\ndromat.\n\n\n1t was bright day. The sky\nwas clear and the washers we're\nopen and empty. placed our\nweeks soiled clothing in three\nfront machines. | started each one\nand sat down with a magazine.\nThe machines whirred and filled.\nNothing seemed wrong.\n\n\nIn less than a half hour the\nfirst machine completed its cycle\nand took the camp clothes from\nit and placed them in the dryer.\nleft the dryer door open be-\ncause knew the other two ma\nchimes would be finished in less\nthan five minutes.\n\n\n| sat down and resumed my\nreading. The machines whirred\nand filled, the red lights con-\ntinued to shine, the machines\nbegan to spin. | merely waited\nfor them to stop. Soon-soon-l\nThoughtful these two machines will\nstop.\n\n\n| waited and waited. The ma\nchimes whirred and filled again.\nThe red lights continued to shine\nlike some Cyclops staring up\nward. The white machines held\nour clothes within their grasp\nand watched helplessly.\n\n\nAnother ten minutes passed.\nThe lavender clock on the wall\nmade no sounds, but the hands\nmoved quickly as counted the\nminutes.\n\n\nThe dryer stood open waiting\nfor more clothes and ! debated\nwhether to push the emergency\nbutton or not. | decided to walt\nand see how long these machines\nwould continue their hayward\nways.\n\n\nAnother woman entered the\nplace, she had several large\nbundles of clothes. told her\nhow long l had been waiting for\nthe machines to halt. She said\nnotice on one machine on that\nside said, \"Out of order, will\nnot stop spinning\"\n\n\n| jumped up ready to push the\nemergency button on the two\nmachines. They stopped as If by\na pre-arranged signal. | grabbed\nmy clothes and hurriedly put them\nin the dryer.\n\n\nWhile watching the clothes\ntumble in the dryer l thought of\none of those science fiction NOV\nles which depicts machines be-\ncoming the rulers of the earth.\n\n\nFor one hour | was the captive\nof two automatic washers. What\nwould happen if all of the ma\nchimes we use daily would sudden\nly 60 haywire7 shudder at the\nthought\n\n\nHere is one small vote against",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2126,
+                "y0": 255,
+                "x1": 2916,
+                "y1": 476
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nELOISE BANKS",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2155,
+                "y0": 499,
+                "x1": 2881,
+                "y1": 587
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 321,
+                "y0": 2094,
+                "x1": 2063,
+                "y1": 4637
+            },
+            "class": "article",
+            "raw_text": "IN several ONTLS \" our CONWFV ~ttO|\"~I\nchurch bodies are finally beginning to make\nsome positive steps toward recognizing they\nhaze part to play in the Negroes struggle to\ngain equal rights.\n\n\nis true that many churches and church\norganizations haze aided the Negro in the\nUnited States, some since the days Of slavery.\nBut, too fen church groups haze allowed them\nSelUeS to become more iaUOlUed in the Negroes\nwoYMly existence excebttOY establishing ms\nsion type segregated schools and supporting\nmission type segregated churches.\n\n\nToday, there is a move W5thln the governing\ngroups of certain national clauY oh bodies to\nintegyate at long last. Initial steps such as\nplacing Negroes on church councils and bOaTds\nhaze been made.\n\n\n! Several churches h0Ue announced that they\nsUelc0nae all persons to their services, but\nfar reaching announce ment by the heads OF\nthe churches has not been he0Td\n\n\nTYaditionally, the Negro churches OF ceT-\ntain denominations, Including those IN the\nNorth and South, haze divided into segTe-\ngated division regardless Of geographical\nboundaries.\n\n\n1.-THE spirit Of equality is to brevade our\nlives then, surely the clsuy cheS must accept\ngreater share Of esb0nSibihty.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 565,
+                "y0": 1845,
+                "x1": 1732,
+                "y1": 2008
+            },
+            "class": "headline",
+            "raw_text": "CHURCHES AWAKEN",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964050101_0382",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                0
+            ],
+            "headline": "NEGRO HISTORY NOTES\nDr.. james McCUne SIN 18th",
+            "article": "McCune Smith New York City and attended\n\n\nAfrican Free School, established by the New York\nManumsion Society in 1897 He attending that school when\nLafayette his last America in 1924 When the General\narrived boy eleven years old delivered the welcome address,\nTha\n\n\nyoung wanted study medicine unable study in this\ncountry University Glasgow Scotland where he\nHe New York in 1887\nhis the capacity Of both physician and\nefficiently that large practice resulted\nenabling him apohecary shops Dr. Smith became\nconsiderable wealth and he helped the\nColored Orphan Asylum\n\n\nrecognized by the white physicians and men of\n1882 nominated the\nfor the Statistic Institute OF which ne\nIn this circle he able participate\ndiscussions before the body and often read\nshowing unusual scholarship. Ri III\n\n\nthe anavery discussion which no inteli-\nthat day could He nevertheless could speak\nscientifically could other Negro of his time On\ncalled debate with opponent the\nthe nerori of the Negro the discussion lasting sew\nevenings Basng his 1.-The Comparative Anatomy\nRaces DR.. Smith trumphed his anogan1s In 1910\nhe Influence of Climate Longevity with Special\nThis John c. Calhoun\nunfavorable dsquisiton on the Negro.\n\n\nSmiths there other Negro physicians like Dr.\nTaylor and Dr. Fleet educated in the District OF Columbia\nNew York. Dr. Thomas White OF Brooklyn\nAugusta product the University OF Toronto\nrestricted themselves things professional rather than\n90 into scientific meaning of things William wells\nBrown Deny likewise the scene before\nDR., Smith terefrom and made scientific attempts\nbut this sphere the level Of Dr. James McCune\nSmith.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3043,
+                    "y0": 1915,
+                    "x1": 4396,
+                    "y1": 2119
+                },
+                {
+                    "x0": 3031,
+                    "y0": 2141,
+                    "x1": 4715,
+                    "y1": 4510
+                }
+            ],
+            "bbox": [
+                3031,
+                1915,
+                4715,
+                4510
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-05-01_pna_sn84021918_0041421695A_1964050101_0382.json"
+        },
+        {
+            "object_ids": [
+                10,
+                17,
+                9,
+                2
+            ],
+            "headline": "pREvIEws\nMO REVIEWS\n\n\nEdward Banks\n\nYouth Needed At Wo rkshop",
+            "article": "Saturday, May 2nd the second youth employment seminar\nsponsored jointly the Arizona State Employment Service and\nthe Phoenix Urban League.\n\n\nheld\napplication. Interview technqes personality\nwill be discussed.\n\n\nlarge Of high school students should attend this work.\nshop which scheduled First Congregational Church. l407\nN. Second ST. noon to pm.\n\n\nyear and high school students unable\nfind part time work full time jobs because they i'll equipped\npoorly prepared This effort by the employment service\nUrban League be profitable it supported.\n\n\nurge all young persons ofhg school attend this workshop\nmay pay off earlier than",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3536,
+                    "y0": 319,
+                    "x1": 4535,
+                    "y1": 772
+                },
+                {
+                    "x0": 3762,
+                    "y0": 684,
+                    "x1": 4280,
+                    "y1": 767
+                },
+                {
+                    "x0": 3031,
+                    "y0": 841,
+                    "x1": 4268,
+                    "y1": 958
+                },
+                {
+                    "x0": 3019,
+                    "y0": 980,
+                    "x1": 4692,
+                    "y1": 1875
+                }
+            ],
+            "bbox": [
+                3019,
+                319,
+                4692,
+                1875
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-01_pna_sn84021918_0041421695A_1964050101_0382.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "There we're o84,525 mobile\nhomes registered In the United\nStates.\n\n\nThere are 3.6 million miles Of\nroads In the United States.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2149,
+                    "y0": 6749,
+                    "x1": 2962,
+                    "y1": 7057
+                }
+            ],
+            "bbox": [
+                2149,
+                6749,
+                2962,
+                7057
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-01_pna_sn84021918_0041421695A_1964050101_0382.json"
+        },
+        {
+            "object_ids": [
+                8,
+                11,
+                6
+            ],
+            "headline": "Siqhts and Sounds\nELOISE BANKS\n\n",
+            "article": "For the next four weeks, | will\nbe unable to use our washer\nuntil our addition to the house\nis completed.\n\n\nFor the past two Sundays\nhave been bundling our dirty\nclothes in plastic wastebaskets\nand one clothes basket and visit\ning the laundromat nearby.\n\n\nSundays are the best time to\ngo to the laundromat. There are\nfewer patrons and less deter\ngents and washing solutions to\ncause me discomfort.\n\n\nAll went we'll during my first\ntrip. The three tubs washed our\nclothes in the usual halfhour per-\niod. the huge dryer did its job,\nexcept for cotton throw rug.\n\n\nLast Sunday, armed with a\nsmall brown bag containing my\nmeasure of washing powder and\nconditioner, l hoped in my car\nand drove to the corner laun-\ndromat.\n\n\n1t was bright day. The sky\nwas clear and the washers we're\nopen and empty. placed our\nweeks soiled clothing in three\nfront machines. | started each one\nand sat down with a magazine.\nThe machines whirred and filled.\nNothing seemed wrong.\n\n\nIn less than a half hour the\nfirst machine completed its cycle\nand took the camp clothes from\nit and placed them in the dryer.\nleft the dryer door open be-\ncause knew the other two ma\nchimes would be finished in less\nthan five minutes.\n\n\n| sat down and resumed my\nreading. The machines whirred\nand filled, the red lights con-\ntinued to shine, the machines\nbegan to spin. | merely waited\nfor them to stop. Soon-soon-l\nThoughtful these two machines will\nstop.\n\n\n| waited and waited. The ma\nchimes whirred and filled again.\nThe red lights continued to shine\nlike some Cyclops staring up\nward. The white machines held\nour clothes within their grasp\nand watched helplessly.\n\n\nAnother ten minutes passed.\nThe lavender clock on the wall\nmade no sounds, but the hands\nmoved quickly as counted the\nminutes.\n\n\nThe dryer stood open waiting\nfor more clothes and ! debated\nwhether to push the emergency\nbutton or not. | decided to walt\nand see how long these machines\nwould continue their hayward\nways.\n\n\nAnother woman entered the\nplace, she had several large\nbundles of clothes. told her\nhow long l had been waiting for\nthe machines to halt. She said\nnotice on one machine on that\nside said, \"Out of order, will\nnot stop spinning\"\n\n\n| jumped up ready to push the\nemergency button on the two\nmachines. They stopped as If by\na pre-arranged signal. | grabbed\nmy clothes and hurriedly put them\nin the dryer.\n\n\nWhile watching the clothes\ntumble in the dryer l thought of\none of those science fiction NOV\nles which depicts machines be-\ncoming the rulers of the earth.\n\n\nFor one hour | was the captive\nof two automatic washers. What\nwould happen if all of the ma\nchimes we use daily would sudden\nly 60 haywire7 shudder at the\nthought\n\n\nHere is one small vote against",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2126,
+                    "y0": 255,
+                    "x1": 2916,
+                    "y1": 476
+                },
+                {
+                    "x0": 2155,
+                    "y0": 499,
+                    "x1": 2881,
+                    "y1": 587
+                },
+                {
+                    "x0": 2097,
+                    "y0": 661,
+                    "x1": 2945,
+                    "y1": 6210
+                }
+            ],
+            "bbox": [
+                2097,
+                255,
+                2945,
+                6210
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-01_pna_sn84021918_0041421695A_1964050101_0382.json"
+        },
+        {
+            "object_ids": [
+                14,
+                12
+            ],
+            "headline": "CHURCHES AWAKEN",
+            "article": "IN several ONTLS \" our CONWFV ~ttO|\"~I\nchurch bodies are finally beginning to make\nsome positive steps toward recognizing they\nhaze part to play in the Negroes struggle to\ngain equal rights.\n\n\nis true that many churches and church\norganizations haze aided the Negro in the\nUnited States, some since the days Of slavery.\nBut, too fen church groups haze allowed them\nSelUeS to become more iaUOlUed in the Negroes\nwoYMly existence excebttOY establishing ms\nsion type segregated schools and supporting\nmission type segregated churches.\n\n\nToday, there is a move W5thln the governing\ngroups of certain national clauY oh bodies to\nintegyate at long last. Initial steps such as\nplacing Negroes on church councils and bOaTds\nhaze been made.\n\n\n! Several churches h0Ue announced that they\nsUelc0nae all persons to their services, but\nfar reaching announce ment by the heads OF\nthe churches has not been he0Td\n\n\nTYaditionally, the Negro churches OF ceT-\ntain denominations, Including those IN the\nNorth and South, haze divided into segTe-\ngated division regardless Of geographical\nboundaries.\n\n\n1.-THE spirit Of equality is to brevade our\nlives then, surely the clsuy cheS must accept\ngreater share Of esb0nSibihty.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 565,
+                    "y0": 1845,
+                    "x1": 1732,
+                    "y1": 2008
+                },
+                {
+                    "x0": 321,
+                    "y0": 2094,
+                    "x1": 2063,
+                    "y1": 4637
+                }
+            ],
+            "bbox": [
+                321,
+                1845,
+                2063,
+                4637
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-05-01_pna_sn84021918_0041421695A_1964050101_0382.json"
+        }
+    ]
+}

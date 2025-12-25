@@ -1,0 +1,720 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7397,
+        "width": 4833,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-17",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011701/0266.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2023,
+                "y0": 1901,
+                "x1": 2856,
+                "y1": 4629
+            },
+            "class": "article",
+            "raw_text": "The national report of the task\nforce on Man Power Conserva-\nton made it's final report to\nPresident Lyndon B. Johnson. 1t\nwas entitled, \"One-Third OF\nNation\" which gave findings on\nYoung men who were unqualified\nfor military service.\n\n\nThe report concluded that one\nthird of all the young men in our\ncountry turning l0 would be found\nunqualified If they were examined\nfor the armed forces. One Of\nevery two selective service re-\ngistrants called for pre-induc-\nton examinations Is now undual-\nflied. The majority Of the re-\niectees were caused by made\nouate education and to a lesser\ndegree insufficient medical care.\nThese same young men face a\nlifetime of recurrent unemploy-\nment.\n\n\nRates of mental tests failures\nfor whites and Negroes showed\nwide variations. Nationally, So\nper cent of the Negroes who had\npre-inductions examinations in\n1862 failed the tests, as COM\npared to Is per cent of the white.\n\n\nNegro rejection rates in some\nkof the western states. were less\nthan one-half of the national av-\nerage for Negroes, and we're only\nslightly above the rejection rates\nfor white registrants in certain\nnortheastern states.\n\n\nFour out Of five rejectees were\nschool dropouts, nearly one half\nhad left school before II. FL\nnancial reasons were greater\namong nonwhites than whites.\n\n\nThree out of 10 rejectees\nwe're unemployed. More than four\nof every five rejectees wanted\njob training.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2000,
+                "y0": 1710,
+                "x1": 2683,
+                "y1": 1867
+            },
+            "class": "headline",
+            "raw_text": "REJECTEES\nHIGH AMONG MEN",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2913,
+                "y0": 3588,
+                "x1": 3740,
+                "y1": 4843
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON-Swedish econo-\nmist Gunnar Myrdal advises the\nAmerican people to cut taxes and\nexpand government spending.\n\n\nDR.. Myrdal, whose research\nstudy on American Negroes, IAN\nAmerican Dilemma\" served as\na focal point Of many further\nstudies in the early 40 8, said\nthe II billion dollar tax cut would\nhelp the nation fight poverty.\nThe noted writer said Negroes\nshould have equality $50 far as\nthe law is concerned\" and pre-\ndicted they will have 1t within\nten years.\n\n\nHe added that preferential hir-\ning Of Negroes would be wrong.\nMyrdal said, Negroes are not\nalone, there are porr whites\nall over the place.\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2919,
+                "y0": 3345,
+                "x1": 3567,
+                "y1": 3572
+            },
+            "class": "headline",
+            "raw_text": "MYRDAL TELLS\nu. TO EXPAND\nSERVICES",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1116,
+                "y0": 2814,
+                "x1": 1943,
+                "y1": 4069
+            },
+            "class": "article",
+            "raw_text": "LTIMORE = Hank Aaron,\nsmuggling ballplayer of the Mil\nwaukee Braves, was presented\nwith a Sultan of Swat crown for\n1868. He tied with Willie Nc\nCovey of San Francisco for home\nrun honors in the major leagues\nlast season. Each hit \"A.\n\n\nHank received 5000 cash\naward with the crown. He was un-\nable to attend the 18th annual Tops\nin Sports banquet because Of the\nheavy snowstorms.\n\n\nJoe DiMaggio, a former Yankee\nstar, also received a crown for\nhis hitting deeds In 1899.\n\n\nOthers who have won the awards\ninclude Mickey Mantle, Ted Will\nliams, Ernie Banks, Eddie Math-\news, Roger Maris. and Willie\nMays.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1110,
+                "y0": 2479,
+                "x1": 1810,
+                "y1": 2786
+            },
+            "class": "headline",
+            "raw_text": "HANK AARON\nGETS KING OF\nSWAT CROWN AND\nPURSE OF So, 900",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 203,
+                "y0": 2658,
+                "x1": 1042,
+                "y1": 4265
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The general fund\nincome of the National Associa-\nton for the Advancement Of\nColored People was $l,5l3-\n$500 in 1868. a 27.3 per cent\nincrease over ST. .06o, l04.3O re-\nceived by the Associations ma\ntional general fund in 1862.\n\n\nThis report of NAACP trea-\nsurer, Alfred Baker Lewis, was\ngiven at the annual NAACP meet\ning here. Jan. 6.\n\n\nIn addition, life membership\ncommittee, reached an all-time\nhigh Of $334,883.00. Another\n$88, $3.50 was received in requests.\n\n\nOperating expenses exclusive\nof bail bond money! amounted to\n$1.576,146.00, leaving a deficit\nof $62,493.Oo, a sharp reduc-\nton from the 1862 deficit of\n$244,387.73. AS in former years.\nthe deficit will be met by trans\nfer of money from the life mem\nbership fund over and above the\nannual appointments from this\nsource.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 197,
+                "y0": 2421,
+                "x1": 1019,
+                "y1": 2636
+            },
+            "class": "headline",
+            "raw_text": "NAACP GENERAL\n\n\nFUND RECEIVED OVER\nA MILLION AND HALF",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2907,
+                "y0": 1930,
+                "x1": 3735,
+                "y1": 3312
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Negro lawyer Leon\nHigginbotham, Jr. has been\nnamed one of \"America's Ten\nOutstanding Young Men, by the\nUnited States Junior Chamber Of\nCommerce.\n\n\nThe selections we're announced\nthis week in Look Magazine.\n\n\nHigginbotham, who won this\nhonor out of a field Of 200\ntop candidates, \"was \"a when\nPresident Kennedy nominated\nhim for the Federal Trade Com\nmission\" Look said. \"He be-\ncame the youngest man ever ap-\npointed to that body and the first\nNegro commissioner Of a Federal\nregulatory agency\"\n\n\nHigginbotham believes: enc\ngroes have an obligation to foster\nmaximum motivations among\nyoung people to develop their\npotential\"",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2907,
+                "y0": 1652,
+                "x1": 3723,
+                "y1": 1931
+            },
+            "class": "headline",
+            "raw_text": "LAWYER CITED AS\nIOF 10 OUTSTANDING\nMEN BY S. JR.\n\n\nCHAMBER COMMERCE",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2017,
+                "y0": 4900,
+                "x1": 2845,
+                "y1": 5375
+            },
+            "class": "article",
+            "raw_text": "NEW YORK - Emile Griffith,\nwelterweight champion, a New\nYorker, from the Virgin Islands,\nwas awarded the E. ]. Mcneil\nMemorial Plaque as the Boxing\nWriter'S Assn. Fighter of the\nYear. He also received a scroll\nfrom his native country.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2029,
+                "y0": 4727,
+                "x1": 2804,
+                "y1": 4878
+            },
+            "class": "headline",
+            "raw_text": "GRIFFITH\nIS FIGHTER OF YEAR",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 33,
+            "bbox": {
+                "x0": 4889,
+                "y0": 375,
+                "x1": 6121,
+                "y1": 5548
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 34,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 1122,
+                "y0": 4311,
+                "x1": 1943,
+                "y1": 4612
+            },
+            "class": "article",
+            "raw_text": "A Woman's Day program di-\nrected by Mrs. Herman Mathews,\nwill be held at Bethel Methodist\nChurch, Sum-, Jan. l9, Bpm. The\npublic Is invited.",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1122,
+                "y0": 4120,
+                "x1": 1735,
+                "y1": 4283
+            },
+            "class": "headline",
+            "raw_text": "WOMAN'S DAY\n\n\nSET AT BETHEL",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": -1
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3791,
+                "y0": 4571,
+                "x1": 4630,
+                "y1": 4803
+            },
+            "class": "article",
+            "raw_text": "To prevent water from dripping\non floor or furniture, rub soap\nunder the spout of an indoor\nsprinkling can.",
+            "legibility": "Legible",
+            "full_article_id": 16,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 191,
+                "y0": 1658,
+                "x1": 1908,
+                "y1": 2399
+            },
+            "class": "article",
+            "raw_text": "Joint installation held by the VIM Patterson Lodge\nAt and the Temple 49, IBPOEW at 1907 So\nSeventh Ave. in the lodge hall, Tues, JAM A.\n\n\nLodge shown in top photograph Included are MOTIFS\nWoods Eldrdge Hughes Sube Isaiah Ward David Nc\nClamy Kennedy Wallace Croomes apalee Harrison Oha\nCrimes Ebert CAN'T Donald Lorey Charles Williams\nand S. L. Carr\n\n\nTemple the second picture are Ruby Backshear ger\ntrde Clements Wheeler Maple L. Pratt Maeare Alexander\nNina Burton Syb Essie Richie Deha Jefferson Esther\nMcElroy Epperson Mary Thompson and Leusa Moss",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 208,
+                "y0": 4403,
+                "x1": 1030,
+                "y1": 4595
+            },
+            "class": "article",
+            "raw_text": "The commonest name In the\nworld is Mohammed, which can\nbe spelled in a variety of ways.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 220,
+                "y0": 4305,
+                "x1": 828,
+                "y1": 4387
+            },
+            "class": "headline",
+            "raw_text": "DID YOU KNOW ?",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3797,
+                "y0": 2120,
+                "x1": 4630,
+                "y1": 4502
+            },
+            "class": "article",
+            "raw_text": "To cut grocery-shopping time,\nmake out your grocery lists in the\norder items appear on the super\nmarket shelves. Your husband\nwill love you for it any time he\nhas to do the buying.\n\n\nDon't throw out that leftover\npancake batter. Trimmed with a\nlittle milk, it makes an excellent\nbatter for French toast. And it's\ngood for dipping chops, outlets\nand other foods that are to be\nfried in deep fat.\n\n\nHomes with hot water or steam\nheating usually enjoy pleasant,\neven heat. But there's a danger.\nMinerals in hard water acceler-\nate rusting of pipes, radiators\nand the heater or boiler. The re-\nsuit: expensive repairs. Installa-\nUlOIl u SO1O WdCC1 WILL oOANO NAA~'\nproblem, says The Lindsay Com\npany, st. Paul, Mimi, a water\nconditioner manufacturer. Mean\nwhile, change the water frequent\nly to carry off at least some OF the\ncorrosive scale.\n\n\nIl II II\n\n\nTired of rummaging through\nhat boxes to find the hat you want\nto wear? Then cut two-inch\nwide slot down the side of the box\nand cover it from the inside with\ncellophane or other transparent\nmaterial. 1t makes perfect win\ndow through which to view the\ncontents.\n\n\nTip to the budget-wise shop\nper: Small oranges yield more\nJuice for your money than the\nlarger ones.",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 3930,
+                "y0": 1727,
+                "x1": 4330,
+                "y1": 1965
+            },
+            "class": "headline",
+            "raw_text": "!; = For\n\n\nwomen\n!. O111y..",
+            "legibility": "Legible",
+            "full_article_id": 25,
+            "reading_order_id": -2
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 4051,
+                "y0": 1982,
+                "x1": 4469,
+                "y1": 2029
+            },
+            "class": "author",
+            "raw_text": "BY LiNpA SCOTT",
+            "legibility": "Questionable",
+            "full_article_id": 25,
+            "reading_order_id": -1
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 3820,
+                "y0": 4293,
+                "x1": 4636,
+                "y1": 4514
+            },
+            "class": "article",
+            "raw_text": "TIP to the budget-wise shop\nper: Small oranges yield more\nJuice for your money than the\nlarger ones.",
+            "legibility": "Legible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964011701_0266",
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                0
+            ],
+            "headline": "REJECTEES\nHIGH AMONG MEN",
+            "article": "The national report of the task\nforce on Man Power Conserva-\nton made it's final report to\nPresident Lyndon B. Johnson. 1t\nwas entitled, \"One-Third OF\nNation\" which gave findings on\nYoung men who were unqualified\nfor military service.\n\n\nThe report concluded that one\nthird of all the young men in our\ncountry turning l0 would be found\nunqualified If they were examined\nfor the armed forces. One Of\nevery two selective service re-\ngistrants called for pre-induc-\nton examinations Is now undual-\nflied. The majority Of the re-\niectees were caused by made\nouate education and to a lesser\ndegree insufficient medical care.\nThese same young men face a\nlifetime of recurrent unemploy-\nment.\n\n\nRates of mental tests failures\nfor whites and Negroes showed\nwide variations. Nationally, So\nper cent of the Negroes who had\npre-inductions examinations in\n1862 failed the tests, as COM\npared to Is per cent of the white.\n\n\nNegro rejection rates in some\nkof the western states. were less\nthan one-half of the national av-\nerage for Negroes, and we're only\nslightly above the rejection rates\nfor white registrants in certain\nnortheastern states.\n\n\nFour out Of five rejectees were\nschool dropouts, nearly one half\nhad left school before II. FL\nnancial reasons were greater\namong nonwhites than whites.\n\n\nThree out of 10 rejectees\nwe're unemployed. More than four\nof every five rejectees wanted\njob training.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2000,
+                    "y0": 1710,
+                    "x1": 2683,
+                    "y1": 1867
+                },
+                {
+                    "x0": 2023,
+                    "y0": 1901,
+                    "x1": 2856,
+                    "y1": 4629
+                }
+            ],
+            "bbox": [
+                2000,
+                1710,
+                2856,
+                4629
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                8,
+                1
+            ],
+            "headline": "MYRDAL TELLS\nu. TO EXPAND\nSERVICES",
+            "article": "WASHINGTON-Swedish econo-\nmist Gunnar Myrdal advises the\nAmerican people to cut taxes and\nexpand government spending.\n\n\nDR.. Myrdal, whose research\nstudy on American Negroes, IAN\nAmerican Dilemma\" served as\na focal point Of many further\nstudies in the early 40 8, said\nthe II billion dollar tax cut would\nhelp the nation fight poverty.\nThe noted writer said Negroes\nshould have equality $50 far as\nthe law is concerned\" and pre-\ndicted they will have 1t within\nten years.\n\n\nHe added that preferential hir-\ning Of Negroes would be wrong.\nMyrdal said, Negroes are not\nalone, there are porr whites\nall over the place.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2919,
+                    "y0": 3345,
+                    "x1": 3567,
+                    "y1": 3572
+                },
+                {
+                    "x0": 2913,
+                    "y0": 3588,
+                    "x1": 3740,
+                    "y1": 4843
+                }
+            ],
+            "bbox": [
+                2913,
+                3345,
+                3740,
+                4843
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                7,
+                2
+            ],
+            "headline": "HANK AARON\nGETS KING OF\nSWAT CROWN AND\nPURSE OF So, 900",
+            "article": "LTIMORE = Hank Aaron,\nsmuggling ballplayer of the Mil\nwaukee Braves, was presented\nwith a Sultan of Swat crown for\n1868. He tied with Willie Nc\nCovey of San Francisco for home\nrun honors in the major leagues\nlast season. Each hit \"A.\n\n\nHank received 5000 cash\naward with the crown. He was un-\nable to attend the 18th annual Tops\nin Sports banquet because Of the\nheavy snowstorms.\n\n\nJoe DiMaggio, a former Yankee\nstar, also received a crown for\nhis hitting deeds In 1899.\n\n\nOthers who have won the awards\ninclude Mickey Mantle, Ted Will\nliams, Ernie Banks, Eddie Math-\news, Roger Maris. and Willie\nMays.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1110,
+                    "y0": 2479,
+                    "x1": 1810,
+                    "y1": 2786
+                },
+                {
+                    "x0": 1116,
+                    "y0": 2814,
+                    "x1": 1943,
+                    "y1": 4069
+                }
+            ],
+            "bbox": [
+                1110,
+                2479,
+                1943,
+                4069
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                13,
+                3
+            ],
+            "headline": "NAACP GENERAL\n\n\nFUND RECEIVED OVER\nA MILLION AND HALF",
+            "article": "NEW YORK The general fund\nincome of the National Associa-\nton for the Advancement Of\nColored People was $l,5l3-\n$500 in 1868. a 27.3 per cent\nincrease over ST. .06o, l04.3O re-\nceived by the Associations ma\ntional general fund in 1862.\n\n\nThis report of NAACP trea-\nsurer, Alfred Baker Lewis, was\ngiven at the annual NAACP meet\ning here. Jan. 6.\n\n\nIn addition, life membership\ncommittee, reached an all-time\nhigh Of $334,883.00. Another\n$88, $3.50 was received in requests.\n\n\nOperating expenses exclusive\nof bail bond money! amounted to\n$1.576,146.00, leaving a deficit\nof $62,493.Oo, a sharp reduc-\nton from the 1862 deficit of\n$244,387.73. AS in former years.\nthe deficit will be met by trans\nfer of money from the life mem\nbership fund over and above the\nannual appointments from this\nsource.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 197,
+                    "y0": 2421,
+                    "x1": 1019,
+                    "y1": 2636
+                },
+                {
+                    "x0": 203,
+                    "y0": 2658,
+                    "x1": 1042,
+                    "y1": 4265
+                }
+            ],
+            "bbox": [
+                197,
+                2421,
+                1042,
+                4265
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                23,
+                4
+            ],
+            "headline": "LAWYER CITED AS\nIOF 10 OUTSTANDING\nMEN BY S. JR.\n\n\nCHAMBER COMMERCE",
+            "article": "NEW YORK = Negro lawyer Leon\nHigginbotham, Jr. has been\nnamed one of \"America's Ten\nOutstanding Young Men, by the\nUnited States Junior Chamber Of\nCommerce.\n\n\nThe selections we're announced\nthis week in Look Magazine.\n\n\nHigginbotham, who won this\nhonor out of a field Of 200\ntop candidates, \"was \"a when\nPresident Kennedy nominated\nhim for the Federal Trade Com\nmission\" Look said. \"He be-\ncame the youngest man ever ap-\npointed to that body and the first\nNegro commissioner Of a Federal\nregulatory agency\"\n\n\nHigginbotham believes: enc\ngroes have an obligation to foster\nmaximum motivations among\nyoung people to develop their\npotential\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2907,
+                    "y0": 1652,
+                    "x1": 3723,
+                    "y1": 1931
+                },
+                {
+                    "x0": 2907,
+                    "y0": 1930,
+                    "x1": 3735,
+                    "y1": 3312
+                }
+            ],
+            "bbox": [
+                2907,
+                1652,
+                3735,
+                3312
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                16,
+                5
+            ],
+            "headline": "GRIFFITH\nIS FIGHTER OF YEAR",
+            "article": "NEW YORK - Emile Griffith,\nwelterweight champion, a New\nYorker, from the Virgin Islands,\nwas awarded the E. ]. Mcneil\nMemorial Plaque as the Boxing\nWriter'S Assn. Fighter of the\nYear. He also received a scroll\nfrom his native country.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2029,
+                    "y0": 4727,
+                    "x1": 2804,
+                    "y1": 4878
+                },
+                {
+                    "x0": 2017,
+                    "y0": 4900,
+                    "x1": 2845,
+                    "y1": 5375
+                }
+            ],
+            "bbox": [
+                2017,
+                4727,
+                2845,
+                5375
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                14,
+                12
+            ],
+            "headline": "WOMAN'S DAY\n\n\nSET AT BETHEL",
+            "article": "A Woman's Day program di-\nrected by Mrs. Herman Mathews,\nwill be held at Bethel Methodist\nChurch, Sum-, Jan. l9, Bpm. The\npublic Is invited.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1122,
+                    "y0": 4120,
+                    "x1": 1735,
+                    "y1": 4283
+                },
+                {
+                    "x0": 1122,
+                    "y0": 4311,
+                    "x1": 1943,
+                    "y1": 4612
+                }
+            ],
+            "bbox": [
+                1122,
+                4120,
+                1943,
+                4612
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                15
+            ],
+            "headline": "",
+            "article": "To prevent water from dripping\non floor or furniture, rub soap\nunder the spout of an indoor\nsprinkling can.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3791,
+                    "y0": 4571,
+                    "x1": 4630,
+                    "y1": 4803
+                }
+            ],
+            "bbox": [
+                3791,
+                4571,
+                4630,
+                4803
+            ],
+            "full_article_id": 16,
+            "id": "16_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Joint installation held by the VIM Patterson Lodge\nAt and the Temple 49, IBPOEW at 1907 So\nSeventh Ave. in the lodge hall, Tues, JAM A.\n\n\nLodge shown in top photograph Included are MOTIFS\nWoods Eldrdge Hughes Sube Isaiah Ward David Nc\nClamy Kennedy Wallace Croomes apalee Harrison Oha\nCrimes Ebert CAN'T Donald Lorey Charles Williams\nand S. L. Carr\n\n\nTemple the second picture are Ruby Backshear ger\ntrde Clements Wheeler Maple L. Pratt Maeare Alexander\nNina Burton Syb Essie Richie Deha Jefferson Esther\nMcElroy Epperson Mary Thompson and Leusa Moss",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 191,
+                    "y0": 1658,
+                    "x1": 1908,
+                    "y1": 2399
+                }
+            ],
+            "bbox": [
+                191,
+                1658,
+                1908,
+                2399
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                25,
+                21
+            ],
+            "headline": "DID YOU KNOW ?",
+            "article": "The commonest name In the\nworld is Mohammed, which can\nbe spelled in a variety of ways.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 220,
+                    "y0": 4305,
+                    "x1": 828,
+                    "y1": 4387
+                },
+                {
+                    "x0": 208,
+                    "y0": 4403,
+                    "x1": 1030,
+                    "y1": 4595
+                }
+            ],
+            "bbox": [
+                208,
+                4305,
+                1030,
+                4595
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                22,
+                28,
+                24
+            ],
+            "headline": "!; = For\n\n\nwomen\n!. O111y..",
+            "article": "To cut grocery-shopping time,\nmake out your grocery lists in the\norder items appear on the super\nmarket shelves. Your husband\nwill love you for it any time he\nhas to do the buying.\n\n\nDon't throw out that leftover\npancake batter. Trimmed with a\nlittle milk, it makes an excellent\nbatter for French toast. And it's\ngood for dipping chops, outlets\nand other foods that are to be\nfried in deep fat.\n\n\nHomes with hot water or steam\nheating usually enjoy pleasant,\neven heat. But there's a danger.\nMinerals in hard water acceler-\nate rusting of pipes, radiators\nand the heater or boiler. The re-\nsuit: expensive repairs. Installa-\nUlOIl u SO1O WdCC1 WILL oOANO NAA~'\nproblem, says The Lindsay Com\npany, st. Paul, Mimi, a water\nconditioner manufacturer. Mean\nwhile, change the water frequent\nly to carry off at least some OF the\ncorrosive scale.\n\n\nIl II II\n\n\nTired of rummaging through\nhat boxes to find the hat you want\nto wear? Then cut two-inch\nwide slot down the side of the box\nand cover it from the inside with\ncellophane or other transparent\nmaterial. 1t makes perfect win\ndow through which to view the\ncontents.\n\n\nTip to the budget-wise shop\nper: Small oranges yield more\nJuice for your money than the\nlarger ones.",
+            "byline": "BY LiNpA SCOTT",
+            "bbox_list": [
+                {
+                    "x0": 3930,
+                    "y0": 1727,
+                    "x1": 4330,
+                    "y1": 1965
+                },
+                {
+                    "x0": 4051,
+                    "y0": 1982,
+                    "x1": 4469,
+                    "y1": 2029
+                },
+                {
+                    "x0": 3797,
+                    "y0": 2120,
+                    "x1": 4630,
+                    "y1": 4502
+                }
+            ],
+            "bbox": [
+                3797,
+                1727,
+                4630,
+                4502
+            ],
+            "full_article_id": 25,
+            "id": "25_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        },
+        {
+            "object_ids": [
+                27
+            ],
+            "headline": "",
+            "article": "TIP to the budget-wise shop\nper: Small oranges yield more\nJuice for your money than the\nlarger ones.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3820,
+                    "y0": 4293,
+                    "x1": 4636,
+                    "y1": 4514
+                }
+            ],
+            "bbox": [
+                3820,
+                4293,
+                4636,
+                4514
+            ],
+            "full_article_id": 28,
+            "id": "28_1964-01-17_pna_sn84021918_0041421695A_1964011701_0266.json"
+        }
+    ]
+}

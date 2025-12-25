@@ -1,0 +1,453 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-16",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7424,
+        "width": 4896,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-16",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964101601/0586.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2111,
+                "y0": 684,
+                "x1": 2947,
+                "y1": 2674
+            },
+            "class": "article",
+            "raw_text": "This week have been given\nbit more than a half of my regular\ncolumn to fill. For while\nthought l would compose some\nlyrical lines about Columbus or\nwrite some musings on National\nNewsboys Day.\n\n\nTry as ! might nothing\ncame our but some lame\nlimericks, SALUTE TO\nNEWS.#7 (Or verses to end the\nday..\n\n\n/. There was an old reporter/\nWho developed goiter/ From\neating cold cheese and beer/ He\nran down a story Scooping all\nothers, won glory/ Now he dimes\non steak.\n\n\n2. | met small. hungry waif\nselling/ Newspapers on the\nstreets/ He cried for a sale\ntelling Of the latest heroes and\nbeats/ He grew up, bought some\nmining stock/ Now he dimes on\ncaviar.\n\n\n8. Winken, Blinken, Elvis and\nNod/ Went out to sea on surf\nboat/ They sped past Cape Cody\nLater they capsized and had to\nfloat. Papers reported only\nBlinken could swim.\n\n\nMoral Some make the news,\nsome sell papers and others\ndrown.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2134,
+                "y0": 342,
+                "x1": 2918,
+                "y1": 650
+            },
+            "class": "headline",
+            "raw_text": "Siqhts and Sounds\nELolse BANKS\n\n\nPotpoUrri",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3016,
+                "y0": 2633,
+                "x1": 3841,
+                "y1": 3150
+            },
+            "class": "article",
+            "raw_text": "First President to return to G on\ngress after his Presidential\nterm John Quincy Adams. Gle\nserved in the House of Repre-\nsentatives for II years after\nbeing President. He Is the only\nPresident to have returned to\nCongress.)",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3010,
+                "y0": 1049,
+                "x1": 4705,
+                "y1": 2616
+            },
+            "class": "article",
+            "raw_text": "Last Wednesday addressed meeting Of executives Motooa\nIncorporated the human relations symposium\ntraced the historical development of employing minority groups\npresented many facts possible concerning\ntrends.\n\n\nvaluable information from summaries compiled by\nEmployment Service especially of Carl\nCraig minority conutant and the Phoenix Human Relations\nCommission headed by William Reilly\n\n\namazing that although the population increase in\nthe Greater Phoenix the decade 10000 estimated\nonly of the total is nonwhite including\nNegro Oriental and Indian.\n\n\nyear 1860 the turning point the employment picture,\nthat the when Negroes being hired in other\nJobs than service positions as teachers.\n\n\nopen here and businesses expandthere\nopportunities for of all creed and coors\nJobs avaablebut often qualified applicants\nthe responsibility Of teachers, minister's labor\nleaders, and other who reach STU\ninform them Of the opportunities in business and\nindustry.\n\n\nvocational technical guidance needed Unions must allow\nNegroes apprenticeship programs.\n\n\nContinued weekly",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3550,
+                "y0": 406,
+                "x1": 4525,
+                "y1": 847
+            },
+            "class": "headline",
+            "raw_text": "Views, PREvIEws\nMD Reviews\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -3
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3741,
+                "y0": 765,
+                "x1": 4281,
+                "y1": 847
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -2
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3033,
+                "y0": 922,
+                "x1": 4148,
+                "y1": 1027
+            },
+            "class": "headline",
+            "raw_text": "EmpIoym emf Changes Noted",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3927,
+                "y0": 2714,
+                "x1": 4693,
+                "y1": 3132
+            },
+            "class": "article",
+            "raw_text": "If you played Little League\nbaseball this summer, you had\nplenty of company. Some LIP\nmillion boys belonged to $4,000\nteams in 6,100 local leagues in\n26 countries. Looks like the\nmajors have plenty Of potential\ntalent on the way up.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3318,
+                "y0": 5405,
+                "x1": 4612,
+                "y1": 6491
+            },
+            "class": "article",
+            "raw_text": "There's nothing revolutionary about our method\nof getting business. We just follow the tlme-hon-\nored practice of coming right out and asking for 1t\n- and then thanking folks when they oblige us.\nOf course, it isn't quite as simple as that We 90\nhave a number of other things going for us. Like\nthe overwhelming preference of auto dealers. Fast\nloan approvals. Low bank rates. And friendly\nhelpful people, Oh, yes, and convenient locations\n~ If them at last count - with more on the way\nSo if one of the new 65 model cars has caught\nYOUR fancy, settle on the price, then tell your\ndealer YOU want Valley Bank financing! lhats\n\n\nall there is to it.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2546,
+                "y0": 5005,
+                "x1": 4212,
+                "y1": 5290
+            },
+            "class": "headline",
+            "raw_text": "Mr.. Valley Banker - -\ntallies the score to be 1 out OF A!",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 383,
+                "y0": 881,
+                "x1": 2008,
+                "y1": 1839
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, OBSERVATION-DISCLOSURES\n\n\nELOISE BANKS, ASSISTANT EDITOR\n\n\n10, 1888.\n\n\nTHURSDAY\n\n\n~ THE COMPANY INC\naIs7 27e-23o So 80 YR.\nMAIL ADDRESS o. $685. PHOENIX, ARiz' ssoAo\nSECOND POSTAGE PAID AT PHOENIX, ARIZONA\nAL THAT is NEEDED REMEDY THE EVILS OF our\nr,ure &c TO 20 JUSTICE FREEDOM.\nREPRESENTATIVE\nASSOCIATION AMAGeAMA'I ~ ros-'9'e\"9\nx",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 342,
+                "y0": 377,
+                "x1": 1955,
+                "y1": 812
+            },
+            "class": "headline",
+            "raw_text": "ArtzutmfaalGrthune\n\n\nIT,, ,flz ST. !, mls..u,r 49,",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -2
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 974,
+                "y0": 823,
+                "x1": 1503,
+                "y1": 899
+            },
+            "class": "author",
+            "raw_text": "?, NO. ID",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2511,
+                "y0": 5562,
+                "x1": 3266,
+                "y1": 6090
+            },
+            "class": "article",
+            "raw_text": "Every fourth new cor\nfinanced in Arizona\n\n\nis financed by\n\n\nthe Valley Bunk.\nNow read why!",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964101601_0586",
+    "full articles": [
+        {
+            "object_ids": [
+                2,
+                0
+            ],
+            "headline": "Siqhts and Sounds\nELolse BANKS\n\n\nPotpoUrri",
+            "article": "This week have been given\nbit more than a half of my regular\ncolumn to fill. For while\nthought l would compose some\nlyrical lines about Columbus or\nwrite some musings on National\nNewsboys Day.\n\n\nTry as ! might nothing\ncame our but some lame\nlimericks, SALUTE TO\nNEWS.#7 (Or verses to end the\nday..\n\n\n/. There was an old reporter/\nWho developed goiter/ From\neating cold cheese and beer/ He\nran down a story Scooping all\nothers, won glory/ Now he dimes\non steak.\n\n\n2. | met small. hungry waif\nselling/ Newspapers on the\nstreets/ He cried for a sale\ntelling Of the latest heroes and\nbeats/ He grew up, bought some\nmining stock/ Now he dimes on\ncaviar.\n\n\n8. Winken, Blinken, Elvis and\nNod/ Went out to sea on surf\nboat/ They sped past Cape Cody\nLater they capsized and had to\nfloat. Papers reported only\nBlinken could swim.\n\n\nMoral Some make the news,\nsome sell papers and others\ndrown.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2134,
+                    "y0": 342,
+                    "x1": 2918,
+                    "y1": 650
+                },
+                {
+                    "x0": 2111,
+                    "y0": 684,
+                    "x1": 2947,
+                    "y1": 2674
+                }
+            ],
+            "bbox": [
+                2111,
+                342,
+                2947,
+                2674
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-10-16_pna_sn84021918_0041421695A_1964101601_0586.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "First President to return to G on\ngress after his Presidential\nterm John Quincy Adams. Gle\nserved in the House of Repre-\nsentatives for II years after\nbeing President. He Is the only\nPresident to have returned to\nCongress.)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3016,
+                    "y0": 2633,
+                    "x1": 3841,
+                    "y1": 3150
+                }
+            ],
+            "bbox": [
+                3016,
+                2633,
+                3841,
+                3150
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-10-16_pna_sn84021918_0041421695A_1964101601_0586.json"
+        },
+        {
+            "object_ids": [
+                3,
+                20,
+                9,
+                6
+            ],
+            "headline": "Views, PREvIEws\nMD Reviews\n\n\nEdward Banks\n\nEmpIoym emf Changes Noted",
+            "article": "Last Wednesday addressed meeting Of executives Motooa\nIncorporated the human relations symposium\ntraced the historical development of employing minority groups\npresented many facts possible concerning\ntrends.\n\n\nvaluable information from summaries compiled by\nEmployment Service especially of Carl\nCraig minority conutant and the Phoenix Human Relations\nCommission headed by William Reilly\n\n\namazing that although the population increase in\nthe Greater Phoenix the decade 10000 estimated\nonly of the total is nonwhite including\nNegro Oriental and Indian.\n\n\nyear 1860 the turning point the employment picture,\nthat the when Negroes being hired in other\nJobs than service positions as teachers.\n\n\nopen here and businesses expandthere\nopportunities for of all creed and coors\nJobs avaablebut often qualified applicants\nthe responsibility Of teachers, minister's labor\nleaders, and other who reach STU\ninform them Of the opportunities in business and\nindustry.\n\n\nvocational technical guidance needed Unions must allow\nNegroes apprenticeship programs.\n\n\nContinued weekly",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3550,
+                    "y0": 406,
+                    "x1": 4525,
+                    "y1": 847
+                },
+                {
+                    "x0": 3741,
+                    "y0": 765,
+                    "x1": 4281,
+                    "y1": 847
+                },
+                {
+                    "x0": 3033,
+                    "y0": 922,
+                    "x1": 4148,
+                    "y1": 1027
+                },
+                {
+                    "x0": 3010,
+                    "y0": 1049,
+                    "x1": 4705,
+                    "y1": 2616
+                }
+            ],
+            "bbox": [
+                3010,
+                406,
+                4705,
+                2616
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-16_pna_sn84021918_0041421695A_1964101601_0586.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "If you played Little League\nbaseball this summer, you had\nplenty of company. Some LIP\nmillion boys belonged to $4,000\nteams in 6,100 local leagues in\n26 countries. Looks like the\nmajors have plenty Of potential\ntalent on the way up.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3927,
+                    "y0": 2714,
+                    "x1": 4693,
+                    "y1": 3132
+                }
+            ],
+            "bbox": [
+                3927,
+                2714,
+                4693,
+                3132
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-10-16_pna_sn84021918_0041421695A_1964101601_0586.json"
+        },
+        {
+            "object_ids": [
+                14,
+                17
+            ],
+            "headline": "Mr.. Valley Banker - -\ntallies the score to be 1 out OF A!",
+            "article": "There's nothing revolutionary about our method\nof getting business. We just follow the tlme-hon-\nored practice of coming right out and asking for 1t\n- and then thanking folks when they oblige us.\nOf course, it isn't quite as simple as that We 90\nhave a number of other things going for us. Like\nthe overwhelming preference of auto dealers. Fast\nloan approvals. Low bank rates. And friendly\nhelpful people, Oh, yes, and convenient locations\n~ If them at last count - with more on the way\nSo if one of the new 65 model cars has caught\nYOUR fancy, settle on the price, then tell your\ndealer YOU want Valley Bank financing! lhats\n\n\nall there is to it.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2546,
+                    "y0": 5005,
+                    "x1": 4212,
+                    "y1": 5290
+                },
+                {
+                    "x0": 3318,
+                    "y0": 5405,
+                    "x1": 4612,
+                    "y1": 6491
+                }
+            ],
+            "bbox": [
+                2546,
+                5005,
+                4612,
+                6491
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-10-16_pna_sn84021918_0041421695A_1964101601_0586.json"
+        },
+        {
+            "object_ids": [
+                12,
+                16,
+                18
+            ],
+            "headline": "ArtzutmfaalGrthune\n\n\nIT,, ,flz ST. !, mls..u,r 49,",
+            "article": "EDWARD BANKS, OBSERVATION-DISCLOSURES\n\n\nELOISE BANKS, ASSISTANT EDITOR\n\n\n10, 1888.\n\n\nTHURSDAY\n\n\n~ THE COMPANY INC\naIs7 27e-23o So 80 YR.\nMAIL ADDRESS o. $685. PHOENIX, ARiz' ssoAo\nSECOND POSTAGE PAID AT PHOENIX, ARIZONA\nAL THAT is NEEDED REMEDY THE EVILS OF our\nr,ure &c TO 20 JUSTICE FREEDOM.\nREPRESENTATIVE\nASSOCIATION AMAGeAMA'I ~ ros-'9'e\"9\nx",
+            "byline": "?, NO. ID",
+            "bbox_list": [
+                {
+                    "x0": 342,
+                    "y0": 377,
+                    "x1": 1955,
+                    "y1": 812
+                },
+                {
+                    "x0": 974,
+                    "y0": 823,
+                    "x1": 1503,
+                    "y1": 899
+                },
+                {
+                    "x0": 383,
+                    "y0": 881,
+                    "x1": 2008,
+                    "y1": 1839
+                }
+            ],
+            "bbox": [
+                342,
+                377,
+                2008,
+                1839
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-10-16_pna_sn84021918_0041421695A_1964101601_0586.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "Every fourth new cor\nfinanced in Arizona\n\n\nis financed by\n\n\nthe Valley Bunk.\nNow read why!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2511,
+                    "y0": 5562,
+                    "x1": 3266,
+                    "y1": 6090
+                }
+            ],
+            "bbox": [
+                2511,
+                5562,
+                3266,
+                6090
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-10-16_pna_sn84021918_0041421695A_1964101601_0586.json"
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964082101/0518.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4906
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2157,
+                "y0": 851,
+                "x1": 3004,
+                "y1": 6385
+            },
+            "class": "article",
+            "raw_text": "iginated the recipe for making\nice cream. Several countries\nclaim the honor, but an enter\nprising man In St. Louis, Mis-\nsouri, first served ice cream on\na cone. His experiment serving\nscoops of delicious ice cream on\nwafered cakes of cylindrical\nshape started an entirely newin-\ndustry. In fact two businesses\narose from his brainchild.\n\n\nIce cream plants grew and\nIce cream cone plants also be-\ngan. Today we have many kinds\nof ways to serve Ice cream, the\nsandwich, the cup, the popsicle\nand the sundae, however, none\nhas usurped the number one po-\nsition of the cone.\n\n\nIce cream making has come a\nlong way since the St. Louis Ex-\nposition days Of the past century\nwhen the cone made its debut.\nGone are the endless hours of\ncranking the handle on the anti\nquated freezer. Today, count\nless man hours are saved by\nmachines which produced thou\nsands of gallons of the tasty\ndessert. The favorite flavors\nmade for the discriminating taste\nof the millions of ice cream To-\nvers in the United States range\nfrom toffee to the all time favor\nlite vanilla.\n\n\nSherbets and ices are eaten\nmore, but no one will dispute\nthat vanilla, choc olate and straw\nberry remain the three top SELL\nerS In the ice cream business.\n\n\nl can see the pleasant days of\nmy childhood now--We would look\nforward to summer because that\nwas ice cream making time.\nAbout once a week the Ice cream\nfreezer would come out Of the\nbasement. We would have the\ncream and eggs ready. The bag\nof Ice cream salt would be open\nand the ice would be Clipped\nready to pack around the clumsy\nmachine.\n\n\nMy cousin Billie and | we're\ngiven the honors as expert turn\ners. We worked eagerly and\nefficiently, knowing that our re-\nward would be scraping the inside\nOf the cream holder.\n\n\n1t seemed an eternity before\nour arms cramped and the velvety\nIce cream was ready to be served.\nNo one had to be cajoled into TAX\nIng a second helping. There was\nalways beautiful yellow cake or\nwhite cake as the companion dish.\nSometimes we would have apple\npie with scoop of cream on the\nside.\n\n\nWhen was a wee girl, new\nice cream treat was devised. The\nEskimo Pie was the rage and the\noriginator Of the pie must have\nmade a million from the kids In\nmy neighborhood alone. The pie\nwas not a pie but we did not have\ntime to distinguish between pie\nor a non pie.\n\n\nThe Eskimo on the label made\nmany Of US believe that the parka\nwearing inhabitants Of the frigid\nzone ate Ice cream. We saved\nour sticks for prizes.\n\n\nDo you remember the pies7\nThey we're a rectangular piece Of\nvanilla Ice cream dipped In\nchocolate. Later a stick was\nadded, but eating the pie was\na challenge, especially when the\nmelting point had been reached.\n\n\nPopsicles we're excellent ways\nto get cool on a hot and humid\nHoosier summers day. The\npopsicle seemed cooler, even If\nmost of It dripped on the ground.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2169,
+                "y0": 411,
+                "x1": 2975,
+                "y1": 748
+            },
+            "class": "headline",
+            "raw_text": "Siq hts and Sounds\nELOtSE BANKS\nIce Cream Time",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3061,
+                "y0": 3047,
+                "x1": 3879,
+                "y1": 3923
+            },
+            "class": "article",
+            "raw_text": "Modern ice cream stores have\nmany refreshing containers of\nice cream wonders to satiate your\nappetite. If you haven visited an\nice cream store lately--get out\nand discover a different world of\nIce cream varieties made with\ndates, nuts, coffee, berries,\ncakes, candies and marshmal-\nlows. You can have Beatle-nut,\nSteverino, or even Daquiri fla\nvors.\n\n\nOur favorite here at 2l37 E.\nBroadway Road remains French\nvanilla. Vive la vanillal",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3072,
+                "y0": 2937,
+                "x1": 3357,
+                "y1": 3025
+            },
+            "class": "headline",
+            "raw_text": "SIGHTS",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3078,
+                "y0": 1158,
+                "x1": 4771,
+                "y1": 2921
+            },
+            "class": "article",
+            "raw_text": "Today Negroes living their retirement\nalthough the percentage still\nimportant.\n\n\nSince the majority of Negro workers employed\nskilled and semised fields retirement\nplans are of lower value.\n\n\nOne Of the problems facing place\n\n\nfew have been able\nolder taxes and monthly utility bills\nrerees the Negro face dual problem housing area\nMany have the modern retirement\nOthers unable pay rising they\nhigh.\n\n\nWhile so much is being directed toward problems\nand the dropouts think that energies\nto the hundreds of retired and retired\ngroups who are in great numbers in city and\n\n\nThe downtown should\nthe oldsers could and relax\nretrees activities should be included\nGuiding civic auditorium and hall.\nwould be feasible for\nbiliy by bus\n\n\nWhile convention hall civic being planned\nlet's remember that hundreds elderly\nwho need places for recreation library\ncenter should be located in the downtown area,\n\n\nfeel that of the plans developing\npointed the north end without much\nsouthern",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3623,
+                "y0": 515,
+                "x1": 4591,
+                "y1": 956
+            },
+            "class": "headline",
+            "raw_text": "Views, PRevIEws\nAMD REVIEWS\n\n\nEdward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -3
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 3831,
+                "y0": 874,
+                "x1": 4360,
+                "y1": 956
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3084,
+                "y0": 1013,
+                "x1": 3989,
+                "y1": 1130
+            },
+            "class": "headline",
+            "raw_text": "Remem Der Our Aged",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-08-21"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                7
+            ],
+            "headline": "Siq hts and Sounds\nELOtSE BANKS\nIce Cream Time",
+            "article": "iginated the recipe for making\nice cream. Several countries\nclaim the honor, but an enter\nprising man In St. Louis, Mis-\nsouri, first served ice cream on\na cone. His experiment serving\nscoops of delicious ice cream on\nwafered cakes of cylindrical\nshape started an entirely newin-\ndustry. In fact two businesses\narose from his brainchild.\n\n\nIce cream plants grew and\nIce cream cone plants also be-\ngan. Today we have many kinds\nof ways to serve Ice cream, the\nsandwich, the cup, the popsicle\nand the sundae, however, none\nhas usurped the number one po-\nsition of the cone.\n\n\nIce cream making has come a\nlong way since the St. Louis Ex-\nposition days Of the past century\nwhen the cone made its debut.\nGone are the endless hours of\ncranking the handle on the anti\nquated freezer. Today, count\nless man hours are saved by\nmachines which produced thou\nsands of gallons of the tasty\ndessert. The favorite flavors\nmade for the discriminating taste\nof the millions of ice cream To-\nvers in the United States range\nfrom toffee to the all time favor\nlite vanilla.\n\n\nSherbets and ices are eaten\nmore, but no one will dispute\nthat vanilla, choc olate and straw\nberry remain the three top SELL\nerS In the ice cream business.\n\n\nl can see the pleasant days of\nmy childhood now--We would look\nforward to summer because that\nwas ice cream making time.\nAbout once a week the Ice cream\nfreezer would come out Of the\nbasement. We would have the\ncream and eggs ready. The bag\nof Ice cream salt would be open\nand the ice would be Clipped\nready to pack around the clumsy\nmachine.\n\n\nMy cousin Billie and | we're\ngiven the honors as expert turn\ners. We worked eagerly and\nefficiently, knowing that our re-\nward would be scraping the inside\nOf the cream holder.\n\n\n1t seemed an eternity before\nour arms cramped and the velvety\nIce cream was ready to be served.\nNo one had to be cajoled into TAX\nIng a second helping. There was\nalways beautiful yellow cake or\nwhite cake as the companion dish.\nSometimes we would have apple\npie with scoop of cream on the\nside.\n\n\nWhen was a wee girl, new\nice cream treat was devised. The\nEskimo Pie was the rage and the\noriginator Of the pie must have\nmade a million from the kids In\nmy neighborhood alone. The pie\nwas not a pie but we did not have\ntime to distinguish between pie\nor a non pie.\n\n\nThe Eskimo on the label made\nmany Of US believe that the parka\nwearing inhabitants Of the frigid\nzone ate Ice cream. We saved\nour sticks for prizes.\n\n\nDo you remember the pies7\nThey we're a rectangular piece Of\nvanilla Ice cream dipped In\nchocolate. Later a stick was\nadded, but eating the pie was\na challenge, especially when the\nmelting point had been reached.\n\n\nPopsicles we're excellent ways\nto get cool on a hot and humid\nHoosier summers day. The\npopsicle seemed cooler, even If\nmost of It dripped on the ground.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2169,
+                    "y0": 411,
+                    "x1": 2975,
+                    "y1": 748
+                },
+                {
+                    "x0": 2157,
+                    "y0": 851,
+                    "x1": 3004,
+                    "y1": 6385
+                }
+            ],
+            "bbox": [
+                2157,
+                411,
+                3004,
+                6385
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-08-21_p1_sn84021918_0041421695A_1964082101_0518.json"
+        },
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "SIGHTS",
+            "article": "Modern ice cream stores have\nmany refreshing containers of\nice cream wonders to satiate your\nappetite. If you haven visited an\nice cream store lately--get out\nand discover a different world of\nIce cream varieties made with\ndates, nuts, coffee, berries,\ncakes, candies and marshmal-\nlows. You can have Beatle-nut,\nSteverino, or even Daquiri fla\nvors.\n\n\nOur favorite here at 2l37 E.\nBroadway Road remains French\nvanilla. Vive la vanillal",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3072,
+                    "y0": 2937,
+                    "x1": 3357,
+                    "y1": 3025
+                },
+                {
+                    "x0": 3061,
+                    "y0": 3047,
+                    "x1": 3879,
+                    "y1": 3923
+                }
+            ],
+            "bbox": [
+                3061,
+                2937,
+                3879,
+                3923
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-08-21_p1_sn84021918_0041421695A_1964082101_0518.json"
+        },
+        {
+            "object_ids": [
+                5,
+                13,
+                6,
+                1
+            ],
+            "headline": "Views, PRevIEws\nAMD REVIEWS\n\n\nEdward Banks\n\nRemem Der Our Aged",
+            "article": "Today Negroes living their retirement\nalthough the percentage still\nimportant.\n\n\nSince the majority of Negro workers employed\nskilled and semised fields retirement\nplans are of lower value.\n\n\nOne Of the problems facing place\n\n\nfew have been able\nolder taxes and monthly utility bills\nrerees the Negro face dual problem housing area\nMany have the modern retirement\nOthers unable pay rising they\nhigh.\n\n\nWhile so much is being directed toward problems\nand the dropouts think that energies\nto the hundreds of retired and retired\ngroups who are in great numbers in city and\n\n\nThe downtown should\nthe oldsers could and relax\nretrees activities should be included\nGuiding civic auditorium and hall.\nwould be feasible for\nbiliy by bus\n\n\nWhile convention hall civic being planned\nlet's remember that hundreds elderly\nwho need places for recreation library\ncenter should be located in the downtown area,\n\n\nfeel that of the plans developing\npointed the north end without much\nsouthern",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3623,
+                    "y0": 515,
+                    "x1": 4591,
+                    "y1": 956
+                },
+                {
+                    "x0": 3831,
+                    "y0": 874,
+                    "x1": 4360,
+                    "y1": 956
+                },
+                {
+                    "x0": 3084,
+                    "y0": 1013,
+                    "x1": 3989,
+                    "y1": 1130
+                },
+                {
+                    "x0": 3078,
+                    "y0": 1158,
+                    "x1": 4771,
+                    "y1": 2921
+                }
+            ],
+            "bbox": [
+                3078,
+                515,
+                4771,
+                2921
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-08-21_p1_sn84021918_0041421695A_1964082101_0518.json"
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-15",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7409,
+        "width": 4816,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-15",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964051501/0399.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2049,
+                "y0": 3953,
+                "x1": 2860,
+                "y1": 5233
+            },
+            "class": "article",
+            "raw_text": "The Most Worshipful Prince\nHall Grand Lodge, FAM, Arizona\nJurisdiction ended its 44th annual\ncommunication after new officers\nwere installed.\n\n\nOfficers are S. C. Boyer, most\nworshipful grandmother. Phoe-\nnix: James Holm. right worship\nfull g.m., Yuma; Charles H. Can\nnon, ST. or. warden, Douglas;\no. Dougherty, jr. warden, Tue\nson; Minor Hagler, r.w. grand\ntreasurer, S. Wilson. r.w. grand\nlecturer, Tucson; Forrest w.\nTaylor, grand trustee, Tucson\nand Charles D. Jones, or. &C. f.c.,\nFl. Huachuca.\n\n\nA new building study plan COM\nmittee was recommended by sc.\nBoyer. GIN.\n\n\nThe 1865 annual communica-\ntion will be held in Tucson.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2060,
+                "y0": 3826,
+                "x1": 2733,
+                "y1": 3931
+            },
+            "class": "headline",
+            "raw_text": "MAs0NS END MEET",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2049,
+                "y0": 5429,
+                "x1": 2872,
+                "y1": 6292
+            },
+            "class": "article",
+            "raw_text": "Elijah Muhammad, leader of\nthe Black Muslims. said his group\nis not part of those who are re-\nsponsible for robbery, murder\nand terror in New York.\n\n\nMr.. Muhammad said nothing\ncan be gained through the use of\nviolent methods or demonstra-\ntions. He said: \"How can you ex-\npect someone to accept you as an\nequal when you flop down at rs\nfeet like dog7\n\n\nHe continued that Muslims want\nto live apart from whites in their\nown nation.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2049,
+                "y0": 5255,
+                "x1": 2848,
+                "y1": 5418
+            },
+            "class": "headline",
+            "raw_text": "Muh am mad Says Violent\n\n\nGroup Is Not MusIims",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 266,
+                "y0": 3009,
+                "x1": 1945,
+                "y1": 4486
+            },
+            "class": "article",
+            "raw_text": "An % quiet may \"coud' from\nyour property what interest any, have\nit..\n\n\nAction to quiet conflicting claims\nEnglish law and is like the old bill of peace\" which\nended land owners right to possess.\n\n\nWe direct quiet title action against en claim,\nwhich threatens interest After hearing,\ndecides whether remove the cloud and quiet title.\n\n\nsettling conflicting claims, the claimants their\nholders holders of rights of credi\nwith liens Qike mortgages) and the like.\n\n\nget complicated. quiet title judgment\nadverse possession\nas against the 'true owner!'lss\n\n\nIn rural such judgment must the\npery for 10 and the\nIn of lot the adverse must be for five years\nand the taxes paid for such period.\n\n\naction also other problems\ncoming restriction by quiet title claiming\nthat an illegal iona by limiting his\n\n\nThis legal column issued public service under\nvision of the Arizona is written inform,\nto adWSe0",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 254,
+                "y0": 2766,
+                "x1": 1251,
+                "y1": 2993
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Low\nCLOUDS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2037,
+                "y0": 2431,
+                "x1": 2854,
+                "y1": 3786
+            },
+            "class": "article",
+            "raw_text": "Want to adopt a child7 For most\ncouples there is a long waiting\nperiod. But, many children of\nminority groups are crowding\nfoster homes and institutions\nwaiting for adoption.\n\n\nDuring the month of May the\nPhoenix Urban League and the\nstate department of public well\nfare are hoping to promote more\nadoptions of minority groups\nchildren.\n\n\nThe Urban League has speak\ner and a film on adoption through\na licensed agency which can be\npresented to interested organi-\ncations.\n\n\nFor further Information con-\ncorning the film, speaker or pro-\ncedures to adopt children, call\nthe Urban League office\nCIR 7-542l or the public welfare\ndepartment 27l-444l.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2049,
+                "y0": 2222,
+                "x1": 2791,
+                "y1": 2408
+            },
+            "class": "headline",
+            "raw_text": "Urban League Stresses\nChild Adoption",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2037,
+                "y0": 723,
+                "x1": 2854,
+                "y1": 2188
+            },
+            "class": "article",
+            "raw_text": "DR.. William Joseph Moore,\nstate health commissioner urges\npersons to have measles vaci-\nnations.\n\n\nRed or ordinary measles, in\ncontrast to German measles, is\nserious disease which annually\ntakes about 500 lives a year in\nthe United States, he said.\n\n\nImmunization, he said, would\nprepare one for the disease S on\nslaught in late winter or early\nspring next year.\n\n\nThere we're 430 red measles\ncases reported on May l to the\nstate health department. This\ncompares with the 353 cases re-\nported the preceding week.\n\n\nAlthough there is no vaccine\nfor German measles, he said,\nthere are three vaccines, includ-\ning the live attenuated vaccine\nwith gamma globulin, that i'm\nmunize against red measles, DR..\nMoore said.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2037,
+                "y0": 434,
+                "x1": 2663,
+                "y1": 707
+            },
+            "class": "headline",
+            "raw_text": "Measles Gases\nRise Here\n\n\nVaccinations Urqed",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1146,
+                "y0": 4590,
+                "x1": 1963,
+                "y1": 4996
+            },
+            "class": "article",
+            "raw_text": "NASHVILLE. Tenn. Some\n$50 white and Negro students\nfrom Nashville colleges and uni\nversities peacefully marched to\nthe downtown city-county court\nhouse in support of public ac-\ncommodationS ordinance.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1151,
+                "y0": 4474,
+                "x1": 1679,
+                "y1": 4567
+            },
+            "class": "headline",
+            "raw_text": "Students March",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 225,
+                "y0": 1939,
+                "x1": 1916,
+                "y1": 2733
+            },
+            "class": "article",
+            "raw_text": "Urban League Guild observed its thirteenth Tuesday,\nthe of Mrs. Hugh Morrison Alb NJ goth DR..\n\n\nOfficers installed president Mrs. Arthur Patrick\nRosalie Clark agee president far left Mrs David\nGuerman membership chaman Mrs. Everett B. Luther publicity\nchairman and Miss Syb jones' corresponding secretary\n\n\nMcCray recording secretary\nFrank cbn Robert Choa and McFradde Martini members\nlarge.\n\n\nof the guild still active Miss Arlen Seneca,\nNete Warner Frank Brooks Sarah ngerso Lewis\nHedgepeh Martin Thomas Ward Maggie\nSimmons and Rhoda B. Smith.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 4850,
+                "y0": 445,
+                "x1": 6119,
+                "y1": 5789
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964051501_0399",
+    "full articles": [
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "MAs0NS END MEET",
+            "article": "The Most Worshipful Prince\nHall Grand Lodge, FAM, Arizona\nJurisdiction ended its 44th annual\ncommunication after new officers\nwere installed.\n\n\nOfficers are S. C. Boyer, most\nworshipful grandmother. Phoe-\nnix: James Holm. right worship\nfull g.m., Yuma; Charles H. Can\nnon, ST. or. warden, Douglas;\no. Dougherty, jr. warden, Tue\nson; Minor Hagler, r.w. grand\ntreasurer, S. Wilson. r.w. grand\nlecturer, Tucson; Forrest w.\nTaylor, grand trustee, Tucson\nand Charles D. Jones, or. &C. f.c.,\nFl. Huachuca.\n\n\nA new building study plan COM\nmittee was recommended by sc.\nBoyer. GIN.\n\n\nThe 1865 annual communica-\ntion will be held in Tucson.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2060,
+                    "y0": 3826,
+                    "x1": 2733,
+                    "y1": 3931
+                },
+                {
+                    "x0": 2049,
+                    "y0": 3953,
+                    "x1": 2860,
+                    "y1": 5233
+                }
+            ],
+            "bbox": [
+                2049,
+                3826,
+                2860,
+                5233
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-05-15_pna_sn84021918_0041421695A_1964051501_0399.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "Muh am mad Says Violent\n\n\nGroup Is Not MusIims",
+            "article": "Elijah Muhammad, leader of\nthe Black Muslims. said his group\nis not part of those who are re-\nsponsible for robbery, murder\nand terror in New York.\n\n\nMr.. Muhammad said nothing\ncan be gained through the use of\nviolent methods or demonstra-\ntions. He said: \"How can you ex-\npect someone to accept you as an\nequal when you flop down at rs\nfeet like dog7\n\n\nHe continued that Muslims want\nto live apart from whites in their\nown nation.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2049,
+                    "y0": 5255,
+                    "x1": 2848,
+                    "y1": 5418
+                },
+                {
+                    "x0": 2049,
+                    "y0": 5429,
+                    "x1": 2872,
+                    "y1": 6292
+                }
+            ],
+            "bbox": [
+                2049,
+                5255,
+                2872,
+                6292
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-05-15_pna_sn84021918_0041421695A_1964051501_0399.json"
+        },
+        {
+            "object_ids": [
+                19,
+                4
+            ],
+            "headline": "Discussing Arizona Low\nCLOUDS",
+            "article": "An % quiet may \"coud' from\nyour property what interest any, have\nit..\n\n\nAction to quiet conflicting claims\nEnglish law and is like the old bill of peace\" which\nended land owners right to possess.\n\n\nWe direct quiet title action against en claim,\nwhich threatens interest After hearing,\ndecides whether remove the cloud and quiet title.\n\n\nsettling conflicting claims, the claimants their\nholders holders of rights of credi\nwith liens Qike mortgages) and the like.\n\n\nget complicated. quiet title judgment\nadverse possession\nas against the 'true owner!'lss\n\n\nIn rural such judgment must the\npery for 10 and the\nIn of lot the adverse must be for five years\nand the taxes paid for such period.\n\n\naction also other problems\ncoming restriction by quiet title claiming\nthat an illegal iona by limiting his\n\n\nThis legal column issued public service under\nvision of the Arizona is written inform,\nto adWSe0",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 254,
+                    "y0": 2766,
+                    "x1": 1251,
+                    "y1": 2993
+                },
+                {
+                    "x0": 266,
+                    "y0": 3009,
+                    "x1": 1945,
+                    "y1": 4486
+                }
+            ],
+            "bbox": [
+                254,
+                2766,
+                1945,
+                4486
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-15_pna_sn84021918_0041421695A_1964051501_0399.json"
+        },
+        {
+            "object_ids": [
+                11,
+                5
+            ],
+            "headline": "Urban League Stresses\nChild Adoption",
+            "article": "Want to adopt a child7 For most\ncouples there is a long waiting\nperiod. But, many children of\nminority groups are crowding\nfoster homes and institutions\nwaiting for adoption.\n\n\nDuring the month of May the\nPhoenix Urban League and the\nstate department of public well\nfare are hoping to promote more\nadoptions of minority groups\nchildren.\n\n\nThe Urban League has speak\ner and a film on adoption through\na licensed agency which can be\npresented to interested organi-\ncations.\n\n\nFor further Information con-\ncorning the film, speaker or pro-\ncedures to adopt children, call\nthe Urban League office\nCIR 7-542l or the public welfare\ndepartment 27l-444l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2049,
+                    "y0": 2222,
+                    "x1": 2791,
+                    "y1": 2408
+                },
+                {
+                    "x0": 2037,
+                    "y0": 2431,
+                    "x1": 2854,
+                    "y1": 3786
+                }
+            ],
+            "bbox": [
+                2037,
+                2222,
+                2854,
+                3786
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-15_pna_sn84021918_0041421695A_1964051501_0399.json"
+        },
+        {
+            "object_ids": [
+                9,
+                6
+            ],
+            "headline": "Measles Gases\nRise Here\n\n\nVaccinations Urqed",
+            "article": "DR.. William Joseph Moore,\nstate health commissioner urges\npersons to have measles vaci-\nnations.\n\n\nRed or ordinary measles, in\ncontrast to German measles, is\nserious disease which annually\ntakes about 500 lives a year in\nthe United States, he said.\n\n\nImmunization, he said, would\nprepare one for the disease S on\nslaught in late winter or early\nspring next year.\n\n\nThere we're 430 red measles\ncases reported on May l to the\nstate health department. This\ncompares with the 353 cases re-\nported the preceding week.\n\n\nAlthough there is no vaccine\nfor German measles, he said,\nthere are three vaccines, includ-\ning the live attenuated vaccine\nwith gamma globulin, that i'm\nmunize against red measles, DR..\nMoore said.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2037,
+                    "y0": 434,
+                    "x1": 2663,
+                    "y1": 707
+                },
+                {
+                    "x0": 2037,
+                    "y0": 723,
+                    "x1": 2854,
+                    "y1": 2188
+                }
+            ],
+            "bbox": [
+                2037,
+                434,
+                2854,
+                2188
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-05-15_pna_sn84021918_0041421695A_1964051501_0399.json"
+        },
+        {
+            "object_ids": [
+                17,
+                7
+            ],
+            "headline": "Students March",
+            "article": "NASHVILLE. Tenn. Some\n$50 white and Negro students\nfrom Nashville colleges and uni\nversities peacefully marched to\nthe downtown city-county court\nhouse in support of public ac-\ncommodationS ordinance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1151,
+                    "y0": 4474,
+                    "x1": 1679,
+                    "y1": 4567
+                },
+                {
+                    "x0": 1146,
+                    "y0": 4590,
+                    "x1": 1963,
+                    "y1": 4996
+                }
+            ],
+            "bbox": [
+                1146,
+                4474,
+                1963,
+                4996
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-15_pna_sn84021918_0041421695A_1964051501_0399.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Urban League Guild observed its thirteenth Tuesday,\nthe of Mrs. Hugh Morrison Alb NJ goth DR..\n\n\nOfficers installed president Mrs. Arthur Patrick\nRosalie Clark agee president far left Mrs David\nGuerman membership chaman Mrs. Everett B. Luther publicity\nchairman and Miss Syb jones' corresponding secretary\n\n\nMcCray recording secretary\nFrank cbn Robert Choa and McFradde Martini members\nlarge.\n\n\nof the guild still active Miss Arlen Seneca,\nNete Warner Frank Brooks Sarah ngerso Lewis\nHedgepeh Martin Thomas Ward Maggie\nSimmons and Rhoda B. Smith.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 225,
+                    "y0": 1939,
+                    "x1": 1916,
+                    "y1": 2733
+                }
+            ],
+            "bbox": [
+                225,
+                1939,
+                1916,
+                2733
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-05-15_pna_sn84021918_0041421695A_1964051501_0399.json"
+        }
+    ]
+}

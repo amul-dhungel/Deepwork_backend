@@ -1,0 +1,405 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964041001/0362.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7400,
+        "width": 4874
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1945,
+                "y0": 2156,
+                "x1": 2779,
+                "y1": 3637
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Joe Caldwell, the\nhighest scorer in the records of\nbasketball at Arizona State Uni\nversity, was named on the 1864\nOlympics squad.\n\n\nJoe Caldwell, of Los Angeles\nscored 1923 points in the past\nthree years, and his 81 point\naverage made him the Sun Dew\nlis first 20 plus player.\n\n\nHe was chosen on the first\nteam of the Western Athletic\nConference for two years and he\nreceived honorable mention on\nthis seasons All American bal\nlots.\n\n\nCaldwell Is E #. S and weighs\nle5.\n\n\nOthers on the Olympics squad\nare Bill Bradley. Pete McCaf-\nfey, Jerry Shipp, Jim Barnes.\nMel Counts, Lucious Jackson,\nGeorge Wilson, Larry Brown,\nDick Davis, Walt Hazard, and\nJeff Mullins.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1968,
+                "y0": 1809,
+                "x1": 2640,
+                "y1": 2122
+            },
+            "class": "headline",
+            "raw_text": "ASU STAR\nWINS OLYMPI\nTEAM BERTH",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2853,
+                "y0": 1959,
+                "x1": 3675,
+                "y1": 2573
+            },
+            "class": "article",
+            "raw_text": "A coroner's jury ruled that\nLeo Lewis. \"a, of 1887 E. Mon\nroe, died of gunshot wounds while\nresisting arrest Tuesday night.\n\n\nLewis had held Mrs. Cleva M.\nJones, %, of 1880 E. Jefferson,\nhostage at knife-point at the Star\nTavern, 1887 E. Washington. be-\nfore she tried to lunge away\nfrom him, police said. The Of",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1078,
+                "y0": 2306,
+                "x1": 1894,
+                "y1": 2891
+            },
+            "class": "article",
+            "raw_text": "from the ratings because of\npolice charge pending in Denver.\nHe is accused of carrying a con-\ncealed weapon.\n\n\nHowever, Eastman said later,\n\"Liston is not suspended; he is\nsimply removed from the rat\nings.\" He added that a correction\nwould be made in next week.\nVIDA bulletin.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 176,
+                "y0": 2191,
+                "x1": 1218,
+                "y1": 2307
+            },
+            "class": "headline",
+            "raw_text": "Liston Can't Fight Now",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 164,
+                "y0": 2341,
+                "x1": 986,
+                "y1": 2891
+            },
+            "class": "article",
+            "raw_text": "MIAMI BEACH, Fla. = Former\nheavyweight champion Sonny Lis\nton hasn't been suspended by the\nWorld Boxing Association. He\ncan't try to regain his crown\nuntil he is reinstated to the WBA's\nratings.\n\n\nEd Lassman, VIDA president,\nsaid Liston had been dropped",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3732,
+                "y0": 1954,
+                "x1": 4536,
+                "y1": 2608
+            },
+            "class": "article",
+            "raw_text": "ficers opened fire as Lewis\nslashed at her with his knife.\nsaid Investigators.\n\n\nPolice 1t. Gordon Selby told\nthe jury in the court Of Justice\nof the Peace Ida Ann Westfall\nthat the officers tried without\nsuccess to talk Lewis into sur\nrendering.\n\n\nMrs. Westfall termed the\nshooting justifiable homicide.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2864,
+                "y0": 1757,
+                "x1": 4478,
+                "y1": 1920
+            },
+            "class": "headline",
+            "raw_text": "jury Rules Death JustifiubIe",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 864,
+                "y0": 6498,
+                "x1": 2854,
+                "y1": 6857
+            },
+            "class": "article",
+            "raw_text": "served by the So Project the operating\nfor electric average little doy That's less than\nprice Of cup coffee enjoy all the moehess benefits Of\nclean, sofe fIumeess electric cooking!",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 691,
+                "y0": 6307,
+                "x1": 3258,
+                "y1": 6429
+            },
+            "class": "headline",
+            "raw_text": "Electric cooking is as economical as it IS",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 459,
+                "y0": 4422,
+                "x1": 1206,
+                "y1": 4753
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 454,
+                "y0": 4052,
+                "x1": 4022,
+                "y1": 4227
+            },
+            "class": "headline",
+            "raw_text": "Enjoy the difference electricity Makes.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 459,
+                "y0": 3798,
+                "x1": 1125,
+                "y1": 3972
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 615,
+                "y0": 3786,
+                "x1": 981,
+                "y1": 3828
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 20,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-04-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                9,
+                0
+            ],
+            "headline": "ASU STAR\nWINS OLYMPI\nTEAM BERTH",
+            "article": "NEW YORK = Joe Caldwell, the\nhighest scorer in the records of\nbasketball at Arizona State Uni\nversity, was named on the 1864\nOlympics squad.\n\n\nJoe Caldwell, of Los Angeles\nscored 1923 points in the past\nthree years, and his 81 point\naverage made him the Sun Dew\nlis first 20 plus player.\n\n\nHe was chosen on the first\nteam of the Western Athletic\nConference for two years and he\nreceived honorable mention on\nthis seasons All American bal\nlots.\n\n\nCaldwell Is E #. S and weighs\nle5.\n\n\nOthers on the Olympics squad\nare Bill Bradley. Pete McCaf-\nfey, Jerry Shipp, Jim Barnes.\nMel Counts, Lucious Jackson,\nGeorge Wilson, Larry Brown,\nDick Davis, Walt Hazard, and\nJeff Mullins.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1968,
+                    "y0": 1809,
+                    "x1": 2640,
+                    "y1": 2122
+                },
+                {
+                    "x0": 1945,
+                    "y0": 2156,
+                    "x1": 2779,
+                    "y1": 3637
+                }
+            ],
+            "bbox": [
+                1945,
+                1809,
+                2779,
+                3637
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-10_p1_sn84021918_0041421695A_1964041001_0362.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "A coroner's jury ruled that\nLeo Lewis. \"a, of 1887 E. Mon\nroe, died of gunshot wounds while\nresisting arrest Tuesday night.\n\n\nLewis had held Mrs. Cleva M.\nJones, %, of 1880 E. Jefferson,\nhostage at knife-point at the Star\nTavern, 1887 E. Washington. be-\nfore she tried to lunge away\nfrom him, police said. The Of",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2853,
+                    "y0": 1959,
+                    "x1": 3675,
+                    "y1": 2573
+                }
+            ],
+            "bbox": [
+                2853,
+                1959,
+                3675,
+                2573
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-10_p1_sn84021918_0041421695A_1964041001_0362.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "Liston Can't Fight Now",
+            "article": "from the ratings because of\npolice charge pending in Denver.\nHe is accused of carrying a con-\ncealed weapon.\n\n\nHowever, Eastman said later,\n\"Liston is not suspended; he is\nsimply removed from the rat\nings.\" He added that a correction\nwould be made in next week.\nVIDA bulletin.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 176,
+                    "y0": 2191,
+                    "x1": 1218,
+                    "y1": 2307
+                },
+                {
+                    "x0": 1078,
+                    "y0": 2306,
+                    "x1": 1894,
+                    "y1": 2891
+                }
+            ],
+            "bbox": [
+                176,
+                2191,
+                1894,
+                2891
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-10_p1_sn84021918_0041421695A_1964041001_0362.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "MIAMI BEACH, Fla. = Former\nheavyweight champion Sonny Lis\nton hasn't been suspended by the\nWorld Boxing Association. He\ncan't try to regain his crown\nuntil he is reinstated to the WBA's\nratings.\n\n\nEd Lassman, VIDA president,\nsaid Liston had been dropped",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 164,
+                    "y0": 2341,
+                    "x1": 986,
+                    "y1": 2891
+                }
+            ],
+            "bbox": [
+                164,
+                2341,
+                986,
+                2891
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-10_p1_sn84021918_0041421695A_1964041001_0362.json"
+        },
+        {
+            "object_ids": [
+                11,
+                7
+            ],
+            "headline": "jury Rules Death JustifiubIe",
+            "article": "ficers opened fire as Lewis\nslashed at her with his knife.\nsaid Investigators.\n\n\nPolice 1t. Gordon Selby told\nthe jury in the court Of Justice\nof the Peace Ida Ann Westfall\nthat the officers tried without\nsuccess to talk Lewis into sur\nrendering.\n\n\nMrs. Westfall termed the\nshooting justifiable homicide.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2864,
+                    "y0": 1757,
+                    "x1": 4478,
+                    "y1": 1920
+                },
+                {
+                    "x0": 3732,
+                    "y0": 1954,
+                    "x1": 4536,
+                    "y1": 2608
+                }
+            ],
+            "bbox": [
+                2864,
+                1757,
+                4536,
+                2608
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-04-10_p1_sn84021918_0041421695A_1964041001_0362.json"
+        },
+        {
+            "object_ids": [
+                16,
+                13
+            ],
+            "headline": "Electric cooking is as economical as it IS",
+            "article": "served by the So Project the operating\nfor electric average little doy That's less than\nprice Of cup coffee enjoy all the moehess benefits Of\nclean, sofe fIumeess electric cooking!",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 691,
+                    "y0": 6307,
+                    "x1": 3258,
+                    "y1": 6429
+                },
+                {
+                    "x0": 864,
+                    "y0": 6498,
+                    "x1": 2854,
+                    "y1": 6857
+                }
+            ],
+            "bbox": [
+                691,
+                6307,
+                3258,
+                6857
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-10_p1_sn84021918_0041421695A_1964041001_0362.json"
+        }
+    ]
+}

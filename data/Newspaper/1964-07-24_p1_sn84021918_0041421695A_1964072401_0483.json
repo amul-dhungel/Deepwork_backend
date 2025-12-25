@@ -1,0 +1,311 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964072401/0483.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7504,
+        "width": 4833
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 130,
+                "y0": 3036,
+                "x1": 957,
+                "y1": 4591
+            },
+            "class": "article",
+            "raw_text": "In announcing his plans to seek\nreelection to the Arizona Cor\nporation Commission for\nsecond six-year term, A.P.\n\"Jack\" Buzard reaffirms his\npledge made six years ago to\nrepresent all the people without\nspecial privilege or favor and to\nserve conscientiously and dill\ngently.\n\n\nThe record of achievement of\nthe Arizona Corporation Com\nmission since he took office six\nyears ago is the best testimony\nof his outstanding leadership.\n\n\nPrudent appropriation budgets\nhave been submitted to the Legis-\nlature of Arizona by the Com\nmission and the Legislature has\nbeen most cooperative in per-\nuniting ample funds for the Com\nmissions fluid operation. When\nan inquiry was made of Mr..\nBuzard as to whispered secrecies\non the part of the Commission,\nhe pointed out that any issue",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 112,
+                "y0": 2749,
+                "x1": 1766,
+                "y1": 3020
+            },
+            "class": "headline",
+            "raw_text": "Buzurd Seeks Reelection Says\nRecord Speaks For Him",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2797,
+                "y0": 492,
+                "x1": 3613,
+                "y1": 1923
+            },
+            "class": "article",
+            "raw_text": "Girls Of high moral character,\n10 years and over are invited\nto enter the annual Elks bathing\nbeauty and talent contest. Con-\ntact Dts. Florence Sessions.\nLouise Becton or me. Call AL A.\n0O72 and leave your name and\naddress. The contest will be\nheld IN August.\n\n\nA shipwreck party will be held\nat the lodge hall Sat-, July 81.\n81. Mrs. Florence Sessions is\nchairman.\n\n\nEveryone is invited to the open\nhouse at the Elks lodge hall.\n1907 S. 9TH Ave., Sat-. July \"a,\n81.\n\n\nRemember to the sick. Send\na card, call or visit them. DIT.\nElizabeth Turner remains at\nMemorial Hospital ] West #2o.\nBro. Charles Patters on is i'll at\nhome, l407 E. Coronado.\n\n\nElks Reporter\n\n\n= ArC1aro r,ov",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2815,
+                "y0": 345,
+                "x1": 3332,
+                "y1": 452
+            },
+            "class": "headline",
+            "raw_text": "EIks Corner",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2826,
+                "y0": 2198,
+                "x1": 3642,
+                "y1": 3119
+            },
+            "class": "article",
+            "raw_text": "Laundry recipes that nome\nmakers may clip out and save\nare currently being offered for\nthe first time on the back of all\nSurf detergent packages by Lever\nBrothers Company. Clip-and-\nsave recipes have long been a\nsuccessful packaging feature for\nfood products.\n\n\nThe Surf recipes are helpful\nlaundry hints. Each hint is\nprinted on an easy-to-file, cut\nout card and contains simple\npractical instructions for the\nlaundering and cleaning care Of\nvarious household items.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2791,
+                "y0": 1952,
+                "x1": 3320,
+                "y1": 2181
+            },
+            "class": "headline",
+            "raw_text": "Surf Offers\n\n\nWash Hints",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1918,
+                "y0": 527,
+                "x1": 2745,
+                "y1": 3512
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON, DC. DR.. FL\nmer w. Englestrom. president\nof Radio Corporation Of America\nand DR.. Martin D. Jenkins. presi-\ndent of Morgan State College,\nBaltimore, emphasized the\nnational importance of three\nday conference to increase the\nplacement of minority college\ngraduates in business and\nindustry.\n\n\nThe conference is being spon-\nsored by the Plans for Progress\nprogram of the President Com\nmittee on Equal Employment OPP\nportunity and the College Place\nment Council, Inc. More than 800\nrepresentatives of major cor\nporations and predominantly\nNegro colleges have registered\nfor the meeting, July y = \"a at\nthe Statler Hilton Hotel.\n\n\nDR.. Englestrom said: 1.-THE\ninterests of America require that\nevery available talent in the\nnation be used to the maximum\nand that the development of all\nour human reso urces be actively\nencouraged.\n\n\n\"This meeting of presidents\nand placement directors of pre-\ndominantly Negro colleges and\nrecruitment representatives\nfrom private industry is designed\nto further the goal of assuring\nto every young American his\nplace in the nations future. 1t\nis a basic step in the inevitable\nprogression of equal rights from\nconcept to practical application.\n\n\n\"By assuring our minority COL\nleges students equal opportunity\nfor employment and advance\nment, we are achieving at the\nsame time a far broader purpose;\nwe are giving to the present\ngeneration Of school children a\ndramatic lesson in how they will\nbe able to prepare for useful\nand constructive role in our\nsociety,\"\"",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1888,
+                "y0": 351,
+                "x1": 2669,
+                "y1": 511
+            },
+            "class": "headline",
+            "raw_text": "CONFAB ON MINORITY\nHIRING HELD",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 1027,
+                "y0": 3036,
+                "x1": 1854,
+                "y1": 3682
+            },
+            "class": "article",
+            "raw_text": "of a controversial nature affect\ning the people was accorded\npublic hearing which was open to\nthe public and the transcripts of\nall hearings are made a part\nof the public record for all to see.\n\n\nMr.. Buzard, with his wife\nMargritte, and two daughters,\nCarol. age % and Marilyn. age\n10, resides at 1884 North 18th\nStreet in Phoenix.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-07-24"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                15,
+                1
+            ],
+            "headline": "Buzurd Seeks Reelection Says\nRecord Speaks For Him",
+            "article": "In announcing his plans to seek\nreelection to the Arizona Cor\nporation Commission for\nsecond six-year term, A.P.\n\"Jack\" Buzard reaffirms his\npledge made six years ago to\nrepresent all the people without\nspecial privilege or favor and to\nserve conscientiously and dill\ngently.\n\n\nThe record of achievement of\nthe Arizona Corporation Com\nmission since he took office six\nyears ago is the best testimony\nof his outstanding leadership.\n\n\nPrudent appropriation budgets\nhave been submitted to the Legis-\nlature of Arizona by the Com\nmission and the Legislature has\nbeen most cooperative in per-\nuniting ample funds for the Com\nmissions fluid operation. When\nan inquiry was made of Mr..\nBuzard as to whispered secrecies\non the part of the Commission,\nhe pointed out that any issue",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 112,
+                    "y0": 2749,
+                    "x1": 1766,
+                    "y1": 3020
+                },
+                {
+                    "x0": 130,
+                    "y0": 3036,
+                    "x1": 957,
+                    "y1": 4591
+                }
+            ],
+            "bbox": [
+                112,
+                2749,
+                1766,
+                4591
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-24_p1_sn84021918_0041421695A_1964072401_0483.json"
+        },
+        {
+            "object_ids": [
+                17,
+                2
+            ],
+            "headline": "EIks Corner",
+            "article": "Girls Of high moral character,\n10 years and over are invited\nto enter the annual Elks bathing\nbeauty and talent contest. Con-\ntact Dts. Florence Sessions.\nLouise Becton or me. Call AL A.\n0O72 and leave your name and\naddress. The contest will be\nheld IN August.\n\n\nA shipwreck party will be held\nat the lodge hall Sat-, July 81.\n81. Mrs. Florence Sessions is\nchairman.\n\n\nEveryone is invited to the open\nhouse at the Elks lodge hall.\n1907 S. 9TH Ave., Sat-. July \"a,\n81.\n\n\nRemember to the sick. Send\na card, call or visit them. DIT.\nElizabeth Turner remains at\nMemorial Hospital ] West #2o.\nBro. Charles Patters on is i'll at\nhome, l407 E. Coronado.\n\n\nElks Reporter\n\n\n= ArC1aro r,ov",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2815,
+                    "y0": 345,
+                    "x1": 3332,
+                    "y1": 452
+                },
+                {
+                    "x0": 2797,
+                    "y0": 492,
+                    "x1": 3613,
+                    "y1": 1923
+                }
+            ],
+            "bbox": [
+                2797,
+                345,
+                3613,
+                1923
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-24_p1_sn84021918_0041421695A_1964072401_0483.json"
+        },
+        {
+            "object_ids": [
+                12,
+                4
+            ],
+            "headline": "Surf Offers\n\n\nWash Hints",
+            "article": "Laundry recipes that nome\nmakers may clip out and save\nare currently being offered for\nthe first time on the back of all\nSurf detergent packages by Lever\nBrothers Company. Clip-and-\nsave recipes have long been a\nsuccessful packaging feature for\nfood products.\n\n\nThe Surf recipes are helpful\nlaundry hints. Each hint is\nprinted on an easy-to-file, cut\nout card and contains simple\npractical instructions for the\nlaundering and cleaning care Of\nvarious household items.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2791,
+                    "y0": 1952,
+                    "x1": 3320,
+                    "y1": 2181
+                },
+                {
+                    "x0": 2826,
+                    "y0": 2198,
+                    "x1": 3642,
+                    "y1": 3119
+                }
+            ],
+            "bbox": [
+                2791,
+                1952,
+                3642,
+                3119
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-07-24_p1_sn84021918_0041421695A_1964072401_0483.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "CONFAB ON MINORITY\nHIRING HELD",
+            "article": "WASHINGTON, DC. DR.. FL\nmer w. Englestrom. president\nof Radio Corporation Of America\nand DR.. Martin D. Jenkins. presi-\ndent of Morgan State College,\nBaltimore, emphasized the\nnational importance of three\nday conference to increase the\nplacement of minority college\ngraduates in business and\nindustry.\n\n\nThe conference is being spon-\nsored by the Plans for Progress\nprogram of the President Com\nmittee on Equal Employment OPP\nportunity and the College Place\nment Council, Inc. More than 800\nrepresentatives of major cor\nporations and predominantly\nNegro colleges have registered\nfor the meeting, July y = \"a at\nthe Statler Hilton Hotel.\n\n\nDR.. Englestrom said: 1.-THE\ninterests of America require that\nevery available talent in the\nnation be used to the maximum\nand that the development of all\nour human reso urces be actively\nencouraged.\n\n\n\"This meeting of presidents\nand placement directors of pre-\ndominantly Negro colleges and\nrecruitment representatives\nfrom private industry is designed\nto further the goal of assuring\nto every young American his\nplace in the nations future. 1t\nis a basic step in the inevitable\nprogression of equal rights from\nconcept to practical application.\n\n\n\"By assuring our minority COL\nleges students equal opportunity\nfor employment and advance\nment, we are achieving at the\nsame time a far broader purpose;\nwe are giving to the present\ngeneration Of school children a\ndramatic lesson in how they will\nbe able to prepare for useful\nand constructive role in our\nsociety,\"\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1888,
+                    "y0": 351,
+                    "x1": 2669,
+                    "y1": 511
+                },
+                {
+                    "x0": 1918,
+                    "y0": 527,
+                    "x1": 2745,
+                    "y1": 3512
+                }
+            ],
+            "bbox": [
+                1888,
+                351,
+                2745,
+                3512
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-24_p1_sn84021918_0041421695A_1964072401_0483.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "of a controversial nature affect\ning the people was accorded\npublic hearing which was open to\nthe public and the transcripts of\nall hearings are made a part\nof the public record for all to see.\n\n\nMr.. Buzard, with his wife\nMargritte, and two daughters,\nCarol. age % and Marilyn. age\n10, resides at 1884 North 18th\nStreet in Phoenix.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1027,
+                    "y0": 3036,
+                    "x1": 1854,
+                    "y1": 3682
+                }
+            ],
+            "bbox": [
+                1027,
+                3036,
+                1854,
+                3682
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-07-24_p1_sn84021918_0041421695A_1964072401_0483.json"
+        }
+    ]
+}

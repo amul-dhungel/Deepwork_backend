@@ -1,0 +1,466 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-01",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7403,
+        "width": 4924,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-05-01",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964050101/0385.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1235,
+                "y0": 2666,
+                "x1": 2919,
+                "y1": 3268
+            },
+            "class": "article",
+            "raw_text": "Connie McElroy celebrated\nafternoon with family and friends.\n\n\nFrom left oslyn Bynum Patricia Smith, King\nhonoree, Yoanda White and Rhonda\n\n\nShe is the daughter of Mr. and Mrs. James McEoy\nBroadway.\n\n\nShown Connie McElroys birthday party\ncousins a host friends.\n\n\nConnie didn't let ear bother her party time.\nThe held schedule Sun, April 10th.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 322,
+                "y0": 3990,
+                "x1": 1138,
+                "y1": 4963
+            },
+            "class": "article",
+            "raw_text": "PITTSBURGH = A Negro has\nbeen named for the first time as\npresident-designate of the Coun-\nell of Bishops of the Methodist\nChurch.\n\n\nHe is Bishop Prince S. Tay-\nlor Jr., 81, native of Okla\nhoma, who for the last eight\nyears has been head of the Mon\nrovia, Liberia, area of the\nchurch. He also has served as\npastor of churches in North Car\nolina, faculty members of Ben\nnett College, Greensboro, NC,\nand professor at Cannon Theo-\nlogical Seminary. Atlanta, Ga.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 322,
+                "y0": 3776,
+                "x1": 1092,
+                "y1": 3968
+            },
+            "class": "headline",
+            "raw_text": "Negro Named To High\nPost By Msthodists",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3005,
+                "y0": 2018,
+                "x1": 4672,
+                "y1": 2858
+            },
+            "class": "article",
+            "raw_text": "delegation from Phoenix served cohosesses of the 10Th\nannual national convention of the Alpha P Chi Omega sorority\nfraternity Members of the local chapter joined 800 other delegates\nfrom A the Denver Hilton Hotel Denver Colorado\nApril 40.\n\n\nSeated from left Mesdames Thomas Pratt local\nbasileu Marjorie S. Joner national supervisor and founder\nof Chicago; Ivory Niece and Ernest Tapp of Phoenix\n\n\nStanding Mesdames Warde Moore Thomas Soblet Plea\nJohnson Curtis Murray, all of Phoenix and Mar Garrs\nnational treasurer of Chicago.\n\n\nMesdames Pratt and Garris models the fashion show\nPlans a\nwhich will end with trip Europe and Africa.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 316,
+                "y0": 5205,
+                "x1": 1126,
+                "y1": 5391
+            },
+            "class": "article",
+            "raw_text": "The primary program will be\npresented Friday, May l, 7:3O\np.m., in the front patio area.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 322,
+                "y0": 5008,
+                "x1": 808,
+                "y1": 5183
+            },
+            "class": "headline",
+            "raw_text": "Sheraton Park\nSchool Plays",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 316,
+                "y0": 3377,
+                "x1": 1144,
+                "y1": 3708
+            },
+            "class": "article",
+            "raw_text": "FOR SALE\n\n\n2 bedrooms. complete, lamps,\ndesk, 81 in. TV conso ole, Lane\ncoffee table. 2gold swivel chairs.\n72l E. Montebello, Apt. lO3.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 651,
+                "y0": 3377,
+                "x1": 941,
+                "y1": 3436
+            },
+            "class": "headline",
+            "raw_text": "FOR SALE",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 316,
+                "y0": 3082,
+                "x1": 1150,
+                "y1": 3332
+            },
+            "class": "article",
+            "raw_text": "House For Rent, 2 bedrooms\nWall-wall carpet, SIS month\n1887 S. IL Ave.\n\n\nAL 4-2o59 (call noon-7 p.m.)",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 322,
+                "y0": 2816,
+                "x1": 1092,
+                "y1": 3072
+            },
+            "class": "headline",
+            "raw_text": "I& M BARBER SHOP\nl205 w. Buckeye\n\n\nHOUSE FOR RENT",
+            "legibility": "Legible",
+            "full_article_id": 15,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 322,
+                "y0": 2602,
+                "x1": 993,
+                "y1": 2782
+            },
+            "class": "article",
+            "raw_text": "GOLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 316,
+                "y0": 2128,
+                "x1": 1034,
+                "y1": 2320
+            },
+            "class": "article",
+            "raw_text": "SOUBLETS BEAUTY SHOP\n2Ol4 E. Broadway\nBR 6-3o64",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 316,
+                "y0": 2353,
+                "x1": 1144,
+                "y1": 2557
+            },
+            "class": "article",
+            "raw_text": "TACKSONS BEAUTY SHOPPE\n1888 E. Madison\nAL 2-o54l",
+            "legibility": "Legible",
+            "full_article_id": 23,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964050101_0385",
+    "full articles": [
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "Connie McElroy celebrated\nafternoon with family and friends.\n\n\nFrom left oslyn Bynum Patricia Smith, King\nhonoree, Yoanda White and Rhonda\n\n\nShe is the daughter of Mr. and Mrs. James McEoy\nBroadway.\n\n\nShown Connie McElroys birthday party\ncousins a host friends.\n\n\nConnie didn't let ear bother her party time.\nThe held schedule Sun, April 10th.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1235,
+                    "y0": 2666,
+                    "x1": 2919,
+                    "y1": 3268
+                }
+            ],
+            "bbox": [
+                1235,
+                2666,
+                2919,
+                3268
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                9,
+                5
+            ],
+            "headline": "Negro Named To High\nPost By Msthodists",
+            "article": "PITTSBURGH = A Negro has\nbeen named for the first time as\npresident-designate of the Coun-\nell of Bishops of the Methodist\nChurch.\n\n\nHe is Bishop Prince S. Tay-\nlor Jr., 81, native of Okla\nhoma, who for the last eight\nyears has been head of the Mon\nrovia, Liberia, area of the\nchurch. He also has served as\npastor of churches in North Car\nolina, faculty members of Ben\nnett College, Greensboro, NC,\nand professor at Cannon Theo-\nlogical Seminary. Atlanta, Ga.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 322,
+                    "y0": 3776,
+                    "x1": 1092,
+                    "y1": 3968
+                },
+                {
+                    "x0": 322,
+                    "y0": 3990,
+                    "x1": 1138,
+                    "y1": 4963
+                }
+            ],
+            "bbox": [
+                322,
+                3776,
+                1138,
+                4963
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "delegation from Phoenix served cohosesses of the 10Th\nannual national convention of the Alpha P Chi Omega sorority\nfraternity Members of the local chapter joined 800 other delegates\nfrom A the Denver Hilton Hotel Denver Colorado\nApril 40.\n\n\nSeated from left Mesdames Thomas Pratt local\nbasileu Marjorie S. Joner national supervisor and founder\nof Chicago; Ivory Niece and Ernest Tapp of Phoenix\n\n\nStanding Mesdames Warde Moore Thomas Soblet Plea\nJohnson Curtis Murray, all of Phoenix and Mar Garrs\nnational treasurer of Chicago.\n\n\nMesdames Pratt and Garris models the fashion show\nPlans a\nwhich will end with trip Europe and Africa.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3005,
+                    "y0": 2018,
+                    "x1": 4672,
+                    "y1": 2858
+                }
+            ],
+            "bbox": [
+                3005,
+                2018,
+                4672,
+                2858
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                6,
+                8
+            ],
+            "headline": "Sheraton Park\nSchool Plays",
+            "article": "The primary program will be\npresented Friday, May l, 7:3O\np.m., in the front patio area.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 322,
+                    "y0": 5008,
+                    "x1": 808,
+                    "y1": 5183
+                },
+                {
+                    "x0": 316,
+                    "y0": 5205,
+                    "x1": 1126,
+                    "y1": 5391
+                }
+            ],
+            "bbox": [
+                316,
+                5008,
+                1126,
+                5391
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                18,
+                13
+            ],
+            "headline": "FOR SALE",
+            "article": "FOR SALE\n\n\n2 bedrooms. complete, lamps,\ndesk, 81 in. TV conso ole, Lane\ncoffee table. 2gold swivel chairs.\n72l E. Montebello, Apt. lO3.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 651,
+                    "y0": 3377,
+                    "x1": 941,
+                    "y1": 3436
+                },
+                {
+                    "x0": 316,
+                    "y0": 3377,
+                    "x1": 1144,
+                    "y1": 3708
+                }
+            ],
+            "bbox": [
+                316,
+                3377,
+                1144,
+                3708
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                17,
+                14
+            ],
+            "headline": "I& M BARBER SHOP\nl205 w. Buckeye\n\n\nHOUSE FOR RENT",
+            "article": "House For Rent, 2 bedrooms\nWall-wall carpet, SIS month\n1887 S. IL Ave.\n\n\nAL 4-2o59 (call noon-7 p.m.)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 322,
+                    "y0": 2816,
+                    "x1": 1092,
+                    "y1": 3072
+                },
+                {
+                    "x0": 316,
+                    "y0": 3082,
+                    "x1": 1150,
+                    "y1": 3332
+                }
+            ],
+            "bbox": [
+                316,
+                2816,
+                1150,
+                3332
+            ],
+            "full_article_id": 15,
+            "id": "15_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "GOLDY'S BEAUTY SHOP\n1921 E. Broadway\nBR 6-oO83",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 322,
+                    "y0": 2602,
+                    "x1": 993,
+                    "y1": 2782
+                }
+            ],
+            "bbox": [
+                322,
+                2602,
+                993,
+                2782
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "SOUBLETS BEAUTY SHOP\n2Ol4 E. Broadway\nBR 6-3o64",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 316,
+                    "y0": 2128,
+                    "x1": 1034,
+                    "y1": 2320
+                }
+            ],
+            "bbox": [
+                316,
+                2128,
+                1034,
+                2320
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        },
+        {
+            "object_ids": [
+                22
+            ],
+            "headline": "",
+            "article": "TACKSONS BEAUTY SHOPPE\n1888 E. Madison\nAL 2-o54l",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 316,
+                    "y0": 2353,
+                    "x1": 1144,
+                    "y1": 2557
+                }
+            ],
+            "bbox": [
+                316,
+                2353,
+                1144,
+                2557
+            ],
+            "full_article_id": 23,
+            "id": "23_1964-05-01_pna_sn84021918_0041421695A_1964050101_0385.json"
+        }
+    ]
+}

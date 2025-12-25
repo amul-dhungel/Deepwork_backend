@@ -1,0 +1,539 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7447,
+        "width": 4880,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964042401/0373.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 153,
+                "y0": 6021,
+                "x1": 974,
+                "y1": 7197
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA = The month\nlong trial Of Bishop D. Ward\nNichols, suspended head of the\nAME Church, ended with YER\ndict of guilty.\n\n\nHe was found guilty on all IL\nindictments which charged en-\nbezzlement of $3.50, 900 of church\nfunds.\n\n\nThe \"a yr. old man was COM\nposed as the jury presented its\nverdict. He could be imprisoned\nS years on each count and fined\n$1,000 for each.\n\n\nBishop Nichols was suspended\nin 1860 as presiding bishop Of the\nFirst Episcopal District of the\nAfrican Methodist Church. He\nwas charged with So counts of\nmisusing church funds.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 159,
+                "y0": 5823,
+                "x1": 747,
+                "y1": 5999
+            },
+            "class": "headline",
+            "raw_text": "BISHOP NICHOLS\nFOUND GUILTY",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1910,
+                "y0": 6487,
+                "x1": 2720,
+                "y1": 7186
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON Howard Uni\nversity officials announced the\nbeginning of the Bling Crosby\nYouth Fund which will provide\n$4,000 worth of scholarships.\n\n\nLoans will be available to un-\ndergraduate students and Howard\nUniversity was selected as one\nof the participating universities\nby the non profit corporation\nwhich has its headquarters at\nMonterey, California.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1928,
+                "y0": 6265,
+                "x1": 2481,
+                "y1": 6464
+            },
+            "class": "headline",
+            "raw_text": "CROSBY FUNDS\nGIVE, MONEY",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2789,
+                "y0": 5631,
+                "x1": 3604,
+                "y1": 7145
+            },
+            "class": "article",
+            "raw_text": "INDIANAPOLIS. Ind. Dele\ngates to the annual NAACP Mid\nwestern regional conference, ap-\nproved massive protest demon\nstration against the General\nMotors Corporation Monday, May\n4th.\n\n\nRepresentatives from seven\nstates cheered resolution call\ning for the one-day demonstra-\nton in front of the automotive\nheadquarters in Detroit, Mich,\nand for similar protest express\nsions outside the corporations\nshowrooms and local offices in\nso cities around the nation.\n\n\nHerbert Hill, NAACP labor\nsecretary, who will lead the dem\nonstration in Detroit, siad the\nmassive protest has been dubbed\n\"March On C.M.,\" and will be\nthe Negroes way of registering a\ncomplaint against G MS \"arro-\ngiant REFUSAL to alter its nation\nwide pattern of discriminatory\npractices.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1032,
+                "y0": 6114,
+                "x1": 1847,
+                "y1": 7128
+            },
+            "class": "article",
+            "raw_text": "Maricopa County Superior\nCourt Judge Henry S. Stevens\nannounced his candidacy for the\nnew Court of Appeals, subject\nto the Republican primary re-\nsuits.\n\n\nA native of Wisconsin he re-\nceived his bachelors degree\nfrom the University of Wiscon-\nsin and his law degree from the\nUniversity of Arizona.\n\n\nWith the exception of 8 III\nyears in the Air Force in World\nWar II. Judge Stevens has been\nactive in the legal profession\nin Phoenix since he was admitted\nto the State bar in 1881.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1037,
+                "y0": 5864,
+                "x1": 1754,
+                "y1": 6069
+            },
+            "class": "headline",
+            "raw_text": "Judge Stevens\nAnnounces Candid uey",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 3661,
+                "y0": 5625,
+                "x1": 4471,
+                "y1": 7087
+            },
+            "class": "article",
+            "raw_text": "1.-THE NAACPis concerned with\nthe entire range of employment\nopportunities in the G M. indus\ntrial empire. Beginning with the\nsupervisory level and up. G M.\nis for the most part a lilly\nwhite\" operation. Our major en-\nphasis is upon supervisory pro-\nfessional, technical and other\nwhite collar occupations This In\ncludes employment as statesmen\nand secretaries.\n\n\nIn the statement issued by the\nrepresentatives of NAACP units\nin Michigan, Illinois, Ohio, In\ndiana, West Virginia, Wisconsin\nand Kentucky, members of the\ncivil rights organization through\nout the nation we're called upon\nto continue conducting periodic\ndemonstrations against I'm.\noffices, plants and dealers show\nrooms until the Corporation dis\ncontinue It's discriminatory prac-\ntees.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2800,
+                "y0": 5335,
+                "x1": 3837,
+                "y1": 5609
+            },
+            "class": "headline",
+            "raw_text": "NAACP To Stage\n\n\nGIN Demonstration",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1910,
+                "y0": 5067,
+                "x1": 2720,
+                "y1": 6232
+            },
+            "class": "article",
+            "raw_text": "Miss Becky Shaw, II, daugh-\nter of Mr.. and Mrs. A. H. Shaw,\nl447 E. Coronado, is the first\nY-Teen delegate chosen to at\ntend the YWCA national con-\nvention.\n\n\nShe is spending a week in\nCleveland at the organization s\nwerd annual convention.\n\n\nOthers attending the conven-\nton are Mesdames Eugene Tom\npane, president B. K. English,\nY Wives representative Florance\nCross, Teens program director\nand Agnes Kelly. program di-\nrector.\n\n\nBecky is a senior at North\nHigh.\n\n\nLast year she attended a Y\nTeen convention in Hawaii.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 1922,
+                "y0": 4852,
+                "x1": 2574,
+                "y1": 5045
+            },
+            "class": "headline",
+            "raw_text": "North High Senior\nIs Teen DeIegu ate",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1898,
+                "y0": 2827,
+                "x1": 2714,
+                "y1": 3596
+            },
+            "class": "article",
+            "raw_text": "William Corbin, audiovisual\ndirector at South Mountain High\nSchool, Is attending the Depart\nment of Audiovisual Instruction,\nof the National Education Asso-\ncitation at Rochester, MY.\n\n\nHe is a delegate from Phoenix\nUnion High School District.\n\n\nA teacher in the high school\nsystem for the past 10 years,\nMr.. Corbin also serves as au-\ndiovisual coordinator of the dis\ntrict high schools.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 2800,
+                "y0": 2699,
+                "x1": 4477,
+                "y1": 3264
+            },
+            "class": "article",
+            "raw_text": "Burt Lancaster with members of the United\nChdren Choir with whom he will appear the NACP\nSpectacular. The nationwide cosedcirct TV show\nscheduled to be May IA.\n\n\nfirst half of the two-hour Show\nwhich originates the Los Angeles Sports Arena and New Yor\nMadison Square Garden.\n\n\nTucson High School Stadium. For\ntickets Rev. Casper Glenn 3O5 W. 23rd Sr Tucson",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 130,
+                "y0": 2670,
+                "x1": 1812,
+                "y1": 3334
+            },
+            "class": "article",
+            "raw_text": "Daughters of Allen Tanner Chapel AME Church.\nsoring isGreen Phoenix\nLittle Theater, Tues April %.\n\n\nplay Morgan Evans ignorant coal miner who\ndifferent personality by inspiring teacher\n\n\nSeated Miss Elizabeth Brown ticket chairman,\nJoseph Island Calvin Goode chairmen and\nLevoyd Moorehad, president.\n\n\nleft Rev. Tx. Williams MesdameS Lerona\nBrice uher chairman. Cross publicity chairman and Tx.\nwilliams pastors wife.",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 141,
+                "y0": 4846,
+                "x1": 1824,
+                "y1": 5801
+            },
+            "class": "article",
+            "raw_text": "couple Michigan ended enjoyable four months visit\nin the with their family.\n\n\nfriends feted Rev. and Mrs. Emory M Barnes\nKalamazoo Michigan Saturday night in the social room at First\nInstitutional Baptist Church, 1l41 E. Jefferson.\n\n\nBarnes has led active and interesting life teacher\nsocial and religious education leader in\nMichigan\n\n\nmarried June 49, 1913 in Oklahoma.\nJune in Michigan\nStanding Mike and Barnes Katherine and Eugene\nLeCompte, grandchildren.\n\n\nMrs. Barnes Rev. and Mrs. E. M\nBarnes Tany Barnes grandmother Mrs. Margaret\ndaughter and Mrs. Beatrice Grevenberg.\n\n\nhave five children and eight grandchildren",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 4895,
+                "y0": 413,
+                "x1": 6170,
+                "y1": 5626
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 28,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964042401_0373",
+    "full articles": [
+        {
+            "object_ids": [
+                17,
+                1
+            ],
+            "headline": "BISHOP NICHOLS\nFOUND GUILTY",
+            "article": "PHILADELPHIA = The month\nlong trial Of Bishop D. Ward\nNichols, suspended head of the\nAME Church, ended with YER\ndict of guilty.\n\n\nHe was found guilty on all IL\nindictments which charged en-\nbezzlement of $3.50, 900 of church\nfunds.\n\n\nThe \"a yr. old man was COM\nposed as the jury presented its\nverdict. He could be imprisoned\nS years on each count and fined\n$1,000 for each.\n\n\nBishop Nichols was suspended\nin 1860 as presiding bishop Of the\nFirst Episcopal District of the\nAfrican Methodist Church. He\nwas charged with So counts of\nmisusing church funds.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 159,
+                    "y0": 5823,
+                    "x1": 747,
+                    "y1": 5999
+                },
+                {
+                    "x0": 153,
+                    "y0": 6021,
+                    "x1": 974,
+                    "y1": 7197
+                }
+            ],
+            "bbox": [
+                153,
+                5823,
+                974,
+                7197
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "CROSBY FUNDS\nGIVE, MONEY",
+            "article": "WASHINGTON Howard Uni\nversity officials announced the\nbeginning of the Bling Crosby\nYouth Fund which will provide\n$4,000 worth of scholarships.\n\n\nLoans will be available to un-\ndergraduate students and Howard\nUniversity was selected as one\nof the participating universities\nby the non profit corporation\nwhich has its headquarters at\nMonterey, California.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1928,
+                    "y0": 6265,
+                    "x1": 2481,
+                    "y1": 6464
+                },
+                {
+                    "x0": 1910,
+                    "y0": 6487,
+                    "x1": 2720,
+                    "y1": 7186
+                }
+            ],
+            "bbox": [
+                1910,
+                6265,
+                2720,
+                7186
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "INDIANAPOLIS. Ind. Dele\ngates to the annual NAACP Mid\nwestern regional conference, ap-\nproved massive protest demon\nstration against the General\nMotors Corporation Monday, May\n4th.\n\n\nRepresentatives from seven\nstates cheered resolution call\ning for the one-day demonstra-\nton in front of the automotive\nheadquarters in Detroit, Mich,\nand for similar protest express\nsions outside the corporations\nshowrooms and local offices in\nso cities around the nation.\n\n\nHerbert Hill, NAACP labor\nsecretary, who will lead the dem\nonstration in Detroit, siad the\nmassive protest has been dubbed\n\"March On C.M.,\" and will be\nthe Negroes way of registering a\ncomplaint against G MS \"arro-\ngiant REFUSAL to alter its nation\nwide pattern of discriminatory\npractices.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2789,
+                    "y0": 5631,
+                    "x1": 3604,
+                    "y1": 7145
+                }
+            ],
+            "bbox": [
+                2789,
+                5631,
+                3604,
+                7145
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                19,
+                6
+            ],
+            "headline": "Judge Stevens\nAnnounces Candid uey",
+            "article": "Maricopa County Superior\nCourt Judge Henry S. Stevens\nannounced his candidacy for the\nnew Court of Appeals, subject\nto the Republican primary re-\nsuits.\n\n\nA native of Wisconsin he re-\nceived his bachelors degree\nfrom the University of Wiscon-\nsin and his law degree from the\nUniversity of Arizona.\n\n\nWith the exception of 8 III\nyears in the Air Force in World\nWar II. Judge Stevens has been\nactive in the legal profession\nin Phoenix since he was admitted\nto the State bar in 1881.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1037,
+                    "y0": 5864,
+                    "x1": 1754,
+                    "y1": 6069
+                },
+                {
+                    "x0": 1032,
+                    "y0": 6114,
+                    "x1": 1847,
+                    "y1": 7128
+                }
+            ],
+            "bbox": [
+                1032,
+                5864,
+                1847,
+                7128
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                18,
+                9
+            ],
+            "headline": "NAACP To Stage\n\n\nGIN Demonstration",
+            "article": "1.-THE NAACPis concerned with\nthe entire range of employment\nopportunities in the G M. indus\ntrial empire. Beginning with the\nsupervisory level and up. G M.\nis for the most part a lilly\nwhite\" operation. Our major en-\nphasis is upon supervisory pro-\nfessional, technical and other\nwhite collar occupations This In\ncludes employment as statesmen\nand secretaries.\n\n\nIn the statement issued by the\nrepresentatives of NAACP units\nin Michigan, Illinois, Ohio, In\ndiana, West Virginia, Wisconsin\nand Kentucky, members of the\ncivil rights organization through\nout the nation we're called upon\nto continue conducting periodic\ndemonstrations against I'm.\noffices, plants and dealers show\nrooms until the Corporation dis\ncontinue It's discriminatory prac-\ntees.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2800,
+                    "y0": 5335,
+                    "x1": 3837,
+                    "y1": 5609
+                },
+                {
+                    "x0": 3661,
+                    "y0": 5625,
+                    "x1": 4471,
+                    "y1": 7087
+                }
+            ],
+            "bbox": [
+                2800,
+                5335,
+                4471,
+                7087
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                20,
+                10
+            ],
+            "headline": "North High Senior\nIs Teen DeIegu ate",
+            "article": "Miss Becky Shaw, II, daugh-\nter of Mr.. and Mrs. A. H. Shaw,\nl447 E. Coronado, is the first\nY-Teen delegate chosen to at\ntend the YWCA national con-\nvention.\n\n\nShe is spending a week in\nCleveland at the organization s\nwerd annual convention.\n\n\nOthers attending the conven-\nton are Mesdames Eugene Tom\npane, president B. K. English,\nY Wives representative Florance\nCross, Teens program director\nand Agnes Kelly. program di-\nrector.\n\n\nBecky is a senior at North\nHigh.\n\n\nLast year she attended a Y\nTeen convention in Hawaii.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1922,
+                    "y0": 4852,
+                    "x1": 2574,
+                    "y1": 5045
+                },
+                {
+                    "x0": 1910,
+                    "y0": 5067,
+                    "x1": 2720,
+                    "y1": 6232
+                }
+            ],
+            "bbox": [
+                1910,
+                4852,
+                2720,
+                6232
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "William Corbin, audiovisual\ndirector at South Mountain High\nSchool, Is attending the Depart\nment of Audiovisual Instruction,\nof the National Education Asso-\ncitation at Rochester, MY.\n\n\nHe is a delegate from Phoenix\nUnion High School District.\n\n\nA teacher in the high school\nsystem for the past 10 years,\nMr.. Corbin also serves as au-\ndiovisual coordinator of the dis\ntrict high schools.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1898,
+                    "y0": 2827,
+                    "x1": 2714,
+                    "y1": 3596
+                }
+            ],
+            "bbox": [
+                1898,
+                2827,
+                2714,
+                3596
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": "Burt Lancaster with members of the United\nChdren Choir with whom he will appear the NACP\nSpectacular. The nationwide cosedcirct TV show\nscheduled to be May IA.\n\n\nfirst half of the two-hour Show\nwhich originates the Los Angeles Sports Arena and New Yor\nMadison Square Garden.\n\n\nTucson High School Stadium. For\ntickets Rev. Casper Glenn 3O5 W. 23rd Sr Tucson",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2800,
+                    "y0": 2699,
+                    "x1": 4477,
+                    "y1": 3264
+                }
+            ],
+            "bbox": [
+                2800,
+                2699,
+                4477,
+                3264
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                13
+            ],
+            "headline": "",
+            "article": "Daughters of Allen Tanner Chapel AME Church.\nsoring isGreen Phoenix\nLittle Theater, Tues April %.\n\n\nplay Morgan Evans ignorant coal miner who\ndifferent personality by inspiring teacher\n\n\nSeated Miss Elizabeth Brown ticket chairman,\nJoseph Island Calvin Goode chairmen and\nLevoyd Moorehad, president.\n\n\nleft Rev. Tx. Williams MesdameS Lerona\nBrice uher chairman. Cross publicity chairman and Tx.\nwilliams pastors wife.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 130,
+                    "y0": 2670,
+                    "x1": 1812,
+                    "y1": 3334
+                }
+            ],
+            "bbox": [
+                130,
+                2670,
+                1812,
+                3334
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "couple Michigan ended enjoyable four months visit\nin the with their family.\n\n\nfriends feted Rev. and Mrs. Emory M Barnes\nKalamazoo Michigan Saturday night in the social room at First\nInstitutional Baptist Church, 1l41 E. Jefferson.\n\n\nBarnes has led active and interesting life teacher\nsocial and religious education leader in\nMichigan\n\n\nmarried June 49, 1913 in Oklahoma.\nJune in Michigan\nStanding Mike and Barnes Katherine and Eugene\nLeCompte, grandchildren.\n\n\nMrs. Barnes Rev. and Mrs. E. M\nBarnes Tany Barnes grandmother Mrs. Margaret\ndaughter and Mrs. Beatrice Grevenberg.\n\n\nhave five children and eight grandchildren",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 141,
+                    "y0": 4846,
+                    "x1": 1824,
+                    "y1": 5801
+                }
+            ],
+            "bbox": [
+                141,
+                4846,
+                1824,
+                5801
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-04-24_pna_sn84021918_0041421695A_1964042401_0373.json"
+        }
+    ]
+}

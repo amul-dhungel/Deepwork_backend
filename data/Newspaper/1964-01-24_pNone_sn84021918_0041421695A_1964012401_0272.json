@@ -1,0 +1,453 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7419,
+        "width": 4809,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-01-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964012401/0272.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2920,
+                "y0": 2330,
+                "x1": 3744,
+                "y1": 3345
+            },
+            "class": "article",
+            "raw_text": "Women who wish to enter the\nFeb. 18th class of Southwestern\nPreparatory School for medical\nsecretaries, should contact the\nregistrars office as soon as\npossible, said Wallace A. Reed,\nM. D.\n\n\nDoctor Reed, president of the\nMaricopa County Medical So\nciety. sponsors of the school,\nadded enro llment in the February\nclass is nearly filled.\n\n\nResponse to the school has been\nSO great that enrolment in next\nwinter s classes is already being\naccepted.\n\n\nNoting that Southwestern Pre-",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2914,
+                "y0": 2127,
+                "x1": 4092,
+                "y1": 2290
+            },
+            "class": "headline",
+            "raw_text": "MEDICAL SECRETARY CLASSES\nTO OPEN FEB. 18th",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1123,
+                "y0": 2353,
+                "x1": 1953,
+                "y1": 3658
+            },
+            "class": "article",
+            "raw_text": "Disabled veterans and depend\nents of deceased veterans\nthroughout Arizona who receive\nmonthly pension payments and\nare now reporting their annual\nincome to the Veterans Admin\nistration are urged to remem-\nDer to sign the reports.\n\n\nWayne Sanders, Manager of\nthe VA regional office in Phoenix\nsaid that every year thousands\nof income reports have to be\nreturned to the pension recip-\ntents for a signature.\n\n\nThe law requires that pensions\nbe paid only to persons whose\nannual income Is less than stip-\nulated amounts. Thus each year,\nan income report must be made\nto determine eligibility.\n\n\nA signature is necessary on\nthe report, Sanders said.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 1140,
+                "y0": 2138,
+                "x1": 1715,
+                "y1": 2348
+            },
+            "class": "headline",
+            "raw_text": "VA HEAD SAYS\nSIGN PENSION\nREPORTS",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2033,
+                "y0": 2399,
+                "x1": 2857,
+                "y1": 3356
+            },
+            "class": "article",
+            "raw_text": "Lloyd Clayton Reed, 80, dis\nobeyed a peace bond order and\ndied from gunshot wounds in the\nhead. He was slain by Mrs. Betty\nG. Thompson, %, 7l6-D South\n10th Ave.. who called police to\nsurrender after the shooting oc-\nCured.\n\n\nShe told police she fired the y\ncaliber revolver after Reed\ngrabbed her arm and tried to\nforce her into a bedroom.\n\n\nMrs. Thompson has five chill\ndren, ages E months to S years,\nwho we're at her home during the\nshooting.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2039,
+                "y0": 2092,
+                "x1": 2648,
+                "y1": 2377
+            },
+            "class": "headline",
+            "raw_text": "MAN SLAIN\n\n\nBY WOMAN WHO\nHAD HIM UNDER\nA PEACE BOND",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3801,
+                "y0": 2330,
+                "x1": 4619,
+                "y1": 3339
+            },
+            "class": "article",
+            "raw_text": "paratory School is the only school\nfor medical secretaries in the\nUnited States which is sponsored\nby medical society, Doctor Reed\nsaid that its organization has at.\ntracted nationwide attention. In\nquiries have been received from\nmedical societies, state organi-\ncations, and important clinics\nthroughout the country, indicat-\ning that the need for trained med\nical office help exists nationally,\nas well as within Arizona's ex-\nbanding medical profession.\n\n\nInterested women should call\nMrs. Zoya Parrish, registrar,\n252-567l.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2004,
+                "y0": 712,
+                "x1": 2834,
+                "y1": 2052
+            },
+            "class": "article",
+            "raw_text": "Jam sessions have been\nchanged from Thursday nights to\nWednesday.\n\n\nOur bowling team needs mem\nbers. Meet the bowlers here\neach Monday at $50 pm. Bowl\nat Southern Lanes.\n\n\nAntler Guard meets the first\nand third Thursday of each month.\n1t will sponsor a Western Dance\non Jan. Is.\n\n\nJan. 26-PSA convention COM\nmittee will meet at 4 pm. All\nmembers are asked to attend.\n\n\nMr.. John Weber, l0o So. IL\nST.. is recuperating from sur\ngerry.\n\n\nDIT. Emma hurry is Ill at Mar\nicopa County Hospital. Ward 81.\n\n\nBob Hunter, exalted ruler of\nNavajo Lodge 1868, Albuquerque,\nNew Mexico, is visiting our city.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2056,
+                "y0": 440,
+                "x1": 2538,
+                "y1": 551
+            },
+            "class": "headline",
+            "raw_text": "ELKs CORNER",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 2045,
+                "y0": 568,
+                "x1": 2764,
+                "y1": 690
+            },
+            "class": "author",
+            "raw_text": "CHARLESETTA\n\n\nMcC ACKNOWLEDGEMENTS,",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 219,
+                "y0": 2399,
+                "x1": 1049,
+                "y1": 4435
+            },
+            "class": "article",
+            "raw_text": "NEW YORK The recently\nannounced program of the Flea\nnor Roosevelt Memorial Founda-\ntion for recruiting returning\nPeace Corps members for in\nterneship training with estab-\nHshed civil rights organizations\nhas been praised as a helpful\ncontribution to the Fight for\nFreedom by NAACP Executive\nSecretary Roy Wilkins and other\ncivil rights leaders.\n\n\nIn an hour Long program tele-\nWsed over the facilities OF\nWABC-TV here, Sunday, Jan. II,\na panel of experts talked on the\nFoundation s new program and\nother aspects of the civil rights\nstruggle.\n\n\nAmong those appearing on the\nprogram with Mr.. Wilkins we're\nWhitney Young, executive direc-\ntor, National Urban League:\nStanley Lowell. chairman, New\nYork City Commission onHuman\nRights: Hyman Bookbinder. ex-\necutive director, Eleanor Roose-\nwelt Memorial Foundation: John\nField, former executive direc-\ntor, the President S Committee\non Equal Employment Opportun-\nity: and William Butell, an ABC\ncommentator, who served as\nmoderator.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 225,
+                "y0": 2185,
+                "x1": 1020,
+                "y1": 2365
+            },
+            "class": "headline",
+            "raw_text": "MEMORIAL HOPES\nTERMED EXCELLENT",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1140,
+                "y0": 3900,
+                "x1": 1964,
+                "y1": 4435
+            },
+            "class": "article",
+            "raw_text": "AUSTIN, Texas-The eight year\nprison sentence of Billy Sol Estes\nfinancial wizard and evangelist,\nwas upheld by the highest state\ncourt for criminal cases.\n\n\nEstes. 38. was convicted in\n1862 of swindling. A Is yr. SEN\ntence is still on appeal in fed\neral court.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1152,
+                "y0": 3697,
+                "x1": 1831,
+                "y1": 3861
+            },
+            "class": "headline",
+            "raw_text": "ESTES SENTENCE\nUPHELD",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964012401_0272",
+    "full articles": [
+        {
+            "object_ids": [
+                19,
+                1
+            ],
+            "headline": "MEDICAL SECRETARY CLASSES\nTO OPEN FEB. 18th",
+            "article": "Women who wish to enter the\nFeb. 18th class of Southwestern\nPreparatory School for medical\nsecretaries, should contact the\nregistrars office as soon as\npossible, said Wallace A. Reed,\nM. D.\n\n\nDoctor Reed, president of the\nMaricopa County Medical So\nciety. sponsors of the school,\nadded enro llment in the February\nclass is nearly filled.\n\n\nResponse to the school has been\nSO great that enrolment in next\nwinter s classes is already being\naccepted.\n\n\nNoting that Southwestern Pre-",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2914,
+                    "y0": 2127,
+                    "x1": 4092,
+                    "y1": 2290
+                },
+                {
+                    "x0": 2920,
+                    "y0": 2330,
+                    "x1": 3744,
+                    "y1": 3345
+                }
+            ],
+            "bbox": [
+                2914,
+                2127,
+                4092,
+                3345
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-24_pna_sn84021918_0041421695A_1964012401_0272.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "VA HEAD SAYS\nSIGN PENSION\nREPORTS",
+            "article": "Disabled veterans and depend\nents of deceased veterans\nthroughout Arizona who receive\nmonthly pension payments and\nare now reporting their annual\nincome to the Veterans Admin\nistration are urged to remem-\nDer to sign the reports.\n\n\nWayne Sanders, Manager of\nthe VA regional office in Phoenix\nsaid that every year thousands\nof income reports have to be\nreturned to the pension recip-\ntents for a signature.\n\n\nThe law requires that pensions\nbe paid only to persons whose\nannual income Is less than stip-\nulated amounts. Thus each year,\nan income report must be made\nto determine eligibility.\n\n\nA signature is necessary on\nthe report, Sanders said.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1140,
+                    "y0": 2138,
+                    "x1": 1715,
+                    "y1": 2348
+                },
+                {
+                    "x0": 1123,
+                    "y0": 2353,
+                    "x1": 1953,
+                    "y1": 3658
+                }
+            ],
+            "bbox": [
+                1123,
+                2138,
+                1953,
+                3658
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-24_pna_sn84021918_0041421695A_1964012401_0272.json"
+        },
+        {
+            "object_ids": [
+                9,
+                3
+            ],
+            "headline": "MAN SLAIN\n\n\nBY WOMAN WHO\nHAD HIM UNDER\nA PEACE BOND",
+            "article": "Lloyd Clayton Reed, 80, dis\nobeyed a peace bond order and\ndied from gunshot wounds in the\nhead. He was slain by Mrs. Betty\nG. Thompson, %, 7l6-D South\n10th Ave.. who called police to\nsurrender after the shooting oc-\nCured.\n\n\nShe told police she fired the y\ncaliber revolver after Reed\ngrabbed her arm and tried to\nforce her into a bedroom.\n\n\nMrs. Thompson has five chill\ndren, ages E months to S years,\nwho we're at her home during the\nshooting.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2039,
+                    "y0": 2092,
+                    "x1": 2648,
+                    "y1": 2377
+                },
+                {
+                    "x0": 2033,
+                    "y0": 2399,
+                    "x1": 2857,
+                    "y1": 3356
+                }
+            ],
+            "bbox": [
+                2033,
+                2092,
+                2857,
+                3356
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-24_pna_sn84021918_0041421695A_1964012401_0272.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "paratory School is the only school\nfor medical secretaries in the\nUnited States which is sponsored\nby medical society, Doctor Reed\nsaid that its organization has at.\ntracted nationwide attention. In\nquiries have been received from\nmedical societies, state organi-\ncations, and important clinics\nthroughout the country, indicat-\ning that the need for trained med\nical office help exists nationally,\nas well as within Arizona's ex-\nbanding medical profession.\n\n\nInterested women should call\nMrs. Zoya Parrish, registrar,\n252-567l.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3801,
+                    "y0": 2330,
+                    "x1": 4619,
+                    "y1": 3339
+                }
+            ],
+            "bbox": [
+                3801,
+                2330,
+                4619,
+                3339
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-24_pna_sn84021918_0041421695A_1964012401_0272.json"
+        },
+        {
+            "object_ids": [
+                21,
+                23,
+                5
+            ],
+            "headline": "ELKs CORNER",
+            "article": "Jam sessions have been\nchanged from Thursday nights to\nWednesday.\n\n\nOur bowling team needs mem\nbers. Meet the bowlers here\neach Monday at $50 pm. Bowl\nat Southern Lanes.\n\n\nAntler Guard meets the first\nand third Thursday of each month.\n1t will sponsor a Western Dance\non Jan. Is.\n\n\nJan. 26-PSA convention COM\nmittee will meet at 4 pm. All\nmembers are asked to attend.\n\n\nMr.. John Weber, l0o So. IL\nST.. is recuperating from sur\ngerry.\n\n\nDIT. Emma hurry is Ill at Mar\nicopa County Hospital. Ward 81.\n\n\nBob Hunter, exalted ruler of\nNavajo Lodge 1868, Albuquerque,\nNew Mexico, is visiting our city.",
+            "byline": "CHARLESETTA\n\n\nMcC ACKNOWLEDGEMENTS,",
+            "bbox_list": [
+                {
+                    "x0": 2056,
+                    "y0": 440,
+                    "x1": 2538,
+                    "y1": 551
+                },
+                {
+                    "x0": 2045,
+                    "y0": 568,
+                    "x1": 2764,
+                    "y1": 690
+                },
+                {
+                    "x0": 2004,
+                    "y0": 712,
+                    "x1": 2834,
+                    "y1": 2052
+                }
+            ],
+            "bbox": [
+                2004,
+                440,
+                2834,
+                2052
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-24_pna_sn84021918_0041421695A_1964012401_0272.json"
+        },
+        {
+            "object_ids": [
+                18,
+                7
+            ],
+            "headline": "MEMORIAL HOPES\nTERMED EXCELLENT",
+            "article": "NEW YORK The recently\nannounced program of the Flea\nnor Roosevelt Memorial Founda-\ntion for recruiting returning\nPeace Corps members for in\nterneship training with estab-\nHshed civil rights organizations\nhas been praised as a helpful\ncontribution to the Fight for\nFreedom by NAACP Executive\nSecretary Roy Wilkins and other\ncivil rights leaders.\n\n\nIn an hour Long program tele-\nWsed over the facilities OF\nWABC-TV here, Sunday, Jan. II,\na panel of experts talked on the\nFoundation s new program and\nother aspects of the civil rights\nstruggle.\n\n\nAmong those appearing on the\nprogram with Mr.. Wilkins we're\nWhitney Young, executive direc-\ntor, National Urban League:\nStanley Lowell. chairman, New\nYork City Commission onHuman\nRights: Hyman Bookbinder. ex-\necutive director, Eleanor Roose-\nwelt Memorial Foundation: John\nField, former executive direc-\ntor, the President S Committee\non Equal Employment Opportun-\nity: and William Butell, an ABC\ncommentator, who served as\nmoderator.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 225,
+                    "y0": 2185,
+                    "x1": 1020,
+                    "y1": 2365
+                },
+                {
+                    "x0": 219,
+                    "y0": 2399,
+                    "x1": 1049,
+                    "y1": 4435
+                }
+            ],
+            "bbox": [
+                219,
+                2185,
+                1049,
+                4435
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-24_pna_sn84021918_0041421695A_1964012401_0272.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "ESTES SENTENCE\nUPHELD",
+            "article": "AUSTIN, Texas-The eight year\nprison sentence of Billy Sol Estes\nfinancial wizard and evangelist,\nwas upheld by the highest state\ncourt for criminal cases.\n\n\nEstes. 38. was convicted in\n1862 of swindling. A Is yr. SEN\ntence is still on appeal in fed\neral court.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1152,
+                    "y0": 3697,
+                    "x1": 1831,
+                    "y1": 3861
+                },
+                {
+                    "x0": 1140,
+                    "y0": 3900,
+                    "x1": 1964,
+                    "y1": 4435
+                }
+            ],
+            "bbox": [
+                1140,
+                3697,
+                1964,
+                4435
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-24_pna_sn84021918_0041421695A_1964012401_0272.json"
+        }
+    ]
+}

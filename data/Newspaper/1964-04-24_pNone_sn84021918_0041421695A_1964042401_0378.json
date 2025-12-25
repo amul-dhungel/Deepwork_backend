@@ -1,0 +1,328 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-24",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7395,
+        "width": 4847,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-04-24",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964042401/0378.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 1140,
+                "y0": 2201,
+                "x1": 1950,
+                "y1": 3369
+            },
+            "class": "article",
+            "raw_text": "Take a snack break with the\nkids this afternoon. Serve\nlemonade with pineapple stick\n\"stirrers\" and pass a tray of\nspicy Cinnamon Drops. For\nabout 5 dozen Pinch cookies,\nsift together 312 cups sifted en-\nriched flour, * teaspoon salt\nand p teaspoon soda. Cream\ntogether p cup shortening and\nu cup sugar until light and\nfluffy. Add 1 cup molasses and\n1 beaten egg. Beat thoroughly\nBlend in 3 tablespoons water.\nAdd flour mixture to creamed\nmixture gradually, mixing well.\nDough will be soft. Combine\n% cup sugar and 2 teaspoons\ncinnamon Drop dough by\nrounded teaspoonfuls into Gin\nnamon sugar. then place on\nCREASED baking sheet Bake in\nmoderate oven (35O'F.) IL to\nIs minutes.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1175,
+                "y0": 1952,
+                "x1": 1569,
+                "y1": 2167
+            },
+            "class": "headline",
+            "raw_text": "Recipe OF\n\n\nThe Week",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 222,
+                "y0": 2206,
+                "x1": 1049,
+                "y1": 3392
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Quinton E. Baker,\nNAACP North Carolina State\nYouth Conference president, re-\nceived the Weintraub Memorial\nAward of $500.\n\n\nThe award is presented to a\nyoung man or woman under Is\nfor outstanding personal cour-\nage in the cause of human rights\nor civil liberties\" was given\nto Mr.. Baker, 20, for his in\ntegration activities in his home\nstate of North Carolina.\n\n\nIn his acceptance remarks,\nMr.. Baker, senior at North\nCarolina College In Durham, said\nhe was deeply honored\" tohave\nbeen chosen to receive the gift\nbecause \"many people have done\nmore than L.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 239,
+                "y0": 1975,
+                "x1": 772,
+                "y1": 2173
+            },
+            "class": "headline",
+            "raw_text": "STUDENT WINS\nAWARD",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2001,
+                "y0": 1866,
+                "x1": 2852,
+                "y1": 4074
+            },
+            "class": "article",
+            "raw_text": "The Shrine Auditorium has\nbeen chosen by Jehovah's Wit\nnessesi for the site Of their cir\ncult assembly to be held May\n22-24. Michele Wargo. circuit\nsuperM sor in Phoenix said, \"The\nShrine Auditorium will be trans\nformed into one huge Kingdom\nHall to accommodate the 1000\nexpected to attend from Is con-\ngregations in Phoenix and the\nsurrounding communities of\nAvondale, Tempe. Chandler and\nSunnyslorxs.\"\n\n\nWargo also said, \"This assem-\nbly, Is not a revival. but spe-\ncial educational program dealing\nwith the art of Bible teaching\nand featuring practical ways to\nimprove our door to door teaching\nmethods\"\n\n\nJohn P. Sutherland, Brooklyn,\nN. Y. District Supervisor will\nbe the key speaker for the event.\nHe has been an ordained minis\nter for % years and is a grad\nuate of the Watchtower Bible\nSchool of Gilt,ad at South Lans-\ning, New York. Mr.. Sutherland\nand his wife, Ruth, have travelled\nin many parts of the United States\nand he served as chairman for\nthe Pasadena segment of the\nAround the World International\nEverlasting G,3od News Assem-\nbly, of Jehovah's. Witnesses\" this\npast summer.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 2047,
+                "y0": 1658,
+                "x1": 2782,
+                "y1": 1861
+            },
+            "class": "headline",
+            "raw_text": "Jehovah s Witnesses\nTo Meet",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2024,
+                "y0": 4356,
+                "x1": 2840,
+                "y1": 4784
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES :. Three Negro\nmusicians played with the Acad1\nenvy Awards show orchestra.\n\n\nAppearing on the. spectacular\nshow we're Toni Robins on, harp\nist; William Green, saxophonist\nand Buddy Collete saxophonist.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2024,
+                "y0": 4136,
+                "x1": 2800,
+                "y1": 4334
+            },
+            "class": "headline",
+            "raw_text": "3 Negroes Played In\nAwards Orchestra",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2908,
+                "y0": 3142,
+                "x1": 4608,
+                "y1": 3912
+            },
+            "class": "article",
+            "raw_text": "Boy Scouts exhibition held last weekend the\nfairgrounds.\n\n\nTop Troop Jackson School displaying\nUnited States Materials provided by Ladlows Home\nFurnishings.\n\n\nAnthony Watson Donovan Sovall,\nmother, prepare demonstration.\n\n\nphooThoma E. Wilson, is surrounded by\ner Arizona Our National Heritage project\nTroop members Jake Thomas Herverrt Scott Paul\nHernandez Scott, Roosevelt Woods, , Donald Oliver,\nLarry Mathews and Glen Calvin\nThis troop represented Bethune School.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 4878,
+                "y0": 398,
+                "x1": 6127,
+                "y1": 5535
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964042401_0378",
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "Recipe OF\n\n\nThe Week",
+            "article": "Take a snack break with the\nkids this afternoon. Serve\nlemonade with pineapple stick\n\"stirrers\" and pass a tray of\nspicy Cinnamon Drops. For\nabout 5 dozen Pinch cookies,\nsift together 312 cups sifted en-\nriched flour, * teaspoon salt\nand p teaspoon soda. Cream\ntogether p cup shortening and\nu cup sugar until light and\nfluffy. Add 1 cup molasses and\n1 beaten egg. Beat thoroughly\nBlend in 3 tablespoons water.\nAdd flour mixture to creamed\nmixture gradually, mixing well.\nDough will be soft. Combine\n% cup sugar and 2 teaspoons\ncinnamon Drop dough by\nrounded teaspoonfuls into Gin\nnamon sugar. then place on\nCREASED baking sheet Bake in\nmoderate oven (35O'F.) IL to\nIs minutes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1175,
+                    "y0": 1952,
+                    "x1": 1569,
+                    "y1": 2167
+                },
+                {
+                    "x0": 1140,
+                    "y0": 2201,
+                    "x1": 1950,
+                    "y1": 3369
+                }
+            ],
+            "bbox": [
+                1140,
+                1952,
+                1950,
+                3369
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-04-24_pna_sn84021918_0041421695A_1964042401_0378.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "STUDENT WINS\nAWARD",
+            "article": "NEW YORK-Quinton E. Baker,\nNAACP North Carolina State\nYouth Conference president, re-\nceived the Weintraub Memorial\nAward of $500.\n\n\nThe award is presented to a\nyoung man or woman under Is\nfor outstanding personal cour-\nage in the cause of human rights\nor civil liberties\" was given\nto Mr.. Baker, 20, for his in\ntegration activities in his home\nstate of North Carolina.\n\n\nIn his acceptance remarks,\nMr.. Baker, senior at North\nCarolina College In Durham, said\nhe was deeply honored\" tohave\nbeen chosen to receive the gift\nbecause \"many people have done\nmore than L.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 239,
+                    "y0": 1975,
+                    "x1": 772,
+                    "y1": 2173
+                },
+                {
+                    "x0": 222,
+                    "y0": 2206,
+                    "x1": 1049,
+                    "y1": 3392
+                }
+            ],
+            "bbox": [
+                222,
+                1975,
+                1049,
+                3392
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-04-24_pna_sn84021918_0041421695A_1964042401_0378.json"
+        },
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "Jehovah s Witnesses\nTo Meet",
+            "article": "The Shrine Auditorium has\nbeen chosen by Jehovah's Wit\nnessesi for the site Of their cir\ncult assembly to be held May\n22-24. Michele Wargo. circuit\nsuperM sor in Phoenix said, \"The\nShrine Auditorium will be trans\nformed into one huge Kingdom\nHall to accommodate the 1000\nexpected to attend from Is con-\ngregations in Phoenix and the\nsurrounding communities of\nAvondale, Tempe. Chandler and\nSunnyslorxs.\"\n\n\nWargo also said, \"This assem-\nbly, Is not a revival. but spe-\ncial educational program dealing\nwith the art of Bible teaching\nand featuring practical ways to\nimprove our door to door teaching\nmethods\"\n\n\nJohn P. Sutherland, Brooklyn,\nN. Y. District Supervisor will\nbe the key speaker for the event.\nHe has been an ordained minis\nter for % years and is a grad\nuate of the Watchtower Bible\nSchool of Gilt,ad at South Lans-\ning, New York. Mr.. Sutherland\nand his wife, Ruth, have travelled\nin many parts of the United States\nand he served as chairman for\nthe Pasadena segment of the\nAround the World International\nEverlasting G,3od News Assem-\nbly, of Jehovah's. Witnesses\" this\npast summer.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2047,
+                    "y0": 1658,
+                    "x1": 2782,
+                    "y1": 1861
+                },
+                {
+                    "x0": 2001,
+                    "y0": 1866,
+                    "x1": 2852,
+                    "y1": 4074
+                }
+            ],
+            "bbox": [
+                2001,
+                1658,
+                2852,
+                4074
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-04-24_pna_sn84021918_0041421695A_1964042401_0378.json"
+        },
+        {
+            "object_ids": [
+                7,
+                5
+            ],
+            "headline": "3 Negroes Played In\nAwards Orchestra",
+            "article": "LOS ANGELES :. Three Negro\nmusicians played with the Acad1\nenvy Awards show orchestra.\n\n\nAppearing on the. spectacular\nshow we're Toni Robins on, harp\nist; William Green, saxophonist\nand Buddy Collete saxophonist.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2024,
+                    "y0": 4136,
+                    "x1": 2800,
+                    "y1": 4334
+                },
+                {
+                    "x0": 2024,
+                    "y0": 4356,
+                    "x1": 2840,
+                    "y1": 4784
+                }
+            ],
+            "bbox": [
+                2024,
+                4136,
+                2840,
+                4784
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-04-24_pna_sn84021918_0041421695A_1964042401_0378.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "Boy Scouts exhibition held last weekend the\nfairgrounds.\n\n\nTop Troop Jackson School displaying\nUnited States Materials provided by Ladlows Home\nFurnishings.\n\n\nAnthony Watson Donovan Sovall,\nmother, prepare demonstration.\n\n\nphooThoma E. Wilson, is surrounded by\ner Arizona Our National Heritage project\nTroop members Jake Thomas Herverrt Scott Paul\nHernandez Scott, Roosevelt Woods, , Donald Oliver,\nLarry Mathews and Glen Calvin\nThis troop represented Bethune School.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2908,
+                    "y0": 3142,
+                    "x1": 4608,
+                    "y1": 3912
+                }
+            ],
+            "bbox": [
+                2908,
+                3142,
+                4608,
+                3912
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-04-24_pna_sn84021918_0041421695A_1964042401_0378.json"
+        }
+    ]
+}

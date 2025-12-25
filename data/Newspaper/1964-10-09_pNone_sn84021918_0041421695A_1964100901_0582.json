@@ -1,0 +1,546 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7394,
+        "width": 4890,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-10-09",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964100901/0582.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2098,
+                "y0": 514,
+                "x1": 2925,
+                "y1": 2467
+            },
+            "class": "article",
+            "raw_text": "Thanks to all for your wonder\nfull support. Our annual Stylor-\nanna was a success and we we're\nhappy to have you as our guests\nat the Ramada Inn Sunday.\n\n\nSunceray Social Club held its\nannual fall dance at the Mas onic\nHall Saturday night. They raise\nfunds annually for Christmas\nbaskets. Mrs. Bernice Oates is\nthe Woodworking president.\n\n\nWilbert Battles attended the\nMesa Desert golf tournament In\nSan Diego. Calf.\n\n\nMiss 10 Helen Lewis has re-\nturned from the national con-\nvention of the Church of the Living\nGod in Dallas. She stopped over\nin Oklahoma.\n\n\nElder John Collins and his\nfamily passed through on their\nway to Piusburg. Calf. He has\nbeen transferred there. He is the\nson of Mrs. Josephine Smith.\n\n\nSt. Johns Missionary Society\nis spoons oring rummage sale\nSat-, Oct. 10 at 9th Ave. and\nBuckeye Rd. Mrs. Carrie Nit\nchell is the president.\n\n\nThought of the week Anger\nis brief lunacy. = Horace.\n\n\nCall AL 8-OOO5 for news items\nin this column.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2098,
+                "y0": 265,
+                "x1": 2590,
+                "y1": 474
+            },
+            "class": "headline",
+            "raw_text": "ALL AROUND\nFlora RUffin",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 296,
+                "y0": 2807,
+                "x1": 1117,
+                "y1": 3524
+            },
+            "class": "article",
+            "raw_text": "ATLANTA-Dr. Aaron E. Henry\nof Clarksdale, Miss. who led that\nstates Freedom Party dele\ncation to the DemocraticC onven-\ntion in successful seating chal-\nlenge of the all white delegation,\nwill receive the Southern Chris\ntian Leadership conference\nhighest award.\n\n\nDR.. Martin Luther King. Jr.,\npresident of the civil rights or\nganization, presented it at the",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 550,
+                "y0": 2628,
+                "x1": 1775,
+                "y1": 2767
+            },
+            "class": "headline",
+            "raw_text": "Aaron Henry Wins Award",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2081,
+                "y0": 2749,
+                "x1": 2896,
+                "y1": 3518
+            },
+            "class": "article",
+            "raw_text": "PITTSBURGH Willie Star\nCELL of the Pittsburgh Pirates\nunderwent a knee operation last\nweek.\n\n\nDoctors at Presbyterian-Uni-\nversity Hospital said they found\nonly Slight damage to the carti-\nlage and some damage to the\nleft knee. They said the latter\nwas corrected.\n\n\nThe Observation-Disclosures twist\ned the knee May 10 in game\nat Los Angeles.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2109,
+                "y0": 2518,
+                "x1": 2653,
+                "y1": 2715
+            },
+            "class": "headline",
+            "raw_text": "Sturgell\nH as Operation",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1208,
+                "y0": 2813,
+                "x1": 2030,
+                "y1": 3478
+            },
+            "class": "article",
+            "raw_text": "9th annual convention held in\nSavannah, Georgia, September\n2o-October 2.\n\n\nDR.. Henry accepted the Rosa\nParks Award. which is given an\nnually to the pers on who has made\nthe most creative and significant\ncontribution to the non-violent\nmovement for the freedom of\nNegroes. He will be the third\nperson to receive the award.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2953,
+                "y0": 415,
+                "x1": 3838,
+                "y1": 3524
+            },
+            "class": "article",
+            "raw_text": "NEW YORK A total of IS\nwhite first and second graders\nstaged a second sitin at the public\nschool from which they had been\ntransferred in an pupil integra-\ntion move.\n\n\nThe parents ignored prin-\ncipars warnings that they we're\nviolating the law.\n\n\nPredominantly white PS l40\nis paired with the nearly all\nNegro PS 90 and children in\ngrades l and 2.\n\n\nThe Distinguishing program\ncaused a two day white boycott\nwhen schools opened in Sep\nTENDER.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach q\n\n\nFlO4\n\n\nor recent experience\non century series aircraft\nAIR CRAF T MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical.\nelectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\n/. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets. missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-E45 pm.\nAn equal opportunity employer\no35-o3ll Elk. 2253",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3011,
+                "y0": 277,
+                "x1": 3514,
+                "y1": 382
+            },
+            "class": "headline",
+            "raw_text": "W hites Sit In",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 919,
+                "y0": 5926,
+                "x1": 1978,
+                "y1": 6863
+            },
+            "class": "article",
+            "raw_text": ". It takes about or1e-iaaH gallon Of water\njust TO wash your hands another\nway in which the average Arizona\nfamily uses 500 gallons Of waller every\nday. In addition 70 your domestic\nneeds, great amounts Of water are\nrequired BY agriculture and industry.\nCurrent fun-oH from rain and snow\ncannot meet all our thirsty demands,\nTherefore We must call upon our\nefWindIing underground reserves\n\n\nwhich are being depleted at the rate\nof 4. oOf, 600 aere.feet 4 year",
+            "legibility": "Legible",
+            "full_article_id": 13,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 3877,
+                "y0": 2986,
+                "x1": 4693,
+                "y1": 3287
+            },
+            "class": "article",
+            "raw_text": "Help Wanted Male and Female,\nVarious Jobs Register Now -.\nSouth Phoenix Employment\nAgency, l9-l/2 E. Southern Ave.\n276-5242.",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 3877,
+                "y0": 2876,
+                "x1": 4386,
+                "y1": 2970
+            },
+            "class": "headline",
+            "raw_text": "HELP WANTED",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 3877,
+                "y0": 3338,
+                "x1": 4687,
+                "y1": 3530
+            },
+            "class": "article",
+            "raw_text": "All women hats are different\nmilliners seldom make the same\nmistake twice.",
+            "legibility": "Legible",
+            "full_article_id": 20,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3877,
+                "y0": 2691,
+                "x1": 4485,
+                "y1": 2819
+            },
+            "class": "article",
+            "raw_text": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 3883,
+                "y0": 508,
+                "x1": 4687,
+                "y1": 682
+            },
+            "class": "article",
+            "raw_text": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-O511",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3912,
+                "y0": 248,
+                "x1": 4652,
+                "y1": 486
+            },
+            "class": "headline",
+            "raw_text": "CLASSIFIED\n\n\nDIRECTORY",
+            "legibility": "Legible",
+            "full_article_id": 27,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964100901_0582",
+    "full articles": [
+        {
+            "object_ids": [
+                7,
+                1
+            ],
+            "headline": "ALL AROUND\nFlora RUffin",
+            "article": "Thanks to all for your wonder\nfull support. Our annual Stylor-\nanna was a success and we we're\nhappy to have you as our guests\nat the Ramada Inn Sunday.\n\n\nSunceray Social Club held its\nannual fall dance at the Mas onic\nHall Saturday night. They raise\nfunds annually for Christmas\nbaskets. Mrs. Bernice Oates is\nthe Woodworking president.\n\n\nWilbert Battles attended the\nMesa Desert golf tournament In\nSan Diego. Calf.\n\n\nMiss 10 Helen Lewis has re-\nturned from the national con-\nvention of the Church of the Living\nGod in Dallas. She stopped over\nin Oklahoma.\n\n\nElder John Collins and his\nfamily passed through on their\nway to Piusburg. Calf. He has\nbeen transferred there. He is the\nson of Mrs. Josephine Smith.\n\n\nSt. Johns Missionary Society\nis spoons oring rummage sale\nSat-, Oct. 10 at 9th Ave. and\nBuckeye Rd. Mrs. Carrie Nit\nchell is the president.\n\n\nThought of the week Anger\nis brief lunacy. = Horace.\n\n\nCall AL 8-OOO5 for news items\nin this column.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2098,
+                    "y0": 265,
+                    "x1": 2590,
+                    "y1": 474
+                },
+                {
+                    "x0": 2098,
+                    "y0": 514,
+                    "x1": 2925,
+                    "y1": 2467
+                }
+            ],
+            "bbox": [
+                2098,
+                265,
+                2925,
+                2467
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                9,
+                2
+            ],
+            "headline": "Aaron Henry Wins Award",
+            "article": "ATLANTA-Dr. Aaron E. Henry\nof Clarksdale, Miss. who led that\nstates Freedom Party dele\ncation to the DemocraticC onven-\ntion in successful seating chal-\nlenge of the all white delegation,\nwill receive the Southern Chris\ntian Leadership conference\nhighest award.\n\n\nDR.. Martin Luther King. Jr.,\npresident of the civil rights or\nganization, presented it at the",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 550,
+                    "y0": 2628,
+                    "x1": 1775,
+                    "y1": 2767
+                },
+                {
+                    "x0": 296,
+                    "y0": 2807,
+                    "x1": 1117,
+                    "y1": 3524
+                }
+            ],
+            "bbox": [
+                296,
+                2628,
+                1775,
+                3524
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                5,
+                3
+            ],
+            "headline": "Sturgell\nH as Operation",
+            "article": "PITTSBURGH Willie Star\nCELL of the Pittsburgh Pirates\nunderwent a knee operation last\nweek.\n\n\nDoctors at Presbyterian-Uni-\nversity Hospital said they found\nonly Slight damage to the carti-\nlage and some damage to the\nleft knee. They said the latter\nwas corrected.\n\n\nThe Observation-Disclosures twist\ned the knee May 10 in game\nat Los Angeles.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2109,
+                    "y0": 2518,
+                    "x1": 2653,
+                    "y1": 2715
+                },
+                {
+                    "x0": 2081,
+                    "y0": 2749,
+                    "x1": 2896,
+                    "y1": 3518
+                }
+            ],
+            "bbox": [
+                2081,
+                2518,
+                2896,
+                3518
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "9th annual convention held in\nSavannah, Georgia, September\n2o-October 2.\n\n\nDR.. Henry accepted the Rosa\nParks Award. which is given an\nnually to the pers on who has made\nthe most creative and significant\ncontribution to the non-violent\nmovement for the freedom of\nNegroes. He will be the third\nperson to receive the award.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1208,
+                    "y0": 2813,
+                    "x1": 2030,
+                    "y1": 3478
+                }
+            ],
+            "bbox": [
+                1208,
+                2813,
+                2030,
+                3478
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                10,
+                6
+            ],
+            "headline": "W hites Sit In",
+            "article": "NEW YORK A total of IS\nwhite first and second graders\nstaged a second sitin at the public\nschool from which they had been\ntransferred in an pupil integra-\ntion move.\n\n\nThe parents ignored prin-\ncipars warnings that they we're\nviolating the law.\n\n\nPredominantly white PS l40\nis paired with the nearly all\nNegro PS 90 and children in\ngrades l and 2.\n\n\nThe Distinguishing program\ncaused a two day white boycott\nwhen schools opened in Sep\nTENDER.\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach q\n\n\nFlO4\n\n\nor recent experience\non century series aircraft\nAIR CRAF T MECHANICS\nwith periodic docks experience\nSYSTEMS SPECIALISTS\nwith experience in electrical.\nelectronic, pneudraulic, heat &\nvent, and or mechanical systems\nRequirements are:\n\n\n/. Engine run certification\n2. Ground support equipment\n\n\ncertification\n\n\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets. missiles, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-E45 pm.\nAn equal opportunity employer\no35-o3ll Elk. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3011,
+                    "y0": 277,
+                    "x1": 3514,
+                    "y1": 382
+                },
+                {
+                    "x0": 2953,
+                    "y0": 415,
+                    "x1": 3838,
+                    "y1": 3524
+                }
+            ],
+            "bbox": [
+                2953,
+                277,
+                3838,
+                3524
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                12
+            ],
+            "headline": "",
+            "article": ". It takes about or1e-iaaH gallon Of water\njust TO wash your hands another\nway in which the average Arizona\nfamily uses 500 gallons Of waller every\nday. In addition 70 your domestic\nneeds, great amounts Of water are\nrequired BY agriculture and industry.\nCurrent fun-oH from rain and snow\ncannot meet all our thirsty demands,\nTherefore We must call upon our\nefWindIing underground reserves\n\n\nwhich are being depleted at the rate\nof 4. oOf, 600 aere.feet 4 year",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 919,
+                    "y0": 5926,
+                    "x1": 1978,
+                    "y1": 6863
+                }
+            ],
+            "bbox": [
+                919,
+                5926,
+                1978,
+                6863
+            ],
+            "full_article_id": 13,
+            "id": "13_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                15,
+                18
+            ],
+            "headline": "HELP WANTED",
+            "article": "Help Wanted Male and Female,\nVarious Jobs Register Now -.\nSouth Phoenix Employment\nAgency, l9-l/2 E. Southern Ave.\n276-5242.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3877,
+                    "y0": 2876,
+                    "x1": 4386,
+                    "y1": 2970
+                },
+                {
+                    "x0": 3877,
+                    "y0": 2986,
+                    "x1": 4693,
+                    "y1": 3287
+                }
+            ],
+            "bbox": [
+                3877,
+                2876,
+                4693,
+                3287
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                19
+            ],
+            "headline": "",
+            "article": "All women hats are different\nmilliners seldom make the same\nmistake twice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3877,
+                    "y0": 3338,
+                    "x1": 4687,
+                    "y1": 3530
+                }
+            ],
+            "bbox": [
+                3877,
+                3338,
+                4687,
+                3530
+            ],
+            "full_article_id": 20,
+            "id": "20_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                23
+            ],
+            "headline": "",
+            "article": "EARL'S BARBER SHOP\n1852 E. Washington",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3877,
+                    "y0": 2691,
+                    "x1": 4485,
+                    "y1": 2819
+                }
+            ],
+            "bbox": [
+                3877,
+                2691,
+                4485,
+                2819
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        },
+        {
+            "object_ids": [
+                24,
+                26
+            ],
+            "headline": "CLASSIFIED\n\n\nDIRECTORY",
+            "article": "ADRIANNE'S BEAUTY SALON\n1418 E. Washington\n258-O511",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3912,
+                    "y0": 248,
+                    "x1": 4652,
+                    "y1": 486
+                },
+                {
+                    "x0": 3883,
+                    "y0": 508,
+                    "x1": 4687,
+                    "y1": 682
+                }
+            ],
+            "bbox": [
+                3883,
+                248,
+                4687,
+                682
+            ],
+            "full_article_id": 27,
+            "id": "27_1964-10-09_pna_sn84021918_0041421695A_1964100901_0582.json"
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964070301/0458.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7395,
+        "width": 4894
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3891,
+                "y0": 3183,
+                "x1": 4712,
+                "y1": 4617
+            },
+            "class": "article",
+            "raw_text": "The VNB publication points out\nthat figures on tourist and travel\nspending are estimates--\"based\non sampling studies and other In\nformation that includes rental In\ncome, restaurant sales, sales\nof motor vehicle fuel and also a\nliberal measure of guestimat-\nting\n\n\nMotorists who pause for an\novernight stay. or longer, add\nmuch more to the states econ\nomy than those who see Arizona\nonly as a place to be got across\nas quickly as possible.\n\n\nEach car that travels straight\nacross the state--with no stops\nexcept for fuel or food--repre-\nsents spending of about $40, Ari-\niona Progress estimates, adding:\n\n\n\"We estimate that the daily\nexpenditure per auto by motorists\nwho sight-see and stay overnight\nin Arizona approMmates $685.\"",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1222,
+                "y0": 2628,
+                "x1": 2043,
+                "y1": 3577
+            },
+            "class": "article",
+            "raw_text": "Arthur ARROW passed away\nJune 80. Final arrangements are\npending.\n\n\nSammie Warren, Of Los An\ngeles, was elected to Pacific\nStates president.\n\n\nMrs. Bessie l. Smith was re-\nelected president of the women's\ndivision.\n\n\nAlva Griffin won the SIS rattle.\n\n\nArizona daughters receiving\nPast State President honors were\nCharlesetta McClammy. Mary\nBoozer, Of Phoenix, and Joyce\nNeal. of Flagstaff. Mrs. Neal\nwon her PDR honors.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1233,
+                "y0": 2409,
+                "x1": 1766,
+                "y1": 2612
+            },
+            "class": "headline",
+            "raw_text": "EIks Corn er\n\n\n{. MeClAMMY",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2990,
+                "y0": 3177,
+                "x1": 3811,
+                "y1": 4651
+            },
+            "class": "article",
+            "raw_text": "Arizona was visited by more\nout-of-state motorists than last\nyear. A total of 4,l63.325 cars\nentered the state. The estimated\nspending by tourists and trav-\nelers reached the all-time high\nOf $375 million.\n\n\nThese estimates were made by\nthe research department Of the\nValley National Bank and was\npublished in the banks monthly\nbusiness review, Arizona Pro-\ngress.\n\n\n1.-THE out-of-state motorists,\nof course, add to Arizona S high\nway traffic problems\" the bank\nreport states. \"They also, how\never. provide Arizona with an\nimportant source of income.\n\n\nsit is no coincidence that as\nthe number of cars entering the\nstate has increased, the total\ndollars spent in Arizona by tour\nlists and travellers has increased\nalso\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2984,
+                "y0": 2617,
+                "x1": 3817,
+                "y1": 2947
+            },
+            "class": "headline",
+            "raw_text": "CALL 276-23O1\n\n\nFOR PHOTOS",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3336,
+                "y0": 3009,
+                "x1": 4348,
+                "y1": 3149
+            },
+            "class": "headline",
+            "raw_text": "VISITORS HELP STATE",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3902,
+                "y0": 1802,
+                "x1": 4724,
+                "y1": 2803
+            },
+            "class": "article",
+            "raw_text": "Vernon Mathews, 8. wears a\npleased expression as he surveys\nall of the lovely birthday gifts\nhe received.\n\n\nThe son of Mr.. and Mrs. Her\nman Mathews, ITO w. Mohave,\nVernon was honored by relatives\nand friends at party.\n\n\nGuests included Chris May\nfield, Dennis Bobo, Arthur Mil\nTer, Bobby Carrethers, Debra\nJames, Veronica Jack, Linda\nOwens, Debra and Calvin Will\nliams, Gwendolyn Calvin, Ester\nand Andrew Tadamy, Joe Brown,\nVictor Doss, and Berney Gre\nsham.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 1216,
+                "y0": 4194,
+                "x1": 2043,
+                "y1": 5079
+            },
+            "class": "article",
+            "raw_text": "Walter Tucker, IT, 1919 E.\nPueblo, owner of a restaurant\nwas seriously wounded by a shot\nfired by Thomas Duncan. 10. l07\nS. 18th St.\n\n\nTucker was shot in fuckers\nInn, 1901 E. Jefferson St. He\nstaggered from the inn and drove\nhimself home. He was admitted\nto Memorial Hospital with a bull\nlet wound through the left chest.\nabove the heart.\n\n\nDuncan was arrested for\ncarrying a concealed weapon and\nassault with a deadly weapon.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 1233,
+                "y0": 4090,
+                "x1": 1725,
+                "y1": 4178
+            },
+            "class": "headline",
+            "raw_text": "Owner Injured",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1222,
+                "y0": 3633,
+                "x1": 2066,
+                "y1": 4068
+            },
+            "class": "article",
+            "raw_text": "Wood rolling pins, pastry boards,\nspoons, and other cooking Access\nseries may be safely immersed in\nsoap or detergent suds for wash\ning = but should not be left to\nsoak. After rinsing and wiping,\nlet such utensils air-dry before\nputting them away.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2106,
+                "y0": 722,
+                "x1": 2944,
+                "y1": 4230
+            },
+            "class": "article",
+            "raw_text": "Sarah Folsom, Yavapai County\nSchool superintendent for the past\nIL years, and a member of the\nState Board of Education, an\nnounced she will seek the office\nOf State Superintendent of Public\nInstruction on the Republican IT,\nket.\n\n\nMrs. Folsom stated \"Since the\nannouncement of the Draft Sarah\nFolsom committee a few days\nago, Ihave heard from Republican\nand Democratic friends from all\nIA counties urging me to run for\nthe office Of State Superintendent\nof Public Instruction. will take\nmy campaign, based on my deep\nbeliefs in quality education and\nmy record in Arizona Public\nSchool Administration, to the\npeople Of this great state. If they\nsee fit to place me in this office\nof high responsibility and trust,\nwill carry out faithfully,\ndiligently and impartially 1.-THE\nduties Of the office as outlined in\nthe Arizona Statutes. l will\nalways place the child first and\nthe taxpayer close second. My\nobjective Is the best possible\neducation for each child so that\nthe childs personalities may be\ndeveloped. The Strengthening of\nfundamentals (the 8 R's), more\nequal educational opportunities\nfor children. the raising Of edu-\ncational standards, the emphasi-\nzing of American history COM\nprise my specific aims\n\n\nfurthermore\" Mrs. Folsom\ncommented: \"The record an\nelective official makes while in\noffice is a good indication of what\ncitizens can expect Of that Off\ncial. AS to my sense of fiscal\nresponsibility. feel that taxes\ncome from all people. Tax\nmonies should be spent with the\nutmost discretion. indeed with\nmore care than when spending\nones own money.\n\n\nImmediately upon assuming Of\nflee as County School Superin-\ntendent, Mrs. Folsom s efficient\nmanagement of money allowed\neach child in Yavapai County\nnearly $1,000 more in per capita\naid.\n\n\nNew Subscription",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2152,
+                "y0": 427,
+                "x1": 2650,
+                "y1": 688
+            },
+            "class": "headline",
+            "raw_text": "Mrs. Folsom\nSeeks Stuie\nEducation Post",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 309,
+                "y0": 4257,
+                "x1": 1130,
+                "y1": 5073
+            },
+            "class": "article",
+            "raw_text": "ST. LOUIS-The Rev. John ].\nHicks, president of the board of\neducation resigned to become\npastor of ST. Marks Methodist\nChurch in New York City.\n\n\nMIR. Hicks, first Negro to serve\nas school board president, has\nbeen on the board since 1859.\nHe served as pastor of Union\nMemorial Methodist Church, the\nlargest Methodist congregation in\nSt. Louis.\n\n\nThe minister was the first Ne\ngro to win a citywide election.",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 326,
+                "y0": 4153,
+                "x1": 795,
+                "y1": 4241
+            },
+            "class": "headline",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 18,
+            "reading_order_id": -1
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 309,
+                "y0": 2617,
+                "x1": 1136,
+                "y1": 4131
+            },
+            "class": "article",
+            "raw_text": "NEW YORK--In an effort to\nkeep the highly praised play by\nJames Baldwin. \"Blues for MIR.\nCHARLIE from closing, the\nNAACP has strongly urged its\nmembers to see the perform\nance.\n\n\nIn a letter to NAACP mem\nbers in the greater New York\narea. Roy wilkins, executive Sec\nrotary, said. sit would be a gen\nuine misfortune If this play went\nunder. 1t Is dramatic and percep-\ntive, and sometimes shocking\"\n\n\nIn urging their patr onage. MIR.\nwilkins commented that the play\nIDEALS with issues which are\nbasic to the fight in which we\nare engaged\"\n\n\nThe play has received excel\nlent reviews, but attendance fig\nures have not been high enough\nto insure long run. A contri-\nbutton of several thousand dollars\nhas enabled 1t to keep running\nfhus far.",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 349,
+                "y0": 2391,
+                "x1": 899,
+                "y1": 2577
+            },
+            "class": "headline",
+            "raw_text": "BALDWIN PLAY\nNEEDS help",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-07-03"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "The VNB publication points out\nthat figures on tourist and travel\nspending are estimates--\"based\non sampling studies and other In\nformation that includes rental In\ncome, restaurant sales, sales\nof motor vehicle fuel and also a\nliberal measure of guestimat-\nting\n\n\nMotorists who pause for an\novernight stay. or longer, add\nmuch more to the states econ\nomy than those who see Arizona\nonly as a place to be got across\nas quickly as possible.\n\n\nEach car that travels straight\nacross the state--with no stops\nexcept for fuel or food--repre-\nsents spending of about $40, Ari-\niona Progress estimates, adding:\n\n\n\"We estimate that the daily\nexpenditure per auto by motorists\nwho sight-see and stay overnight\nin Arizona approMmates $685.\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3891,
+                    "y0": 3183,
+                    "x1": 4712,
+                    "y1": 4617
+                }
+            ],
+            "bbox": [
+                3891,
+                3183,
+                4712,
+                4617
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                13,
+                2
+            ],
+            "headline": "EIks Corn er\n\n\n{. MeClAMMY",
+            "article": "Arthur ARROW passed away\nJune 80. Final arrangements are\npending.\n\n\nSammie Warren, Of Los An\ngeles, was elected to Pacific\nStates president.\n\n\nMrs. Bessie l. Smith was re-\nelected president of the women's\ndivision.\n\n\nAlva Griffin won the SIS rattle.\n\n\nArizona daughters receiving\nPast State President honors were\nCharlesetta McClammy. Mary\nBoozer, Of Phoenix, and Joyce\nNeal. of Flagstaff. Mrs. Neal\nwon her PDR honors.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1233,
+                    "y0": 2409,
+                    "x1": 1766,
+                    "y1": 2612
+                },
+                {
+                    "x0": 1222,
+                    "y0": 2628,
+                    "x1": 2043,
+                    "y1": 3577
+                }
+            ],
+            "bbox": [
+                1222,
+                2409,
+                2043,
+                3577
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                14,
+                20,
+                3
+            ],
+            "headline": "CALL 276-23O1\n\n\nFOR PHOTOS\n\nVISITORS HELP STATE",
+            "article": "Arizona was visited by more\nout-of-state motorists than last\nyear. A total of 4,l63.325 cars\nentered the state. The estimated\nspending by tourists and trav-\nelers reached the all-time high\nOf $375 million.\n\n\nThese estimates were made by\nthe research department Of the\nValley National Bank and was\npublished in the banks monthly\nbusiness review, Arizona Pro-\ngress.\n\n\n1.-THE out-of-state motorists,\nof course, add to Arizona S high\nway traffic problems\" the bank\nreport states. \"They also, how\never. provide Arizona with an\nimportant source of income.\n\n\nsit is no coincidence that as\nthe number of cars entering the\nstate has increased, the total\ndollars spent in Arizona by tour\nlists and travellers has increased\nalso\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2984,
+                    "y0": 2617,
+                    "x1": 3817,
+                    "y1": 2947
+                },
+                {
+                    "x0": 3336,
+                    "y0": 3009,
+                    "x1": 4348,
+                    "y1": 3149
+                },
+                {
+                    "x0": 2990,
+                    "y0": 3177,
+                    "x1": 3811,
+                    "y1": 4651
+                }
+            ],
+            "bbox": [
+                2984,
+                2617,
+                4348,
+                4651
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                6
+            ],
+            "headline": "",
+            "article": "Vernon Mathews, 8. wears a\npleased expression as he surveys\nall of the lovely birthday gifts\nhe received.\n\n\nThe son of Mr.. and Mrs. Her\nman Mathews, ITO w. Mohave,\nVernon was honored by relatives\nand friends at party.\n\n\nGuests included Chris May\nfield, Dennis Bobo, Arthur Mil\nTer, Bobby Carrethers, Debra\nJames, Veronica Jack, Linda\nOwens, Debra and Calvin Will\nliams, Gwendolyn Calvin, Ester\nand Andrew Tadamy, Joe Brown,\nVictor Doss, and Berney Gre\nsham.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3902,
+                    "y0": 1802,
+                    "x1": 4724,
+                    "y1": 2803
+                }
+            ],
+            "bbox": [
+                3902,
+                1802,
+                4724,
+                2803
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                22,
+                9
+            ],
+            "headline": "Owner Injured",
+            "article": "Walter Tucker, IT, 1919 E.\nPueblo, owner of a restaurant\nwas seriously wounded by a shot\nfired by Thomas Duncan. 10. l07\nS. 18th St.\n\n\nTucker was shot in fuckers\nInn, 1901 E. Jefferson St. He\nstaggered from the inn and drove\nhimself home. He was admitted\nto Memorial Hospital with a bull\nlet wound through the left chest.\nabove the heart.\n\n\nDuncan was arrested for\ncarrying a concealed weapon and\nassault with a deadly weapon.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1233,
+                    "y0": 4090,
+                    "x1": 1725,
+                    "y1": 4178
+                },
+                {
+                    "x0": 1216,
+                    "y0": 4194,
+                    "x1": 2043,
+                    "y1": 5079
+                }
+            ],
+            "bbox": [
+                1216,
+                4090,
+                2043,
+                5079
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                10
+            ],
+            "headline": "",
+            "article": "Wood rolling pins, pastry boards,\nspoons, and other cooking Access\nseries may be safely immersed in\nsoap or detergent suds for wash\ning = but should not be left to\nsoak. After rinsing and wiping,\nlet such utensils air-dry before\nputting them away.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1222,
+                    "y0": 3633,
+                    "x1": 2066,
+                    "y1": 4068
+                }
+            ],
+            "bbox": [
+                1222,
+                3633,
+                2066,
+                4068
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                8,
+                11
+            ],
+            "headline": "Mrs. Folsom\nSeeks Stuie\nEducation Post",
+            "article": "Sarah Folsom, Yavapai County\nSchool superintendent for the past\nIL years, and a member of the\nState Board of Education, an\nnounced she will seek the office\nOf State Superintendent of Public\nInstruction on the Republican IT,\nket.\n\n\nMrs. Folsom stated \"Since the\nannouncement of the Draft Sarah\nFolsom committee a few days\nago, Ihave heard from Republican\nand Democratic friends from all\nIA counties urging me to run for\nthe office Of State Superintendent\nof Public Instruction. will take\nmy campaign, based on my deep\nbeliefs in quality education and\nmy record in Arizona Public\nSchool Administration, to the\npeople Of this great state. If they\nsee fit to place me in this office\nof high responsibility and trust,\nwill carry out faithfully,\ndiligently and impartially 1.-THE\nduties Of the office as outlined in\nthe Arizona Statutes. l will\nalways place the child first and\nthe taxpayer close second. My\nobjective Is the best possible\neducation for each child so that\nthe childs personalities may be\ndeveloped. The Strengthening of\nfundamentals (the 8 R's), more\nequal educational opportunities\nfor children. the raising Of edu-\ncational standards, the emphasi-\nzing of American history COM\nprise my specific aims\n\n\nfurthermore\" Mrs. Folsom\ncommented: \"The record an\nelective official makes while in\noffice is a good indication of what\ncitizens can expect Of that Off\ncial. AS to my sense of fiscal\nresponsibility. feel that taxes\ncome from all people. Tax\nmonies should be spent with the\nutmost discretion. indeed with\nmore care than when spending\nones own money.\n\n\nImmediately upon assuming Of\nflee as County School Superin-\ntendent, Mrs. Folsom s efficient\nmanagement of money allowed\neach child in Yavapai County\nnearly $1,000 more in per capita\naid.\n\n\nNew Subscription",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2152,
+                    "y0": 427,
+                    "x1": 2650,
+                    "y1": 688
+                },
+                {
+                    "x0": 2106,
+                    "y0": 722,
+                    "x1": 2944,
+                    "y1": 4230
+                }
+            ],
+            "bbox": [
+                2106,
+                427,
+                2944,
+                4230
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                25,
+                17
+            ],
+            "headline": "",
+            "article": "ST. LOUIS-The Rev. John ].\nHicks, president of the board of\neducation resigned to become\npastor of ST. Marks Methodist\nChurch in New York City.\n\n\nMIR. Hicks, first Negro to serve\nas school board president, has\nbeen on the board since 1859.\nHe served as pastor of Union\nMemorial Methodist Church, the\nlargest Methodist congregation in\nSt. Louis.\n\n\nThe minister was the first Ne\ngro to win a citywide election.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 326,
+                    "y0": 4153,
+                    "x1": 795,
+                    "y1": 4241
+                },
+                {
+                    "x0": 309,
+                    "y0": 4257,
+                    "x1": 1130,
+                    "y1": 5073
+                }
+            ],
+            "bbox": [
+                309,
+                4153,
+                1130,
+                5073
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        },
+        {
+            "object_ids": [
+                15,
+                23
+            ],
+            "headline": "BALDWIN PLAY\nNEEDS help",
+            "article": "NEW YORK--In an effort to\nkeep the highly praised play by\nJames Baldwin. \"Blues for MIR.\nCHARLIE from closing, the\nNAACP has strongly urged its\nmembers to see the perform\nance.\n\n\nIn a letter to NAACP mem\nbers in the greater New York\narea. Roy wilkins, executive Sec\nrotary, said. sit would be a gen\nuine misfortune If this play went\nunder. 1t Is dramatic and percep-\ntive, and sometimes shocking\"\n\n\nIn urging their patr onage. MIR.\nwilkins commented that the play\nIDEALS with issues which are\nbasic to the fight in which we\nare engaged\"\n\n\nThe play has received excel\nlent reviews, but attendance fig\nures have not been high enough\nto insure long run. A contri-\nbutton of several thousand dollars\nhas enabled 1t to keep running\nfhus far.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 349,
+                    "y0": 2391,
+                    "x1": 899,
+                    "y1": 2577
+                },
+                {
+                    "x0": 309,
+                    "y0": 2617,
+                    "x1": 1136,
+                    "y1": 4131
+                }
+            ],
+            "bbox": [
+                309,
+                2391,
+                1136,
+                4131
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-07-03_p1_sn84021918_0041421695A_1964070301_0458.json"
+        }
+    ]
+}

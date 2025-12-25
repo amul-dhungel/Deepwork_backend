@@ -1,0 +1,411 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7416,
+        "width": 4882,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-11",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964091101/0546.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2956,
+                "y0": 4692,
+                "x1": 3774,
+                "y1": 5945
+            },
+            "class": "article",
+            "raw_text": "LOUISVILLE, Ky A fire ran\nthr ough a predominantly Negro\nsection near downtown Louisville\nand drove about 100 pers ons from\n% homes that we're either de-\nstroyed or greatly damaged.\n\n\nMayor William Cowger called\nit one of the worst fires in the\ncity's history.\n\n\nThe homes we're small, wooden\nbuildings.\n\n\nDodson said the cause of the\nfire has not been determined,\nbut said residents saw three\nsmall boys playing near the ware\nhouse about 80 minutes before the\nfire was sighted.\n\n\nNo one was reported seriously\ninjured. Two firemen we're over\ncome by smoke. Three women\nwe're hospitalized for shock.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2974,
+                "y0": 4461,
+                "x1": 3635,
+                "y1": 4676
+            },
+            "class": "headline",
+            "raw_text": "Fire Ruzes HON es\nin Louisville",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2075,
+                "y0": 3082,
+                "x1": 2905,
+                "y1": 5273
+            },
+            "class": "article",
+            "raw_text": "NEW YORK -GNS)- RichardT.\nWhite, administrator, Mt. Norris\nPark Hospital, has been nomina-\nted for membership in the Ameri-\ncan College of Hospital Admin\nstrators.\n\n\nMr.. White became administra-\ntor of Mt. Norris Park Hospital\nIn 1860. A native New Yorker,\nhe is familiar with, and deeply\nconcerned about the problems of\nour people everywhere, espe-\ncially education. He believes this\nis the key to the colution Of most\nOf mankind s problems. He says\nthe Job of administrator keeps\nhim occupied. But, he does find\ntime to serve as associate OF\nCommunity Planning Board flo\nAmerican Hospital Association\npersonal member): Personnel\nCommittee of Greater New York\nHospital ssociation, member of\nEpsilon Chapter, Phi Beta Sigma\nFraternity: Morris Brown Col\nlege Alumni Club; and attends\nEmanuel Tabernacle in Brook\nIgn. He has completed all sub\niects in the fields of business\nmanagement and industrial re-\nlations toward his doctorate at\nNew York University.\n\n\nFirst President whose inaugural\nceremonies we're broadcast on\nradio Calvin Coolidge, End\nterm, 1925.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 2939,
+                "y0": 2636,
+                "x1": 3768,
+                "y1": 4369
+            },
+            "class": "article",
+            "raw_text": "PHOENIX, Ariz. = Entries in\nthe Maricopa County Amateur\nTalent Contest must be post\nmarked by no later than midnight\nSaturday, announced Mrs. Cecile\nPursley, state contest director.\n\n\nEntry blanks should be directed\nto her at the Arizona State Fair\nCommission, 1926 w. Mcdowell\nRd. The contest is spoons ored by\nthe state fair commission.\n\n\nAdditions for the Maricopa\nCounty contest are slated from\n9 am. to l pm. and from S pm.\nto 9 pm. on Sept. IL and lo in\nthe Exhibit Hall, 10Th Avenue and\nMcdowell.\n\n\nFinals in the county contest,\nwhich lead to the state talent\ncompetition during the Arizona\nState Fair Nov. 6-l5, will be\nOct. II in the Exhibit Hall at\nthe Playground.\n\n\nFirst prize will be ST 900 and\nan expense paid trip and guest\nappearance on a national tele-\nvision show. Other prizes are:\n$3.50, second: $500. third; $3.50.\nfourth. and five $lO0 fifth prizes.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 2979,
+                "y0": 2387,
+                "x1": 3542,
+                "y1": 2613
+            },
+            "class": "headline",
+            "raw_text": "Talent Contest\nEntries Due",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1172,
+                "y0": 4061,
+                "x1": 1995,
+                "y1": 5116
+            },
+            "class": "article",
+            "raw_text": "light, 18th Avenue and Osborn.\n\n\nCoronado. 18th Street and\nCoronado, and Maryvale Pool.\n3lst Avenueand Miss uri, will\nopen at noon weekdays and 10\nam. on weekends with E pm.\nclosing time. All of the above\nclose for the season on Sept.\n10, except Harmon which will re-\nmain open through sept. 27.\n\n\nAll of these pools will remain\nopen until September 27. be-\nginning September 8. they will\nopen at $3.50 pm. on weekdays\nand at 10 o'clock on weekends,\nexcept Encanto which will open\nat 2 pm. on weekdays. Closing\ntime will be E pm.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 633,
+                "y0": 3899,
+                "x1": 1700,
+                "y1": 4033
+            },
+            "class": "headline",
+            "raw_text": "HURRY, SWIM TIME ENDING",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3848,
+                "y0": 2630,
+                "x1": 4661,
+                "y1": 3517
+            },
+            "class": "article",
+            "raw_text": "NEW YORK : Roy Wilkins said\nthe election of Republican Sen.\nBarry Goldwater as president\ncould \"lead to police state\"\n\n\nWilkins, executive secretary\nof the National Association for\nthe Advancement of Colored\nPeople. said he also feared that\ncivil rights progress would SUI\nfer If Goldwater is elected be-\ncause, he said, power would be\ngiven to groups hostile to Ne\ngroes.\n\n\nHe was interviewed on a tele-\nvision program.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3848,
+                "y0": 2300,
+                "x1": 4498,
+                "y1": 2608
+            },
+            "class": "headline",
+            "raw_text": "wilkins Says\nGoIdw ufer Wants\nPolice State",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 279,
+                "y0": 4078,
+                "x1": 1109,
+                "y1": 5140
+            },
+            "class": "article",
+            "raw_text": "Seven city pools will close\non Sept. Is. 9 on Sept. 27. and\nall pools will begin revised\nschedule of operation September\n|, 1t was announced today by\nL. Cedric Austin, Superintendent\nof Phoenix Parks and Recrea-\ntion Department.\n\n\nBeginning September l . the fol-\nlowing pools will open at IL O.\nclock every day and close at\nE pm.\n\n\nAlkire, 18th Avenue and Papa\ngo: Eastlake. 10th Street and JEFF\nferson Harmon, 5th Avenue and\nYavapai; Holiday, 9th Avenue\nand Minnezona: University. 10th\nAvenue and Van Buren,; and Star",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 3819,
+                "y0": 4287,
+                "x1": 4707,
+                "y1": 5974
+            },
+            "class": "article",
+            "raw_text": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\n/. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, mis- ISLES, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": 0
+        },
+        {
+            "id": 29,
+            "bbox": {
+                "x0": 3825,
+                "y0": 4258,
+                "x1": 4684,
+                "y1": 4421
+            },
+            "class": "headline",
+            "raw_text": "AIRCRAFT\n\n\nSER VICE COMPANY",
+            "legibility": "Legible",
+            "full_article_id": 24,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964091101_0546",
+    "full articles": [
+        {
+            "object_ids": [
+                14,
+                3
+            ],
+            "headline": "Fire Ruzes HON es\nin Louisville",
+            "article": "LOUISVILLE, Ky A fire ran\nthr ough a predominantly Negro\nsection near downtown Louisville\nand drove about 100 pers ons from\n% homes that we're either de-\nstroyed or greatly damaged.\n\n\nMayor William Cowger called\nit one of the worst fires in the\ncity's history.\n\n\nThe homes we're small, wooden\nbuildings.\n\n\nDodson said the cause of the\nfire has not been determined,\nbut said residents saw three\nsmall boys playing near the ware\nhouse about 80 minutes before the\nfire was sighted.\n\n\nNo one was reported seriously\ninjured. Two firemen we're over\ncome by smoke. Three women\nwe're hospitalized for shock.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2974,
+                    "y0": 4461,
+                    "x1": 3635,
+                    "y1": 4676
+                },
+                {
+                    "x0": 2956,
+                    "y0": 4692,
+                    "x1": 3774,
+                    "y1": 5945
+                }
+            ],
+            "bbox": [
+                2956,
+                4461,
+                3774,
+                5945
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-11_pna_sn84021918_0041421695A_1964091101_0546.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "NEW YORK -GNS)- RichardT.\nWhite, administrator, Mt. Norris\nPark Hospital, has been nomina-\nted for membership in the Ameri-\ncan College of Hospital Admin\nstrators.\n\n\nMr.. White became administra-\ntor of Mt. Norris Park Hospital\nIn 1860. A native New Yorker,\nhe is familiar with, and deeply\nconcerned about the problems of\nour people everywhere, espe-\ncially education. He believes this\nis the key to the colution Of most\nOf mankind s problems. He says\nthe Job of administrator keeps\nhim occupied. But, he does find\ntime to serve as associate OF\nCommunity Planning Board flo\nAmerican Hospital Association\npersonal member): Personnel\nCommittee of Greater New York\nHospital ssociation, member of\nEpsilon Chapter, Phi Beta Sigma\nFraternity: Morris Brown Col\nlege Alumni Club; and attends\nEmanuel Tabernacle in Brook\nIgn. He has completed all sub\niects in the fields of business\nmanagement and industrial re-\nlations toward his doctorate at\nNew York University.\n\n\nFirst President whose inaugural\nceremonies we're broadcast on\nradio Calvin Coolidge, End\nterm, 1925.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2075,
+                    "y0": 3082,
+                    "x1": 2905,
+                    "y1": 5273
+                }
+            ],
+            "bbox": [
+                2075,
+                3082,
+                2905,
+                5273
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-11_pna_sn84021918_0041421695A_1964091101_0546.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "Talent Contest\nEntries Due",
+            "article": "PHOENIX, Ariz. = Entries in\nthe Maricopa County Amateur\nTalent Contest must be post\nmarked by no later than midnight\nSaturday, announced Mrs. Cecile\nPursley, state contest director.\n\n\nEntry blanks should be directed\nto her at the Arizona State Fair\nCommission, 1926 w. Mcdowell\nRd. The contest is spoons ored by\nthe state fair commission.\n\n\nAdditions for the Maricopa\nCounty contest are slated from\n9 am. to l pm. and from S pm.\nto 9 pm. on Sept. IL and lo in\nthe Exhibit Hall, 10Th Avenue and\nMcdowell.\n\n\nFinals in the county contest,\nwhich lead to the state talent\ncompetition during the Arizona\nState Fair Nov. 6-l5, will be\nOct. II in the Exhibit Hall at\nthe Playground.\n\n\nFirst prize will be ST 900 and\nan expense paid trip and guest\nappearance on a national tele-\nvision show. Other prizes are:\n$3.50, second: $500. third; $3.50.\nfourth. and five $lO0 fifth prizes.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2979,
+                    "y0": 2387,
+                    "x1": 3542,
+                    "y1": 2613
+                },
+                {
+                    "x0": 2939,
+                    "y0": 2636,
+                    "x1": 3768,
+                    "y1": 4369
+                }
+            ],
+            "bbox": [
+                2939,
+                2387,
+                3768,
+                4369
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-09-11_pna_sn84021918_0041421695A_1964091101_0546.json"
+        },
+        {
+            "object_ids": [
+                21,
+                6
+            ],
+            "headline": "HURRY, SWIM TIME ENDING",
+            "article": "light, 18th Avenue and Osborn.\n\n\nCoronado. 18th Street and\nCoronado, and Maryvale Pool.\n3lst Avenueand Miss uri, will\nopen at noon weekdays and 10\nam. on weekends with E pm.\nclosing time. All of the above\nclose for the season on Sept.\n10, except Harmon which will re-\nmain open through sept. 27.\n\n\nAll of these pools will remain\nopen until September 27. be-\nginning September 8. they will\nopen at $3.50 pm. on weekdays\nand at 10 o'clock on weekends,\nexcept Encanto which will open\nat 2 pm. on weekdays. Closing\ntime will be E pm.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 633,
+                    "y0": 3899,
+                    "x1": 1700,
+                    "y1": 4033
+                },
+                {
+                    "x0": 1172,
+                    "y0": 4061,
+                    "x1": 1995,
+                    "y1": 5116
+                }
+            ],
+            "bbox": [
+                633,
+                3899,
+                1995,
+                5116
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-09-11_pna_sn84021918_0041421695A_1964091101_0546.json"
+        },
+        {
+            "object_ids": [
+                10,
+                7
+            ],
+            "headline": "wilkins Says\nGoIdw ufer Wants\nPolice State",
+            "article": "NEW YORK : Roy Wilkins said\nthe election of Republican Sen.\nBarry Goldwater as president\ncould \"lead to police state\"\n\n\nWilkins, executive secretary\nof the National Association for\nthe Advancement of Colored\nPeople. said he also feared that\ncivil rights progress would SUI\nfer If Goldwater is elected be-\ncause, he said, power would be\ngiven to groups hostile to Ne\ngroes.\n\n\nHe was interviewed on a tele-\nvision program.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3848,
+                    "y0": 2300,
+                    "x1": 4498,
+                    "y1": 2608
+                },
+                {
+                    "x0": 3848,
+                    "y0": 2630,
+                    "x1": 4661,
+                    "y1": 3517
+                }
+            ],
+            "bbox": [
+                3848,
+                2300,
+                4661,
+                3517
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-11_pna_sn84021918_0041421695A_1964091101_0546.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Seven city pools will close\non Sept. Is. 9 on Sept. 27. and\nall pools will begin revised\nschedule of operation September\n|, 1t was announced today by\nL. Cedric Austin, Superintendent\nof Phoenix Parks and Recrea-\ntion Department.\n\n\nBeginning September l . the fol-\nlowing pools will open at IL O.\nclock every day and close at\nE pm.\n\n\nAlkire, 18th Avenue and Papa\ngo: Eastlake. 10th Street and JEFF\nferson Harmon, 5th Avenue and\nYavapai; Holiday, 9th Avenue\nand Minnezona: University. 10th\nAvenue and Van Buren,; and Star",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 279,
+                    "y0": 4078,
+                    "x1": 1109,
+                    "y1": 5140
+                }
+            ],
+            "bbox": [
+                279,
+                4078,
+                1109,
+                5140
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-09-11_pna_sn84021918_0041421695A_1964091101_0546.json"
+        },
+        {
+            "object_ids": [
+                29,
+                23
+            ],
+            "headline": "AIRCRAFT\n\n\nSER VICE COMPANY",
+            "article": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\n/. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets, mis- ISLES, and bombs\non aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3825,
+                    "y0": 4258,
+                    "x1": 4684,
+                    "y1": 4421
+                },
+                {
+                    "x0": 3819,
+                    "y0": 4287,
+                    "x1": 4707,
+                    "y1": 5974
+                }
+            ],
+            "bbox": [
+                3819,
+                4258,
+                4707,
+                5974
+            ],
+            "full_article_id": 24,
+            "id": "24_1964-09-11_pna_sn84021918_0041421695A_1964091101_0546.json"
+        }
+    ]
+}

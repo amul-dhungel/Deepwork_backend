@@ -1,0 +1,470 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-25",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7439,
+        "width": 4880,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-09-25",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964092501/0563.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 1858,
+                "y0": 3475,
+                "x1": 2679,
+                "y1": 5237
+            },
+            "class": "article",
+            "raw_text": "NEW YORK A nationwide\nMarshall Plan to end poverty\nin Negro ghettos is the \"last\nbest hope\" to right historic in\njustice and prevent future >riots,\nsaid Whitney Young, Jr.. Ma\ntional Urban League executive\ndirector. He was ddressing a\ngraduating class of Negro secre-\ntaries who had completed\nspecial training course at New\nYork University.\n\n\nHe urged the nation to take \"a\nsecond look\" at the Leagues do\nnestle Marshall Plan. proposed\nin June, 1868. 1t urged mas\nsive crash program to upgrade\nthe skills, housing and educa-\ntional opportunities of Negroes\ntrough wide variety of public\nand private actions. 1t also\ncalled upon Negroes to make\nextra efforts to qualify them\nselves for new opportunities.\n\n\nWhen announced, the Leagues\nboard of trustees warned that\nnorthern ghettos we're ION the\nverge of taking flame\" state\nment, Young said today. that now\nhas 1.-THE ring of prophecy\"",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1882,
+                "y0": 3231,
+                "x1": 2574,
+                "y1": 3447
+            },
+            "class": "headline",
+            "raw_text": "Young Says A\nNew Plan Needed",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 3648,
+                "y0": 2696,
+                "x1": 4457,
+                "y1": 3912
+            },
+            "class": "article",
+            "raw_text": "ATLANTA, Ga. The 9th An\nnual Convention of the Southern\nChristian Leadership c Conference\nwill be held in Savannah, Ca,\nSept. % : Oct. 2.\n\n\nDR.. Martin Luther King, Jr.\nhas scheduled acknowledgement\nspeakers to help assess the status\nof the civil rights movement since\npassage of the Civil Rights Law\nand aid in charting new courses\nin the freedom movement.\n\n\nA city-wide mass rally, held at\nThe First African Baptist\nChruch, will kick off the four-day\nmeet the evening of September %,\nwith AFL-CIO Vice President\nA. Phillip Randolph and James\nFarmer, director of the Congress\nof Racial Equality, listed prin-\ncipal speakers.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3672,
+                "y0": 1790,
+                "x1": 4428,
+                "y1": 2337
+            },
+            "class": "headline",
+            "raw_text": "JOHN\nMARIcoPA\nCOUNTY\n\n\nTREASURER",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3672,
+                "y0": 2406,
+                "x1": 4190,
+                "y1": 2662
+            },
+            "class": "headline",
+            "raw_text": "SCLC To\nHold Meet",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 992,
+                "y0": 3661,
+                "x1": 1801,
+                "y1": 5173
+            },
+            "class": "article",
+            "raw_text": "The most savage race riot\nin American history took place\nin East St. Louis in 1917. At\nleast SO Negroes and 9 whites\nwere killed. Two years later in\nChicago, % Negroes and is\nwhites lost their lives. On that\nsummer, 26 race riots took place\nacross the country.)\n\n\nIn 1913 in Detroit, in the last\nof such large scale bloody\nclashes in northern city, Is\nNegroes and 9 whites were killed.\n\n\nYou can warm the sweet rolls\non top of the stove if you don't\nwant to turn on the oven. Just\nput them over low heat in\nstove-to-table sauce pan. Sprin-\nkle the rolls with a bit of water\nif they seem dry. Please put the\npan in it's warming stand for\nserving, or use hot pads. The\ntable finish doesn't take kindly to\nhot dishes. Take these hints, dear\nheart, and your breakfasts will\nbe as luscious as your grilled\nsteaks.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1016,
+                "y0": 3452,
+                "x1": 1766,
+                "y1": 3644
+            },
+            "class": "headline",
+            "raw_text": "RACE RIOTS\nHAPPEN IN SUMMER",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2771,
+                "y0": 3260,
+                "x1": 3580,
+                "y1": 3929
+            },
+            "class": "article",
+            "raw_text": "Good taste and good nutrition\nare two reas ons why American\nconsumers like milk and other\ndairy foods. Increased public\nknowledge of nutrition and its\nimportance in human health &C\ncount for remarkable recent\ngains in the per capita consump-\nton of fluid whole milk, and\nrecord use of cheese and other\ndairy products.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 3090,
+                "y0": 3225,
+                "x1": 3231,
+                "y1": 3278
+            },
+            "class": "headline",
+            "raw_text": "Ahkh",
+            "legibility": "Questionable",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 63,
+                "y0": 3643,
+                "x1": 941,
+                "y1": 5179
+            },
+            "class": "article",
+            "raw_text": "has immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets. missiles, and bombs\nOF aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 74,
+                "y0": 3469,
+                "x1": 941,
+                "y1": 3633
+            },
+            "class": "headline",
+            "raw_text": "LOCKHEED AIRCRAFT\n\n\nSERVICE COMPANY",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 97,
+                "y0": 2807,
+                "x1": 1795,
+                "y1": 3406
+            },
+            "class": "article",
+            "raw_text": "Walter Luckng Arizona Public Service\nshows which will benefit from formation of\n\n\nthe worlds largest regional electric development program\nAPPS will be utilities participating\nWestern Energy Supply Transmission Associates EST) will\nalso probably include five electric\nsuppiers Luckng said VESTS longrange planning\nwill help participating utilities several billion dollars in\nstrtn and operating which, keep\ndown.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 3654,
+                "y0": 1470,
+                "x1": 4440,
+                "y1": 1767
+            },
+            "class": "article",
+            "raw_text": "Many thanks to all for your\ngenerous support in the Septem-\nDer Primary.\n\n\nYour continued support in No\nvember will be appreciated.",
+            "legibility": "Legible",
+            "full_article_id": 21,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 1893,
+                "y0": 2597,
+                "x1": 3574,
+                "y1": 3168
+            },
+            "class": "article",
+            "raw_text": "Of members of the CINE District Choir\nhonored of dinner held the home of Mr.\nand Mrs. Lille Allen, l28 W. Tonic Saturday.\n\n\nFrom left Rev. L. Harper presiding elder Mrs Loren\nCollins director, Mrs. Gladys Allen, 1913 W. Tonic\nSaturday,\n\n\nFrom left Rev. L. Harper presiding elder Mrs Loren\nBell Mrs. Collins director Mrs. Gladys Allen hostess Messrs.\nLatham Christopher Lille Allen choir president and Erwin Mathews",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964092501_0563",
+    "full articles": [
+        {
+            "object_ids": [
+                11,
+                3
+            ],
+            "headline": "Young Says A\nNew Plan Needed",
+            "article": "NEW YORK A nationwide\nMarshall Plan to end poverty\nin Negro ghettos is the \"last\nbest hope\" to right historic in\njustice and prevent future >riots,\nsaid Whitney Young, Jr.. Ma\ntional Urban League executive\ndirector. He was ddressing a\ngraduating class of Negro secre-\ntaries who had completed\nspecial training course at New\nYork University.\n\n\nHe urged the nation to take \"a\nsecond look\" at the Leagues do\nnestle Marshall Plan. proposed\nin June, 1868. 1t urged mas\nsive crash program to upgrade\nthe skills, housing and educa-\ntional opportunities of Negroes\ntrough wide variety of public\nand private actions. 1t also\ncalled upon Negroes to make\nextra efforts to qualify them\nselves for new opportunities.\n\n\nWhen announced, the Leagues\nboard of trustees warned that\nnorthern ghettos we're ION the\nverge of taking flame\" state\nment, Young said today. that now\nhas 1.-THE ring of prophecy\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1882,
+                    "y0": 3231,
+                    "x1": 2574,
+                    "y1": 3447
+                },
+                {
+                    "x0": 1858,
+                    "y0": 3475,
+                    "x1": 2679,
+                    "y1": 5237
+                }
+            ],
+            "bbox": [
+                1858,
+                3231,
+                2679,
+                5237
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        },
+        {
+            "object_ids": [
+                14,
+                12,
+                4
+            ],
+            "headline": "JOHN\nMARIcoPA\nCOUNTY\n\n\nTREASURER\n\nSCLC To\nHold Meet",
+            "article": "ATLANTA, Ga. The 9th An\nnual Convention of the Southern\nChristian Leadership c Conference\nwill be held in Savannah, Ca,\nSept. % : Oct. 2.\n\n\nDR.. Martin Luther King, Jr.\nhas scheduled acknowledgement\nspeakers to help assess the status\nof the civil rights movement since\npassage of the Civil Rights Law\nand aid in charting new courses\nin the freedom movement.\n\n\nA city-wide mass rally, held at\nThe First African Baptist\nChruch, will kick off the four-day\nmeet the evening of September %,\nwith AFL-CIO Vice President\nA. Phillip Randolph and James\nFarmer, director of the Congress\nof Racial Equality, listed prin-\ncipal speakers.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3672,
+                    "y0": 1790,
+                    "x1": 4428,
+                    "y1": 2337
+                },
+                {
+                    "x0": 3672,
+                    "y0": 2406,
+                    "x1": 4190,
+                    "y1": 2662
+                },
+                {
+                    "x0": 3648,
+                    "y0": 2696,
+                    "x1": 4457,
+                    "y1": 3912
+                }
+            ],
+            "bbox": [
+                3648,
+                1790,
+                4457,
+                3912
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        },
+        {
+            "object_ids": [
+                15,
+                7
+            ],
+            "headline": "RACE RIOTS\nHAPPEN IN SUMMER",
+            "article": "The most savage race riot\nin American history took place\nin East St. Louis in 1917. At\nleast SO Negroes and 9 whites\nwere killed. Two years later in\nChicago, % Negroes and is\nwhites lost their lives. On that\nsummer, 26 race riots took place\nacross the country.)\n\n\nIn 1913 in Detroit, in the last\nof such large scale bloody\nclashes in northern city, Is\nNegroes and 9 whites were killed.\n\n\nYou can warm the sweet rolls\non top of the stove if you don't\nwant to turn on the oven. Just\nput them over low heat in\nstove-to-table sauce pan. Sprin-\nkle the rolls with a bit of water\nif they seem dry. Please put the\npan in it's warming stand for\nserving, or use hot pads. The\ntable finish doesn't take kindly to\nhot dishes. Take these hints, dear\nheart, and your breakfasts will\nbe as luscious as your grilled\nsteaks.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1016,
+                    "y0": 3452,
+                    "x1": 1766,
+                    "y1": 3644
+                },
+                {
+                    "x0": 992,
+                    "y0": 3661,
+                    "x1": 1801,
+                    "y1": 5173
+                }
+            ],
+            "bbox": [
+                992,
+                3452,
+                1801,
+                5173
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        },
+        {
+            "object_ids": [
+                24,
+                8
+            ],
+            "headline": "Ahkh",
+            "article": "Good taste and good nutrition\nare two reas ons why American\nconsumers like milk and other\ndairy foods. Increased public\nknowledge of nutrition and its\nimportance in human health &C\ncount for remarkable recent\ngains in the per capita consump-\nton of fluid whole milk, and\nrecord use of cheese and other\ndairy products.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3090,
+                    "y0": 3225,
+                    "x1": 3231,
+                    "y1": 3278
+                },
+                {
+                    "x0": 2771,
+                    "y0": 3260,
+                    "x1": 3580,
+                    "y1": 3929
+                }
+            ],
+            "bbox": [
+                2771,
+                3225,
+                3580,
+                3929
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        },
+        {
+            "object_ids": [
+                19,
+                10
+            ],
+            "headline": "LOCKHEED AIRCRAFT\n\n\nSERVICE COMPANY",
+            "article": "has immediate openings for\n\n\nCREW CHIEF\nqualified on the Mach 2\n\n\nFlO4\nor recent experience\non century series aircraft\nRequirements are:\nl. Engine run certification\n2. Ground support equipment\n\n\ncertification\n8. Familiar with procedures\n\n\nof AIM COL\nARMAMENT MECHANIC\nwith recent experience\nloading guns and installing\nrockets. missiles, and bombs\nOF aircraft\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke AFB\n\n\nOpen Mon-Sat 8-4:45 pm.\nAn equal opportunity employer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 74,
+                    "y0": 3469,
+                    "x1": 941,
+                    "y1": 3633
+                },
+                {
+                    "x0": 63,
+                    "y0": 3643,
+                    "x1": 941,
+                    "y1": 5179
+                }
+            ],
+            "bbox": [
+                63,
+                3469,
+                941,
+                5179
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "Walter Luckng Arizona Public Service\nshows which will benefit from formation of\n\n\nthe worlds largest regional electric development program\nAPPS will be utilities participating\nWestern Energy Supply Transmission Associates EST) will\nalso probably include five electric\nsuppiers Luckng said VESTS longrange planning\nwill help participating utilities several billion dollars in\nstrtn and operating which, keep\ndown.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 97,
+                    "y0": 2807,
+                    "x1": 1795,
+                    "y1": 3406
+                }
+            ],
+            "bbox": [
+                97,
+                2807,
+                1795,
+                3406
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        },
+        {
+            "object_ids": [
+                20
+            ],
+            "headline": "",
+            "article": "Many thanks to all for your\ngenerous support in the Septem-\nDer Primary.\n\n\nYour continued support in No\nvember will be appreciated.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3654,
+                    "y0": 1470,
+                    "x1": 4440,
+                    "y1": 1767
+                }
+            ],
+            "bbox": [
+                3654,
+                1470,
+                4440,
+                1767
+            ],
+            "full_article_id": 21,
+            "id": "21_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "Of members of the CINE District Choir\nhonored of dinner held the home of Mr.\nand Mrs. Lille Allen, l28 W. Tonic Saturday.\n\n\nFrom left Rev. L. Harper presiding elder Mrs Loren\nCollins director, Mrs. Gladys Allen, 1913 W. Tonic\nSaturday,\n\n\nFrom left Rev. L. Harper presiding elder Mrs Loren\nBell Mrs. Collins director Mrs. Gladys Allen hostess Messrs.\nLatham Christopher Lille Allen choir president and Erwin Mathews",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1893,
+                    "y0": 2597,
+                    "x1": 3574,
+                    "y1": 3168
+                }
+            ],
+            "bbox": [
+                1893,
+                2597,
+                3574,
+                3168
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-09-25_pna_sn84021918_0041421695A_1964092501_0563.json"
+        }
+    ]
+}

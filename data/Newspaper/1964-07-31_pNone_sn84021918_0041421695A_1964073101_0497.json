@@ -1,0 +1,310 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7439,
+        "width": 4899,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0497.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 2763,
+                "y0": 3510,
+                "x1": 3601,
+                "y1": 6050
+            },
+            "class": "article",
+            "raw_text": "The first Negro county super\nvisors of the Farmers Home Ad-\nministration have achieved out\nstanding records in providing\nsound credit services and guild\nance for farmers in nine Cali\nfornia counties, the u S. Depart\nment of Agriculture agency re-\nports.\n\n\nSupervisors are Paul R. Conn,\na graduate of Tennessee A. andI.\nState University. and Lowell A.\nPannell, who holds a MASTER\ndegree from Prairie View,\nTexas, A. and M. College.\n\n\nConn, headquartered at San\nDiego, serves San Diego and\nImperial Counties where he made\nll9 loans lastyear, totaling more\nthan $1,000, 900, to white, Jap\nanese, and Filipino fruit and veg\netable growers. he says there\nare practically no Negro farmers\nin the area. Repayments during\n1868 totaled about $425, 900.\n\n\nLoans we're for annual oper-\nating expenses, the purchase or\nenlargement of family farms, the\nconstruction or repair of homes,\ndevelopment of water supply sys-\ntens, conservation of soil, and\nfor emergency needs resulting\nfrom unfavorable weather or\nfloods. Farmers Home loans are\navailable to farmers who are un-\nable to obtain satisfactory credit\nelsewhere.\n\n\nMr.. Conn joined the agency in\n1860. After a training period,\nhe was assigned to county in\nnorthern California and later\ntransferred to San Diego.\n\n\nThe 3l-year-old supervisor",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2774,
+                "y0": 1679,
+                "x1": 3601,
+                "y1": 3214
+            },
+            "class": "article",
+            "raw_text": "The National Council of Negro\nWomen. Inc. was organized in\n1885 by Mary Mcleod Bethune;\npicture left. In twenty-five af-\nfiliated organizations, NCNW\nrepresents three million women.\n\n\nNCNW is a council through\nwhich IS national organizations\nspeak, work, plan and act to-\ngether. 1t brings together women\nwho belong to religious,\nfraternal, business. profess\nsional, civic and social organiza-\nlions.\n\n\nThe head of each national Or\nganization belongs to the Board\nof Directors of NCNW. And\neach affiliate head appoints a\nliaison to represent her group\nin Joint planning at NCNW national\nheadquarters Washington, DC.\n\n\nThe national President is Miss\nDorothy 1. Height of New York\nCity, pictured right.\n\n\nThe current program ofNCNW\nincludes: Maintaing observer",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3652,
+                "y0": 3487,
+                "x1": 4484,
+                "y1": 6062
+            },
+            "class": "article",
+            "raw_text": "was born and reared on a to-\n\n\nbacco and strawberry farm near\n\n\nFranklin, KY, where he was\n\n\nAll er and a member of the\nNew Farmers of America organ\nization. After four years, 1882\nSo, in the Air Force, he entered\nTennessee A. and |. and ma jored\nin agricultural economics. He is\nmarried and has an 8-year-old\ndaughter.\n\n\nPannell, who has been with\nFarmers Home since 1855, has\nhis headquarters in San Jose and\nserves farmers in Alameda,\nMonterey, San Benito, Santa\nClara, Santa Cruz, San Fran\ncisco, and San Mateo Counties\nwhich are rapidly being indus\ntrialized.\n\n\nWorking intensively with the\nborrowers, many Of whom have\npart-time jobs in town, Mr.. Pan\nnell has succeeded in helping\nthem improve some Of their OPP\ncreations, become more soundly\nestablished as farmers, and en-\nnance their credit standing. \"Our\ngoal is to graduate the borrowers\nfrom our rolls and take on others\nin need of our services\" says\nthe 39-year-old supervisor.\n\n\nIn addition to servicing the\nborrowers, most of whom are\neither white or Japanese truck,\ndairy, or livestock farmers, Mr..\nPannell also helps train newly\nappointed supervisory personnel\nof Farmers Home.\n\n\nHis skill in agricultural credit\nhas made him a popular speak\nerr before San Jose business\ngroups, including the Rotary Club\nof which he is a member.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2955,
+                "y0": 3242,
+                "x1": 4310,
+                "y1": 3470
+            },
+            "class": "headline",
+            "raw_text": "z Negro County\nFarm Supervisors In California",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3669,
+                "y0": 1673,
+                "x1": 4484,
+                "y1": 3156
+            },
+            "class": "article",
+            "raw_text": "status at the United Nations. is\naffiliated with the National Coun-\nell of Women of the United States,\nthe International Council of\nWomen and the Pan Pacific and\nSoutheast Asia Women's As\nISOLATION.\n\n\nSponsoring leadership training\nconferences for women\n\n\nPromoting responsible voter\nregistration and voter education\n\n\nProviding a mobile family\nhealth service clinic for migrant\nworkers and their families at\nFrederick, Maryland with a grant\nfrom the United States Public\nHealth Service and professional\nleadership of the Howard Uni\nversity School of Medicine.\n\n\nResponding to the challenge of\nthe President Conmittee on the\nStatus of Women.\n\n\n1t provides scholarships for\n43 students working in nonviolent\ncivil rights movements.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 979,
+                "y0": 3103,
+                "x1": 1834,
+                "y1": 3697
+            },
+            "class": "article",
+            "raw_text": "An old chenille bedspread or\nbathrobe can be converted into an\nexcellent buster for ceilings, walls,\nand holdings.\n\n\nCut out two rectangles, stitch\nup three sides, and run a draw\nstring around the opening so that\nit will fit snugly over a broom.\nAfter each use, be sure to launder\nthis \"slipcover\" buster in hot soap\nor detergent suds and rinses.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 84,
+                "y0": 726,
+                "x1": 898,
+                "y1": 1610
+            },
+            "class": "article",
+            "raw_text": "CHICAGO = Charles R. Walton.\nAl yr. old Negro, apparently\ncommitted suicide after brooding\nover the mysterious disappear\nance of the three civil rights\nworkers in Mississippi.\n\n\n\\ Police found ~ caliber re-\nvolver in the front seat of the\ndead mans car which was parked\non the Calumet freeway.\n\n\nOne of the five notes on the\nseat read: \"This is for the three\nin Philadelphia. They wouldn't\nlet me join the movement and I'm\ngiving my brain this way\"",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 101,
+                "y0": 383,
+                "x1": 526,
+                "y1": 686
+            },
+            "class": "headline",
+            "raw_text": "Mon Kills\n\n\nSelf Over\nMissing Trio",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964073101_0497",
+    "full articles": [
+        {
+            "object_ids": [
+                0
+            ],
+            "headline": "",
+            "article": "The first Negro county super\nvisors of the Farmers Home Ad-\nministration have achieved out\nstanding records in providing\nsound credit services and guild\nance for farmers in nine Cali\nfornia counties, the u S. Depart\nment of Agriculture agency re-\nports.\n\n\nSupervisors are Paul R. Conn,\na graduate of Tennessee A. andI.\nState University. and Lowell A.\nPannell, who holds a MASTER\ndegree from Prairie View,\nTexas, A. and M. College.\n\n\nConn, headquartered at San\nDiego, serves San Diego and\nImperial Counties where he made\nll9 loans lastyear, totaling more\nthan $1,000, 900, to white, Jap\nanese, and Filipino fruit and veg\netable growers. he says there\nare practically no Negro farmers\nin the area. Repayments during\n1868 totaled about $425, 900.\n\n\nLoans we're for annual oper-\nating expenses, the purchase or\nenlargement of family farms, the\nconstruction or repair of homes,\ndevelopment of water supply sys-\ntens, conservation of soil, and\nfor emergency needs resulting\nfrom unfavorable weather or\nfloods. Farmers Home loans are\navailable to farmers who are un-\nable to obtain satisfactory credit\nelsewhere.\n\n\nMr.. Conn joined the agency in\n1860. After a training period,\nhe was assigned to county in\nnorthern California and later\ntransferred to San Diego.\n\n\nThe 3l-year-old supervisor",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2763,
+                    "y0": 3510,
+                    "x1": 3601,
+                    "y1": 6050
+                }
+            ],
+            "bbox": [
+                2763,
+                3510,
+                3601,
+                6050
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-07-31_pna_sn84021918_0041421695A_1964073101_0497.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "The National Council of Negro\nWomen. Inc. was organized in\n1885 by Mary Mcleod Bethune;\npicture left. In twenty-five af-\nfiliated organizations, NCNW\nrepresents three million women.\n\n\nNCNW is a council through\nwhich IS national organizations\nspeak, work, plan and act to-\ngether. 1t brings together women\nwho belong to religious,\nfraternal, business. profess\nsional, civic and social organiza-\nlions.\n\n\nThe head of each national Or\nganization belongs to the Board\nof Directors of NCNW. And\neach affiliate head appoints a\nliaison to represent her group\nin Joint planning at NCNW national\nheadquarters Washington, DC.\n\n\nThe national President is Miss\nDorothy 1. Height of New York\nCity, pictured right.\n\n\nThe current program ofNCNW\nincludes: Maintaing observer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2774,
+                    "y0": 1679,
+                    "x1": 3601,
+                    "y1": 3214
+                }
+            ],
+            "bbox": [
+                2774,
+                1679,
+                3601,
+                3214
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_pna_sn84021918_0041421695A_1964073101_0497.json"
+        },
+        {
+            "object_ids": [
+                14,
+                2
+            ],
+            "headline": "z Negro County\nFarm Supervisors In California",
+            "article": "was born and reared on a to-\n\n\nbacco and strawberry farm near\n\n\nFranklin, KY, where he was\n\n\nAll er and a member of the\nNew Farmers of America organ\nization. After four years, 1882\nSo, in the Air Force, he entered\nTennessee A. and |. and ma jored\nin agricultural economics. He is\nmarried and has an 8-year-old\ndaughter.\n\n\nPannell, who has been with\nFarmers Home since 1855, has\nhis headquarters in San Jose and\nserves farmers in Alameda,\nMonterey, San Benito, Santa\nClara, Santa Cruz, San Fran\ncisco, and San Mateo Counties\nwhich are rapidly being indus\ntrialized.\n\n\nWorking intensively with the\nborrowers, many Of whom have\npart-time jobs in town, Mr.. Pan\nnell has succeeded in helping\nthem improve some Of their OPP\ncreations, become more soundly\nestablished as farmers, and en-\nnance their credit standing. \"Our\ngoal is to graduate the borrowers\nfrom our rolls and take on others\nin need of our services\" says\nthe 39-year-old supervisor.\n\n\nIn addition to servicing the\nborrowers, most of whom are\neither white or Japanese truck,\ndairy, or livestock farmers, Mr..\nPannell also helps train newly\nappointed supervisory personnel\nof Farmers Home.\n\n\nHis skill in agricultural credit\nhas made him a popular speak\nerr before San Jose business\ngroups, including the Rotary Club\nof which he is a member.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2955,
+                    "y0": 3242,
+                    "x1": 4310,
+                    "y1": 3470
+                },
+                {
+                    "x0": 3652,
+                    "y0": 3487,
+                    "x1": 4484,
+                    "y1": 6062
+                }
+            ],
+            "bbox": [
+                2955,
+                3242,
+                4484,
+                6062
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_pna_sn84021918_0041421695A_1964073101_0497.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "status at the United Nations. is\naffiliated with the National Coun-\nell of Women of the United States,\nthe International Council of\nWomen and the Pan Pacific and\nSoutheast Asia Women's As\nISOLATION.\n\n\nSponsoring leadership training\nconferences for women\n\n\nPromoting responsible voter\nregistration and voter education\n\n\nProviding a mobile family\nhealth service clinic for migrant\nworkers and their families at\nFrederick, Maryland with a grant\nfrom the United States Public\nHealth Service and professional\nleadership of the Howard Uni\nversity School of Medicine.\n\n\nResponding to the challenge of\nthe President Conmittee on the\nStatus of Women.\n\n\n1t provides scholarships for\n43 students working in nonviolent\ncivil rights movements.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3669,
+                    "y0": 1673,
+                    "x1": 4484,
+                    "y1": 3156
+                }
+            ],
+            "bbox": [
+                3669,
+                1673,
+                4484,
+                3156
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-31_pna_sn84021918_0041421695A_1964073101_0497.json"
+        },
+        {
+            "object_ids": [
+                5
+            ],
+            "headline": "",
+            "article": "An old chenille bedspread or\nbathrobe can be converted into an\nexcellent buster for ceilings, walls,\nand holdings.\n\n\nCut out two rectangles, stitch\nup three sides, and run a draw\nstring around the opening so that\nit will fit snugly over a broom.\nAfter each use, be sure to launder\nthis \"slipcover\" buster in hot soap\nor detergent suds and rinses.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 979,
+                    "y0": 3103,
+                    "x1": 1834,
+                    "y1": 3697
+                }
+            ],
+            "bbox": [
+                979,
+                3103,
+                1834,
+                3697
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-07-31_pna_sn84021918_0041421695A_1964073101_0497.json"
+        },
+        {
+            "object_ids": [
+                8,
+                6
+            ],
+            "headline": "Mon Kills\n\n\nSelf Over\nMissing Trio",
+            "article": "CHICAGO = Charles R. Walton.\nAl yr. old Negro, apparently\ncommitted suicide after brooding\nover the mysterious disappear\nance of the three civil rights\nworkers in Mississippi.\n\n\n\\ Police found ~ caliber re-\nvolver in the front seat of the\ndead mans car which was parked\non the Calumet freeway.\n\n\nOne of the five notes on the\nseat read: \"This is for the three\nin Philadelphia. They wouldn't\nlet me join the movement and I'm\ngiving my brain this way\"",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 101,
+                    "y0": 383,
+                    "x1": 526,
+                    "y1": 686
+                },
+                {
+                    "x0": 84,
+                    "y0": 726,
+                    "x1": 898,
+                    "y1": 1610
+                }
+            ],
+            "bbox": [
+                84,
+                383,
+                898,
+                1610
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-07-31_pna_sn84021918_0041421695A_1964073101_0497.json"
+        }
+    ]
+}

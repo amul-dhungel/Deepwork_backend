@@ -1,0 +1,467 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964121101/0665.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7406,
+        "width": 4880
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 3672,
+                "y0": 607,
+                "x1": 4477,
+                "y1": 1592
+            },
+            "class": "article",
+            "raw_text": "HOLLY SPRINGS, Miss. A\nLos Angeles civil rights worker\nwas released on 500 bond on a\ncharge of improper parking on a\nstate highway.\n\n\nMarshall County Sheriff Jessie\nAsh said the worker. Stan Boyd,\nwill face trial on the charge\nDec. 10. He was arrested Thurs\nday afternoon. The sheriff said\nBoyd's car was partly blocking\nMississippi 3ll.\n\n\nAsh said Boyd is a student\nat Antioch College, Yellow\nSprings. Ohio, and was in Mis-\nsissippi as a volunteer civil\nrights worker.",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 3672,
+                "y0": 324,
+                "x1": 4286,
+                "y1": 591
+            },
+            "class": "headline",
+            "raw_text": "RIGHTS\n\n\nWORKER FREED\nIN MISSISSIPPI",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1896,
+                "y0": 1174,
+                "x1": 2712,
+                "y1": 1759
+            },
+            "class": "article",
+            "raw_text": "Police reported Leonard c.\nDuckett died from a wound in\nthe heart. Jailed for the fatal\nstabbing was Robin S. Edmunds,\nIs, who was held by juvenile\nauthorities.\n\n\nThe boys mother, divorcee,\nMrs. Ivy Acosta, said Duckett\nhad moved from her home and\nthat he abused her when she met",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1010,
+                "y0": 1458,
+                "x1": 1816,
+                "y1": 1754
+            },
+            "class": "article",
+            "raw_text": "LOS ANGELES : The Is year\nold son of white woman, stab\nbed and killed her common in\nlaw husband, a Negro last Friday\nnear their North Hollywood home.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1039,
+                "y0": 1365,
+                "x1": 1764,
+                "y1": 1447
+            },
+            "class": "headline",
+            "raw_text": "KILLS MONS LOVER",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 102,
+                "y0": 1666,
+                "x1": 913,
+                "y1": 2396
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Orlando Cepeda,\nfirst baseman of the San Fran\ncisco Giants, Should be as good\nas ever\" following knee surgery,\nhis physician said today.\n\n\nDR.. Harrison Mclaughlin, club\ndoctor when the Giants were\nbased in New York, headed a sur\n'gical team that removed torn\ncartilage from Cepeda's right\nknee. He injured the knee while\nplaying winter baseball In Puerto",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 137,
+                "y0": 1411,
+                "x1": 832,
+                "y1": 1649
+            },
+            "class": "headline",
+            "raw_text": "CEPEDA HAS\nKNEE OPERATION",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 2798,
+                "y0": 1203,
+                "x1": 3609,
+                "y1": 1563
+            },
+            "class": "article",
+            "raw_text": "him at his hotel room. He\nfollwed her home and broke a\nwindow. Her son grabbed a\nswitch blade knife and chased\nhim around the corner of the\nstreet and stabbed him.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 96,
+                "y0": 2649,
+                "x1": 919,
+                "y1": 2934
+            },
+            "class": "article",
+            "raw_text": "A bigger bird Is better buy...\nbecause in the larger turkey\nTor chicken) there is less bone\n: in proportion to meat than in\nthe smaller bird.",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 114,
+                "y0": 2406,
+                "x1": 630,
+                "y1": 2639
+            },
+            "class": "headline",
+            "raw_text": "+lo..4ekoM\n+4uM",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": -1
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 79,
+                "y0": 3784,
+                "x1": 948,
+                "y1": 5219
+            },
+            "class": "article",
+            "raw_text": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\nCREW CHEF\nqualified on the Mach 2\n\n\nFl04\nor recent experience\non century series aircraft\nRequirements are:\n\n\n!. Engine run certification\n2. Ground support equipment\ncertification\n\n\n8. Familiar with procedures\n\n\nOf AIM COL\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Fri 8-4:45 pm.\nAn equal opportunity employer\no35-93ll Elk. 2253",
+            "legibility": "Legible",
+            "full_article_id": 18,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 235,
+                "y0": 3459,
+                "x1": 803,
+                "y1": 3709
+            },
+            "class": "article",
+            "raw_text": "Fueiory-Avihorized\n\n\nSales & Service\nDAY = AL 2-652o\nMITE 254-437l",
+            "legibility": "Questionable",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 114,
+                "y0": 2985,
+                "x1": 890,
+                "y1": 3432
+            },
+            "class": "headline",
+            "raw_text": "WORLDS ONLY\nFULLY AUTOMATIC CLEANER\nkjl35J!S9!k",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -2
+        },
+        {
+            "id": 23,
+            "bbox": {
+                "x0": 501,
+                "y0": 3407,
+                "x1": 873,
+                "y1": 3455
+            },
+            "class": "author",
+            "raw_text": "q EEcTRoLUx corr.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-12-11"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8,
+                0
+            ],
+            "headline": "RIGHTS\n\n\nWORKER FREED\nIN MISSISSIPPI",
+            "article": "HOLLY SPRINGS, Miss. A\nLos Angeles civil rights worker\nwas released on 500 bond on a\ncharge of improper parking on a\nstate highway.\n\n\nMarshall County Sheriff Jessie\nAsh said the worker. Stan Boyd,\nwill face trial on the charge\nDec. 10. He was arrested Thurs\nday afternoon. The sheriff said\nBoyd's car was partly blocking\nMississippi 3ll.\n\n\nAsh said Boyd is a student\nat Antioch College, Yellow\nSprings. Ohio, and was in Mis-\nsissippi as a volunteer civil\nrights worker.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3672,
+                    "y0": 324,
+                    "x1": 4286,
+                    "y1": 591
+                },
+                {
+                    "x0": 3672,
+                    "y0": 607,
+                    "x1": 4477,
+                    "y1": 1592
+                }
+            ],
+            "bbox": [
+                3672,
+                324,
+                4477,
+                1592
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Police reported Leonard c.\nDuckett died from a wound in\nthe heart. Jailed for the fatal\nstabbing was Robin S. Edmunds,\nIs, who was held by juvenile\nauthorities.\n\n\nThe boys mother, divorcee,\nMrs. Ivy Acosta, said Duckett\nhad moved from her home and\nthat he abused her when she met",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1896,
+                    "y0": 1174,
+                    "x1": 2712,
+                    "y1": 1759
+                }
+            ],
+            "bbox": [
+                1896,
+                1174,
+                2712,
+                1759
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        },
+        {
+            "object_ids": [
+                13,
+                5
+            ],
+            "headline": "KILLS MONS LOVER",
+            "article": "LOS ANGELES : The Is year\nold son of white woman, stab\nbed and killed her common in\nlaw husband, a Negro last Friday\nnear their North Hollywood home.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1039,
+                    "y0": 1365,
+                    "x1": 1764,
+                    "y1": 1447
+                },
+                {
+                    "x0": 1010,
+                    "y0": 1458,
+                    "x1": 1816,
+                    "y1": 1754
+                }
+            ],
+            "bbox": [
+                1010,
+                1365,
+                1816,
+                1754
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        },
+        {
+            "object_ids": [
+                7,
+                6
+            ],
+            "headline": "CEPEDA HAS\nKNEE OPERATION",
+            "article": "NEW YORK = Orlando Cepeda,\nfirst baseman of the San Fran\ncisco Giants, Should be as good\nas ever\" following knee surgery,\nhis physician said today.\n\n\nDR.. Harrison Mclaughlin, club\ndoctor when the Giants were\nbased in New York, headed a sur\n'gical team that removed torn\ncartilage from Cepeda's right\nknee. He injured the knee while\nplaying winter baseball In Puerto",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 137,
+                    "y0": 1411,
+                    "x1": 832,
+                    "y1": 1649
+                },
+                {
+                    "x0": 102,
+                    "y0": 1666,
+                    "x1": 913,
+                    "y1": 2396
+                }
+            ],
+            "bbox": [
+                102,
+                1411,
+                913,
+                2396
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        },
+        {
+            "object_ids": [
+                11
+            ],
+            "headline": "",
+            "article": "him at his hotel room. He\nfollwed her home and broke a\nwindow. Her son grabbed a\nswitch blade knife and chased\nhim around the corner of the\nstreet and stabbed him.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2798,
+                    "y0": 1203,
+                    "x1": 3609,
+                    "y1": 1563
+                }
+            ],
+            "bbox": [
+                2798,
+                1203,
+                3609,
+                1563
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        },
+        {
+            "object_ids": [
+                15,
+                16
+            ],
+            "headline": "+lo..4ekoM\n+4uM",
+            "article": "A bigger bird Is better buy...\nbecause in the larger turkey\nTor chicken) there is less bone\n: in proportion to meat than in\nthe smaller bird.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 114,
+                    "y0": 2406,
+                    "x1": 630,
+                    "y1": 2639
+                },
+                {
+                    "x0": 96,
+                    "y0": 2649,
+                    "x1": 919,
+                    "y1": 2934
+                }
+            ],
+            "bbox": [
+                96,
+                2406,
+                919,
+                2934
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        },
+        {
+            "object_ids": [
+                17
+            ],
+            "headline": "",
+            "article": "LOCKHEED AIRCRAFT\nSER VICE COMPANY\nhas immediate openings for\nCREW CHEF\nqualified on the Mach 2\n\n\nFl04\nor recent experience\non century series aircraft\nRequirements are:\n\n\n!. Engine run certification\n2. Ground support equipment\ncertification\n\n\n8. Familiar with procedures\n\n\nOf AIM COL\nLOCKHEED AIRCRAFT\nSER VICE COMPANY\nLuke ALB\n\n\nOpen Mon-Fri 8-4:45 pm.\nAn equal opportunity employer\no35-93ll Elk. 2253",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 79,
+                    "y0": 3784,
+                    "x1": 948,
+                    "y1": 5219
+                }
+            ],
+            "bbox": [
+                79,
+                3784,
+                948,
+                5219
+            ],
+            "full_article_id": 18,
+            "id": "18_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        },
+        {
+            "object_ids": [
+                22,
+                23,
+                21
+            ],
+            "headline": "WORLDS ONLY\nFULLY AUTOMATIC CLEANER\nkjl35J!S9!k",
+            "article": "Fueiory-Avihorized\n\n\nSales & Service\nDAY = AL 2-652o\nMITE 254-437l",
+            "byline": "q EEcTRoLUx corr.",
+            "bbox_list": [
+                {
+                    "x0": 114,
+                    "y0": 2985,
+                    "x1": 890,
+                    "y1": 3432
+                },
+                {
+                    "x0": 501,
+                    "y0": 3407,
+                    "x1": 873,
+                    "y1": 3455
+                },
+                {
+                    "x0": 235,
+                    "y0": 3459,
+                    "x1": 803,
+                    "y1": 3709
+                }
+            ],
+            "bbox": [
+                114,
+                2985,
+                890,
+                3709
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-12-11_p1_sn84021918_0041421695A_1964121101_0665.json"
+        }
+    ]
+}

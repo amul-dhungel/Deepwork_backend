@@ -1,0 +1,193 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022801/0312.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7398,
+        "width": 4820
+    },
+    "bboxes": [
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2964,
+                "y0": 4427,
+                "x1": 4659,
+                "y1": 5023
+            },
+            "class": "article",
+            "raw_text": "Thirty nine singers from Prairie View University\nOf the best touring will present Rhapsdc Tel\nOf Songs Internatonale'\n\n\nUnder the Edison aunus of Prairie View\nwho has his PHI D. music the choir has electrified the\nfrom Texas to the Midwest and the Pacific States.\n\n\nCompositions ranging from Bruckners \"Te\nfolk songs will be presented.\n\n\nThe program will presented Longew auditorium\n18th and E. Indian School Rd., March 4.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2028,
+                "y0": 1699,
+                "x1": 2873,
+                "y1": 2416
+            },
+            "class": "article",
+            "raw_text": "Weekly scrubbing and re-wax\ning is not always the best way T.\nkeep a busy kitchen floor clean\nYou may get better results b.\nhopping the floor often - ever:\nday or two, if necessary - with T.\nmop wrung out of cool soap o.\ndetergent suds.\n\n\nThese quick sudsings, which\nshould not disturb the wax finish\nwill probably cut down on the\nnumber of hard scrubbings ant\nwaxings your floor demands.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2068,
+                "y0": 1514,
+                "x1": 2740,
+                "y1": 1671
+            },
+            "class": "headline",
+            "raw_text": "HOUSEHOLD HINT\nFOR FLOORS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2034,
+                "y0": 3635,
+                "x1": 2873,
+                "y1": 7196
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = A Texas born\nNegro lawyer Is on duty at the\nRepublican National Committee\nto try to melt the \"snow job\"\nshe claims Democrats have been\ngiving Negroes and other MI\nnority groups in an effort to win\nand hold their votes.\n\n\nAbertine Bowie, special as\nsistant in the Women Division,\nsays her job Is to tell the truth\nto Negro women in an effort to\norganize them for the COP in\nrhis years presidential cam\npaign.\n\n\nRepublicans have done 90\nmany things for Negroes but\nhaven't capitalized on what they\nhave DONE\" she said in aninter-\nview.\n\n\nTHE Democrats have done q\nsnow Job on the Negro popula-\nton, but we haven't forcibly put\nourselves over to them\"\n\n\nMiss Bowie, who served as\nAssistant Attorney General In\nIllinois under the appointment Of\nRepublican Governor William G.\nStratton, plans to travel to urban\ncenters with heavy Negro popu-\nladons and tell them what the\nRepublicans have done for their\nrace from \"Lincoln's day to the\npresent\"\n\n\nAt the same time, She II try to\nget Negro women to participate\nmore actively in politics and\ncommunity life.\n\n\nShe added that Negro women\nhave not assumed their full re-\nsponsibility nor taken full advan-\ntage of their opportunities and\nI'VE have to get them interested\nand bring them In\n\n\nMiss Bowie, who was the sec\nond Negro woman to be graduated\nfrom the University Of Texas law\nschool, expects to concentrate\nher efforts in Illinois, Ohio, New\nYork, California and \"any other\nareas where I'm invited\" she\nsaid.\n\n\nAlready, she has established\na Republican Club for Negro\nwomen in Houston that has 80\nmembers.\n\n\nShe began her political activity\nIn Chicago. She was on the Chi\ncage staff Of the 1860 Republican\nPresidential candidate, Richard\nM, Nixon.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2086,
+                "y0": 3433,
+                "x1": 2694,
+                "y1": 3607
+            },
+            "class": "headline",
+            "raw_text": "COP AIDE TO\n\n\nEND SNOW JOB",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-02-28"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Thirty nine singers from Prairie View University\nOf the best touring will present Rhapsdc Tel\nOf Songs Internatonale'\n\n\nUnder the Edison aunus of Prairie View\nwho has his PHI D. music the choir has electrified the\nfrom Texas to the Midwest and the Pacific States.\n\n\nCompositions ranging from Bruckners \"Te\nfolk songs will be presented.\n\n\nThe program will presented Longew auditorium\n18th and E. Indian School Rd., March 4.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2964,
+                    "y0": 4427,
+                    "x1": 4659,
+                    "y1": 5023
+                }
+            ],
+            "bbox": [
+                2964,
+                4427,
+                4659,
+                5023
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-28_p1_sn84021918_0041421695A_1964022801_0312.json"
+        },
+        {
+            "object_ids": [
+                18,
+                10
+            ],
+            "headline": "HOUSEHOLD HINT\nFOR FLOORS",
+            "article": "Weekly scrubbing and re-wax\ning is not always the best way T.\nkeep a busy kitchen floor clean\nYou may get better results b.\nhopping the floor often - ever:\nday or two, if necessary - with T.\nmop wrung out of cool soap o.\ndetergent suds.\n\n\nThese quick sudsings, which\nshould not disturb the wax finish\nwill probably cut down on the\nnumber of hard scrubbings ant\nwaxings your floor demands.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2068,
+                    "y0": 1514,
+                    "x1": 2740,
+                    "y1": 1671
+                },
+                {
+                    "x0": 2028,
+                    "y0": 1699,
+                    "x1": 2873,
+                    "y1": 2416
+                }
+            ],
+            "bbox": [
+                2028,
+                1514,
+                2873,
+                2416
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-02-28_p1_sn84021918_0041421695A_1964022801_0312.json"
+        },
+        {
+            "object_ids": [
+                9,
+                4
+            ],
+            "headline": "COP AIDE TO\n\n\nEND SNOW JOB",
+            "article": "WASHINGTON = A Texas born\nNegro lawyer Is on duty at the\nRepublican National Committee\nto try to melt the \"snow job\"\nshe claims Democrats have been\ngiving Negroes and other MI\nnority groups in an effort to win\nand hold their votes.\n\n\nAbertine Bowie, special as\nsistant in the Women Division,\nsays her job Is to tell the truth\nto Negro women in an effort to\norganize them for the COP in\nrhis years presidential cam\npaign.\n\n\nRepublicans have done 90\nmany things for Negroes but\nhaven't capitalized on what they\nhave DONE\" she said in aninter-\nview.\n\n\nTHE Democrats have done q\nsnow Job on the Negro popula-\nton, but we haven't forcibly put\nourselves over to them\"\n\n\nMiss Bowie, who served as\nAssistant Attorney General In\nIllinois under the appointment Of\nRepublican Governor William G.\nStratton, plans to travel to urban\ncenters with heavy Negro popu-\nladons and tell them what the\nRepublicans have done for their\nrace from \"Lincoln's day to the\npresent\"\n\n\nAt the same time, She II try to\nget Negro women to participate\nmore actively in politics and\ncommunity life.\n\n\nShe added that Negro women\nhave not assumed their full re-\nsponsibility nor taken full advan-\ntage of their opportunities and\nI'VE have to get them interested\nand bring them In\n\n\nMiss Bowie, who was the sec\nond Negro woman to be graduated\nfrom the University Of Texas law\nschool, expects to concentrate\nher efforts in Illinois, Ohio, New\nYork, California and \"any other\nareas where I'm invited\" she\nsaid.\n\n\nAlready, she has established\na Republican Club for Negro\nwomen in Houston that has 80\nmembers.\n\n\nShe began her political activity\nIn Chicago. She was on the Chi\ncage staff Of the 1860 Republican\nPresidential candidate, Richard\nM, Nixon.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2086,
+                    "y0": 3433,
+                    "x1": 2694,
+                    "y1": 3607
+                },
+                {
+                    "x0": 2034,
+                    "y0": 3635,
+                    "x1": 2873,
+                    "y1": 7196
+                }
+            ],
+            "bbox": [
+                2034,
+                3433,
+                2873,
+                7196
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-28_p1_sn84021918_0041421695A_1964022801_0312.json"
+        }
+    ]
+}

@@ -1,0 +1,662 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011001/0259.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7424,
+        "width": 4805
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 2849,
+                "y0": 487,
+                "x1": 3667,
+                "y1": 1497
+            },
+            "class": "article",
+            "raw_text": "FLAGSTAFF DR.. Martin\nLuther King, Negro civil rights\nleader from Birmingham, Ala,\nwill appear here Feb. 7 on fund\nraising campaign.\n\n\nThe Baptist minister will ap-\npear for the Southern Christian\nLeadership Conference, which he\nheads.\n\n\nRev. ]. R. Monsoon, pastor of\nthe Harbert AME Chapel in Flag\nstaff and president of the West\nern Christian Leadership Con-\nference, said the group will try\nto obtain use of the Arizona State\nCollege auditorium for King 8\nappearance.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 2860,
+                "y0": 342,
+                "x1": 3633,
+                "y1": 441
+            },
+            "class": "headline",
+            "raw_text": "DR.. KING TO APPEAR",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3742,
+                "y0": 539,
+                "x1": 4549,
+                "y1": 1659
+            },
+            "class": "article",
+            "raw_text": "TAMPA, Fla = Funeral SER\nvices we're held in Tampa last\nweek for woman known for her\njoviality, her friendliness, and\nher size.\n\n\nKnown to thousands, in and out\nof show business, as baby\nHelen\" Tampa's famous fiat\nLady,\" Mrs. Helen Jones, 48,\ndied of a heart attack.\n\n\nWhen she died, Mrs. Jones\nweighed slightly more than 900\npounds. At the height of her ca\nreer, when she performed as the\ncelebrated \"Baby Helen.\" she\nweighed 700 pounds. A fairly tall\nwoman, S feet 9 ~ inches,\nher measurements we're o8-83-\n1O2.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 3748,
+                "y0": 330,
+                "x1": 4485,
+                "y1": 488
+            },
+            "class": "headline",
+            "raw_text": "CIRCUS FAT WOMAN\nDIES IN TAMPA",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 3748,
+                "y0": 2151,
+                "x1": 4572,
+                "y1": 5041
+            },
+            "class": "article",
+            "raw_text": "TUSCALOOSA, Ala. = A grand\nfury indicted five Alabama Ma\ntional Cuardsmen for setting off\na series of explosions near the\nintegrated University of alabama\ncampus last October.\n\n\nTuscaloosa County Circuit So\nlicitor Fred Ncol said trials\nfor the Cuardsmen, formally\ncharged with setting off dyna-\nmite near an Inhabited dwelling\"\ncould be held In March.\n\n\nUnder Alabama law, the crime\ncan be punished by death but\nNicol said he would not seek the\ndeath penalty because no one was\ninjured by the blast.\n\n\nThe five Guardsmen we're al\nlowed to remain free on the same\nbonds they posted when they we're\narrested during December.\n\n\nThey were part of a special\ndetail on federalized duty to pro-\ntect the campus from possible\nviolence because of desegrega-\nton.\n\n\nOne of the blasts occurred\nwithin a block of the dormitory\nwhere Vivian Malone, the\nschools only Negro student, was\nhoused.\n\n\nAll of the blasts we're set\noff in or near the streets. Prin-\ncipal damage was to windows.\n\n\nThe Guardsmen are End 1t.\nJames Perkins Of Holt; lst Sgt.\nNorman Daliel of Fairfield, and\nSgts. Charles Holifield Of Mari\non, James T. Maxwell of Tus-\ncaloosa and william Roughton Of\nLangdale.\n\n\nPolice said at the time of ar\nrests that 1t was believed the\nblasts we're set off to keep ten\nsions high and to keep the unit\nfederalized. Some of the Guards\nmen on federal service drew both\nfull-time Army and civilian pay\nduring their tour of duty.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3759,
+                "y0": 1792,
+                "x1": 4532,
+                "y1": 2100
+            },
+            "class": "headline",
+            "raw_text": "GRAND JURY INDICTS\nFIVE GUARDS\nFOR EXPLOSIONS AT\nu OF ALABAMA",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1080,
+                "y0": 655,
+                "x1": 1898,
+                "y1": 3167
+            },
+            "class": "article",
+            "raw_text": "PRESCOTT Prescott High\nSchool will forfeit all athletic\nevents in which Flagstaff s James\nDugan is participant.\n\n\nSupt. of Schools Abba w. Judd\nsaid that the five-member Pres\ncolt School Board voted unani-\nmously to take the action.\n\n\nJudd said, however, Prescott\nwill maintain relations with Flag\nstaff High in all events where\nDugan does not compete.\n\n\nThis means the Jan. 81 bask-\netball game between the two high\nschools is off. All baseball games\nalso will be forfeited as Dugan\nis to be a member of the Flag\nstaff team.\n\n\nJudd said full relations will be\nresumed next year. Dugan grad\nyates this spring.\n\n\nThe board acted as a result\nof high feelings between the two\nnorthern Arizona high schools\nfollowing a recent Prescott\nFlagstaff basketball game.\n\n\nIn the final seconds Of the\ngame, Dugan slugged Prescott s\nRandy Emmett.\n\n\nThe ls-year-old Emmett suf-\nfered facial and head injuries.\nHe spent several days in the\nPrescott hospital, then was sent\nto a Phoenix hospital for facial\nsurgery.\n\n\nPrescott filed a report with the\nArizona Interscholastic Associa-\nton and requested an investiga-\nton. The ALA has taken no &C.\nton, but the groups executive\nboard Is to meet in Phoenix\nJan. %.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1085,
+                "y0": 388,
+                "x1": 1881,
+                "y1": 563
+            },
+            "class": "headline",
+            "raw_text": "PRESCOTT HALTS\n\n\nFLAGSTAFF PLAYING",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 3765,
+                "y0": 5341,
+                "x1": 4578,
+                "y1": 7117
+            },
+            "class": "article",
+            "raw_text": "WASHINGTON = About the time\nyou get Christmas paid for, 1t\nwill be time for another annual\nexpense-automobile tags.\n\n\nThis Is an item that has been\ngoing up generally, with more\nand more cities and towns get\nting into the act along with the\nstates.\n\n\nThe top charges run as high\nas $72.o5, in Oklahoma, and\nS6o.35 in Minnesota.\n\n\nA mass of information has\nbeen gathered about car tags\nby the American Automobile As\nsociation and the National Geo.\ngraphic Society.\n\n\nFor one thing, there seems to\nbe a trend toward making the\ntags good for more than one\nyear. Nineteen states now issue\nstickers or tabs instead of re-\nquiring an annual replacement\nof plates.\n\n\nThe average cost of manufac-\nturing tags runs about is to 80\ncents. Nearly all are made by\nprison labor. The size Is now\na standard IL by 6 inches, after\nmany years Of variety.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3777,
+                "y0": 5104,
+                "x1": 4323,
+                "y1": 5273
+            },
+            "class": "headline",
+            "raw_text": "AUTO TAGS\n\n\nCOSTS RISING",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1109,
+                "y0": 6484,
+                "x1": 1922,
+                "y1": 7047
+            },
+            "class": "article",
+            "raw_text": "The UL label on a product is a\nsign of safety. But in addition, it\noffers assurance of adequate per-\nTorrance.\n\n\nFor example, those asphalt\nshingles that are approved for\nwind-resistance by Underwriters\nLaboratories have met strict\nstandards for materials and have\npassed severe wind.tunnel tests.",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 1109,
+                "y0": 6275,
+                "x1": 1852,
+                "y1": 6462
+            },
+            "class": "headline",
+            "raw_text": "VI Label Signifies\n\n\nSafety, Performance",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 1097,
+                "y0": 3920,
+                "x1": 1927,
+                "y1": 6177
+            },
+            "class": "article",
+            "raw_text": "@. How much insulation should\nIhave installed in my new house?\nIt's going to be centrally air.\nconditioned.\n\n\nA. Follow the recommends.\ntons Of the National Mineral\nWool Insulation Association,\nwhich puts out an air condition.\ning calculator for builders and\nair conditioning contractors. The\ncalculator quickly shows them\nhow much insulation is needed\nfor maximum comfort and mini\nmum air-conditioning costs.\n\n\n@. How can I be sure of get\nting fire-resistant roofing?\n\n\nA. The Pacific Fire Rating\nBureau has approved several\nroofing materials for fire resist\nance. These include metal, tile,\nslate or composition, such as as\nphalt shingles, and built-up\nasphalt and rock roofing. Specify\none of these.\n\n\n@. We need a few trees for\nshade and privacy. Can you rec\nommend a fast-growing variety?\n\n\nA. Check with your local nur-\nseryman about the California\nAlder (Alnus rhombifolia). The\nfoliage is very dense, and growth\nis rapid-14 to Is feet in two\nyears after planting is not un-\nusual. In time, these trees will\ngrow from 40 to 80 feet high.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 1097,
+                "y0": 3230,
+                "x1": 1753,
+                "y1": 3399
+            },
+            "class": "headline",
+            "raw_text": "PATRONIZE YOUR\nADVERTISERS",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -2
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 1114,
+                "y0": 3561,
+                "x1": 1898,
+                "y1": 3881
+            },
+            "class": "headline",
+            "raw_text": "';|s|zz 49, Al\nQUESTION:",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1973,
+                "y0": 632,
+                "x1": 2786,
+                "y1": 1137
+            },
+            "class": "article",
+            "raw_text": "HOLLYWOOD = Sammy Davis,\nJr., Frank Sinatra, Dean Mar\ntin, Nelson Riddle S orchestra,\nand other stars in the enter\ntainment field raised $4,000 for\nthe support of civil rights orga-\nnizations at their recent Santa\nMonica Civic Auditorium Show.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 1967,
+                "y0": 365,
+                "x1": 2705,
+                "y1": 534
+            },
+            "class": "headline",
+            "raw_text": "$40, 600 RAISED FOR\nRIGHTS GROUPS",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 221,
+                "y0": 487,
+                "x1": 1040,
+                "y1": 6021
+            },
+            "class": "article",
+            "raw_text": "Z 1uOuSCT1eS Association\nhas taken a look into what\nchronological developments this\nnation may expect within the\nnext decade and it's forecast\nwill make space data today as\npasse as the jet has overshad-\nowed the Wright brothers first\nflight over Kitty Hawk, NC,\nin 1908.\n\n\nThe focal point Of this huge\nchronological fort is the de-\nvelopment Of vehicles and sup\nport equipment that can carry\nman to the moon and back. At\nthe same time, the aerospace\nindustry IL developing very\nhigh-performance aircraft, and\nliRh.speed Vertical Takeoff and\nLanding Craft, with great-vers-\nability, which will become oper-\national before 1912.\n\n\nThough ALA makes no at\ntempt to predict major break\nthroughs in technology, 1t points\nout that the general trends and\nrequirements for the space pro-\ngram over the next 10 years\n\"can be forecast with reason\nable certainty\" And among the\ngeneral trends an q require.\nYnents its forecasts are:\n\n\ny Newly-developed COMPUTE\ners to take over the role Of\ncountdown procedures for space\nflight, which for the most part\nare now dependent on manual\noperations.\n\n\n~ The memory capacity Of\nground-based data processing\nequipment that will increase\nabout 1000, 900 times over the\npresent units.\n\n\n81 The temperature resist\nance Of metal alloys will In\ncrease about 1000 degrees\nTahrenheit-a factor that has\nslowed the development Of high\nperformance aerospace vehicles.\n\n\nThese aspects Of future space\nflights are incorporated In a\nnew publication, The Aerospace\nTechnical Forecast, which was\nprepared by the Aerospace In\ndustries Association. The publ\ncation IL a guide to industry en-\ngineers as well as subcontrac-\ntors a n d suppliers for future\nplanning. Copies Of the report\nare $500 each and are avail\nable at Aerospace Industries\nAssociation, 1925 DeSales st.\nNV, Washington 6, DC.\n\n\nTrends and Requirements\n\n\nThe publication divides the\ntrends and requirements\" into\neight sections: environmenlal,\nsystem, propulsion, materials,\nsystem components, groun d\nsupport equipment, manufacture\ning process and testing.\n\n\nAS for the systems, the Fore\ncast notes there will be a re-\nquirement for ct least 10 times\n90 many major training sys.\nTENS. Training simulators,\nwhich duplicate on the ground\nthe stresses and conditions IN\nflight will become more import\nant. It predicts an improve\nment in reliability Of electronic\nsystems as much as 100 times\ngreater than today.\n\n\nForecast also predicts that\nDEVELOPMENT will start tn the\nnext decade on a single-chamb-\ner rocket engine producing 6 to\n8 million pounds Of thrust. This\nmeans that by clustering these\nengines, booster power In the\nrange Of Is to go million pounds\nOf first stage thrust can be\nproduced. This compares with\nthe current Atlas booster Of\nmore than $4,000 pounds.\n\n\nTensile Strength\n\n\nLack of proper materials has\nbeen q major difficulty in the\ndevelopment Of most high-per-\nTorrance aerospace vehicles. In\naddition to inceasing the temp\nerature resistance of refractory\nmetal alloys by as much as\n1000 degrees Fahrenheit, the\ntensile strength of glass fiber\nreinforced plastics is expected\nto rise from 100000 pounds per\nsquare inch to 100000 during\nthe next ten years. This means",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": 0
+        },
+        {
+            "id": 22,
+            "bbox": {
+                "x0": 186,
+                "y0": 330,
+                "x1": 930,
+                "y1": 401
+            },
+            "class": "headline",
+            "raw_text": "10 YEARS FROM NOW",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -2
+        },
+        {
+            "id": 27,
+            "bbox": {
+                "x0": 302,
+                "y0": 417,
+                "x1": 802,
+                "y1": 459
+            },
+            "class": "author",
+            "raw_text": "WASHINGTON",
+            "legibility": "Legible",
+            "full_article_id": 19,
+            "reading_order_id": -1
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 2019,
+                "y0": 3045,
+                "x1": 3650,
+                "y1": 4507
+            },
+            "class": "article",
+            "raw_text": "\nstorm boots and ttens out OF summer\nstorage signs winter here you'll to have\nstew recipe handy Hghght this with Corn Bread Top\nping family the fresh flavor OF the enriched corn\nmeal on top of a delicious stew.\n\n\nBEEF STEW\n\n\nMakes Servings\n\n\nBread Topping\n\n\ncup enriched corn meal tablespoons chopped pmiento\ntablespoons all-purpose flour l egg go\nUp teaspoon salt III cup milk\nteaspoons baking powder tablespoons snortenlng'\nia cup chopped green pepper soft\nFor Tile b beef cubes evenly with little -FOUR brown\nmeat tablespoons shortening in large Dutch oven or kee\nbay ea few sprlgs OF paTsey teaspoon\ndill teaspoons garlic salt and 2 teaspoon pepper Bring\nboil cover and low heat 12 hours Remove bay\nleaf and parsley sprgs.\ns chopped celery sliced carrot son 0kote one\nonions and cup frozen canned peas Combine III cup -four with\nIII cup cold 1Vater; stir into stew. . ,,,\nFor topping st together meal -four, salt and baking\npowder remaining ingredients Beat with rotary bear ABOUT\nDo not overbea Drop abespoonfus onto hot sew\nuntil topping is golden brown.",
+            "legibility": "Legible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        },
+        {
+            "id": 28,
+            "bbox": {
+                "x0": 4867,
+                "y0": 435,
+                "x1": 6121,
+                "y1": 5789
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 29,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-01-10"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                21,
+                1
+            ],
+            "headline": "DR.. KING TO APPEAR",
+            "article": "FLAGSTAFF DR.. Martin\nLuther King, Negro civil rights\nleader from Birmingham, Ala,\nwill appear here Feb. 7 on fund\nraising campaign.\n\n\nThe Baptist minister will ap-\npear for the Southern Christian\nLeadership Conference, which he\nheads.\n\n\nRev. ]. R. Monsoon, pastor of\nthe Harbert AME Chapel in Flag\nstaff and president of the West\nern Christian Leadership Con-\nference, said the group will try\nto obtain use of the Arizona State\nCollege auditorium for King 8\nappearance.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2860,
+                    "y0": 342,
+                    "x1": 3633,
+                    "y1": 441
+                },
+                {
+                    "x0": 2849,
+                    "y0": 487,
+                    "x1": 3667,
+                    "y1": 1497
+                }
+            ],
+            "bbox": [
+                2849,
+                342,
+                3667,
+                1497
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                16,
+                2
+            ],
+            "headline": "CIRCUS FAT WOMAN\nDIES IN TAMPA",
+            "article": "TAMPA, Fla = Funeral SER\nvices we're held in Tampa last\nweek for woman known for her\njoviality, her friendliness, and\nher size.\n\n\nKnown to thousands, in and out\nof show business, as baby\nHelen\" Tampa's famous fiat\nLady,\" Mrs. Helen Jones, 48,\ndied of a heart attack.\n\n\nWhen she died, Mrs. Jones\nweighed slightly more than 900\npounds. At the height of her ca\nreer, when she performed as the\ncelebrated \"Baby Helen.\" she\nweighed 700 pounds. A fairly tall\nwoman, S feet 9 ~ inches,\nher measurements we're o8-83-\n1O2.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3748,
+                    "y0": 330,
+                    "x1": 4485,
+                    "y1": 488
+                },
+                {
+                    "x0": 3742,
+                    "y0": 539,
+                    "x1": 4549,
+                    "y1": 1659
+                }
+            ],
+            "bbox": [
+                3742,
+                330,
+                4549,
+                1659
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                12,
+                3
+            ],
+            "headline": "GRAND JURY INDICTS\nFIVE GUARDS\nFOR EXPLOSIONS AT\nu OF ALABAMA",
+            "article": "TUSCALOOSA, Ala. = A grand\nfury indicted five Alabama Ma\ntional Cuardsmen for setting off\na series of explosions near the\nintegrated University of alabama\ncampus last October.\n\n\nTuscaloosa County Circuit So\nlicitor Fred Ncol said trials\nfor the Cuardsmen, formally\ncharged with setting off dyna-\nmite near an Inhabited dwelling\"\ncould be held In March.\n\n\nUnder Alabama law, the crime\ncan be punished by death but\nNicol said he would not seek the\ndeath penalty because no one was\ninjured by the blast.\n\n\nThe five Guardsmen we're al\nlowed to remain free on the same\nbonds they posted when they we're\narrested during December.\n\n\nThey were part of a special\ndetail on federalized duty to pro-\ntect the campus from possible\nviolence because of desegrega-\nton.\n\n\nOne of the blasts occurred\nwithin a block of the dormitory\nwhere Vivian Malone, the\nschools only Negro student, was\nhoused.\n\n\nAll of the blasts we're set\noff in or near the streets. Prin-\ncipal damage was to windows.\n\n\nThe Guardsmen are End 1t.\nJames Perkins Of Holt; lst Sgt.\nNorman Daliel of Fairfield, and\nSgts. Charles Holifield Of Mari\non, James T. Maxwell of Tus-\ncaloosa and william Roughton Of\nLangdale.\n\n\nPolice said at the time of ar\nrests that 1t was believed the\nblasts we're set off to keep ten\nsions high and to keep the unit\nfederalized. Some of the Guards\nmen on federal service drew both\nfull-time Army and civilian pay\nduring their tour of duty.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3759,
+                    "y0": 1792,
+                    "x1": 4532,
+                    "y1": 2100
+                },
+                {
+                    "x0": 3748,
+                    "y0": 2151,
+                    "x1": 4572,
+                    "y1": 5041
+                }
+            ],
+            "bbox": [
+                3748,
+                1792,
+                4572,
+                5041
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                17,
+                4
+            ],
+            "headline": "PRESCOTT HALTS\n\n\nFLAGSTAFF PLAYING",
+            "article": "PRESCOTT Prescott High\nSchool will forfeit all athletic\nevents in which Flagstaff s James\nDugan is participant.\n\n\nSupt. of Schools Abba w. Judd\nsaid that the five-member Pres\ncolt School Board voted unani-\nmously to take the action.\n\n\nJudd said, however, Prescott\nwill maintain relations with Flag\nstaff High in all events where\nDugan does not compete.\n\n\nThis means the Jan. 81 bask-\netball game between the two high\nschools is off. All baseball games\nalso will be forfeited as Dugan\nis to be a member of the Flag\nstaff team.\n\n\nJudd said full relations will be\nresumed next year. Dugan grad\nyates this spring.\n\n\nThe board acted as a result\nof high feelings between the two\nnorthern Arizona high schools\nfollowing a recent Prescott\nFlagstaff basketball game.\n\n\nIn the final seconds Of the\ngame, Dugan slugged Prescott s\nRandy Emmett.\n\n\nThe ls-year-old Emmett suf-\nfered facial and head injuries.\nHe spent several days in the\nPrescott hospital, then was sent\nto a Phoenix hospital for facial\nsurgery.\n\n\nPrescott filed a report with the\nArizona Interscholastic Associa-\nton and requested an investiga-\nton. The ALA has taken no &C.\nton, but the groups executive\nboard Is to meet in Phoenix\nJan. %.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1085,
+                    "y0": 388,
+                    "x1": 1881,
+                    "y1": 563
+                },
+                {
+                    "x0": 1080,
+                    "y0": 655,
+                    "x1": 1898,
+                    "y1": 3167
+                }
+            ],
+            "bbox": [
+                1080,
+                388,
+                1898,
+                3167
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "AUTO TAGS\n\n\nCOSTS RISING",
+            "article": "WASHINGTON = About the time\nyou get Christmas paid for, 1t\nwill be time for another annual\nexpense-automobile tags.\n\n\nThis Is an item that has been\ngoing up generally, with more\nand more cities and towns get\nting into the act along with the\nstates.\n\n\nThe top charges run as high\nas $72.o5, in Oklahoma, and\nS6o.35 in Minnesota.\n\n\nA mass of information has\nbeen gathered about car tags\nby the American Automobile As\nsociation and the National Geo.\ngraphic Society.\n\n\nFor one thing, there seems to\nbe a trend toward making the\ntags good for more than one\nyear. Nineteen states now issue\nstickers or tabs instead of re-\nquiring an annual replacement\nof plates.\n\n\nThe average cost of manufac-\nturing tags runs about is to 80\ncents. Nearly all are made by\nprison labor. The size Is now\na standard IL by 6 inches, after\nmany years Of variety.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3777,
+                    "y0": 5104,
+                    "x1": 4323,
+                    "y1": 5273
+                },
+                {
+                    "x0": 3765,
+                    "y0": 5341,
+                    "x1": 4578,
+                    "y1": 7117
+                }
+            ],
+            "bbox": [
+                3765,
+                5104,
+                4578,
+                7117
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                15,
+                8
+            ],
+            "headline": "VI Label Signifies\n\n\nSafety, Performance",
+            "article": "The UL label on a product is a\nsign of safety. But in addition, it\noffers assurance of adequate per-\nTorrance.\n\n\nFor example, those asphalt\nshingles that are approved for\nwind-resistance by Underwriters\nLaboratories have met strict\nstandards for materials and have\npassed severe wind.tunnel tests.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1109,
+                    "y0": 6275,
+                    "x1": 1852,
+                    "y1": 6462
+                },
+                {
+                    "x0": 1109,
+                    "y0": 6484,
+                    "x1": 1922,
+                    "y1": 7047
+                }
+            ],
+            "bbox": [
+                1109,
+                6275,
+                1922,
+                7047
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                24,
+                13,
+                10
+            ],
+            "headline": "PATRONIZE YOUR\nADVERTISERS\n\n';|s|zz 49, Al\nQUESTION:",
+            "article": "@. How much insulation should\nIhave installed in my new house?\nIt's going to be centrally air.\nconditioned.\n\n\nA. Follow the recommends.\ntons Of the National Mineral\nWool Insulation Association,\nwhich puts out an air condition.\ning calculator for builders and\nair conditioning contractors. The\ncalculator quickly shows them\nhow much insulation is needed\nfor maximum comfort and mini\nmum air-conditioning costs.\n\n\n@. How can I be sure of get\nting fire-resistant roofing?\n\n\nA. The Pacific Fire Rating\nBureau has approved several\nroofing materials for fire resist\nance. These include metal, tile,\nslate or composition, such as as\nphalt shingles, and built-up\nasphalt and rock roofing. Specify\none of these.\n\n\n@. We need a few trees for\nshade and privacy. Can you rec\nommend a fast-growing variety?\n\n\nA. Check with your local nur-\nseryman about the California\nAlder (Alnus rhombifolia). The\nfoliage is very dense, and growth\nis rapid-14 to Is feet in two\nyears after planting is not un-\nusual. In time, these trees will\ngrow from 40 to 80 feet high.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1097,
+                    "y0": 3230,
+                    "x1": 1753,
+                    "y1": 3399
+                },
+                {
+                    "x0": 1114,
+                    "y0": 3561,
+                    "x1": 1898,
+                    "y1": 3881
+                },
+                {
+                    "x0": 1097,
+                    "y0": 3920,
+                    "x1": 1927,
+                    "y1": 6177
+                }
+            ],
+            "bbox": [
+                1097,
+                3230,
+                1927,
+                6177
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                19,
+                11
+            ],
+            "headline": "$40, 600 RAISED FOR\nRIGHTS GROUPS",
+            "article": "HOLLYWOOD = Sammy Davis,\nJr., Frank Sinatra, Dean Mar\ntin, Nelson Riddle S orchestra,\nand other stars in the enter\ntainment field raised $4,000 for\nthe support of civil rights orga-\nnizations at their recent Santa\nMonica Civic Auditorium Show.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1967,
+                    "y0": 365,
+                    "x1": 2705,
+                    "y1": 534
+                },
+                {
+                    "x0": 1973,
+                    "y0": 632,
+                    "x1": 2786,
+                    "y1": 1137
+                }
+            ],
+            "bbox": [
+                1967,
+                365,
+                2786,
+                1137
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                22,
+                27,
+                18
+            ],
+            "headline": "10 YEARS FROM NOW",
+            "article": "Z 1uOuSCT1eS Association\nhas taken a look into what\nchronological developments this\nnation may expect within the\nnext decade and it's forecast\nwill make space data today as\npasse as the jet has overshad-\nowed the Wright brothers first\nflight over Kitty Hawk, NC,\nin 1908.\n\n\nThe focal point Of this huge\nchronological fort is the de-\nvelopment Of vehicles and sup\nport equipment that can carry\nman to the moon and back. At\nthe same time, the aerospace\nindustry IL developing very\nhigh-performance aircraft, and\nliRh.speed Vertical Takeoff and\nLanding Craft, with great-vers-\nability, which will become oper-\national before 1912.\n\n\nThough ALA makes no at\ntempt to predict major break\nthroughs in technology, 1t points\nout that the general trends and\nrequirements for the space pro-\ngram over the next 10 years\n\"can be forecast with reason\nable certainty\" And among the\ngeneral trends an q require.\nYnents its forecasts are:\n\n\ny Newly-developed COMPUTE\ners to take over the role Of\ncountdown procedures for space\nflight, which for the most part\nare now dependent on manual\noperations.\n\n\n~ The memory capacity Of\nground-based data processing\nequipment that will increase\nabout 1000, 900 times over the\npresent units.\n\n\n81 The temperature resist\nance Of metal alloys will In\ncrease about 1000 degrees\nTahrenheit-a factor that has\nslowed the development Of high\nperformance aerospace vehicles.\n\n\nThese aspects Of future space\nflights are incorporated In a\nnew publication, The Aerospace\nTechnical Forecast, which was\nprepared by the Aerospace In\ndustries Association. The publ\ncation IL a guide to industry en-\ngineers as well as subcontrac-\ntors a n d suppliers for future\nplanning. Copies Of the report\nare $500 each and are avail\nable at Aerospace Industries\nAssociation, 1925 DeSales st.\nNV, Washington 6, DC.\n\n\nTrends and Requirements\n\n\nThe publication divides the\ntrends and requirements\" into\neight sections: environmenlal,\nsystem, propulsion, materials,\nsystem components, groun d\nsupport equipment, manufacture\ning process and testing.\n\n\nAS for the systems, the Fore\ncast notes there will be a re-\nquirement for ct least 10 times\n90 many major training sys.\nTENS. Training simulators,\nwhich duplicate on the ground\nthe stresses and conditions IN\nflight will become more import\nant. It predicts an improve\nment in reliability Of electronic\nsystems as much as 100 times\ngreater than today.\n\n\nForecast also predicts that\nDEVELOPMENT will start tn the\nnext decade on a single-chamb-\ner rocket engine producing 6 to\n8 million pounds Of thrust. This\nmeans that by clustering these\nengines, booster power In the\nrange Of Is to go million pounds\nOf first stage thrust can be\nproduced. This compares with\nthe current Atlas booster Of\nmore than $4,000 pounds.\n\n\nTensile Strength\n\n\nLack of proper materials has\nbeen q major difficulty in the\ndevelopment Of most high-per-\nTorrance aerospace vehicles. In\naddition to inceasing the temp\nerature resistance of refractory\nmetal alloys by as much as\n1000 degrees Fahrenheit, the\ntensile strength of glass fiber\nreinforced plastics is expected\nto rise from 100000 pounds per\nsquare inch to 100000 during\nthe next ten years. This means",
+            "byline": "WASHINGTON",
+            "bbox_list": [
+                {
+                    "x0": 186,
+                    "y0": 330,
+                    "x1": 930,
+                    "y1": 401
+                },
+                {
+                    "x0": 302,
+                    "y0": 417,
+                    "x1": 802,
+                    "y1": 459
+                },
+                {
+                    "x0": 221,
+                    "y0": 487,
+                    "x1": 1040,
+                    "y1": 6021
+                }
+            ],
+            "bbox": [
+                186,
+                330,
+                1040,
+                6021
+            ],
+            "full_article_id": 19,
+            "id": "19_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        },
+        {
+            "object_ids": [
+                25
+            ],
+            "headline": "",
+            "article": "\nstorm boots and ttens out OF summer\nstorage signs winter here you'll to have\nstew recipe handy Hghght this with Corn Bread Top\nping family the fresh flavor OF the enriched corn\nmeal on top of a delicious stew.\n\n\nBEEF STEW\n\n\nMakes Servings\n\n\nBread Topping\n\n\ncup enriched corn meal tablespoons chopped pmiento\ntablespoons all-purpose flour l egg go\nUp teaspoon salt III cup milk\nteaspoons baking powder tablespoons snortenlng'\nia cup chopped green pepper soft\nFor Tile b beef cubes evenly with little -FOUR brown\nmeat tablespoons shortening in large Dutch oven or kee\nbay ea few sprlgs OF paTsey teaspoon\ndill teaspoons garlic salt and 2 teaspoon pepper Bring\nboil cover and low heat 12 hours Remove bay\nleaf and parsley sprgs.\ns chopped celery sliced carrot son 0kote one\nonions and cup frozen canned peas Combine III cup -four with\nIII cup cold 1Vater; stir into stew. . ,,,\nFor topping st together meal -four, salt and baking\npowder remaining ingredients Beat with rotary bear ABOUT\nDo not overbea Drop abespoonfus onto hot sew\nuntil topping is golden brown.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2019,
+                    "y0": 3045,
+                    "x1": 3650,
+                    "y1": 4507
+                }
+            ],
+            "bbox": [
+                2019,
+                3045,
+                3650,
+                4507
+            ],
+            "full_article_id": 26,
+            "id": "26_1964-01-10_p1_sn84021918_0041421695A_1964011001_0259.json"
+        }
+    ]
+}

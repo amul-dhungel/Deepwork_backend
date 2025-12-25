@@ -1,0 +1,189 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-06",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7392,
+        "width": 4932,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-06",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964110601/0621.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2720,
+                "y0": 1536,
+                "x1": 4418,
+                "y1": 2201
+            },
+            "class": "article",
+            "raw_text": "honoring ]. W. (Ada) Taylor wife Of Bishop JW\nTaylor Church God Christ 1902 E. Madison was\nheld Sunday al home Of Mrs. Louie Day.\nMrs. Day. 72l E. Madison Miss Nadine Kan\nDALI Elder Moore Mrs. Emra McCauey, Elder Lindze\nBrown Mrs. Wileta Randall.\nServing Mrs. Verna Alerson standing\nFay Porter Mrs. Gere Brown Ref. G. H. Lakes Elder\nAlverson\n\n\nHostesses Mines. Day and Randall.\n\n\nBanks",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 28,
+                "y0": 571,
+                "x1": 826,
+                "y1": 919
+            },
+            "class": "article",
+            "raw_text": "Police ARE sted 7n-yeai-\nold Phoenix man In connection\nwith the Sunday night holdup of\nthe sands Hotel, 1920 E. Van\nBuren,, and a Mesa motel robbery\nla st week.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 918,
+                "y0": 560,
+                "x1": 1733,
+                "y1": 901
+            },
+            "class": "article",
+            "raw_text": "Walter Nicholson, 1929 E.\nMonroe, has been identified S\nthe gunman who took $452 from\nthe Sands and an undetermined\namount from the Ell Rancho Motel,\n7lo E. Main, Mesa, Oct. 70.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 115,
+                "y0": 415,
+                "x1": 1733,
+                "y1": 549
+            },
+            "class": "headline",
+            "raw_text": "20 YR. OLD HELD IN R0BBERIEs",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 4972,
+                "y0": 392,
+                "x1": 6168,
+                "y1": 5793
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964110601_0621",
+    "full articles": [
+        {
+            "object_ids": [
+                7
+            ],
+            "headline": "",
+            "article": "honoring ]. W. (Ada) Taylor wife Of Bishop JW\nTaylor Church God Christ 1902 E. Madison was\nheld Sunday al home Of Mrs. Louie Day.\nMrs. Day. 72l E. Madison Miss Nadine Kan\nDALI Elder Moore Mrs. Emra McCauey, Elder Lindze\nBrown Mrs. Wileta Randall.\nServing Mrs. Verna Alerson standing\nFay Porter Mrs. Gere Brown Ref. G. H. Lakes Elder\nAlverson\n\n\nHostesses Mines. Day and Randall.\n\n\nBanks",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2720,
+                    "y0": 1536,
+                    "x1": 4418,
+                    "y1": 2201
+                }
+            ],
+            "bbox": [
+                2720,
+                1536,
+                4418,
+                2201
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-11-06_pna_sn84021918_0041421695A_1964110601_0621.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "Police ARE sted 7n-yeai-\nold Phoenix man In connection\nwith the Sunday night holdup of\nthe sands Hotel, 1920 E. Van\nBuren,, and a Mesa motel robbery\nla st week.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 28,
+                    "y0": 571,
+                    "x1": 826,
+                    "y1": 919
+                }
+            ],
+            "bbox": [
+                28,
+                571,
+                826,
+                919
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-06_pna_sn84021918_0041421695A_1964110601_0621.json"
+        },
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "20 YR. OLD HELD IN R0BBERIEs",
+            "article": "Walter Nicholson, 1929 E.\nMonroe, has been identified S\nthe gunman who took $452 from\nthe Sands and an undetermined\namount from the Ell Rancho Motel,\n7lo E. Main, Mesa, Oct. 70.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 115,
+                    "y0": 415,
+                    "x1": 1733,
+                    "y1": 549
+                },
+                {
+                    "x0": 918,
+                    "y0": 560,
+                    "x1": 1733,
+                    "y1": 901
+                }
+            ],
+            "bbox": [
+                115,
+                415,
+                1733,
+                901
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-11-06_pna_sn84021918_0041421695A_1964110601_0621.json"
+        }
+    ]
+}

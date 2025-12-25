@@ -1,0 +1,283 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964021401/0295.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7436,
+        "width": 4865
+    },
+    "bboxes": [
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 3774,
+                "y0": 3956,
+                "x1": 4582,
+                "y1": 5084
+            },
+            "class": "article",
+            "raw_text": "McNally. the 1864 map measures\n27X4Z' and covers an area Of\nmore than 500 square miles--ex-\ntending north beyond Bell Rd..\nsouth to Guadalupe. east beyond\nTempe and west past Tolleson,\nwith a special insert showing\nYoungtown-Sun City.\n\n\nIncluded are useful indexes to\nIndividual streets, plus nstings\nOf parks, gold courses. cemeter-\nles, hospitals, educational facil-\ntiles and \"points of interest\"\n\n\nValley Bank also has added It's\n\"scenic auto trip information\"\ndetailing six short and eight long\ner suggested drives to various\nattractions In the metropolitan\narea and beyond.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 3048,
+                "y0": 3758,
+                "x1": 4443,
+                "y1": 3881
+            },
+            "class": "headline",
+            "raw_text": "New Valley Bunk Street Mups Available",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2891,
+                "y0": 3973,
+                "x1": 3699,
+                "y1": 5060
+            },
+            "class": "article",
+            "raw_text": "A new and larger edition Of the\nValley National Bank street map\nof the Metropolitan Phoenix area\nwas printed this week.\n\n\nThis is the 18th year Valley\nBank has printed a greater\nPhoenix map as a public SER\nvice and distributed copies free.\n\n\nRealizing the need for a single,\ncomprehensive area map. Valley\nBank began in 1913 Its practice\nOf commits sioning the extensive\nresearch and painstahng drafts\nmanship required to produce de-\npendable local charts. Work on\nthe latest edition has been UNDER\nway the past several months.\n\n\nPrepared for the bank by Rand",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 1985,
+                "y0": 2161,
+                "x1": 2805,
+                "y1": 2888
+            },
+            "class": "article",
+            "raw_text": "JOHNSON CITY, Tex. Pres\nident johnson has named Gov.\nPaul Fannin to the Advisory Com\nmittee on Civil Defense.\n\n\nFannin will serve until Jan.\nIL, 1867.\n\n\nAlso appointed were Cows. Ed\nmund G. Brown of California,\nRichard ]. Hughes of New Jer-\nsey and Boston Mayor John F.\nCollins. All but Fannin are DEM\nocrats.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2008,
+                "y0": 2044,
+                "x1": 2590,
+                "y1": 2144
+            },
+            "class": "headline",
+            "raw_text": "FANNIN NAMED",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 2891,
+                "y0": 2875,
+                "x1": 4565,
+                "y1": 3684
+            },
+            "class": "article",
+            "raw_text": "Day programs Tanner Chapel AME Church.\ncimaxed fund raising program for new church pews.\n\n\nmoving old ews the pastor officers and members\nof the church.\n\n\nWilliams congratulated the various committee chair\nwho provided the work and hours\nproject Williams helps Dr. Curtis Green\nfield of the pews\n\n\nspectators Messrs John Ward E. E. Roberts,\nCaybrooks, Roy Lee and Nathaniel Robinsons.\n\n\npictured Mrs. nez Rosser Miss Crystal Townsend and\nMiss Ward.\n\n\nSeveral other church members pictured,",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 207,
+                "y0": 2056,
+                "x1": 1910,
+                "y1": 2568
+            },
+            "class": "article",
+            "raw_text": "Jack and jill Of America Club wo-eig old group pre-\npares for its annual charity benefit.\n\n\nDisplaying work produced in January and February\nDarlene Hawkins frankie Banks, Terri\nSolomon Cora Boyns Virgil Bryant, Gregory Scott Hannah\nWright Virgil Solomon Karen Scott Roy Wright Richard Graves\nGlen Sublett and Cheryl Myers Jr.\n\n\nThe program % T. Washington School,",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 4913,
+                "y0": 464,
+                "x1": 6157,
+                "y1": 5810
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        }
+    ],
+    "edition": {
+        "date": "1964-02-14"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                2
+            ],
+            "headline": "New Valley Bunk Street Mups Available",
+            "article": "McNally. the 1864 map measures\n27X4Z' and covers an area Of\nmore than 500 square miles--ex-\ntending north beyond Bell Rd..\nsouth to Guadalupe. east beyond\nTempe and west past Tolleson,\nwith a special insert showing\nYoungtown-Sun City.\n\n\nIncluded are useful indexes to\nIndividual streets, plus nstings\nOf parks, gold courses. cemeter-\nles, hospitals, educational facil-\ntiles and \"points of interest\"\n\n\nValley Bank also has added It's\n\"scenic auto trip information\"\ndetailing six short and eight long\ner suggested drives to various\nattractions In the metropolitan\narea and beyond.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3048,
+                    "y0": 3758,
+                    "x1": 4443,
+                    "y1": 3881
+                },
+                {
+                    "x0": 3774,
+                    "y0": 3956,
+                    "x1": 4582,
+                    "y1": 5084
+                }
+            ],
+            "bbox": [
+                3048,
+                3758,
+                4582,
+                5084
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-02-14_p1_sn84021918_0041421695A_1964021401_0295.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "A new and larger edition Of the\nValley National Bank street map\nof the Metropolitan Phoenix area\nwas printed this week.\n\n\nThis is the 18th year Valley\nBank has printed a greater\nPhoenix map as a public SER\nvice and distributed copies free.\n\n\nRealizing the need for a single,\ncomprehensive area map. Valley\nBank began in 1913 Its practice\nOf commits sioning the extensive\nresearch and painstahng drafts\nmanship required to produce de-\npendable local charts. Work on\nthe latest edition has been UNDER\nway the past several months.\n\n\nPrepared for the bank by Rand",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2891,
+                    "y0": 3973,
+                    "x1": 3699,
+                    "y1": 5060
+                }
+            ],
+            "bbox": [
+                2891,
+                3973,
+                3699,
+                5060
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-02-14_p1_sn84021918_0041421695A_1964021401_0295.json"
+        },
+        {
+            "object_ids": [
+                14,
+                6
+            ],
+            "headline": "FANNIN NAMED",
+            "article": "JOHNSON CITY, Tex. Pres\nident johnson has named Gov.\nPaul Fannin to the Advisory Com\nmittee on Civil Defense.\n\n\nFannin will serve until Jan.\nIL, 1867.\n\n\nAlso appointed were Cows. Ed\nmund G. Brown of California,\nRichard ]. Hughes of New Jer-\nsey and Boston Mayor John F.\nCollins. All but Fannin are DEM\nocrats.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2008,
+                    "y0": 2044,
+                    "x1": 2590,
+                    "y1": 2144
+                },
+                {
+                    "x0": 1985,
+                    "y0": 2161,
+                    "x1": 2805,
+                    "y1": 2888
+                }
+            ],
+            "bbox": [
+                1985,
+                2044,
+                2805,
+                2888
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-14_p1_sn84021918_0041421695A_1964021401_0295.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "Day programs Tanner Chapel AME Church.\ncimaxed fund raising program for new church pews.\n\n\nmoving old ews the pastor officers and members\nof the church.\n\n\nWilliams congratulated the various committee chair\nwho provided the work and hours\nproject Williams helps Dr. Curtis Green\nfield of the pews\n\n\nspectators Messrs John Ward E. E. Roberts,\nCaybrooks, Roy Lee and Nathaniel Robinsons.\n\n\npictured Mrs. nez Rosser Miss Crystal Townsend and\nMiss Ward.\n\n\nSeveral other church members pictured,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2891,
+                    "y0": 2875,
+                    "x1": 4565,
+                    "y1": 3684
+                }
+            ],
+            "bbox": [
+                2891,
+                2875,
+                4565,
+                3684
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-14_p1_sn84021918_0041421695A_1964021401_0295.json"
+        },
+        {
+            "object_ids": [
+                9
+            ],
+            "headline": "",
+            "article": "Jack and jill Of America Club wo-eig old group pre-\npares for its annual charity benefit.\n\n\nDisplaying work produced in January and February\nDarlene Hawkins frankie Banks, Terri\nSolomon Cora Boyns Virgil Bryant, Gregory Scott Hannah\nWright Virgil Solomon Karen Scott Roy Wright Richard Graves\nGlen Sublett and Cheryl Myers Jr.\n\n\nThe program % T. Washington School,",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 207,
+                    "y0": 2056,
+                    "x1": 1910,
+                    "y1": 2568
+                }
+            ],
+            "bbox": [
+                207,
+                2056,
+                1910,
+                2568
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-02-14_p1_sn84021918_0041421695A_1964021401_0295.json"
+        }
+    ]
+}

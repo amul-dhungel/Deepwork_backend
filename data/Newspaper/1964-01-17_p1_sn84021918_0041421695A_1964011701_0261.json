@@ -1,0 +1,606 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964011701/0261.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7425,
+        "width": 4891
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 3831,
+                "y0": 5023,
+                "x1": 4650,
+                "y1": 6138
+            },
+            "class": "article",
+            "raw_text": "WASHINCTON-The report of\na ten man scientific panel, who\nstudied the effects of smoking for\nfourteen months, was made final\nearlier this week.\n\n\nThe panel concluded smoking\ncigarettes is hazardous and is\na major cause of lung cancer and\nother respiratory diseases.\n\n\nSurgeon General Luther Terry.\nhead of the US. Public Health\nService, accepted the report and\nsaid remedial action is needed.\nHe said if he were a doctor he\nwould warn his patients against\nsmoking.\n\n\nThe report also linked smok-\ning pipes with the development\nof cancer of the lip.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 3878,
+                "y0": 4843,
+                "x1": 4441,
+                "y1": 5007
+            },
+            "class": "headline",
+            "raw_text": "SMOKING AIDS\nLUNG CANCER",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 2074,
+                "y0": 6218,
+                "x1": 2887,
+                "y1": 7153
+            },
+            "class": "article",
+            "raw_text": "Another postponement of the\ntrial of Ruby Lee Bates, AZ,\nCHI arged with murder, was\ngranted. The new date is Feb.\n8. Judge Laurens L. Henderson\npermitted the latest delay be-\ncause of the illness of vi.\nHash. defense lawyer.\n\n\nThe previous delay was be-\ncause Of the disqualification of\nthe defendant for a gall bladder\noperation. She is accused of the\nshooting-slaying Aug. 10 of Josh\nMyles, As, of 17l0 E. Lincoln,\nin her apartment at OLA w.\nGrant.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 2080,
+                "y0": 6015,
+                "x1": 2655,
+                "y1": 6184
+            },
+            "class": "headline",
+            "raw_text": "BATES TRIAL\n\n\nIS POSTPONED",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 2051,
+                "y0": 4814,
+                "x1": 2875,
+                "y1": 5964
+            },
+            "class": "article",
+            "raw_text": "AVONDALE-A Phoenix woman\nsurvived a car plunge into the\nRoosevelt District Canal but later\ndrowned. sheriff 8 deputies said.\n\n\nShe was identified as Marie\nKemp. 38, 1898 E. Adams.\n\n\nDeputies reported she was with\nAllen Hilton, Sc, of 2410 w.\nAdams, when the car went into\nthe canal. Both climbed onto the\nsubmerged car 8 hood.\n\n\nHilton told deputies when he\nturned she was gone. Hilton was\ntaken to county hospital for ex-\nanimation.\n\n\nDeputies said. the woman may\nhave been swept from the car\nby the strong current. Her body\nwas found a mile from the car.",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 2074,
+                "y0": 4600,
+                "x1": 2701,
+                "y1": 4780
+            },
+            "class": "headline",
+            "raw_text": "WOMAN BROWNS\nAFTER CRASH",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1204,
+                "y0": 6520,
+                "x1": 2017,
+                "y1": 7176
+            },
+            "class": "article",
+            "raw_text": "]. D. Dobbs, Jr., president of the\nfirm which operates Dobbs\nHouses and Toddle Houses. He\nsaid some places in Atlanta, Ten\nnessee and Texas had been In\ntegrated.\n\n\nDick Gregory. famous Negro\ncomedian is a stakeholder in the\nfirm. His wife was recently ar\nrested during a sitin at a Dobbs\nrestaurant in Atlanta.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3843,
+                "y0": 6334,
+                "x1": 4668,
+                "y1": 7153
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-New York City\nschools will be boycotted starting\nFeb. 8 by civil rights groups\nwho are dissatisfied with the\nBoard of Education 8 integration\nprogram.\n\n\nFrederick Jones, education\nchairman of the state 8 NAACP\nbranches, said the boycott would\nBe operated in cooperation with\nthe Citywide Committee for\nSchool Integration which includes\nthe NAACP, CORE and two large\nparents groups.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3849,
+                "y0": 6160,
+                "x1": 4581,
+                "y1": 6312
+            },
+            "class": "headline",
+            "raw_text": "NY. SCHOOL\n\n\nBOYCOTT ON FEB. 3",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 270,
+                "y0": 5011,
+                "x1": 1100,
+                "y1": 6602
+            },
+            "class": "article",
+            "raw_text": "PHILADELPHIA = Richardson\nDilworth, former mayor of Phil\nadelphia, who was hailed for his\nliberal policies, told Chamber\nof Commerce seminar last week\nthat, \"The time has come for the\nNegro to stop feeling so damned\nsorry for himself\"\n\n\nHe continued, \"We cannot sup\nport 20 per cent of the Negroes\nin the North on relief and hope\nto survive\"\n\n\nDilworth, known as an out\nspoken man, regards Negro lead\ners who insist because they be-\nlong to a minority group that they\ncan't get anywhere.\n\n\nHe told his audience that Ne\ngroes should look at the Irish and\nItalians who were once minori-\nties. One of them became presi-\ndent.\n\n\nDilworth continued saying the\ntrouble caused by the blacldace\nmakeup in the mummers parade\nset the Negro community back\nten years.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 293,
+                "y0": 4779,
+                "x1": 1089,
+                "y1": 4995
+            },
+            "class": "headline",
+            "raw_text": "FORMER PHILLY\n\n\nMAYOR URGES NEGRO\nTO STOP SELF PITY",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2056,
+                "y0": 1514,
+                "x1": 2887,
+                "y1": 4531
+            },
+            "class": "article",
+            "raw_text": "NAACP executive secretary\nRoy wilkins reported at the As\nISOLATION s annual meeting total\nof 515,396 members on closing\ndate Dec. \"a. This figure repre-\nsents an additional III 1888 mem\nbers over 1862, an increase of\n% per cent.\n\n\nYouth membership reached\n55,S67, a so per cent increase\nover the 1862 total.\n\n\nA record number of new units\nwere chartered during the year,\n100 branches, youth councils,\ncollege chapters and young adult\ncouncils. The newly-chartered\nunits brought the total to LIS,\nthe highest in the history Of the\norganization. There are active\nunits in the District of Columbia\nand in every state of the Union\nexcept Alabama where the As\nISOLATION has been banned by\nstate court injunction since 1856.\n\n\nChicago with a total of 81 500\nwas the largest single branch in\nthe Association. However, the IL\nbranches in the five boroughs of\nNew York City enrolled a total of\n34,O11.\n\n\nSecond largest single branch in\nthe country was Detroit with\n28,443. followed by Philadelphia.\n\"a, 48l. Other branches with\n10000 or more members inclu-\nded Cleveland, 1904; Balti-\nmore, 1858; Washington, H.\nEOS: Pittsburgh. l0.457 and\nBrooklyn, 10000.\n\n\nIn every area Of its activity\nthe NAACP saw outstanding sue\ncess in 1868. The Youth and\nCollege Division, the largest\nyouth civil rights group in the\nnation, massed its members for\nsit-ins. stand-ins, drive-ins,\nwade-ins, mass demonstrations,\nprotest marches, picket lines and\nselective buying campaigns in\nvirtually every section of the\ncountry.",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": 0
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2051,
+                "y0": 1287,
+                "x1": 2864,
+                "y1": 1456
+            },
+            "class": "headline",
+            "raw_text": "WILKINS GIVES\n\n\nMEMBERSHIP REPORT",
+            "legibility": "Legible",
+            "full_article_id": 10,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 2944,
+                "y0": 5214,
+                "x1": 3763,
+                "y1": 6857
+            },
+            "class": "article",
+            "raw_text": "LOS ANG ELES-Ground break\ning ceremonies for the first all\nNegro owned and organized bank\nwest of Kansas City were held\nlast week.\n\n\nDR.. Edward H. Ballard, board\nchairman, led ceremonies. He\nwas assisted by C. E. Trimmer,\nmanager of Southern California\nGas Co., and City Councilman\nTome Bradley, who Is one of the\nbanks organizers.\n\n\nThe bank is capitalized at\nST. ,05O.OOO and deposits of SIS\nmillion have been assured for the\nopening date in June.\n\n\n1t will be located at 2651 So.\nWestern Ave. and will provide all\nbanking facilities.\n\n\nThe bank was organized by\nDR.. Ballard, DR.. Perry w. Beal,\nMilton A. Clarke, Onie B. Gran\nVile, Mrs. Bernice M. Malbrue,\nLorenzo V. Spence and Coun-\nGilman Bradley.\n\n\nDR.. Ballard stressed the bank\nwill have an integrated staff of\nemployees.",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 15,
+            "bbox": {
+                "x0": 2984,
+                "y0": 4942,
+                "x1": 3525,
+                "y1": 5175
+            },
+            "class": "headline",
+            "raw_text": "NEGRO BANK\nTO OPEN IN\nLOS ANGELES",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 1169,
+                "y0": 5000,
+                "x1": 1988,
+                "y1": 6434
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Rep. Adam Clay\nton Powell O-N.Y.) did not ap-\npear before Supreme Court JUS\ntice Arthur MarkeMch Jan. e\nas originally ordered because\nthe date had been cancelled.\n\n\nOpposing counsel in the de-\nfamation suit filed against him\nby Mrs. Esther Matilda James\nagreed before Justice Charles\nD. Breitel last week that every\nthing should be delayed until\nthe Appellate Court rules on the\nmerits Of the suit.\n\n\nMrs. James was awarded\nSILL 500 in damages by a jury\nafter she accused the Harlem\nCongressman of libel by calling\nher a \"bag woman who col\nlected graft for New York po-\nlice. The remarks were made on\na TV program.\n\n\nMrs. James said she will fight\nthe case until Powell pays.",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 26,
+            "bbox": {
+                "x0": 1180,
+                "y0": 4779,
+                "x1": 1727,
+                "y1": 4954
+            },
+            "class": "headline",
+            "raw_text": "POWELL CASE\nDELAYED",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 305,
+                "y0": 6879,
+                "x1": 1118,
+                "y1": 7188
+            },
+            "class": "article",
+            "raw_text": "MEMPHIS-Dobbs Houses, Inc,\nchain of snack rooms and res\n\n\ntaurants, will have some desc\ngregated facilities in the South.\n\n\nThe announcement was made by",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 339,
+                "y0": 6699,
+                "x1": 915,
+                "y1": 6863
+            },
+            "class": "headline",
+            "raw_text": "DOBBS HOUSES\nTO INTEGRATE",
+            "legibility": "Legible",
+            "full_article_id": 14,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-01-17"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                21,
+                1
+            ],
+            "headline": "SMOKING AIDS\nLUNG CANCER",
+            "article": "WASHINCTON-The report of\na ten man scientific panel, who\nstudied the effects of smoking for\nfourteen months, was made final\nearlier this week.\n\n\nThe panel concluded smoking\ncigarettes is hazardous and is\na major cause of lung cancer and\nother respiratory diseases.\n\n\nSurgeon General Luther Terry.\nhead of the US. Public Health\nService, accepted the report and\nsaid remedial action is needed.\nHe said if he were a doctor he\nwould warn his patients against\nsmoking.\n\n\nThe report also linked smok-\ning pipes with the development\nof cancer of the lip.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3878,
+                    "y0": 4843,
+                    "x1": 4441,
+                    "y1": 5007
+                },
+                {
+                    "x0": 3831,
+                    "y0": 5023,
+                    "x1": 4650,
+                    "y1": 6138
+                }
+            ],
+            "bbox": [
+                3831,
+                4843,
+                4650,
+                6138
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                18,
+                2
+            ],
+            "headline": "BATES TRIAL\n\n\nIS POSTPONED",
+            "article": "Another postponement of the\ntrial of Ruby Lee Bates, AZ,\nCHI arged with murder, was\ngranted. The new date is Feb.\n8. Judge Laurens L. Henderson\npermitted the latest delay be-\ncause of the illness of vi.\nHash. defense lawyer.\n\n\nThe previous delay was be-\ncause Of the disqualification of\nthe defendant for a gall bladder\noperation. She is accused of the\nshooting-slaying Aug. 10 of Josh\nMyles, As, of 17l0 E. Lincoln,\nin her apartment at OLA w.\nGrant.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2080,
+                    "y0": 6015,
+                    "x1": 2655,
+                    "y1": 6184
+                },
+                {
+                    "x0": 2074,
+                    "y0": 6218,
+                    "x1": 2887,
+                    "y1": 7153
+                }
+            ],
+            "bbox": [
+                2074,
+                6015,
+                2887,
+                7153
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                19,
+                3
+            ],
+            "headline": "WOMAN BROWNS\nAFTER CRASH",
+            "article": "AVONDALE-A Phoenix woman\nsurvived a car plunge into the\nRoosevelt District Canal but later\ndrowned. sheriff 8 deputies said.\n\n\nShe was identified as Marie\nKemp. 38, 1898 E. Adams.\n\n\nDeputies reported she was with\nAllen Hilton, Sc, of 2410 w.\nAdams, when the car went into\nthe canal. Both climbed onto the\nsubmerged car 8 hood.\n\n\nHilton told deputies when he\nturned she was gone. Hilton was\ntaken to county hospital for ex-\nanimation.\n\n\nDeputies said. the woman may\nhave been swept from the car\nby the strong current. Her body\nwas found a mile from the car.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2074,
+                    "y0": 4600,
+                    "x1": 2701,
+                    "y1": 4780
+                },
+                {
+                    "x0": 2051,
+                    "y0": 4814,
+                    "x1": 2875,
+                    "y1": 5964
+                }
+            ],
+            "bbox": [
+                2051,
+                4600,
+                2875,
+                5964
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "]. D. Dobbs, Jr., president of the\nfirm which operates Dobbs\nHouses and Toddle Houses. He\nsaid some places in Atlanta, Ten\nnessee and Texas had been In\ntegrated.\n\n\nDick Gregory. famous Negro\ncomedian is a stakeholder in the\nfirm. His wife was recently ar\nrested during a sitin at a Dobbs\nrestaurant in Atlanta.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1204,
+                    "y0": 6520,
+                    "x1": 2017,
+                    "y1": 7176
+                }
+            ],
+            "bbox": [
+                1204,
+                6520,
+                2017,
+                7176
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "NY. SCHOOL\n\n\nBOYCOTT ON FEB. 3",
+            "article": "NEW YORK-New York City\nschools will be boycotted starting\nFeb. 8 by civil rights groups\nwho are dissatisfied with the\nBoard of Education 8 integration\nprogram.\n\n\nFrederick Jones, education\nchairman of the state 8 NAACP\nbranches, said the boycott would\nBe operated in cooperation with\nthe Citywide Committee for\nSchool Integration which includes\nthe NAACP, CORE and two large\nparents groups.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3849,
+                    "y0": 6160,
+                    "x1": 4581,
+                    "y1": 6312
+                },
+                {
+                    "x0": 3843,
+                    "y0": 6334,
+                    "x1": 4668,
+                    "y1": 7153
+                }
+            ],
+            "bbox": [
+                3843,
+                6160,
+                4668,
+                7153
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                14,
+                7
+            ],
+            "headline": "FORMER PHILLY\n\n\nMAYOR URGES NEGRO\nTO STOP SELF PITY",
+            "article": "PHILADELPHIA = Richardson\nDilworth, former mayor of Phil\nadelphia, who was hailed for his\nliberal policies, told Chamber\nof Commerce seminar last week\nthat, \"The time has come for the\nNegro to stop feeling so damned\nsorry for himself\"\n\n\nHe continued, \"We cannot sup\nport 20 per cent of the Negroes\nin the North on relief and hope\nto survive\"\n\n\nDilworth, known as an out\nspoken man, regards Negro lead\ners who insist because they be-\nlong to a minority group that they\ncan't get anywhere.\n\n\nHe told his audience that Ne\ngroes should look at the Irish and\nItalians who were once minori-\nties. One of them became presi-\ndent.\n\n\nDilworth continued saying the\ntrouble caused by the blacldace\nmakeup in the mummers parade\nset the Negro community back\nten years.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 293,
+                    "y0": 4779,
+                    "x1": 1089,
+                    "y1": 4995
+                },
+                {
+                    "x0": 270,
+                    "y0": 5011,
+                    "x1": 1100,
+                    "y1": 6602
+                }
+            ],
+            "bbox": [
+                270,
+                4779,
+                1100,
+                6602
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                20,
+                9
+            ],
+            "headline": "WILKINS GIVES\n\n\nMEMBERSHIP REPORT",
+            "article": "NAACP executive secretary\nRoy wilkins reported at the As\nISOLATION s annual meeting total\nof 515,396 members on closing\ndate Dec. \"a. This figure repre-\nsents an additional III 1888 mem\nbers over 1862, an increase of\n% per cent.\n\n\nYouth membership reached\n55,S67, a so per cent increase\nover the 1862 total.\n\n\nA record number of new units\nwere chartered during the year,\n100 branches, youth councils,\ncollege chapters and young adult\ncouncils. The newly-chartered\nunits brought the total to LIS,\nthe highest in the history Of the\norganization. There are active\nunits in the District of Columbia\nand in every state of the Union\nexcept Alabama where the As\nISOLATION has been banned by\nstate court injunction since 1856.\n\n\nChicago with a total of 81 500\nwas the largest single branch in\nthe Association. However, the IL\nbranches in the five boroughs of\nNew York City enrolled a total of\n34,O11.\n\n\nSecond largest single branch in\nthe country was Detroit with\n28,443. followed by Philadelphia.\n\"a, 48l. Other branches with\n10000 or more members inclu-\nded Cleveland, 1904; Balti-\nmore, 1858; Washington, H.\nEOS: Pittsburgh. l0.457 and\nBrooklyn, 10000.\n\n\nIn every area Of its activity\nthe NAACP saw outstanding sue\ncess in 1868. The Youth and\nCollege Division, the largest\nyouth civil rights group in the\nnation, massed its members for\nsit-ins. stand-ins, drive-ins,\nwade-ins, mass demonstrations,\nprotest marches, picket lines and\nselective buying campaigns in\nvirtually every section of the\ncountry.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2051,
+                    "y0": 1287,
+                    "x1": 2864,
+                    "y1": 1456
+                },
+                {
+                    "x0": 2056,
+                    "y0": 1514,
+                    "x1": 2887,
+                    "y1": 4531
+                }
+            ],
+            "bbox": [
+                2051,
+                1287,
+                2887,
+                4531
+            ],
+            "full_article_id": 10,
+            "id": "10_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                15,
+                10
+            ],
+            "headline": "NEGRO BANK\nTO OPEN IN\nLOS ANGELES",
+            "article": "LOS ANG ELES-Ground break\ning ceremonies for the first all\nNegro owned and organized bank\nwest of Kansas City were held\nlast week.\n\n\nDR.. Edward H. Ballard, board\nchairman, led ceremonies. He\nwas assisted by C. E. Trimmer,\nmanager of Southern California\nGas Co., and City Councilman\nTome Bradley, who Is one of the\nbanks organizers.\n\n\nThe bank is capitalized at\nST. ,05O.OOO and deposits of SIS\nmillion have been assured for the\nopening date in June.\n\n\n1t will be located at 2651 So.\nWestern Ave. and will provide all\nbanking facilities.\n\n\nThe bank was organized by\nDR.. Ballard, DR.. Perry w. Beal,\nMilton A. Clarke, Onie B. Gran\nVile, Mrs. Bernice M. Malbrue,\nLorenzo V. Spence and Coun-\nGilman Bradley.\n\n\nDR.. Ballard stressed the bank\nwill have an integrated staff of\nemployees.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2984,
+                    "y0": 4942,
+                    "x1": 3525,
+                    "y1": 5175
+                },
+                {
+                    "x0": 2944,
+                    "y0": 5214,
+                    "x1": 3763,
+                    "y1": 6857
+                }
+            ],
+            "bbox": [
+                2944,
+                4942,
+                3763,
+                6857
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                26,
+                11
+            ],
+            "headline": "POWELL CASE\nDELAYED",
+            "article": "NEW YORK = Rep. Adam Clay\nton Powell O-N.Y.) did not ap-\npear before Supreme Court JUS\ntice Arthur MarkeMch Jan. e\nas originally ordered because\nthe date had been cancelled.\n\n\nOpposing counsel in the de-\nfamation suit filed against him\nby Mrs. Esther Matilda James\nagreed before Justice Charles\nD. Breitel last week that every\nthing should be delayed until\nthe Appellate Court rules on the\nmerits Of the suit.\n\n\nMrs. James was awarded\nSILL 500 in damages by a jury\nafter she accused the Harlem\nCongressman of libel by calling\nher a \"bag woman who col\nlected graft for New York po-\nlice. The remarks were made on\na TV program.\n\n\nMrs. James said she will fight\nthe case until Powell pays.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1180,
+                    "y0": 4779,
+                    "x1": 1727,
+                    "y1": 4954
+                },
+                {
+                    "x0": 1169,
+                    "y0": 5000,
+                    "x1": 1988,
+                    "y1": 6434
+                }
+            ],
+            "bbox": [
+                1169,
+                4779,
+                1988,
+                6434
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        },
+        {
+            "object_ids": [
+                16,
+                13
+            ],
+            "headline": "DOBBS HOUSES\nTO INTEGRATE",
+            "article": "MEMPHIS-Dobbs Houses, Inc,\nchain of snack rooms and res\n\n\ntaurants, will have some desc\ngregated facilities in the South.\n\n\nThe announcement was made by",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 339,
+                    "y0": 6699,
+                    "x1": 915,
+                    "y1": 6863
+                },
+                {
+                    "x0": 305,
+                    "y0": 6879,
+                    "x1": 1118,
+                    "y1": 7188
+                }
+            ],
+            "bbox": [
+                305,
+                6699,
+                1118,
+                7188
+            ],
+            "full_article_id": 14,
+            "id": "14_1964-01-17_p1_sn84021918_0041421695A_1964011701_0261.json"
+        }
+    ]
+}

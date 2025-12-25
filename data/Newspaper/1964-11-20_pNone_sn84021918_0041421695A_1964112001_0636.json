@@ -1,0 +1,440 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7454,
+        "width": 4872,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-11-20",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964112001/0636.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 304,
+                "y0": 5066,
+                "x1": 2006,
+                "y1": 7134
+            },
+            "class": "article",
+            "raw_text": "of crime should know\nmore about just your rights would be If you were\n\n\n1t isn't complicated first thing that would happen would\narragnmen\nTo establish your IDENTIFY\n\n\nTo let you know the charge against you;\n\n\nthe chance plea\ncertain that the person agalnst whom\nintended, and someone else.\n\n\nyou arraigned written charge OF some\nkind called an Indictment Information entitled to\nCOPY of the indictment information ask for it, you are\narragned the the charge as stated IN the\nbe distinctly read aloud to YOU\n\n\nplead guilty plead guilty\nmute Of the must enter\nguilty There advantage for you\nstanding you plead guilty yourself you admit\nproceedings point have been in order Therefore\nyou cannot challenge your arrangement later\n\n\nplea guilty entered either by you or for YOU TWO\nquestions then be decided W Was crime commed7 ana\n(2) did you commit t7\n\n\nyou plead guilty you admit that the to these questions\nis eyes, of the proceeds to the\nbe clear that plea OF guilty was\nmade your full knowledge of the consequences\nof YOUR plea influenced that is by fear misap-\nignorance An\ninteresting sdegh that the Supreme Court generally frowns\non guilty trial courts in the early morning hours\nThis legal issued public service under super\nvision of the Arizona, written to inform not to\nadvise)",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 13,
+            "bbox": {
+                "x0": 322,
+                "y0": 4810,
+                "x1": 1342,
+                "y1": 4933
+            },
+            "class": "headline",
+            "raw_text": "Discussing Arizona Low",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -2
+        },
+        {
+            "id": 19,
+            "bbox": {
+                "x0": 374,
+                "y0": 4955,
+                "x1": 986,
+                "y1": 5044
+            },
+            "class": "headline",
+            "raw_text": "Arruign m m e MT",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2965,
+                "y0": 1036,
+                "x1": 4649,
+                "y1": 2114
+            },
+            "class": "article",
+            "raw_text": "The have closed the spectacular Arizona State Fair\nhistory All DOTTED the\nrotary of the fair commission, Charles Garland\n\n\nThrough his wise leadership and the aid of inspired\n\n\nsuccessful\nfinancial outshone all expectations in exhibits and\nshows.\n\n\nbeginning the coliseum the\nfair and the guidance Garland The state\nspanked local interest talented\nformers showcase.\n\n\nNew exhibits and displays have made this fair than\nplace for horSeloVeS cake bakers.\n\n\nshould of the 1864 fair and should\nCharles Garland all\nof the fair commission headed by Bill Roer\n\n\nfor PHOTOS CALL 276.23O1",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 3490,
+                "y0": 395,
+                "x1": 4469,
+                "y1": 734
+            },
+            "class": "headline",
+            "raw_text": "PRFvIEws\n\n\nAND REVIEWS",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -3
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 3600,
+                "y0": 757,
+                "x1": 4119,
+                "y1": 851
+            },
+            "class": "author",
+            "raw_text": "Edward Banks",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -2
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3402,
+                "y0": 908,
+                "x1": 4218,
+                "y1": 1014
+            },
+            "class": "headline",
+            "raw_text": "NO FAIR AS GREAT",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 2074,
+                "y0": 658,
+                "x1": 2926,
+                "y1": 6237
+            },
+            "class": "article",
+            "raw_text": "explanations of the why's and\nwherefores of the web of con-\nsumer ignorance in our country\nwas presented la st week in Wa sh-\nington.\n\n\nA committee of federal inves-\ntigators heard and read many\nwords in defense of the willy man\nnerisms of our manufa cturers\nand producers of more than a\nthousand ranging from\ndetergents to canned beans.\n\n\nThe little woman who shops for\nthe family S groceriesisa victim\nof untruthful advertising. One did\nnot need a federal committee to\nfigure this out. Anyone who eats,\nsleeps, sits, shaves, reads or just\nthinks is a victim of advertising\nin some form or another.\n\n\nThe good guys and the bad guys\nfight for our souls from the diaper\nto the shroud. Evil and goodness\nhave a timeless campaign within\nour souls or minds.\n\n\nThe backgrounds ofthe recent\ntruth In advertising investigation\nare the shelves Of the supermar-\nkets or neighborhood groceries.\nThe claims of manufa cturers and\npackagers are being assaulted.\n\n\nn-women-women are the\ntargets of those writer's and pr1n-\ntiers of the small. fine print which\nexplains the weight and contents\nof a particular package.\n\n\nam amazed at the gullibility\nof the housewife, single girl or\nold maid who constantly buys the\nlargest package or box without\nchecking the ounce and pound no\ntice.\n\n\nLast week took several min\nutes more during my weekly\nshopping to study the ounce and\npound listings. You would be\nastounded to know that giant sizes\nrange from a bar of soap to a\nlarge ham. We are at the mercy\nof the conniving package (sleight\nof ounce artist). He creates a\nlarger appearing glass or box\ncontainer and fills it with less\nwe are lulled into buying the big\nbargain and we get the smaller\namount.\n\n\nThere should be some further\nsearching for truth in advertis-\ning. Not only are the packa ging\nmethods against the defenseles\nshopper--but all manners Of half\ntruths and innuendoes await us in\nthe drug store, at the meat\ncounter and at the cosmetic bar.\n\n\nTruth in advertising should not\nbe shrugged off as another intru-\nsion of federal action in a private\nmatter. We are being made will\ning victims of more schemes than\nany arch criminal ever devised.\n\n\nGreat lands can't women (who\nhold the purse strings) see that\none man S large size is another\nman. S medium\n\n\nWho ever heard of your deter\ngent getting clothes whittier than\nnew When did that white knight\never clean your dirty linen7 How\nis your home so dusty when all\none needs is Mr.. Clean around7\n\n\nDoes your hair need holding\nspray7 Have your teeth been ad-\nmired lately7 Did you bring along\nan Aka Seltzer7 Does your hus-\nband like your hair gray7 Have\nyou used the latest deodorant7\n\n\nWhat--why--how can you live\nwithout waking up bringht and\nfresh with Nytol7\n\n\n| would like to put in plea for\nthe harried consumer--how can\nthey spend so much time search\ning for truth in advertising? Don't\nthey under stand--we wouldn't\nrecognize the truthful it came",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 9,
+            "bbox": {
+                "x0": 2109,
+                "y0": 320,
+                "x1": 2897,
+                "y1": 449
+            },
+            "class": "headline",
+            "raw_text": "Sights and Sounds",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -2
+        },
+        {
+            "id": 20,
+            "bbox": {
+                "x0": 2115,
+                "y0": 465,
+                "x1": 2559,
+                "y1": 530
+            },
+            "class": "headline",
+            "raw_text": "ELoIse BANKS",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 281,
+                "y0": 2026,
+                "x1": 1994,
+                "y1": 4741
+            },
+            "class": "article",
+            "raw_text": "For several weeks the UOhInteeY 1OOYkeYS\nof U0YiOuS buS51ae SSeS and Industries haze\ntoiled INCREASINGLY to make the United Fund\neffort successful\n\n\nAlong with them hundreds of housewives,\ncareer W0men, young men and W0n1en haze\nmade endless calls, WY1tten hume YouS let\nteYs and cole cted hundreds Of donations.\n\n\nAll Of these people WiH not re ceiUe merit\naWaYdS or eUen note of thanks from the\nthousands Of bevsons uOko uiH benefit from\nthe United Fund agencies.\n\n\nYour dollars and dimes Viu provide more\nthan you haze ever dreamed OF. There are\nall kinds of programs, all types of aSSiS-\nlance for pc 1Sons of all races, cYeedS,\ncolovs, ages and conditions.\n\n\nThere is a great deal that has been miss\ning in the United Fund programs = not enough\npersons of the minority groups are reached\nto give their contributions. Many areas are\nwithout UOlu,1teeY workers. It no one has\nsolicited your support just mail d1n1e\nor dollar to the fund Headquarters located\nat 1915 E. Osborn Road\n\n\nThe next time you hear of the Boy Scouts,\nthe YWCA, Legal Aid, Campfire Girls, Boys\nClub, Urban League, or the Girl Scouts\nremember your dime or dollar is hel birag.\n\n\nGive the United Way for best results.\nYour United Fund needs your SUPPORT",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": 0
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 805,
+                "y0": 1863,
+                "x1": 1470,
+                "y1": 1998
+            },
+            "class": "headline",
+            "raw_text": "GIVE UNITED",
+            "legibility": "Legible",
+            "full_article_id": 11,
+            "reading_order_id": -1
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 339,
+                "y0": 867,
+                "x1": 1965,
+                "y1": 1800
+            },
+            "class": "article",
+            "raw_text": "EDWARD BANKS, NEUTRALITY-SUSPICIOUS.\nELOlSE BANKS,\n1888\n\n\nPUBLISHED\n\n\nPUBL ISHING COMPANY INC\n2I37 27e-23oi So. so rR\nNAIL ADDRESS p. o. sz4e, PHOENIX, AR'z' s5oAo\nSECOND CLASS PAID AT PHOENIX, ARIZONA\nAL THAT IS NEE EVILS OF OUR\nIs TO 90 JUSTICE FREEDOM.\n.~,...r NATIVE\nAMALGAMATED PUBLISHERS\n\n\n\n~ YORK",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": 0
+        },
+        {
+            "id": 18,
+            "bbox": {
+                "x0": 327,
+                "y0": 349,
+                "x1": 1936,
+                "y1": 763
+            },
+            "class": "headline",
+            "raw_text": "Acknowledgment utte",
+            "legibility": "Legible",
+            "full_article_id": 12,
+            "reading_order_id": -2
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 881,
+                "y0": 786,
+                "x1": 1435,
+                "y1": 862
+            },
+            "class": "author",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 12,
+            "reading_order_id": -1
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964112001_0636",
+    "full articles": [
+        {
+            "object_ids": [
+                13,
+                19,
+                1
+            ],
+            "headline": "Discussing Arizona Low\n\nArruign m m e MT",
+            "article": "of crime should know\nmore about just your rights would be If you were\n\n\n1t isn't complicated first thing that would happen would\narragnmen\nTo establish your IDENTIFY\n\n\nTo let you know the charge against you;\n\n\nthe chance plea\ncertain that the person agalnst whom\nintended, and someone else.\n\n\nyou arraigned written charge OF some\nkind called an Indictment Information entitled to\nCOPY of the indictment information ask for it, you are\narragned the the charge as stated IN the\nbe distinctly read aloud to YOU\n\n\nplead guilty plead guilty\nmute Of the must enter\nguilty There advantage for you\nstanding you plead guilty yourself you admit\nproceedings point have been in order Therefore\nyou cannot challenge your arrangement later\n\n\nplea guilty entered either by you or for YOU TWO\nquestions then be decided W Was crime commed7 ana\n(2) did you commit t7\n\n\nyou plead guilty you admit that the to these questions\nis eyes, of the proceeds to the\nbe clear that plea OF guilty was\nmade your full knowledge of the consequences\nof YOUR plea influenced that is by fear misap-\nignorance An\ninteresting sdegh that the Supreme Court generally frowns\non guilty trial courts in the early morning hours\nThis legal issued public service under super\nvision of the Arizona, written to inform not to\nadvise)",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 322,
+                    "y0": 4810,
+                    "x1": 1342,
+                    "y1": 4933
+                },
+                {
+                    "x0": 374,
+                    "y0": 4955,
+                    "x1": 986,
+                    "y1": 5044
+                },
+                {
+                    "x0": 304,
+                    "y0": 5066,
+                    "x1": 2006,
+                    "y1": 7134
+                }
+            ],
+            "bbox": [
+                304,
+                4810,
+                2006,
+                7134
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-11-20_pna_sn84021918_0041421695A_1964112001_0636.json"
+        },
+        {
+            "object_ids": [
+                14,
+                17,
+                12,
+                4
+            ],
+            "headline": "PRFvIEws\n\n\nAND REVIEWS\n\nNO FAIR AS GREAT",
+            "article": "The have closed the spectacular Arizona State Fair\nhistory All DOTTED the\nrotary of the fair commission, Charles Garland\n\n\nThrough his wise leadership and the aid of inspired\n\n\nsuccessful\nfinancial outshone all expectations in exhibits and\nshows.\n\n\nbeginning the coliseum the\nfair and the guidance Garland The state\nspanked local interest talented\nformers showcase.\n\n\nNew exhibits and displays have made this fair than\nplace for horSeloVeS cake bakers.\n\n\nshould of the 1864 fair and should\nCharles Garland all\nof the fair commission headed by Bill Roer\n\n\nfor PHOTOS CALL 276.23O1",
+            "byline": "Edward Banks",
+            "bbox_list": [
+                {
+                    "x0": 3490,
+                    "y0": 395,
+                    "x1": 4469,
+                    "y1": 734
+                },
+                {
+                    "x0": 3600,
+                    "y0": 757,
+                    "x1": 4119,
+                    "y1": 851
+                },
+                {
+                    "x0": 3402,
+                    "y0": 908,
+                    "x1": 4218,
+                    "y1": 1014
+                },
+                {
+                    "x0": 2965,
+                    "y0": 1036,
+                    "x1": 4649,
+                    "y1": 2114
+                }
+            ],
+            "bbox": [
+                2965,
+                395,
+                4649,
+                2114
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-11-20_pna_sn84021918_0041421695A_1964112001_0636.json"
+        },
+        {
+            "object_ids": [
+                9,
+                20,
+                7
+            ],
+            "headline": "Sights and Sounds\n\nELoIse BANKS",
+            "article": "explanations of the why's and\nwherefores of the web of con-\nsumer ignorance in our country\nwas presented la st week in Wa sh-\nington.\n\n\nA committee of federal inves-\ntigators heard and read many\nwords in defense of the willy man\nnerisms of our manufa cturers\nand producers of more than a\nthousand ranging from\ndetergents to canned beans.\n\n\nThe little woman who shops for\nthe family S groceriesisa victim\nof untruthful advertising. One did\nnot need a federal committee to\nfigure this out. Anyone who eats,\nsleeps, sits, shaves, reads or just\nthinks is a victim of advertising\nin some form or another.\n\n\nThe good guys and the bad guys\nfight for our souls from the diaper\nto the shroud. Evil and goodness\nhave a timeless campaign within\nour souls or minds.\n\n\nThe backgrounds ofthe recent\ntruth In advertising investigation\nare the shelves Of the supermar-\nkets or neighborhood groceries.\nThe claims of manufa cturers and\npackagers are being assaulted.\n\n\nn-women-women are the\ntargets of those writer's and pr1n-\ntiers of the small. fine print which\nexplains the weight and contents\nof a particular package.\n\n\nam amazed at the gullibility\nof the housewife, single girl or\nold maid who constantly buys the\nlargest package or box without\nchecking the ounce and pound no\ntice.\n\n\nLast week took several min\nutes more during my weekly\nshopping to study the ounce and\npound listings. You would be\nastounded to know that giant sizes\nrange from a bar of soap to a\nlarge ham. We are at the mercy\nof the conniving package (sleight\nof ounce artist). He creates a\nlarger appearing glass or box\ncontainer and fills it with less\nwe are lulled into buying the big\nbargain and we get the smaller\namount.\n\n\nThere should be some further\nsearching for truth in advertis-\ning. Not only are the packa ging\nmethods against the defenseles\nshopper--but all manners Of half\ntruths and innuendoes await us in\nthe drug store, at the meat\ncounter and at the cosmetic bar.\n\n\nTruth in advertising should not\nbe shrugged off as another intru-\nsion of federal action in a private\nmatter. We are being made will\ning victims of more schemes than\nany arch criminal ever devised.\n\n\nGreat lands can't women (who\nhold the purse strings) see that\none man S large size is another\nman. S medium\n\n\nWho ever heard of your deter\ngent getting clothes whittier than\nnew When did that white knight\never clean your dirty linen7 How\nis your home so dusty when all\none needs is Mr.. Clean around7\n\n\nDoes your hair need holding\nspray7 Have your teeth been ad-\nmired lately7 Did you bring along\nan Aka Seltzer7 Does your hus-\nband like your hair gray7 Have\nyou used the latest deodorant7\n\n\nWhat--why--how can you live\nwithout waking up bringht and\nfresh with Nytol7\n\n\n| would like to put in plea for\nthe harried consumer--how can\nthey spend so much time search\ning for truth in advertising? Don't\nthey under stand--we wouldn't\nrecognize the truthful it came",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2109,
+                    "y0": 320,
+                    "x1": 2897,
+                    "y1": 449
+                },
+                {
+                    "x0": 2115,
+                    "y0": 465,
+                    "x1": 2559,
+                    "y1": 530
+                },
+                {
+                    "x0": 2074,
+                    "y0": 658,
+                    "x1": 2926,
+                    "y1": 6237
+                }
+            ],
+            "bbox": [
+                2074,
+                320,
+                2926,
+                6237
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-11-20_pna_sn84021918_0041421695A_1964112001_0636.json"
+        },
+        {
+            "object_ids": [
+                8,
+                10
+            ],
+            "headline": "GIVE UNITED",
+            "article": "For several weeks the UOhInteeY 1OOYkeYS\nof U0YiOuS buS51ae SSeS and Industries haze\ntoiled INCREASINGLY to make the United Fund\neffort successful\n\n\nAlong with them hundreds of housewives,\ncareer W0men, young men and W0n1en haze\nmade endless calls, WY1tten hume YouS let\nteYs and cole cted hundreds Of donations.\n\n\nAll Of these people WiH not re ceiUe merit\naWaYdS or eUen note of thanks from the\nthousands Of bevsons uOko uiH benefit from\nthe United Fund agencies.\n\n\nYour dollars and dimes Viu provide more\nthan you haze ever dreamed OF. There are\nall kinds of programs, all types of aSSiS-\nlance for pc 1Sons of all races, cYeedS,\ncolovs, ages and conditions.\n\n\nThere is a great deal that has been miss\ning in the United Fund programs = not enough\npersons of the minority groups are reached\nto give their contributions. Many areas are\nwithout UOlu,1teeY workers. It no one has\nsolicited your support just mail d1n1e\nor dollar to the fund Headquarters located\nat 1915 E. Osborn Road\n\n\nThe next time you hear of the Boy Scouts,\nthe YWCA, Legal Aid, Campfire Girls, Boys\nClub, Urban League, or the Girl Scouts\nremember your dime or dollar is hel birag.\n\n\nGive the United Way for best results.\nYour United Fund needs your SUPPORT",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 805,
+                    "y0": 1863,
+                    "x1": 1470,
+                    "y1": 1998
+                },
+                {
+                    "x0": 281,
+                    "y0": 2026,
+                    "x1": 1994,
+                    "y1": 4741
+                }
+            ],
+            "bbox": [
+                281,
+                1863,
+                1994,
+                4741
+            ],
+            "full_article_id": 11,
+            "id": "11_1964-11-20_pna_sn84021918_0041421695A_1964112001_0636.json"
+        },
+        {
+            "object_ids": [
+                18,
+                21,
+                11
+            ],
+            "headline": "Acknowledgment utte",
+            "article": "EDWARD BANKS, NEUTRALITY-SUSPICIOUS.\nELOlSE BANKS,\n1888\n\n\nPUBLISHED\n\n\nPUBL ISHING COMPANY INC\n2I37 27e-23oi So. so rR\nNAIL ADDRESS p. o. sz4e, PHOENIX, AR'z' s5oAo\nSECOND CLASS PAID AT PHOENIX, ARIZONA\nAL THAT IS NEE EVILS OF OUR\nIs TO 90 JUSTICE FREEDOM.\n.~,...r NATIVE\nAMALGAMATED PUBLISHERS\n\n\n\n~ YORK",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 327,
+                    "y0": 349,
+                    "x1": 1936,
+                    "y1": 763
+                },
+                {
+                    "x0": 881,
+                    "y0": 786,
+                    "x1": 1435,
+                    "y1": 862
+                },
+                {
+                    "x0": 339,
+                    "y0": 867,
+                    "x1": 1965,
+                    "y1": 1800
+                }
+            ],
+            "bbox": [
+                327,
+                349,
+                1965,
+                1800
+            ],
+            "full_article_id": 12,
+            "id": "12_1964-11-20_pna_sn84021918_0041421695A_1964112001_0636.json"
+        }
+    ]
+}

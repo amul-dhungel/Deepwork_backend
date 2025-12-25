@@ -1,0 +1,262 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7413,
+        "width": 4879,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-07-31",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964073101/0489.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1953,
+                "y0": 602,
+                "x1": 2776,
+                "y1": 2033
+            },
+            "class": "article",
+            "raw_text": "The first Women's Day pro-\ngram was held at the Church\nof the Living God, PC. t.. l745\nE. Maricopa Sum-, July 26.\n\n\nGuest Speakers we're Mes\ndanes Aurelia Erwin and c. R.\nAllbritton Neal.\n\n\nMrs. Erwin is the dean of\nchurch women and a member of\nFirst Institutional Baptist Church\nwhere she is the adult Sunday\nSchool superintendent.\n\n\nMrs. Neal is the state presi-\ndent of the women's department\nand president of the senior\nwomen's auxiliary.\n\n\nThe theme was Gods Women\nWork in a Disturbed World\"\n\n\nMrs. Mary H. Ballard is chair\nman of the women S department.\n\n\nElder E. ]. Hudson is pastor\nof the Church of the Living God.\n\n\nMrs. Ozella Toles is the church\nreporter.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1976,
+                "y0": 359,
+                "x1": 2741,
+                "y1": 562
+            },
+            "class": "headline",
+            "raw_text": "lst Woman's Duy\nHeld AT Valley Church",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 2,
+            "bbox": {
+                "x0": 1941,
+                "y0": 2449,
+                "x1": 2770,
+                "y1": 3336
+            },
+            "class": "article",
+            "raw_text": "JACKSON, Miss. The Mount\nVernon Missionary Baptist\nChurch, organized more than 80\nyears ago was destroyed by fire\nlast week.\n\n\n1t was the second Negro church\nburned In the area in the last\ntwo weeks. Officials suspect\narson.\n\n\nA total of 10 Negro churches\nhave been set Attire in the state\nsince the summer voter regis\ntration program began.\n\n\nNo arrests have been made\nin connection with the fires.",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 1964,
+                "y0": 2108,
+                "x1": 2608,
+                "y1": 2439
+            },
+            "class": "headline",
+            "raw_text": "Another N egro\nChurch Burned\nIn Mississippi",
+            "legibility": "Legible",
+            "full_article_id": 3,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 163,
+                "y0": 2165,
+                "x1": 1855,
+                "y1": 3429
+            },
+            "class": "article",
+            "raw_text": "Henry State University sprne played main\nUnited States track and field victory Russia in the\nLos Angeles Coliseum\n\n\nfrom Detroit Michigan clicked 1913 win in\nSaturday easily the 200 meters\nEOS. impressive 45 the winning 1000 meter\nrelay team\n\n\nhopes perform Oympics Tokyo later this\nyear.\n\n\nJoe CALDWELL right 1864 graduate Of Arizona State University\nwill intensive training the last week\nAugust member of the U. S. Olympic basketball team\nthe National Basketball Association picked\nhim first in the annual draft.\n\n\nPresently Caldwell working stock clerk local super\njoining Pearl arbor Hawaii Aug 80\nThe Olympcs open in Tokyo on Oct. 1.\n\n\nOthers basketball Bill Bradley Princeton\nAAmerican: UCLA Larry Brown and Dick Davies\nof Akron.\n\n\nSOUTH PHOENIX",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 16,
+            "bbox": {
+                "x0": 2844,
+                "y0": 353,
+                "x1": 3135,
+                "y1": 435
+            },
+            "class": "article",
+            "raw_text": "FREQ n. ShEARMlRG\nVIcg GhAiRnAn",
+            "legibility": "Legible",
+            "full_article_id": 17,
+            "reading_order_id": 0
+        },
+        {
+            "id": 24,
+            "bbox": {
+                "x0": 4466,
+                "y0": 115,
+                "x1": 4855,
+                "y1": 4726
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 25,
+            "reading_order_id": 0
+        },
+        {
+            "id": 25,
+            "bbox": {
+                "x0": 4906,
+                "y0": 399,
+                "x1": 6158,
+                "y1": 5792
+            },
+            "class": "article",
+            "raw_text": "",
+            "legibility": "Illegible",
+            "full_article_id": 26,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964073101_0489",
+    "full articles": [
+        {
+            "object_ids": [
+                5,
+                1
+            ],
+            "headline": "lst Woman's Duy\nHeld AT Valley Church",
+            "article": "The first Women's Day pro-\ngram was held at the Church\nof the Living God, PC. t.. l745\nE. Maricopa Sum-, July 26.\n\n\nGuest Speakers we're Mes\ndanes Aurelia Erwin and c. R.\nAllbritton Neal.\n\n\nMrs. Erwin is the dean of\nchurch women and a member of\nFirst Institutional Baptist Church\nwhere she is the adult Sunday\nSchool superintendent.\n\n\nMrs. Neal is the state presi-\ndent of the women's department\nand president of the senior\nwomen's auxiliary.\n\n\nThe theme was Gods Women\nWork in a Disturbed World\"\n\n\nMrs. Mary H. Ballard is chair\nman of the women S department.\n\n\nElder E. ]. Hudson is pastor\nof the Church of the Living God.\n\n\nMrs. Ozella Toles is the church\nreporter.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1976,
+                    "y0": 359,
+                    "x1": 2741,
+                    "y1": 562
+                },
+                {
+                    "x0": 1953,
+                    "y0": 602,
+                    "x1": 2776,
+                    "y1": 2033
+                }
+            ],
+            "bbox": [
+                1953,
+                359,
+                2776,
+                2033
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-07-31_pna_sn84021918_0041421695A_1964073101_0489.json"
+        },
+        {
+            "object_ids": [
+                4,
+                2
+            ],
+            "headline": "Another N egro\nChurch Burned\nIn Mississippi",
+            "article": "JACKSON, Miss. The Mount\nVernon Missionary Baptist\nChurch, organized more than 80\nyears ago was destroyed by fire\nlast week.\n\n\n1t was the second Negro church\nburned In the area in the last\ntwo weeks. Officials suspect\narson.\n\n\nA total of 10 Negro churches\nhave been set Attire in the state\nsince the summer voter regis\ntration program began.\n\n\nNo arrests have been made\nin connection with the fires.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1964,
+                    "y0": 2108,
+                    "x1": 2608,
+                    "y1": 2439
+                },
+                {
+                    "x0": 1941,
+                    "y0": 2449,
+                    "x1": 2770,
+                    "y1": 3336
+                }
+            ],
+            "bbox": [
+                1941,
+                2108,
+                2770,
+                3336
+            ],
+            "full_article_id": 3,
+            "id": "3_1964-07-31_pna_sn84021918_0041421695A_1964073101_0489.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "Henry State University sprne played main\nUnited States track and field victory Russia in the\nLos Angeles Coliseum\n\n\nfrom Detroit Michigan clicked 1913 win in\nSaturday easily the 200 meters\nEOS. impressive 45 the winning 1000 meter\nrelay team\n\n\nhopes perform Oympics Tokyo later this\nyear.\n\n\nJoe CALDWELL right 1864 graduate Of Arizona State University\nwill intensive training the last week\nAugust member of the U. S. Olympic basketball team\nthe National Basketball Association picked\nhim first in the annual draft.\n\n\nPresently Caldwell working stock clerk local super\njoining Pearl arbor Hawaii Aug 80\nThe Olympcs open in Tokyo on Oct. 1.\n\n\nOthers basketball Bill Bradley Princeton\nAAmerican: UCLA Larry Brown and Dick Davies\nof Akron.\n\n\nSOUTH PHOENIX",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 163,
+                    "y0": 2165,
+                    "x1": 1855,
+                    "y1": 3429
+                }
+            ],
+            "bbox": [
+                163,
+                2165,
+                1855,
+                3429
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-07-31_pna_sn84021918_0041421695A_1964073101_0489.json"
+        },
+        {
+            "object_ids": [
+                16
+            ],
+            "headline": "",
+            "article": "FREQ n. ShEARMlRG\nVIcg GhAiRnAn",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2844,
+                    "y0": 353,
+                    "x1": 3135,
+                    "y1": 435
+                }
+            ],
+            "bbox": [
+                2844,
+                353,
+                3135,
+                435
+            ],
+            "full_article_id": 17,
+            "id": "17_1964-07-31_pna_sn84021918_0041421695A_1964073101_0489.json"
+        }
+    ]
+}

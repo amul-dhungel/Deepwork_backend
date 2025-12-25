@@ -1,0 +1,290 @@
+{
+    "lccn": {
+        "title": "Arizona tribune.",
+        "geonames_ids": [
+            "5308655"
+        ],
+        "dbpedia_ids": [
+            "Phoenix%2C_Arizona"
+        ],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "197?",
+        "languages": [
+            "English"
+        ],
+        "succeeds": [],
+        "successors": [],
+        "editions": [],
+        "state": "Arizona",
+        "language": []
+    },
+    "page_number": 1,
+    "scan_url": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964122501/0683.jp2\n",
+    "scan_ocr": "na",
+    "scan": {
+        "height": 7420,
+        "width": 4910
+    },
+    "bboxes": [
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 1104,
+                "y0": 2597,
+                "x1": 1922,
+                "y1": 3653
+            },
+            "class": "article",
+            "raw_text": "in New York in colonial times\nwho won acquittal on sedition\ncharges in case that established\nthe principle that the press is\nfree to criticize the government.\n\n\nMr.. Heiskell opposed Arkan-\nsas Governor Orval E. Faubus\nduring the widely publicized tur-\nmoil over desegregation of Little\nRocks public schools. His news\npaper was boycotted with the\nresultant loss of some 81 mil\nlion in circulation \"l1 advertis-\ning revenue.\n\n\nThe following year however,\nthe Gazette won a Pulitzer gold\nmedal for meritorious public\nservice.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 10,
+            "bbox": {
+                "x0": 605,
+                "y0": 2347,
+                "x1": 1638,
+                "y1": 2586
+            },
+            "class": "headline",
+            "raw_text": "81 YR. OLD EDITOR\nTO BE HONORED",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": -1
+        },
+        {
+            "id": 3,
+            "bbox": {
+                "x0": 200,
+                "y0": 2602,
+                "x1": 1024,
+                "y1": 3658
+            },
+            "class": "article",
+            "raw_text": "TUCSON, Arizona John Meth\nerland Heiskell, o2-year-old edi-\ntor of the Arkansas Gazette has\nbeen named winner of the 18th\nannual John Peter Zenger Award.\nHeiskell and his paper suffered\nheavy financial losses when he\nopposed school segregation dur\ning the 1857 controversy in Lit\ntie Rock, Ark.\n\n\nThe award, given by the Uni\nversity of Arizona here, will be\nformally presented to the Arkan-\nsas editor January9 at the annual\nconvention here of the Arizona\nNewspaper Publishers Associa-\ntion. Zenger, after whom the\naward Is named was a printer",
+            "legibility": "Legible",
+            "full_article_id": 4,
+            "reading_order_id": 0
+        },
+        {
+            "id": 4,
+            "bbox": {
+                "x0": 2866,
+                "y0": 504,
+                "x1": 3679,
+                "y1": 1032
+            },
+            "class": "article",
+            "raw_text": "CHICAGO. Ill = Chicago opened\nwide its heart to receive Amer\nica's beloved Marian Anderson,\nsinger who sang a concert on\nher farewell tour in Orchestra\nhall Sunday to an overwhelming\naudience of nearly 5000 with\nFranz Rupp accompanying her at\nthe piano.",
+            "legibility": "Legible",
+            "full_article_id": 5,
+            "reading_order_id": 0
+        },
+        {
+            "id": 5,
+            "bbox": {
+                "x0": 1991,
+                "y0": 2254,
+                "x1": 2809,
+                "y1": 3664
+            },
+            "class": "article",
+            "raw_text": "NEW YORK CTTY-The way the\nRev. Wyatt Tee Walker sees it,\nsomeone is trying to even up\nscores with him for his militant\ncivil rights record.\n\n\nThat is the reason, Rev. Walk\ner opines. that newspaper reports\nhave been published charging him\nwith failing to file tax returns\nfrom 1858 to 1861.\n\n\nFormer executive assistant to\nthe Rev. DR.. Martin Luther King,\nworld famed civil rights leader,\nRev. Walker is now on a two\nyear leave of absence from Kings\norganization, SCLC, and working\nin Yonkers as a marketing con-\nsultant with Educational Herr\ntage, a publishing company pro-\nducing Negro encyclopedia.\n\n\nRev. Walker denied a claim\nallegedly made by Internal Rev\nenue in Atlanta that he had failed\nto file.",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": 0
+        },
+        {
+            "id": 14,
+            "bbox": {
+                "x0": 2014,
+                "y0": 2110,
+                "x1": 2786,
+                "y1": 2226
+            },
+            "class": "headline",
+            "raw_text": "Tex Charge Denied",
+            "legibility": "Legible",
+            "full_article_id": 6,
+            "reading_order_id": -1
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 3759,
+                "y0": 463,
+                "x1": 4566,
+                "y1": 1038
+            },
+            "class": "article",
+            "raw_text": "The Anderson concert was\nsignificant event for the windy\ncity because here was an artist\nthis city had sheltered and nur-\ntured in the early days of her\ncareer when she needed help\nmost. A scholarship awardedher\nby The National Association of\nNegro Musicians paved the way\nfor greater opportunities.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 3098,
+                "y0": 330,
+                "x1": 4125,
+                "y1": 458
+            },
+            "class": "headline",
+            "raw_text": "on farewell TOUR",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        }
+    ],
+    "edition": {
+        "date": "1964-12-25"
+    },
+    "full articles": [
+        {
+            "object_ids": [
+                10,
+                1
+            ],
+            "headline": "81 YR. OLD EDITOR\nTO BE HONORED",
+            "article": "in New York in colonial times\nwho won acquittal on sedition\ncharges in case that established\nthe principle that the press is\nfree to criticize the government.\n\n\nMr.. Heiskell opposed Arkan-\nsas Governor Orval E. Faubus\nduring the widely publicized tur-\nmoil over desegregation of Little\nRocks public schools. His news\npaper was boycotted with the\nresultant loss of some 81 mil\nlion in circulation \"l1 advertis-\ning revenue.\n\n\nThe following year however,\nthe Gazette won a Pulitzer gold\nmedal for meritorious public\nservice.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 605,
+                    "y0": 2347,
+                    "x1": 1638,
+                    "y1": 2586
+                },
+                {
+                    "x0": 1104,
+                    "y0": 2597,
+                    "x1": 1922,
+                    "y1": 3653
+                }
+            ],
+            "bbox": [
+                605,
+                2347,
+                1922,
+                3653
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-12-25_p1_sn84021918_0041421695A_1964122501_0683.json"
+        },
+        {
+            "object_ids": [
+                3
+            ],
+            "headline": "",
+            "article": "TUCSON, Arizona John Meth\nerland Heiskell, o2-year-old edi-\ntor of the Arkansas Gazette has\nbeen named winner of the 18th\nannual John Peter Zenger Award.\nHeiskell and his paper suffered\nheavy financial losses when he\nopposed school segregation dur\ning the 1857 controversy in Lit\ntie Rock, Ark.\n\n\nThe award, given by the Uni\nversity of Arizona here, will be\nformally presented to the Arkan-\nsas editor January9 at the annual\nconvention here of the Arizona\nNewspaper Publishers Associa-\ntion. Zenger, after whom the\naward Is named was a printer",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 200,
+                    "y0": 2602,
+                    "x1": 1024,
+                    "y1": 3658
+                }
+            ],
+            "bbox": [
+                200,
+                2602,
+                1024,
+                3658
+            ],
+            "full_article_id": 4,
+            "id": "4_1964-12-25_p1_sn84021918_0041421695A_1964122501_0683.json"
+        },
+        {
+            "object_ids": [
+                4
+            ],
+            "headline": "",
+            "article": "CHICAGO. Ill = Chicago opened\nwide its heart to receive Amer\nica's beloved Marian Anderson,\nsinger who sang a concert on\nher farewell tour in Orchestra\nhall Sunday to an overwhelming\naudience of nearly 5000 with\nFranz Rupp accompanying her at\nthe piano.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2866,
+                    "y0": 504,
+                    "x1": 3679,
+                    "y1": 1032
+                }
+            ],
+            "bbox": [
+                2866,
+                504,
+                3679,
+                1032
+            ],
+            "full_article_id": 5,
+            "id": "5_1964-12-25_p1_sn84021918_0041421695A_1964122501_0683.json"
+        },
+        {
+            "object_ids": [
+                14,
+                5
+            ],
+            "headline": "Tex Charge Denied",
+            "article": "NEW YORK CTTY-The way the\nRev. Wyatt Tee Walker sees it,\nsomeone is trying to even up\nscores with him for his militant\ncivil rights record.\n\n\nThat is the reason, Rev. Walk\ner opines. that newspaper reports\nhave been published charging him\nwith failing to file tax returns\nfrom 1858 to 1861.\n\n\nFormer executive assistant to\nthe Rev. DR.. Martin Luther King,\nworld famed civil rights leader,\nRev. Walker is now on a two\nyear leave of absence from Kings\norganization, SCLC, and working\nin Yonkers as a marketing con-\nsultant with Educational Herr\ntage, a publishing company pro-\nducing Negro encyclopedia.\n\n\nRev. Walker denied a claim\nallegedly made by Internal Rev\nenue in Atlanta that he had failed\nto file.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 2014,
+                    "y0": 2110,
+                    "x1": 2786,
+                    "y1": 2226
+                },
+                {
+                    "x0": 1991,
+                    "y0": 2254,
+                    "x1": 2809,
+                    "y1": 3664
+                }
+            ],
+            "bbox": [
+                1991,
+                2110,
+                2809,
+                3664
+            ],
+            "full_article_id": 6,
+            "id": "6_1964-12-25_p1_sn84021918_0041421695A_1964122501_0683.json"
+        },
+        {
+            "object_ids": [
+                12,
+                6
+            ],
+            "headline": "on farewell TOUR",
+            "article": "The Anderson concert was\nsignificant event for the windy\ncity because here was an artist\nthis city had sheltered and nur-\ntured in the early days of her\ncareer when she needed help\nmost. A scholarship awardedher\nby The National Association of\nNegro Musicians paved the way\nfor greater opportunities.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3098,
+                    "y0": 330,
+                    "x1": 4125,
+                    "y1": 458
+                },
+                {
+                    "x0": 3759,
+                    "y0": 463,
+                    "x1": 4566,
+                    "y1": 1038
+                }
+            ],
+            "bbox": [
+                3098,
+                330,
+                4566,
+                1038
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-12-25_p1_sn84021918_0041421695A_1964122501_0683.json"
+        }
+    ]
+}

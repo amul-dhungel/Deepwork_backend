@@ -1,0 +1,331 @@
+{
+    "lccn": {
+        "title": "Arizona tribune. [volume] (Phoenix, Ariz.) 1958-197?",
+        "state": "Arizona",
+        "geonames_ids": [],
+        "dbpedia_ids": [],
+        "issn": "2692-6946",
+        "lccn": "sn84021918",
+        "start_year": "1958",
+        "end_year": "1963",
+        "language": [],
+        "succeeds": [],
+        "successors": [],
+        "editions": []
+    },
+    "edition": {
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-21",
+        "pages": []
+    },
+    "page_number": "na",
+    "scan": {
+        "height": 7435,
+        "width": 4849,
+        "lccn": "sn84021918",
+        "edition": "ed-01",
+        "date": "1964-02-21",
+        "page": "na",
+        "jp2_url": "",
+        "ocr_text_url": "",
+        "ocr_xml_url": "",
+        "raw_data_loc": "https://chroniclingamerica.loc.gov/data/batches/az_campfiregoneout_ver02/data/sn84021918/0041421695A/1964022101/0303.jp2"
+    },
+    "bboxes": [
+        {
+            "id": 0,
+            "bbox": {
+                "x0": 60,
+                "y0": 4007,
+                "x1": 892,
+                "y1": 5612
+            },
+            "class": "article",
+            "raw_text": "NEW YORK-Boycotts, sit-ins,\nfreedom marches, demonstra-\nlions and picket lines are wea-\npons in the biggest public rela-\nlions effort in the United States\ntoday. 1t is the mass persuasion\ncampaign Of American Negroes to\nachieve equal opportunity without\nthe violence that usually accom-\npanies revolutions. The Public\nReligions Quarterly, recognizing\nthe significance of this move\nment to the business community,\ndevotes a major portion Of its\ncurrent issue to the public re-\nlations of the integration strug-\ngle.\n\n\nWhitney M. Young. Jr., execu-\ntive director Of the National Ur-\nban League, a pioneer group in\nthe equality campaign for Ne\ngroes presents an interview In\nthe issue by Howard Penn Hud-\n\n\nson, editor. Mr.. Young outlines\n\n\nthe background Of the organiza-\n\n\nlions involved in the civil rights\n\n\nbattle and describes how petty",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": 0
+        },
+        {
+            "id": 12,
+            "bbox": {
+                "x0": 66,
+                "y0": 3769,
+                "x1": 1223,
+                "y1": 3991
+            },
+            "class": "headline",
+            "raw_text": "Public Relations Magazine\nTraces Infegrution Issue",
+            "legibility": "Legible",
+            "full_article_id": 1,
+            "reading_order_id": -1
+        },
+        {
+            "id": 1,
+            "bbox": {
+                "x0": 966,
+                "y0": 4007,
+                "x1": 1786,
+                "y1": 5565
+            },
+            "class": "article",
+            "raw_text": "differences were submerged to\npresent common front.\n\n\nDiscussing the relation Of busi-\nness to integration, MIR. Young\nwarns businessmen against\nmaintaining stereotyped attitudes\ntoward Negroes, citing the his\ntorical fact that many Of today s\nbusinessmen we're themselves\nonce victims Of stereotype pref\nudice. Besides, he points out,\nNegroes are a potential fertile\nmarket for all kinds of con-\nsumer goods.\n\n\nProblems of unequal employ\nment are examined in \"a Man\nagement Perspective Toward Ne\ngro Economic Pressures,\" con-\ntributed by Hugh C. Hoffman Of\nOpinion Research Corporation.\nHe describes the steps COM\npanies and Negro groups have\ntaken to end these practices and\nexplains how companies can bring\nabout better understanding of Ne\ngro workers and their problems.",
+            "legibility": "Legible",
+            "full_article_id": 2,
+            "reading_order_id": 0
+        },
+        {
+            "id": 6,
+            "bbox": {
+                "x0": 2732,
+                "y0": 2247,
+                "x1": 3534,
+                "y1": 2725
+            },
+            "class": "article",
+            "raw_text": "Feb. l3 at Ebeneezer Baptist\nChurch. Rev. J. F. Pierce Of\nficiated,\n\n\nNewford Jones, ST., vice chief\ngrand mentor, assumes grand\nmentor position. He and the chief\npreceptress request mourning\nperiod to end on Mar. 81.",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": 0
+        },
+        {
+            "id": 17,
+            "bbox": {
+                "x0": 1994,
+                "y0": 2125,
+                "x1": 3174,
+                "y1": 2231
+            },
+            "class": "headline",
+            "raw_text": "Toboriun Chief Dies in California",
+            "legibility": "Legible",
+            "full_article_id": 7,
+            "reading_order_id": -1
+        },
+        {
+            "id": 7,
+            "bbox": {
+                "x0": 3592,
+                "y0": 702,
+                "x1": 4406,
+                "y1": 2463
+            },
+            "class": "article",
+            "raw_text": "NEW YORK = Jackie Robinson,\nGov. Nelson Rockefeller new\nAmbassador to Negro voters,\nbegan his new duties last week\nby taking verbal swings at Pres\nident Johnson 8 civil rights rec\nord.\n\n\nThe former Brooklyn Dodger\nbaseball star resigned as vice\npresident of the Chock Full\nONuts restaurant chain to serve\nas one Of six deputy directors\nOf the Governor 8 campaign staff.\n\n\nHis immediate task will be to\norganize and supervise nation\nwide network Of special campaign\ncommittees. He will concentrate\non professional. sports, busi-\nness, consumer, and other\ngroups.\n\n\nRobinson said he was \"not con-\nvinced that the fine speeches of\nPresident Johnson provide suf-\nficient balance for the long rec\nord of opposition to meaningful\ncivil rights legislation.\"-\n\n\nIn 1860, Robinson, the first Ne\ngro to play in organized baseball,\ncampaigned for Richard M. Nix\non.",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": 0
+        },
+        {
+            "id": 11,
+            "bbox": {
+                "x0": 3609,
+                "y0": 435,
+                "x1": 4284,
+                "y1": 680
+            },
+            "class": "headline",
+            "raw_text": "jackie Robinson\nto Aid RockefeIIer's\nPolitical Program",
+            "legibility": "Legible",
+            "full_article_id": 8,
+            "reading_order_id": -1
+        },
+        {
+            "id": 8,
+            "bbox": {
+                "x0": 1832,
+                "y0": 2276,
+                "x1": 2646,
+                "y1": 2765
+            },
+            "class": "article",
+            "raw_text": "William H. Sherrod, chief\ngrand mentor of the Grand Tenn\npies and Tabernacles of the\n\n\nKnights and Daughters of Tabor,\nInternational Order of Twelve,\nCalifornia-Arizona Jurisdiction,\ndied Feb. 4, at San Francisco.\n\n\nFuneral services we're held",
+            "legibility": "Legible",
+            "full_article_id": 9,
+            "reading_order_id": 0
+        },
+        {
+            "id": 21,
+            "bbox": {
+                "x0": 72,
+                "y0": 3328,
+                "x1": 1769,
+                "y1": 3706
+            },
+            "class": "article",
+            "raw_text": "The Blazers celebrated Valentine Day with dinner party\nthe Beefeaers Restaurant.\n\n\nSeated Marlene Ovens Mrs bernard Oay'n\nJimmie Arlington, ardge and Mrs. Martyn Mooleton\n\n\nStanding James Williams Elder Bernard LAYTON\nCavton Jerome Williams and Elder ]. P. Middleton.",
+            "legibility": "Legible",
+            "full_article_id": 22,
+            "reading_order_id": 0
+        }
+    ],
+    "id": "sn84021918_0041421695A_1964022101_0303",
+    "full articles": [
+        {
+            "object_ids": [
+                12,
+                0
+            ],
+            "headline": "Public Relations Magazine\nTraces Infegrution Issue",
+            "article": "NEW YORK-Boycotts, sit-ins,\nfreedom marches, demonstra-\nlions and picket lines are wea-\npons in the biggest public rela-\nlions effort in the United States\ntoday. 1t is the mass persuasion\ncampaign Of American Negroes to\nachieve equal opportunity without\nthe violence that usually accom-\npanies revolutions. The Public\nReligions Quarterly, recognizing\nthe significance of this move\nment to the business community,\ndevotes a major portion Of its\ncurrent issue to the public re-\nlations of the integration strug-\ngle.\n\n\nWhitney M. Young. Jr., execu-\ntive director Of the National Ur-\nban League, a pioneer group in\nthe equality campaign for Ne\ngroes presents an interview In\nthe issue by Howard Penn Hud-\n\n\nson, editor. Mr.. Young outlines\n\n\nthe background Of the organiza-\n\n\nlions involved in the civil rights\n\n\nbattle and describes how petty",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 66,
+                    "y0": 3769,
+                    "x1": 1223,
+                    "y1": 3991
+                },
+                {
+                    "x0": 60,
+                    "y0": 4007,
+                    "x1": 892,
+                    "y1": 5612
+                }
+            ],
+            "bbox": [
+                60,
+                3769,
+                1223,
+                5612
+            ],
+            "full_article_id": 1,
+            "id": "1_1964-02-21_pna_sn84021918_0041421695A_1964022101_0303.json"
+        },
+        {
+            "object_ids": [
+                1
+            ],
+            "headline": "",
+            "article": "differences were submerged to\npresent common front.\n\n\nDiscussing the relation Of busi-\nness to integration, MIR. Young\nwarns businessmen against\nmaintaining stereotyped attitudes\ntoward Negroes, citing the his\ntorical fact that many Of today s\nbusinessmen we're themselves\nonce victims Of stereotype pref\nudice. Besides, he points out,\nNegroes are a potential fertile\nmarket for all kinds of con-\nsumer goods.\n\n\nProblems of unequal employ\nment are examined in \"a Man\nagement Perspective Toward Ne\ngro Economic Pressures,\" con-\ntributed by Hugh C. Hoffman Of\nOpinion Research Corporation.\nHe describes the steps COM\npanies and Negro groups have\ntaken to end these practices and\nexplains how companies can bring\nabout better understanding of Ne\ngro workers and their problems.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 966,
+                    "y0": 4007,
+                    "x1": 1786,
+                    "y1": 5565
+                }
+            ],
+            "bbox": [
+                966,
+                4007,
+                1786,
+                5565
+            ],
+            "full_article_id": 2,
+            "id": "2_1964-02-21_pna_sn84021918_0041421695A_1964022101_0303.json"
+        },
+        {
+            "object_ids": [
+                17,
+                6
+            ],
+            "headline": "Toboriun Chief Dies in California",
+            "article": "Feb. l3 at Ebeneezer Baptist\nChurch. Rev. J. F. Pierce Of\nficiated,\n\n\nNewford Jones, ST., vice chief\ngrand mentor, assumes grand\nmentor position. He and the chief\npreceptress request mourning\nperiod to end on Mar. 81.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1994,
+                    "y0": 2125,
+                    "x1": 3174,
+                    "y1": 2231
+                },
+                {
+                    "x0": 2732,
+                    "y0": 2247,
+                    "x1": 3534,
+                    "y1": 2725
+                }
+            ],
+            "bbox": [
+                1994,
+                2125,
+                3534,
+                2725
+            ],
+            "full_article_id": 7,
+            "id": "7_1964-02-21_pna_sn84021918_0041421695A_1964022101_0303.json"
+        },
+        {
+            "object_ids": [
+                11,
+                7
+            ],
+            "headline": "jackie Robinson\nto Aid RockefeIIer's\nPolitical Program",
+            "article": "NEW YORK = Jackie Robinson,\nGov. Nelson Rockefeller new\nAmbassador to Negro voters,\nbegan his new duties last week\nby taking verbal swings at Pres\nident Johnson 8 civil rights rec\nord.\n\n\nThe former Brooklyn Dodger\nbaseball star resigned as vice\npresident of the Chock Full\nONuts restaurant chain to serve\nas one Of six deputy directors\nOf the Governor 8 campaign staff.\n\n\nHis immediate task will be to\norganize and supervise nation\nwide network Of special campaign\ncommittees. He will concentrate\non professional. sports, busi-\nness, consumer, and other\ngroups.\n\n\nRobinson said he was \"not con-\nvinced that the fine speeches of\nPresident Johnson provide suf-\nficient balance for the long rec\nord of opposition to meaningful\ncivil rights legislation.\"-\n\n\nIn 1860, Robinson, the first Ne\ngro to play in organized baseball,\ncampaigned for Richard M. Nix\non.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 3609,
+                    "y0": 435,
+                    "x1": 4284,
+                    "y1": 680
+                },
+                {
+                    "x0": 3592,
+                    "y0": 702,
+                    "x1": 4406,
+                    "y1": 2463
+                }
+            ],
+            "bbox": [
+                3592,
+                435,
+                4406,
+                2463
+            ],
+            "full_article_id": 8,
+            "id": "8_1964-02-21_pna_sn84021918_0041421695A_1964022101_0303.json"
+        },
+        {
+            "object_ids": [
+                8
+            ],
+            "headline": "",
+            "article": "William H. Sherrod, chief\ngrand mentor of the Grand Tenn\npies and Tabernacles of the\n\n\nKnights and Daughters of Tabor,\nInternational Order of Twelve,\nCalifornia-Arizona Jurisdiction,\ndied Feb. 4, at San Francisco.\n\n\nFuneral services we're held",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 1832,
+                    "y0": 2276,
+                    "x1": 2646,
+                    "y1": 2765
+                }
+            ],
+            "bbox": [
+                1832,
+                2276,
+                2646,
+                2765
+            ],
+            "full_article_id": 9,
+            "id": "9_1964-02-21_pna_sn84021918_0041421695A_1964022101_0303.json"
+        },
+        {
+            "object_ids": [
+                21
+            ],
+            "headline": "",
+            "article": "The Blazers celebrated Valentine Day with dinner party\nthe Beefeaers Restaurant.\n\n\nSeated Marlene Ovens Mrs bernard Oay'n\nJimmie Arlington, ardge and Mrs. Martyn Mooleton\n\n\nStanding James Williams Elder Bernard LAYTON\nCavton Jerome Williams and Elder ]. P. Middleton.",
+            "byline": "",
+            "bbox_list": [
+                {
+                    "x0": 72,
+                    "y0": 3328,
+                    "x1": 1769,
+                    "y1": 3706
+                }
+            ],
+            "bbox": [
+                72,
+                3328,
+                1769,
+                3706
+            ],
+            "full_article_id": 22,
+            "id": "22_1964-02-21_pna_sn84021918_0041421695A_1964022101_0303.json"
+        }
+    ]
+}
