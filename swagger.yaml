@@ -29,6 +29,8 @@ tags:
     description: "Chat and conversation"
   - name: "RAG"
     description: "Retrieval-Augmented Generation for newspapers"
+  - name: "Poster"
+    description: "RAG-based poster layout generation"
   - name: "Mock"
     description: "Testing and mock endpoints"
 
@@ -312,6 +314,164 @@ paths:
                 type: "integer"
               model:
                 type: "string"
+
+  /api/poster/ingest:
+    post:
+      tags:
+        - "Poster"
+      summary: "Ingest poster layouts"
+      description: "Ingest poster metadata JSON files into vector database"
+      responses:
+        200:
+          description: "Ingestion successful"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              message:
+                type: "string"
+              count:
+                type: "integer"
+                example: 177
+
+  /api/poster/search:
+    post:
+      tags:
+        - "Poster"
+      summary: "Search poster layouts"
+      description: "Search for similar poster layouts using vector similarity"
+      parameters:
+        - name: "body"
+          in: "body"
+          required: true
+          schema:
+            type: "object"
+            required:
+              - "query"
+            properties:
+              query:
+                type: "string"
+                example: "biology research poster"
+              n_results:
+                type: "integer"
+                default: 5
+      responses:
+        200:
+          description: "Search results"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              posters:
+                type: "array"
+                items:
+                  type: "object"
+              count:
+                type: "integer"
+
+  /api/poster/generate:
+    post:
+      tags:
+        - "Poster"
+      summary: "Generate poster layout"
+      description: "Generate poster layout with RAG retrieval and return 4 themed suggestions"
+      parameters:
+        - name: "body"
+          in: "body"
+          required: true
+          schema:
+            type: "object"
+            required:
+              - "query"
+            properties:
+              query:
+                type: "string"
+                example: "scientific poster about climate change"
+              theme:
+                type: "string"
+                default: "blue"
+                example: "blue"
+              return_suggestions:
+                type: "boolean"
+                default: false
+                description: "Return 4 suggestions with different themes"
+      responses:
+        200:
+          description: "Generated poster layout"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              poster_json:
+                type: "object"
+                description: "Poster layout JSON (if return_suggestions=false)"
+              suggestions:
+                type: "array"
+                description: "4 poster suggestions with themes (if return_suggestions=true)"
+                items:
+                  type: "object"
+                  properties:
+                    id:
+                      type: "string"
+                    poster_json:
+                      type: "object"
+                    theme:
+                      type: "string"
+                    similarity_score:
+                      type: "number"
+              theme:
+                type: "string"
+              source:
+                type: "string"
+                enum: ["rag", "default"]
+
+  /api/poster/generate_custom:
+    post:
+      tags:
+        - "Poster"
+      summary: "Generate custom poster layout"
+      description: "Generate custom poster layout using hybrid RAG+algorithmic approach based on user specifications"
+      parameters:
+        - name: "body"
+          in: "body"
+          required: true
+          schema:
+            type: "object"
+            required:
+              - "query"
+            properties:
+              query:
+                type: "string"
+                example: "2 columns 3 rows"
+                description: "Natural language layout specification (columns, rows, sections, images)"
+              theme:
+                type: "string"
+                default: "blue"
+                example: "green"
+      responses:
+        200:
+          description: "Custom generated poster layout"
+          schema:
+            type: "object"
+            properties:
+              success:
+                type: "boolean"
+              poster_json:
+                type: "object"
+                description: "Generated poster layout with precise grid positioning"
+              theme:
+                type: "string"
+              source:
+                type: "string"
+                enum: ["llm_generated", "default"]
+              reference_count:
+                type: "integer"
+                description: "Number of RAG-retrieved reference layouts used"
+        400:
+          description: "Query is required"
 
   /api/mock/stream_report:
     get:
