@@ -19,7 +19,7 @@ class PosterLLMService:
         
     def parse_user_requirements(self, query: str) -> Dict[str, Any]:
         """
-        Parse user query to extract layout requirements
+        Use LLM to parse user query and extract layout requirements
         
         Args:
             query: User's layout description
@@ -27,37 +27,76 @@ class PosterLLMService:
         Returns:
             Dictionary with parsed requirements
         """
-        requirements = {
-            'columns': None,
-            'rows': None,
-            'sections': None,
-            'images': None,
-            'grid': False
-        }
+        from ..llm.llm_service import LLMService
         
-        # Extract columns
-        col_match = re.search(r'(\d+)\s*column', query.lower())
-        if col_match:
-            requirements['columns'] = int(col_match.group(1))
-            requirements['grid'] = True
+        llm = LLMService()
+        
+        prompt = f"""Analyze this poster layout request and extract the structure.
+
+User request: "{query}"
+
+Determine:
+1. Grid layout: How many columns and rows for content sections (NOT including title)
+2. Total sections needed (excluding title)
+3. Number of image sections desired
+4. Layout style (scientific, conference, business, creative)
+
+IMPORTANT: 
+- Title is ALWAYS separate (full-width header)
+- Only count content sections in grid
+- Recognize patterns: "3*2", "3x2", "3 by 2", "3 column 2 row" all mean 3 columns, 2 rows
+- If no specific grid mentioned, suggest best professional layout
+
+Return ONLY valid JSON:
+{{
+  "columns": 3,
+  "rows": 2,
+  "total_sections": 6,
+  "images": 2,
+  "style": "scientific",
+  "has_title": true,
+  "description": "3x2 grid with title header"
+}}"""
+
+        try:
+            response = llm.generate(prompt).strip()
             
-        # Extract rows
-        row_match = re.search(r'(\d+)\s*row', query.lower())
-        if row_match:
-            requirements['rows'] = int(row_match.group(1))
-            requirements['grid'] = True
+            # Clean response
+            if '```' in response:
+                response = response.split('```')[1]
+                if response.startswith('json'):
+                    response = response[4:]
             
-        # Extract number of sections
-        section_match = re.search(r'(\d+)\s*section', query.lower())
-        if section_match:
-            requirements['sections'] = int(section_match.group(1))
+            result = json.loads(response)
             
-        # Extract number of images
-        image_match = re.search(r'(\d+)\s*image', query.lower())
-        if image_match:
-            requirements['images'] = int(image_match.group(1))
+            # Validate and set defaults
+            requirements = {
+                'columns': result.get('columns', 2),
+                'rows': result.get('rows', 2),
+                'sections': result.get('total_sections'),
+                'images': result.get('images', 0),
+                'grid': True,  # Always use grid for LLM-generated layouts
+                'style': result.get('style', 'scientific'),
+                'has_title': result.get('has_title', True),
+                'description': result.get('description', '')
+            }
             
-        return requirements
+            logger.info(f"LLM parsed requirements: {requirements}")
+            return requirements
+            
+        except Exception as e:
+            logger.error(f"Error parsing with LLM: {e}")
+            # Fallback to default
+            return {
+                'columns': 2,
+                'rows': 2,
+                'sections': 4,
+                'images': 1,
+                'grid': True,
+                'style': 'scientific',
+                'has_title': True,
+                'description': 'Default 2x2 grid'
+            }
     
     def calculate_grid_positions(self, cols: int, rows: int, 
                                  width: int = None, height: int = None) -> List[Dict]:
@@ -76,18 +115,24 @@ class PosterLLMService:
         width = width or self.default_width
         height = height or self.default_height
         
-        # Add padding
-        padding = 10
-        cell_width = (width - (cols + 1) * padding) / cols
-        cell_height = (height - (rows + 1) * padding) / rows
+        # Add padding and minimum gap between containers
+        padding = 20  # Increased from 10 for better spacing
+        min_gap = 15  # Minimum gap between containers
+        
+        # Calculate available space
+        available_width = width - (2 * padding) - ((cols - 1) * min_gap)
+        available_height = height - (2 * padding) - ((rows - 1) * min_gap)
+        
+        cell_width = available_width / cols
+        cell_height = available_height / rows
         
         positions = []
         section_id = 0
         
         for row in range(rows):
             for col in range(cols):
-                x = padding + col * (cell_width + padding)
-                y = padding + row * (cell_height + padding)
+                x = padding + col * (cell_width + min_gap)
+                y = padding + row * (cell_height + min_gap)
                 
                 positions.append({
                     'id': str(section_id),
@@ -106,23 +151,45 @@ class PosterLLMService:
         Generate poster JSON from grid specifications
         
         Args:
-            cols: Number of columns
-            rows: Number of rows
+            cols: Number of columns for content
+            rows: Number of rows for content
             requirements: Additional requirements (images, sections, etc.)
             
         Returns:
-            Poster JSON
+            Poster JSON with title + grid layout
         """
-        positions = self.calculate_grid_positions(cols, rows)
+        poster_json = {"section": {}}
+        
+        # Section 0: Full-width title (separate from grid)
+        poster_json["section"]["0"] = {
+            "category": "title",
+            "title": "Your Poster Title",
+            "xy": [0, 0, self.default_width, 80]  # Full width, 80px height
+        }
+        
+        # Calculate grid positions for content sections (below title)
+        title_height = 80
+        content_start_y = title_height + 10  # 10px gap after title
+        available_height = self.default_height - title_height - 10
+        
+        positions = self.calculate_grid_positions(
+            cols, rows, 
+            width=self.default_width, 
+            height=available_height
+        )
+        
+        # Adjust Y positions to account for title
+        for pos in positions:
+            pos['y'] += content_start_y
         
         # Determine section categories
         total_sections = len(positions)
         categories = self._assign_categories(total_sections, requirements)
         
-        poster_json = {"section": {}}
-        
+        # Add content sections (starting from index 1)
         for i, pos in enumerate(positions):
-            poster_json["section"][str(i)] = {
+            section_id = i + 1  # Start from 1 (0 is title)
+            poster_json["section"][str(section_id)] = {
                 "category": categories[i],
                 "title": f"{categories[i].capitalize()} content",
                 "xy": [pos['x'], pos['y'], pos['width'], pos['height']]
@@ -131,28 +198,24 @@ class PosterLLMService:
         return poster_json
     
     def _assign_categories(self, total: int, requirements: Dict = None) -> List[str]:
-        """Assign section categories based on requirements"""
+        """Assign section categories based on requirements (title is separate)"""
         categories = []
-        
-        # First section is always title
-        categories.append("title")
-        remaining = total - 1
         
         # Determine image vs text sections
         num_images = 0
         if requirements and requirements.get('images'):
-            num_images = min(requirements['images'], remaining)
+            num_images = min(requirements['images'], total)
         else:
-            # Default: 40% images
-            num_images = int(remaining * 0.4)
+            # Default: 30% images
+            num_images = int(total * 0.3)
             
         # Add image sections
         for _ in range(num_images):
             categories.append("image")
             
         # Fill remaining with text sections
-        text_categories = ["introduction", "methods", "results", "conclusion", "references"]
-        remaining_text = remaining - num_images
+        text_categories = ["introduction", "methods", "results", "discussion", "conclusion", "references"]
+        remaining_text = total - num_images
         
         for i in range(remaining_text):
             cat = text_categories[i % len(text_categories)]

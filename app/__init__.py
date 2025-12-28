@@ -78,7 +78,7 @@ def create_app(config_class=Config):
         return response
     
     # Register blueprints
-    from .routes import health_routes, file_routes, generation_routes, chat_routes, mock_routes, rag_routes, poster_routes
+    from .routes import health_routes, file_routes, generation_routes, chat_routes, mock_routes, rag_routes, poster_routes, infographic_routes
     
     app.register_blueprint(health_routes.bp)
     app.register_blueprint(file_routes.bp)
@@ -87,8 +87,11 @@ def create_app(config_class=Config):
     app.register_blueprint(mock_routes.bp)
     app.register_blueprint(rag_routes.rag_bp)  # RAG routes
     app.register_blueprint(poster_routes.bp)  # Poster routes
+    app.register_blueprint(infographic_routes.infographic_bp)  # Infographic routes
     
     print("✅ RAG routes registered at /api/rag/*")
     print("✅ Poster routes registered at /api/poster/*")
+    print("✅ Infographic routes registered at /api/infographic/*")
+
     
     return app
