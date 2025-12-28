@@ -122,3 +122,25 @@ def stream_mock_report():
             yield f'data: {json.dumps({"type": "error", "error": str(e)})}\n\n'
     
     return Response(generate(), mimetype='text/event-stream')
+
+@bp.route('/infographic_svg', methods=['GET'])
+def get_infographic_svg():
+    """Serve physics infographic SVG for visualization."""
+    try:
+        svg_path = os.path.join(MOCK_DIR, 'physics_infographic.svg')
+        return send_file(
+            svg_path, 
+            mimetype='image/svg+xml',
+            as_attachment=False,
+            download_name='physics_infographic.svg'
+        )
+    except FileNotFoundError:
+        return jsonify({
+            'success': False,
+            'error': 'SVG file not found'
+        }), 404
+    except Exception as e:
+        return jsonify({
+            'success': False,
+            'error': str(e)
+        }), 500
